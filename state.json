@@ -1,5 +1,28 @@
 {
-  "tasks": [],
-  "version": 1,
-  "updated": "2026-05-26T08:23:58.586927+00:00"
+  "tasks": [
+    {
+      "source": "TASKS",
+      "id": 100,
+      "row": 47,
+      "label": "Email Genevieve",
+      "aw": 3,
+      "uid": "TASKS:100"
+    },
+    {
+      "source": "TASKS",
+      "id": 101,
+      "row": 48,
+      "label": "Order slider bins",
+      "aw": 4,
+      "uid": "TASKS:101"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 5,
+      "label": "One-off: vacuum stairs",
+      "uid": "SPIN_WHEEL:5"
+    }
+  ],
+  "version": 2,
+  "updated": "2026-05-26T08:24:00.237507+00:00"
 }
