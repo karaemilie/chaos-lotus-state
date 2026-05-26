@@ -13,6 +13,14 @@
       "label": "Refill test C — clear desk pile",
       "uid": "SPIN_WHEEL:99",
       "_ts": "2026-05-26T09:23:03.525Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 101,
+      "row": 48,
+      "label": "Order slider bins",
+      "uid": "TASKS:101",
+      "_ts": "2026-05-26T09:33:41.307Z"
     }
   ],
   "adds": [
@@ -29,9 +37,9 @@
       "_ts": "2026-05-26T09:22:52.130Z"
     }
   ],
-  "mirroredAt": "2026-05-26T09:33:02.496Z",
+  "mirroredAt": "2026-05-26T09:33:41.524Z",
   "counts": {
-    "completions": 2,
+    "completions": 3,
     "adds": 2
   }
 }
