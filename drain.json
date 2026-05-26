@@ -1,0 +1,37 @@
+{
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 5,
+      "label": "One-off: vacuum stairs",
+      "uid": "SPIN_WHEEL:5",
+      "_ts": "2026-05-26T09:07:14.389Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 99,
+      "label": "Refill test C — clear desk pile",
+      "uid": "SPIN_WHEEL:99",
+      "_ts": "2026-05-26T09:23:03.525Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "New test",
+      "_addedAt": "2026-05-26T09:09:03.153Z",
+      "_ts": "2026-05-26T09:08:58.423Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "New new test",
+      "_addedAt": "2026-05-26T09:22:56.957Z",
+      "_ts": "2026-05-26T09:22:52.130Z"
+    }
+  ],
+  "mirroredAt": "2026-05-26T09:33:02.496Z",
+  "counts": {
+    "completions": 2,
+    "adds": 2
+  }
+}
