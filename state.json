@@ -21,8 +21,30 @@
       "row": 5,
       "label": "One-off: vacuum stairs",
       "uid": "SPIN_WHEEL:5"
+    },
+    {
+      "source": "TASKS",
+      "id": 500,
+      "row": 50,
+      "label": "Refill test A \u2014 eye drops 3x today",
+      "aw": 3,
+      "uid": "TASKS:500"
+    },
+    {
+      "source": "TASKS",
+      "id": 501,
+      "row": 51,
+      "label": "Refill test B \u2014 confirm fridge order",
+      "aw": 4,
+      "uid": "TASKS:501"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 99,
+      "label": "Refill test C \u2014 clear desk pile",
+      "uid": "SPIN_WHEEL:99"
     }
   ],
-  "version": 2,
-  "updated": "2026-05-26T08:24:00.237507+00:00"
+  "version": 3,
+  "updated": "2026-05-26T09:11:01.967610+00:00"
 }
