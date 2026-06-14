@@ -1,9 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 71,
+      "floor": "Digital",
+      "label": "💻 AmazonCart",
+      "uid": "ZONES:Digital:71",
+      "_ts": "2026-06-14T10:05:28.426Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-14T09:48:31.148Z",
+  "mirroredAt": "2026-06-14T10:05:28.648Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
