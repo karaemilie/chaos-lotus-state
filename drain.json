@@ -15,12 +15,20 @@
       "label": "👱‍♀️ Retainer",
       "uid": "ZONES:Personal:91",
       "_ts": "2026-06-14T10:05:36.694Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 65,
+      "floor": "Maintenance",
+      "label": "🏠 Wash my sheet",
+      "uid": "ZONES:Maintenance:65",
+      "_ts": "2026-06-14T10:05:45.647Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-14T10:05:36.932Z",
+  "mirroredAt": "2026-06-14T10:05:45.854Z",
   "counts": {
-    "completions": 2,
+    "completions": 3,
     "adds": 0
   }
 }
