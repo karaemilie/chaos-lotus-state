@@ -41,10 +41,17 @@
       "_ts": "2026-06-14T10:06:04.279Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-06-14T10:06:04.592Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Investigate .xls on GitHub",
+      "_addedAt": "2026-06-14T10:09:09.436Z",
+      "_ts": "2026-06-14T10:09:09.684Z"
+    }
+  ],
+  "mirroredAt": "2026-06-14T10:09:09.931Z",
   "counts": {
     "completions": 5,
-    "adds": 0
+    "adds": 1
   }
 }
