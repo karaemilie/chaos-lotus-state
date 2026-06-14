@@ -31,12 +31,20 @@
       "label": "🏠 Clean bathroom mirrors",
       "uid": "ZONES:Maintenance:64",
       "_ts": "2026-06-14T10:05:53.071Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 80,
+      "floor": "Plant",
+      "label": "🌱 Kitchen Up High",
+      "uid": "ZONES:Plant:80",
+      "_ts": "2026-06-14T10:06:04.279Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-14T10:05:53.290Z",
+  "mirroredAt": "2026-06-14T10:06:04.592Z",
   "counts": {
-    "completions": 4,
+    "completions": 5,
     "adds": 0
   }
 }
