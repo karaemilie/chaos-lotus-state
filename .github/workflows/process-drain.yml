@@ -9,6 +9,11 @@ on:
       - 'drain.json'
   workflow_dispatch:
 
+# Grant write permission to the workflow's default GITHUB_TOKEN
+# (Defaults to read-only since 2023 — must opt in.)
+permissions:
+  contents: write
+
 # Concurrency: if a new run starts while one is in progress, queue it.
 # Don't cancel — we want to process every batch (the new state of drain.json
 # will be picked up by the queued run).
