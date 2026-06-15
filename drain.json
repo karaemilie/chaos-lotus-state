@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 10,
+      "label": "Bathroom knos",
+      "uid": "SPIN_WHEEL:10",
+      "_ts": "2026-06-15T08:31:48.287Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-15T05:57:13.287Z",
+  "mirroredAt": "2026-06-15T08:31:48.502Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
