@@ -303,13 +303,16 @@ def save_state_json(state, sha, commit_msg):
     return status, result
 
 
-def apply_refills(wb, processed_completions, today):
+def apply_refills(wb, processed_completions, today, pending_uids=None):
     """For each processed completion, remove it from state.json and add a fresh
     item in the same category. Returns (refill_summary, ok).
 
     processed_completions: list of the drain completion dicts that were
     successfully stamped/deleted this run.
+    pending_uids: uids of completions still queued for Claude's engine (tapped
+    but not yet finalized) — excluded from refill so they don't resurface.
     """
+    pending_uids = pending_uids or set()
     try:
         import chaos_kv_refill as refill
     except ImportError:
@@ -327,15 +330,31 @@ def apply_refills(wb, processed_completions, today):
     # 1. Remove completed items from the wheel
     tasks = [t for t in tasks if t.get("uid") not in completed_uids]
 
-    # 2. For each completion, compute a replacement (skip spin — by design)
+    # 2. For each completion, compute a replacement (skip spin — by design).
+    #    CRITICAL: exclude the just-completed uids AND their parent-task ids from
+    #    eligibility, so a task you just finished can't immediately reappear.
     on_wheel = {t.get("uid") for t in tasks}
+    # Build exclusion set covering all uid shapes a completed task could match:
+    # its own uid, plus the cross-source forms (a completed COURAGE:123:0 must
+    # also block TASKS:123, and vice-versa).
+    just_done = set(completed_uids)
+    for c in processed_completions:
+        pid = c.get("parentId") or c.get("id")
+        if pid is not None:
+            just_done.add(f"TASKS:{pid}")
+            just_done.add(f"COURAGE:{pid}:0")
+    exclude = on_wheel | just_done | set(pending_uids)
     summary = []
     for comp in processed_completions:
         src = comp.get("source")
-        new_item = refill.refill_for(src, wb, comp, on_wheel, today)
+        new_item = refill.refill_for(src, wb, comp, exclude, today)
         if new_item:
             tasks.append(new_item)
-            on_wheel.add(new_item["uid"])
+            exclude.add(new_item["uid"])
+            pid2 = new_item.get("parentId") or new_item.get("id")
+            if pid2 is not None:
+                exclude.add(f"TASKS:{pid2}")
+                exclude.add(f"COURAGE:{pid2}:0")
             summary.append(f"{src}: +{new_item['label'][:40]}")
         elif src != "SPIN_WHEEL":
             summary.append(f"{src}: (none eligible)")
@@ -480,10 +499,21 @@ def main():
         result = save_beast(new_beast_bytes, beast_sha, commit_msg)
         print(f"   Committed: {result['commit']['sha'][:12]}")
 
+    # Uids of everything still queued for Claude (TASKS/COURAGE not finalized) —
+    # exclude these from refill so a tapped-but-unprocessed task can't resurface.
+    pending_queue_uids = {c.get("uid") for c in other_completions}
+    # also block their parent-id cross-forms
+    for c in other_completions:
+        pid = c.get("parentId") or c.get("id")
+        if pid is not None:
+            pending_queue_uids.add(f"TASKS:{pid}")
+            pending_queue_uids.add(f"COURAGE:{pid}:0")
+
+    if processed_uids:
         # 5b. AUTO-REFILL: remove completed from wheel, add fresh items
         print(f"\n🔄 Refilling wheel...")
         today_ak = alaska_stamp_date().date()
-        refill_summary, refill_ok = apply_refills(wb, processed_comps, today_ak)
+        refill_summary, refill_ok = apply_refills(wb, processed_comps, today_ak, pending_uids=pending_queue_uids)
         for line in refill_summary:
             print(f"   {line}")
 
@@ -504,7 +534,9 @@ def main():
                 print(f"   ⚠️  couldn't load beast for refill: {e}")
                 wb_refill = None
         if wb_refill is not None:
-            ro_summary, _ = apply_refills(wb_refill, refill_only, alaska_stamp_date().date())
+            # exclude OTHER pending items (not the ones we're refilling now)
+            others_pending = {c.get("uid") for c in other_completions if c.get("_refilled")}
+            ro_summary, _ = apply_refills(wb_refill, refill_only, alaska_stamp_date().date(), pending_uids=others_pending)
             for line in ro_summary:
                 print(f"   {line}")
 
