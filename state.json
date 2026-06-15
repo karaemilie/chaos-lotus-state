@@ -255,6 +255,7 @@
       "floor": "Upstairs",
       "row": 9,
       "label": "\ud83e\uddfa My Bedroom",
+      "emoji": "\ud83e\uddfa",
       "zoneName": "My Bedroom",
       "uid": "ZONES:Upstairs:9"
     },
@@ -263,6 +264,7 @@
       "floor": "Main Floor",
       "row": 23,
       "label": "\ud83e\uddfa Mudroom",
+      "emoji": "\ud83e\uddfa",
       "zoneName": "Mudroom",
       "uid": "ZONES:Main Floor:23"
     },
@@ -271,6 +273,7 @@
       "floor": "Basement",
       "row": 47,
       "label": "\ud83e\uddfa Basement Foyer",
+      "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Foyer",
       "uid": "ZONES:Basement:47"
     },
@@ -279,6 +282,7 @@
       "floor": "Digital",
       "row": 68,
       "label": "\ud83d\udcbb Quicken",
+      "emoji": "\ud83d\udcbb",
       "zoneName": "Quicken",
       "uid": "ZONES:Digital:68"
     },
@@ -287,6 +291,7 @@
       "floor": "Plant",
       "row": 81,
       "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
       "zoneName": "Hallway",
       "uid": "ZONES:Plant:81"
     },
@@ -295,6 +300,7 @@
       "floor": "Plant",
       "row": 74,
       "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
       "zoneName": "Bedroom",
       "uid": "ZONES:Plant:74"
     },
@@ -303,6 +309,7 @@
       "floor": "Personal",
       "row": 82,
       "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Exfoliation",
       "uid": "ZONES:Personal:82"
     },
@@ -311,6 +318,7 @@
       "floor": "Personal",
       "row": 83,
       "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Dermaplane",
       "uid": "ZONES:Personal:83"
     },
@@ -318,6 +326,7 @@
       "source": "MAINTENANCE",
       "row": 66,
       "label": "\ud83c\udfe0 Wash towels",
+      "emoji": "\ud83c\udfe0",
       "taskName": "Wash towels",
       "uid": "MAINTENANCE:66"
     },
@@ -325,6 +334,7 @@
       "source": "MAINTENANCE",
       "row": 67,
       "label": "\ud83c\udfe0 Wax the table",
+      "emoji": "\ud83c\udfe0",
       "taskName": "Wax the table",
       "uid": "MAINTENANCE:67"
     },
@@ -333,6 +343,7 @@
       "id": 10004,
       "row": 2,
       "label": "\ud83d\udcb8 Watch one faceless affiliate marketing YouTube video, jot 3 takeaways",
+      "emoji": "\ud83d\udcb8",
       "aw": 5,
       "specialZone": "Business",
       "uid": "TASKS:10004"
@@ -342,6 +353,7 @@
       "id": 10365,
       "row": 134,
       "label": "\ud83d\udc38 Submit Bentley's PFD form to TCU \ud83d\udcdd",
+      "emoji": "\ud83d\udc38",
       "aw": 2,
       "specialZone": "Frog",
       "uid": "TASKS:10365"
@@ -455,8 +467,8 @@
       "uid": "SPIN_WHEEL:19"
     }
   ],
-  "version": 6,
-  "updated": "2026-06-15T02:47:46.352301+00:00",
+  "version": 7,
+  "updated": "2026-06-15T03:47:11.064303+00:00",
   "buckets": {
     "TASKS": 12,
     "COURAGE": 10,
