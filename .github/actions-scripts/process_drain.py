@@ -385,6 +385,66 @@ def apply_refills(wb, processed_completions, today, pending_uids=None):
         return summary, False, reset_floors
 
 
+def finalize_task_completions(comps):
+    """Finalize TASKS + COURAGE completions in the Beast via the canonical
+    process_completions engine (single source of truth — co-located in this
+    repo, so the Action always runs the current version).
+
+    COURAGE:{parentId}:0 and TASKS:{id} both resolve to a TASKS row by ID;
+    completing a courage item completes its parent task. Returns
+    (results_dict_or_None, ok).
+    """
+    if not comps:
+        return None, True
+    try:
+        import process_completions as pcmod
+    except ImportError:
+        print("   ⚠️  process_completions engine not importable — leaving TASKS/COURAGE queued")
+        return None, False
+
+    # Resolve each uid to a parent TASKS id
+    ids = []
+    for c in comps:
+        uid = c.get("uid", "")
+        if c.get("source") == "TASKS":
+            tid = c.get("id")
+            if tid is None and uid.startswith("TASKS:"):
+                try: tid = int(uid.split(":")[1])
+                except (IndexError, ValueError): tid = None
+            if tid is not None: ids.append(tid)
+        elif c.get("source") == "COURAGE":
+            pid = c.get("parentId")
+            if pid is None and uid.startswith("COURAGE:"):
+                try: pid = int(uid.split(":")[1])
+                except (IndexError, ValueError): pid = None
+            if pid is not None: ids.append(pid)
+    if not ids:
+        return None, True
+
+    print(f"\n📜 Finalizing {len(ids)} TASKS/COURAGE completion(s) via engine: {ids}")
+    beast_bytes, sha = load_beast()
+    wb = load_workbook(io.BytesIO(beast_bytes))
+    results = pcmod.process_completions(wb, ids)
+
+    for tid, name in results.get("completed", []):
+        print(f"   ✅ {name[:45]} → COMPLETED")
+    for nid, name, nxt in results.get("recurred", []):
+        print(f"   🔄 recurring next: {name[:35]} → {nxt}")
+    for uid_, name in results.get("unlocked", []):
+        print(f"   🔓 unlocked next-in-seq: {name[:40]}")
+    if results.get("errors"):
+        print(f"   ⚠️  errors: {results['errors']}")
+    if results.get("audit"):
+        print(f"   🔴 AUDIT PROBLEMS: {results['audit']} — NOT saving, leaving queued")
+        return results, False  # do not save a beast that failed audit
+
+    # Save beast back
+    buf = io.BytesIO(); wb.save(buf)
+    save_beast(buf.getvalue(), sha, f"🤖 Auto-finalize: {len(results.get('completed',[]))} TASKS/COURAGE → COMPLETED")
+    print("   🐝 Beast updated with finalized completions")
+    return results, True
+
+
 def write_sync_receipt(processed_uids, processed_details, remaining_completions, remaining_adds):
     """Write a token-free verification breadcrumb to the PUBLIC state repo.
 
@@ -524,14 +584,14 @@ def main():
         for line in refill_summary:
             print(f"   {line}")
 
-    # 5c. REFILL-ONLY for TASKS/COURAGE: these completions stay queued for
-    # Claude (sacred completion engine), but we refill the wheel slot NOW so
-    # the wheel feels instant. We do NOT mark them done or remove from drain.
-    refill_only = [c for c in other_completions
-                   if c.get("source") in ("TASKS", "COURAGE") and not c.get("_refilled")]
+    # 5c. TASKS/COURAGE: refill the wheel slot instantly, THEN finalize the
+    # completion in the Beast via the canonical engine (single source of truth).
+    # If finalize succeeds, the uid becomes fully processed (cleared from drain
+    # + KV). If it fails (audit/error), it stays queued for Claude as a fallback.
+    tc_comps = [c for c in other_completions if c.get("source") in ("TASKS", "COURAGE")]
+    refill_only = [c for c in tc_comps if not c.get("_refilled")]
     if refill_only:
-        print(f"\n🔄 Instant-refill for {len(refill_only)} TASKS/COURAGE (completion stays queued for Claude):")
-        # Need a beast to pick replacements — load if not already loaded
+        print(f"\n🔄 Instant-refill for {len(refill_only)} TASKS/COURAGE:")
         wb_refill = wb
         if wb_refill is None:
             try:
@@ -541,12 +601,21 @@ def main():
                 print(f"   ⚠️  couldn't load beast for refill: {e}")
                 wb_refill = None
         if wb_refill is not None:
-            # exclude OTHER pending items (not the ones we're refilling now)
             others_pending = {c.get("uid") for c in other_completions if c.get("_refilled")}
             ro_summary, _, reset_floors_b = apply_refills(wb_refill, refill_only, alaska_stamp_date().date(), pending_uids=others_pending)
             for line in ro_summary:
                 print(f"   {line}")
             all_reset_floors += reset_floors_b
+
+    # Now finalize ALL pending TASKS/COURAGE in the Beast (including any from
+    # prior runs that were refilled but not yet finalized).
+    fin_results, fin_ok = finalize_task_completions(tc_comps)
+    if fin_ok and tc_comps:
+        # mark these uids as fully processed so they're cleared + removed from drain
+        for c in tc_comps:
+            u = c.get("uid")
+            if u and u not in processed_uids:
+                processed_uids.append(u)
 
     # 6. Determine what to clear from KV:
     #    - everything we just processed
