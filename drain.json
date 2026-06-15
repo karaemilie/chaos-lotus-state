@@ -6,37 +6,12 @@
       "label": "Bathroom knos",
       "uid": "SPIN_WHEEL:10",
       "_ts": "2026-06-15T08:31:48.287Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 82,
-      "floor": "Personal",
-      "label": "👱‍♀️ Face Exfoliation",
-      "uid": "ZONES:Personal:82",
-      "_ts": "2026-06-15T20:57:55.084Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 83,
-      "floor": "Personal",
-      "label": "👱‍♀️ Dermaplane",
-      "uid": "ZONES:Personal:83",
-      "_ts": "2026-06-15T20:58:01.581Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 83,
-      "zid": 82,
-      "floor": "Personal",
-      "label": "👱‍♀️ Dermaplane",
-      "uid": "ZONES:82",
-      "_ts": "2026-06-15T23:54:47.047Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-15T23:54:47.457Z",
+  "mirroredAt": "2026-06-15T23:55:01.945Z",
   "counts": {
-    "completions": 4,
+    "completions": 1,
     "adds": 0
   }
 }
