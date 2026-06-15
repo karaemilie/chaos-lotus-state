@@ -279,6 +279,88 @@ def process_spin_wheel_completions(wb, comps):
     return processed, msgs
 
 
+def load_state_json():
+    """Load state.json from THIS repo (chaos-lotus-state) via github API.
+    Returns (state_dict, sha) or (None, None) if missing."""
+    status, meta = gh("GET", "/repos/karaemilie/chaos-lotus-state/contents/state.json?ref=main")
+    if status != 200:
+        return None, None
+    import base64
+    return json.loads(base64.b64decode(meta["content"])), meta["sha"]
+
+
+def save_state_json(state, sha, commit_msg):
+    """Save state.json back to chaos-lotus-state repo."""
+    import base64
+    body = {
+        "message": commit_msg,
+        "content": base64.b64encode(json.dumps(state, indent=2, default=str).encode()).decode(),
+        "branch": "main",
+    }
+    if sha:
+        body["sha"] = sha
+    status, result = gh("PUT", "/repos/karaemilie/chaos-lotus-state/contents/state.json", body)
+    return status, result
+
+
+def apply_refills(wb, processed_completions, today):
+    """For each processed completion, remove it from state.json and add a fresh
+    item in the same category. Returns (refill_summary, ok).
+
+    processed_completions: list of the drain completion dicts that were
+    successfully stamped/deleted this run.
+    """
+    try:
+        import chaos_kv_refill as refill
+    except ImportError:
+        print("   ⚠️  chaos_kv_refill not importable — skipping refill")
+        return [], False
+
+    state, sha = load_state_json()
+    if state is None:
+        print("   ⚠️  state.json not loadable — skipping refill")
+        return [], False
+
+    tasks = state.get("tasks", [])
+    completed_uids = {c.get("uid") for c in processed_completions}
+
+    # 1. Remove completed items from the wheel
+    tasks = [t for t in tasks if t.get("uid") not in completed_uids]
+
+    # 2. For each completion, compute a replacement (skip spin — by design)
+    on_wheel = {t.get("uid") for t in tasks}
+    summary = []
+    for comp in processed_completions:
+        src = comp.get("source")
+        new_item = refill.refill_for(src, wb, comp, on_wheel, today)
+        if new_item:
+            tasks.append(new_item)
+            on_wheel.add(new_item["uid"])
+            summary.append(f"{src}: +{new_item['label'][:40]}")
+        elif src != "SPIN_WHEEL":
+            summary.append(f"{src}: (none eligible)")
+
+    # 3. Write state.json back with bumped version
+    state["tasks"] = tasks
+    state["version"] = state.get("version", 0) + 1
+    state["updated"] = datetime.now(ZoneInfo("UTC")).isoformat()
+    counts = {}
+    for t in tasks:
+        counts[t.get("source", "?")] = counts.get(t.get("source", "?"), 0) + 1
+    state["buckets"] = counts
+
+    status, result = save_state_json(
+        state, sha,
+        f"🔄 Auto-refill: -{len(completed_uids)} done, +{len([s for s in summary if s.startswith(('ZONES','MAINTENANCE','TASKS','COURAGE')) and '+' in s])} fresh"
+    )
+    if status in (200, 201):
+        print(f"   ✅ state.json refilled → version {state['version']}")
+        return summary, True
+    else:
+        print(f"   ⚠️  state.json save failed: HTTP {status}")
+        return summary, False
+
+
 def write_sync_receipt(processed_uids, processed_details, remaining_completions, remaining_adds):
     """Write a token-free verification breadcrumb to the PUBLIC state repo.
 
@@ -350,6 +432,7 @@ def main():
     # 4a. Process ZONE completions
     processed_uids = []
     processed_details = []  # human-readable lines for the public receipt
+    processed_comps = []    # the actual completion dicts that succeeded (for refill)
     if auto_zones and wb:
         print(f"\n🏠 Processing {len(auto_zones)} ZONE completions:")
         for comp in auto_zones:
@@ -358,6 +441,7 @@ def main():
             if ok:
                 processed_uids.append(comp.get("uid"))
                 processed_details.append({"uid": comp.get("uid"), "result": msg.strip()})
+                processed_comps.append(comp)
 
     # 4b. Process MAINTENANCE completions
     if auto_maintenance and wb:
@@ -368,8 +452,9 @@ def main():
             if ok:
                 processed_uids.append(comp.get("uid"))
                 processed_details.append({"uid": comp.get("uid"), "result": msg.strip()})
+                processed_comps.append(comp)
 
-    # 4c. Process SPIN_WHEEL completions (row deletes, descending order)
+    # 4c. Process SPIN_WHEEL completions (ID-based SID delete)
     if auto_spin and wb:
         print(f"\n🎡 Processing {len(auto_spin)} SPIN_WHEEL completions:")
         spin_uids, spin_msgs = process_spin_wheel_completions(wb, auto_spin)
@@ -378,6 +463,10 @@ def main():
         processed_uids.extend(spin_uids)
         for u, m in zip(spin_uids, [x for x in spin_msgs if x.strip().startswith("✅")]):
             processed_details.append({"uid": u, "result": m.strip()})
+        # track spin comps for refill bookkeeping (refill itself skips spin)
+        for comp in auto_spin:
+            if comp.get("uid") in spin_uids:
+                processed_comps.append(comp)
 
     if not processed_uids:
         print("\n⏭️  No auto-completions applied this run")
@@ -390,6 +479,34 @@ def main():
         commit_msg = f"🤖 Auto-process: {len(processed_uids)} completion(s) stamped"
         result = save_beast(new_beast_bytes, beast_sha, commit_msg)
         print(f"   Committed: {result['commit']['sha'][:12]}")
+
+        # 5b. AUTO-REFILL: remove completed from wheel, add fresh items
+        print(f"\n🔄 Refilling wheel...")
+        today_ak = alaska_stamp_date().date()
+        refill_summary, refill_ok = apply_refills(wb, processed_comps, today_ak)
+        for line in refill_summary:
+            print(f"   {line}")
+
+    # 5c. REFILL-ONLY for TASKS/COURAGE: these completions stay queued for
+    # Claude (sacred completion engine), but we refill the wheel slot NOW so
+    # the wheel feels instant. We do NOT mark them done or remove from drain.
+    refill_only = [c for c in other_completions
+                   if c.get("source") in ("TASKS", "COURAGE") and not c.get("_refilled")]
+    if refill_only:
+        print(f"\n🔄 Instant-refill for {len(refill_only)} TASKS/COURAGE (completion stays queued for Claude):")
+        # Need a beast to pick replacements — load if not already loaded
+        wb_refill = wb
+        if wb_refill is None:
+            try:
+                rb_bytes, _ = load_beast()
+                wb_refill = load_workbook(io.BytesIO(rb_bytes))
+            except Exception as e:
+                print(f"   ⚠️  couldn't load beast for refill: {e}")
+                wb_refill = None
+        if wb_refill is not None:
+            ro_summary, _ = apply_refills(wb_refill, refill_only, alaska_stamp_date().date())
+            for line in ro_summary:
+                print(f"   {line}")
 
     # 6. Determine what to clear from KV:
     #    - everything we just processed
@@ -408,8 +525,17 @@ def main():
             print(f"   ⚠️  Worker /clear-uids non-200: {clear_result}")
             print(f"   Beast state is still correct; KV may have ghosts until next run.")
 
-    # 7. Rewrite drain.json — remove processed items, drop pendingClear field
-    new_completions = [c for c in completions if c.get("uid") not in processed_uids]
+    # 7. Rewrite drain.json — remove processed items, drop pendingClear field.
+    #    TASKS/COURAGE that we refilled this run get a `_refilled` flag so the
+    #    next run won't refill them again (they stay queued for Claude's engine).
+    refilled_uids = {c.get("uid") for c in refill_only}
+    new_completions = []
+    for c in completions:
+        if c.get("uid") in processed_uids:
+            continue  # fully done — drop
+        if c.get("uid") in refilled_uids:
+            c = {**c, "_refilled": True}  # mark so we don't double-refill
+        new_completions.append(c)
     new_drain = {
         **drain,
         "completions": new_completions,
