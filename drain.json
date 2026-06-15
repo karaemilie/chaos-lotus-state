@@ -2,25 +2,9 @@
   "completions": [
     {
       "source": "ZONES",
-      "row": 71,
-      "floor": "Digital",
-      "label": "💻 AmazonCart",
-      "uid": "ZONES:Digital:71",
-      "_ts": "2026-06-14T10:05:28.426Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 91,
-      "floor": "Personal",
-      "label": "👱‍♀️ Retainer",
-      "uid": "ZONES:Personal:91",
-      "_ts": "2026-06-14T10:05:36.694Z"
-    },
-    {
-      "source": "ZONES",
       "row": 65,
       "floor": "Maintenance",
-      "label": "🏠 Wash my sheet",
+      "label": "\ud83c\udfe0 Wash my sheet",
       "uid": "ZONES:Maintenance:65",
       "_ts": "2026-06-14T10:05:45.647Z"
     },
@@ -28,17 +12,9 @@
       "source": "ZONES",
       "row": 64,
       "floor": "Maintenance",
-      "label": "🏠 Clean bathroom mirrors",
+      "label": "\ud83c\udfe0 Clean bathroom mirrors",
       "uid": "ZONES:Maintenance:64",
       "_ts": "2026-06-14T10:05:53.071Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 80,
-      "floor": "Plant",
-      "label": "🌱 Kitchen Up High",
-      "uid": "ZONES:Plant:80",
-      "_ts": "2026-06-14T10:06:04.279Z"
     },
     {
       "source": "SPIN_WHEEL",
@@ -58,7 +34,7 @@
       "source": "TASKS",
       "id": 11627,
       "row": 399,
-      "label": "Clip & pot new Hoya starts 🪴🌱",
+      "label": "Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
       "uid": "TASKS:11627",
       "_ts": "2026-06-14T23:44:01.126Z"
     }
@@ -81,5 +57,11 @@
   "counts": {
     "completions": 8,
     "adds": 2
-  }
+  },
+  "processedAt": "2026-06-15T02:35:10.576359+00:00",
+  "lastAutoProcessed": [
+    "ZONES:Digital:71",
+    "ZONES:Personal:91",
+    "ZONES:Plant:80"
+  ]
 }
