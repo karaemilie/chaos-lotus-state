@@ -137,32 +137,42 @@ def save_beast(beast_bytes, sha, commit_msg):
 def process_zone_completion(wb, comp, stamp):
     """Stamp a ZONES sheet cell. Returns (ok, message)."""
     floor = comp.get("floor")
-    row = comp.get("row")
-    label = comp.get("label", "?")
-    if not floor or not row:
-        return False, f"  ⚠️  malformed ZONE entry {comp.get('uid')}: missing floor/row"
+    # ID-BASED: uid = ZONES:{zid}. Find the row whose ZID column == zid.
+    uid = comp.get("uid", "")
+    zid = comp.get("zid")
+    if zid is None and uid.startswith("ZONES:"):
+        try:
+            zid = int(uid.split(":")[1])
+        except (IndexError, ValueError):
+            zid = None
+    if zid is None:
+        return False, f"  ⚠️  malformed ZONE entry {uid}: no ZID"
 
     ws = wb["ZONES"]
-    # Find the Completed column via header lookup (schema-safe)
     header = {c.value: i + 1 for i, c in enumerate(ws[1])}
-    if "Completed" not in header:
-        return False, "  ❌ ZONES sheet missing Completed column"
+    if "Completed" not in header or "ZID" not in header:
+        return False, "  ❌ ZONES sheet missing Completed or ZID column"
     completed_col = header["Completed"]
+    zid_col = header["ZID"]
 
-    # Verify row matches the floor and name
-    actual_floor = ws.cell(row, 1).value
-    actual_zone = ws.cell(row, 2).value
-    if actual_floor != floor:
-        return False, f"  ⚠️  row {row} is floor '{actual_floor}', expected '{floor}' — SKIP"
+    # Find the row by ZID (NOT by row number — rows shift, IDs don't)
+    target_row = None
+    for r in range(2, ws.max_row + 1):
+        if ws.cell(r, zid_col).value == zid:
+            target_row = r
+            break
+    if target_row is None:
+        return False, f"  ⚠️  ZID {zid} not found in ZONES — SKIP"
 
-    # Idempotent check: already stamped?
-    existing = ws.cell(row, completed_col).value
+    actual_floor = ws.cell(target_row, header["Floor"]).value
+    actual_zone = ws.cell(target_row, header["Zone"]).value
+
+    existing = ws.cell(target_row, completed_col).value
     if existing is not None:
-        return True, f"  ⏭️  {floor}/{actual_zone} (row {row}) already stamped — skip"
+        return True, f"  ⏭️  {actual_floor}/{actual_zone} (ZID {zid}) already stamped — skip"
 
-    # Stamp it
-    ws.cell(row, completed_col).value = stamp
-    return True, f"  ✅ {floor}/{actual_zone} (row {row}) stamped {stamp.date()}"
+    ws.cell(target_row, completed_col).value = stamp
+    return True, f"  ✅ {actual_floor}/{actual_zone} (ZID {zid}) stamped {stamp.date()}"
 
 
 def process_maintenance_completion(wb, comp, stamp):
@@ -171,26 +181,40 @@ def process_maintenance_completion(wb, comp, stamp):
     MAINTENANCE schema: col 1=Order, col 2=Task, col 3=Completed.
     uid format: MAINTENANCE:{row}
     """
-    row = comp.get("row")
-    label = comp.get("label", "?")
-    if not row:
-        return False, f"  ⚠️  malformed MAINTENANCE entry {comp.get('uid')}: missing row"
+    # ID-BASED: uid = MAINTENANCE:{mid}. Find row whose MID column == mid.
+    uid = comp.get("uid", "")
+    mid = comp.get("mid")
+    if mid is None and uid.startswith("MAINTENANCE:"):
+        try:
+            mid = int(uid.split(":")[1])
+        except (IndexError, ValueError):
+            mid = None
+    if mid is None:
+        return False, f"  ⚠️  malformed MAINTENANCE entry {uid}: no MID"
 
     ws = wb["MAINTENANCE"]
     header = {c.value: i + 1 for i, c in enumerate(ws[1])}
-    if "Completed" not in header:
-        return False, "  ❌ MAINTENANCE sheet missing Completed column"
+    if "Completed" not in header or "MID" not in header:
+        return False, "  ❌ MAINTENANCE sheet missing Completed or MID column"
     completed_col = header["Completed"]
+    mid_col = header["MID"]
+    task_col = header.get("Task", 2)
 
-    actual_task = ws.cell(row, 2).value
+    target_row = None
+    for r in range(2, ws.max_row + 1):
+        if ws.cell(r, mid_col).value == mid:
+            target_row = r
+            break
+    if target_row is None:
+        return False, f"  ⚠️  MID {mid} not found in MAINTENANCE — SKIP"
 
-    # Idempotent check
-    existing = ws.cell(row, completed_col).value
+    actual_task = ws.cell(target_row, task_col).value
+    existing = ws.cell(target_row, completed_col).value
     if existing is not None:
-        return True, f"  ⏭️  MAINTENANCE '{actual_task}' (row {row}) already stamped — skip"
+        return True, f"  ⏭️  MAINTENANCE '{actual_task}' (MID {mid}) already stamped — skip"
 
-    ws.cell(row, completed_col).value = stamp
-    return True, f"  ✅ MAINTENANCE '{actual_task}' (row {row}) stamped {stamp.date()}"
+    ws.cell(target_row, completed_col).value = stamp
+    return True, f"  ✅ MAINTENANCE '{actual_task}' (MID {mid}) stamped {stamp.date()}"
 
 
 def process_spin_wheel_completions(wb, comps):
@@ -204,25 +228,52 @@ def process_spin_wheel_completions(wb, comps):
         return [], ["  ❌ SPIN WHEEL sheet not found — skipping all spin completions"]
 
     ws = wb["SPIN WHEEL"]
+    header = {c.value: i + 1 for i, c in enumerate(ws[1])}
+    if "SID" not in header:
+        return [], ["  ❌ SPIN WHEEL missing SID column — cannot ID-match"]
+    sid_col = header["SID"]
+    task_col = header.get("Task", 1)
     processed = []
     msgs = []
 
-    # Build (row, uid, label) and sort DESCENDING by row before deleting.
-    items = []
+    # ID-BASED: uid = SPIN:{sid}. Resolve each SID to its CURRENT row, then
+    # delete by descending row so shifts don't corrupt remaining deletes.
+    # We resolve rows fresh (not from drain) so prior deletes in THIS batch
+    # are already reflected by re-scanning each time.
+    targets = []  # (sid, uid, label)
     for comp in comps:
-        row = comp.get("row")
-        if not row:
-            msgs.append(f"  ⚠️  malformed SPIN_WHEEL entry {comp.get('uid')}: missing row")
+        uid = comp.get("uid", "")
+        sid = comp.get("sid")
+        if sid is None and uid.startswith("SPIN:"):
+            try:
+                sid = int(uid.split(":")[1])
+            except (IndexError, ValueError):
+                sid = None
+        if sid is None:
+            msgs.append(f"  ⚠️  malformed SPIN entry {uid}: no SID")
             continue
-        items.append((int(row), comp.get("uid"), comp.get("label", "?")))
+        targets.append((sid, uid, comp.get("label", "?")))
 
-    for row, uid, label in sorted(items, key=lambda x: x[0], reverse=True):
-        if row < 1 or row > ws.max_row:
-            msgs.append(f"  ⚠️  SPIN row {row} out of range (max {ws.max_row}) — skip")
+    # Resolve all SIDs to rows FIRST (before any deletes), then delete descending.
+    sid_to_row = {}
+    for r in range(2, ws.max_row + 1):
+        v = ws.cell(r, sid_col).value
+        if v is not None:
+            sid_to_row[v] = r
+
+    resolved = []
+    for sid, uid, label in targets:
+        row = sid_to_row.get(sid)
+        if row is None:
+            msgs.append(f"  ⏭️  SID {sid} not found (already gone?) — clearing uid anyway")
+            processed.append(uid)  # already absent = effectively done
             continue
-        actual = ws.cell(row, 2).value if ws.max_column >= 2 else None
+        resolved.append((row, sid, uid, label))
+
+    for row, sid, uid, label in sorted(resolved, key=lambda x: x[0], reverse=True):
+        actual = ws.cell(row, task_col).value
         ws.delete_rows(row, 1)
-        msgs.append(f"  ✅ SPIN deleted row {row} ('{actual or label}')")
+        msgs.append(f"  ✅ SPIN deleted SID {sid} ('{actual or label}')")
         processed.append(uid)
 
     return processed, msgs
