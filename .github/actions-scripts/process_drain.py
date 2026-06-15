@@ -317,12 +317,12 @@ def apply_refills(wb, processed_completions, today, pending_uids=None):
         import chaos_kv_refill as refill
     except ImportError:
         print("   ⚠️  chaos_kv_refill not importable — skipping refill")
-        return [], False
+        return [], False, []
 
     state, sha = load_state_json()
     if state is None:
         print("   ⚠️  state.json not loadable — skipping refill")
-        return [], False
+        return [], False, []
 
     tasks = state.get("tasks", [])
     completed_uids = {c.get("uid") for c in processed_completions}
@@ -345,10 +345,15 @@ def apply_refills(wb, processed_completions, today, pending_uids=None):
             just_done.add(f"COURAGE:{pid}:0")
     exclude = on_wheel | just_done | set(pending_uids)
     summary = []
+    reset_floors = []  # floors whose Completed dates need a Claude-side reset
     for comp in processed_completions:
         src = comp.get("source")
         new_item = refill.refill_for(src, wb, comp, exclude, today)
         if new_item:
+            # Catch a floor-wrap reset signal (strip it before storing on wheel)
+            rf_floor = new_item.pop("_resetFloor", None)
+            if rf_floor:
+                reset_floors.append(rf_floor)
             tasks.append(new_item)
             exclude.add(new_item["uid"])
             pid2 = new_item.get("parentId") or new_item.get("id")
@@ -374,10 +379,10 @@ def apply_refills(wb, processed_completions, today, pending_uids=None):
     )
     if status in (200, 201):
         print(f"   ✅ state.json refilled → version {state['version']}")
-        return summary, True
+        return summary, True, reset_floors
     else:
         print(f"   ⚠️  state.json save failed: HTTP {status}")
-        return summary, False
+        return summary, False, reset_floors
 
 
 def write_sync_receipt(processed_uids, processed_details, remaining_completions, remaining_adds):
@@ -501,6 +506,7 @@ def main():
 
     # Uids of everything still queued for Claude (TASKS/COURAGE not finalized) —
     # exclude these from refill so a tapped-but-unprocessed task can't resurface.
+    all_reset_floors = []  # floors that wrapped and need a Claude-side reset
     pending_queue_uids = {c.get("uid") for c in other_completions}
     # also block their parent-id cross-forms
     for c in other_completions:
@@ -513,7 +519,8 @@ def main():
         # 5b. AUTO-REFILL: remove completed from wheel, add fresh items
         print(f"\n🔄 Refilling wheel...")
         today_ak = alaska_stamp_date().date()
-        refill_summary, refill_ok = apply_refills(wb, processed_comps, today_ak, pending_uids=pending_queue_uids)
+        refill_summary, refill_ok, reset_floors_a = apply_refills(wb, processed_comps, today_ak, pending_uids=pending_queue_uids)
+        all_reset_floors += reset_floors_a
         for line in refill_summary:
             print(f"   {line}")
 
@@ -536,9 +543,10 @@ def main():
         if wb_refill is not None:
             # exclude OTHER pending items (not the ones we're refilling now)
             others_pending = {c.get("uid") for c in other_completions if c.get("_refilled")}
-            ro_summary, _ = apply_refills(wb_refill, refill_only, alaska_stamp_date().date(), pending_uids=others_pending)
+            ro_summary, _, reset_floors_b = apply_refills(wb_refill, refill_only, alaska_stamp_date().date(), pending_uids=others_pending)
             for line in ro_summary:
                 print(f"   {line}")
+            all_reset_floors += reset_floors_b
 
     # 6. Determine what to clear from KV:
     #    - everything we just processed
@@ -576,6 +584,11 @@ def main():
     }
     if processed_uids:
         new_drain["lastAutoProcessed"] = processed_uids
+    # Floors that wrapped this run need a Claude-side reset (clear Completed dates).
+    if all_reset_floors:
+        existing = set(new_drain.get("resetNeeded", []))
+        new_drain["resetNeeded"] = sorted(existing | set(all_reset_floors))
+        print(f"   🔄 Flagged floors for Claude-side reset: {new_drain['resetNeeded']}")
     # Remove pendingClear field once we've acted on it
     new_drain.pop("pendingClear", None)
 
