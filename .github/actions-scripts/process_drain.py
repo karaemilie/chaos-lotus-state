@@ -43,7 +43,9 @@ DRAIN_PATH = "drain.json"  # in current repo (checkout)
 WORKER_URL = "https://chaos-lotus-kv.theodidact.workers.dev"
 
 # Sources this MVP handles automatically. All others stay queued for Claude.
-AUTO_SOURCES = {"ZONES", "MAINTENANCE"}
+# COURAGE stays manual: it routes a parent task to COMPLETED via the sacred
+# process_completions pipeline, which does not live in the Action's world.
+AUTO_SOURCES = {"ZONES", "MAINTENANCE", "SPIN_WHEEL"}
 
 
 # ─── ALASKA STAMP ────────────────────────────────────────────────
@@ -191,6 +193,66 @@ def process_maintenance_completion(wb, comp, stamp):
     return True, f"  ✅ MAINTENANCE '{actual_task}' (row {row}) stamped {stamp.date()}"
 
 
+def process_spin_wheel_completions(wb, comps):
+    """Delete SPIN WHEEL sheet rows for completed wheel items.
+
+    uid format: SPIN_WHEEL:{row}. Deletes shift everything below up by one,
+    so we MUST delete in descending row order or later deletes hit the wrong
+    rows. Returns (processed_uids, messages).
+    """
+    if "SPIN WHEEL" not in wb.sheetnames:
+        return [], ["  ❌ SPIN WHEEL sheet not found — skipping all spin completions"]
+
+    ws = wb["SPIN WHEEL"]
+    processed = []
+    msgs = []
+
+    # Build (row, uid, label) and sort DESCENDING by row before deleting.
+    items = []
+    for comp in comps:
+        row = comp.get("row")
+        if not row:
+            msgs.append(f"  ⚠️  malformed SPIN_WHEEL entry {comp.get('uid')}: missing row")
+            continue
+        items.append((int(row), comp.get("uid"), comp.get("label", "?")))
+
+    for row, uid, label in sorted(items, key=lambda x: x[0], reverse=True):
+        if row < 1 or row > ws.max_row:
+            msgs.append(f"  ⚠️  SPIN row {row} out of range (max {ws.max_row}) — skip")
+            continue
+        actual = ws.cell(row, 2).value if ws.max_column >= 2 else None
+        ws.delete_rows(row, 1)
+        msgs.append(f"  ✅ SPIN deleted row {row} ('{actual or label}')")
+        processed.append(uid)
+
+    return processed, msgs
+
+
+def write_sync_receipt(processed_uids, processed_details, remaining_completions, remaining_adds):
+    """Write a token-free verification breadcrumb to the PUBLIC state repo.
+
+    Chat-side Claude can read this via raw.githubusercontent.com with no token,
+    so it can confirm 'did my tap file correctly?' without ever touching the
+    private Beast. The Beast stays private; only this summary is public.
+
+    Committed by the workflow yaml alongside drain.json.
+    """
+    receipt = {
+        "lastRun": datetime.now(ZoneInfo("UTC")).isoformat(),
+        "lastRunAlaska": datetime.now(ZoneInfo("America/Anchorage")).strftime("%Y-%m-%d %H:%M %Z"),
+        "processedCount": len(processed_uids),
+        "processed": processed_details,   # list of {uid, result} human-readable
+        "remainingForClaude": {
+            "completions": len(remaining_completions),
+            "adds": len(remaining_adds),
+        },
+    }
+    with open("last_sync.json", "w") as f:
+        json.dump(receipt, f, indent=2)
+    print(f"\n🧾 Sync receipt written: {len(processed_uids)} processed, "
+          f"{len(remaining_completions)} completions + {len(remaining_adds)} adds left for Claude")
+
+
 # ─── MAIN ────────────────────────────────────────────────────────
 def main():
     # 1. Read drain.json from local checkout
@@ -213,9 +275,10 @@ def main():
     # 2. Partition by auto-handleable vs manual
     auto_zones = [c for c in completions if c.get("source") == "ZONES"]
     auto_maintenance = [c for c in completions if c.get("source") == "MAINTENANCE"]
+    auto_spin = [c for c in completions if c.get("source") == "SPIN_WHEEL"]
     other_completions = [c for c in completions if c.get("source") not in AUTO_SOURCES]
 
-    print(f"🔧 Auto-processable: {len(auto_zones)} ZONES, {len(auto_maintenance)} MAINTENANCE")
+    print(f"🔧 Auto-processable: {len(auto_zones)} ZONES, {len(auto_maintenance)} MAINTENANCE, {len(auto_spin)} SPIN_WHEEL")
     print(f"⏸️  Leaving for Claude: {len(other_completions)} other completions, {len(adds)} adds")
 
     if pending_clear_from_chat:
@@ -224,7 +287,7 @@ def main():
     # 3. Load beast ONLY if we have auto-processable completions
     wb = None
     beast_sha = None
-    if auto_zones or auto_maintenance:
+    if auto_zones or auto_maintenance or auto_spin:
         print(f"\n📂 Loading beast from {BEAST_REPO}/{BEAST_FILE}...")
         beast_bytes, beast_sha = load_beast()
         print(f"   {len(beast_bytes)} bytes, SHA {beast_sha[:12]}")
@@ -235,6 +298,7 @@ def main():
 
     # 4a. Process ZONE completions
     processed_uids = []
+    processed_details = []  # human-readable lines for the public receipt
     if auto_zones and wb:
         print(f"\n🏠 Processing {len(auto_zones)} ZONE completions:")
         for comp in auto_zones:
@@ -242,6 +306,7 @@ def main():
             print(msg)
             if ok:
                 processed_uids.append(comp.get("uid"))
+                processed_details.append({"uid": comp.get("uid"), "result": msg.strip()})
 
     # 4b. Process MAINTENANCE completions
     if auto_maintenance and wb:
@@ -251,6 +316,17 @@ def main():
             print(msg)
             if ok:
                 processed_uids.append(comp.get("uid"))
+                processed_details.append({"uid": comp.get("uid"), "result": msg.strip()})
+
+    # 4c. Process SPIN_WHEEL completions (row deletes, descending order)
+    if auto_spin and wb:
+        print(f"\n🎡 Processing {len(auto_spin)} SPIN_WHEEL completions:")
+        spin_uids, spin_msgs = process_spin_wheel_completions(wb, auto_spin)
+        for m in spin_msgs:
+            print(m)
+        processed_uids.extend(spin_uids)
+        for u, m in zip(spin_uids, [x for x in spin_msgs if x.strip().startswith("✅")]):
+            processed_details.append({"uid": u, "result": m.strip()})
 
     if not processed_uids:
         print("\n⏭️  No auto-completions applied this run")
@@ -298,6 +374,9 @@ def main():
         json.dump(new_drain, f, indent=2)
     print(f"\n🧹 Drain rewritten: {len(new_completions)} completions remaining, {len(adds)} adds remaining")
     print(f"   (workflow yaml will commit drain.json change)")
+
+    # 8. Write public sync receipt (token-free verification for chat-side Claude)
+    write_sync_receipt(processed_uids, processed_details, new_completions, adds)
 
 
 if __name__ == "__main__":
