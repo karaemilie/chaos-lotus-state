@@ -1,19 +1,6 @@
 {
   "completions": [],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Investigate .xls on GitHub",
-      "_addedAt": "2026-06-14T10:09:09.436Z",
-      "_ts": "2026-06-14T10:09:09.684Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Schedule a get together with Marjory",
-      "_addedAt": "2026-06-14T23:27:14.191Z",
-      "_ts": "2026-06-14T23:27:14.505Z"
-    }
-  ],
+  "adds": [],
   "mirroredAt": "2026-06-14T23:44:01.347Z",
   "counts": {
     "completions": 8,
@@ -30,6 +17,8 @@
     "ZONES:Maintenance:64",
     "SPIN_WHEEL:7",
     "TASKS:11627",
-    "ZONES:Maintenance:65"
+    "ZONES:Maintenance:65",
+    "PLUS_ADD:Investigate .xls on GitHub (F8 done)",
+    "PLUS_ADD:Marjory \u2192 TASKS:11668"
   ]
 }
