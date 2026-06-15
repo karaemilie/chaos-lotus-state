@@ -33,7 +33,7 @@ BEAST_BRANCH = "main"
 DRAIN_PATH = "drain.json"  # in current repo (checkout)
 
 # Sources this MVP handles automatically. All others stay queued for Claude.
-AUTO_SOURCES = {"ZONES"}
+AUTO_SOURCES = {"ZONES", "MAINTENANCE"}
 
 
 # ─── ALASKA STAMP ────────────────────────────────────────────────
@@ -122,6 +122,34 @@ def process_zone_completion(wb, comp, stamp):
     return True, f"  ✅ {floor}/{actual_zone} (row {row}) stamped {stamp.date()}"
 
 
+def process_maintenance_completion(wb, comp, stamp):
+    """Stamp a MAINTENANCE sheet row.
+
+    MAINTENANCE schema: col 1=Order, col 2=Task, col 3=Completed.
+    uid format: MAINTENANCE:{row}
+    """
+    row = comp.get("row")
+    label = comp.get("label", "?")
+    if not row:
+        return False, f"  ⚠️  malformed MAINTENANCE entry {comp.get('uid')}: missing row"
+
+    ws = wb["MAINTENANCE"]
+    header = {c.value: i + 1 for i, c in enumerate(ws[1])}
+    if "Completed" not in header:
+        return False, "  ❌ MAINTENANCE sheet missing Completed column"
+    completed_col = header["Completed"]
+
+    actual_task = ws.cell(row, 2).value
+
+    # Idempotent check
+    existing = ws.cell(row, completed_col).value
+    if existing is not None:
+        return True, f"  ⏭️  MAINTENANCE '{actual_task}' (row {row}) already stamped — skip"
+
+    ws.cell(row, completed_col).value = stamp
+    return True, f"  ✅ MAINTENANCE '{actual_task}' (row {row}) stamped {stamp.date()}"
+
+
 # ─── MAIN ────────────────────────────────────────────────────────
 def main():
     # 1. Read drain.json from local checkout
@@ -142,12 +170,13 @@ def main():
 
     # 2. Partition by auto-handleable vs manual
     auto_zones = [c for c in completions if c.get("source") == "ZONES"]
-    other_completions = [c for c in completions if c.get("source") != "ZONES"]
+    auto_maintenance = [c for c in completions if c.get("source") == "MAINTENANCE"]
+    other_completions = [c for c in completions if c.get("source") not in AUTO_SOURCES]
 
-    print(f"🔧 Auto-processable: {len(auto_zones)} ZONES")
-    print(f"⏸️  Leaving for Claude: {len(other_completions)} non-ZONES completions, {len(adds)} adds")
+    print(f"🔧 Auto-processable: {len(auto_zones)} ZONES, {len(auto_maintenance)} MAINTENANCE")
+    print(f"⏸️  Leaving for Claude: {len(other_completions)} other completions, {len(adds)} adds")
 
-    if not auto_zones:
+    if not (auto_zones or auto_maintenance):
         print("Nothing to auto-process — leaving drain untouched")
         return
 
@@ -160,14 +189,24 @@ def main():
     stamp = alaska_stamp_date()
     print(f"   Stamp date (Alaska): {stamp.date()}")
 
-    # 4. Process each ZONE completion
-    print(f"\n🏠 Processing {len(auto_zones)} ZONE completions:")
+    # 4a. Process ZONE completions
     processed_uids = []
-    for comp in auto_zones:
-        ok, msg = process_zone_completion(wb, comp, stamp)
-        print(msg)
-        if ok:
-            processed_uids.append(comp.get("uid"))
+    if auto_zones:
+        print(f"\n🏠 Processing {len(auto_zones)} ZONE completions:")
+        for comp in auto_zones:
+            ok, msg = process_zone_completion(wb, comp, stamp)
+            print(msg)
+            if ok:
+                processed_uids.append(comp.get("uid"))
+
+    # 4b. Process MAINTENANCE completions
+    if auto_maintenance:
+        print(f"\n🔧 Processing {len(auto_maintenance)} MAINTENANCE completions:")
+        for comp in auto_maintenance:
+            ok, msg = process_maintenance_completion(wb, comp, stamp)
+            print(msg)
+            if ok:
+                processed_uids.append(comp.get("uid"))
 
     if not processed_uids:
         print("\n❌ No completions actually applied — leaving drain untouched")
