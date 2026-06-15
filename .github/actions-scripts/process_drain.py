@@ -134,19 +134,37 @@ def save_beast(beast_bytes, sha, commit_msg):
 
 
 # ─── ZONE PROCESSING ─────────────────────────────────────────────
+def _uid_tail_int(uid, prefix):
+    """Extract the trailing integer id from a uid, tolerant of how many
+    colon-segments sit between the prefix and the id.
+
+    Canonical forms are 2-part (ZONES:9, MAINTENANCE:4, SPIN:7), but an older
+    front-end emitted 3-part ZONES:{floor}:{row} (e.g. 'ZONES:Personal:82').
+    Taking the LAST segment as the id handles both without choking, so a
+    format drift can never again silently jam the drain. Returns int or None.
+    """
+    if not uid or not uid.startswith(prefix + ":"):
+        return None
+    last = uid.split(":")[-1]
+    try:
+        return int(last)
+    except (TypeError, ValueError):
+        return None
+
+
 def process_zone_completion(wb, comp, stamp):
     """Stamp a ZONES sheet cell. Returns (ok, message)."""
     floor = comp.get("floor")
     # ID-BASED: uid = ZONES:{zid}. Find the row whose ZID column == zid.
+    # Tolerant parse: accepts canonical ZONES:{zid} AND legacy ZONES:{floor}:{row}
+    # (in which case the trailing segment is the row, NOT a zid — so if a bare
+    # 'zid' field isn't supplied we still try, then fall back to row-match).
     uid = comp.get("uid", "")
     zid = comp.get("zid")
-    if zid is None and uid.startswith("ZONES:"):
-        try:
-            zid = int(uid.split(":")[1])
-        except (IndexError, ValueError):
-            zid = None
     if zid is None:
-        return False, f"  ⚠️  malformed ZONE entry {uid}: no ZID"
+        zid = _uid_tail_int(uid, "ZONES")
+    if zid is None:
+        return False, f"  ⚠️  malformed ZONE entry {uid!r}: no resolvable ZID"
 
     ws = wb["ZONES"]
     header = {c.value: i + 1 for i, c in enumerate(ws[1])}
@@ -161,18 +179,34 @@ def process_zone_completion(wb, comp, stamp):
         if ws.cell(r, zid_col).value == zid:
             target_row = r
             break
+
+    # LEGACY FALLBACK: a 3-part ZONES:{floor}:{row} uid's tail is a ROW, not a
+    # ZID. If the ZID lookup missed AND the uid had 3 parts, try matching the
+    # literal sheet row (and verify the floor name) so old drain entries clear.
+    if target_row is None and uid.count(":") == 2:
+        parts = uid.split(":")
+        legacy_floor, legacy_row = parts[1], parts[2]
+        try:
+            lr = int(legacy_row)
+            if 2 <= lr <= ws.max_row:
+                row_floor = ws.cell(lr, header.get("Floor", 1)).value
+                if row_floor == legacy_floor or floor == legacy_floor:
+                    target_row = lr
+        except (TypeError, ValueError):
+            pass
+
     if target_row is None:
-        return False, f"  ⚠️  ZID {zid} not found in ZONES — SKIP"
+        return False, f"  ⚠️  ZID/row from {uid!r} not found in ZONES — SKIP"
 
     actual_floor = ws.cell(target_row, header["Floor"]).value
     actual_zone = ws.cell(target_row, header["Zone"]).value
 
     existing = ws.cell(target_row, completed_col).value
     if existing is not None:
-        return True, f"  ⏭️  {actual_floor}/{actual_zone} (ZID {zid}) already stamped — skip"
+        return True, f"  ⏭️  {actual_floor}/{actual_zone} (row {target_row}) already stamped — skip"
 
     ws.cell(target_row, completed_col).value = stamp
-    return True, f"  ✅ {actual_floor}/{actual_zone} (ZID {zid}) stamped {stamp.date()}"
+    return True, f"  ✅ {actual_floor}/{actual_zone} (row {target_row}) stamped {stamp.date()}"
 
 
 def process_maintenance_completion(wb, comp, stamp):
@@ -184,13 +218,10 @@ def process_maintenance_completion(wb, comp, stamp):
     # ID-BASED: uid = MAINTENANCE:{mid}. Find row whose MID column == mid.
     uid = comp.get("uid", "")
     mid = comp.get("mid")
-    if mid is None and uid.startswith("MAINTENANCE:"):
-        try:
-            mid = int(uid.split(":")[1])
-        except (IndexError, ValueError):
-            mid = None
     if mid is None:
-        return False, f"  ⚠️  malformed MAINTENANCE entry {uid}: no MID"
+        mid = _uid_tail_int(uid, "MAINTENANCE")
+    if mid is None:
+        return False, f"  ⚠️  malformed MAINTENANCE entry {uid!r}: no resolvable MID"
 
     ws = wb["MAINTENANCE"]
     header = {c.value: i + 1 for i, c in enumerate(ws[1])}
@@ -244,13 +275,10 @@ def process_spin_wheel_completions(wb, comps):
     for comp in comps:
         uid = comp.get("uid", "")
         sid = comp.get("sid")
-        if sid is None and uid.startswith("SPIN:"):
-            try:
-                sid = int(uid.split(":")[1])
-            except (IndexError, ValueError):
-                sid = None
         if sid is None:
-            msgs.append(f"  ⚠️  malformed SPIN entry {uid}: no SID")
+            sid = _uid_tail_int(uid, "SPIN")
+        if sid is None:
+            msgs.append(f"  ⚠️  malformed SPIN entry {uid!r}: no resolvable SID")
             continue
         targets.append((sid, uid, comp.get("label", "?")))
 
