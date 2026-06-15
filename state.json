@@ -317,16 +317,6 @@
       "uid": "ZONES:81"
     },
     {
-      "source": "ZONES",
-      "zid": 82,
-      "floor": "Personal",
-      "row": 83,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Dermaplane",
-      "uid": "ZONES:82"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 65,
       "row": 66,
@@ -482,10 +472,19 @@
       "row": 18,
       "label": "Clean rest of baking counter in kitchen \ud83e\uddc1\ud83e\uddfd",
       "uid": "SPIN:17"
+    },
+    {
+      "source": "ZONES",
+      "zid": 84,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Mask",
+      "uid": "ZONES:84"
     }
   ],
-  "version": 11,
-  "updated": "2026-06-15T07:42:06.227883+00:00",
+  "version": 12,
+  "updated": "2026-06-15T23:55:00.914215+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
