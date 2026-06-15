@@ -203,9 +203,10 @@ def main():
 
     completions = drain.get("completions", [])
     adds = drain.get("adds", [])
-    print(f"📥 Drain has {len(completions)} completions + {len(adds)} adds")
+    pending_clear_from_chat = drain.get("pendingClear", [])
+    print(f"📥 Drain has {len(completions)} completions + {len(adds)} adds + {len(pending_clear_from_chat)} pendingClear uids")
 
-    if not completions and not adds:
+    if not completions and not adds and not pending_clear_from_chat:
         print("✨ Drain is empty — exiting cleanly")
         return
 
@@ -217,14 +218,8 @@ def main():
     print(f"🔧 Auto-processable: {len(auto_zones)} ZONES, {len(auto_maintenance)} MAINTENANCE")
     print(f"⏸️  Leaving for Claude: {len(other_completions)} other completions, {len(adds)} adds")
 
-    pending_clear_from_chat = drain.get("pendingClear", [])
     if pending_clear_from_chat:
         print(f"📞 Chat-side pendingClear: {len(pending_clear_from_chat)} uid(s) to clear from KV")
-
-    has_work = bool(auto_zones or auto_maintenance or pending_clear_from_chat)
-    if not has_work:
-        print("Nothing to do (no auto-completions, no pendingClear) — exiting")
-        return
 
     # 3. Load beast ONLY if we have auto-processable completions
     wb = None
