@@ -148,7 +148,7 @@
       "stepIndex": 0,
       "aw": 2,
       "due": "2026-03-28",
-      "label": "\ud83d\udd25 START \u2192 Book Genevieve's May ticket home \ud83d\udcdd",
+      "label": "\ud83d\udd25 Book Genevieve's May ticket home \ud83d\udcdd",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:10316:0"
     },
@@ -160,7 +160,7 @@
       "stepIndex": 0,
       "aw": 2,
       "due": "2026-03-28",
-      "label": "\ud83d\udd25 START \u2192 Line item the Amazon Vine tax file \ud83d\udcdd",
+      "label": "\ud83d\udd25 Line item the Amazon Vine tax file \ud83d\udcdd",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11083:0"
     },
@@ -172,93 +172,9 @@
       "stepIndex": 0,
       "aw": 2,
       "due": "2026-03-31",
-      "label": "\ud83d\udd25 START \u2192 Reconcile Chase Hyatt card statement",
+      "label": "\ud83d\udd25 Reconcile Chase Hyatt card statement",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11075:0"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11221,
-      "parentRow": 277,
-      "parentLabel": "Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-04-03",
-      "label": "\ud83d\udd25 START \u2192 Email WWAMI re: personal letter for Bentley applic",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11221:0"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11281,
-      "parentRow": 280,
-      "parentLabel": "Fill out Bentley's fall rental sublet forms \ud83c\udfe0\ud83d\udccb",
-      "stepIndex": 0,
-      "aw": 1,
-      "due": "2026-04-13",
-      "label": "\ud83d\udd25 START \u2192 Fill out Bentley's fall rental sublet forms \ud83c\udfe0\ud83d\udccb",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11281:0"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11454,
-      "parentRow": 313,
-      "parentLabel": "Embry-Riddle: check balance \u2192 pay \u2192 deposit to flight account \u2708\ufe0f\ud83d\udcb0 \ud83d\udcdd",
-      "stepIndex": 0,
-      "aw": 1,
-      "due": "2026-05-11",
-      "label": "\ud83d\udd25 START \u2192 Embry-Riddle: check balance \u2192 pay \u2192 deposit to fli",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11454:0"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11055,
-      "parentRow": 237,
-      "parentLabel": "File CSS Profile for Bentley (TCU) \ud83c\udf93\ud83d\udccb",
-      "stepIndex": 0,
-      "aw": 1,
-      "due": "2026-06-08",
-      "label": "\ud83d\udd25 START \u2192 File CSS Profile for Bentley (TCU) \ud83c\udf93\ud83d\udccb",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11055:0"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11576,
-      "parentRow": 368,
-      "parentLabel": "Follow up w/ Embry-Riddle re: APS details \ud83c\udf93\u2708\ufe0f \ud83d\udcdd",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-06-08",
-      "label": "\ud83d\udd25 START \u2192 Follow up w/ Embry-Riddle re: APS details \ud83c\udf93\u2708\ufe0f \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11576:0"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11216,
-      "parentRow": 274,
-      "parentLabel": "Check status of document gathering for PFDs \ud83d\udcdd",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-06-09",
-      "label": "\ud83d\udd25 START \u2192 Check status of document gathering for PFDs \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11216:0"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11217,
-      "parentRow": 275,
-      "parentLabel": "Check PFD statuses for everyone (Bentley, Jake, Genevieve)",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-06-09",
-      "label": "\ud83d\udd25 START \u2192 Check PFD statuses for everyone (Bentley, Jake, Ge",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11217:0"
     },
     {
       "source": "ZONES",
@@ -498,11 +414,11 @@
       "uid": "SPIN:17"
     }
   ],
-  "version": 9,
-  "updated": "2026-06-15T05:20:49.914081+00:00",
+  "version": 10,
+  "updated": "2026-06-15T06:09:49.798649+00:00",
   "buckets": {
     "TASKS": 12,
-    "COURAGE": 10,
+    "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 17
