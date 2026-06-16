@@ -312,6 +312,83 @@ def process_spin_wheel_completions(wb, comps):
     return processed, msgs
 
 
+def process_adds(wb, adds):
+    """Append each PLUS_ADD from the front end to the SPIN WHEEL sheet as a new
+    one-off spin row. Per the 2026-06-14 design decision: everything added from
+    a front-end app becomes a SPIN item — no classification, no Claude triage.
+
+    Each new row gets a fresh SID (max existing + 1, incrementing across this
+    batch). Returns (processed_add_keys, new_spin_items, messages) where:
+      • processed_add_keys = the drain-add identity keys we handled (so they're
+        dropped from drain.json)
+      • new_spin_items = list of dicts for state.json/wheel refill seeding so the
+        new item shows on the wheel immediately: {source,row(SID),label,uid,...}
+      • messages = human-readable log lines
+    """
+    if not adds:
+        return [], [], []
+    if "SPIN WHEEL" not in wb.sheetnames:
+        return [], [], ["  ❌ SPIN WHEEL sheet not found — cannot file adds"]
+
+    ws = wb["SPIN WHEEL"]
+    header = {c.value: i + 1 for i, c in enumerate(ws[1])}
+    task_col = header.get("Task", 1)
+    src_col = header.get("Source")
+    sid_col = header.get("SID")
+    if sid_col is None:
+        return [], [], ["  ❌ SPIN WHEEL missing SID column — cannot file adds"]
+
+    # Next SID = max existing + 1
+    existing_sids = [ws.cell(r, sid_col).value for r in range(2, ws.max_row + 1)
+                     if isinstance(ws.cell(r, sid_col).value, (int, float))]
+    next_sid = (max(existing_sids) + 1) if existing_sids else 1
+
+    processed_keys = []
+    new_items = []
+    msgs = []
+
+    # De-dup guard: don't add a label that already sits on the SPIN WHEEL sheet
+    existing_labels = {str(ws.cell(r, task_col).value).strip().lower()
+                       for r in range(2, ws.max_row + 1)
+                       if ws.cell(r, task_col).value}
+
+    for add in adds:
+        label = (add.get("label") or "").strip()
+        added_at = add.get("_addedAt", "")
+        # identity key matches how the front-end/worker keys a PLUS_ADD uid
+        key = f"PLUS_ADD:{label}:{added_at}"
+        if not label:
+            msgs.append("  ⏭️  add with empty label — skipping")
+            processed_keys.append(key)  # drop it from drain regardless
+            continue
+        if label.lower() in existing_labels:
+            msgs.append(f"  ⏭️  '{label}' already on SPIN WHEEL — skip dup, clearing from drain")
+            processed_keys.append(key)
+            continue
+
+        sid = next_sid
+        next_sid += 1
+        new_row = ws.max_row + 1
+        ws.cell(new_row, task_col).value = label
+        if src_col:
+            ws.cell(new_row, src_col).value = "PLUS_ADD"
+        ws.cell(new_row, sid_col).value = sid
+        existing_labels.add(label.lower())
+
+        # Wheel item so it shows immediately (uid uses canonical SPIN form)
+        new_items.append({
+            "source": "SPIN_WHEEL",
+            "row": sid,           # SID is the stable key (front-end calls it row in spin uid)
+            "sid": sid,
+            "label": label,
+            "uid": f"SPIN_WHEEL:{sid}",
+        })
+        processed_keys.append(key)
+        msgs.append(f"  ✅ ADD filed → SPIN WHEEL SID {sid}: '{label}'")
+
+    return processed_keys, new_items, msgs
+
+
 def load_state_json():
     """Load state.json from THIS repo (chaos-lotus-state) via github API.
     Returns (state_dict, sha) or (None, None) if missing."""
@@ -528,16 +605,17 @@ def main():
     auto_spin = [c for c in completions if c.get("source") == "SPIN_WHEEL"]
     other_completions = [c for c in completions if c.get("source") not in AUTO_SOURCES]
 
-    print(f"🔧 Auto-processable: {len(auto_zones)} ZONES, {len(auto_maintenance)} MAINTENANCE, {len(auto_spin)} SPIN_WHEEL")
-    print(f"⏸️  Leaving for Claude: {len(other_completions)} other completions, {len(adds)} adds")
+    print(f"🔧 Auto-processable: {len(auto_zones)} ZONES, {len(auto_maintenance)} MAINTENANCE, {len(auto_spin)} SPIN_WHEEL, {len(adds)} ADDS→SPIN")
+    print(f"⏸️  Leaving for Claude: {len(other_completions)} other completions")
 
     if pending_clear_from_chat:
         print(f"📞 Chat-side pendingClear: {len(pending_clear_from_chat)} uid(s) to clear from KV")
 
-    # 3. Load beast ONLY if we have auto-processable completions
+    # 3. Load beast if we have ANY beast-touching work: auto completions OR adds
+    #    (adds get appended to the SPIN WHEEL sheet).
     wb = None
     beast_sha = None
-    if auto_zones or auto_maintenance or auto_spin:
+    if auto_zones or auto_maintenance or auto_spin or adds:
         print(f"\n📂 Loading beast from {BEAST_REPO}/{BEAST_FILE}...")
         beast_bytes, beast_sha = load_beast()
         print(f"   {len(beast_bytes)} bytes, SHA {beast_sha[:12]}")
@@ -585,15 +663,25 @@ def main():
             if comp.get("uid") in spin_uids:
                 processed_comps.append(comp)
 
-    if not processed_uids:
-        print("\n⏭️  No auto-completions applied this run")
+    # 4d. Process ADDS → append to SPIN WHEEL sheet (front-end adds become spin items)
+    new_spin_items = []
+    processed_add_keys = []
+    if adds and wb:
+        print(f"\n➕ Processing {len(adds)} ADD(s) → SPIN WHEEL:")
+        processed_add_keys, new_spin_items, add_msgs = process_adds(wb, adds)
+        for m in add_msgs:
+            print(m)
+
+    beast_dirty = bool(processed_uids) or bool(processed_add_keys)
+    if not beast_dirty:
+        print("\n⏭️  No auto-completions or adds applied this run")
     else:
         # 5. Save beast
         print(f"\n💾 Saving beast back to github...")
         buf = io.BytesIO()
         wb.save(buf)
         new_beast_bytes = buf.getvalue()
-        commit_msg = f"🤖 Auto-process: {len(processed_uids)} completion(s) stamped"
+        commit_msg = f"🤖 Auto-process: {len(processed_uids)} completion(s) + {len(processed_add_keys)} add(s)"
         result = save_beast(new_beast_bytes, beast_sha, commit_msg)
         print(f"   Committed: {result['commit']['sha'][:12]}")
 
@@ -678,10 +766,21 @@ def main():
         if c.get("uid") in refilled_uids:
             c = {**c, "_refilled": True}  # mark so we don't double-refill
         new_completions.append(c)
+
+    # ADDS: drop the ones we filed into the SPIN WHEEL sheet (matched by identity
+    # key PLUS_ADD:{label}:{_addedAt}). Anything not processed stays queued.
+    processed_add_set = set(processed_add_keys)
+    new_adds = []
+    for a in adds:
+        key = f"PLUS_ADD:{(a.get('label') or '').strip()}:{a.get('_addedAt','')}"
+        if key in processed_add_set:
+            continue  # filed → drop
+        new_adds.append(a)
+
     new_drain = {
         **drain,
         "completions": new_completions,
-        "adds": adds,  # unchanged — still for Claude
+        "adds": new_adds,
         "processedAt": datetime.now(ZoneInfo("UTC")).isoformat(),
     }
     if processed_uids:
@@ -696,11 +795,35 @@ def main():
 
     with open(DRAIN_PATH, "w") as f:
         json.dump(new_drain, f, indent=2)
-    print(f"\n🧹 Drain rewritten: {len(new_completions)} completions remaining, {len(adds)} adds remaining")
+    print(f"\n🧹 Drain rewritten: {len(new_completions)} completions remaining, {len(new_adds)} adds remaining")
     print(f"   (workflow yaml will commit drain.json change)")
 
+    # 7b. Seed newly-filed spin adds into state.json so they appear on the wheel
+    #     immediately (without waiting for a full re-seed). Best-effort.
+    if new_spin_items:
+        try:
+            state, sha = load_state_json()
+            if state is not None:
+                on_wheel = {t.get("uid") for t in state.get("tasks", [])}
+                added = 0
+                for item in new_spin_items:
+                    if item["uid"] not in on_wheel:
+                        state.setdefault("tasks", []).append(item)
+                        added += 1
+                if added:
+                    state["version"] = state.get("version", 0) + 1
+                    state["updated"] = datetime.now(ZoneInfo("UTC")).isoformat()
+                    counts = {}
+                    for t in state["tasks"]:
+                        counts[t.get("source", "?")] = counts.get(t.get("source", "?"), 0) + 1
+                    state["buckets"] = counts
+                    st, _ = save_state_json(state, sha, f"➕ Seed {added} new spin add(s) onto wheel")
+                    print(f"   🪷 Seeded {added} new spin add(s) onto wheel (state save HTTP {st})")
+        except Exception as e:
+            print(f"   ⚠️  could not seed new spin adds into state.json: {e}")
+
     # 8. Write public sync receipt (token-free verification for chat-side Claude)
-    write_sync_receipt(processed_uids, processed_details, new_completions, adds)
+    write_sync_receipt(processed_uids, processed_details, new_completions, new_adds)
 
 
 if __name__ == "__main__":
