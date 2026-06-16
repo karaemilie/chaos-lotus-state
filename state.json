@@ -114,20 +114,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11640,
-      "row": 399,
-      "label": "\u2728 Downgrade Hulu to ads plan if not using",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11640"
-    },
-    {
-      "source": "TASKS",
       "id": 10025,
       "row": 12,
       "label": "Stain cherry shelves when they arrive",
@@ -448,10 +434,26 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Dump healthy bacteria into septic",
       "uid": "MAINTENANCE:67"
+    },
+    {
+      "source": "TASKS",
+      "id": 10464,
+      "row": null,
+      "label": "\ud83d\udc38 Help Jake write private lesson email \ud83d\udcdd",
+      "emoji": "\ud83d\udc38",
+      "aw": 3,
+      "specialZone": "Frog",
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10464"
     }
   ],
-  "version": 44,
-  "updated": "2026-06-16T02:30:53.733679+00:00",
+  "version": 45,
+  "updated": "2026-06-16T02:30:54.747756+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
