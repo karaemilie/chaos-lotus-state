@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10365,
+      "row": 132,
+      "label": "🐸 Submit Bentley's PFD form to TCU 📝",
+      "uid": "TASKS:10365",
+      "_ts": "2026-06-16T01:21:09.626Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 10004,
+      "row": 2,
+      "label": "💸 Watch one faceless affiliate marketing YouTube video, jot 3 takeaways",
+      "uid": "TASKS:10004",
+      "_ts": "2026-06-16T01:21:33.910Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-16T01:21:25.752Z",
+  "mirroredAt": "2026-06-16T01:21:34.128Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-06-16T01:21:26.728096+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10365"
-  ]
+  }
 }
