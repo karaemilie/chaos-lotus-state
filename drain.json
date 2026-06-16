@@ -1,69 +1,6 @@
 {
   "completions": [
     {
-      "source": "SPIN_WHEEL",
-      "row": 2,
-      "label": "Ceramic coating of items",
-      "uid": "SPIN:1",
-      "_ts": "2026-06-16T03:43:59.194Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 10,
-      "zid": 9,
-      "floor": "Upstairs",
-      "label": "🧺 Upstairs Hallway",
-      "uid": "ZONES:9",
-      "_ts": "2026-06-16T03:44:01.675Z"
-    },
-    {
-      "source": "TASKS",
-      "id": 10365,
-      "row": 437,
-      "label": "🐸 Submit Bentley's PFD form to TCU 📝",
-      "specialZone": "Frog",
-      "uid": "TASKS:10365",
-      "_ts": "2026-06-16T03:44:05.082Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 84,
-      "zid": 83,
-      "floor": "Personal",
-      "label": "👱‍♀️ Hand Care & Mani",
-      "uid": "ZONES:83",
-      "_ts": "2026-06-16T03:44:11.522Z"
-    },
-    {
-      "source": "MAINTENANCE",
-      "row": 66,
-      "label": "🏠 Wash towels",
-      "uid": "MAINTENANCE:65",
-      "_ts": "2026-06-16T03:44:16.687Z"
-    },
-    {
-      "source": "MAINTENANCE",
-      "row": 67,
-      "label": "🏠 Wax the table",
-      "uid": "MAINTENANCE:66",
-      "_ts": "2026-06-16T03:44:19.909Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 9,
-      "label": "Genevieve double degree",
-      "uid": "SPIN:14",
-      "_ts": "2026-06-16T03:44:27.077Z"
-    },
-    {
-      "source": "TASKS",
-      "id": 11064,
-      "row": 434,
-      "label": "Unpack the Festool Domino 🔨📦",
-      "uid": "TASKS:11064",
-      "_ts": "2026-06-16T03:44:29.712Z"
-    },
-    {
       "source": "TASKS",
       "id": 10026,
       "row": 12,
@@ -73,9 +10,9 @@
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-16T03:44:33.957Z",
+  "mirroredAt": "2026-06-16T03:44:54.229Z",
   "counts": {
-    "completions": 9,
+    "completions": 1,
     "adds": 0
   }
 }
