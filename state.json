@@ -235,18 +235,6 @@
       "uid": "COURAGE:11075:0"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11221,
-      "parentRow": 269,
-      "parentLabel": "Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-04-03",
-      "label": "\ud83d\udd25 Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11221:0"
-    },
-    {
       "source": "ZONES",
       "zid": 9,
       "floor": "Upstairs",
@@ -454,10 +442,21 @@
       "row": 14,
       "label": "Clean up garage shelf from mice",
       "uid": "SPIN:18"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11281,
+      "stepIndex": 0,
+      "parentLabel": "Fill out Bentley's fall rental sublet forms \ud83c\udfe0\ud83d\udccb",
+      "aw": 1,
+      "due": "2026-04-13",
+      "label": "\ud83d\udd25 Fill out Bentley's fall rental sublet forms \ud83c\udfe0\ud83d\udccb",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11281:0"
     }
   ],
-  "version": 49,
-  "updated": "2026-06-16T02:46:42.065500+00:00",
+  "version": 50,
+  "updated": "2026-06-16T02:49:10.626675+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
