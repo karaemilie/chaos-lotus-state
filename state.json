@@ -409,13 +409,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 12,
-      "row": 13,
-      "label": "Find midi cable for Musiah",
-      "uid": "SPIN:12"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 13,
       "row": 14,
       "label": "Load Musiah to ipad**",
@@ -461,13 +454,13 @@
       "uid": "ZONES:85"
     }
   ],
-  "version": 17,
-  "updated": "2026-06-16T00:29:25.590120+00:00",
+  "version": 18,
+  "updated": "2026-06-16T00:36:27.087033+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 14
+    "SPIN_WHEEL": 13
   }
 }
