@@ -265,10 +265,26 @@ def process_completions(wb, task_ids):
         cur_start = _as_date(ws.cell(trow, H["Start Date"]).value)
         cur_due = _as_date(ws.cell(trow, H["Due Date"]).value)
 
-        # 1. copy to COMPLETED
+        # 1. copy to COMPLETED — BY HEADER NAME, not column position.
+        # TASKS and COMPLETED share most columns but diverge after Date Lock
+        # (TASKS: ...Notes/Critical/Recurring Type/Recurring Value;
+        #  COMPLETED: ...Recurring/Notes/Completed Date/Critical/Recurring Type/Recurring Value).
+        # A positional copy scrambled recurrence into the wrong COMPLETED cells
+        # (Recurring Type -> Completed Date col, etc.), so recurrence was lost on
+        # any later walk-back/restore. Header-matching writes each TASKS field into
+        # the SAME-NAMED COMPLETED column and skips any column COMPLETED lacks.
         new_c_row = wsc.max_row + 1
-        for c in range(1, ws.max_column + 1):
-            wsc.cell(new_c_row, c).value = ws.cell(trow, c).value
+        for src_name, src_col in H.items():
+            if src_name in Hc:
+                wsc.cell(new_c_row, Hc[src_name]).value = ws.cell(trow, src_col).value
+        # legacy mirror: if COMPLETED still has the old single 'Recurring' text
+        # column, populate it too so old tooling/readers stay consistent.
+        if "Recurring" in Hc and "Recurring Type" in H:
+            rt_v = ws.cell(trow, H["Recurring Type"]).value
+            rv_v = ws.cell(trow, H.get("Recurring Value", 0)).value if "Recurring Value" in H else None
+            if rt_v not in (None, "", "None"):
+                wsc.cell(new_c_row, Hc["Recurring"]).value = (
+                    f"{rt_v}" + (f" / {rv_v}" if rv_v not in (None, "") else ""))
         wsc.cell(new_c_row, completed_col).value = stamp
         results["completed"].append((tid, name))
 
