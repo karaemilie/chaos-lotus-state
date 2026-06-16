@@ -494,6 +494,15 @@ def apply_refills(wb, processed_completions, today, pending_uids=None):
             rf_floor = new_item.pop("_resetFloor", None)
             if rf_floor:
                 reset_floors.append(rf_floor)
+            # DEDUP SPECIALS: never allow two Frogs or two Business items on the
+            # wheel. Under rapid taps, overlapping runs could each add a special,
+            # and an extra special inflates the TASKS count past the cap-guard's
+            # headroom — silently blocking later daily-ten refills (the "41 short"
+            # bug). If a special of this type is already present, skip the add.
+            sp = new_item.get("specialZone")
+            if sp and any(t.get("specialZone") == sp for t in tasks):
+                summary.append(f"{src}: (skipped dup {sp})")
+                continue
             tasks.append(new_item)
             exclude.add(new_item["uid"])
             pid2 = new_item.get("parentId") or new_item.get("id")
@@ -503,6 +512,20 @@ def apply_refills(wb, processed_completions, today, pending_uids=None):
             summary.append(f"{src}: +{new_item['label'][:40]}")
         elif src != "SPIN_WHEEL":
             summary.append(f"{src}: (none eligible)")
+
+    # 2b. SAFETY SWEEP: dedupe any specials that slipped in from a prior run
+    # (keep the first of each specialZone). Belt-and-suspenders against the
+    # cap-guard-inflation bug.
+    seen_special = set()
+    deduped = []
+    for t in tasks:
+        sp = t.get("specialZone")
+        if sp:
+            if sp in seen_special:
+                continue  # drop the duplicate special
+            seen_special.add(sp)
+        deduped.append(t)
+    tasks = deduped
 
     # 3. Write state.json back with bumped version
     state["tasks"] = tasks
