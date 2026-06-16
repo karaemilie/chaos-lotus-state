@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-16T06:23:15.628Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pot up Hoya clippings",
+      "_addedAt": "2026-06-16T07:08:46.652Z",
+      "_ts": "2026-06-16T07:08:46.929Z"
+    }
+  ],
+  "mirroredAt": "2026-06-16T07:08:47.165Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-16T06:23:16.619114+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:57"
-  ]
+    "adds": 1
+  }
 }
