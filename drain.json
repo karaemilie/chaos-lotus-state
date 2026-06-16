@@ -1,14 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10365,
+      "row": 437,
+      "label": "🐸 Submit Bentley's PFD form to TCU 📝",
+      "specialZone": "Frog",
+      "uid": "TASKS:10365",
+      "_ts": "2026-06-16T01:27:52.636Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-16T01:21:56.097Z",
+  "mirroredAt": "2026-06-16T01:27:52.865Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-16T01:21:56.728525+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10365",
-    "TASKS:10004"
-  ]
+  }
 }
