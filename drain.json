@@ -8,12 +8,21 @@
       "specialZone": "Frog",
       "uid": "TASKS:10365",
       "_ts": "2026-06-16T02:29:59.946Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 85,
+      "zid": 84,
+      "floor": "Personal",
+      "label": "👱‍♀️ Face Mask",
+      "uid": "ZONES:84",
+      "_ts": "2026-06-16T02:30:03.424Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-16T02:30:00.190Z",
+  "mirroredAt": "2026-06-16T02:30:03.652Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
