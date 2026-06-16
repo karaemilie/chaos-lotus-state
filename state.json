@@ -307,16 +307,6 @@
       "uid": "ZONES:73"
     },
     {
-      "source": "ZONES",
-      "zid": 81,
-      "floor": "Personal",
-      "row": 82,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Exfoliation",
-      "uid": "ZONES:81"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 65,
       "row": 66,
@@ -481,10 +471,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Mask",
       "uid": "ZONES:84"
+    },
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Epilate Legs",
+      "uid": "ZONES:85"
     }
   ],
-  "version": 12,
-  "updated": "2026-06-15T23:55:00.914215+00:00",
+  "version": 13,
+  "updated": "2026-06-16T00:04:01.929827+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
