@@ -345,16 +345,6 @@
       "uid": "TASKS:10004"
     },
     {
-      "source": "TASKS",
-      "id": 10365,
-      "row": 132,
-      "label": "\ud83d\udc38 Submit Bentley's PFD form to TCU \ud83d\udcdd",
-      "emoji": "\ud83d\udc38",
-      "aw": 2,
-      "specialZone": "Frog",
-      "uid": "TASKS:10365"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1,
       "row": 2,
@@ -446,10 +436,10 @@
       "uid": "SPIN:18"
     }
   ],
-  "version": 24,
-  "updated": "2026-06-16T01:19:33.541631+00:00",
+  "version": 25,
+  "updated": "2026-06-16T01:21:23.002596+00:00",
   "buckets": {
-    "TASKS": 17,
+    "TASKS": 16,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
