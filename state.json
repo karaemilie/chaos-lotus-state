@@ -114,20 +114,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10025,
-      "row": 12,
-      "label": "Stain cherry shelves when they arrive",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 90,
-      "ml": "Medium",
-      "proj": "Bathroom Built-ins",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10025"
-    },
-    {
-      "source": "TASKS",
       "id": 11426,
       "row": 300,
       "label": "Flesh out bunk bed attack plan (5 min)",
@@ -452,10 +438,10 @@
       "uid": "TASKS:10464"
     }
   ],
-  "version": 45,
-  "updated": "2026-06-16T02:30:54.747756+00:00",
+  "version": 46,
+  "updated": "2026-06-16T02:34:12.368270+00:00",
   "buckets": {
-    "TASKS": 17,
+    "TASKS": 16,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
