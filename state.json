@@ -44,20 +44,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11609,
-      "row": 367,
-      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11609"
-    },
-    {
-      "source": "TASKS",
       "id": 10032,
       "row": 14,
       "label": "Research local robotics leagues for Evan \ud83d\udcdd",
@@ -674,10 +660,23 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10454"
+    },
+    {
+      "source": "TASKS",
+      "id": 11577,
+      "label": "Check if NMS offers scholarship for summer classes \ud83c\udf93\ud83d\udcb0",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11577"
     }
   ],
-  "version": 73,
-  "updated": "2026-06-16T06:00:32.933961+00:00",
+  "version": 74,
+  "updated": "2026-06-16T06:01:27.964755+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
