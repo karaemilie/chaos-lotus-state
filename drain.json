@@ -1,10 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 10,
+      "label": "Bathroom knos",
+      "uid": "SPIN_WHEEL:10",
+      "_ts": "2026-06-15T08:31:48.287Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 11,
+      "label": "Research Lowes SawStop",
+      "uid": "SPIN:10",
+      "_ts": "2026-06-16T00:21:14.562Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-16T00:04:03.249Z",
+  "mirroredAt": "2026-06-16T00:21:14.808Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-06-16T00:04:24.194279+00:00"
+  }
 }
