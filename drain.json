@@ -24,12 +24,21 @@
       "specialZone": "Frog",
       "uid": "TASKS:10365",
       "_ts": "2026-06-16T02:49:01.575Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 23,
+      "zid": 22,
+      "floor": "Main Floor",
+      "label": "🧺 Mudroom",
+      "uid": "ZONES:22",
+      "_ts": "2026-06-16T02:49:05.211Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-16T02:49:01.788Z",
+  "mirroredAt": "2026-06-16T02:49:05.442Z",
   "counts": {
-    "completions": 3,
+    "completions": 4,
     "adds": 0
   }
 }
