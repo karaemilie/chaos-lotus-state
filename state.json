@@ -246,16 +246,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 22,
-      "floor": "Main Floor",
-      "row": 23,
-      "label": "\ud83e\uddfa Mudroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Mudroom",
-      "uid": "ZONES:22"
-    },
-    {
-      "source": "ZONES",
       "zid": 46,
       "floor": "Basement",
       "row": 47,
@@ -453,10 +443,19 @@
       "label": "\ud83d\udd25 Fill out Bentley's fall rental sublet forms \ud83c\udfe0\ud83d\udccb",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11281:0"
+    },
+    {
+      "source": "ZONES",
+      "zid": 23,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Kitchen",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Kitchen",
+      "uid": "ZONES:23"
     }
   ],
-  "version": 50,
-  "updated": "2026-06-16T02:49:10.626675+00:00",
+  "version": 51,
+  "updated": "2026-06-16T02:49:45.115436+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
