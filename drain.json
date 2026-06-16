@@ -24,12 +24,21 @@
       "specialZone": "Frog",
       "uid": "TASKS:10365",
       "_ts": "2026-06-16T03:44:05.082Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 84,
+      "zid": 83,
+      "floor": "Personal",
+      "label": "👱‍♀️ Hand Care & Mani",
+      "uid": "ZONES:83",
+      "_ts": "2026-06-16T03:44:11.522Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-16T03:44:05.343Z",
+  "mirroredAt": "2026-06-16T03:44:11.742Z",
   "counts": {
-    "completions": 3,
+    "completions": 4,
     "adds": 0
   }
 }
