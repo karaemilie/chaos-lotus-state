@@ -25,12 +25,19 @@
       "label": "🧺 Basement Foyer",
       "uid": "ZONES:46",
       "_ts": "2026-06-16T03:58:10.305Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 5,
+      "label": "Spray adhesive for sand table",
+      "uid": "SPIN:8",
+      "_ts": "2026-06-16T03:58:16.381Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-16T03:58:10.510Z",
+  "mirroredAt": "2026-06-16T03:58:16.594Z",
   "counts": {
-    "completions": 3,
+    "completions": 4,
     "adds": 0
   }
 }
