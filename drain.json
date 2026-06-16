@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-16T08:49:17.583Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "List a time splash",
+      "_addedAt": "2026-06-16T20:42:41.239Z",
+      "_ts": "2026-06-16T20:42:41.463Z"
+    }
+  ],
+  "mirroredAt": "2026-06-16T20:42:41.708Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
