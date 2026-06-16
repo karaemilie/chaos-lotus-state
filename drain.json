@@ -1,16 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-16T03:58:46.990Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Test",
+      "_addedAt": "2026-06-16T04:00:21.611Z",
+      "_ts": "2026-06-16T04:00:21.724Z"
+    }
+  ],
+  "mirroredAt": "2026-06-16T04:00:21.985Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-16T03:58:48.077455+00:00",
-  "lastAutoProcessed": [
-    "ZONES:22",
-    "ZONES:46",
-    "SPIN:8",
-    "COURAGE:11083:0"
-  ]
+    "adds": 1
+  }
 }
