@@ -267,16 +267,6 @@
       "uid": "ZONES:73"
     },
     {
-      "source": "ZONES",
-      "zid": 82,
-      "floor": "Personal",
-      "row": 83,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Dermaplane",
-      "uid": "ZONES:82"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 66,
       "row": 67,
@@ -450,10 +440,19 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10073"
+    },
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Epilate Legs",
+      "uid": "ZONES:85"
     }
   ],
-  "version": 57,
-  "updated": "2026-06-16T03:20:49.640578+00:00",
+  "version": 58,
+  "updated": "2026-06-16T03:21:19.872483+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
