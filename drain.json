@@ -1,6 +1,14 @@
 {
   "completions": [
     {
+      "source": "COURAGE",
+      "parentId": 11221,
+      "stepIndex": 0,
+      "label": "🔥 Email WWAMI re: personal letter for Bentley application 📝",
+      "uid": "COURAGE:11221:0",
+      "_ts": "2026-06-16T02:48:54.832Z"
+    },
+    {
       "source": "TASKS",
       "id": 11637,
       "row": 396,
@@ -25,12 +33,20 @@
       "label": "🧺 Mudroom",
       "uid": "ZONES:22",
       "_ts": "2026-06-16T02:49:05.211Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11064,
+      "row": 231,
+      "label": "Unpack the Festool Domino 🔨📦",
+      "uid": "TASKS:11064",
+      "_ts": "2026-06-16T02:49:17.315Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-16T02:49:13.612Z",
+  "mirroredAt": "2026-06-16T02:49:17.538Z",
   "counts": {
-    "completions": 3,
+    "completions": 5,
     "adds": 0
   }
 }
