@@ -68,8 +68,14 @@ jobs:
           git commit -m "🤖 drain.json processed + receipt updated"
 
           # Rebase-and-push with retries to survive concurrent worker mirrors.
+          # Under rapid taps, many runs fire near-simultaneously; losing the
+          # push race is EXPECTED and self-healing (our processed drain is safe
+          # locally, and the next worker mirror triggers a fresh run that
+          # reprocesses anything outstanding). So a lost race must NOT fail the
+          # run (exit 1 spams "Run failed" emails for a non-problem). We retry
+          # generously with jitter, then exit 0 gracefully if still racing.
           n=0
-          until [ "$n" -ge 5 ]; do
+          until [ "$n" -ge 8 ]; do
             # Bring in any commits the worker pushed since our checkout, replaying
             # our commit on top. --autostash guards any stray unstaged changes.
             if git pull --rebase --autostash origin main; then
@@ -79,9 +85,15 @@ jobs:
               fi
             fi
             n=$((n+1))
-            echo "⚠️  push race (attempt $n/5) — retrying in 3s..."
-            sleep 3
+            # Jittered backoff (2-5s) so concurrent runs don't lock-step collide.
+            jitter=$((RANDOM % 4 + 2))
+            echo "⚠️  push race (attempt $n/8) — retrying in ${jitter}s..."
+            sleep "$jitter"
           done
 
-          echo "❌ Could not push after 5 attempts (persistent race)."
-          exit 1
+          # Still racing after 8 tries: the drain we processed is preserved and
+          # will be picked up by a subsequent run. Exit SUCCESS so GitHub doesn't
+          # email a failure for this benign, self-healing condition.
+          echo "ℹ️  Could not win push race after 8 attempts — leaving for the"
+          echo "   next run to reprocess (drain is preserved). Exiting cleanly."
+          exit 0
