@@ -2,8 +2,78 @@
   "tasks": [
     {
       "source": "TASKS",
+      "id": 11176,
+      "row": 255,
+      "label": "\u2728 Eval check in: kids income, file status, AOTC and Lifetime Learning Credit \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:11176"
+    },
+    {
+      "source": "TASKS",
+      "id": 11191,
+      "row": 259,
+      "label": "\u2728 Measure Evan \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11191"
+    },
+    {
+      "source": "TASKS",
+      "id": 11502,
+      "row": 320,
+      "label": "\u2728 Review IXL assessments for Lincoln",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 20,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11502"
+    },
+    {
+      "source": "TASKS",
+      "id": 11598,
+      "row": 366,
+      "label": "\u2728 Review Pura schedules, adjust/turn off where not needed",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11598"
+    },
+    {
+      "source": "TASKS",
+      "id": 11609,
+      "row": 370,
+      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11609"
+    },
+    {
+      "source": "TASKS",
       "id": 11635,
-      "row": 394,
+      "row": 392,
       "label": "\u2728 Clear the upstairs trashes",
       "aw": 4,
       "pri": null,
@@ -17,7 +87,7 @@
     {
       "source": "TASKS",
       "id": 11636,
-      "row": 395,
+      "row": 393,
       "label": "\u2728 Weekly Xmind outlines review/actions!",
       "aw": 4,
       "pri": "Medium",
@@ -44,9 +114,9 @@
     },
     {
       "source": "TASKS",
-      "id": 11449,
-      "row": 302,
-      "label": "WWAMI app cycle",
+      "id": 11450,
+      "row": 301,
+      "label": "Research TCU Med School cost",
       "aw": 5,
       "pri": "Soon",
       "dur": null,
@@ -54,7 +124,7 @@
       "proj": "Bentley Pre-Med",
       "cat": "Education",
       "critical": false,
-      "uid": "TASKS:11449"
+      "uid": "TASKS:11450"
     },
     {
       "source": "TASKS",
@@ -72,6 +142,20 @@
     },
     {
       "source": "TASKS",
+      "id": 11104,
+      "row": 239,
+      "label": "Fix open thread on papasan chair \ud83e\ude91\ud83e\uddf5",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11104"
+    },
+    {
+      "source": "TASKS",
       "id": 10237,
       "row": 99,
       "label": "Cancel Slate card",
@@ -86,8 +170,36 @@
     },
     {
       "source": "TASKS",
+      "id": 11141,
+      "row": 246,
+      "label": "Set up Claude Cowork to summarize Instagram Reels from my account \ud83e\udd16\ud83d\udcf1",
+      "aw": 5,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11141"
+    },
+    {
+      "source": "TASKS",
+      "id": 10025,
+      "row": 434,
+      "label": "Stain cherry shelves when they arrive",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 90,
+      "ml": "Medium",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10025"
+    },
+    {
+      "source": "TASKS",
       "id": 11121,
-      "row": 245,
+      "row": 244,
       "label": "Write Bentley back about endowments",
       "aw": 4,
       "pri": "High",
@@ -99,23 +211,9 @@
       "uid": "TASKS:11121"
     },
     {
-      "source": "TASKS",
-      "id": 10464,
-      "row": 435,
-      "label": "Help Jake write private lesson email \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10464"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11083,
-      "parentRow": 237,
+      "parentRow": 236,
       "parentLabel": "Line item the Amazon Vine tax file \ud83d\udcdd",
       "stepIndex": 0,
       "aw": 2,
@@ -127,7 +225,7 @@
     {
       "source": "COURAGE",
       "parentId": 11075,
-      "parentRow": 233,
+      "parentRow": 232,
       "parentLabel": "Reconcile Chase Hyatt card statement",
       "stepIndex": 0,
       "aw": 2,
@@ -135,6 +233,18 @@
       "label": "\ud83d\udd25 Reconcile Chase Hyatt card statement",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11075:0"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11221,
+      "parentRow": 436,
+      "parentLabel": "Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
+      "stepIndex": 0,
+      "aw": 2,
+      "due": "2026-04-03",
+      "label": "\ud83d\udd25 Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11221:0"
     },
     {
       "source": "ZONES",
@@ -245,6 +355,16 @@
       "uid": "TASKS:10599"
     },
     {
+      "source": "TASKS",
+      "id": 10365,
+      "row": 437,
+      "label": "\ud83d\udc38 Submit Bentley's PFD form to TCU \ud83d\udcdd",
+      "emoji": "\ud83d\udc38",
+      "aw": 2,
+      "specialZone": "Frog",
+      "uid": "TASKS:10365"
+    },
+    {
       "source": "SPIN_WHEEL",
       "sid": 1,
       "row": 2,
@@ -254,163 +374,86 @@
     {
       "source": "SPIN_WHEEL",
       "sid": 4,
-      "row": 4,
+      "row": 3,
       "label": "Review building permit posted",
       "uid": "SPIN:4"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 5,
-      "row": 5,
+      "row": 4,
       "label": "Petalkin handle",
       "uid": "SPIN:5"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 6,
-      "row": 6,
+      "row": 5,
       "label": "posykin handle **",
       "uid": "SPIN:6"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 7,
-      "row": 7,
+      "row": 6,
       "label": "Draft veneer plan",
       "uid": "SPIN:7"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 8,
-      "row": 8,
+      "row": 7,
       "label": "Spray adhesive for sand table",
       "uid": "SPIN:8"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 9,
-      "row": 9,
+      "row": 8,
       "label": "Bathroom knos",
       "uid": "SPIN:9"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 13,
-      "row": 10,
+      "row": 9,
       "label": "Load Musiah to ipad**",
       "uid": "SPIN:13"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 14,
-      "row": 11,
+      "row": 10,
       "label": "Genevieve double degree",
       "uid": "SPIN:14"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 16,
-      "row": 12,
+      "row": 11,
       "label": "Order two new clear bins \ud83d\udce6",
       "uid": "SPIN:16"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 17,
-      "row": 13,
+      "row": 12,
       "label": "Clean rest of baking counter in kitchen \ud83e\uddc1\ud83e\uddfd",
       "uid": "SPIN:17"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 18,
-      "row": 14,
+      "row": 13,
       "label": "Clean up garage shelf from mice",
       "uid": "SPIN:18"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11454,
-      "stepIndex": 0,
-      "parentLabel": "Embry-Riddle: check balance \u2192 pay \u2192 deposit to flight account \u2708\ufe0f\ud83d\udcb0 \ud83d\udcdd",
-      "aw": 1,
-      "due": "2026-05-11",
-      "label": "\ud83d\udd25 Embry-Riddle: check balance \u2192 pay \u2192 deposit to flight account \u2708\ufe0f\ud83d\udcb0 \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11454:0"
-    },
-    {
-      "source": "TASKS",
-      "id": 10369,
-      "row": null,
-      "label": "\ud83d\udc38 The 99-ers: Sign up for membership and eval scholarship due dates",
-      "emoji": "\ud83d\udc38",
-      "aw": 3,
-      "specialZone": "Frog",
-      "pri": "High",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10369"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11055,
-      "stepIndex": 0,
-      "parentLabel": "File CSS Profile for Bentley (TCU) \ud83c\udf93\ud83d\udccb",
-      "aw": 1,
-      "due": "2026-06-08",
-      "label": "\ud83d\udd25 File CSS Profile for Bentley (TCU) \ud83c\udf93\ud83d\udccb",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11055:0"
-    },
-    {
-      "source": "TASKS",
-      "id": 11555,
-      "label": "Get Evan a new belay device \ud83e\uddd7\u200d\u2642\ufe0f",
-      "aw": 3,
-      "pri": "High",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11555"
-    },
-    {
-      "source": "TASKS",
-      "id": 11421,
-      "label": "Finish fixing sand table",
-      "aw": 5,
-      "pri": null,
-      "dur": 30,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11421"
-    },
-    {
-      "source": "TASKS",
-      "id": 10343,
-      "label": "Figure out how to follow up on zoning complaint about neighbors",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10343"
     }
   ],
-  "version": 54,
-  "updated": "2026-06-16T03:03:33.994069+00:00",
+  "version": 55,
+  "updated": "2026-06-16T03:03:59.575602+00:00",
   "buckets": {
-    "TASKS": 13,
-    "COURAGE": 4,
+    "TASKS": 17,
+    "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 12
