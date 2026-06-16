@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11635,
+      "row": 389,
+      "label": "✨ Clear the upstairs trashes",
+      "uid": "TASKS:11635",
+      "_ts": "2026-06-16T03:57:44.457Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-16T03:45:27.801Z",
+  "mirroredAt": "2026-06-16T03:57:44.673Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-16T03:45:28.901888+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10026"
-  ]
+  }
 }
