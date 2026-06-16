@@ -15,12 +15,21 @@
       "label": "🧺 Upstairs Hallway",
       "uid": "ZONES:9",
       "_ts": "2026-06-16T03:44:01.675Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 10365,
+      "row": 437,
+      "label": "🐸 Submit Bentley's PFD form to TCU 📝",
+      "specialZone": "Frog",
+      "uid": "TASKS:10365",
+      "_ts": "2026-06-16T03:44:05.082Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-16T03:44:01.887Z",
+  "mirroredAt": "2026-06-16T03:44:05.343Z",
   "counts": {
-    "completions": 2,
+    "completions": 3,
     "adds": 0
   }
 }
