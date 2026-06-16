@@ -16,12 +16,21 @@
       "label": "🧺 Mudroom",
       "uid": "ZONES:22",
       "_ts": "2026-06-16T03:57:55.834Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 47,
+      "zid": 46,
+      "floor": "Basement",
+      "label": "🧺 Basement Foyer",
+      "uid": "ZONES:46",
+      "_ts": "2026-06-16T03:58:10.305Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-16T03:58:01.721Z",
+  "mirroredAt": "2026-06-16T03:58:10.510Z",
   "counts": {
-    "completions": 2,
+    "completions": 3,
     "adds": 0
   }
 }
