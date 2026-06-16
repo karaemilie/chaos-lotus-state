@@ -6,12 +6,21 @@
       "label": "Ceramic coating of items",
       "uid": "SPIN:1",
       "_ts": "2026-06-16T03:43:59.194Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 10,
+      "zid": 9,
+      "floor": "Upstairs",
+      "label": "🧺 Upstairs Hallway",
+      "uid": "ZONES:9",
+      "_ts": "2026-06-16T03:44:01.675Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-16T03:43:59.540Z",
+  "mirroredAt": "2026-06-16T03:44:01.887Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
