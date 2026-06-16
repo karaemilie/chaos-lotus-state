@@ -280,15 +280,6 @@
     },
     {
       "source": "MAINTENANCE",
-      "mid": 65,
-      "row": 66,
-      "label": "\ud83c\udfe0 Wash towels",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Wash towels",
-      "uid": "MAINTENANCE:65"
-    },
-    {
-      "source": "MAINTENANCE",
       "mid": 67,
       "row": 68,
       "label": "\ud83c\udfe0 Dump healthy bacteria into septic",
@@ -679,10 +670,18 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Plants",
       "uid": "ZONES:74"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 68,
+      "label": "\ud83c\udfe0 Trim cat claws",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Trim cat claws",
+      "uid": "MAINTENANCE:68"
     }
   ],
-  "version": 78,
-  "updated": "2026-06-16T07:15:47.596222+00:00",
+  "version": 79,
+  "updated": "2026-06-16T07:16:39.192851+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
