@@ -345,16 +345,6 @@
       "uid": "TASKS:10376"
     },
     {
-      "source": "TASKS",
-      "id": 10365,
-      "row": 437,
-      "label": "\ud83d\udc38 Submit Bentley's PFD form to TCU \ud83d\udcdd",
-      "emoji": "\ud83d\udc38",
-      "aw": 2,
-      "specialZone": "Frog",
-      "uid": "TASKS:10365"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1,
       "row": 2,
@@ -444,10 +434,26 @@
       "row": 14,
       "label": "Clean up garage shelf from mice",
       "uid": "SPIN:18"
+    },
+    {
+      "source": "TASKS",
+      "id": 10369,
+      "row": null,
+      "label": "\ud83d\udc38 The 99-ers: Sign up for membership and eval scholarship due dates",
+      "emoji": "\ud83d\udc38",
+      "aw": 3,
+      "specialZone": "Frog",
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Education",
+      "critical": true,
+      "uid": "TASKS:10369"
     }
   ],
-  "version": 27,
-  "updated": "2026-06-16T01:26:34.332968+00:00",
+  "version": 28,
+  "updated": "2026-06-16T01:28:11.163628+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
