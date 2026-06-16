@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10369,
+      "label": "🐸 The 99-ers: Sign up for membership and eval scholarship due dates",
+      "specialZone": "Frog",
+      "uid": "TASKS:10369",
+      "_ts": "2026-06-16T02:17:55.850Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-16T01:56:02.433Z",
+  "mirroredAt": "2026-06-16T02:17:56.063Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-16T01:56:03.104254+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10365"
-  ]
+  }
 }
