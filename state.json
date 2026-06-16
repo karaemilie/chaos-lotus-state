@@ -323,13 +323,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 2,
-      "row": 3,
-      "label": "Tape up the practice charts",
-      "uid": "SPIN:2"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 4,
       "row": 4,
       "label": "Review building permit posted",
@@ -444,13 +437,13 @@
       "uid": "COURAGE:11055:0"
     }
   ],
-  "version": 52,
-  "updated": "2026-06-16T02:49:45.984187+00:00",
+  "version": 53,
+  "updated": "2026-06-16T02:50:18.817372+00:00",
   "buckets": {
     "TASKS": 15,
     "COURAGE": 4,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 13
+    "SPIN_WHEEL": 12
   }
 }
