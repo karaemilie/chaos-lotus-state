@@ -58,20 +58,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11625,
-      "row": 397,
-      "label": "Pay Lindsey & Miriam for the week!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11625"
-    },
-    {
-      "source": "TASKS",
       "id": 11637,
       "row": 407,
       "label": "Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
@@ -459,10 +445,23 @@
       "sid": 18,
       "label": "Clean up garage shelf from mice",
       "uid": "SPIN_WHEEL:18"
+    },
+    {
+      "source": "TASKS",
+      "id": 10183,
+      "label": "Research R1A zoned vs R9 - options for new assisted living on street",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10183"
     }
   ],
-  "version": 19,
-  "updated": "2026-06-16T00:36:28.982814+00:00",
+  "version": 20,
+  "updated": "2026-06-16T00:44:47.660620+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
