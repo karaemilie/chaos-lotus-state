@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-16T21:25:49.948Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Try out AI design for living room",
+      "_addedAt": "2026-06-16T22:15:54.509Z",
+      "_ts": "2026-06-16T22:15:54.588Z"
+    }
+  ],
+  "mirroredAt": "2026-06-16T22:15:54.835Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-16T21:25:50.820872+00:00",
-  "lastAutoProcessed": [
-    "SPIN:61"
-  ]
+    "adds": 1
+  }
 }
