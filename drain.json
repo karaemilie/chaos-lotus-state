@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 13,
+      "label": "Find midi cable for Musiah",
+      "uid": "SPIN:12",
+      "_ts": "2026-06-16T00:36:08.344Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,13 +16,9 @@
       "_ts": "2026-06-16T00:29:14.047Z"
     }
   ],
-  "mirroredAt": "2026-06-16T00:29:26.591Z",
+  "mirroredAt": "2026-06-16T00:36:08.571Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
-  },
-  "processedAt": "2026-06-16T00:29:27.341591+00:00",
-  "lastAutoProcessed": [
-    "SPIN:15"
-  ]
+  }
 }
