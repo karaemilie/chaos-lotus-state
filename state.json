@@ -335,16 +335,6 @@
       "uid": "MAINTENANCE:66"
     },
     {
-      "source": "TASKS",
-      "id": 10376,
-      "row": 134,
-      "label": "\ud83d\udcb8 Research chat app opportunities in ChatGPT's new App Store \ud83d\udcdd",
-      "emoji": "\ud83d\udcb8",
-      "aw": 5,
-      "specialZone": "Business",
-      "uid": "TASKS:10376"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1,
       "row": 2,
@@ -450,10 +440,26 @@
       "cat": "Education",
       "critical": true,
       "uid": "TASKS:10369"
+    },
+    {
+      "source": "TASKS",
+      "id": 11592,
+      "row": null,
+      "label": "\ud83d\udcb8 Spend more time on cloudsync chaos wheel \ud83c\udf00\u2601\ufe0f",
+      "emoji": "\ud83d\udcb8",
+      "aw": 5,
+      "specialZone": "Business",
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11592"
     }
   ],
-  "version": 28,
-  "updated": "2026-06-16T01:28:11.163628+00:00",
+  "version": 29,
+  "updated": "2026-06-16T01:28:47.601859+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
