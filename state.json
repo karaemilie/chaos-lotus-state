@@ -430,13 +430,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 15,
-      "row": 16,
-      "label": "Scrub garage spice shelf \ud83e\uddc2\u2728",
-      "uid": "SPIN:15"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 16,
       "row": 17,
       "label": "Order two new clear bins \ud83d\udce6",
@@ -468,13 +461,13 @@
       "uid": "ZONES:85"
     }
   ],
-  "version": 15,
-  "updated": "2026-06-16T00:22:00.285628+00:00",
+  "version": 16,
+  "updated": "2026-06-16T00:28:51.924841+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 15
+    "SPIN_WHEEL": 14
   }
 }
