@@ -3,7 +3,7 @@
     {
       "source": "TASKS",
       "id": 11176,
-      "row": 255,
+      "row": 254,
       "label": "\u2728 Eval check in: kids income, file status, AOTC and Lifetime Learning Credit \ud83d\udcdd",
       "aw": 3,
       "pri": "High",
@@ -17,7 +17,7 @@
     {
       "source": "TASKS",
       "id": 11191,
-      "row": 259,
+      "row": 258,
       "label": "\u2728 Measure Evan \ud83d\udcdd",
       "aw": 4,
       "pri": "Soon",
@@ -31,7 +31,7 @@
     {
       "source": "TASKS",
       "id": 11502,
-      "row": 320,
+      "row": 318,
       "label": "\u2728 Review IXL assessments for Lincoln",
       "aw": 4,
       "pri": "Medium",
@@ -45,7 +45,7 @@
     {
       "source": "TASKS",
       "id": 11598,
-      "row": 366,
+      "row": 364,
       "label": "\u2728 Review Pura schedules, adjust/turn off where not needed",
       "aw": 4,
       "pri": "Medium",
@@ -59,7 +59,7 @@
     {
       "source": "TASKS",
       "id": 11609,
-      "row": 370,
+      "row": 368,
       "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
       "aw": 3,
       "pri": "Medium",
@@ -73,7 +73,7 @@
     {
       "source": "TASKS",
       "id": 11635,
-      "row": 392,
+      "row": 390,
       "label": "\u2728 Clear the upstairs trashes",
       "aw": 4,
       "pri": null,
@@ -100,6 +100,20 @@
     },
     {
       "source": "TASKS",
+      "id": 11511,
+      "row": 320,
+      "label": "Get paint samples for boys room \ud83c\udfa8\ud83d\udecf\ufe0f",
+      "aw": 5,
+      "pri": "Normal",
+      "dur": 30,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11511"
+    },
+    {
+      "source": "TASKS",
       "id": 10477,
       "row": 148,
       "label": "Play around with Claude Cowork!",
@@ -115,7 +129,7 @@
     {
       "source": "TASKS",
       "id": 11104,
-      "row": 239,
+      "row": 238,
       "label": "Fix open thread on papasan chair \ud83e\ude91\ud83e\uddf5",
       "aw": 4,
       "pri": "Soon",
@@ -143,7 +157,7 @@
     {
       "source": "TASKS",
       "id": 11141,
-      "row": 246,
+      "row": 245,
       "label": "Set up Claude Cowork to summarize Instagram Reels from my account \ud83e\udd16\ud83d\udcf1",
       "aw": 5,
       "pri": "High",
@@ -156,22 +170,22 @@
     },
     {
       "source": "TASKS",
-      "id": 10025,
+      "id": 11064,
       "row": 434,
-      "label": "Stain cherry shelves when they arrive",
+      "label": "Unpack the Festool Domino \ud83d\udd28\ud83d\udce6",
       "aw": 5,
       "pri": "Soon",
-      "dur": 90,
-      "ml": "Medium",
-      "proj": "Bathroom Built-ins",
+      "dur": 20,
+      "ml": "Easy",
+      "proj": null,
       "cat": "Home",
       "critical": false,
-      "uid": "TASKS:10025"
+      "uid": "TASKS:11064"
     },
     {
       "source": "TASKS",
       "id": 11121,
-      "row": 244,
+      "row": 243,
       "label": "Write Bentley back about endowments",
       "aw": 4,
       "pri": "High",
@@ -181,6 +195,32 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:11121"
+    },
+    {
+      "source": "TASKS",
+      "id": 11592,
+      "row": 426,
+      "label": "Spend more time on cloudsync chaos wheel \ud83c\udf00\u2601\ufe0f",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11592"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11083,
+      "parentRow": 438,
+      "parentLabel": "Line item the Amazon Vine tax file \ud83d\udcdd",
+      "stepIndex": 0,
+      "aw": 2,
+      "due": "2026-03-28",
+      "label": "\ud83d\udd25 Line item the Amazon Vine tax file \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11083:0"
     },
     {
       "source": "COURAGE",
@@ -197,7 +237,7 @@
     {
       "source": "COURAGE",
       "parentId": 11221,
-      "parentRow": 436,
+      "parentRow": 433,
       "parentLabel": "Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
       "stepIndex": 0,
       "aw": 2,
@@ -267,6 +307,25 @@
       "uid": "ZONES:73"
     },
     {
+      "source": "ZONES",
+      "zid": 83,
+      "floor": "Personal",
+      "row": 84,
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Hand Care & Mani",
+      "uid": "ZONES:83"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 65,
+      "row": 66,
+      "label": "\ud83c\udfe0 Wash towels",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Wash towels",
+      "uid": "MAINTENANCE:65"
+    },
+    {
       "source": "MAINTENANCE",
       "mid": 66,
       "row": 67,
@@ -286,6 +345,16 @@
       "uid": "TASKS:10599"
     },
     {
+      "source": "TASKS",
+      "id": 10365,
+      "row": 437,
+      "label": "\ud83d\udc38 Submit Bentley's PFD form to TCU \ud83d\udcdd",
+      "emoji": "\ud83d\udc38",
+      "aw": 2,
+      "specialZone": "Frog",
+      "uid": "TASKS:10365"
+    },
+    {
       "source": "SPIN_WHEEL",
       "sid": 1,
       "row": 2,
@@ -302,196 +371,67 @@
     {
       "source": "SPIN_WHEEL",
       "sid": 6,
-      "row": 5,
+      "row": 4,
       "label": "posykin handle **",
       "uid": "SPIN:6"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 7,
-      "row": 6,
+      "row": 5,
       "label": "Draft veneer plan",
       "uid": "SPIN:7"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 8,
-      "row": 7,
+      "row": 6,
       "label": "Spray adhesive for sand table",
       "uid": "SPIN:8"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 9,
-      "row": 8,
+      "row": 7,
       "label": "Bathroom knos",
       "uid": "SPIN:9"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 13,
-      "row": 9,
+      "row": 8,
       "label": "Load Musiah to ipad**",
       "uid": "SPIN:13"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 14,
-      "row": 10,
+      "row": 9,
       "label": "Genevieve double degree",
       "uid": "SPIN:14"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 16,
-      "row": 11,
+      "row": 10,
       "label": "Order two new clear bins \ud83d\udce6",
       "uid": "SPIN:16"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 17,
-      "row": 12,
+      "row": 11,
       "label": "Clean rest of baking counter in kitchen \ud83e\uddc1\ud83e\uddfd",
       "uid": "SPIN:17"
-    },
-    {
-      "source": "ZONES",
-      "zid": 83,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Hand Care & Mani",
-      "uid": "ZONES:83"
-    },
-    {
-      "source": "ZONES",
-      "zid": 84,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Mask",
-      "uid": "ZONES:84"
-    },
-    {
-      "source": "MAINTENANCE",
-      "mid": 67,
-      "label": "\ud83c\udfe0 Dump healthy bacteria into septic",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Dump healthy bacteria into septic",
-      "uid": "MAINTENANCE:67"
-    },
-    {
-      "source": "TASKS",
-      "id": 11532,
-      "label": "Research why proper razor + chemical disposal matters (kids service project) \ud83e\ude92\u267b\ufe0f\ud83d\udcda",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11532"
-    },
-    {
-      "source": "TASKS",
-      "id": 10369,
-      "row": null,
-      "label": "\ud83d\udc38 The 99-ers: Sign up for membership and eval scholarship due dates",
-      "emoji": "\ud83d\udc38",
-      "aw": 3,
-      "specialZone": "Frog",
-      "pri": "High",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10369"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11281,
-      "stepIndex": 0,
-      "parentLabel": "Fill out Bentley's fall rental sublet forms \ud83c\udfe0\ud83d\udccb",
-      "aw": 1,
-      "due": "2026-04-13",
-      "label": "\ud83d\udd25 Fill out Bentley's fall rental sublet forms \ud83c\udfe0\ud83d\udccb",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11281:0"
-    },
-    {
-      "source": "TASKS",
-      "id": 10073,
-      "label": "Figure out what to invest $18k ROTH in \ud83d\udcdd",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 45,
-      "ml": "Hard",
-      "proj": "Financial Admin",
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10073"
-    },
-    {
-      "source": "ZONES",
-      "zid": 85,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Epilate Legs",
-      "uid": "ZONES:85"
-    },
-    {
-      "source": "ZONES",
-      "zid": 86,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Eyebrows",
-      "uid": "ZONES:86"
-    },
-    {
-      "source": "MAINTENANCE",
-      "mid": 68,
-      "label": "\ud83c\udfe0 Trim cat claws",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Trim cat claws",
-      "uid": "MAINTENANCE:68"
-    },
-    {
-      "source": "TASKS",
-      "id": 10088,
-      "label": "Research and pick credit card for Genevieve \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": "Genevieve Credit Card Setup",
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10088"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11454,
-      "stepIndex": 0,
-      "parentLabel": "Embry-Riddle: check balance \u2192 pay \u2192 deposit to flight account \u2708\ufe0f\ud83d\udcb0 \ud83d\udcdd",
-      "aw": 1,
-      "due": "2026-05-11",
-      "label": "\ud83d\udd25 Embry-Riddle: check balance \u2192 pay \u2192 deposit to flight account \u2708\ufe0f\ud83d\udcb0 \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11454:0"
     }
   ],
-  "version": 59,
-  "updated": "2026-06-16T03:21:52.196138+00:00",
+  "version": 60,
+  "updated": "2026-06-16T03:27:53.407125+00:00",
   "buckets": {
-    "TASKS": 18,
-    "COURAGE": 4,
-    "ZONES": 10,
-    "MAINTENANCE": 3,
+    "TASKS": 17,
+    "COURAGE": 3,
+    "ZONES": 7,
+    "MAINTENANCE": 2,
     "SPIN_WHEEL": 10
   }
 }
