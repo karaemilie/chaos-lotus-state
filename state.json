@@ -72,20 +72,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11635,
-      "row": 389,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11635"
-    },
-    {
-      "source": "TASKS",
       "id": 10032,
       "row": 14,
       "label": "Research local robotics leagues for Evan \ud83d\udcdd",
@@ -409,10 +395,23 @@
       "row": 9,
       "label": "Clean rest of baking counter in kitchen \ud83e\uddc1\ud83e\uddfd",
       "uid": "SPIN:17"
+    },
+    {
+      "source": "TASKS",
+      "id": 10224,
+      "label": "Research online volunteering options for Bentley to build hours \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "Bentley Support",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10224"
     }
   ],
-  "version": 67,
-  "updated": "2026-06-16T03:49:40.014207+00:00",
+  "version": 68,
+  "updated": "2026-06-16T03:57:59.239524+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
