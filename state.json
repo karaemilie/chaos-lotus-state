@@ -308,16 +308,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 81,
-      "floor": "Personal",
-      "row": 82,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Exfoliation",
-      "uid": "ZONES:81"
-    },
-    {
-      "source": "ZONES",
       "zid": 82,
       "floor": "Personal",
       "row": 83,
@@ -447,10 +437,19 @@
       "row": 13,
       "label": "Clean up garage shelf from mice",
       "uid": "SPIN:18"
+    },
+    {
+      "source": "ZONES",
+      "zid": 83,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Hand Care & Mani",
+      "uid": "ZONES:83"
     }
   ],
-  "version": 55,
-  "updated": "2026-06-16T03:03:59.575602+00:00",
+  "version": 56,
+  "updated": "2026-06-16T03:20:19.119625+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
