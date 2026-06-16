@@ -488,7 +488,12 @@ def apply_refills(wb, processed_completions, today, pending_uids=None):
     reset_floors = []  # floors whose Completed dates need a Claude-side reset
     for comp in processed_completions:
         src = comp.get("source")
-        new_item = refill.refill_for(src, wb, comp, exclude, today)
+        # TRUE on-wheel TASKS count (recomputed each iteration as refills are
+        # appended) — NOT the exclude set, which is polluted with just-completed
+        # task uids. The cap-guard must measure the actual wheel so a batch of
+        # completions can each refill instead of being blocked after the first.
+        real_task_count = sum(1 for t in tasks if t.get("source") == "TASKS")
+        new_item = refill.refill_for(src, wb, comp, exclude, today, wheel_task_count=real_task_count)
         if new_item:
             # Catch a floor-wrap reset signal (strip it before storing on wheel)
             rf_floor = new_item.pop("_resetFloor", None)
@@ -749,37 +754,41 @@ def main():
             pending_queue_uids.add(f"TASKS:{pid}")
             pending_queue_uids.add(f"COURAGE:{pid}:0")
 
-    if processed_uids:
-        # 5b. AUTO-REFILL: remove completed from wheel, add fresh items
-        print(f"\n🔄 Refilling wheel...")
-        today_ak = alaska_stamp_date().date()
-        refill_summary, refill_ok, reset_floors_a = apply_refills(wb, processed_comps, today_ak, pending_uids=pending_queue_uids)
-        all_reset_floors += reset_floors_a
-        for line in refill_summary:
-            print(f"   {line}")
-
-    # 5c. TASKS/COURAGE: refill the wheel slot instantly, THEN finalize the
-    # completion in the Beast via the canonical engine (single source of truth).
-    # If finalize succeeds, the uid becomes fully processed (cleared from drain
-    # + KV). If it fails (audit/error), it stays queued for Claude as a fallback.
+    # 5b+5c MERGED: refill ZONES/MAINT/SPIN *and* TASKS/COURAGE in ONE state
+    # read-modify-write. Previously these were two separate apply_refills calls,
+    # each independently loading + saving state.json. In a batch run (mixed zone
+    # + task completions) they raced: the 2nd call loaded state BEFORE the 1st
+    # saved, so its write clobbered the 1st's removals/refills — leaving a
+    # completed zone stuck on the wheel (zombie) AND dropping refills (wheel
+    # short of target). One combined call = one atomic state cycle = no race.
     tc_comps = [c for c in other_completions if c.get("source") in ("TASKS", "COURAGE")]
     refill_only = [c for c in tc_comps if not c.get("_refilled")]
-    if refill_only:
-        print(f"\n🔄 Instant-refill for {len(refill_only)} TASKS/COURAGE:")
-        wb_refill = wb
-        if wb_refill is None:
-            try:
-                rb_bytes, _ = load_beast()
-                wb_refill = load_workbook(io.BytesIO(rb_bytes))
-            except Exception as e:
-                print(f"   ⚠️  couldn't load beast for refill: {e}")
-                wb_refill = None
-        if wb_refill is not None:
-            others_pending = {c.get("uid") for c in other_completions if c.get("_refilled")}
-            ro_summary, _, reset_floors_b = apply_refills(wb_refill, refill_only, alaska_stamp_date().date(), pending_uids=others_pending)
-            for line in ro_summary:
-                print(f"   {line}")
-            all_reset_floors += reset_floors_b
+
+    # Ensure we have a workbook for the TASKS/COURAGE refill eligibility lookups.
+    wb_refill = wb
+    if wb_refill is None and refill_only:
+        try:
+            rb_bytes, _ = load_beast()
+            wb_refill = load_workbook(io.BytesIO(rb_bytes))
+        except Exception as e:
+            print(f"   ⚠️  couldn't load beast for refill: {e}")
+            wb_refill = None
+
+    # Combined completion set for a single refill pass. processed_comps =
+    # ZONES/MAINT/SPIN that auto-processed; refill_only = TASKS/COURAGE.
+    all_refill_comps = list(processed_comps) + list(refill_only)
+    if all_refill_comps and (wb_refill is not None or wb is not None):
+        print(f"\n🔄 Refilling wheel ({len(processed_comps)} zone/maint/spin + {len(refill_only)} task/courage)...")
+        today_ak = alaska_stamp_date().date()
+        # pending = TASKS/COURAGE not yet finalized this run (none here, since
+        # we refill them now) — keep empty so their refills aren't excluded.
+        combined_summary, refill_ok, combined_resets = apply_refills(
+            wb_refill if wb_refill is not None else wb,
+            all_refill_comps, today_ak, pending_uids=set(),
+        )
+        all_reset_floors += combined_resets
+        for line in combined_summary:
+            print(f"   {line}")
 
     # Now finalize ALL pending TASKS/COURAGE in the Beast (including any from
     # prior runs that were refilled but not yet finalized).
