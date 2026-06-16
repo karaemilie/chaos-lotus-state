@@ -170,20 +170,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11064,
-      "row": 434,
-      "label": "Unpack the Festool Domino \ud83d\udd28\ud83d\udce6",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11064"
-    },
-    {
-      "source": "TASKS",
       "id": 11121,
       "row": 243,
       "label": "Write Bentley back about endowments",
@@ -248,16 +234,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 9,
-      "floor": "Upstairs",
-      "row": 10,
-      "label": "\ud83e\uddfa Upstairs Hallway",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Upstairs Hallway",
-      "uid": "ZONES:9"
-    },
-    {
-      "source": "ZONES",
       "zid": 22,
       "floor": "Main Floor",
       "row": 23,
@@ -307,34 +283,6 @@
       "uid": "ZONES:73"
     },
     {
-      "source": "ZONES",
-      "zid": 83,
-      "floor": "Personal",
-      "row": 84,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Hand Care & Mani",
-      "uid": "ZONES:83"
-    },
-    {
-      "source": "MAINTENANCE",
-      "mid": 65,
-      "row": 66,
-      "label": "\ud83c\udfe0 Wash towels",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Wash towels",
-      "uid": "MAINTENANCE:65"
-    },
-    {
-      "source": "MAINTENANCE",
-      "mid": 66,
-      "row": 67,
-      "label": "\ud83c\udfe0 Wax the table",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Wax the table",
-      "uid": "MAINTENANCE:66"
-    },
-    {
       "source": "TASKS",
       "id": 10599,
       "row": 168,
@@ -343,16 +291,6 @@
       "aw": 5,
       "specialZone": "Business",
       "uid": "TASKS:10599"
-    },
-    {
-      "source": "TASKS",
-      "id": 10365,
-      "row": 437,
-      "label": "\ud83d\udc38 Submit Bentley's PFD form to TCU \ud83d\udcdd",
-      "emoji": "\ud83d\udc38",
-      "aw": 2,
-      "specialZone": "Frog",
-      "uid": "TASKS:10365"
     },
     {
       "source": "SPIN_WHEEL",
@@ -398,13 +336,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 14,
-      "row": 9,
-      "label": "Genevieve double degree",
-      "uid": "SPIN:14"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 16,
       "row": 10,
       "label": "Order two new clear bins \ud83d\udce6",
@@ -416,15 +347,78 @@
       "row": 11,
       "label": "Clean rest of baking counter in kitchen \ud83e\uddc1\ud83e\uddfd",
       "uid": "SPIN:17"
+    },
+    {
+      "source": "ZONES",
+      "zid": 10,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Boys Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Boys Room",
+      "uid": "ZONES:10"
+    },
+    {
+      "source": "ZONES",
+      "zid": 84,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Mask",
+      "uid": "ZONES:84"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 67,
+      "label": "\ud83c\udfe0 Dump healthy bacteria into septic",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Dump healthy bacteria into septic",
+      "uid": "MAINTENANCE:67"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 68,
+      "label": "\ud83c\udfe0 Trim cat claws",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Trim cat claws",
+      "uid": "MAINTENANCE:68"
+    },
+    {
+      "source": "TASKS",
+      "id": 10369,
+      "row": null,
+      "label": "\ud83d\udc38 The 99-ers: Sign up for membership and eval scholarship due dates",
+      "emoji": "\ud83d\udc38",
+      "aw": 3,
+      "specialZone": "Frog",
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10369"
+    },
+    {
+      "source": "TASKS",
+      "id": 10025,
+      "label": "Stain cherry shelves when they arrive",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 90,
+      "ml": "Medium",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10025"
     }
   ],
-  "version": 64,
-  "updated": "2026-06-16T03:44:15.401992+00:00",
+  "version": 65,
+  "updated": "2026-06-16T03:44:51.487266+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
-    "MAINTENANCE": 2,
-    "SPIN_WHEEL": 9
+    "SPIN_WHEEL": 8,
+    "MAINTENANCE": 2
   }
 }
