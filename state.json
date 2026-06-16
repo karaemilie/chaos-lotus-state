@@ -307,16 +307,6 @@
       "uid": "ZONES:73"
     },
     {
-      "source": "ZONES",
-      "zid": 84,
-      "floor": "Personal",
-      "row": 85,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Mask",
-      "uid": "ZONES:84"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 65,
       "row": 66,
@@ -324,15 +314,6 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Wash towels",
       "uid": "MAINTENANCE:65"
-    },
-    {
-      "source": "MAINTENANCE",
-      "mid": 66,
-      "row": 67,
-      "label": "\ud83c\udfe0 Wax the table",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Wax the table",
-      "uid": "MAINTENANCE:66"
     },
     {
       "source": "TASKS",
@@ -450,10 +431,27 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10369"
+    },
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Epilate Legs",
+      "uid": "ZONES:85"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 67,
+      "label": "\ud83c\udfe0 Dump healthy bacteria into septic",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Dump healthy bacteria into septic",
+      "uid": "MAINTENANCE:67"
     }
   ],
-  "version": 43,
-  "updated": "2026-06-16T02:30:15.623256+00:00",
+  "version": 44,
+  "updated": "2026-06-16T02:30:53.733679+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
