@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "COURAGE",
+      "parentId": 11221,
+      "stepIndex": 0,
+      "label": "🔥 Email WWAMI re: personal letter for Bentley application 📝",
+      "uid": "COURAGE:11221:0",
+      "_ts": "2026-06-16T02:48:54.832Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-16T02:34:15.063Z",
+  "mirroredAt": "2026-06-16T02:48:55.059Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-16T02:34:16.004319+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10025"
-  ]
+  }
 }
