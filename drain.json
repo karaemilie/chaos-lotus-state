@@ -1,16 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10025,
+      "row": 12,
+      "label": "Stain cherry shelves when they arrive",
+      "uid": "TASKS:10025",
+      "_ts": "2026-06-16T02:33:56.315Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-16T02:30:57.318Z",
+  "mirroredAt": "2026-06-16T02:33:56.689Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-16T02:30:58.272420+00:00",
-  "lastAutoProcessed": [
-    "ZONES:84",
-    "MAINTENANCE:66",
-    "TASKS:10365",
-    "TASKS:11640"
-  ]
+  }
 }
