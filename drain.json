@@ -1,6 +1,13 @@
 {
   "completions": [
     {
+      "source": "SPIN_WHEEL",
+      "row": 2,
+      "label": "Ceramic coating of items",
+      "uid": "SPIN:1",
+      "_ts": "2026-06-16T03:43:59.194Z"
+    },
+    {
       "source": "ZONES",
       "row": 10,
       "zid": 9,
@@ -26,12 +33,26 @@
       "label": "👱‍♀️ Hand Care & Mani",
       "uid": "ZONES:83",
       "_ts": "2026-06-16T03:44:11.522Z"
+    },
+    {
+      "source": "MAINTENANCE",
+      "row": 66,
+      "label": "🏠 Wash towels",
+      "uid": "MAINTENANCE:65",
+      "_ts": "2026-06-16T03:44:16.687Z"
+    },
+    {
+      "source": "MAINTENANCE",
+      "row": 67,
+      "label": "🏠 Wax the table",
+      "uid": "MAINTENANCE:66",
+      "_ts": "2026-06-16T03:44:19.909Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-16T03:44:16.513Z",
+  "mirroredAt": "2026-06-16T03:44:20.116Z",
   "counts": {
-    "completions": 3,
+    "completions": 6,
     "adds": 0
   }
 }
