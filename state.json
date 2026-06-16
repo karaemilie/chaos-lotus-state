@@ -356,13 +356,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1,
-      "row": 2,
-      "label": "Ceramic coating of items",
-      "uid": "SPIN:1"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 4,
       "row": 3,
       "label": "Review building permit posted",
@@ -425,13 +418,13 @@
       "uid": "SPIN:17"
     }
   ],
-  "version": 63,
-  "updated": "2026-06-16T03:29:11.981687+00:00",
+  "version": 64,
+  "updated": "2026-06-16T03:44:15.401992+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 10
+    "SPIN_WHEEL": 9
   }
 }
