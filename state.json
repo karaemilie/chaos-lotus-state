@@ -184,18 +184,6 @@
     },
     {
       "source": "COURAGE",
-      "parentId": 10316,
-      "parentRow": 122,
-      "parentLabel": "Book Genevieve's May ticket home \ud83d\udcdd",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-03-28",
-      "label": "\ud83d\udd25 Book Genevieve's May ticket home \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:10316:0"
-    },
-    {
-      "source": "COURAGE",
       "parentId": 11083,
       "parentRow": 245,
       "parentLabel": "Line item the Amazon Vine tax file \ud83d\udcdd",
@@ -457,10 +445,21 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:11450"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11221,
+      "stepIndex": 0,
+      "parentLabel": "Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
+      "aw": 2,
+      "due": "2026-04-03",
+      "label": "\ud83d\udd25 Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11221:0"
     }
   ],
-  "version": 22,
-  "updated": "2026-06-16T01:00:54.779252+00:00",
+  "version": 23,
+  "updated": "2026-06-16T01:05:34.950372+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
