@@ -344,13 +344,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 16,
-      "row": 7,
-      "label": "Order two new clear bins \ud83d\udce6",
-      "uid": "SPIN:16"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 17,
       "row": 8,
       "label": "Clean rest of baking counter in kitchen \ud83e\uddc1\ud83e\uddfd",
@@ -680,13 +673,13 @@
       "uid": "MAINTENANCE:68"
     }
   ],
-  "version": 79,
-  "updated": "2026-06-16T07:16:39.192851+00:00",
+  "version": 80,
+  "updated": "2026-06-16T07:18:13.356823+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 47
+    "SPIN_WHEEL": 46
   }
 }
