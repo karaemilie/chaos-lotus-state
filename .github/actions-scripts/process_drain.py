@@ -400,16 +400,46 @@ def load_state_json():
 
 
 def save_state_json(state, sha, commit_msg):
-    """Save state.json back to chaos-lotus-state repo."""
+    """Save state.json back to chaos-lotus-state repo, with SHA-conflict retry.
+
+    Rapid completions trigger overlapping Action runs whose state.json writes
+    race: the second writer's `sha` goes stale, GitHub returns 409 Conflict,
+    and without a retry that write (INCLUDING its version bump) is silently
+    lost — leaving the live state at a stale version, so front-ends that gate
+    on `version` never see the update and keep showing completed items (ghosts).
+
+    On conflict we re-fetch the current state, replay our task-set + a version
+    bump ON TOP of whatever landed meanwhile, and retry — up to 4 times.
+    """
     import base64
-    body = {
-        "message": commit_msg,
-        "content": base64.b64encode(json.dumps(state, indent=2, default=str).encode()).decode(),
-        "branch": "main",
-    }
-    if sha:
-        body["sha"] = sha
-    status, result = gh("PUT", "/repos/karaemilie/chaos-lotus-state/contents/state.json", body)
+
+    def _put(body_state, body_sha):
+        body = {
+            "message": commit_msg,
+            "content": base64.b64encode(json.dumps(body_state, indent=2, default=str).encode()).decode(),
+            "branch": "main",
+        }
+        if body_sha:
+            body["sha"] = body_sha
+        return gh("PUT", "/repos/karaemilie/chaos-lotus-state/contents/state.json", body)
+
+    status, result = _put(state, sha)
+    attempts = 0
+    while status == 409 and attempts < 4:
+        attempts += 1
+        print(f"   ⚠️  state.json 409 conflict — reloading + retrying ({attempts}/4)")
+        fresh, fresh_sha = load_state_json()
+        if fresh is None:
+            break
+        # Replay our intended task-set on top of fresh, bump version from fresh
+        # so it always strictly increases past whatever just landed.
+        merged = dict(fresh)
+        merged["tasks"] = state.get("tasks", fresh.get("tasks", []))
+        merged["version"] = fresh.get("version", 0) + 1
+        merged["updated"] = state.get("updated")
+        merged["buckets"] = state.get("buckets", fresh.get("buckets"))
+        state = merged
+        status, result = _put(state, fresh_sha)
     return status, result
 
 
