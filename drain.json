@@ -1,9 +1,31 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 10,
+      "label": "Bathroom knos",
+      "uid": "SPIN_WHEEL:10",
+      "_ts": "2026-06-15T08:31:48.287Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 11,
+      "label": "Research Lowes SawStop",
+      "uid": "SPIN:10",
+      "_ts": "2026-06-16T00:21:14.562Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 4,
+      "label": "Claude business convo with Evan",
+      "uid": "SPIN:3",
+      "_ts": "2026-06-16T00:21:41.842Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-16T00:21:27.717Z",
+  "mirroredAt": "2026-06-16T00:21:42.050Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
   }
 }
