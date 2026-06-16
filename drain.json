@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-16T00:28:53.415Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 16,
+      "label": "Scrub garage spice shelf 🧂✨",
+      "uid": "SPIN:15",
+      "_ts": "2026-06-16T00:28:32.224Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Clean up garage shelf from mice",
+      "_addedAt": "2026-06-16T00:29:13.935Z",
+      "_ts": "2026-06-16T00:29:14.047Z"
+    }
+  ],
+  "mirroredAt": "2026-06-16T00:29:14.286Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-16T00:28:54.389572+00:00",
-  "lastAutoProcessed": [
-    "SPIN:15"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
