@@ -1,6 +1,15 @@
 {
   "completions": [
     {
+      "source": "ZONES",
+      "row": 82,
+      "zid": 81,
+      "floor": "Personal",
+      "label": "👱‍♀️ Face Exfoliation",
+      "uid": "ZONES:81",
+      "_ts": "2026-06-16T03:20:06.617Z"
+    },
+    {
       "source": "TASKS",
       "id": 11636,
       "row": 393,
@@ -16,12 +25,27 @@
       "specialZone": "Frog",
       "uid": "TASKS:10365",
       "_ts": "2026-06-16T03:20:17.994Z"
+    },
+    {
+      "source": "MAINTENANCE",
+      "row": 66,
+      "label": "🏠 Wash towels",
+      "uid": "MAINTENANCE:65",
+      "_ts": "2026-06-16T03:20:21.484Z"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11083,
+      "stepIndex": 0,
+      "label": "🔥 Line item the Amazon Vine tax file 📝",
+      "uid": "COURAGE:11083:0",
+      "_ts": "2026-06-16T03:20:24.853Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-16T03:20:20.035Z",
+  "mirroredAt": "2026-06-16T03:20:25.049Z",
   "counts": {
-    "completions": 2,
+    "completions": 5,
     "adds": 0
   }
 }
