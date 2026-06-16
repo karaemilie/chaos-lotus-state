@@ -452,15 +452,22 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Epilate Legs",
       "uid": "ZONES:85"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 18,
+      "sid": 18,
+      "label": "Clean up garage shelf from mice",
+      "uid": "SPIN_WHEEL:18"
     }
   ],
-  "version": 18,
-  "updated": "2026-06-16T00:36:27.087033+00:00",
+  "version": 19,
+  "updated": "2026-06-16T00:36:28.982814+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 13
+    "SPIN_WHEEL": 14
   }
 }
