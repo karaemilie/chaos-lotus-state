@@ -434,19 +434,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10183,
-      "label": "Research R1A zoned vs R9 - options for new assisted living on street",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10183"
-    },
-    {
-      "source": "TASKS",
       "id": 11577,
       "label": "Check if NMS offers scholarship for summer classes \ud83c\udf93\ud83d\udcb0",
       "aw": 4,
@@ -472,10 +459,10 @@
       "uid": "TASKS:11450"
     }
   ],
-  "version": 21,
-  "updated": "2026-06-16T00:45:24.076063+00:00",
+  "version": 22,
+  "updated": "2026-06-16T01:00:54.779252+00:00",
   "buckets": {
-    "TASKS": 18,
+    "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
