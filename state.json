@@ -639,13 +639,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 53,
-      "row": 42,
-      "label": "Write Etsy seller about shipping speed",
-      "uid": "SPIN:53"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 54,
       "row": 43,
       "label": "Genevieve plane tickets",
@@ -708,13 +701,13 @@
       "uid": "SPIN_WHEEL:64"
     }
   ],
-  "version": 96,
-  "updated": "2026-06-16T23:15:29.416178+00:00",
+  "version": 97,
+  "updated": "2026-06-16T23:31:23.919748+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 49
+    "SPIN_WHEEL": 48
   }
 }
