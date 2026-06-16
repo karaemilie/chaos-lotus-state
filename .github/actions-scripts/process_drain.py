@@ -739,9 +739,11 @@ def main():
                 processed_uids.append(u)
 
     # 6. Determine what to clear from KV:
-    #    - everything we just processed
+    #    - everything we just processed (completions)
+    #    - every ADD we filed to the SPIN WHEEL sheet (so KV stops re-mirroring
+    #      it — otherwise a filed add lingers as a ghost and can re-fire)
     #    - everything chat-side flagged via drain.json's `pendingClear` field
-    all_clear_uids = list(set(processed_uids) | set(pending_clear_from_chat))
+    all_clear_uids = list(set(processed_uids) | set(processed_add_keys) | set(pending_clear_from_chat))
 
     if all_clear_uids:
         print(f"\n🧹 Calling worker /clear-uids for {len(all_clear_uids)} uid(s):")
