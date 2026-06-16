@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 9,
+      "label": "Quicken",
+      "uid": "SPIN:19",
+      "_ts": "2026-06-16T08:27:49.444Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-16T08:18:58.078Z",
+  "mirroredAt": "2026-06-16T08:27:49.751Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-16T08:18:59.161339+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10404"
-  ]
+  }
 }
