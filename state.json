@@ -611,13 +611,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 48,
-      "row": 37,
-      "label": "Ponder treadmill for Mom",
-      "uid": "SPIN:48"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 49,
       "row": 38,
       "label": "Spray for spiders",
@@ -722,13 +715,13 @@
       "uid": "SPIN_WHEEL:64"
     }
   ],
-  "version": 94,
-  "updated": "2026-06-16T22:43:32.757797+00:00",
+  "version": 95,
+  "updated": "2026-06-16T23:14:53.707378+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 51
+    "SPIN_WHEEL": 50
   }
 }
