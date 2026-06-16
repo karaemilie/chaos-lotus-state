@@ -198,18 +198,6 @@
     },
     {
       "source": "COURAGE",
-      "parentId": 11083,
-      "parentRow": 435,
-      "parentLabel": "Line item the Amazon Vine tax file \ud83d\udcdd",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-03-28",
-      "label": "\ud83d\udd25 Line item the Amazon Vine tax file \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11083:0"
-    },
-    {
-      "source": "COURAGE",
       "parentId": 11075,
       "parentRow": 231,
       "parentLabel": "Reconcile Chase Hyatt card statement",
@@ -241,26 +229,6 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Upstairs Hallway",
       "uid": "ZONES:9"
-    },
-    {
-      "source": "ZONES",
-      "zid": 22,
-      "floor": "Main Floor",
-      "row": 23,
-      "label": "\ud83e\uddfa Mudroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Mudroom",
-      "uid": "ZONES:22"
-    },
-    {
-      "source": "ZONES",
-      "zid": 46,
-      "floor": "Basement",
-      "row": 47,
-      "label": "\ud83e\uddfa Basement Foyer",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Foyer",
-      "uid": "ZONES:46"
     },
     {
       "source": "ZONES",
@@ -363,13 +331,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 8,
-      "row": 5,
-      "label": "Spray adhesive for sand table",
-      "uid": "SPIN:8"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 9,
       "row": 6,
       "label": "Bathroom knos",
@@ -408,15 +369,44 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10224"
+    },
+    {
+      "source": "ZONES",
+      "zid": 23,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Kitchen",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Kitchen",
+      "uid": "ZONES:23"
+    },
+    {
+      "source": "ZONES",
+      "zid": 47,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Back Annex",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Back Annex",
+      "uid": "ZONES:47"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11281,
+      "stepIndex": 0,
+      "parentLabel": "Fill out Bentley's fall rental sublet forms \ud83c\udfe0\ud83d\udccb",
+      "aw": 1,
+      "due": "2026-04-13",
+      "label": "\ud83d\udd25 Fill out Bentley's fall rental sublet forms \ud83c\udfe0\ud83d\udccb",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11281:0"
     }
   ],
-  "version": 68,
-  "updated": "2026-06-16T03:57:59.239524+00:00",
+  "version": 69,
+  "updated": "2026-06-16T03:58:44.165703+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 8
+    "SPIN_WHEEL": 7
   }
 }
