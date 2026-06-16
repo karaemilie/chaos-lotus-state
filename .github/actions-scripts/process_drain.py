@@ -276,7 +276,12 @@ def process_spin_wheel_completions(wb, comps):
         uid = comp.get("uid", "")
         sid = comp.get("sid")
         if sid is None:
-            sid = _uid_tail_int(uid, "SPIN")
+            # The front-end emits source 'SPIN_WHEEL' with uid 'SPIN_WHEEL:{sid}'.
+            # Older notes/contract sometimes say 'SPIN:{sid}'. Accept BOTH prefixes
+            # so a naming drift can't silently strand a spin completion.
+            sid = _uid_tail_int(uid, "SPIN_WHEEL")
+            if sid is None:
+                sid = _uid_tail_int(uid, "SPIN")
         if sid is None:
             msgs.append(f"  ⚠️  malformed SPIN entry {uid!r}: no resolvable SID")
             continue
