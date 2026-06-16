@@ -57,7 +57,12 @@ COURAGE_AW_RANGE = (1, 2)
 # count is cap + (#specials). We add a small headroom so specials don't permanently
 # block legitimate refills. Headroom = max specials we expect (Frog + Business = 2).
 DAILY_TEN_CAP = 15
-DAILY_TEN_SPECIAL_HEADROOM = 2  # Frog + Business specials also carry source=TASKS
+DAILY_TEN_SPECIAL_HEADROOM = 3  # Frog + Business specials (+1 safety buffer so a
+                               # transient extra special can't block a legit daily-
+                               # ten refill — the "41 short" bug. process_drain now
+                               # dedupes specials, so >2 should never persist, but
+                               # the buffer makes a missed refill impossible even if
+                               # one briefly slips through mid-race.
 
 # Priority sort rank — lower = more urgent. Used for dry-pool fallback.
 PRIORITY_RANK = {
