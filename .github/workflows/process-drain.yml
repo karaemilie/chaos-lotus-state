@@ -44,14 +44,44 @@ jobs:
           CROSS_REPO_TOKEN: ${{ secrets.CROSS_REPO_TOKEN }}
         run: python .github/actions-scripts/process_drain.py
 
-      - name: Commit empty drain.json (if processor cleared it)
+      - name: Commit processed files (drain + receipt) with rebase-retry
         run: |
-          if git diff --quiet drain.json; then
-            echo "drain.json unchanged — nothing to commit"
-          else
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add drain.json
-            git commit -m "🤖 drain.json cleared after processing"
-            git push
+          # The worker (outside this Action) commits drain.json mirrors between
+          # our checkout and our push. A plain `git push` then fails with a
+          # non-fast-forward rejection, and the processed/cleared drain never
+          # lands — so completions bounce back on the next mirror. Fix: stage
+          # our changes, then pull --rebase (re-applying our commit on top of
+          # whatever the worker pushed) and push, retrying a few times to win
+          # any race. last_sync.json is also committed here so the public
+          # verification receipt actually persists.
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage whatever the processor changed (drain always; receipt if written).
+          git add drain.json last_sync.json 2>/dev/null || git add drain.json
+
+          if git diff --cached --quiet; then
+            echo "No staged changes — nothing to commit."
+            exit 0
           fi
+
+          git commit -m "🤖 drain.json processed + receipt updated"
+
+          # Rebase-and-push with retries to survive concurrent worker mirrors.
+          n=0
+          until [ "$n" -ge 5 ]; do
+            # Bring in any commits the worker pushed since our checkout, replaying
+            # our commit on top. --autostash guards any stray unstaged changes.
+            if git pull --rebase --autostash origin main; then
+              if git push origin main; then
+                echo "✅ Pushed processed drain on attempt $((n+1))"
+                exit 0
+              fi
+            fi
+            n=$((n+1))
+            echo "⚠️  push race (attempt $n/5) — retrying in 3s..."
+            sleep 3
+          done
+
+          echo "❌ Could not push after 5 attempts (persistent race)."
+          exit 1
