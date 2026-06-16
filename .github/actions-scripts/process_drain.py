@@ -467,8 +467,21 @@ def apply_refills(wb, processed_completions, today, pending_uids=None):
     tasks = state.get("tasks", [])
     completed_uids = {c.get("uid") for c in processed_completions}
 
+    # IDEMPOTENCY GUARD (prevents over-fill from overlapping/queued Action runs):
+    # When taps fire fast, multiple runs can each see the same completion in the
+    # drain (the worker keeps appending; clears lag). Without this, every run
+    # refills for every completion it sees → the wheel balloons (45 vs 42).
+    # Fix: a completion only earns a refill if its item was ACTUALLY on the wheel
+    # at the start of THIS run. If a prior run already removed it, it's already
+    # been refilled — skip. We capture the pre-removal uid set to decide this.
+    uids_before = {t.get("uid") for t in tasks}
+
     # 1. Remove completed items from the wheel
     tasks = [t for t in tasks if t.get("uid") not in completed_uids]
+
+    # Only these completions get a refill: their item was present before removal.
+    # (Spin/zone/maint matched by uid; tasks/courage matched by uid too.)
+    refillable_uids = {u for u in completed_uids if u in uids_before}
 
     # 2. For each completion, compute a replacement (skip spin — by design).
     #    CRITICAL: exclude the just-completed uids AND their parent-task ids from
@@ -487,6 +500,10 @@ def apply_refills(wb, processed_completions, today, pending_uids=None):
     summary = []
     reset_floors = []  # floors whose Completed dates need a Claude-side reset
     for comp in processed_completions:
+        # Idempotency: skip refill if this completion's item wasn't on the wheel
+        # at the start of this run (a prior overlapping run already handled it).
+        if comp.get("uid") not in refillable_uids:
+            continue
         src = comp.get("source")
         # TRUE on-wheel TASKS count (recomputed each iteration as refills are
         # appended) — NOT the exclude set, which is polluted with just-completed
