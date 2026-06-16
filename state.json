@@ -409,13 +409,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 10,
-      "row": 11,
-      "label": "Research Lowes SawStop",
-      "uid": "SPIN:10"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 11,
       "row": 12,
       "label": "Discuss August plans with Bentley **",
@@ -482,13 +475,13 @@
       "uid": "ZONES:85"
     }
   ],
-  "version": 13,
-  "updated": "2026-06-16T00:04:01.929827+00:00",
+  "version": 14,
+  "updated": "2026-06-16T00:21:26.731523+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 17
+    "SPIN_WHEEL": 16
   }
 }
