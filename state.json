@@ -360,13 +360,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 3,
-      "row": 4,
-      "label": "Claude business convo with Evan",
-      "uid": "SPIN:3"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 4,
       "row": 5,
       "label": "Review building permit posted",
@@ -475,13 +468,13 @@
       "uid": "ZONES:85"
     }
   ],
-  "version": 14,
-  "updated": "2026-06-16T00:21:26.731523+00:00",
+  "version": 15,
+  "updated": "2026-06-16T00:22:00.285628+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 16
+    "SPIN_WHEEL": 15
   }
 }
