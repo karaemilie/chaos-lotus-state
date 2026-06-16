@@ -47,6 +47,18 @@ FLOOR_EMOJI = {
 DAILY_AW_RANGE = (3, 7)
 COURAGE_AW_RANGE = (1, 2)
 
+# Upper cap for the Daily Ten TASKS pool. Mirrors chaos_kv_seed.DAILY_TEN_COUNT.
+# Refill is normally 1:1 (complete one task → add one), but when rapid taps cause
+# two Action runs to process overlapping drain contents, each run can independently
+# refill the same completion, drifting the pool above target. This cap makes refill
+# idempotent: if the wheel already holds >= cap Daily-Ten tasks, add nothing.
+# NOTE: this counts ALL TASKS-source uids on the wheel, which includes the Frog +
+# Business specials (also source=TASKS). Those specials mean the steady-state TASKS
+# count is cap + (#specials). We add a small headroom so specials don't permanently
+# block legitimate refills. Headroom = max specials we expect (Frog + Business = 2).
+DAILY_TEN_CAP = 15
+DAILY_TEN_SPECIAL_HEADROOM = 2  # Frog + Business specials also carry source=TASKS
+
 # Priority sort rank — lower = more urgent. Used for dry-pool fallback.
 PRIORITY_RANK = {
     "ASAP": 0, "High": 1, "Soon": 2, "Normal": 3, "Medium": 3,
@@ -294,7 +306,16 @@ def _available_tasks(wb, today):
 def refill_daily_ten(wb, on_wheel_uids, today):
     """Pick one new AW 3-7 task not already on the wheel. Daily-stable random.
     If the available pool is empty, fall back to the future reservoir
-    (soonest start + highest priority) so the wheel never runs dry."""
+    (soonest start + highest priority) so the wheel never runs dry.
+
+    CAP GUARD: if the wheel already holds at/above the Daily-Ten cap (+ headroom
+    for Frog/Business specials), return None — don't over-fill. This keeps refill
+    idempotent when overlapping Action runs would otherwise each add a task.
+    """
+    tasks_on_wheel = sum(1 for u in on_wheel_uids if isinstance(u, str) and u.startswith("TASKS:"))
+    if tasks_on_wheel >= DAILY_TEN_CAP + DAILY_TEN_SPECIAL_HEADROOM:
+        return None  # already at/over target — refilling would drift the pool up
+
     pool = [t for t in _available_tasks(wb, today)
             if DAILY_AW_RANGE[0] <= t["aw"] <= DAILY_AW_RANGE[1]
             and f"TASKS:{t['id']}" not in on_wheel_uids]
