@@ -340,7 +340,7 @@ def _decorate_label(t):
     return label
 
 
-def refill_daily_ten(wb, on_wheel_uids, today):
+def refill_daily_ten(wb, on_wheel_uids, today, wheel_task_count=None):
     """Pick one new AW 3-7 task not already on the wheel. Daily-stable random.
     If the available pool is empty, fall back to the future reservoir
     (soonest start + highest priority) so the wheel never runs dry.
@@ -348,9 +348,23 @@ def refill_daily_ten(wb, on_wheel_uids, today):
     CAP GUARD: if the wheel already holds at/above the Daily-Ten cap (+ headroom
     for Frog/Business specials), return None — don't over-fill. This keeps refill
     idempotent when overlapping Action runs would otherwise each add a task.
+
+    wheel_task_count: the TRUE number of TASKS-source items actually on the
+    wheel right now. MUST be passed by batch callers — otherwise the guard
+    falls back to counting TASKS: uids in on_wheel_uids, which in a batch is
+    polluted with the just-completed tasks' uids (added to the exclude set so
+    they can't be re-picked). Counting those phantom completed tasks made the
+    guard think the wheel was full after 1 refill, blocking the rest of a batch
+    (the "5 done but only 3 refilled" / "only 3 eligible" bug). When the real
+    count is supplied, the guard measures the actual wheel, not the exclude set.
     """
-    tasks_on_wheel = sum(1 for u in on_wheel_uids if isinstance(u, str) and u.startswith("TASKS:"))
-    if tasks_on_wheel >= DAILY_TEN_CAP + DAILY_TEN_SPECIAL_HEADROOM:
+    if wheel_task_count is None:
+        # Fallback (single-completion callers): count TASKS uids on the wheel.
+        # Accurate enough when exclude isn't batch-polluted.
+        wheel_task_count = sum(
+            1 for u in on_wheel_uids if isinstance(u, str) and u.startswith("TASKS:")
+        )
+    if wheel_task_count >= DAILY_TEN_CAP + DAILY_TEN_SPECIAL_HEADROOM:
         return None  # already at/over target — refilling would drift the pool up
 
     pool = [t for t in _available_tasks(wb, today)
@@ -470,10 +484,13 @@ def refill_courage(wb, on_wheel_uids, today):
 
 
 # ─── DISPATCH ────────────────────────────────────────────────────
-def refill_for(source, wb, completed_comp, on_wheel_uids, today):
+def refill_for(source, wb, completed_comp, on_wheel_uids, today, wheel_task_count=None):
     """Route a completed item's source to the right refill function.
 
     Returns a single new item dict (or None if nothing eligible).
+
+    wheel_task_count: true count of TASKS-source items on the wheel (for the
+    daily-ten cap-guard). Passed through to refill_daily_ten / specials.
     """
     if source == "ZONES":
         return refill_zone(wb, completed_comp, on_wheel_uids)
@@ -493,7 +510,7 @@ def refill_for(source, wb, completed_comp, on_wheel_uids, today):
             return refill_frog(wb, on_wheel_uids, today)
         if special == "Business":
             return refill_business(wb, on_wheel_uids, today)
-        return refill_daily_ten(wb, on_wheel_uids, today)
+        return refill_daily_ten(wb, on_wheel_uids, today, wheel_task_count=wheel_task_count)
     if source == "COURAGE":
         return refill_courage(wb, on_wheel_uids, today)
     return None
