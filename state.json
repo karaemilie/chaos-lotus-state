@@ -86,20 +86,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10026,
-      "row": 12,
-      "label": "Install stained shelves",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 45,
-      "ml": "Medium",
-      "proj": "Bathroom Built-ins",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10026"
-    },
-    {
-      "source": "TASKS",
       "id": 11511,
       "row": 320,
       "label": "Get paint samples for boys room \ud83c\udfa8\ud83d\udecf\ufe0f",
@@ -410,10 +396,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10025"
+    },
+    {
+      "source": "TASKS",
+      "id": 10215,
+      "label": "Email luthier to ask if they'll be in Anchorage this summer \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": "Bentley Support",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10215"
     }
   ],
-  "version": 65,
-  "updated": "2026-06-16T03:44:51.487266+00:00",
+  "version": 66,
+  "updated": "2026-06-16T03:45:25.143901+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
