@@ -100,20 +100,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11637,
-      "row": 396,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11637"
-    },
-    {
-      "source": "TASKS",
       "id": 10026,
       "row": 12,
       "label": "Install stained shelves",
@@ -153,20 +139,6 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:10477"
-    },
-    {
-      "source": "TASKS",
-      "id": 11064,
-      "row": 231,
-      "label": "Unpack the Festool Domino \ud83d\udd28\ud83d\udce6",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11064"
     },
     {
       "source": "TASKS",
@@ -243,6 +215,16 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Upstairs Hallway",
       "uid": "ZONES:9"
+    },
+    {
+      "source": "ZONES",
+      "zid": 22,
+      "floor": "Main Floor",
+      "row": 23,
+      "label": "\ud83e\uddfa Mudroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Mudroom",
+      "uid": "ZONES:22"
     },
     {
       "source": "ZONES",
@@ -331,16 +313,6 @@
       "aw": 5,
       "specialZone": "Business",
       "uid": "TASKS:10599"
-    },
-    {
-      "source": "TASKS",
-      "id": 10365,
-      "row": 438,
-      "label": "\ud83d\udc38 Submit Bentley's PFD form to TCU \ud83d\udcdd",
-      "emoji": "\ud83d\udc38",
-      "aw": 2,
-      "specialZone": "Frog",
-      "uid": "TASKS:10365"
     },
     {
       "source": "SPIN_WHEEL",
@@ -435,30 +407,48 @@
     },
     {
       "source": "COURAGE",
-      "parentId": 11281,
+      "parentId": 11454,
       "stepIndex": 0,
-      "parentLabel": "Fill out Bentley's fall rental sublet forms \ud83c\udfe0\ud83d\udccb",
+      "parentLabel": "Embry-Riddle: check balance \u2192 pay \u2192 deposit to flight account \u2708\ufe0f\ud83d\udcb0 \ud83d\udcdd",
       "aw": 1,
-      "due": "2026-04-13",
-      "label": "\ud83d\udd25 Fill out Bentley's fall rental sublet forms \ud83c\udfe0\ud83d\udccb",
+      "due": "2026-05-11",
+      "label": "\ud83d\udd25 Embry-Riddle: check balance \u2192 pay \u2192 deposit to flight account \u2708\ufe0f\ud83d\udcb0 \ud83d\udcdd",
       "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11281:0"
+      "uid": "COURAGE:11454:0"
     },
     {
-      "source": "ZONES",
-      "zid": 23,
-      "floor": "Main Floor",
-      "label": "\ud83e\uddfa Kitchen",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Kitchen",
-      "uid": "ZONES:23"
+      "source": "TASKS",
+      "id": 10369,
+      "row": null,
+      "label": "\ud83d\udc38 The 99-ers: Sign up for membership and eval scholarship due dates",
+      "emoji": "\ud83d\udc38",
+      "aw": 3,
+      "specialZone": "Frog",
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10369"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11055,
+      "stepIndex": 0,
+      "parentLabel": "File CSS Profile for Bentley (TCU) \ud83c\udf93\ud83d\udccb",
+      "aw": 1,
+      "due": "2026-06-08",
+      "label": "\ud83d\udd25 File CSS Profile for Bentley (TCU) \ud83c\udf93\ud83d\udccb",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11055:0"
     }
   ],
-  "version": 51,
-  "updated": "2026-06-16T02:49:45.115436+00:00",
+  "version": 52,
+  "updated": "2026-06-16T02:49:45.984187+00:00",
   "buckets": {
-    "TASKS": 17,
-    "COURAGE": 3,
+    "TASKS": 15,
+    "COURAGE": 4,
     "ZONES": 8,
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 13
