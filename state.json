@@ -270,16 +270,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "row": 74,
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
-      "source": "ZONES",
       "zid": 83,
       "floor": "Personal",
       "row": 84,
@@ -680,10 +670,19 @@
       "sid": 57,
       "label": "Pot up Hoya clippings",
       "uid": "SPIN_WHEEL:57"
+    },
+    {
+      "source": "ZONES",
+      "zid": 74,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Plants",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Plants",
+      "uid": "ZONES:74"
     }
   ],
-  "version": 77,
-  "updated": "2026-06-16T07:09:09.059473+00:00",
+  "version": 78,
+  "updated": "2026-06-16T07:15:47.596222+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
