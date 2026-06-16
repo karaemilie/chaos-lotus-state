@@ -198,17 +198,29 @@
     },
     {
       "source": "TASKS",
-      "id": 10369,
-      "row": 434,
-      "label": "The 99-ers: Sign up for membership and eval scholarship due dates",
+      "id": 10464,
+      "row": 435,
+      "label": "Help Jake write private lesson email \ud83d\udcdd",
       "aw": 3,
       "pri": "High",
       "dur": 15,
       "ml": "Easy Win",
       "proj": null,
-      "cat": "Education",
+      "cat": "Family",
       "critical": false,
-      "uid": "TASKS:10369"
+      "uid": "TASKS:10464"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11083,
+      "parentRow": 237,
+      "parentLabel": "Line item the Amazon Vine tax file \ud83d\udcdd",
+      "stepIndex": 0,
+      "aw": 2,
+      "due": "2026-03-28",
+      "label": "\ud83d\udd25 Line item the Amazon Vine tax file \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11083:0"
     },
     {
       "source": "COURAGE",
@@ -233,18 +245,6 @@
       "label": "\ud83d\udd25 Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11221:0"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11281,
-      "parentRow": 436,
-      "parentLabel": "Fill out Bentley's fall rental sublet forms \ud83c\udfe0\ud83d\udccb",
-      "stepIndex": 0,
-      "aw": 1,
-      "due": "2026-04-13",
-      "label": "\ud83d\udd25 Fill out Bentley's fall rental sublet forms \ud83c\udfe0\ud83d\udccb",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11281:0"
     },
     {
       "source": "ZONES",
@@ -308,13 +308,23 @@
     },
     {
       "source": "ZONES",
-      "zid": 85,
+      "zid": 81,
       "floor": "Personal",
-      "row": 86,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
+      "row": 82,
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Epilate Legs",
-      "uid": "ZONES:85"
+      "zoneName": "Face Exfoliation",
+      "uid": "ZONES:81"
+    },
+    {
+      "source": "ZONES",
+      "zid": 82,
+      "floor": "Personal",
+      "row": 83,
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Dermaplane",
+      "uid": "ZONES:82"
     },
     {
       "source": "MAINTENANCE",
@@ -327,12 +337,12 @@
     },
     {
       "source": "MAINTENANCE",
-      "mid": 67,
-      "row": 68,
-      "label": "\ud83c\udfe0 Dump healthy bacteria into septic",
+      "mid": 66,
+      "row": 67,
+      "label": "\ud83c\udfe0 Wax the table",
       "emoji": "\ud83c\udfe0",
-      "taskName": "Dump healthy bacteria into septic",
-      "uid": "MAINTENANCE:67"
+      "taskName": "Wax the table",
+      "uid": "MAINTENANCE:66"
     },
     {
       "source": "TASKS",
@@ -346,13 +356,13 @@
     },
     {
       "source": "TASKS",
-      "id": 11083,
-      "row": 237,
-      "label": "\ud83d\udc38 Line item the Amazon Vine tax file \ud83d\udcdd",
+      "id": 10365,
+      "row": 438,
+      "label": "\ud83d\udc38 Submit Bentley's PFD form to TCU \ud83d\udcdd",
       "emoji": "\ud83d\udc38",
       "aw": 2,
       "specialZone": "Frog",
-      "uid": "TASKS:11083"
+      "uid": "TASKS:10365"
     },
     {
       "source": "SPIN_WHEEL",
@@ -446,12 +456,12 @@
       "uid": "SPIN:18"
     }
   ],
-  "version": 48,
-  "updated": "2026-06-16T02:36:51.998290+00:00",
+  "version": 49,
+  "updated": "2026-06-16T02:46:42.065500+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
-    "ZONES": 7,
+    "ZONES": 8,
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 13
   }
