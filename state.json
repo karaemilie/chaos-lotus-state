@@ -3,7 +3,7 @@
     {
       "source": "TASKS",
       "id": 11176,
-      "row": 254,
+      "row": 253,
       "label": "\u2728 Eval check in: kids income, file status, AOTC and Lifetime Learning Credit \ud83d\udcdd",
       "aw": 3,
       "pri": "High",
@@ -17,7 +17,7 @@
     {
       "source": "TASKS",
       "id": 11191,
-      "row": 258,
+      "row": 257,
       "label": "\u2728 Measure Evan \ud83d\udcdd",
       "aw": 4,
       "pri": "Soon",
@@ -31,7 +31,7 @@
     {
       "source": "TASKS",
       "id": 11502,
-      "row": 318,
+      "row": 317,
       "label": "\u2728 Review IXL assessments for Lincoln",
       "aw": 4,
       "pri": "Medium",
@@ -45,7 +45,7 @@
     {
       "source": "TASKS",
       "id": 11598,
-      "row": 364,
+      "row": 363,
       "label": "\u2728 Review Pura schedules, adjust/turn off where not needed",
       "aw": 4,
       "pri": "Medium",
@@ -59,7 +59,7 @@
     {
       "source": "TASKS",
       "id": 11609,
-      "row": 368,
+      "row": 367,
       "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
       "aw": 3,
       "pri": "Medium",
@@ -73,7 +73,7 @@
     {
       "source": "TASKS",
       "id": 11635,
-      "row": 390,
+      "row": 389,
       "label": "\u2728 Clear the upstairs trashes",
       "aw": 4,
       "pri": null,
@@ -86,78 +86,50 @@
     },
     {
       "source": "TASKS",
-      "id": 11511,
-      "row": 320,
-      "label": "Get paint samples for boys room \ud83c\udfa8\ud83d\udecf\ufe0f",
-      "aw": 5,
-      "pri": "Normal",
-      "dur": 30,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11511"
-    },
-    {
-      "source": "TASKS",
-      "id": 10477,
-      "row": 148,
-      "label": "Play around with Claude Cowork!",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:10477"
-    },
-    {
-      "source": "TASKS",
-      "id": 11104,
-      "row": 238,
-      "label": "Fix open thread on papasan chair \ud83e\ude91\ud83e\uddf5",
+      "id": 10032,
+      "row": 14,
+      "label": "Research local robotics leagues for Evan \ud83d\udcdd",
       "aw": 4,
       "pri": "Soon",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
+      "dur": "High",
+      "ml": "Medium",
+      "proj": "Evan Activities",
+      "cat": "Family",
       "critical": false,
-      "uid": "TASKS:11104"
+      "uid": "TASKS:10032"
     },
     {
       "source": "TASKS",
-      "id": 10237,
-      "row": 99,
-      "label": "Cancel Slate card",
-      "aw": 3,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
+      "id": 11517,
+      "row": 321,
+      "label": "Set up GitHub auto-deploy for pansywheel on Cloudflare \ud83d\udc19\ud83c\udf38 \ud83d\udcdd",
+      "aw": 5,
+      "pri": null,
+      "dur": 60,
+      "ml": null,
+      "proj": "Spin Wheel System",
+      "cat": "Personal",
       "critical": false,
-      "uid": "TASKS:10237"
+      "uid": "TASKS:11517"
     },
     {
       "source": "TASKS",
-      "id": 11141,
-      "row": 245,
-      "label": "Set up Claude Cowork to summarize Instagram Reels from my account \ud83e\udd16\ud83d\udcf1",
+      "id": 10479,
+      "row": 148,
+      "label": "Sort out ortho, root canal, and tooth appointments \ud83d\ude2c \ud83d\udcdd",
       "aw": 5,
       "pri": "High",
-      "dur": 30,
+      "dur": 15,
       "ml": "Medium",
       "proj": null,
-      "cat": "Business",
+      "cat": "Family",
       "critical": false,
-      "uid": "TASKS:11141"
+      "uid": "TASKS:10479"
     },
     {
       "source": "TASKS",
       "id": 11121,
-      "row": 243,
+      "row": 242,
       "label": "Write Bentley back about endowments",
       "aw": 4,
       "pri": "High",
@@ -170,22 +142,78 @@
     },
     {
       "source": "TASKS",
-      "id": 11592,
-      "row": 426,
-      "label": "Spend more time on cloudsync chaos wheel \ud83c\udf00\u2601\ufe0f",
+      "id": 10241,
+      "row": 100,
+      "label": "Apply for Jake's credit card \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": "Jake Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10241"
+    },
+    {
+      "source": "TASKS",
+      "id": 11148,
+      "row": 245,
+      "label": "Decide if Bentley American card worth keeping ($95 fee May bill) \ud83d\udcb3",
+      "aw": 3,
+      "pri": "High",
+      "dur": 10,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:11148"
+    },
+    {
+      "source": "TASKS",
+      "id": 11064,
+      "row": 438,
+      "label": "Unpack the Festool Domino \ud83d\udd28\ud83d\udce6",
       "aw": 5,
       "pri": "Soon",
+      "dur": 20,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11064"
+    },
+    {
+      "source": "TASKS",
+      "id": 11141,
+      "row": 244,
+      "label": "Set up Claude Cowork to summarize Instagram Reels from my account \ud83e\udd16\ud83d\udcf1",
+      "aw": 5,
+      "pri": "High",
       "dur": 30,
       "ml": "Medium",
       "proj": null,
       "cat": "Business",
       "critical": false,
-      "uid": "TASKS:11592"
+      "uid": "TASKS:11141"
+    },
+    {
+      "source": "TASKS",
+      "id": 11639,
+      "row": 426,
+      "label": "Cancel Khanmigo if not using",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Finance",
+      "critical": true,
+      "uid": "TASKS:11639"
     },
     {
       "source": "COURAGE",
       "parentId": 11083,
-      "parentRow": 438,
+      "parentRow": 435,
       "parentLabel": "Line item the Amazon Vine tax file \ud83d\udcdd",
       "stepIndex": 0,
       "aw": 2,
@@ -197,7 +225,7 @@
     {
       "source": "COURAGE",
       "parentId": 11075,
-      "parentRow": 232,
+      "parentRow": 231,
       "parentLabel": "Reconcile Chase Hyatt card statement",
       "stepIndex": 0,
       "aw": 2,
@@ -209,7 +237,7 @@
     {
       "source": "COURAGE",
       "parentId": 11221,
-      "parentRow": 433,
+      "parentRow": 432,
       "parentLabel": "Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
       "stepIndex": 0,
       "aw": 2,
@@ -217,6 +245,16 @@
       "label": "\ud83d\udd25 Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11221:0"
+    },
+    {
+      "source": "ZONES",
+      "zid": 9,
+      "floor": "Upstairs",
+      "row": 10,
+      "label": "\ud83e\uddfa Upstairs Hallway",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Upstairs Hallway",
+      "uid": "ZONES:9"
     },
     {
       "source": "ZONES",
@@ -269,9 +307,37 @@
       "uid": "ZONES:73"
     },
     {
+      "source": "ZONES",
+      "zid": 83,
+      "floor": "Personal",
+      "row": 84,
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Hand Care & Mani",
+      "uid": "ZONES:83"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 65,
+      "row": 66,
+      "label": "\ud83c\udfe0 Wash towels",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Wash towels",
+      "uid": "MAINTENANCE:65"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 67,
+      "row": 68,
+      "label": "\ud83c\udfe0 Dump healthy bacteria into septic",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Dump healthy bacteria into septic",
+      "uid": "MAINTENANCE:67"
+    },
+    {
       "source": "TASKS",
       "id": 10599,
-      "row": 168,
+      "row": 167,
       "label": "\ud83d\udcb8 Look into group pricing for Claude subscription",
       "emoji": "\ud83d\udcb8",
       "aw": 5,
@@ -279,145 +345,79 @@
       "uid": "TASKS:10599"
     },
     {
+      "source": "TASKS",
+      "id": 10365,
+      "row": 437,
+      "label": "\ud83d\udc38 Submit Bentley's PFD form to TCU \ud83d\udcdd",
+      "emoji": "\ud83d\udc38",
+      "aw": 2,
+      "specialZone": "Frog",
+      "uid": "TASKS:10365"
+    },
+    {
       "source": "SPIN_WHEEL",
       "sid": 4,
-      "row": 3,
+      "row": 2,
       "label": "Review building permit posted",
       "uid": "SPIN:4"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 6,
-      "row": 4,
+      "row": 3,
       "label": "posykin handle **",
       "uid": "SPIN:6"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 7,
-      "row": 5,
+      "row": 4,
       "label": "Draft veneer plan",
       "uid": "SPIN:7"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 8,
-      "row": 6,
+      "row": 5,
       "label": "Spray adhesive for sand table",
       "uid": "SPIN:8"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 9,
-      "row": 7,
+      "row": 6,
       "label": "Bathroom knos",
       "uid": "SPIN:9"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 13,
-      "row": 8,
+      "row": 7,
       "label": "Load Musiah to ipad**",
       "uid": "SPIN:13"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 16,
-      "row": 10,
+      "row": 8,
       "label": "Order two new clear bins \ud83d\udce6",
       "uid": "SPIN:16"
     },
     {
       "source": "SPIN_WHEEL",
       "sid": 17,
-      "row": 11,
+      "row": 9,
       "label": "Clean rest of baking counter in kitchen \ud83e\uddc1\ud83e\uddfd",
       "uid": "SPIN:17"
-    },
-    {
-      "source": "ZONES",
-      "zid": 10,
-      "floor": "Upstairs",
-      "label": "\ud83e\uddfa Boys Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Boys Room",
-      "uid": "ZONES:10"
-    },
-    {
-      "source": "ZONES",
-      "zid": 84,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Mask",
-      "uid": "ZONES:84"
-    },
-    {
-      "source": "MAINTENANCE",
-      "mid": 67,
-      "label": "\ud83c\udfe0 Dump healthy bacteria into septic",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Dump healthy bacteria into septic",
-      "uid": "MAINTENANCE:67"
-    },
-    {
-      "source": "MAINTENANCE",
-      "mid": 68,
-      "label": "\ud83c\udfe0 Trim cat claws",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Trim cat claws",
-      "uid": "MAINTENANCE:68"
-    },
-    {
-      "source": "TASKS",
-      "id": 10369,
-      "row": null,
-      "label": "\ud83d\udc38 The 99-ers: Sign up for membership and eval scholarship due dates",
-      "emoji": "\ud83d\udc38",
-      "aw": 3,
-      "specialZone": "Frog",
-      "pri": "High",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10369"
-    },
-    {
-      "source": "TASKS",
-      "id": 10025,
-      "label": "Stain cherry shelves when they arrive",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 90,
-      "ml": "Medium",
-      "proj": "Bathroom Built-ins",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10025"
-    },
-    {
-      "source": "TASKS",
-      "id": 10215,
-      "label": "Email luthier to ask if they'll be in Anchorage this summer \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": "Bentley Support",
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10215"
     }
   ],
-  "version": 66,
-  "updated": "2026-06-16T03:45:25.143901+00:00",
+  "version": 67,
+  "updated": "2026-06-16T03:49:40.014207+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
-    "SPIN_WHEEL": 8,
-    "MAINTENANCE": 2
+    "MAINTENANCE": 2,
+    "SPIN_WHEEL": 8
   }
 }
