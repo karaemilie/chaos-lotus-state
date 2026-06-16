@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 42,
+      "label": "Write Etsy seller about shipping speed",
+      "uid": "SPIN:53",
+      "_ts": "2026-06-16T23:31:06.043Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-16T23:15:30.473Z",
+  "mirroredAt": "2026-06-16T23:31:06.315Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-16T23:15:31.243110+00:00",
-  "lastAutoProcessed": [
-    "SPIN:57"
-  ]
+  }
 }
