@@ -1,10 +1,25 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-16T00:36:28.063Z",
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11625,
+      "row": 397,
+      "label": "Pay Lindsey & Miriam for the week!",
+      "uid": "TASKS:11625",
+      "_ts": "2026-06-16T00:44:32.900Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Clean up garage shelf from mice",
+      "_addedAt": "2026-06-16T00:29:13.935Z",
+      "_ts": "2026-06-16T00:29:14.047Z"
+    }
+  ],
+  "mirroredAt": "2026-06-16T00:44:33.125Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
-  },
-  "processedAt": "2026-06-16T00:37:00.771599+00:00"
+  }
 }
