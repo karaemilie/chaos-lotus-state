@@ -356,13 +356,6 @@
       "uid": "SPIN:17"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 18,
-      "row": 13,
-      "label": "Clean up garage shelf from mice",
-      "uid": "SPIN:18"
-    },
-    {
       "source": "ZONES",
       "zid": 83,
       "floor": "Personal",
@@ -449,15 +442,56 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Epilate Legs",
       "uid": "ZONES:85"
+    },
+    {
+      "source": "ZONES",
+      "zid": 86,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Eyebrows",
+      "uid": "ZONES:86"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 68,
+      "label": "\ud83c\udfe0 Trim cat claws",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Trim cat claws",
+      "uid": "MAINTENANCE:68"
+    },
+    {
+      "source": "TASKS",
+      "id": 10088,
+      "label": "Research and pick credit card for Genevieve \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": "Genevieve Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10088"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11454,
+      "stepIndex": 0,
+      "parentLabel": "Embry-Riddle: check balance \u2192 pay \u2192 deposit to flight account \u2708\ufe0f\ud83d\udcb0 \ud83d\udcdd",
+      "aw": 1,
+      "due": "2026-05-11",
+      "label": "\ud83d\udd25 Embry-Riddle: check balance \u2192 pay \u2192 deposit to flight account \u2708\ufe0f\ud83d\udcb0 \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11454:0"
     }
   ],
-  "version": 58,
-  "updated": "2026-06-16T03:21:19.872483+00:00",
+  "version": 59,
+  "updated": "2026-06-16T03:21:52.196138+00:00",
   "buckets": {
-    "TASKS": 17,
-    "COURAGE": 3,
-    "ZONES": 9,
-    "MAINTENANCE": 2,
-    "SPIN_WHEEL": 11
+    "TASKS": 18,
+    "COURAGE": 4,
+    "ZONES": 10,
+    "MAINTENANCE": 3,
+    "SPIN_WHEEL": 10
   }
 }
