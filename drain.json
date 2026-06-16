@@ -8,12 +8,19 @@
       "label": "🌱 Bedroom",
       "uid": "ZONES:73",
       "_ts": "2026-06-16T07:15:18.565Z"
+    },
+    {
+      "source": "MAINTENANCE",
+      "row": 66,
+      "label": "🏠 Wash towels",
+      "uid": "MAINTENANCE:65",
+      "_ts": "2026-06-16T07:15:23.510Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-16T07:15:18.772Z",
+  "mirroredAt": "2026-06-16T07:15:23.722Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
