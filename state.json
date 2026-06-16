@@ -183,20 +183,6 @@
       "uid": "TASKS:11327"
     },
     {
-      "source": "TASKS",
-      "id": 10283,
-      "row": 116,
-      "label": "Help Bentley set up LinkedIn \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10283"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10316,
       "parentRow": 122,
@@ -458,12 +444,38 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10183"
+    },
+    {
+      "source": "TASKS",
+      "id": 11577,
+      "label": "Check if NMS offers scholarship for summer classes \ud83c\udf93\ud83d\udcb0",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11577"
+    },
+    {
+      "source": "TASKS",
+      "id": 11450,
+      "label": "Research TCU Med School cost",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": "Bentley Pre-Med",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11450"
     }
   ],
-  "version": 20,
-  "updated": "2026-06-16T00:44:47.660620+00:00",
+  "version": 21,
+  "updated": "2026-06-16T00:45:24.076063+00:00",
   "buckets": {
-    "TASKS": 17,
+    "TASKS": 18,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
