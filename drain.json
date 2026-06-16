@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-16T20:43:05.316Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Recode redistribution tool to bump two weeks from current date",
+      "_addedAt": "2026-06-16T20:51:07.566Z",
+      "_ts": "2026-06-16T20:51:07.683Z"
+    }
+  ],
+  "mirroredAt": "2026-06-16T20:51:07.901Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
