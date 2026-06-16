@@ -289,6 +289,8 @@ def _available_tasks(wb, today):
         except (TypeError, ValueError):
             continue
         due = _as_date(ws.cell(r, H["Due Date"]).value)
+        rec_type = ws.cell(r, H["Recurring Type"]).value if "Recurring Type" in H else None
+        seq_order = ws.cell(r, H["Sequential Order"]).value if "Sequential Order" in H else None
         out.append({
             "id": ws.cell(r, H["ID"]).value, "label": task, "aw": aw,
             "pri": ws.cell(r, H["Priority"]).value,
@@ -298,9 +300,39 @@ def _available_tasks(wb, today):
             "cat": ws.cell(r, H["Category"]).value,
             "notes": ws.cell(r, H["Notes"]).value,
             "start": start, "due": due,
+            "rec_type": rec_type, "seq_order": seq_order,
             "critical": bool(ws.cell(r, H["Critical"]).value),
         })
     return out
+
+
+def _is_recurring(t):
+    """True if a task dict represents a recurring task (RecurType set + not 'None')."""
+    rt = t.get("rec_type")
+    if rt is None:
+        return False
+    return str(rt).strip().lower() not in ("none", "", "one-time", "false", "no", "n/a")
+
+
+def _is_blocked_seq(t):
+    """True if task is a sequential task NOT at order 1 (blocked — not eligible)."""
+    so = t.get("seq_order")
+    if so is None:
+        return False
+    try:
+        return int(so) > 1
+    except (TypeError, ValueError):
+        return False
+
+
+def _decorate_label(t):
+    """Prepend ✨ to recurring Daily-Ten tasks so they read as rhythm tasks on
+    the wheel. Non-recurring tasks are returned unchanged. Idempotent — won't
+    double-prefix if the label already starts with ✨."""
+    label = t.get("label", "")
+    if _is_recurring(t) and not str(label).startswith("✨"):
+        return f"✨ {label}"
+    return label
 
 
 def refill_daily_ten(wb, on_wheel_uids, today):
@@ -329,9 +361,71 @@ def refill_daily_ten(wb, on_wheel_uids, today):
             return None
         t = future[0]
     return {
-        "source": "TASKS", "id": t["id"], "label": t["label"], "aw": t["aw"],
+        "source": "TASKS", "id": t["id"], "label": _decorate_label(t), "aw": t["aw"],
         "pri": t["pri"], "dur": t["dur"], "ml": t["ml"], "proj": t["proj"],
         "cat": t["cat"], "critical": t["critical"], "uid": f"TASKS:{t['id']}",
+    }
+
+
+# ─── FROG REFILL ─────────────────────────────────────────────────
+def refill_frog(wb, on_wheel_uids, today, business_excluded_id=None):
+    """Replace a completed Frog with a NEW frog (not a generic task).
+
+    Mirrors ZONE_PICKER's frog selection so the wheel keeps a frog all day
+    without a fresh morning seed:
+      Tier 1: most-overdue non-recurring task (Due < today, Start <= today)
+      Tier 2: oldest-start non-recurring task
+    Exclusions (never froggable): recurring tasks, Business-category tasks,
+    blocked sequential tasks (order > 1), and anything already on the wheel.
+    """
+    pool = [t for t in _available_tasks(wb, today)
+            if t["cat"] != "Business"
+            and not _is_recurring(t)
+            and not _is_blocked_seq(t)
+            and f"TASKS:{t['id']}" not in on_wheel_uids
+            and f"COURAGE:{t['id']}:0" not in on_wheel_uids
+            and t["id"] != business_excluded_id]
+    if not pool:
+        return None
+    overdue = [t for t in pool if t["due"] and t["due"] < today]
+    if overdue:
+        overdue.sort(key=lambda t: (today - t["due"]).days, reverse=True)
+        pick = overdue[0]
+    else:
+        pick = sorted(pool, key=lambda t: t["start"])[0]
+    return {
+        "source": "TASKS", "id": pick["id"], "row": None,
+        "label": f"🐸 {pick['label']}", "emoji": "🐸",
+        "aw": pick["aw"], "specialZone": "Frog",
+        "pri": pick["pri"], "dur": pick["dur"], "ml": pick["ml"],
+        "proj": pick["proj"], "cat": pick["cat"], "critical": pick["critical"],
+        "uid": f"TASKS:{pick['id']}",
+    }
+
+
+# ─── BUSINESS REFILL ─────────────────────────────────────────────
+def refill_business(wb, on_wheel_uids, today):
+    """Replace a completed Business special with the NEXT Business task.
+
+    Business = ONE available Business-category task (Q2 🏆 / 💸). Picks the
+    earliest-start available Business task not already on the wheel; if none
+    active, the wheel simply has no business slot until one becomes available
+    (the morning seed handles future-dated fallback).
+    """
+    pool = [t for t in _available_tasks(wb, today)
+            if t["cat"] == "Business"
+            and not _is_blocked_seq(t)
+            and f"TASKS:{t['id']}" not in on_wheel_uids]
+    if not pool:
+        return None
+    pick = sorted(pool, key=lambda t: t["start"])[0]
+    return {
+        "source": "TASKS", "id": pick["id"], "row": None,
+        "label": f"💸 {pick['label']}", "emoji": "💸",
+        "aw": pick["aw"], "specialZone": "Business",
+        "pri": pick["pri"], "dur": pick["dur"], "ml": pick["ml"],
+        "proj": pick["proj"], "cat": pick["cat"], "critical": pick["critical"],
+        "uid": f"TASKS:{pick['id']}",
     }
 
 
@@ -386,6 +480,14 @@ def refill_for(source, wb, completed_comp, on_wheel_uids, today):
         # No refill by design.
         return None
     if source == "TASKS":
+        # Frog and Business are source=TASKS but carry a specialZone tag — they
+        # must replenish with the SAME special type, not a generic Daily Ten task,
+        # so the wheel keeps its frog/business slot all day without a fresh seed.
+        special = (completed_comp or {}).get("specialZone")
+        if special == "Frog":
+            return refill_frog(wb, on_wheel_uids, today)
+        if special == "Business":
+            return refill_business(wb, on_wheel_uids, today)
         return refill_daily_ten(wb, on_wheel_uids, today)
     if source == "COURAGE":
         return refill_courage(wb, on_wheel_uids, today)
