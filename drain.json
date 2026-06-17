@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T13:32:59.596Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Library audio book",
+      "_addedAt": "2026-06-17T13:48:54.317Z",
+      "_ts": "2026-06-17T13:48:54.414Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T13:48:54.643Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
