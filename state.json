@@ -844,15 +844,43 @@
       "sid": 113,
       "label": "Write plant lady A",
       "uid": "SPIN_WHEEL:113"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 114,
+      "sid": 114,
+      "label": "Write plant lady b",
+      "uid": "SPIN_WHEEL:114"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 115,
+      "sid": 115,
+      "label": "Call ENT",
+      "uid": "SPIN_WHEEL:115"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 116,
+      "sid": 116,
+      "label": "Call pediatrician t",
+      "uid": "SPIN_WHEEL:116"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 117,
+      "sid": 117,
+      "label": "Call Chade",
+      "uid": "SPIN_WHEEL:117"
     }
   ],
-  "version": 193,
-  "updated": "2026-06-17T22:56:26.420761+00:00",
+  "version": 194,
+  "updated": "2026-06-17T22:57:05.548363+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 72
+    "SPIN_WHEEL": 76
   }
 }
