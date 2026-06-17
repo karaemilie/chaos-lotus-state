@@ -484,13 +484,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 44,
-      "row": 25,
-      "label": "Find barstools",
-      "uid": "SPIN:44"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 47,
       "row": 26,
       "label": "Check for ASD reimbursement",
@@ -544,13 +537,6 @@
       "row": 33,
       "label": "Check PFD statuses for everyone",
       "uid": "SPIN:56"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 58,
-      "row": 34,
-      "label": "Run a redistribution on tasks so I have best to work from",
-      "uid": "SPIN:58"
     },
     {
       "source": "SPIN_WHEEL",
@@ -729,13 +715,13 @@
       "uid": "MAINTENANCE:73"
     }
   ],
-  "version": 167,
-  "updated": "2026-06-17T10:00:42.540211+00:00",
+  "version": 168,
+  "updated": "2026-06-17T10:01:26.054885+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 55
+    "SPIN_WHEEL": 53
   }
 }
