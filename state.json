@@ -30,48 +30,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11623,
-      "row": 367,
-      "label": "\u2728 Send text update to mother-in-law \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11623"
-    },
-    {
-      "source": "TASKS",
-      "id": 11624,
-      "row": 368,
-      "label": "\u2728 Check in on Pura scents - time to refresh?",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11624"
-    },
-    {
-      "source": "TASKS",
-      "id": 11645,
-      "row": 378,
-      "label": "\u2728 Trash & recycling to curb",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11645"
-    },
-    {
-      "source": "TASKS",
       "id": 11614,
       "row": 361,
       "label": "Mock up custom spice rack shelf design \ud83e\uddc2\ud83d\udcd0 \ud83c\udfaf First step: measure the garage shelf opening",
@@ -403,13 +361,6 @@
       "row": 8,
       "label": "Order Jake 4 boxes contacts",
       "uid": "SPIN:18"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 20,
-      "row": 9,
-      "label": "Pinterest curtain swags",
-      "uid": "SPIN:20"
     },
     {
       "source": "SPIN_WHEEL",
@@ -763,15 +714,54 @@
       "sid": 75,
       "label": "Look for wrought iron curtains",
       "uid": "SPIN_WHEEL:75"
+    },
+    {
+      "source": "TASKS",
+      "id": 11064,
+      "label": "Unpack the Festool Domino \ud83d\udd28\ud83d\udce6",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11064"
+    },
+    {
+      "source": "TASKS",
+      "id": 11674,
+      "label": "Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11674"
+    },
+    {
+      "source": "TASKS",
+      "id": 10018,
+      "label": "Buy materials for bunk beds",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 60,
+      "ml": "Easy Win",
+      "proj": "Bunk Beds with Lincoln & Evan",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10018"
     }
   ],
-  "version": 112,
-  "updated": "2026-06-17T03:28:22.923047+00:00",
+  "version": 113,
+  "updated": "2026-06-17T03:29:01.825115+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 56
+    "SPIN_WHEEL": 55
   }
 }
