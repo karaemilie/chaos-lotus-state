@@ -699,15 +699,22 @@
       "sid": 64,
       "label": "Pinterest board for stools *",
       "uid": "SPIN_WHEEL:64"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 65,
+      "sid": 65,
+      "label": "Clean white jeans",
+      "uid": "SPIN_WHEEL:65"
     }
   ],
-  "version": 97,
-  "updated": "2026-06-16T23:31:23.919748+00:00",
+  "version": 98,
+  "updated": "2026-06-17T00:24:04.885854+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 48
+    "SPIN_WHEEL": 49
   }
 }
