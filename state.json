@@ -451,13 +451,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 35,
-      "row": 19,
-      "label": "Try new bins in bathroom",
-      "uid": "SPIN:35"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 36,
       "row": 20,
       "label": "Deposit Grand Canyon check",
@@ -743,13 +736,13 @@
       "uid": "TASKS:10018"
     }
   ],
-  "version": 154,
-  "updated": "2026-06-17T08:41:25.162960+00:00",
+  "version": 155,
+  "updated": "2026-06-17T08:42:01.211350+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 57
+    "SPIN_WHEEL": 56
   }
 }
