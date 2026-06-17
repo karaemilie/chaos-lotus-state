@@ -630,14 +630,6 @@
       "uid": "SPIN:88"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 73,
-      "label": "\ud83c\udfe0 Wash my bathroom rugs",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Wash my bathroom rugs",
-      "uid": "MAINTENANCE:73"
-    },
-    {
       "source": "TASKS",
       "id": 10018,
       "label": "Buy materials for bunk beds",
@@ -865,10 +857,18 @@
       "sid": 119,
       "label": "Write Mom about videos",
       "uid": "SPIN_WHEEL:119"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 74,
+      "label": "\ud83c\udfe0 Throw out pantry food",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Throw out pantry food",
+      "uid": "MAINTENANCE:74"
     }
   ],
-  "version": 200,
-  "updated": "2026-06-17T23:46:08.701623+00:00",
+  "version": 201,
+  "updated": "2026-06-17T23:49:04.361750+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
