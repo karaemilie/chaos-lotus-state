@@ -507,13 +507,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 45,
-      "row": 28,
-      "label": "Sign B up for new MCAT date",
-      "uid": "SPIN:45"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 47,
       "row": 29,
       "label": "Check for ASD reimbursement",
@@ -736,13 +729,13 @@
       "uid": "TASKS:10018"
     }
   ],
-  "version": 155,
-  "updated": "2026-06-17T08:42:01.211350+00:00",
+  "version": 156,
+  "updated": "2026-06-17T08:42:36.604272+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 56
+    "SPIN_WHEEL": 55
   }
 }
