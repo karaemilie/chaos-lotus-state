@@ -8,10 +8,23 @@
       "_ts": "2026-06-17T03:34:06.816Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-06-17T03:34:23.999Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add July viola to calendar **",
+      "_addedAt": "2026-06-17T03:34:04.761Z",
+      "_ts": "2026-06-17T03:34:05.003Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Write Ruth",
+      "_addedAt": "2026-06-17T03:34:53.071Z",
+      "_ts": "2026-06-17T03:34:53.347Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T03:34:53.598Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 2
   }
 }
