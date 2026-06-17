@@ -392,13 +392,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 25,
-      "row": 14,
-      "label": "Calendar Miriam, show Lincoln",
-      "uid": "SPIN:25"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 26,
       "row": 15,
       "label": "Log into Chase card",
@@ -762,13 +755,13 @@
       "uid": "SPIN_WHEEL:76"
     }
   ],
-  "version": 114,
-  "updated": "2026-06-17T03:34:24.973594+00:00",
+  "version": 115,
+  "updated": "2026-06-17T03:35:16.355067+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 56
+    "SPIN_WHEEL": 55
   }
 }
