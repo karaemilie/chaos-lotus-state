@@ -1,9 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T03:28:22.064Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 9,
+      "label": "Pinterest curtain swags",
+      "uid": "SPIN:20",
+      "_ts": "2026-06-17T03:28:24.286Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Look for wrought iron curtains",
+      "_addedAt": "2026-06-17T03:28:02.753Z",
+      "_ts": "2026-06-17T03:28:02.861Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T03:28:24.494Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
