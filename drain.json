@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T10:11:02.412Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Verify what Dash & Dot pieces I have",
+      "_addedAt": "2026-06-17T10:14:28.498Z",
+      "_ts": "2026-06-17T10:14:28.765Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T10:14:29.107Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
