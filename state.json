@@ -463,13 +463,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 51,
-      "row": 29,
-      "label": "Call Dr Kokesh's office (tonsils and nose)",
-      "uid": "SPIN:51"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 52,
       "row": 30,
       "label": "Find a cable for Musiah",
@@ -867,13 +860,13 @@
       "uid": "SPIN_WHEEL:117"
     }
   ],
-  "version": 195,
-  "updated": "2026-06-17T22:57:45.737526+00:00",
+  "version": 196,
+  "updated": "2026-06-17T23:43:46.973674+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 75
+    "SPIN_WHEEL": 74
   }
 }
