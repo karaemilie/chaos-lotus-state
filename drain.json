@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T02:05:55.466Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Open up dry wall tool",
+      "_addedAt": "2026-06-17T02:05:41.290Z",
+      "_ts": "2026-06-17T02:05:41.393Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Figure out if I need a spreading thingy for my drywl",
+      "_addedAt": "2026-06-17T02:05:56.751Z",
+      "_ts": "2026-06-17T02:05:56.850Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T02:05:57.071Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
