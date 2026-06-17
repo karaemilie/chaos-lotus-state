@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T03:09:10.424Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Look for wrought iron curtains",
+      "_addedAt": "2026-06-17T03:28:02.753Z",
+      "_ts": "2026-06-17T03:28:02.861Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T03:28:03.103Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
