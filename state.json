@@ -605,13 +605,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 59,
-      "row": 39,
-      "label": "Dig into plant zone stamp issue",
-      "uid": "SPIN:59"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 62,
       "row": 40,
       "label": "Final redistribution",
@@ -744,13 +737,13 @@
       "uid": "SPIN:82"
     }
   ],
-  "version": 138,
-  "updated": "2026-06-17T07:53:40.736013+00:00",
+  "version": 139,
+  "updated": "2026-06-17T07:54:53.425968+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 57
+    "SPIN_WHEEL": 56
   }
 }
