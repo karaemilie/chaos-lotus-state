@@ -469,13 +469,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 29,
-      "row": 18,
-      "label": "Call and modify hair appt",
-      "uid": "SPIN:29"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 30,
       "row": 19,
       "label": "Find unofficial transcripts for B",
@@ -758,13 +751,13 @@
       "uid": "ZONES:74"
     }
   ],
-  "version": 109,
-  "updated": "2026-06-17T02:50:28.181124+00:00",
+  "version": 110,
+  "updated": "2026-06-17T02:51:47.182859+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 55
+    "SPIN_WHEEL": 54
   }
 }
