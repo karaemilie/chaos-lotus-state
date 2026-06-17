@@ -1,9 +1,26 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T02:49:39.120Z",
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 74,
+      "zid": 73,
+      "floor": "Plant",
+      "label": "🌱 Bedroom",
+      "uid": "ZONES:73",
+      "_ts": "2026-06-17T02:49:42.595Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Call Sherwin williams, verify samples to go in stock **",
+      "_addedAt": "2026-06-17T02:49:19.797Z",
+      "_ts": "2026-06-17T02:49:19.911Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T02:49:42.801Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
