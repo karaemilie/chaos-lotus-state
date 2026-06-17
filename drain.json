@@ -1,16 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T04:23:31.943Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "List dash & dot",
+      "_addedAt": "2026-06-17T04:52:23.536Z",
+      "_ts": "2026-06-17T04:52:24.060Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T04:52:24.431Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-17T04:23:32.699479+00:00",
-  "lastAutoProcessed": [
-    "ZONES:71"
-  ],
-  "resetNeeded": [
-    "Digital"
-  ]
+    "adds": 1
+  }
 }
