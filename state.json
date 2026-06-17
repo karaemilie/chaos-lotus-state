@@ -760,15 +760,22 @@
       "sid": 77,
       "label": "Write Ruth",
       "uid": "SPIN_WHEEL:77"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 78,
+      "sid": 78,
+      "label": "Retape plant light",
+      "uid": "SPIN_WHEEL:78"
     }
   ],
-  "version": 116,
-  "updated": "2026-06-17T03:35:18.886383+00:00",
+  "version": 117,
+  "updated": "2026-06-17T03:59:37.879082+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 56
+    "SPIN_WHEEL": 57
   }
 }
