@@ -2,30 +2,16 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
-      "row": 29,
-      "label": "Call Dr Kokesh's office (tonsils and nose)",
-      "uid": "SPIN:51",
-      "_ts": "2026-06-17T23:43:35.890Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 115,
       "label": "Call ENT",
       "uid": "SPIN_WHEEL:115",
       "_ts": "2026-06-17T23:44:07.769Z"
     }
   ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Research dr I booked Bemtley",
-      "_addedAt": "2026-06-17T23:43:49.672Z",
-      "_ts": "2026-06-17T23:43:49.821Z"
-    }
-  ],
-  "mirroredAt": "2026-06-17T23:44:07.971Z",
+  "adds": [],
+  "mirroredAt": "2026-06-17T23:44:15.048Z",
   "counts": {
-    "completions": 2,
-    "adds": 1
+    "completions": 1,
+    "adds": 0
   }
 }
