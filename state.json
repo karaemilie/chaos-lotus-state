@@ -86,20 +86,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11614,
-      "row": 353,
-      "label": "Mock up custom spice rack shelf design \ud83e\uddc2\ud83d\udcd0 \ud83c\udfaf First step: measure the garage shelf opening",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11614"
-    },
-    {
-      "source": "TASKS",
       "id": 11511,
       "row": 307,
       "label": "Get paint samples for boys room \ud83c\udfa8\ud83d\udecf\ufe0f",
@@ -740,10 +726,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10021"
+    },
+    {
+      "source": "TASKS",
+      "id": 10255,
+      "label": "Find Matt cheaper car insurance \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Hard",
+      "proj": "Insurance Admin",
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10255"
     }
   ],
-  "version": 160,
-  "updated": "2026-06-17T08:54:57.662605+00:00",
+  "version": 161,
+  "updated": "2026-06-17T08:55:30.071510+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
