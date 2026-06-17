@@ -463,13 +463,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 40,
-      "row": 21,
-      "label": "Finish porting the taskBox to sync version",
-      "uid": "SPIN:40"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 41,
       "row": 22,
       "label": "Transfer money from ML",
@@ -736,13 +729,13 @@
       "uid": "MAINTENANCE:73"
     }
   ],
-  "version": 166,
-  "updated": "2026-06-17T09:59:53.575543+00:00",
+  "version": 167,
+  "updated": "2026-06-17T10:00:42.540211+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 56
+    "SPIN_WHEEL": 55
   }
 }
