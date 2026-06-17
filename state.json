@@ -242,16 +242,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 47,
-      "floor": "Basement",
-      "row": 48,
-      "label": "\ud83e\uddfa Back Annex",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Back Annex",
-      "uid": "ZONES:47"
-    },
-    {
-      "source": "ZONES",
       "zid": 67,
       "floor": "Digital",
       "row": 68,
@@ -725,10 +715,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Wash my bathroom rugs",
       "uid": "MAINTENANCE:73"
+    },
+    {
+      "source": "ZONES",
+      "zid": 48,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Craft Zone",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Craft Zone",
+      "uid": "ZONES:48"
     }
   ],
-  "version": 151,
-  "updated": "2026-06-17T08:31:29.345647+00:00",
+  "version": 152,
+  "updated": "2026-06-17T08:32:20.287343+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
