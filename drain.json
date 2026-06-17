@@ -34,12 +34,19 @@
       "label": "Run a redistribution on tasks so I have best to work from",
       "uid": "SPIN:58",
       "_ts": "2026-06-17T10:01:09.161Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 35,
+      "label": "Final redistribution",
+      "uid": "SPIN:62",
+      "_ts": "2026-06-17T10:01:15.357Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-17T10:01:09.449Z",
+  "mirroredAt": "2026-06-17T10:01:15.585Z",
   "counts": {
-    "completions": 5,
+    "completions": 6,
     "adds": 0
   }
 }
