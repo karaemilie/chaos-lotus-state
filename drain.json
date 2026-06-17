@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T02:51:48.173Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Five minutes in hall closet",
+      "_addedAt": "2026-06-17T03:08:50.106Z",
+      "_ts": "2026-06-17T03:08:50.492Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T03:08:50.829Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-17T02:51:48.848994+00:00",
-  "lastAutoProcessed": [
-    "SPIN:29"
-  ]
+    "adds": 1
+  }
 }
