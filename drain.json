@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T23:51:38.629Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Buy eye primer",
+      "_addedAt": "2026-06-17T23:54:52.927Z",
+      "_ts": "2026-06-17T23:54:53.084Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T23:54:53.306Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
