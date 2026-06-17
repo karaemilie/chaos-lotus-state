@@ -1,33 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "ZONES",
-      "row": 74,
-      "zid": 73,
-      "floor": "Plant",
-      "label": "🌱 Bedroom",
-      "uid": "ZONES:73",
-      "_ts": "2026-06-17T02:49:42.595Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 49,
-      "label": "Clean white jeans",
-      "uid": "SPIN:65",
-      "_ts": "2026-06-17T02:49:49.257Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Call Sherwin williams, verify samples to go in stock **",
-      "_addedAt": "2026-06-17T02:49:19.797Z",
-      "_ts": "2026-06-17T02:49:19.911Z"
-    }
-  ],
-  "mirroredAt": "2026-06-17T02:49:49.489Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-06-17T02:50:29.115Z",
   "counts": {
-    "completions": 2,
-    "adds": 1
+    "completions": 0,
+    "adds": 0
   }
 }
