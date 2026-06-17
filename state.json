@@ -198,18 +198,6 @@
     },
     {
       "source": "COURAGE",
-      "parentId": 11618,
-      "parentRow": 357,
-      "parentLabel": "Deal with Genevieve's overdue account balance \ud83d\udcb3\u26a0\ufe0f \ud83c\udfaf First step: log in + check the exact balance owed",
-      "stepIndex": 0,
-      "aw": 1,
-      "due": null,
-      "label": "\ud83d\udd25 Deal with Genevieve's overdue account balance \ud83d\udcb3\u26a0\ufe0f \ud83c\udfaf First step: log in + check the exact balance owed",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11618:0"
-    },
-    {
-      "source": "COURAGE",
       "parentId": 10218,
       "parentRow": 88,
       "parentLabel": "Help Bentley schedule CNA exam / figure out timeline \ud83d\udcdd",
@@ -734,10 +722,21 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10018"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11055,
+      "stepIndex": 0,
+      "parentLabel": "File CSS Profile for Bentley (TCU) \ud83c\udf93\ud83d\udccb",
+      "aw": 1,
+      "due": "2026-06-08",
+      "label": "\ud83d\udd25 File CSS Profile for Bentley (TCU) \ud83c\udf93\ud83d\udccb",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11055:0"
     }
   ],
-  "version": 149,
-  "updated": "2026-06-17T08:29:05.650211+00:00",
+  "version": 150,
+  "updated": "2026-06-17T08:29:43.544832+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
