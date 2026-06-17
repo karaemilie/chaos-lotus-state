@@ -1,9 +1,48 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T22:57:04.773Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 108,
+      "label": "Find missing headphone",
+      "uid": "SPIN_WHEEL:108",
+      "_ts": "2026-06-17T22:57:07.098Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Write plant lady A",
+      "_addedAt": "2026-06-17T22:56:12.675Z",
+      "_ts": "2026-06-17T22:56:12.775Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Write plant lady b",
+      "_addedAt": "2026-06-17T22:56:17.646Z",
+      "_ts": "2026-06-17T22:56:17.663Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Call ENT",
+      "_addedAt": "2026-06-17T22:56:23.698Z",
+      "_ts": "2026-06-17T22:56:23.814Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Call pediatrician t",
+      "_addedAt": "2026-06-17T22:56:27.647Z",
+      "_ts": "2026-06-17T22:56:27.668Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Call Chade",
+      "_addedAt": "2026-06-17T22:56:30.474Z",
+      "_ts": "2026-06-17T22:56:30.572Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T22:57:07.335Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 5
   }
 }
