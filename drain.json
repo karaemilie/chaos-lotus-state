@@ -1,14 +1,31 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 72,
+      "label": "🏠 Clean family room mirror",
+      "uid": "MAINTENANCE:71",
+      "_ts": "2026-06-17T09:59:10.588Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 7,
+      "label": "Clean rest of baking counter in kitchen 🧁🧽",
+      "uid": "SPIN:17",
+      "_ts": "2026-06-17T09:59:36.475Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 21,
+      "label": "Finish porting the taskBox to sync version",
+      "uid": "SPIN:40",
+      "_ts": "2026-06-17T10:00:27.415Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-17T09:59:54.582Z",
+  "mirroredAt": "2026-06-17T10:00:27.707Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-06-17T09:59:55.495120+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:71",
-    "SPIN:17"
-  ]
+  }
 }
