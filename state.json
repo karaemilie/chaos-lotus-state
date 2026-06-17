@@ -830,15 +830,22 @@
       "sid": 110,
       "label": "Library audio book",
       "uid": "SPIN_WHEEL:110"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 111,
+      "sid": 111,
+      "label": "New resolution: daily texts",
+      "uid": "SPIN_WHEEL:111"
     }
   ],
-  "version": 189,
-  "updated": "2026-06-17T13:49:18.674092+00:00",
+  "version": 190,
+  "updated": "2026-06-17T13:50:10.148546+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 70
+    "SPIN_WHEEL": 71
   }
 }
