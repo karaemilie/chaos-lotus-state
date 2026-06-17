@@ -30,12 +30,21 @@
       "label": "🏠 Polish the granite",
       "uid": "MAINTENANCE:70",
       "_ts": "2026-06-17T08:31:13.252Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 48,
+      "zid": 47,
+      "floor": "Basement",
+      "label": "🧺 Back Annex",
+      "uid": "ZONES:47",
+      "_ts": "2026-06-17T08:31:20.360Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-17T08:31:13.629Z",
+  "mirroredAt": "2026-06-17T08:31:20.577Z",
   "counts": {
-    "completions": 4,
+    "completions": 5,
     "adds": 0
   }
 }
