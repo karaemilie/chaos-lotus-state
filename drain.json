@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T23:49:05.353Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Assess bathroom bins (Evan needs one)",
+      "_addedAt": "2026-06-17T23:51:20.172Z",
+      "_ts": "2026-06-17T23:51:20.324Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T23:51:20.552Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-17T23:49:05.985287+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:73"
-  ]
+    "adds": 1
+  }
 }
