@@ -244,16 +244,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 22,
-      "floor": "Main Floor",
-      "row": 23,
-      "label": "\ud83e\uddfa Mudroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Mudroom",
-      "uid": "ZONES:22"
-    },
-    {
-      "source": "ZONES",
       "zid": 47,
       "floor": "Basement",
       "row": 48,
@@ -378,13 +368,6 @@
       "row": 8,
       "label": "Order Jake 4 boxes contacts",
       "uid": "SPIN:18"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 22,
-      "row": 9,
-      "label": "Outside raspberry work, again",
-      "uid": "SPIN:22"
     },
     {
       "source": "SPIN_WHEEL",
@@ -727,15 +710,24 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10018"
+    },
+    {
+      "source": "ZONES",
+      "zid": 24,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Music Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Music Room",
+      "uid": "ZONES:24"
     }
   ],
-  "version": 156,
-  "updated": "2026-06-17T08:42:36.604272+00:00",
+  "version": 157,
+  "updated": "2026-06-17T08:43:22.237382+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 55
+    "SPIN_WHEEL": 54
   }
 }
