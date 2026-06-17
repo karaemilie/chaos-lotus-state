@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11469,
+      "row": 297,
+      "label": "✨ Grab the candles and charge them",
+      "uid": "TASKS:11469",
+      "_ts": "2026-06-17T04:07:19.696Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-17T04:01:44.478Z",
+  "mirroredAt": "2026-06-17T04:07:19.908Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-17T04:01:45.210732+00:00",
-  "lastAutoProcessed": [
-    "SPIN:46"
-  ]
+  }
 }
