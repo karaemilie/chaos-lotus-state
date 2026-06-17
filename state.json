@@ -596,13 +596,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 80,
-      "row": 50,
-      "label": "List dash & dot",
-      "uid": "SPIN:80"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 81,
       "row": 51,
       "label": "Make list of free med schools",
@@ -804,13 +797,13 @@
       "uid": "SPIN_WHEEL:105"
     }
   ],
-  "version": 183,
-  "updated": "2026-06-17T10:14:43.563579+00:00",
+  "version": 184,
+  "updated": "2026-06-17T10:15:26.580496+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 66
+    "SPIN_WHEEL": 65
   }
 }
