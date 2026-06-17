@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T10:15:27.555Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Finish fixing water glitters",
+      "_addedAt": "2026-06-17T10:15:45.080Z",
+      "_ts": "2026-06-17T10:15:45.349Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T10:15:45.625Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-17T10:15:28.327051+00:00",
-  "lastAutoProcessed": [
-    "SPIN:80"
-  ]
+    "adds": 1
+  }
 }
