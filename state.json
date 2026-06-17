@@ -196,16 +196,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 80,
-      "floor": "Plant",
-      "row": 81,
-      "label": "\ud83c\udf31 Hallway",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Hallway",
-      "uid": "ZONES:80"
-    },
-    {
-      "source": "ZONES",
       "zid": 83,
       "floor": "Personal",
       "row": 84,
@@ -768,10 +758,19 @@
       "label": "\ud83d\udd25 Deal with Genevieve's overdue account balance \ud83d\udcb3\u26a0\ufe0f \ud83c\udfaf First step: log in + check the exact balance owed",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11618:0"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 127,
-  "updated": "2026-06-17T04:54:38.157139+00:00",
+  "version": 128,
+  "updated": "2026-06-17T05:29:00.701652+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
