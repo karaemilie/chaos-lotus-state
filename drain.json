@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T10:07:45.543Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Look through night task purge / did it work (96 vrs 92 task short disconnect?)",
+      "_addedAt": "2026-06-17T10:10:01.778Z",
+      "_ts": "2026-06-17T10:10:02.154Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T10:10:02.459Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
