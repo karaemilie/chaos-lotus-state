@@ -768,15 +768,36 @@
       "sid": 100,
       "label": "Look through bike helmets",
       "uid": "SPIN_WHEEL:100"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 101,
+      "sid": 101,
+      "label": "Plant my currant",
+      "uid": "SPIN_WHEEL:101"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 102,
+      "sid": 102,
+      "label": "Update lotus icon",
+      "uid": "SPIN_WHEEL:102"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 103,
+      "sid": 103,
+      "label": "Remind Jake Weed and feed",
+      "uid": "SPIN_WHEEL:103"
     }
   ],
-  "version": 179,
-  "updated": "2026-06-17T10:07:04.020862+00:00",
+  "version": 180,
+  "updated": "2026-06-17T10:07:46.584460+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 61
+    "SPIN_WHEEL": 64
   }
 }
