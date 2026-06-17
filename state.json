@@ -706,15 +706,22 @@
       "sid": 65,
       "label": "Clean white jeans",
       "uid": "SPIN_WHEEL:65"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 66,
+      "sid": 66,
+      "label": "Condition leather sandLs",
+      "uid": "SPIN_WHEEL:66"
     }
   ],
-  "version": 98,
-  "updated": "2026-06-17T00:24:04.885854+00:00",
+  "version": 99,
+  "updated": "2026-06-17T00:24:52.789568+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 49
+    "SPIN_WHEEL": 50
   }
 }
