@@ -128,20 +128,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10868,
-      "row": 188,
-      "label": "Research masters degree programs for Bentley as backup plan (bio major switch before fall registration) \ud83c\udf93",
-      "aw": 3,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10868"
-    },
-    {
-      "source": "TASKS",
       "id": 11496,
       "row": 279,
       "label": "Look into downloading open-source Claude \ud83e\udd16",
@@ -735,10 +721,23 @@
       "row": 58,
       "label": "Do last privacy film on middle stall garage *",
       "uid": "SPIN:82"
+    },
+    {
+      "source": "TASKS",
+      "id": 10018,
+      "label": "Buy materials for bunk beds",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 60,
+      "ml": "Easy Win",
+      "proj": "Bunk Beds with Lincoln & Evan",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10018"
     }
   ],
-  "version": 139,
-  "updated": "2026-06-17T07:54:53.425968+00:00",
+  "version": 140,
+  "updated": "2026-06-17T07:56:01.589044+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
