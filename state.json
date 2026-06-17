@@ -840,13 +840,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 115,
-      "sid": 115,
-      "label": "Call ENT",
-      "uid": "SPIN_WHEEL:115"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 116,
       "sid": 116,
       "label": "Call pediatrician t",
@@ -867,13 +860,13 @@
       "uid": "SPIN_WHEEL:118"
     }
   ],
-  "version": 198,
-  "updated": "2026-06-17T23:44:16.422577+00:00",
+  "version": 199,
+  "updated": "2026-06-17T23:44:58.027756+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 75
+    "SPIN_WHEEL": 74
   }
 }
