@@ -308,16 +308,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "row": 74,
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
-      "source": "ZONES",
       "zid": 83,
       "floor": "Personal",
       "row": 84,
@@ -696,13 +686,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 65,
-      "row": 49,
-      "label": "Clean white jeans",
-      "uid": "SPIN:65"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 66,
       "row": 50,
       "label": "Condition leather sandLs",
@@ -764,15 +747,24 @@
       "sid": 73,
       "label": "Call Sherwin williams, verify samples to go in stock **",
       "uid": "SPIN_WHEEL:73"
+    },
+    {
+      "source": "ZONES",
+      "zid": 74,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Plants",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Plants",
+      "uid": "ZONES:74"
     }
   ],
-  "version": 108,
-  "updated": "2026-06-17T02:49:39.995306+00:00",
+  "version": 109,
+  "updated": "2026-06-17T02:50:28.181124+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 56
+    "SPIN_WHEEL": 55
   }
 }
