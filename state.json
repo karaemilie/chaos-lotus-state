@@ -259,13 +259,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 21,
-      "row": 9,
-      "label": "Summarize current & projected debt",
-      "uid": "SPIN:21"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 22,
       "row": 10,
       "label": "Outside raspberry work, again",
@@ -601,13 +594,13 @@
       "uid": "SPIN:82"
     }
   ],
-  "version": 145,
-  "updated": "2026-06-17T08:14:20.033054+00:00",
+  "version": 146,
+  "updated": "2026-06-17T08:15:23.236833+00:00",
   "buckets": {
     "TASKS": 9,
     "COURAGE": 1,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 56
+    "SPIN_WHEEL": 55
   }
 }
