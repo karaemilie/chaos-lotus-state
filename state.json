@@ -636,14 +636,6 @@
       "uid": "SPIN:72"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 69,
-      "label": "\ud83c\udfe0 Wash towels",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Wash towels",
-      "uid": "MAINTENANCE:69"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 73,
       "sid": 73,
@@ -765,10 +757,18 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10024"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 70,
+      "label": "\ud83c\udfe0 Polish the granite",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Polish the granite",
+      "uid": "MAINTENANCE:70"
     }
   ],
-  "version": 121,
-  "updated": "2026-06-17T04:11:49.964543+00:00",
+  "version": 122,
+  "updated": "2026-06-17T04:16:44.156195+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
