@@ -789,15 +789,22 @@
       "sid": 103,
       "label": "Remind Jake Weed and feed",
       "uid": "SPIN_WHEEL:103"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 104,
+      "sid": 104,
+      "label": "Look through night task purge / did it work (96 vrs 92 task short disconnect?)",
+      "uid": "SPIN_WHEEL:104"
     }
   ],
-  "version": 180,
-  "updated": "2026-06-17T10:07:46.584460+00:00",
+  "version": 181,
+  "updated": "2026-06-17T10:10:17.718758+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 64
+    "SPIN_WHEEL": 65
   }
 }
