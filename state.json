@@ -86,20 +86,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10237,
-      "row": 431,
-      "label": "Cancel Slate card",
-      "aw": 3,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10237"
-    },
-    {
-      "source": "TASKS",
       "id": 11614,
       "row": 353,
       "label": "Mock up custom spice rack shelf design \ud83e\uddc2\ud83d\udcd0 \ud83c\udfaf First step: measure the garage shelf opening",
@@ -741,10 +727,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10018"
+    },
+    {
+      "source": "TASKS",
+      "id": 10021,
+      "label": "Add shelf holes to cabinet sides",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10021"
     }
   ],
-  "version": 159,
-  "updated": "2026-06-17T08:54:30.157249+00:00",
+  "version": 160,
+  "updated": "2026-06-17T08:54:57.662605+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
