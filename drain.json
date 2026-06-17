@@ -1,17 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10868,
+      "row": 427,
+      "label": "Research masters degree programs for Bentley as backup plan (bio major switch before fall registration) 🎓",
+      "uid": "TASKS:10868",
+      "_ts": "2026-06-17T08:54:17.547Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-17T08:43:25.122Z",
+  "mirroredAt": "2026-06-17T08:54:17.776Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-17T08:43:26.173009+00:00",
-  "lastAutoProcessed": [
-    "ZONES:22",
-    "SPIN:35",
-    "SPIN:45",
-    "SPIN:22",
-    "TASKS:10411"
-  ]
+  }
 }
