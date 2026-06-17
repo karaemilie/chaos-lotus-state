@@ -72,34 +72,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11064,
-      "row": 428,
-      "label": "Unpack the Festool Domino \ud83d\udd28\ud83d\udce6",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11064"
-    },
-    {
-      "source": "TASKS",
-      "id": 11511,
-      "row": 307,
-      "label": "Get paint samples for boys room \ud83c\udfa8\ud83d\udecf\ufe0f",
-      "aw": 5,
-      "pri": "Normal",
-      "dur": 30,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11511"
-    },
-    {
-      "source": "TASKS",
       "id": 11496,
       "row": 275,
       "label": "Look into downloading open-source Claude \ud83e\udd16",
@@ -223,16 +195,6 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Mudroom",
       "uid": "ZONES:22"
-    },
-    {
-      "source": "ZONES",
-      "zid": 47,
-      "floor": "Basement",
-      "row": 48,
-      "label": "\ud83e\uddfa Back Annex",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Back Annex",
-      "uid": "ZONES:47"
     },
     {
       "source": "ZONES",
@@ -739,10 +701,45 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10255"
+    },
+    {
+      "source": "ZONES",
+      "zid": 48,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Craft Zone",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Craft Zone",
+      "uid": "ZONES:48"
+    },
+    {
+      "source": "TASKS",
+      "id": 10384,
+      "label": "Take my cords and Genevieve's cords to the tailor",
+      "aw": 6,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10384"
+    },
+    {
+      "source": "TASKS",
+      "id": 11104,
+      "label": "Fix open thread on papasan chair \ud83e\ude91\ud83e\uddf5",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11104"
     }
   ],
-  "version": 161,
-  "updated": "2026-06-17T08:55:30.071510+00:00",
+  "version": 162,
+  "updated": "2026-06-17T08:56:17.573293+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
