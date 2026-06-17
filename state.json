@@ -198,16 +198,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 46,
-      "floor": "Basement",
-      "row": 47,
-      "label": "\ud83e\uddfa Basement Foyer",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Foyer",
-      "uid": "ZONES:46"
-    },
-    {
-      "source": "ZONES",
       "zid": 67,
       "floor": "Digital",
       "row": 68,
@@ -770,10 +760,19 @@
       "sid": 80,
       "label": "List dash & dot",
       "uid": "SPIN_WHEEL:80"
+    },
+    {
+      "source": "ZONES",
+      "zid": 47,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Back Annex",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Back Annex",
+      "uid": "ZONES:47"
     }
   ],
-  "version": 125,
-  "updated": "2026-06-17T04:52:43.280953+00:00",
+  "version": 126,
+  "updated": "2026-06-17T04:53:25.722924+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
