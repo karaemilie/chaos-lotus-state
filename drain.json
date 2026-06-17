@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10868,
+      "row": 427,
+      "label": "Research masters degree programs for Bentley as backup plan (bio major switch before fall registration) 🎓",
+      "uid": "TASKS:10868",
+      "_ts": "2026-06-17T08:54:17.547Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 10237,
+      "row": 431,
+      "label": "Cancel Slate card",
+      "uid": "TASKS:10237",
+      "_ts": "2026-06-17T08:54:42.051Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-17T08:54:32.535Z",
+  "mirroredAt": "2026-06-17T08:54:42.267Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-06-17T08:54:33.599101+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10868"
-  ]
+  }
 }
