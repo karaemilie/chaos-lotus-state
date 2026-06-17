@@ -756,15 +756,22 @@
       "sid": 74,
       "label": "Five minutes in hall closet",
       "uid": "SPIN_WHEEL:74"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 75,
+      "sid": 75,
+      "label": "Look for wrought iron curtains",
+      "uid": "SPIN_WHEEL:75"
     }
   ],
-  "version": 111,
-  "updated": "2026-06-17T03:09:11.829318+00:00",
+  "version": 112,
+  "updated": "2026-06-17T03:28:22.923047+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 55
+    "SPIN_WHEEL": 56
   }
 }
