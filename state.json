@@ -393,13 +393,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 30,
-      "row": 13,
-      "label": "Find unofficial transcripts for B",
-      "uid": "SPIN:30"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 31,
       "row": 14,
       "label": "Spend Kohl's gift card",
@@ -714,13 +707,13 @@
       "uid": "SPIN_WHEEL:91"
     }
   ],
-  "version": 174,
-  "updated": "2026-06-17T10:04:51.080118+00:00",
+  "version": 175,
+  "updated": "2026-06-17T10:05:32.533385+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 53
+    "SPIN_WHEEL": 52
   }
 }
