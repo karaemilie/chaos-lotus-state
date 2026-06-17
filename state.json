@@ -372,13 +372,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 17,
-      "row": 7,
-      "label": "Clean rest of baking counter in kitchen \ud83e\uddc1\ud83e\uddfd",
-      "uid": "SPIN:17"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 18,
       "row": 8,
       "label": "Order Jake 4 boxes contacts",
@@ -743,13 +736,13 @@
       "uid": "MAINTENANCE:73"
     }
   ],
-  "version": 165,
-  "updated": "2026-06-17T09:59:26.104025+00:00",
+  "version": 166,
+  "updated": "2026-06-17T09:59:53.575543+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 57
+    "SPIN_WHEEL": 56
   }
 }
