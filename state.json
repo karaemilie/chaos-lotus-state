@@ -282,15 +282,6 @@
     },
     {
       "source": "MAINTENANCE",
-      "mid": 70,
-      "row": 71,
-      "label": "\ud83c\udfe0 Polish the granite",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Polish the granite",
-      "uid": "MAINTENANCE:70"
-    },
-    {
-      "source": "MAINTENANCE",
       "mid": 71,
       "row": 72,
       "label": "\ud83c\udfe0 Clean family room mirror",
@@ -670,13 +661,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 78,
-      "row": 52,
-      "label": "Retape plant light",
-      "uid": "SPIN:78"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 79,
       "row": 53,
       "label": "Run mom purse through ozone",
@@ -733,15 +717,23 @@
       "label": "\ud83d\udd25 File CSS Profile for Bentley (TCU) \ud83c\udf93\ud83d\udccb",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11055:0"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 73,
+      "label": "\ud83c\udfe0 Wash my bathroom rugs",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Wash my bathroom rugs",
+      "uid": "MAINTENANCE:73"
     }
   ],
-  "version": 150,
-  "updated": "2026-06-17T08:29:43.544832+00:00",
+  "version": 151,
+  "updated": "2026-06-17T08:31:29.345647+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 56
+    "SPIN_WHEEL": 55
   }
 }
