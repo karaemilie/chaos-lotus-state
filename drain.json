@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T10:16:06.778Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Call Chase about credit card wrong balance",
+      "_addedAt": "2026-06-17T10:36:05.218Z",
+      "_ts": "2026-06-17T10:36:05.476Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T10:36:05.838Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
