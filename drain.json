@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-16T23:31:24.958Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Clean white jeans",
+      "_addedAt": "2026-06-17T00:23:45.384Z",
+      "_ts": "2026-06-17T00:23:45.510Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T00:23:45.739Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-16T23:31:25.847546+00:00",
-  "lastAutoProcessed": [
-    "SPIN:53"
-  ]
+    "adds": 1
+  }
 }
