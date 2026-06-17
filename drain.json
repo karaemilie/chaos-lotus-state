@@ -39,12 +39,21 @@
       "label": "Unpack the Festool Domino 🔨📦",
       "uid": "TASKS:11064",
       "_ts": "2026-06-17T08:55:39.910Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 48,
+      "zid": 47,
+      "floor": "Basement",
+      "label": "🧺 Back Annex",
+      "uid": "ZONES:47",
+      "_ts": "2026-06-17T08:55:48.751Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-17T08:55:40.265Z",
+  "mirroredAt": "2026-06-17T08:55:48.969Z",
   "counts": {
-    "completions": 5,
+    "completions": 6,
     "adds": 0
   }
 }
