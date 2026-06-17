@@ -1,9 +1,25 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T08:28:10.241Z",
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10237,
+      "row": 430,
+      "label": "Cancel Slate card",
+      "uid": "TASKS:10237",
+      "_ts": "2026-06-17T08:28:40.993Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Track down Etsy refund",
+      "_addedAt": "2026-06-17T08:27:45.988Z",
+      "_ts": "2026-06-17T08:27:46.243Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T08:28:41.206Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
