@@ -540,13 +540,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 62,
-      "row": 35,
-      "label": "Final redistribution",
-      "uid": "SPIN:62"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 63,
       "row": 36,
       "label": "Try out AI design for living room",
@@ -715,13 +708,13 @@
       "uid": "MAINTENANCE:73"
     }
   ],
-  "version": 168,
-  "updated": "2026-06-17T10:01:26.054885+00:00",
+  "version": 169,
+  "updated": "2026-06-17T10:02:07.437084+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 53
+    "SPIN_WHEEL": 52
   }
 }
