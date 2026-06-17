@@ -691,15 +691,22 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10018"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 89,
+      "sid": 89,
+      "label": "Get rid of old weed barrel",
+      "uid": "SPIN_WHEEL:89"
     }
   ],
-  "version": 172,
-  "updated": "2026-06-17T10:04:02.498258+00:00",
+  "version": 173,
+  "updated": "2026-06-17T10:04:05.547675+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 50
+    "SPIN_WHEEL": 51
   }
 }
