@@ -165,18 +165,6 @@
       "uid": "COURAGE:10218:0"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11613,
-      "parentRow": 360,
-      "parentLabel": "List transcripts needed for Bentley's med school app \ud83c\udf93 \ud83c\udfaf First step: list every school he's attended + dual-enrollment",
-      "stepIndex": 0,
-      "aw": 1,
-      "due": "2026-06-11",
-      "label": "\ud83d\udd25 List transcripts needed for Bentley's med school app \ud83c\udf93 \ud83c\udfaf First step: list every school he's attended + dual-enrollment",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11613:0"
-    },
-    {
       "source": "ZONES",
       "zid": 9,
       "floor": "Upstairs",
@@ -769,10 +757,21 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Back Annex",
       "uid": "ZONES:47"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11618,
+      "stepIndex": 0,
+      "parentLabel": "Deal with Genevieve's overdue account balance \ud83d\udcb3\u26a0\ufe0f \ud83c\udfaf First step: log in + check the exact balance owed",
+      "aw": 1,
+      "due": null,
+      "label": "\ud83d\udd25 Deal with Genevieve's overdue account balance \ud83d\udcb3\u26a0\ufe0f \ud83c\udfaf First step: log in + check the exact balance owed",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11618:0"
     }
   ],
-  "version": 126,
-  "updated": "2026-06-17T04:53:25.722924+00:00",
+  "version": 127,
+  "updated": "2026-06-17T04:54:38.157139+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
