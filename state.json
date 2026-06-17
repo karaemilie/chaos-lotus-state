@@ -733,15 +733,50 @@
       "sid": 95,
       "label": "Find first transcript for Bentley",
       "uid": "SPIN_WHEEL:95"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 96,
+      "sid": 96,
+      "label": "Next step stair polish",
+      "uid": "SPIN_WHEEL:96"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 97,
+      "sid": 97,
+      "label": "Order last clear bins",
+      "uid": "SPIN_WHEEL:97"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 98,
+      "sid": 98,
+      "label": "Fully test all tap formats on all types in pansy",
+      "uid": "SPIN_WHEEL:98"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 99,
+      "sid": 99,
+      "label": "Fully test all tap formats on all types in lotus",
+      "uid": "SPIN_WHEEL:99"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 100,
+      "sid": 100,
+      "label": "Look through bike helmets",
+      "uid": "SPIN_WHEEL:100"
     }
   ],
-  "version": 178,
-  "updated": "2026-06-17T10:06:23.242514+00:00",
+  "version": 179,
+  "updated": "2026-06-17T10:07:04.020862+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 56
+    "SPIN_WHEEL": 61
   }
 }
