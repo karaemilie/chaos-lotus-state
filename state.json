@@ -645,13 +645,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 84,
-      "row": 54,
-      "label": "Retape plant light",
-      "uid": "SPIN:84"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 85,
       "row": 55,
       "label": "Summarize current & projected debt",
@@ -700,13 +693,13 @@
       "uid": "TASKS:10018"
     }
   ],
-  "version": 170,
-  "updated": "2026-06-17T10:02:34.632882+00:00",
+  "version": 171,
+  "updated": "2026-06-17T10:03:21.877881+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 51
+    "SPIN_WHEEL": 50
   }
 }
