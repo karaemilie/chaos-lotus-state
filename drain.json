@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T23:44:59.123Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Write Mom about videos",
+      "_addedAt": "2026-06-17T23:45:46.611Z",
+      "_ts": "2026-06-17T23:45:46.761Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T23:45:47.002Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-17T23:45:00.001798+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:115"
-  ]
+    "adds": 1
+  }
 }
