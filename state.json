@@ -767,15 +767,22 @@
       "sid": 78,
       "label": "Retape plant light",
       "uid": "SPIN_WHEEL:78"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 79,
+      "sid": 79,
+      "label": "Run mom purse through ozone",
+      "uid": "SPIN_WHEEL:79"
     }
   ],
-  "version": 117,
-  "updated": "2026-06-17T03:59:37.879082+00:00",
+  "version": 118,
+  "updated": "2026-06-17T04:00:23.836019+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 57
+    "SPIN_WHEEL": 58
   }
 }
