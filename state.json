@@ -809,15 +809,22 @@
       "sid": 107,
       "label": "Call Chase about credit card wrong balance",
       "uid": "SPIN_WHEEL:107"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 108,
+      "sid": 108,
+      "label": "Find missing headphone",
+      "uid": "SPIN_WHEEL:108"
     }
   ],
-  "version": 186,
-  "updated": "2026-06-17T10:36:26.242817+00:00",
+  "version": 187,
+  "updated": "2026-06-17T13:32:19.395615+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 67
+    "SPIN_WHEEL": 68
   }
 }
