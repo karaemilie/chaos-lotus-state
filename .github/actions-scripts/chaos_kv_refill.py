@@ -94,6 +94,14 @@ def _future_tasks_in_band(wb, today, lo, hi, exclude_uids, uid_prefix):
             start = start.date()
         if start is None or start <= today:
             continue  # only FUTURE tasks here (available ones handled elsewhere)
+        # NEVER pull a recurring task forward from its future Start date. Surfacing
+        # one early and completing it would advance its recurrence cycle off-schedule
+        # (e.g. a Weekly-Monday task pulled to Wednesday would re-spawn from Wednesday).
+        # The reservoir is for one-time tasks only; recurring tasks must wait for
+        # their own Start date to surface through the normal eligible pool.
+        rec_type = ws.cell(r, H["Recurring Type"]).value if "Recurring Type" in H else None
+        if rec_type and str(rec_type).strip().lower() not in ("none", ""):
+            continue
         aw = ws.cell(r, H["Anchor Weight"]).value
         try:
             aw = int(aw)
