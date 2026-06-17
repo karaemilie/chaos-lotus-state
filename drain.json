@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 72,
+      "label": "🏠 Clean family room mirror",
+      "uid": "MAINTENANCE:71",
+      "_ts": "2026-06-17T09:59:10.588Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 7,
+      "label": "Clean rest of baking counter in kitchen 🧁🧽",
+      "uid": "SPIN:17",
+      "_ts": "2026-06-17T09:59:36.475Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-17T09:59:27.432Z",
+  "mirroredAt": "2026-06-17T09:59:36.682Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-06-17T09:59:28.461871+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:71"
-  ]
+  }
 }
