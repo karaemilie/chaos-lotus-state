@@ -1,14 +1,41 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10237,
+      "row": 430,
+      "label": "Cancel Slate card",
+      "uid": "TASKS:10237",
+      "_ts": "2026-06-17T08:28:40.993Z"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11618,
+      "stepIndex": 0,
+      "label": "🔥 Deal with Genevieve's overdue account balance 💳⚠️ 🎯 First step: log in + check the exact balance owed",
+      "uid": "COURAGE:11618:0",
+      "_ts": "2026-06-17T08:29:17.603Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 52,
+      "sid": 78,
+      "label": "Retape plant light",
+      "uid": "SPIN:78",
+      "_ts": "2026-06-17T08:29:47.014Z"
+    },
+    {
+      "source": "MAINTENANCE",
+      "row": 71,
+      "label": "🏠 Polish the granite",
+      "uid": "MAINTENANCE:70",
+      "_ts": "2026-06-17T08:31:13.252Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-17T08:29:45.641Z",
+  "mirroredAt": "2026-06-17T08:31:13.629Z",
   "counts": {
-    "completions": 0,
+    "completions": 4,
     "adds": 0
-  },
-  "processedAt": "2026-06-17T08:29:46.433262+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10237",
-    "COURAGE:11618:0"
-  ]
+  }
 }
