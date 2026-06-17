@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "COURAGE",
+      "parentId": 11613,
+      "stepIndex": 0,
+      "label": "🔥 List transcripts needed for Bentley's med school app 🎓 🎯 First step: list every school he's attended + dual-enrollment",
+      "uid": "COURAGE:11613:0",
+      "_ts": "2026-06-17T04:54:27.996Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-17T04:53:26.776Z",
+  "mirroredAt": "2026-06-17T04:54:28.347Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-17T04:53:27.652795+00:00",
-  "lastAutoProcessed": [
-    "ZONES:46"
-  ]
+  }
 }
