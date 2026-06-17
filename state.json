@@ -72,20 +72,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10237,
-      "row": 430,
-      "label": "Cancel Slate card",
-      "aw": 3,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10237"
-    },
-    {
-      "source": "TASKS",
       "id": 11064,
       "row": 431,
       "label": "Unpack the Festool Domino \ud83d\udd28\ud83d\udce6",
@@ -735,10 +721,23 @@
       "sid": 83,
       "label": "Track down Etsy refund",
       "uid": "SPIN_WHEEL:83"
+    },
+    {
+      "source": "TASKS",
+      "id": 10018,
+      "label": "Buy materials for bunk beds",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 60,
+      "ml": "Easy Win",
+      "proj": "Bunk Beds with Lincoln & Evan",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10018"
     }
   ],
-  "version": 148,
-  "updated": "2026-06-17T08:28:11.483652+00:00",
+  "version": 149,
+  "updated": "2026-06-17T08:29:05.650211+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
