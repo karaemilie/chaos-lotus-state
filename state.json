@@ -698,15 +698,29 @@
       "sid": 89,
       "label": "Get rid of old weed barrel",
       "uid": "SPIN_WHEEL:89"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 90,
+      "sid": 90,
+      "label": "Clean up porch",
+      "uid": "SPIN_WHEEL:90"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 91,
+      "sid": 91,
+      "label": "Test adding tasks through import",
+      "uid": "SPIN_WHEEL:91"
     }
   ],
-  "version": 173,
-  "updated": "2026-06-17T10:04:05.547675+00:00",
+  "version": 174,
+  "updated": "2026-06-17T10:04:51.080118+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 51
+    "SPIN_WHEEL": 53
   }
 }
