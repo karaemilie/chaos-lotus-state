@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T21:27:26.928Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order more shirts for B",
+      "_addedAt": "2026-06-17T22:06:08.124Z",
+      "_ts": "2026-06-17T22:06:08.979Z"
+    }
+  ],
+  "mirroredAt": "2026-06-17T22:06:09.218Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-17T21:27:27.813828+00:00",
-  "lastAutoProcessed": [
-    "SPIN:77"
-  ]
+    "adds": 1
+  }
 }
