@@ -346,15 +346,6 @@
       "uid": "MAINTENANCE:67"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 68,
-      "row": 69,
-      "label": "\ud83c\udfe0 Trim cat claws",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Trim cat claws",
-      "uid": "MAINTENANCE:68"
-    },
-    {
       "source": "TASKS",
       "id": 11033,
       "row": 216,
@@ -758,10 +749,18 @@
       "row": 56,
       "label": "Search Target stools **",
       "uid": "SPIN:72"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 69,
+      "label": "\ud83c\udfe0 Wash towels",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Wash towels",
+      "uid": "MAINTENANCE:69"
     }
   ],
-  "version": 106,
-  "updated": "2026-06-17T02:22:34.062896+00:00",
+  "version": 107,
+  "updated": "2026-06-17T02:40:29.445621+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
