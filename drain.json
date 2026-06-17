@@ -1,5 +1,12 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Testing",
+      "uid": "PLUS_ADD:Testing:2026-06-17T07:14:16.285Z",
+      "_ts": "2026-06-17T07:14:24.890Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -14,9 +21,9 @@
       "_ts": "2026-06-17T07:14:16.482Z"
     }
   ],
-  "mirroredAt": "2026-06-17T07:14:16.722Z",
+  "mirroredAt": "2026-06-17T07:14:25.100Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 2
   }
 }
