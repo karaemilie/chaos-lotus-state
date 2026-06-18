@@ -539,13 +539,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 86,
-      "row": 56,
-      "label": "Try new bins in bathroom",
-      "uid": "SPIN:86"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 87,
       "row": 57,
       "label": "Sign B up for new MCAT date",
@@ -904,13 +897,13 @@
       "uid": "SPIN_WHEEL:138"
     }
   ],
-  "version": 239,
-  "updated": "2026-06-18T23:13:10.262029+00:00",
+  "version": 240,
+  "updated": "2026-06-18T23:13:45.297070+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 80,
     "MAINTENANCE": 2
   }
 }
