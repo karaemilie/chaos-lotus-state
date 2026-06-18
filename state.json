@@ -674,13 +674,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 102,
-      "sid": 102,
-      "label": "Update lotus icon",
-      "uid": "SPIN_WHEEL:102"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 103,
       "sid": 103,
       "label": "Remind Jake Weed and feed",
@@ -884,13 +877,13 @@
       "uid": "TASKS:10384"
     }
   ],
-  "version": 223,
-  "updated": "2026-06-18T06:15:38.938224+00:00",
+  "version": 224,
+  "updated": "2026-06-18T06:55:39.810246+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 77,
     "MAINTENANCE": 2
   }
 }
