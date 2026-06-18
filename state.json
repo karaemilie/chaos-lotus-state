@@ -232,16 +232,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "row": 75,
-      "label": "\ud83c\udf31 Family Room Plants",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Plants",
-      "uid": "ZONES:74"
-    },
-    {
-      "source": "ZONES",
       "zid": 83,
       "floor": "Personal",
       "row": 84,
@@ -883,10 +873,19 @@
       "sid": 126,
       "label": "Deal with new plants, add to inventory list!",
       "uid": "SPIN_WHEEL:126"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 215,
-  "updated": "2026-06-18T02:52:01.524401+00:00",
+  "version": 216,
+  "updated": "2026-06-18T02:53:18.446395+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
