@@ -1,9 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-18T00:23:11.056Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 119,
+      "label": "Write Mom about videos",
+      "uid": "SPIN_WHEEL:119",
+      "_ts": "2026-06-18T00:23:53.463Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Follow up with Tim",
+      "_addedAt": "2026-06-18T00:22:59.237Z",
+      "_ts": "2026-06-18T00:22:59.417Z"
+    }
+  ],
+  "mirroredAt": "2026-06-18T00:23:53.723Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
