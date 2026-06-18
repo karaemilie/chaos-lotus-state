@@ -881,15 +881,22 @@
       "sid": 135,
       "label": "Move chairs",
       "uid": "SPIN_WHEEL:135"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 136,
+      "sid": 136,
+      "label": "Put adhesive on Robo base",
+      "uid": "SPIN_WHEEL:136"
     }
   ],
-  "version": 236,
-  "updated": "2026-06-18T21:45:07.219629+00:00",
+  "version": 237,
+  "updated": "2026-06-18T22:34:36.614222+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 79,
     "MAINTENANCE": 2
   }
 }
