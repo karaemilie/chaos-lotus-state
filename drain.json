@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10411,
+      "row": 428,
+      "label": "Book Lincoln Dr appt & Evan 6 month check up",
+      "uid": "TASKS:10411",
+      "_ts": "2026-06-18T00:46:16.057Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-18T00:40:50.005Z",
+  "mirroredAt": "2026-06-18T00:46:16.276Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-18T00:40:50.867734+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:114"
-  ]
+  }
 }
