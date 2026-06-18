@@ -792,19 +792,6 @@
       "uid": "SPIN_WHEEL:122"
     },
     {
-      "source": "TASKS",
-      "id": 11694,
-      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11694"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 123,
       "sid": 123,
@@ -882,10 +869,23 @@
       "sid": 129,
       "label": "Make sure summer cello is on calensae",
       "uid": "SPIN_WHEEL:129"
+    },
+    {
+      "source": "TASKS",
+      "id": 10384,
+      "label": "Take my cords and Genevieve's cords to the tailor",
+      "aw": 6,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10384"
     }
   ],
-  "version": 222,
-  "updated": "2026-06-18T06:10:16.201360+00:00",
+  "version": 223,
+  "updated": "2026-06-18T06:15:38.938224+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
