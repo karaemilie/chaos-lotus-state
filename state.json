@@ -876,15 +876,22 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Shake out the entry rug",
       "uid": "MAINTENANCE:75"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 126,
+      "sid": 126,
+      "label": "Deal with new plants, add to inventory list!",
+      "uid": "SPIN_WHEEL:126"
     }
   ],
-  "version": 214,
-  "updated": "2026-06-18T02:46:44.680211+00:00",
+  "version": 215,
+  "updated": "2026-06-18T02:52:01.524401+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 78,
     "MAINTENANCE": 2
   }
 }
