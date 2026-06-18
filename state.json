@@ -875,15 +875,22 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10384"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 130,
+      "sid": 130,
+      "label": "Pack up weed barrier, load up",
+      "uid": "SPIN_WHEEL:130"
     }
   ],
-  "version": 224,
-  "updated": "2026-06-18T06:55:39.810246+00:00",
+  "version": 225,
+  "updated": "2026-06-18T07:05:28.160756+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 78,
     "MAINTENANCE": 2
   }
 }
