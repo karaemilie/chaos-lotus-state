@@ -155,20 +155,6 @@
       "uid": "TASKS:10533"
     },
     {
-      "source": "TASKS",
-      "id": 11612,
-      "row": 351,
-      "label": "Continue work on family projects board \ud83c\udfc6 \ud83c\udfaf First step: build next iteration of the app",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11612"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11618,
       "parentRow": 427,
@@ -871,10 +857,23 @@
       "sid": 124,
       "label": "Next feature step chore board!",
       "uid": "SPIN_WHEEL:124"
+    },
+    {
+      "source": "TASKS",
+      "id": 10255,
+      "label": "Find Matt cheaper car insurance \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Hard",
+      "proj": "Insurance Admin",
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10255"
     }
   ],
-  "version": 211,
-  "updated": "2026-06-18T01:53:34.720568+00:00",
+  "version": 212,
+  "updated": "2026-06-18T01:54:10.184696+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
