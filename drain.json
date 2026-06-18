@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-18T04:20:47.190Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Next step printer paper",
+      "_addedAt": "2026-06-18T04:35:10.137Z",
+      "_ts": "2026-06-18T04:35:10.259Z"
+    }
+  ],
+  "mirroredAt": "2026-06-18T04:35:10.536Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
