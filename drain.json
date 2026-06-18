@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-18T02:46:45.666Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Deal with new plants, add to inventory list!",
+      "_addedAt": "2026-06-18T02:51:36.249Z",
+      "_ts": "2026-06-18T02:51:36.363Z"
+    }
+  ],
+  "mirroredAt": "2026-06-18T02:51:36.604Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-18T02:46:46.347922+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:70"
-  ]
+    "adds": 1
+  }
 }
