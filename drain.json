@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 116,
+      "label": "Call pediatrician t",
+      "uid": "SPIN_WHEEL:116",
+      "_ts": "2026-06-18T00:38:21.824Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-18T00:24:07.005Z",
+  "mirroredAt": "2026-06-18T00:38:22.072Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
