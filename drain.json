@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 23,
+      "label": "Reimburse Jake class",
+      "uid": "SPIN:42",
+      "_ts": "2026-06-18T07:42:39.233Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-18T07:35:52.146Z",
+  "mirroredAt": "2026-06-18T07:42:39.596Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-18T07:35:53.169518+00:00",
-  "lastAutoProcessed": [
-    "ZONES:9"
-  ]
+  }
 }
