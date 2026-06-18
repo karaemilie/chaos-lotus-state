@@ -727,13 +727,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 120,
-      "sid": 120,
-      "label": "Assess bathroom bins (Evan needs one)",
-      "uid": "SPIN_WHEEL:120"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 121,
       "sid": 121,
       "label": "Buy eye primer",
@@ -904,13 +897,13 @@
       "uid": "SPIN_WHEEL:139"
     }
   ],
-  "version": 241,
-  "updated": "2026-06-18T23:32:28.275951+00:00",
+  "version": 242,
+  "updated": "2026-06-18T23:33:15.628996+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 80,
     "MAINTENANCE": 2
   }
 }
