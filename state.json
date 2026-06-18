@@ -867,15 +867,22 @@
       "sid": 133,
       "label": "Extension cord for Pura",
       "uid": "SPIN_WHEEL:133"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 134,
+      "sid": 134,
+      "label": "Scrub under foyer table",
+      "uid": "SPIN_WHEEL:134"
     }
   ],
-  "version": 234,
-  "updated": "2026-06-18T20:47:52.240076+00:00",
+  "version": 235,
+  "updated": "2026-06-18T21:44:21.496360+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 76,
+    "SPIN_WHEEL": 77,
     "MAINTENANCE": 2
   }
 }
