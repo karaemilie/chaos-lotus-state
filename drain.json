@@ -1,16 +1,17 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-18T02:53:19.657Z",
-  "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-18T02:53:20.630181+00:00",
-  "lastAutoProcessed": [
-    "ZONES:74"
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 10,
+      "label": "Log into Chase card",
+      "uid": "SPIN:26",
+      "_ts": "2026-06-18T03:50:39.330Z"
+    }
   ],
-  "resetNeeded": [
-    "Plant"
-  ]
+  "adds": [],
+  "mirroredAt": "2026-06-18T03:50:39.556Z",
+  "counts": {
+    "completions": 1,
+    "adds": 0
+  }
 }
