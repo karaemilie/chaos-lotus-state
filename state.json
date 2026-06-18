@@ -364,13 +364,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 42,
-      "row": 23,
-      "label": "Reimburse Jake class",
-      "uid": "SPIN:42"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 43,
       "row": 24,
       "label": "Book septic",
@@ -855,13 +848,13 @@
       "uid": "ZONES:10"
     }
   ],
-  "version": 230,
-  "updated": "2026-06-18T07:35:51.174126+00:00",
+  "version": 231,
+  "updated": "2026-06-18T07:42:57.046503+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 74,
+    "SPIN_WHEEL": 73,
     "MAINTENANCE": 2
   }
 }
