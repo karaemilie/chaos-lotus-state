@@ -852,13 +852,6 @@
       "uid": "SPIN_WHEEL:118"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 119,
-      "sid": 119,
-      "label": "Write Mom about videos",
-      "uid": "SPIN_WHEEL:119"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 74,
       "label": "\ud83c\udfe0 Throw out pantry food",
@@ -888,13 +881,13 @@
       "uid": "SPIN_WHEEL:122"
     }
   ],
-  "version": 204,
-  "updated": "2026-06-18T00:23:11.990618+00:00",
+  "version": 205,
+  "updated": "2026-06-18T00:24:05.921134+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 78
+    "SPIN_WHEEL": 77
   }
 }
