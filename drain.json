@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-17T23:55:05.611Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Follow up with Tim",
+      "_addedAt": "2026-06-18T00:22:59.237Z",
+      "_ts": "2026-06-18T00:22:59.417Z"
+    }
+  ],
+  "mirroredAt": "2026-06-18T00:22:59.658Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
