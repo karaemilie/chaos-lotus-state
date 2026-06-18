@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-18T22:35:21.045Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Next row bathroom bins",
+      "_addedAt": "2026-06-18T23:12:55.736Z",
+      "_ts": "2026-06-18T23:12:55.955Z"
+    }
+  ],
+  "mirroredAt": "2026-06-18T23:12:56.277Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
