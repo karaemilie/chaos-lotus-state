@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 93,
+      "label": "Order new weed barrier",
+      "uid": "SPIN_WHEEL:93",
+      "_ts": "2026-06-18T07:05:16.967Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-06-18T07:05:14.855Z"
     }
   ],
-  "mirroredAt": "2026-06-18T07:05:15.203Z",
+  "mirroredAt": "2026-06-18T07:05:17.210Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
