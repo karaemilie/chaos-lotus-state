@@ -251,15 +251,6 @@
       "uid": "ZONES:83"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 70,
-      "row": 71,
-      "label": "\ud83c\udfe0 Polish the granite",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Polish the granite",
-      "uid": "MAINTENANCE:70"
-    },
-    {
       "source": "TASKS",
       "id": 11033,
       "row": 211,
@@ -877,15 +868,23 @@
       "sid": 125,
       "label": "Bring up ziplock for stuffing",
       "uid": "SPIN_WHEEL:125"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 75,
+      "label": "\ud83c\udfe0 Shake out the entry rug",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Shake out the entry rug",
+      "uid": "MAINTENANCE:75"
     }
   ],
-  "version": 213,
-  "updated": "2026-06-18T02:19:18.381653+00:00",
+  "version": 214,
+  "updated": "2026-06-18T02:46:44.680211+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "MAINTENANCE": 2,
-    "SPIN_WHEEL": 77
+    "SPIN_WHEEL": 77,
+    "MAINTENANCE": 2
   }
 }
