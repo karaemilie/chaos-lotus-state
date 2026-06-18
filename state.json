@@ -874,15 +874,22 @@
       "sid": 134,
       "label": "Scrub under foyer table",
       "uid": "SPIN_WHEEL:134"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 135,
+      "sid": 135,
+      "label": "Move chairs",
+      "uid": "SPIN_WHEEL:135"
     }
   ],
-  "version": 235,
-  "updated": "2026-06-18T21:44:21.496360+00:00",
+  "version": 236,
+  "updated": "2026-06-18T21:45:07.219629+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 78,
     "MAINTENANCE": 2
   }
 }
