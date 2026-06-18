@@ -618,13 +618,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 93,
-      "sid": 93,
-      "label": "Order new weed barrier",
-      "uid": "SPIN_WHEEL:93"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 94,
       "sid": 94,
       "label": "Replace lotus top header",
@@ -884,13 +877,13 @@
       "uid": "SPIN_WHEEL:130"
     }
   ],
-  "version": 225,
-  "updated": "2026-06-18T07:05:28.160756+00:00",
+  "version": 226,
+  "updated": "2026-06-18T07:06:08.686833+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 77,
     "MAINTENANCE": 2
   }
 }
