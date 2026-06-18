@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 97,
+      "label": "Order last clear bins",
+      "uid": "SPIN_WHEEL:97",
+      "_ts": "2026-06-18T03:54:04.702Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-18T03:51:46.880Z",
+  "mirroredAt": "2026-06-18T03:54:04.927Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-18T03:51:47.596346+00:00",
-  "lastAutoProcessed": [
-    "SPIN:26",
-    "SPIN_WHEEL:104"
-  ]
+  }
 }
