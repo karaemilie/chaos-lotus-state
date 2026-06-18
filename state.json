@@ -895,15 +895,22 @@
       "sid": 138,
       "label": "Next row bathroom bins",
       "uid": "SPIN_WHEEL:138"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 139,
+      "sid": 139,
+      "label": "Next step bathroom shelf org (clear bins)",
+      "uid": "SPIN_WHEEL:139"
     }
   ],
-  "version": 240,
-  "updated": "2026-06-18T23:13:45.297070+00:00",
+  "version": 241,
+  "updated": "2026-06-18T23:32:28.275951+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 81,
     "MAINTENANCE": 2
   }
 }
