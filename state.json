@@ -879,15 +879,22 @@
       "sid": 121,
       "label": "Buy eye primer",
       "uid": "SPIN_WHEEL:121"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 122,
+      "sid": 122,
+      "label": "Follow up with Tim",
+      "uid": "SPIN_WHEEL:122"
     }
   ],
-  "version": 203,
-  "updated": "2026-06-17T23:55:06.969586+00:00",
+  "version": 204,
+  "updated": "2026-06-18T00:23:11.990618+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 77
+    "SPIN_WHEEL": 78
   }
 }
