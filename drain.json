@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-18T07:42:57.971Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Update Hoya list",
+      "_addedAt": "2026-06-18T19:49:43.881Z",
+      "_ts": "2026-06-18T19:49:44.000Z"
+    }
+  ],
+  "mirroredAt": "2026-06-18T19:49:44.312Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-18T07:42:58.699377+00:00",
-  "lastAutoProcessed": [
-    "SPIN:42"
-  ]
+    "adds": 1
+  }
 }
