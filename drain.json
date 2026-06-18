@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 56,
+      "label": "Try new bins in bathroom",
+      "uid": "SPIN:86",
+      "_ts": "2026-06-18T23:12:57.424Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-06-18T23:12:55.955Z"
     }
   ],
-  "mirroredAt": "2026-06-18T23:12:56.277Z",
+  "mirroredAt": "2026-06-18T23:12:57.650Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
