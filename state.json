@@ -646,13 +646,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 97,
-      "sid": 97,
-      "label": "Order last clear bins",
-      "uid": "SPIN_WHEEL:97"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 98,
       "sid": 98,
       "label": "Fully test all tap formats on all types in pansy",
@@ -870,13 +863,13 @@
       "uid": "ZONES:73"
     }
   ],
-  "version": 218,
-  "updated": "2026-06-18T03:51:45.965757+00:00",
+  "version": 219,
+  "updated": "2026-06-18T03:54:18.650303+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 76,
+    "SPIN_WHEEL": 75,
     "MAINTENANCE": 2
   }
 }
