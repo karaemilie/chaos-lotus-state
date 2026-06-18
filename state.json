@@ -798,13 +798,6 @@
       "uid": "TASKS:10255"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 125,
-      "sid": 125,
-      "label": "Bring up ziplock for stuffing",
-      "uid": "SPIN_WHEEL:125"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 75,
       "label": "\ud83c\udfe0 Shake out the entry rug",
@@ -870,13 +863,13 @@
       "uid": "SPIN_WHEEL:130"
     }
   ],
-  "version": 227,
-  "updated": "2026-06-18T07:08:31.712404+00:00",
+  "version": 228,
+  "updated": "2026-06-18T07:14:17.368721+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 76,
+    "SPIN_WHEEL": 75,
     "MAINTENANCE": 2
   }
 }
