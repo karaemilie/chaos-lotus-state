@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 122,
+      "label": "Follow up with Tim",
+      "uid": "SPIN_WHEEL:122",
+      "_ts": "2026-06-18T07:16:58.227Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-18T07:14:18.524Z",
+  "mirroredAt": "2026-06-18T07:16:58.638Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-18T07:14:19.444689+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:125"
-  ]
+  }
 }
