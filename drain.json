@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-18T00:47:14.037Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Research John Deere spreader",
+      "_addedAt": "2026-06-18T01:30:42.557Z",
+      "_ts": "2026-06-18T01:30:42.670Z"
+    }
+  ],
+  "mirroredAt": "2026-06-18T01:30:42.928Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-18T00:47:15.172798+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:113"
-  ]
+    "adds": 1
+  }
 }
