@@ -846,15 +846,22 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Boys Room",
       "uid": "ZONES:10"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 131,
+      "sid": 131,
+      "label": "Update Hoya list",
+      "uid": "SPIN_WHEEL:131"
     }
   ],
-  "version": 231,
-  "updated": "2026-06-18T07:42:57.046503+00:00",
+  "version": 232,
+  "updated": "2026-06-18T19:50:01.890909+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 73,
+    "SPIN_WHEEL": 74,
     "MAINTENANCE": 2
   }
 }
