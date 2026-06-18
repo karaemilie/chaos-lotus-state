@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-18T06:55:40.986Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pack up weed barrier, load up",
+      "_addedAt": "2026-06-18T07:05:14.455Z",
+      "_ts": "2026-06-18T07:05:14.855Z"
+    }
+  ],
+  "mirroredAt": "2026-06-18T07:05:15.203Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-18T06:55:41.851750+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:102"
-  ]
+    "adds": 1
+  }
 }
