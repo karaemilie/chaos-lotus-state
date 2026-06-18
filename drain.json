@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-18T19:50:00.511Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Turn on phone eye protection",
+      "_addedAt": "2026-06-18T20:19:00.959Z",
+      "_ts": "2026-06-18T20:19:01.063Z"
+    }
+  ],
+  "mirroredAt": "2026-06-18T20:19:01.421Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
