@@ -192,16 +192,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 9,
-      "floor": "Upstairs",
-      "row": 10,
-      "label": "\ud83e\uddfa Upstairs Hallway",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Upstairs Hallway",
-      "uid": "ZONES:9"
-    },
-    {
-      "source": "ZONES",
       "zid": 22,
       "floor": "Main Floor",
       "row": 23,
@@ -854,10 +844,19 @@
       "sid": 130,
       "label": "Pack up weed barrier, load up",
       "uid": "SPIN_WHEEL:130"
+    },
+    {
+      "source": "ZONES",
+      "zid": 10,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Boys Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Boys Room",
+      "uid": "ZONES:10"
     }
   ],
-  "version": 229,
-  "updated": "2026-06-18T07:17:10.548630+00:00",
+  "version": 230,
+  "updated": "2026-06-18T07:35:51.174126+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
