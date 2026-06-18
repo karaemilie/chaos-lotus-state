@@ -765,13 +765,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 122,
-      "sid": 122,
-      "label": "Follow up with Tim",
-      "uid": "SPIN_WHEEL:122"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 123,
       "sid": 123,
       "label": "Research John Deere spreader",
@@ -863,13 +856,13 @@
       "uid": "SPIN_WHEEL:130"
     }
   ],
-  "version": 228,
-  "updated": "2026-06-18T07:14:17.368721+00:00",
+  "version": 229,
+  "updated": "2026-06-18T07:17:10.548630+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 75,
+    "SPIN_WHEEL": 74,
     "MAINTENANCE": 2
   }
 }
