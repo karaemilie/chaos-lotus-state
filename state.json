@@ -311,13 +311,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 26,
-      "row": 10,
-      "label": "Log into Chase card",
-      "uid": "SPIN:26"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 27,
       "row": 11,
       "label": "Ask Bailey about yarn",
@@ -884,13 +877,13 @@
       "uid": "ZONES:73"
     }
   ],
-  "version": 216,
-  "updated": "2026-06-18T02:53:18.446395+00:00",
+  "version": 217,
+  "updated": "2026-06-18T03:50:57.206145+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 77,
     "MAINTENANCE": 2
   }
 }
