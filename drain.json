@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-18T20:47:51.400Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Scrub under foyer table",
+      "_addedAt": "2026-06-18T21:44:04.098Z",
+      "_ts": "2026-06-18T21:44:04.297Z"
+    }
+  ],
+  "mirroredAt": "2026-06-18T21:44:04.560Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
