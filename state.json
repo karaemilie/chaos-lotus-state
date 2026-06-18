@@ -694,13 +694,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 106,
-      "sid": 106,
-      "label": "Finish fixing water glitters",
-      "uid": "SPIN_WHEEL:106"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 107,
       "sid": 107,
       "label": "Call Chase about credit card wrong balance",
@@ -877,13 +870,13 @@
       "uid": "SPIN_WHEEL:130"
     }
   ],
-  "version": 226,
-  "updated": "2026-06-18T07:06:08.686833+00:00",
+  "version": 227,
+  "updated": "2026-06-18T07:08:31.712404+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 76,
     "MAINTENANCE": 2
   }
 }
