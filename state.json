@@ -832,13 +832,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 116,
-      "sid": 116,
-      "label": "Call pediatrician t",
-      "uid": "SPIN_WHEEL:116"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 117,
       "sid": 117,
       "label": "Call Chade",
@@ -881,13 +874,13 @@
       "uid": "SPIN_WHEEL:122"
     }
   ],
-  "version": 205,
-  "updated": "2026-06-18T00:24:05.921134+00:00",
+  "version": 206,
+  "updated": "2026-06-18T00:38:33.174159+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 77
+    "SPIN_WHEEL": 76
   }
 }
