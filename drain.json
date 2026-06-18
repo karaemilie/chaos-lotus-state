@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-18T23:13:46.317Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Next step bathroom shelf org (clear bins)",
+      "_addedAt": "2026-06-18T23:32:12.300Z",
+      "_ts": "2026-06-18T23:32:12.731Z"
+    }
+  ],
+  "mirroredAt": "2026-06-18T23:32:13.107Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-18T23:13:47.019046+00:00",
-  "lastAutoProcessed": [
-    "SPIN:86"
-  ]
+    "adds": 1
+  }
 }
