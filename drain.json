@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 125,
+      "label": "Bring up ziplock for stuffing",
+      "uid": "SPIN_WHEEL:125",
+      "_ts": "2026-06-18T07:14:03.662Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-18T07:08:32.658Z",
+  "mirroredAt": "2026-06-18T07:14:04.013Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-18T07:08:33.398810+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:106"
-  ]
+  }
 }
