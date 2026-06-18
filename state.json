@@ -44,20 +44,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10411,
-      "row": 428,
-      "label": "Book Lincoln Dr appt & Evan 6 month check up",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10411"
-    },
-    {
-      "source": "TASKS",
       "id": 10237,
       "row": 431,
       "label": "Cancel Slate card",
@@ -865,10 +851,23 @@
       "sid": 122,
       "label": "Follow up with Tim",
       "uid": "SPIN_WHEEL:122"
+    },
+    {
+      "source": "TASKS",
+      "id": 11694,
+      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11694"
     }
   ],
-  "version": 207,
-  "updated": "2026-06-18T00:40:48.880330+00:00",
+  "version": 208,
+  "updated": "2026-06-18T00:46:33.399363+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
