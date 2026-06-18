@@ -825,13 +825,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 114,
-      "sid": 114,
-      "label": "Write plant lady b",
-      "uid": "SPIN_WHEEL:114"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 117,
       "sid": 117,
       "label": "Call Chade",
@@ -874,13 +867,13 @@
       "uid": "SPIN_WHEEL:122"
     }
   ],
-  "version": 206,
-  "updated": "2026-06-18T00:38:33.174159+00:00",
+  "version": 207,
+  "updated": "2026-06-18T00:40:48.880330+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 76
+    "SPIN_WHEEL": 75
   }
 }
