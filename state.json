@@ -694,13 +694,6 @@
       "uid": "SPIN_WHEEL:103"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 104,
-      "sid": 104,
-      "label": "Look through night task purge / did it work (96 vrs 92 task short disconnect?)",
-      "uid": "SPIN_WHEEL:104"
-    },
-    {
       "source": "TASKS",
       "id": 10021,
       "label": "Add shelf holes to cabinet sides",
@@ -877,13 +870,13 @@
       "uid": "ZONES:73"
     }
   ],
-  "version": 217,
-  "updated": "2026-06-18T03:50:57.206145+00:00",
+  "version": 218,
+  "updated": "2026-06-18T03:51:45.965757+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 76,
     "MAINTENANCE": 2
   }
 }
