@@ -835,13 +835,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 149,
-      "row": 70,
-      "label": "Bring a fan upStairs",
-      "uid": "SPIN:149"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 150,
       "row": 71,
       "label": "Genevieve ticket back to AZ",
@@ -855,13 +848,13 @@
       "uid": "SPIN_WHEEL:151"
     }
   ],
-  "version": 312,
-  "updated": "2026-06-19T22:13:33.176814+00:00",
+  "version": 313,
+  "updated": "2026-06-19T22:42:00.925232+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 70
+    "SPIN_WHEEL": 69
   }
 }
