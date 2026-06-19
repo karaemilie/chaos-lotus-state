@@ -13,12 +13,21 @@
       "label": "Pack up weed barrier, load up",
       "uid": "SPIN:130",
       "_ts": "2026-06-19T05:06:59.045Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 84,
+      "zid": 83,
+      "floor": "Personal",
+      "label": "👱‍♀️ Hand Care & Mani",
+      "uid": "ZONES:83",
+      "_ts": "2026-06-19T05:07:06.944Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-19T05:06:59.266Z",
+  "mirroredAt": "2026-06-19T05:07:07.179Z",
   "counts": {
-    "completions": 2,
+    "completions": 3,
     "adds": 0
   }
 }
