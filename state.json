@@ -791,13 +791,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 148,
-      "row": 67,
-      "label": "Work on habit tracker icons",
-      "uid": "SPIN:148"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 130,
       "row": 68,
       "label": "Pack up weed barrier, load up",
@@ -840,13 +833,13 @@
       "uid": "SPIN_WHEEL:152"
     }
   ],
-  "version": 318,
-  "updated": "2026-06-19T23:48:26.783952+00:00",
+  "version": 319,
+  "updated": "2026-06-19T23:49:12.228139+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 68
+    "SPIN_WHEEL": 67
   }
 }
