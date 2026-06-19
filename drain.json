@@ -1,9 +1,34 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11488,
+      "row": 297,
+      "label": "✨ Throw cat fountain in dishwasher 🐱🫧",
+      "uid": "TASKS:11488",
+      "_ts": "2026-06-19T03:29:12.033Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 23,
+      "zid": 22,
+      "floor": "Main Floor",
+      "label": "🧺 Mudroom",
+      "uid": "ZONES:22",
+      "_ts": "2026-06-19T03:29:24.865Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 5,
+      "label": "Load Musiah to ipad**",
+      "uid": "SPIN:13",
+      "_ts": "2026-06-19T03:30:13.097Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T03:29:43.793Z",
+  "mirroredAt": "2026-06-19T03:30:13.315Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
   }
 }
