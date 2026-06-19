@@ -892,15 +892,22 @@
       "sid": 141,
       "label": "Check for Puma sale",
       "uid": "SPIN_WHEEL:141"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 142,
+      "sid": 142,
+      "label": "Airport parking",
+      "uid": "SPIN_WHEEL:142"
     }
   ],
-  "version": 249,
-  "updated": "2026-06-19T00:49:17.805345+00:00",
+  "version": 250,
+  "updated": "2026-06-19T00:49:54.834188+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 81,
     "MAINTENANCE": 2
   }
 }
