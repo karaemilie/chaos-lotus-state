@@ -1,17 +1,78 @@
 {
   "completions": [
     {
+      "source": "TASKS",
+      "id": 11115,
+      "row": 226,
+      "label": "✨ Clean filters on Dyson hair products 📝",
+      "uid": "TASKS:11115",
+      "_ts": "2026-06-19T08:43:36.889Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 76,
+      "zid": 75,
+      "floor": "Plant",
+      "label": "🌱 Main floor Down Low",
+      "uid": "ZONES:75",
+      "_ts": "2026-06-19T08:44:04.614Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 78,
+      "zid": 77,
+      "floor": "Plant",
+      "label": "🌱 Corner Nook B",
+      "uid": "ZONES:77",
+      "_ts": "2026-06-19T08:44:11.363Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 54,
+      "label": "Buy eye primer",
+      "uid": "SPIN:121",
+      "_ts": "2026-06-19T08:44:45.140Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 59,
+      "label": "Next step printer paper",
+      "uid": "SPIN:128",
+      "_ts": "2026-06-19T08:45:08.548Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 61,
+      "label": "Turn on phone eye protection",
+      "uid": "SPIN:132",
+      "_ts": "2026-06-19T08:45:14.985Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 62,
+      "label": "Scrub under foyer table",
+      "uid": "SPIN:134",
+      "_ts": "2026-06-19T08:45:22.167Z"
+    },
+    {
       "source": "SPIN_WHEEL",
       "row": 66,
       "label": "Next row bathroom bins",
       "uid": "SPIN:138",
       "_ts": "2026-06-19T08:45:36.539Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 79,
+      "label": "Update Hoya list",
+      "uid": "SPIN:131",
+      "_ts": "2026-06-19T08:45:58.039Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-19T08:45:39.914Z",
+  "mirroredAt": "2026-06-19T08:45:58.263Z",
   "counts": {
-    "completions": 1,
+    "completions": 9,
     "adds": 0
   }
 }
