@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 77,
+      "label": "Dig into rec cloud tokens",
+      "uid": "SPIN:147",
+      "_ts": "2026-06-19T06:06:03.196Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T06:00:33.895Z",
+  "mirroredAt": "2026-06-19T06:06:03.559Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-19T06:00:34.971379+00:00",
-  "lastAutoProcessed": [
-    "SPIN:133"
-  ]
+  }
 }
