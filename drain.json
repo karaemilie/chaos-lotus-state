@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10921,
+      "row": 190,
+      "label": "Get clip-on music folder case for Lincoln 🎵📎",
+      "uid": "TASKS:10921",
+      "_ts": "2026-06-19T09:08:10.288Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 19,
+      "label": "Genevieve plane tickets",
+      "uid": "SPIN:54",
+      "_ts": "2026-06-19T09:09:02.754Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T09:08:26.569Z",
+  "mirroredAt": "2026-06-19T09:09:03.001Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-06-19T09:08:27.638429+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10921"
-  ]
+  }
 }
