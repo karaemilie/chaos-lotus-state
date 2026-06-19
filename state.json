@@ -86,20 +86,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10921,
-      "row": 190,
-      "label": "Get clip-on music folder case for Lincoln \ud83c\udfb5\ud83d\udcce",
-      "aw": 6,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10921"
-    },
-    {
-      "source": "TASKS",
       "id": 11543,
       "row": 316,
       "label": "Take down the projector \ud83c\udfaf First step: unplug + locate ladder",
@@ -888,10 +874,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Kitchen Up High",
       "uid": "ZONES:79"
+    },
+    {
+      "source": "TASKS",
+      "id": 10255,
+      "label": "Find Matt cheaper car insurance \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Hard",
+      "proj": "Insurance Admin",
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10255"
     }
   ],
-  "version": 301,
-  "updated": "2026-06-19T08:46:19.195774+00:00",
+  "version": 302,
+  "updated": "2026-06-19T09:08:23.352993+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
