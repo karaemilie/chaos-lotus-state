@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 149,
+      "label": "Aaaa",
+      "uid": "SPIN_WHEEL:149",
+      "_ts": "2026-06-19T04:40:20.842Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -20,9 +28,9 @@
       "_ts": "2026-06-19T04:40:04.816Z"
     }
   ],
-  "mirroredAt": "2026-06-19T04:40:15.162Z",
+  "mirroredAt": "2026-06-19T04:40:21.070Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 3
   }
 }
