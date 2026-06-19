@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 34,
+      "label": "Look for wrought iron curtains",
+      "uid": "SPIN:75",
+      "_ts": "2026-06-19T01:41:22.200Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T01:40:20.110Z",
+  "mirroredAt": "2026-06-19T01:41:22.419Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
