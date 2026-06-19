@@ -593,13 +593,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 74,
-      "row": 33,
-      "label": "Five minutes in hall closet",
-      "uid": "SPIN:74"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 76,
       "row": 35,
       "label": "Add July viola to calendar **",
@@ -963,13 +956,13 @@
       "uid": "SPIN_WHEEL:145"
     }
   ],
-  "version": 256,
-  "updated": "2026-06-19T01:55:51.064169+00:00",
+  "version": 257,
+  "updated": "2026-06-19T01:56:36.105113+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 84
+    "SPIN_WHEEL": 83
   }
 }
