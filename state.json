@@ -474,13 +474,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 47,
-      "row": 16,
-      "label": "Check for ASD reimbursement",
-      "uid": "SPIN:47"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 49,
       "row": 17,
       "label": "Spray for spiders",
@@ -935,13 +928,13 @@
       "uid": "SPIN:141"
     }
   ],
-  "version": 292,
-  "updated": "2026-06-19T06:06:15.158072+00:00",
+  "version": 293,
+  "updated": "2026-06-19T06:20:53.271418+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 80
+    "SPIN_WHEEL": 79
   }
 }
