@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 50,
+      "label": "Research dr I booked Bemtley",
+      "uid": "SPIN:118",
+      "_ts": "2026-06-19T23:31:53.146Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T23:28:54.574Z",
+  "mirroredAt": "2026-06-19T23:31:53.500Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-19T23:28:55.618256+00:00",
-  "lastAutoProcessed": [
-    "SPIN:71"
-  ]
+  }
 }
