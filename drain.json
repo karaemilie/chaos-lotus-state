@@ -6,6 +6,13 @@
       "label": "Aaaa",
       "uid": "SPIN_WHEEL:149",
       "_ts": "2026-06-19T04:40:20.842Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 150,
+      "label": "Bbbb",
+      "uid": "SPIN_WHEEL:150",
+      "_ts": "2026-06-19T04:40:24.894Z"
     }
   ],
   "adds": [
@@ -28,9 +35,9 @@
       "_ts": "2026-06-19T04:40:04.816Z"
     }
   ],
-  "mirroredAt": "2026-06-19T04:40:21.070Z",
+  "mirroredAt": "2026-06-19T04:40:25.118Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 3
   }
 }
