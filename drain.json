@@ -1,13 +1,27 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11426,
+      "row": 285,
+      "label": "Flesh out bunk bed attack plan (5 min)",
+      "uid": "TASKS:11426",
+      "_ts": "2026-06-19T00:19:47.444Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 48,
+      "zid": 47,
+      "floor": "Basement",
+      "label": "🧺 Back Annex",
+      "uid": "ZONES:47",
+      "_ts": "2026-06-19T00:20:10.475Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T00:20:02.272Z",
+  "mirroredAt": "2026-06-19T00:20:10.690Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-06-19T00:20:03.068469+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11426"
-  ]
+  }
 }
