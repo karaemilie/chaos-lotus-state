@@ -1,18 +1,31 @@
 {
   "completions": [
     {
+      "source": "MAINTENANCE",
+      "label": "🏠 Throw out pantry food",
+      "uid": "MAINTENANCE:74",
+      "_ts": "2026-06-19T00:21:21.465Z"
+    },
+    {
       "source": "COURAGE",
       "parentId": 11359,
       "stepIndex": 0,
       "label": "🔥 Verify summer rock gym billing is correct 💸",
       "uid": "COURAGE:11359:0",
       "_ts": "2026-06-19T00:21:33.007Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 4,
+      "label": "Draft veneer plan",
+      "uid": "SPIN:7",
+      "_ts": "2026-06-19T00:21:44.861Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-19T00:21:36.963Z",
+  "mirroredAt": "2026-06-19T00:21:45.092Z",
   "counts": {
-    "completions": 1,
+    "completions": 3,
     "adds": 0
   }
 }
