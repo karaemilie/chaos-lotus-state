@@ -373,13 +373,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 13,
-      "row": 5,
-      "label": "Load Musiah to ipad**",
-      "uid": "SPIN:13"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 18,
       "row": 6,
       "label": "Order Jake 4 boxes contacts",
@@ -961,13 +954,13 @@
       "uid": "ZONES:24"
     }
   ],
-  "version": 265,
-  "updated": "2026-06-19T03:29:41.805414+00:00",
+  "version": 266,
+  "updated": "2026-06-19T03:30:32.382685+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 84
+    "SPIN_WHEEL": 83
   }
 }
