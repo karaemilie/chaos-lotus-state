@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 8,
+      "label": "Spend Kohl's gift card",
+      "uid": "SPIN:31",
+      "_ts": "2026-06-19T22:13:21.461Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T21:25:13.992Z",
+  "mirroredAt": "2026-06-19T22:13:21.801Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
