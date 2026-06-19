@@ -1,9 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 7,
+      "label": "Try ReeCloud?",
+      "uid": "SPIN:24",
+      "_ts": "2026-06-19T02:20:09.216Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 74,
+      "zid": 73,
+      "floor": "Plant",
+      "label": "🌱 Bedroom",
+      "uid": "ZONES:73",
+      "_ts": "2026-06-19T03:22:32.054Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T02:20:09.167Z",
+  "mirroredAt": "2026-06-19T03:22:32.286Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
   }
 }
