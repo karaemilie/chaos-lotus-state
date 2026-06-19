@@ -53,12 +53,19 @@
       "label": "Scrub under foyer table",
       "uid": "SPIN:134",
       "_ts": "2026-06-19T08:45:22.167Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 66,
+      "label": "Next row bathroom bins",
+      "uid": "SPIN:138",
+      "_ts": "2026-06-19T08:45:36.539Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-19T08:45:22.381Z",
+  "mirroredAt": "2026-06-19T08:45:36.767Z",
   "counts": {
-    "completions": 7,
+    "completions": 8,
     "adds": 0
   }
 }
