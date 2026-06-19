@@ -298,16 +298,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "row": 74,
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
-      "source": "ZONES",
       "zid": 74,
       "floor": "Plant",
       "row": 75,
@@ -408,13 +398,6 @@
       "row": 6,
       "label": "Order Jake 4 boxes contacts",
       "uid": "SPIN:18"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 24,
-      "row": 7,
-      "label": "Try ReeCloud?",
-      "uid": "SPIN:24"
     },
     {
       "source": "SPIN_WHEEL",
@@ -961,15 +944,24 @@
       "sid": 147,
       "label": "Dig into rec cloud tokens",
       "uid": "SPIN_WHEEL:147"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Main floor Down Low",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Main floor Down Low",
+      "uid": "ZONES:75"
     }
   ],
-  "version": 260,
-  "updated": "2026-06-19T02:20:10.163086+00:00",
+  "version": 261,
+  "updated": "2026-06-19T03:22:46.296804+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 84
+    "SPIN_WHEEL": 83
   }
 }
