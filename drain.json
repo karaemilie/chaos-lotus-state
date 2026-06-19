@@ -3,14 +3,26 @@
   "adds": [
     {
       "source": "PLUS_ADD",
-      "label": "Aaaa",
-      "_addedAt": "2026-06-19T04:21:55.817Z",
-      "_ts": "2026-06-19T04:21:56.082Z"
+      "label": "Bbbb",
+      "_addedAt": "2026-06-19T04:21:55.818Z",
+      "_ts": "2026-06-19T04:21:56.230Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Cccc",
+      "_addedAt": "2026-06-19T04:21:55.819Z",
+      "_ts": "2026-06-19T04:21:56.491Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Dddd",
+      "_addedAt": "2026-06-19T04:21:55.820Z",
+      "_ts": "2026-06-19T04:21:56.730Z"
     }
   ],
-  "mirroredAt": "2026-06-19T04:21:56.317Z",
+  "mirroredAt": "2026-06-19T04:22:12.826Z",
   "counts": {
     "completions": 0,
-    "adds": 1
+    "adds": 3
   }
 }
