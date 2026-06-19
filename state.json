@@ -86,20 +86,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10533,
-      "row": 155,
-      "label": "Lymow - circle back on blades and antenna",
-      "aw": 7,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10533"
-    },
-    {
-      "source": "TASKS",
       "id": 11527,
       "row": 306,
       "label": "Find insta handles for plant + homeschool niches \ud83d\udcf1\ud83c\udf3f\ud83d\udcda",
@@ -139,20 +125,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10018"
-    },
-    {
-      "source": "TASKS",
-      "id": 11064,
-      "row": 417,
-      "label": "Unpack the Festool Domino \ud83d\udd28\ud83d\udce6",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11064"
     },
     {
       "source": "TASKS",
@@ -261,16 +233,6 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Craft Zone",
       "uid": "ZONES:48"
-    },
-    {
-      "source": "ZONES",
-      "zid": 67,
-      "floor": "Digital",
-      "row": 68,
-      "label": "\ud83d\udcbb Quicken",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Quicken",
-      "uid": "ZONES:67"
     },
     {
       "source": "ZONES",
@@ -845,13 +807,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 141,
-      "row": 71,
-      "label": "Check for Puma sale",
-      "uid": "SPIN:141"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 142,
       "row": 72,
       "label": "Airport parking",
@@ -946,15 +901,50 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:11616"
+    },
+    {
+      "source": "ZONES",
+      "zid": 59,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Quicken",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Quicken",
+      "uid": "ZONES:59"
+    },
+    {
+      "source": "TASKS",
+      "id": 10021,
+      "label": "Add shelf holes to cabinet sides",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10021"
+    },
+    {
+      "source": "TASKS",
+      "id": 11697,
+      "label": "Do last privacy film on middle stall garage",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": null,
+      "critical": false,
+      "uid": "TASKS:11697"
     }
   ],
-  "version": 288,
-  "updated": "2026-06-19T05:28:26.526172+00:00",
+  "version": 289,
+  "updated": "2026-06-19T05:29:08.811368+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 82
+    "SPIN_WHEEL": 81
   }
 }
