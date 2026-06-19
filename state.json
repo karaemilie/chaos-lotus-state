@@ -30,20 +30,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11348,
-      "row": 279,
-      "label": "\u2728 Cancel IXL ($25/month)",
-      "aw": 3,
-      "pri": null,
-      "dur": 15,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11348"
-    },
-    {
-      "source": "TASKS",
       "id": 11488,
       "row": 299,
       "label": "\u2728 Throw cat fountain in dishwasher \ud83d\udc31\ud83e\udee7",
@@ -235,18 +221,6 @@
       "uid": "COURAGE:11454:0"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11055,
-      "parentRow": 218,
-      "parentLabel": "File CSS Profile for Bentley (TCU) \ud83c\udf93\ud83d\udccb",
-      "stepIndex": 0,
-      "aw": 1,
-      "due": "2026-06-08",
-      "label": "\ud83d\udd25 File CSS Profile for Bentley (TCU) \ud83c\udf93\ud83d\udccb",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11055:0"
-    },
-    {
       "source": "ZONES",
       "zid": 10,
       "floor": "Upstairs",
@@ -334,15 +308,6 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Shake out the entry rug",
       "uid": "MAINTENANCE:75"
-    },
-    {
-      "source": "MAINTENANCE",
-      "mid": 76,
-      "row": 77,
-      "label": "\ud83c\udfe0 Clean outside of piano",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Clean outside of piano",
-      "uid": "MAINTENANCE:76"
     },
     {
       "source": "TASKS",
@@ -953,10 +918,42 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Main floor Down Low",
       "uid": "ZONES:75"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 77,
+      "label": "\ud83c\udfe0 Vacuum the upstairs stairs",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Vacuum the upstairs stairs",
+      "uid": "MAINTENANCE:77"
+    },
+    {
+      "source": "TASKS",
+      "id": 10081,
+      "label": "Hang up coat rack for dad",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": "Home Projects",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10081"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11576,
+      "stepIndex": 0,
+      "parentLabel": "Follow up w/ Embry-Riddle re: APS details \ud83c\udf93\u2708\ufe0f \ud83d\udcdd",
+      "aw": 2,
+      "due": "2026-06-08",
+      "label": "\ud83d\udd25 Follow up w/ Embry-Riddle re: APS details \ud83c\udf93\u2708\ufe0f \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11576:0"
     }
   ],
-  "version": 261,
-  "updated": "2026-06-19T03:22:46.296804+00:00",
+  "version": 262,
+  "updated": "2026-06-19T03:23:38.161710+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
