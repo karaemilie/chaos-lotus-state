@@ -895,15 +895,22 @@
       "sid": 139,
       "label": "Next step bathroom shelf org (clear bins)",
       "uid": "SPIN_WHEEL:139"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 140,
+      "sid": 140,
+      "label": "Scan living room with planner 5d",
+      "uid": "SPIN_WHEEL:140"
     }
   ],
-  "version": 242,
-  "updated": "2026-06-18T23:33:15.628996+00:00",
+  "version": 243,
+  "updated": "2026-06-19T00:09:24.930149+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 81,
     "MAINTENANCE": 2
   }
 }
