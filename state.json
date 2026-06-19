@@ -879,15 +879,22 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10237"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 150,
+      "sid": 150,
+      "label": "Genevieve ticket back to AZ",
+      "uid": "SPIN_WHEEL:150"
     }
   ],
-  "version": 304,
-  "updated": "2026-06-19T09:10:05.386350+00:00",
+  "version": 305,
+  "updated": "2026-06-19T09:10:09.676324+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 73
+    "SPIN_WHEEL": 74
   }
 }
