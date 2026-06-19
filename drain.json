@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 66,
+      "label": "Update Hoya list",
+      "uid": "SPIN:131",
+      "_ts": "2026-06-19T05:06:57.291Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T04:51:37.584Z",
+  "mirroredAt": "2026-06-19T05:06:57.525Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-19T04:51:38.655133+00:00",
-  "lastAutoProcessed": [
-    "ZONES:76"
-  ]
+  }
 }
