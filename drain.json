@@ -1,5 +1,15 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 79,
+      "zid": 78,
+      "floor": "Plant",
+      "label": "🌱 Family Room Props",
+      "uid": "ZONES:78",
+      "_ts": "2026-06-19T23:57:16.919Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -14,9 +24,9 @@
       "_ts": "2026-06-19T23:57:13.501Z"
     }
   ],
-  "mirroredAt": "2026-06-19T23:57:13.733Z",
+  "mirroredAt": "2026-06-19T23:57:17.144Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 2
   }
 }
