@@ -1,13 +1,27 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11115,
+      "row": 226,
+      "label": "✨ Clean filters on Dyson hair products 📝",
+      "uid": "TASKS:11115",
+      "_ts": "2026-06-19T08:43:36.889Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 76,
+      "zid": 75,
+      "floor": "Plant",
+      "label": "🌱 Main floor Down Low",
+      "uid": "ZONES:75",
+      "_ts": "2026-06-19T08:44:04.614Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T08:43:54.874Z",
+  "mirroredAt": "2026-06-19T08:44:04.861Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-06-19T08:43:55.768940+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11115"
-  ]
+  }
 }
