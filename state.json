@@ -727,13 +727,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 131,
-      "row": 66,
-      "label": "Update Hoya list",
-      "uid": "SPIN:131"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 132,
       "row": 67,
       "label": "Turn on phone eye protection",
@@ -943,13 +936,13 @@
       "uid": "ZONES:77"
     }
   ],
-  "version": 284,
-  "updated": "2026-06-19T04:51:36.434820+00:00",
+  "version": 285,
+  "updated": "2026-06-19T05:07:11.574037+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 82
+    "SPIN_WHEEL": 81
   }
 }
