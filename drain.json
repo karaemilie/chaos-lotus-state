@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-19T02:02:45.089Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Dig into rec cloud tokens",
+      "_addedAt": "2026-06-19T02:19:56.430Z",
+      "_ts": "2026-06-19T02:19:56.759Z"
+    }
+  ],
+  "mirroredAt": "2026-06-19T02:19:57.009Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-19T02:02:45.798888+00:00",
-  "lastAutoProcessed": [
-    "SPIN:100"
-  ]
+    "adds": 1
+  }
 }
