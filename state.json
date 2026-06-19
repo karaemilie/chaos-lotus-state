@@ -921,15 +921,6 @@
       "uid": "ZONES:75"
     },
     {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
-    },
-    {
       "source": "TASKS",
       "id": 11496,
       "label": "Look into downloading open-source Claude \ud83e\udd16",
@@ -941,10 +932,19 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:11496"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
     }
   ],
-  "version": 283,
-  "updated": "2026-06-19T04:49:27.343620+00:00",
+  "version": 284,
+  "updated": "2026-06-19T04:51:36.434820+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
