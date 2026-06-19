@@ -408,13 +408,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 31,
-      "row": 8,
-      "label": "Spend Kohl's gift card",
-      "uid": "SPIN:31"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 32,
       "row": 9,
       "label": "New sand paper",
@@ -862,13 +855,13 @@
       "uid": "SPIN_WHEEL:151"
     }
   ],
-  "version": 311,
-  "updated": "2026-06-19T21:25:14.820600+00:00",
+  "version": 312,
+  "updated": "2026-06-19T22:13:33.176814+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 71
+    "SPIN_WHEEL": 70
   }
 }
