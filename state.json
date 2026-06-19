@@ -188,16 +188,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 47,
-      "floor": "Basement",
-      "row": 48,
-      "label": "\ud83e\uddfa Back Annex",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Back Annex",
-      "uid": "ZONES:47"
-    },
-    {
-      "source": "ZONES",
       "zid": 67,
       "floor": "Digital",
       "row": 68,
@@ -894,10 +884,19 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:11108"
+    },
+    {
+      "source": "ZONES",
+      "zid": 48,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Craft Zone",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Craft Zone",
+      "uid": "ZONES:48"
     }
   ],
-  "version": 245,
-  "updated": "2026-06-19T00:19:59.886383+00:00",
+  "version": 246,
+  "updated": "2026-06-19T00:20:30.041869+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
