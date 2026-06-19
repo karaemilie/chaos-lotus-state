@@ -1,31 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "TASKS",
-      "id": 11488,
-      "row": 297,
-      "label": "✨ Throw cat fountain in dishwasher 🐱🫧",
-      "uid": "TASKS:11488",
-      "_ts": "2026-06-19T03:29:12.033Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 23,
-      "zid": 22,
-      "floor": "Main Floor",
-      "label": "🧺 Mudroom",
-      "uid": "ZONES:22",
-      "_ts": "2026-06-19T03:29:24.865Z"
-    }
-  ],
+  "completions": [],
   "adds": [],
-  "mirroredAt": "2026-06-19T03:29:25.091Z",
+  "mirroredAt": "2026-06-19T03:29:43.793Z",
   "counts": {
-    "completions": 2,
+    "completions": 0,
     "adds": 0
-  },
-  "processedAt": "2026-06-19T03:29:25.126809+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11488"
-  ]
+  }
 }
