@@ -288,16 +288,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 78,
-      "floor": "Plant",
-      "row": 79,
-      "label": "\ud83c\udf31 Family Room Props",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Props",
-      "uid": "ZONES:78"
-    },
-    {
-      "source": "ZONES",
       "zid": 79,
       "floor": "Plant",
       "row": 80,
@@ -838,10 +828,19 @@
       "sid": 153,
       "label": "Label the Asami IV pots",
       "uid": "SPIN_WHEEL:153"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Hallway",
+      "uid": "ZONES:80"
     }
   ],
-  "version": 320,
-  "updated": "2026-06-19T23:57:05.396025+00:00",
+  "version": 321,
+  "updated": "2026-06-19T23:57:54.230048+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
