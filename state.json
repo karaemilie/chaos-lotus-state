@@ -944,47 +944,19 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 149,
-      "sid": 149,
-      "label": "Aaaa",
-      "uid": "SPIN_WHEEL:149"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 150,
-      "sid": 150,
-      "label": "Bbbb",
-      "uid": "SPIN_WHEEL:150"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 151,
-      "sid": 151,
-      "label": "Cccc",
-      "uid": "SPIN_WHEEL:151"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 152,
-      "sid": 152,
-      "label": "Dddd",
-      "uid": "SPIN_WHEEL:152"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 153,
       "sid": 153,
       "label": "Eeee",
       "uid": "SPIN_WHEEL:153"
     }
   ],
-  "version": 279,
-  "updated": "2026-06-19T04:40:15.965214+00:00",
+  "version": 280,
+  "updated": "2026-06-19T04:40:54.413569+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 87
+    "SPIN_WHEEL": 83
   }
 }
