@@ -712,13 +712,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 100,
-      "row": 52,
-      "label": "Look through bike helmets",
-      "uid": "SPIN:100"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 101,
       "row": 53,
       "label": "Plant my currant",
@@ -963,13 +956,13 @@
       "uid": "SPIN_WHEEL:146"
     }
   ],
-  "version": 258,
-  "updated": "2026-06-19T02:02:05.544099+00:00",
+  "version": 259,
+  "updated": "2026-06-19T02:02:44.173245+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 84
+    "SPIN_WHEEL": 83
   }
 }
