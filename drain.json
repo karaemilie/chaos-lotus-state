@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 51,
+      "label": "New resolution: daily texts",
+      "uid": "SPIN:111",
+      "_ts": "2026-06-19T09:11:33.867Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T09:10:54.199Z",
+  "mirroredAt": "2026-06-19T09:11:34.104Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-19T09:10:55.261931+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11543"
-  ]
+  }
 }
