@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-18T23:33:16.674Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Scan living room with planner 5d",
+      "_addedAt": "2026-06-19T00:09:09.247Z",
+      "_ts": "2026-06-19T00:09:09.378Z"
+    }
+  ],
+  "mirroredAt": "2026-06-19T00:09:09.608Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-18T23:33:17.573213+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:120"
-  ]
+    "adds": 1
+  }
 }
