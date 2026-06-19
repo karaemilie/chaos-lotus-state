@@ -664,13 +664,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 117,
-      "row": 56,
-      "label": "Call Chade",
-      "uid": "SPIN:117"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 118,
       "row": 57,
       "label": "Research dr I booked Bemtley",
@@ -950,13 +943,13 @@
       "uid": "TASKS:11496"
     }
   ],
-  "version": 275,
-  "updated": "2026-06-19T03:59:48.391704+00:00",
+  "version": 276,
+  "updated": "2026-06-19T04:00:36.574696+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 83
+    "SPIN_WHEEL": 82
   }
 }
