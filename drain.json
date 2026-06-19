@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 70,
+      "label": "Bring a fan upStairs",
+      "uid": "SPIN:149",
+      "_ts": "2026-06-19T22:41:47.114Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T22:13:34.207Z",
+  "mirroredAt": "2026-06-19T22:41:47.336Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-19T22:13:34.904195+00:00",
-  "lastAutoProcessed": [
-    "SPIN:31"
-  ]
+  }
 }
