@@ -72,20 +72,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11349,
-      "row": 279,
-      "label": "Research if Bentley needs MCAT score back before med school app \ud83d\udcdd",
-      "aw": 5,
-      "pri": "High",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": "Bentley Med School",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11349"
-    },
-    {
-      "source": "TASKS",
       "id": 11025,
       "row": 207,
       "label": "Put the table leaves away \ud83c\udf42\ud83e\udeb5",
@@ -253,26 +239,6 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Emails",
       "uid": "ZONES:58"
-    },
-    {
-      "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "row": 74,
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
-      "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "row": 75,
-      "label": "\ud83c\udf31 Family Room Plants",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Plants",
-      "uid": "ZONES:74"
     },
     {
       "source": "ZONES",
@@ -958,10 +924,41 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10255"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Main floor Down Low",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Main floor Down Low",
+      "uid": "ZONES:75"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
+    },
+    {
+      "source": "TASKS",
+      "id": 11496,
+      "label": "Look into downloading open-source Claude \ud83e\udd16",
+      "aw": 3,
+      "pri": null,
+      "dur": 30,
+      "ml": null,
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11496"
     }
   ],
-  "version": 273,
-  "updated": "2026-06-19T03:58:39.647961+00:00",
+  "version": 274,
+  "updated": "2026-06-19T03:59:24.327337+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
