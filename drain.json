@@ -1,14 +1,16 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "label": "🏠 Throw out pantry food",
+      "uid": "MAINTENANCE:74",
+      "_ts": "2026-06-19T00:21:21.465Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T00:20:32.807Z",
+  "mirroredAt": "2026-06-19T00:21:21.721Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-19T00:20:33.866916+00:00",
-  "lastAutoProcessed": [
-    "ZONES:47",
-    "TASKS:11426"
-  ]
+  }
 }
