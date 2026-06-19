@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 26,
+      "label": "Add Amazon stools to pinterest",
+      "uid": "SPIN:71",
+      "_ts": "2026-06-19T23:28:38.055Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T22:45:24.258Z",
+  "mirroredAt": "2026-06-19T23:28:38.293Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-19T22:45:25.165746+00:00",
-  "lastAutoProcessed": [
-    "SPIN:149"
-  ]
+  }
 }
