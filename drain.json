@@ -1,49 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 7,
-      "label": "Try ReeCloud?",
-      "uid": "SPIN:24",
-      "_ts": "2026-06-19T02:20:09.216Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 74,
-      "zid": 73,
-      "floor": "Plant",
-      "label": "🌱 Bedroom",
-      "uid": "ZONES:73",
-      "_ts": "2026-06-19T03:22:32.054Z"
-    },
-    {
-      "source": "MAINTENANCE",
-      "row": 77,
-      "label": "🏠 Clean outside of piano",
-      "uid": "MAINTENANCE:76",
-      "_ts": "2026-06-19T03:22:38.889Z"
-    },
-    {
-      "source": "TASKS",
-      "id": 11348,
-      "row": 279,
-      "label": "✨ Cancel IXL ($25/month)",
-      "uid": "TASKS:11348",
-      "_ts": "2026-06-19T03:22:44.736Z"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11055,
-      "stepIndex": 0,
-      "label": "🔥 File CSS Profile for Bentley (TCU) 🎓📋",
-      "uid": "COURAGE:11055:0",
-      "_ts": "2026-06-19T03:22:52.599Z"
-    }
-  ],
+  "completions": [],
   "adds": [],
-  "mirroredAt": "2026-06-19T03:22:52.829Z",
+  "mirroredAt": "2026-06-19T03:23:41.061Z",
   "counts": {
-    "completions": 5,
+    "completions": 0,
     "adds": 0
   }
 }
