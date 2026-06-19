@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 77,
+      "label": "🏠 Clean outside of piano",
+      "uid": "MAINTENANCE:76",
+      "_ts": "2026-06-19T23:37:24.680Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T23:32:08.489Z",
+  "mirroredAt": "2026-06-19T23:37:25.073Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-19T23:32:09.170089+00:00",
-  "lastAutoProcessed": [
-    "SPIN:118"
-  ]
+  }
 }
