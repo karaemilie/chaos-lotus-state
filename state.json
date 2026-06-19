@@ -447,13 +447,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 54,
-      "row": 19,
-      "label": "Genevieve plane tickets",
-      "uid": "SPIN:54"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 55,
       "row": 20,
       "label": "Embry-Riddle: check balance",
@@ -889,13 +882,13 @@
       "uid": "TASKS:10255"
     }
   ],
-  "version": 302,
-  "updated": "2026-06-19T09:08:23.352993+00:00",
+  "version": 303,
+  "updated": "2026-06-19T09:09:15.797224+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 74
+    "SPIN_WHEEL": 73
   }
 }
