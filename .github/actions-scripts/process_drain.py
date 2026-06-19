@@ -443,6 +443,49 @@ def save_state_json(state, sha, commit_msg):
     return status, result
 
 
+def auto_reset_exhausted_floors(wb, floors):
+    """Clear Completed dates for every zone on each exhausted floor, AND for
+    MAINTENANCE if 'Maintenance' is flagged. Returns dict {floor: cleared_count}.
+
+    This is the 'last mile' that makes floor-cycle resets fully hands-off: when
+    refill_zone / refill_maintenance detect a wrapped (exhausted) floor, instead
+    of only flagging resetNeeded for a human/Claude, the Action clears the cycle
+    itself in the same run. Caller is responsible for committing the Beast after.
+    """
+    if not floors:
+        return {}
+    cleared = {}
+    floors = set(floors)
+
+    # ZONES floors
+    if "ZONES" in wb.sheetnames:
+        ws = wb["ZONES"]
+        H = {c.value: i + 1 for i, c in enumerate(ws[1])}
+        fcol, ccol = H.get("Floor"), H.get("Completed")
+        if fcol and ccol:
+            for r in range(2, ws.max_row + 1):
+                fl = ws.cell(r, fcol).value
+                if fl in floors and ws.cell(r, ccol).value is not None:
+                    ws.cell(r, ccol).value = None
+                    cleared[fl] = cleared.get(fl, 0) + 1
+
+    # MAINTENANCE pseudo-floor
+    if "Maintenance" in floors and "MAINTENANCE" in wb.sheetnames:
+        ws = wb["MAINTENANCE"]
+        H = {c.value: i + 1 for i, c in enumerate(ws[1])}
+        ccol = H.get("Completed")
+        if ccol:
+            n = 0
+            for r in range(2, ws.max_row + 1):
+                if ws.cell(r, ccol).value is not None:
+                    ws.cell(r, ccol).value = None
+                    n += 1
+            if n:
+                cleared["Maintenance"] = n
+
+    return cleared
+
+
 def apply_refills(wb, processed_completions, today, pending_uids=None):
     """For each processed completion, remove it from state.json and add a fresh
     item in the same category. Returns (refill_summary, ok).
@@ -807,6 +850,62 @@ def main():
         for line in combined_summary:
             print(f"   {line}")
 
+    # 5a-RESET: AUTO-RESET exhausted floors (the 'last mile' — fully hands-off).
+    # refill_zone/refill_maintenance set _resetFloor when a floor wraps (every
+    # zone done). Rather than only flagging resetNeeded for a human, clear the
+    # floor's Completed dates HERE, commit the Beast, and re-seed that floor's
+    # fresh zones onto the wheel so they appear immediately.
+    auto_resolved_floors = []
+    if all_reset_floors and (wb_refill is not None or wb is not None):
+        reset_wb = wb_refill if wb_refill is not None else wb
+        cleared = auto_reset_exhausted_floors(reset_wb, set(all_reset_floors))
+        if cleared:
+            print(f"\n♻️  AUTO-RESET exhausted floor(s): {cleared}")
+            # Second Beast commit carrying the cleared cycle.
+            try:
+                buf = io.BytesIO(); reset_wb.save(buf)
+                # re-read current sha to avoid conflict with the earlier save
+                _b, cur_sha = load_beast()
+                rmsg = "♻️ Auto-reset exhausted floor(s): " + ", ".join(
+                    f"{k}(-{v})" for k, v in cleared.items())
+                rres = save_beast(buf.getvalue(), cur_sha, rmsg)
+                print(f"   Committed reset: {rres['commit']['sha'][:12]}")
+                auto_resolved_floors = list(cleared.keys())
+                # Re-seed the freshly-reset zones onto the wheel right away.
+                try:
+                    import chaos_kv_refill as _rf
+                    state2, sha2 = load_state_json()
+                    if state2 is not None:
+                        on_wheel2 = {t.get("uid") for t in state2.get("tasks", [])}
+                        added2 = 0
+                        for fl in cleared:
+                            if fl == "Maintenance":
+                                continue
+                            seeded = _rf.refill_zone(
+                                reset_wb, {"uid": "", "source": "ZONES", "floor": fl},
+                                on_wheel2)
+                            if seeded:
+                                seeded.pop("_resetFloor", None)
+                                if seeded["uid"] not in on_wheel2:
+                                    state2["tasks"].append(seeded)
+                                    on_wheel2.add(seeded["uid"])
+                                    added2 += 1
+                        if added2:
+                            state2["version"] = state2.get("version", 0) + 1
+                            state2["updated"] = datetime.now(ZoneInfo("UTC")).isoformat()
+                            counts2 = {}
+                            for t in state2["tasks"]:
+                                counts2[t.get("source", "?")] = counts2.get(t.get("source", "?"), 0) + 1
+                            state2["buckets"] = counts2
+                            save_state_json(state2, sha2,
+                                            f"♻️ Seed {added2} reset-floor zone(s) onto wheel")
+                            print(f"   🪷 Seeded {added2} fresh zone(s) post-reset")
+                except Exception as e:
+                    print(f"   ⚠️  post-reset reseed skipped: {e}")
+            except Exception as e:
+                print(f"   ⚠️  auto-reset Beast commit failed ({e}); leaving resetNeeded flag")
+                auto_resolved_floors = []
+
     # Now finalize ALL pending TASKS/COURAGE in the Beast (including any from
     # prior runs that were refilled but not yet finalized).
     fin_results, fin_ok = finalize_task_completions(tc_comps)
@@ -866,11 +965,22 @@ def main():
     }
     if processed_uids:
         new_drain["lastAutoProcessed"] = processed_uids
-    # Floors that wrapped this run need a Claude-side reset (clear Completed dates).
-    if all_reset_floors:
+    # Floors that wrapped this run. Any we AUTO-RESET above are recorded as
+    # resolved; only floors we couldn't auto-clear stay flagged for fallback.
+    still_need = [f for f in set(all_reset_floors) if f not in set(auto_resolved_floors)]
+    if still_need:
         existing = set(new_drain.get("resetNeeded", []))
-        new_drain["resetNeeded"] = sorted(existing | set(all_reset_floors))
+        new_drain["resetNeeded"] = sorted(existing | set(still_need))
         print(f"   🔄 Flagged floors for Claude-side reset: {new_drain['resetNeeded']}")
+    if auto_resolved_floors:
+        new_drain["autoReset"] = sorted(set(auto_resolved_floors))
+        # clear any stale resetNeeded entries we just handled
+        if "resetNeeded" in new_drain:
+            new_drain["resetNeeded"] = sorted(
+                set(new_drain["resetNeeded"]) - set(auto_resolved_floors))
+            if not new_drain["resetNeeded"]:
+                new_drain.pop("resetNeeded", None)
+        print(f"   ♻️  Auto-reset floors this run: {new_drain['autoReset']}")
     # Remove pendingClear field once we've acted on it
     new_drain.pop("pendingClear", None)
 
