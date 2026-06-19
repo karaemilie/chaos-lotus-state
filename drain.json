@@ -1,6 +1,23 @@
 {
   "completions": [
     {
+      "source": "TASKS",
+      "id": 11115,
+      "row": 226,
+      "label": "✨ Clean filters on Dyson hair products 📝",
+      "uid": "TASKS:11115",
+      "_ts": "2026-06-19T08:43:36.889Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 76,
+      "zid": 75,
+      "floor": "Plant",
+      "label": "🌱 Main floor Down Low",
+      "uid": "ZONES:75",
+      "_ts": "2026-06-19T08:44:04.614Z"
+    },
+    {
       "source": "ZONES",
       "row": 78,
       "zid": 77,
@@ -8,12 +25,19 @@
       "label": "🌱 Corner Nook B",
       "uid": "ZONES:77",
       "_ts": "2026-06-19T08:44:11.363Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 54,
+      "label": "Buy eye primer",
+      "uid": "SPIN:121",
+      "_ts": "2026-06-19T08:44:45.140Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-19T08:44:19.580Z",
+  "mirroredAt": "2026-06-19T08:44:45.376Z",
   "counts": {
-    "completions": 1,
+    "completions": 4,
     "adds": 0
   }
 }
