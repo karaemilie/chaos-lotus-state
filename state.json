@@ -706,13 +706,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 121,
-      "row": 54,
-      "label": "Buy eye primer",
-      "uid": "SPIN:121"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 123,
       "row": 55,
       "label": "Research John Deere spreader",
@@ -741,31 +734,10 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 128,
-      "row": 59,
-      "label": "Next step printer paper",
-      "uid": "SPIN:128"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 129,
       "row": 60,
       "label": "Make sure summer cello is on calensae",
       "uid": "SPIN:129"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 132,
-      "row": 61,
-      "label": "Turn on phone eye protection",
-      "uid": "SPIN:132"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 134,
-      "row": 62,
-      "label": "Scrub under foyer table",
-      "uid": "SPIN:134"
     },
     {
       "source": "SPIN_WHEEL",
@@ -932,13 +904,13 @@
       "uid": "ZONES:79"
     }
   ],
-  "version": 299,
-  "updated": "2026-06-19T08:44:59.797375+00:00",
+  "version": 300,
+  "updated": "2026-06-19T08:45:37.941221+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 80
+    "SPIN_WHEEL": 76
   }
 }
