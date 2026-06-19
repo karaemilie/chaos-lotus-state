@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-19T23:49:13.244Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Label the Asami IV pots",
+      "_addedAt": "2026-06-19T23:56:50.566Z",
+      "_ts": "2026-06-19T23:56:51.197Z"
+    }
+  ],
+  "mirroredAt": "2026-06-19T23:56:51.536Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-19T23:49:14.293809+00:00",
-  "lastAutoProcessed": [
-    "SPIN:148"
-  ]
+    "adds": 1
+  }
 }
