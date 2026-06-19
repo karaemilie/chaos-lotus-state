@@ -636,13 +636,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 111,
-      "row": 51,
-      "label": "New resolution: daily texts",
-      "uid": "SPIN:111"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 112,
       "row": 52,
       "label": "Order more shirts for B",
@@ -887,13 +880,13 @@
       "uid": "TASKS:11233"
     }
   ],
-  "version": 306,
-  "updated": "2026-06-19T09:10:51.270258+00:00",
+  "version": 307,
+  "updated": "2026-06-19T09:11:45.942943+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 74
+    "SPIN_WHEEL": 73
   }
 }
