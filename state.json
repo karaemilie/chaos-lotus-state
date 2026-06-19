@@ -831,15 +831,22 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Vacuum the upstairs stairs",
       "uid": "MAINTENANCE:77"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 152,
+      "sid": 152,
+      "label": "Timer to lotus *",
+      "uid": "SPIN_WHEEL:152"
     }
   ],
-  "version": 317,
-  "updated": "2026-06-19T23:37:39.585169+00:00",
+  "version": 318,
+  "updated": "2026-06-19T23:48:26.783952+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 67
+    "SPIN_WHEEL": 68
   }
 }
