@@ -687,14 +687,6 @@
       "uid": "SPIN_WHEEL:118"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 74,
-      "label": "\ud83c\udfe0 Throw out pantry food",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Throw out pantry food",
-      "uid": "MAINTENANCE:74"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 121,
       "sid": 121,
@@ -893,10 +885,18 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Craft Zone",
       "uid": "ZONES:48"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 76,
+      "label": "\ud83c\udfe0 Clean outside of piano",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Clean outside of piano",
+      "uid": "MAINTENANCE:76"
     }
   ],
-  "version": 246,
-  "updated": "2026-06-19T00:20:30.041869+00:00",
+  "version": 247,
+  "updated": "2026-06-19T00:21:35.798491+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
