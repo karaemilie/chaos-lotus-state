@@ -1,18 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-19T09:13:05.315Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Research preview and Casper exam dates",
+      "_addedAt": "2026-06-19T21:25:01.715Z",
+      "_ts": "2026-06-19T21:25:01.803Z"
+    }
+  ],
+  "mirroredAt": "2026-06-19T21:25:02.037Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-19T09:13:06.284908+00:00",
-  "lastAutoProcessed": [
-    "ZONES:58",
-    "SPIN:111",
-    "SPIN:91",
-    "SPIN:126",
-    "SPIN:24",
-    "TASKS:11569"
-  ]
+    "adds": 1
+  }
 }
