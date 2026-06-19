@@ -947,15 +947,22 @@
       "sid": 143,
       "label": "Next step iron curtain rod hunt down",
       "uid": "SPIN_WHEEL:143"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 144,
+      "sid": 144,
+      "label": "Find powder coat color for deck rail color",
+      "uid": "SPIN_WHEEL:144"
     }
   ],
-  "version": 254,
-  "updated": "2026-06-19T01:41:33.604038+00:00",
+  "version": 255,
+  "updated": "2026-06-19T01:54:26.672885+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 82
+    "SPIN_WHEEL": 83
   }
 }
