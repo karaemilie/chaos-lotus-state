@@ -222,16 +222,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 58,
-      "floor": "Digital",
-      "row": 59,
-      "label": "\ud83d\udcbb Emails",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Emails",
-      "uid": "ZONES:58"
-    },
-    {
-      "source": "ZONES",
       "zid": 59,
       "floor": "Digital",
       "row": 60,
@@ -552,13 +542,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 91,
-      "row": 39,
-      "label": "Test adding tasks through import",
-      "uid": "SPIN:91"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 92,
       "row": 40,
       "label": "Pack weed barrier for return",
@@ -664,13 +647,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 126,
-      "row": 57,
-      "label": "Deal with new plants, add to inventory list!",
-      "uid": "SPIN:126"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 127,
       "row": 58,
       "label": "Price epson ink",
@@ -759,13 +735,6 @@
       "row": 74,
       "label": "Ask Bentley, which helmet is his *",
       "uid": "SPIN:146"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 24,
-      "row": 75,
-      "label": "Try ReeCloud?",
-      "uid": "SPIN:24"
     },
     {
       "source": "SPIN_WHEEL",
@@ -878,15 +847,24 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11233"
+    },
+    {
+      "source": "ZONES",
+      "zid": 60,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Photos",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Photos",
+      "uid": "ZONES:60"
     }
   ],
-  "version": 307,
-  "updated": "2026-06-19T09:11:45.942943+00:00",
+  "version": 308,
+  "updated": "2026-06-19T09:12:24.877282+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 73
+    "SPIN_WHEEL": 70
   }
 }
