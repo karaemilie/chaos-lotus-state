@@ -717,15 +717,6 @@
       "uid": "SPIN_WHEEL:126"
     },
     {
-      "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 127,
       "sid": 127,
@@ -899,10 +890,19 @@
       "sid": 142,
       "label": "Airport parking",
       "uid": "SPIN_WHEEL:142"
+    },
+    {
+      "source": "ZONES",
+      "zid": 74,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Plants",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Plants",
+      "uid": "ZONES:74"
     }
   ],
-  "version": 250,
-  "updated": "2026-06-19T00:49:54.834188+00:00",
+  "version": 251,
+  "updated": "2026-06-19T01:17:16.592974+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
