@@ -831,15 +831,22 @@
       "sid": 152,
       "label": "Timer to lotus *",
       "uid": "SPIN_WHEEL:152"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 153,
+      "sid": 153,
+      "label": "Label the Asami IV pots",
+      "uid": "SPIN_WHEEL:153"
     }
   ],
-  "version": 319,
-  "updated": "2026-06-19T23:49:12.228139+00:00",
+  "version": 320,
+  "updated": "2026-06-19T23:57:05.396025+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 67
+    "SPIN_WHEEL": 68
   }
 }
