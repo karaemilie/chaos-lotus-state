@@ -16,10 +16,17 @@
       "_ts": "2026-06-19T09:09:02.754Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-06-19T09:09:03.001Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Genevieve ticket back to AZ",
+      "_addedAt": "2026-06-19T09:09:12.069Z",
+      "_ts": "2026-06-19T09:09:12.383Z"
+    }
+  ],
+  "mirroredAt": "2026-06-19T09:09:12.615Z",
   "counts": {
     "completions": 2,
-    "adds": 0
+    "adds": 1
   }
 }
