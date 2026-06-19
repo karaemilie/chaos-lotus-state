@@ -762,13 +762,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 138,
-      "row": 66,
-      "label": "Next row bathroom bins",
-      "uid": "SPIN:138"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 139,
       "row": 67,
       "label": "Next step bathroom shelf org (clear bins)",
@@ -853,13 +846,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 131,
-      "row": 79,
-      "label": "Update Hoya list",
-      "uid": "SPIN:131"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 141,
       "row": 80,
       "label": "Check for Puma sale",
@@ -904,13 +890,13 @@
       "uid": "ZONES:79"
     }
   ],
-  "version": 300,
-  "updated": "2026-06-19T08:45:37.941221+00:00",
+  "version": 301,
+  "updated": "2026-06-19T08:46:19.195774+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 76
+    "SPIN_WHEEL": 74
   }
 }
