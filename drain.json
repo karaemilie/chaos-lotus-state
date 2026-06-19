@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 16,
+      "label": "Check for ASD reimbursement",
+      "uid": "SPIN:47",
+      "_ts": "2026-06-19T06:20:41.160Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T06:06:16.305Z",
+  "mirroredAt": "2026-06-19T06:20:41.490Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-19T06:06:17.064157+00:00",
-  "lastAutoProcessed": [
-    "SPIN:147"
-  ]
+  }
 }
