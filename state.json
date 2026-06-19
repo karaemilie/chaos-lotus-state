@@ -926,15 +926,22 @@
       "row": 83,
       "label": "Check for Puma sale",
       "uid": "SPIN:141"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 149,
+      "sid": 149,
+      "label": "Bring a fan upStairs",
+      "uid": "SPIN_WHEEL:149"
     }
   ],
-  "version": 294,
-  "updated": "2026-06-19T06:21:53.506256+00:00",
+  "version": 295,
+  "updated": "2026-06-19T06:21:55.218065+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 79
+    "SPIN_WHEEL": 80
   }
 }
