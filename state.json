@@ -30,20 +30,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11569,
-      "row": 332,
-      "label": "\u2728 Soak air plants",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11569"
-    },
-    {
-      "source": "TASKS",
       "id": 11488,
       "row": 434,
       "label": "\u2728 Throw cat fountain in dishwasher \ud83d\udc31\ud83e\udee7",
@@ -242,16 +228,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 83,
-      "floor": "Personal",
-      "row": 84,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Hand Care & Mani",
-      "uid": "ZONES:83"
-    },
-    {
-      "source": "ZONES",
       "zid": 84,
       "floor": "Personal",
       "row": 85,
@@ -277,16 +253,6 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Clean outside of piano",
       "uid": "MAINTENANCE:76"
-    },
-    {
-      "source": "TASKS",
-      "id": 11033,
-      "row": 211,
-      "label": "\ud83d\udcb8 Brainstorm in-person business ideas \ud83e\udd1d\ud83d\udca1",
-      "emoji": "\ud83d\udcb8",
-      "aw": 5,
-      "specialZone": "Business",
-      "uid": "TASKS:11033"
     },
     {
       "source": "TASKS",
@@ -720,13 +686,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 130,
-      "row": 65,
-      "label": "Pack up weed barrier, load up",
-      "uid": "SPIN:130"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 132,
       "row": 67,
       "label": "Turn on phone eye protection",
@@ -934,15 +893,50 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook B",
       "uid": "ZONES:77"
+    },
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Epilate Legs",
+      "uid": "ZONES:85"
+    },
+    {
+      "source": "TASKS",
+      "id": 10868,
+      "label": "Research masters degree programs for Bentley as backup plan (bio major switch before fall registration) \ud83c\udf93",
+      "aw": 3,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10868"
+    },
+    {
+      "source": "TASKS",
+      "id": 10021,
+      "label": "Add shelf holes to cabinet sides",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10021"
     }
   ],
-  "version": 285,
-  "updated": "2026-06-19T05:07:11.574037+00:00",
+  "version": 286,
+  "updated": "2026-06-19T05:08:02.421386+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 81
+    "SPIN_WHEEL": 80
   }
 }
