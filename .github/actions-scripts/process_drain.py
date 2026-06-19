@@ -19,6 +19,7 @@ completions stay queued for Claude.
 import os
 import sys
 import json
+import time
 import base64
 import urllib.request
 import urllib.error
@@ -131,6 +132,52 @@ def save_beast(beast_bytes, sha, commit_msg):
     if status not in (200, 201):
         raise RuntimeError(f"save_beast failed: HTTP {status} — {result}")
     return result
+
+
+def save_beast_with_retry(apply_fn, commit_msg, max_attempts=5):
+    """Save the Beast with SHA-409 retry — the Beast analogue of the existing
+    state.json retry. PREVIOUSLY a concurrent run could bump the Beast's sha
+    between our load and our save; save_beast then hit HTTP 409 and RAISED,
+    crashing the run AFTER the drain had moved on — so a completion got cleared
+    from the queue WITHOUT its stamp ever landing (the 'tapped a zone in a busy
+    batch, it stayed on the wheel / never stamped' drop). The self-healing
+    'next run reprocesses' promise only holds if the item stays in the drain;
+    a hard crash here broke that chain.
+
+    Fix: on 409, RELOAD the Beast fresh (new bytes + new sha), RE-APPLY all of
+    this run's mutations on top via apply_fn (every processor keys by ID/ZID/
+    SID/MID — never by row — so re-applying onto a changed Beast is safe and
+    idempotent), then retry. apply_fn(wb, stamp) must perform all stamps/edits
+    and return the (already-saved-to-bytes is done here) — it just mutates wb.
+
+    apply_fn signature: apply_fn(wb, stamp) -> None  (mutates wb in place)
+    Returns (github commit result dict, final wb) on success.
+    """
+    attempt = 0
+    while True:
+        attempt += 1
+        beast_bytes, beast_sha = load_beast()
+        wb = load_workbook(io.BytesIO(beast_bytes))
+        stamp = alaska_stamp_date()
+        apply_fn(wb, stamp)
+        buf = io.BytesIO(); wb.save(buf)
+        body = {
+            "message": commit_msg,
+            "content": base64.b64encode(buf.getvalue()).decode(),
+            "branch": BEAST_BRANCH,
+            "sha": beast_sha,
+        }
+        status, result = gh("PUT", f"/repos/{BEAST_REPO}/contents/{BEAST_FILE}", body)
+        if status in (200, 201):
+            if attempt > 1:
+                print(f"   ✅ Beast saved on attempt {attempt} (after 409 retry)")
+            return result, wb
+        if status == 409 and attempt < max_attempts:
+            print(f"   ⚠️  Beast 409 conflict — reloading + re-applying ({attempt}/{max_attempts})")
+            time.sleep(0.5 * attempt)  # small backoff
+            continue
+        # out of retries or a non-409 error
+        raise RuntimeError(f"save_beast_with_retry failed: HTTP {status} after {attempt} attempt(s) — {result}")
 
 
 # ─── ZONE PROCESSING ─────────────────────────────────────────────
@@ -794,13 +841,33 @@ def main():
     if not beast_dirty:
         print("\n⏭️  No auto-completions or adds applied this run")
     else:
-        # 5. Save beast
-        print(f"\n💾 Saving beast back to github...")
-        buf = io.BytesIO()
-        wb.save(buf)
-        new_beast_bytes = buf.getvalue()
+        # 5. Save beast — via SHA-409 retry. The replay closure re-applies EVERY
+        # mutation this run made (zones/maint/spin completions + adds) onto a
+        # FRESH Beast if a concurrent run bumped the sha. All processors key by
+        # ID/ZID/SID/MID (never row), so replaying onto a changed Beast is safe
+        # + idempotent. This closes the drop where a 409 used to crash the run
+        # after the drain moved on, losing a completion's stamp entirely.
+        print(f"\n💾 Saving beast back to github (with 409-retry)...")
         commit_msg = f"🤖 Auto-process: {len(processed_uids)} completion(s) + {len(processed_add_keys)} add(s)"
-        result = save_beast(new_beast_bytes, beast_sha, commit_msg)
+
+        def _replay_mutations(_wb, _stamp):
+            # Re-apply zone completions
+            for _c in auto_zones:
+                if _c.get("uid") in processed_uids:
+                    process_zone_completion(_wb, _c, _stamp)
+            # Re-apply maintenance completions
+            for _c in auto_maintenance:
+                if _c.get("uid") in processed_uids:
+                    process_maintenance_completion(_wb, _c, _stamp)
+            # Re-apply spin deletions (idempotent: SID already gone = no-op)
+            _spin_to_apply = [_c for _c in auto_spin if _c.get("uid") in processed_uids]
+            if _spin_to_apply:
+                process_spin_wheel_completions(_wb, _spin_to_apply)
+            # Re-apply adds (process_adds dedupes by label, so replaying is safe)
+            if adds:
+                process_adds(_wb, adds)
+
+        result, wb = save_beast_with_retry(_replay_mutations, commit_msg)
         print(f"   Committed: {result['commit']['sha'][:12]}")
 
     # Uids of everything still queued for Claude (TASKS/COURAGE not finalized) —
