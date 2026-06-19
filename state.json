@@ -503,13 +503,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 76,
-      "row": 31,
-      "label": "Add July viola to calendar **",
-      "uid": "SPIN:76"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 79,
       "row": 32,
       "label": "Run mom purse through ozone",
@@ -957,13 +950,13 @@
       "uid": "TASKS:11496"
     }
   ],
-  "version": 274,
-  "updated": "2026-06-19T03:59:24.327337+00:00",
+  "version": 275,
+  "updated": "2026-06-19T03:59:48.391704+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 84
+    "SPIN_WHEEL": 83
   }
 }
