@@ -244,16 +244,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 22,
-      "floor": "Main Floor",
-      "row": 23,
-      "label": "\ud83e\uddfa Mudroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Mudroom",
-      "uid": "ZONES:22"
-    },
-    {
-      "source": "ZONES",
       "zid": 48,
       "floor": "Basement",
       "row": 49,
@@ -960,10 +950,19 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:11459"
+    },
+    {
+      "source": "ZONES",
+      "zid": 24,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Music Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Music Room",
+      "uid": "ZONES:24"
     }
   ],
-  "version": 264,
-  "updated": "2026-06-19T03:29:22.316973+00:00",
+  "version": 265,
+  "updated": "2026-06-19T03:29:41.805414+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
