@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 52,
+      "label": "Look through bike helmets",
+      "uid": "SPIN:100",
+      "_ts": "2026-06-19T02:01:53.289Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-06-19T02:01:52.323Z"
     }
   ],
-  "mirroredAt": "2026-06-19T02:01:52.650Z",
+  "mirroredAt": "2026-06-19T02:01:53.521Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
