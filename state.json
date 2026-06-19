@@ -688,13 +688,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 118,
-      "row": 50,
-      "label": "Research dr I booked Bemtley",
-      "uid": "SPIN:118"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 123,
       "row": 51,
       "label": "Research John Deere spreader",
@@ -841,13 +834,13 @@
       "uid": "SPIN_WHEEL:151"
     }
   ],
-  "version": 315,
-  "updated": "2026-06-19T23:28:53.267209+00:00",
+  "version": 316,
+  "updated": "2026-06-19T23:32:07.380553+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 68
+    "SPIN_WHEEL": 67
   }
 }
