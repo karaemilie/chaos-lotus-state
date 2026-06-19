@@ -18,17 +18,33 @@
       "_ts": "2026-06-19T08:44:04.614Z"
     },
     {
+      "source": "ZONES",
+      "row": 78,
+      "zid": 77,
+      "floor": "Plant",
+      "label": "🌱 Corner Nook B",
+      "uid": "ZONES:77",
+      "_ts": "2026-06-19T08:44:11.363Z"
+    },
+    {
       "source": "SPIN_WHEEL",
       "row": 54,
       "label": "Buy eye primer",
       "uid": "SPIN:121",
       "_ts": "2026-06-19T08:44:45.140Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 59,
+      "label": "Next step printer paper",
+      "uid": "SPIN:128",
+      "_ts": "2026-06-19T08:45:08.548Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-19T08:45:00.977Z",
+  "mirroredAt": "2026-06-19T08:45:08.771Z",
   "counts": {
-    "completions": 3,
+    "completions": 5,
     "adds": 0
   }
 }
