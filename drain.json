@@ -1,17 +1,55 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 51,
+      "label": "New resolution: daily texts",
+      "uid": "SPIN:111",
+      "_ts": "2026-06-19T09:11:33.867Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 39,
+      "label": "Test adding tasks through import",
+      "uid": "SPIN:91",
+      "_ts": "2026-06-19T09:11:39.193Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 57,
+      "label": "Deal with new plants, add to inventory list!",
+      "uid": "SPIN:126",
+      "_ts": "2026-06-19T09:11:45.644Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 75,
+      "label": "Try ReeCloud?",
+      "uid": "SPIN:24",
+      "_ts": "2026-06-19T09:11:52.187Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 59,
+      "zid": 58,
+      "floor": "Digital",
+      "label": "💻 Emails",
+      "uid": "ZONES:58",
+      "_ts": "2026-06-19T09:11:57.456Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11569,
+      "row": 430,
+      "label": "✨ Soak air plants",
+      "uid": "TASKS:11569",
+      "_ts": "2026-06-19T09:12:47.895Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T09:12:25.747Z",
+  "mirroredAt": "2026-06-19T09:12:48.129Z",
   "counts": {
-    "completions": 0,
+    "completions": 6,
     "adds": 0
-  },
-  "processedAt": "2026-06-19T09:12:26.543153+00:00",
-  "lastAutoProcessed": [
-    "ZONES:58",
-    "SPIN:111",
-    "SPIN:24",
-    "SPIN:126",
-    "SPIN:91"
-  ]
+  }
 }
