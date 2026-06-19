@@ -1,15 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-19T00:22:24.067Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Check for Puma sale",
+      "_addedAt": "2026-06-19T00:49:05.717Z",
+      "_ts": "2026-06-19T00:49:05.919Z"
+    }
+  ],
+  "mirroredAt": "2026-06-19T00:49:06.261Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-19T00:22:25.088960+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:74",
-    "SPIN:7",
-    "COURAGE:11359:0"
-  ]
+    "adds": 1
+  }
 }
