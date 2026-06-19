@@ -420,13 +420,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 63,
-      "row": 36,
-      "label": "Try out AI design for living room",
-      "uid": "SPIN:63"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 66,
       "row": 37,
       "label": "Condition leather sandLs",
@@ -904,13 +897,13 @@
       "uid": "SPIN_WHEEL:140"
     }
   ],
-  "version": 243,
-  "updated": "2026-06-19T00:09:24.930149+00:00",
+  "version": 244,
+  "updated": "2026-06-19T00:10:09.890011+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 6,
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 80,
     "MAINTENANCE": 2
   }
 }
