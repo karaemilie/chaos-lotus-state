@@ -600,13 +600,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 75,
-      "row": 34,
-      "label": "Look for wrought iron curtains",
-      "uid": "SPIN:75"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 76,
       "row": 35,
       "label": "Add July viola to calendar **",
@@ -956,13 +949,13 @@
       "uid": "SPIN_WHEEL:143"
     }
   ],
-  "version": 253,
-  "updated": "2026-06-19T01:40:21.307657+00:00",
+  "version": 254,
+  "updated": "2026-06-19T01:41:33.604038+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 83
+    "SPIN_WHEEL": 82
   }
 }
