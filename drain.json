@@ -27,6 +27,14 @@
       "label": "Dddd",
       "uid": "SPIN_WHEEL:152",
       "_ts": "2026-06-19T04:40:32.727Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "🌱 Corner Nook A",
+      "uid": "ZONES:76",
+      "_ts": "2026-06-19T04:40:45.775Z"
     }
   ],
   "adds": [
@@ -49,9 +57,9 @@
       "_ts": "2026-06-19T04:40:04.816Z"
     }
   ],
-  "mirroredAt": "2026-06-19T04:40:32.964Z",
+  "mirroredAt": "2026-06-19T04:40:46.011Z",
   "counts": {
-    "completions": 4,
+    "completions": 5,
     "adds": 3
   }
 }
