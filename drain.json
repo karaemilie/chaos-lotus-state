@@ -15,12 +15,19 @@
       "label": "🌱 Bedroom",
       "uid": "ZONES:73",
       "_ts": "2026-06-19T03:22:32.054Z"
+    },
+    {
+      "source": "MAINTENANCE",
+      "row": 77,
+      "label": "🏠 Clean outside of piano",
+      "uid": "MAINTENANCE:76",
+      "_ts": "2026-06-19T03:22:38.889Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-19T03:22:32.286Z",
+  "mirroredAt": "2026-06-19T03:22:39.096Z",
   "counts": {
-    "completions": 2,
+    "completions": 3,
     "adds": 0
   }
 }
