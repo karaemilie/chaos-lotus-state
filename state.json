@@ -72,20 +72,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11543,
-      "row": 316,
-      "label": "Take down the projector \ud83c\udfaf First step: unplug + locate ladder",
-      "aw": 3,
-      "pri": "\ud83e\udd48",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": "Projector",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11543"
-    },
-    {
-      "source": "TASKS",
       "id": 10024,
       "row": 11,
       "label": "Order cherry shelves on eBay",
@@ -886,10 +872,23 @@
       "sid": 150,
       "label": "Genevieve ticket back to AZ",
       "uid": "SPIN_WHEEL:150"
+    },
+    {
+      "source": "TASKS",
+      "id": 11233,
+      "label": "Browse Facebook Marketplace \u2014 save 3 used vehicle listings under budget \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11233"
     }
   ],
-  "version": 305,
-  "updated": "2026-06-19T09:10:09.676324+00:00",
+  "version": 306,
+  "updated": "2026-06-19T09:10:51.270258+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
