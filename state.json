@@ -527,13 +527,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 71,
-      "row": 26,
-      "label": "Add Amazon stools to pinterest",
-      "uid": "SPIN:71"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 72,
       "row": 27,
       "label": "Search Target stools **",
@@ -848,13 +841,13 @@
       "uid": "SPIN_WHEEL:151"
     }
   ],
-  "version": 314,
-  "updated": "2026-06-19T22:45:23.087205+00:00",
+  "version": 315,
+  "updated": "2026-06-19T23:28:53.267209+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 69
+    "SPIN_WHEEL": 68
   }
 }
