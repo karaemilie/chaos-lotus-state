@@ -336,15 +336,6 @@
       "uid": "MAINTENANCE:75"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 76,
-      "row": 77,
-      "label": "\ud83c\udfe0 Clean outside of piano",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Clean outside of piano",
-      "uid": "MAINTENANCE:76"
-    },
-    {
       "source": "TASKS",
       "id": 11527,
       "row": 301,
@@ -832,10 +823,18 @@
       "sid": 151,
       "label": "Research preview and Casper exam dates",
       "uid": "SPIN_WHEEL:151"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 77,
+      "label": "\ud83c\udfe0 Vacuum the upstairs stairs",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Vacuum the upstairs stairs",
+      "uid": "MAINTENANCE:77"
     }
   ],
-  "version": 316,
-  "updated": "2026-06-19T23:32:07.380553+00:00",
+  "version": 317,
+  "updated": "2026-06-19T23:37:39.585169+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
