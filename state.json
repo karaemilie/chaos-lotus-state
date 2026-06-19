@@ -30,20 +30,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11426,
-      "row": 285,
-      "label": "Flesh out bunk bed attack plan (5 min)",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Low",
-      "proj": "Bunk Beds with Lincoln & Evan",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11426"
-    },
-    {
-      "source": "TASKS",
       "id": 10237,
       "row": 431,
       "label": "Cancel Slate card",
@@ -895,10 +881,23 @@
       "sid": 140,
       "label": "Scan living room with planner 5d",
       "uid": "SPIN_WHEEL:140"
+    },
+    {
+      "source": "TASKS",
+      "id": 11108,
+      "label": "\u2728 Review IXL assessments for Evan",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 20,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11108"
     }
   ],
-  "version": 244,
-  "updated": "2026-06-19T00:10:09.890011+00:00",
+  "version": 245,
+  "updated": "2026-06-19T00:19:59.886383+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
