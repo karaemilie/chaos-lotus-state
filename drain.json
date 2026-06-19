@@ -6,12 +6,19 @@
       "label": "New resolution: daily texts",
       "uid": "SPIN:111",
       "_ts": "2026-06-19T09:11:33.867Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 39,
+      "label": "Test adding tasks through import",
+      "uid": "SPIN:91",
+      "_ts": "2026-06-19T09:11:39.193Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-19T09:11:34.104Z",
+  "mirroredAt": "2026-06-19T09:11:39.415Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
