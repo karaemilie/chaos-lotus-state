@@ -1,15 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 46,
+      "label": "Fully test all tap formats on all types in pansy",
+      "uid": "SPIN:98",
+      "_ts": "2026-06-19T03:48:16.661Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-19T03:30:34.415Z",
+  "mirroredAt": "2026-06-19T03:48:16.871Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-19T03:30:35.136375+00:00",
-  "lastAutoProcessed": [
-    "ZONES:22",
-    "SPIN:13",
-    "TASKS:11488"
-  ]
+  }
 }
