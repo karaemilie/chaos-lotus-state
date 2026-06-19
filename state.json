@@ -44,48 +44,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11580,
-      "row": 337,
-      "label": "\u2728 Spend time on flower bouquet coding project",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": "Bouquet Tracker",
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11580"
-    },
-    {
-      "source": "TASKS",
-      "id": 11674,
-      "row": 390,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11674"
-    },
-    {
-      "source": "TASKS",
-      "id": 11348,
-      "row": 432,
-      "label": "\u2728 Cancel IXL ($25/month)",
-      "aw": 3,
-      "pri": null,
-      "dur": 15,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11348"
-    },
-    {
-      "source": "TASKS",
       "id": 11488,
       "row": 434,
       "label": "\u2728 Throw cat fountain in dishwasher \ud83d\udc31\ud83e\udee7",
@@ -963,20 +921,52 @@
       "uid": "SPIN_WHEEL:148"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 150,
-      "sid": 150,
-      "label": "D",
-      "uid": "SPIN_WHEEL:150"
+      "source": "TASKS",
+      "id": 11426,
+      "label": "Flesh out bunk bed attack plan (5 min)",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Low",
+      "proj": "Bunk Beds with Lincoln & Evan",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11426"
+    },
+    {
+      "source": "TASKS",
+      "id": 11233,
+      "label": "Browse Facebook Marketplace \u2014 save 3 used vehicle listings under budget \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11233"
+    },
+    {
+      "source": "TASKS",
+      "id": 10255,
+      "label": "Find Matt cheaper car insurance \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Hard",
+      "proj": "Insurance Admin",
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10255"
     }
   ],
-  "version": 272,
-  "updated": "2026-06-19T03:57:55.012529+00:00",
+  "version": 273,
+  "updated": "2026-06-19T03:58:39.647961+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 85
+    "SPIN_WHEEL": 84
   }
 }
