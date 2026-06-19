@@ -1,20 +1,17 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-19T05:29:12.184Z",
-  "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-19T05:29:12.992246+00:00",
-  "lastAutoProcessed": [
-    "ZONES:67",
-    "SPIN:141",
-    "TASKS:11108",
-    "TASKS:11064",
-    "TASKS:10533"
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 63,
+      "label": "Extension cord for Pura",
+      "uid": "SPIN:133",
+      "_ts": "2026-06-19T06:00:19.119Z"
+    }
   ],
-  "autoReset": [
-    "Digital"
-  ]
+  "adds": [],
+  "mirroredAt": "2026-06-19T06:00:19.452Z",
+  "counts": {
+    "completions": 1,
+    "adds": 0
+  }
 }
