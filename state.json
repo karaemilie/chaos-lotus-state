@@ -16,20 +16,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11569,
-      "row": 430,
-      "label": "\u2728 Soak air plants",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11569"
-    },
-    {
-      "source": "TASKS",
       "id": 11025,
       "row": 206,
       "label": "Put the table leaves away \ud83c\udf42\ud83e\udeb5",
@@ -856,10 +842,23 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Photos",
       "uid": "ZONES:60"
+    },
+    {
+      "source": "TASKS",
+      "id": 10868,
+      "label": "Research masters degree programs for Bentley as backup plan (bio major switch before fall registration) \ud83c\udf93",
+      "aw": 3,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10868"
     }
   ],
-  "version": 308,
-  "updated": "2026-06-19T09:12:24.877282+00:00",
+  "version": 309,
+  "updated": "2026-06-19T09:13:02.356586+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
