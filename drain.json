@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 33,
+      "label": "Five minutes in hall closet",
+      "uid": "SPIN:74",
+      "_ts": "2026-06-19T01:55:37.615Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-06-19T01:55:35.411Z"
     }
   ],
-  "mirroredAt": "2026-06-19T01:55:35.751Z",
+  "mirroredAt": "2026-06-19T01:55:37.823Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
