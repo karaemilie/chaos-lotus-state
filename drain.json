@@ -1,65 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 149,
-      "label": "Aaaa",
-      "uid": "SPIN_WHEEL:149",
-      "_ts": "2026-06-19T04:40:20.842Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 150,
-      "label": "Bbbb",
-      "uid": "SPIN_WHEEL:150",
-      "_ts": "2026-06-19T04:40:24.894Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 151,
-      "label": "Cccc",
-      "uid": "SPIN_WHEEL:151",
-      "_ts": "2026-06-19T04:40:28.938Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 152,
-      "label": "Dddd",
-      "uid": "SPIN_WHEEL:152",
-      "_ts": "2026-06-19T04:40:32.727Z"
-    },
-    {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "label": "🌱 Corner Nook A",
-      "uid": "ZONES:76",
-      "_ts": "2026-06-19T04:40:45.775Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Ffffff",
-      "_addedAt": "2026-06-19T04:40:03.887Z",
-      "_ts": "2026-06-19T04:40:04.310Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Gfggg",
-      "_addedAt": "2026-06-19T04:40:03.888Z",
-      "_ts": "2026-06-19T04:40:04.566Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Hhhhh",
-      "_addedAt": "2026-06-19T04:40:03.889Z",
-      "_ts": "2026-06-19T04:40:04.816Z"
-    }
-  ],
-  "mirroredAt": "2026-06-19T04:40:46.011Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-06-19T04:40:55.269Z",
   "counts": {
-    "completions": 5,
-    "adds": 3
+    "completions": 0,
+    "adds": 0
   }
 }
