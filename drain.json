@@ -46,12 +46,19 @@
       "label": "Turn on phone eye protection",
       "uid": "SPIN:132",
       "_ts": "2026-06-19T08:45:14.985Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 62,
+      "label": "Scrub under foyer table",
+      "uid": "SPIN:134",
+      "_ts": "2026-06-19T08:45:22.167Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-19T08:45:15.208Z",
+  "mirroredAt": "2026-06-19T08:45:22.381Z",
   "counts": {
-    "completions": 6,
+    "completions": 7,
     "adds": 0
   }
 }
