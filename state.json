@@ -284,16 +284,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "row": 76,
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
-    },
-    {
-      "source": "ZONES",
       "zid": 77,
       "floor": "Plant",
       "row": 78,
@@ -932,10 +922,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10081"
+    },
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Props",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Props",
+      "uid": "ZONES:78"
     }
   ],
-  "version": 297,
-  "updated": "2026-06-19T08:43:52.038180+00:00",
+  "version": 298,
+  "updated": "2026-06-19T08:44:17.613205+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
