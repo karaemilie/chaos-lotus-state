@@ -30,20 +30,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11108,
-      "row": 433,
-      "label": "\u2728 Review IXL assessments for Evan",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 20,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11108"
-    },
-    {
-      "source": "TASKS",
       "id": 11025,
       "row": 206,
       "label": "Put the table leaves away \ud83c\udf42\ud83e\udeb5",
@@ -880,10 +866,23 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10255"
+    },
+    {
+      "source": "TASKS",
+      "id": 10237,
+      "label": "Cancel Slate card",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10237"
     }
   ],
-  "version": 303,
-  "updated": "2026-06-19T09:09:15.797224+00:00",
+  "version": 304,
+  "updated": "2026-06-19T09:10:05.386350+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
