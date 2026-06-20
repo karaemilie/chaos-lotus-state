@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 23,
+      "label": "Figure out if I need a spreading thingy for my drywl",
+      "uid": "SPIN:69",
+      "_ts": "2026-06-20T11:34:02.304Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-20T11:30:25.433Z",
+  "mirroredAt": "2026-06-20T11:34:02.526Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-20T11:30:26.142741+00:00",
-  "lastAutoProcessed": [
-    "SPIN:112"
-  ]
+  }
 }
