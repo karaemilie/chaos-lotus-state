@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-20T05:00:35.525Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Post photo of property to Lymow **",
+      "_addedAt": "2026-06-20T05:56:52.565Z",
+      "_ts": "2026-06-20T05:56:53.255Z"
+    }
+  ],
+  "mirroredAt": "2026-06-20T05:56:53.584Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-20T05:00:36.371445+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:155"
-  ]
+    "adds": 1
+  }
 }
