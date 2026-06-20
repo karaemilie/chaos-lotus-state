@@ -84,12 +84,20 @@
       "label": "Draft veneer plan",
       "uid": "SPIN:7",
       "_ts": "2026-06-20T12:00:04.942Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11680,
+      "row": 389,
+      "label": "🪷 Fix the timer in the Lotus app",
+      "uid": "TASKS:11680",
+      "_ts": "2026-06-20T12:00:12.827Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-20T12:00:05.276Z",
+  "mirroredAt": "2026-06-20T12:00:13.049Z",
   "counts": {
-    "completions": 12,
+    "completions": 13,
     "adds": 0
   }
 }
