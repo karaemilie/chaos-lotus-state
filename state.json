@@ -920,15 +920,22 @@
       "sid": 170,
       "label": "Green subaru",
       "uid": "SPIN_WHEEL:170"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 171,
+      "sid": 171,
+      "label": "Genevieve room cle",
+      "uid": "SPIN_WHEEL:171"
     }
   ],
-  "version": 346,
-  "updated": "2026-06-20T11:20:09.749823+00:00",
+  "version": 347,
+  "updated": "2026-06-20T11:20:54.290661+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 79
+    "SPIN_WHEEL": 80
   }
 }
