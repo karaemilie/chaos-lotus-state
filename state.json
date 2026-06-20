@@ -898,15 +898,22 @@
       "sid": 160,
       "label": "Next clear bathroom bin",
       "uid": "SPIN_WHEEL:160"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 161,
+      "sid": 161,
+      "label": "Call and add Genevieve to club membership for month",
+      "uid": "SPIN_WHEEL:161"
     }
   ],
-  "version": 328,
-  "updated": "2026-06-20T01:25:50.726934+00:00",
+  "version": 329,
+  "updated": "2026-06-20T04:19:36.994360+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 75
+    "SPIN_WHEEL": 76
   }
 }
