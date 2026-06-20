@@ -689,13 +689,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 137,
-      "row": 54,
-      "label": "Super glue Robo dock",
-      "uid": "SPIN:137"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 139,
       "row": 55,
       "label": "Next step bathroom shelf org (clear bins)",
@@ -945,13 +938,13 @@
       "uid": "TASKS:10443"
     }
   ],
-  "version": 340,
-  "updated": "2026-06-20T07:59:02.533599+00:00",
+  "version": 341,
+  "updated": "2026-06-20T08:38:01.696741+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 82
+    "SPIN_WHEEL": 81
   }
 }
