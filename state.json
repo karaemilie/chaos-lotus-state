@@ -605,13 +605,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 7,
-      "row": 58,
-      "label": "Draft veneer plan",
-      "uid": "SPIN:7"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 143,
       "row": 59,
       "label": "Next step iron curtain rod hunt down",
@@ -851,13 +844,13 @@
       "uid": "TASKS:10380"
     }
   ],
-  "version": 355,
-  "updated": "2026-06-20T11:49:29.664591+00:00",
+  "version": 356,
+  "updated": "2026-06-20T12:00:18.859927+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 69
+    "SPIN_WHEEL": 68
   }
 }
