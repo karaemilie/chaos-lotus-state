@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 47,
+      "label": "Order more shirts for B",
+      "uid": "SPIN:112",
+      "_ts": "2026-06-20T11:30:13.188Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-20T11:20:53.547Z",
+  "mirroredAt": "2026-06-20T11:30:13.398Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
