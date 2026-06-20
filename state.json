@@ -444,13 +444,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 69,
-      "row": 23,
-      "label": "Figure out if I need a spreading thingy for my drywl",
-      "uid": "SPIN:69"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 70,
       "row": 24,
       "label": "Add Wayfair stools to Pinterest",
@@ -922,13 +915,13 @@
       "uid": "SPIN_WHEEL:171"
     }
   ],
-  "version": 348,
-  "updated": "2026-06-20T11:30:24.515666+00:00",
+  "version": 349,
+  "updated": "2026-06-20T11:34:15.882626+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 79
+    "SPIN_WHEEL": 78
   }
 }
