@@ -542,13 +542,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 94,
-      "row": 37,
-      "label": "Replace lotus top header",
-      "uid": "SPIN:94"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 95,
       "row": 38,
       "label": "Find first transcript for Bentley",
@@ -922,13 +915,13 @@
       "uid": "TASKS:11614"
     }
   ],
-  "version": 344,
-  "updated": "2026-06-20T10:45:57.225310+00:00",
+  "version": 345,
+  "updated": "2026-06-20T10:46:43.159291+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 79
+    "SPIN_WHEEL": 78
   }
 }
