@@ -1,5 +1,14 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10100,
+      "row": 31,
+      "label": "Clear out living room armoire",
+      "uid": "TASKS:10100",
+      "_ts": "2026-06-20T07:57:57.192Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -32,9 +41,9 @@
       "_ts": "2026-06-20T07:57:55.553Z"
     }
   ],
-  "mirroredAt": "2026-06-20T07:57:55.771Z",
+  "mirroredAt": "2026-06-20T07:57:57.425Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 5
   }
 }
