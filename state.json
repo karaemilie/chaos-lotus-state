@@ -113,20 +113,6 @@
       "uid": "TASKS:11527"
     },
     {
-      "source": "TASKS",
-      "id": 11680,
-      "row": 389,
-      "label": "\ud83e\udeb7 Fix the timer in the Lotus app",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": null,
-      "critical": false,
-      "uid": "TASKS:11680"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11281,
       "parentRow": 380,
@@ -842,10 +828,23 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10380"
+    },
+    {
+      "source": "TASKS",
+      "id": 10343,
+      "label": "Figure out how to follow up on zoning complaint about neighbors",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10343"
     }
   ],
-  "version": 356,
-  "updated": "2026-06-20T12:00:18.859927+00:00",
+  "version": 357,
+  "updated": "2026-06-20T12:01:06.282832+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
