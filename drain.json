@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 68,
+      "label": "Timer to lotus *",
+      "uid": "SPIN:152",
+      "_ts": "2026-06-20T10:45:19.522Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-20T10:07:37.684Z",
+  "mirroredAt": "2026-06-20T10:45:19.733Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-20T10:07:38.606864+00:00",
-  "lastAutoProcessed": [
-    "SPIN:127"
-  ]
+  }
 }
