@@ -689,13 +689,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 159,
-      "sid": 159,
-      "label": "Install next clwae",
-      "uid": "SPIN_WHEEL:159"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 160,
       "sid": 160,
       "label": "Next clear bathroom bin",
@@ -858,13 +851,13 @@
       "uid": "TASKS:10380"
     }
   ],
-  "version": 354,
-  "updated": "2026-06-20T11:37:17.753187+00:00",
+  "version": 355,
+  "updated": "2026-06-20T11:49:29.664591+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 70
+    "SPIN_WHEEL": 69
   }
 }
