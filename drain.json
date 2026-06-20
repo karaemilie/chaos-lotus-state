@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-20T04:20:21.776Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Clean little table on porch **",
+      "_addedAt": "2026-06-20T04:49:35.091Z",
+      "_ts": "2026-06-20T04:49:35.796Z"
+    }
+  ],
+  "mirroredAt": "2026-06-20T04:49:36.165Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-20T04:20:22.470849+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11638"
-  ]
+    "adds": 1
+  }
 }
