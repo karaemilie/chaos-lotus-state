@@ -100,20 +100,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10018,
-      "row": 6,
-      "label": "Buy materials for bunk beds",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 60,
-      "ml": "Easy Win",
-      "proj": "Bunk Beds with Lincoln & Evan",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10018"
-    },
-    {
-      "source": "TASKS",
       "id": 11033,
       "row": 426,
       "label": "Brainstorm in-person business ideas \ud83e\udd1d\ud83d\udca1",
@@ -844,10 +830,23 @@
       "sid": 154,
       "label": "Make a list of plants to list in Hoya group",
       "uid": "SPIN_WHEEL:154"
+    },
+    {
+      "source": "TASKS",
+      "id": 11496,
+      "label": "Look into downloading open-source Claude \ud83e\udd16",
+      "aw": 3,
+      "pri": null,
+      "dur": 30,
+      "ml": null,
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11496"
     }
   ],
-  "version": 322,
-  "updated": "2026-06-19T23:57:56.811413+00:00",
+  "version": 323,
+  "updated": "2026-06-20T00:27:02.041754+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
