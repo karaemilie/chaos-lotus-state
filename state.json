@@ -2,20 +2,6 @@
   "tasks": [
     {
       "source": "TASKS",
-      "id": 11179,
-      "row": 236,
-      "label": "\u2728 Replace cat fountain filters \ud83d\udc31\ud83d\udca7",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11179"
-    },
-    {
-      "source": "TASKS",
       "id": 11671,
       "row": 370,
       "label": "\u2728 Pay Lindsey & Miriam for the week!",
@@ -801,13 +787,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 164,
-      "sid": 164,
-      "label": "Repaint rail black",
-      "uid": "SPIN_WHEEL:164"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 165,
       "sid": 165,
       "label": "Inspect music room closet",
@@ -906,15 +885,28 @@
       "sid": 171,
       "label": "Genevieve room cle",
       "uid": "SPIN_WHEEL:171"
+    },
+    {
+      "source": "TASKS",
+      "id": 10380,
+      "label": "Research summer camps for Lincoln & Evan \u2014 music + other \ud83c\udfb5\u2600\ufe0f \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 30,
+      "ml": null,
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10380"
     }
   ],
-  "version": 350,
-  "updated": "2026-06-20T11:34:56.759158+00:00",
+  "version": 351,
+  "updated": "2026-06-20T11:35:31.074382+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 77
+    "SPIN_WHEEL": 76
   }
 }
