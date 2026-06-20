@@ -430,13 +430,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 70,
-      "row": 24,
-      "label": "Add Wayfair stools to Pinterest",
-      "uid": "SPIN:70"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 72,
       "row": 25,
       "label": "Search Target stools **",
@@ -602,13 +595,6 @@
       "row": 52,
       "label": "Move chairs",
       "uid": "SPIN:135"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 136,
-      "row": 53,
-      "label": "Put adhesive on Robo base",
-      "uid": "SPIN:136"
     },
     {
       "source": "SPIN_WHEEL",
@@ -879,13 +865,13 @@
       "uid": "TASKS:10380"
     }
   ],
-  "version": 352,
-  "updated": "2026-06-20T11:36:19.500784+00:00",
+  "version": 353,
+  "updated": "2026-06-20T11:37:04.646008+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 73
+    "SPIN_WHEEL": 71
   }
 }
