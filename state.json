@@ -416,13 +416,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 67,
-      "row": 21,
-      "label": "Idea - tool and material inventory for Claude to help me",
-      "uid": "SPIN:67"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 68,
       "row": 22,
       "label": "Open up dry wall tool",
@@ -865,13 +858,13 @@
       "uid": "TASKS:10380"
     }
   ],
-  "version": 353,
-  "updated": "2026-06-20T11:37:04.646008+00:00",
+  "version": 354,
+  "updated": "2026-06-20T11:37:17.753187+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 71
+    "SPIN_WHEEL": 70
   }
 }
