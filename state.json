@@ -661,13 +661,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 127,
-      "row": 50,
-      "label": "Price epson ink",
-      "uid": "SPIN:127"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 129,
       "row": 51,
       "label": "Make sure summer cello is on calensae",
@@ -938,13 +931,13 @@
       "uid": "TASKS:10443"
     }
   ],
-  "version": 341,
-  "updated": "2026-06-20T08:38:01.696741+00:00",
+  "version": 342,
+  "updated": "2026-06-20T10:07:36.485060+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 81
+    "SPIN_WHEEL": 80
   }
 }
