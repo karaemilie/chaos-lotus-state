@@ -324,15 +324,6 @@
     },
     {
       "source": "MAINTENANCE",
-      "mid": 75,
-      "row": 76,
-      "label": "\ud83c\udfe0 Shake out the entry rug",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Shake out the entry rug",
-      "uid": "MAINTENANCE:75"
-    },
-    {
-      "source": "MAINTENANCE",
       "mid": 77,
       "row": 78,
       "label": "\ud83c\udfe0 Vacuum the upstairs stairs",
@@ -911,10 +902,18 @@
       "sid": 162,
       "label": "Clean little table on porch **",
       "uid": "SPIN_WHEEL:162"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 78,
+      "label": "\ud83c\udfe0 Scrub kids shower",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Scrub kids shower",
+      "uid": "MAINTENANCE:78"
     }
   ],
-  "version": 331,
-  "updated": "2026-06-20T04:49:48.112361+00:00",
+  "version": 332,
+  "updated": "2026-06-20T04:50:30.129868+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
