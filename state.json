@@ -913,15 +913,22 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11614"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 170,
+      "sid": 170,
+      "label": "Green subaru",
+      "uid": "SPIN_WHEEL:170"
     }
   ],
-  "version": 345,
-  "updated": "2026-06-20T10:46:43.159291+00:00",
+  "version": 346,
+  "updated": "2026-06-20T11:20:09.749823+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 78
+    "SPIN_WHEEL": 79
   }
 }
