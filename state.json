@@ -542,13 +542,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 96,
-      "row": 39,
-      "label": "Next step stair polish",
-      "uid": "SPIN:96"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 99,
       "row": 40,
       "label": "Fully test all tap formats on all types in lotus",
@@ -915,13 +908,13 @@
       "uid": "SPIN_WHEEL:171"
     }
   ],
-  "version": 349,
-  "updated": "2026-06-20T11:34:15.882626+00:00",
+  "version": 350,
+  "updated": "2026-06-20T11:34:56.759158+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 78
+    "SPIN_WHEEL": 77
   }
 }
