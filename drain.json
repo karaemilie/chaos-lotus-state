@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-20T10:46:44.204Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Green subaru",
+      "_addedAt": "2026-06-20T11:19:56.711Z",
+      "_ts": "2026-06-20T11:19:56.828Z"
+    }
+  ],
+  "mirroredAt": "2026-06-20T11:19:57.059Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-20T10:46:45.019553+00:00",
-  "lastAutoProcessed": [
-    "SPIN:94"
-  ]
+    "adds": 1
+  }
 }
