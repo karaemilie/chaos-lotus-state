@@ -841,15 +841,22 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10343"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 172,
+      "sid": 172,
+      "label": "Pull up veneer plans for shelfs",
+      "uid": "SPIN_WHEEL:172"
     }
   ],
-  "version": 357,
-  "updated": "2026-06-20T12:01:06.282832+00:00",
+  "version": 358,
+  "updated": "2026-06-20T12:01:10.511264+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 68
+    "SPIN_WHEEL": 69
   }
 }
