@@ -903,15 +903,22 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Scrub kids shower",
       "uid": "MAINTENANCE:78"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 163,
+      "sid": 163,
+      "label": "Post photo of property to Lymow **",
+      "uid": "SPIN_WHEEL:163"
     }
   ],
-  "version": 333,
-  "updated": "2026-06-20T05:00:34.425843+00:00",
+  "version": 334,
+  "updated": "2026-06-20T05:57:11.269278+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 76
+    "SPIN_WHEEL": 77
   }
 }
