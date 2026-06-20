@@ -1,9 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-20T04:49:47.316Z",
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 76,
+      "label": "🏠 Shake out the entry rug",
+      "uid": "MAINTENANCE:75",
+      "_ts": "2026-06-20T04:50:01.566Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Clean little table on porch **",
+      "_addedAt": "2026-06-20T04:49:35.091Z",
+      "_ts": "2026-06-20T04:49:35.796Z"
+    }
+  ],
+  "mirroredAt": "2026-06-20T04:50:01.783Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
