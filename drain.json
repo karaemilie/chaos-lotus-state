@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-20T00:27:04.833Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set up computer",
+      "_addedAt": "2026-06-20T00:46:40.929Z",
+      "_ts": "2026-06-20T00:46:41.232Z"
+    }
+  ],
+  "mirroredAt": "2026-06-20T00:46:41.466Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-20T00:27:05.715215+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10018"
-  ]
+    "adds": 1
+  }
 }
