@@ -142,20 +142,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10100,
-      "row": 31,
-      "label": "Clear out living room armoire",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 60,
-      "ml": "Medium",
-      "proj": "Home Projects",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10100"
-    },
-    {
-      "source": "TASKS",
       "id": 10222,
       "row": 88,
       "label": "Submit Bentley's MCAT course ($1500) to 529 for reimbursement \ud83d\udcdd",
@@ -917,10 +903,23 @@
       "sid": 165,
       "label": "Inspect music room closet",
       "uid": "SPIN_WHEEL:165"
+    },
+    {
+      "source": "TASKS",
+      "id": 10024,
+      "label": "Order cherry shelves on eBay",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10024"
     }
   ],
-  "version": 337,
-  "updated": "2026-06-20T07:57:28.769679+00:00",
+  "version": 338,
+  "updated": "2026-06-20T07:58:15.187056+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
