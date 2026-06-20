@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 50,
+      "label": "Price epson ink",
+      "uid": "SPIN:127",
+      "_ts": "2026-06-20T10:07:22.017Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-20T08:38:03.050Z",
+  "mirroredAt": "2026-06-20T10:07:22.350Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-20T08:38:04.028254+00:00",
-  "lastAutoProcessed": [
-    "SPIN:137"
-  ]
+  }
 }
