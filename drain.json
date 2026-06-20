@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 157,
+      "label": "Lymow login",
+      "uid": "SPIN_WHEEL:157",
+      "_ts": "2026-06-20T05:56:55.662Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-06-20T05:56:53.255Z"
     }
   ],
-  "mirroredAt": "2026-06-20T05:56:53.584Z",
+  "mirroredAt": "2026-06-20T05:56:55.878Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
