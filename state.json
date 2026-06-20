@@ -916,15 +916,43 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10024"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 166,
+      "sid": 166,
+      "label": "Set up discord",
+      "uid": "SPIN_WHEEL:166"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 167,
+      "sid": 167,
+      "label": "Set up simpleNote",
+      "uid": "SPIN_WHEEL:167"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 168,
+      "sid": 168,
+      "label": "Set up Claude",
+      "uid": "SPIN_WHEEL:168"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 169,
+      "sid": 169,
+      "label": "Set up Xcode",
+      "uid": "SPIN_WHEEL:169"
     }
   ],
-  "version": 338,
-  "updated": "2026-06-20T07:58:15.187056+00:00",
+  "version": 339,
+  "updated": "2026-06-20T07:58:19.194496+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 78
+    "SPIN_WHEEL": 82
   }
 }
