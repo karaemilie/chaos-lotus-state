@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 155,
+      "label": "Set up computer",
+      "uid": "SPIN_WHEEL:155",
+      "_ts": "2026-06-20T05:00:22.384Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-20T04:50:31.323Z",
+  "mirroredAt": "2026-06-20T05:00:22.766Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
