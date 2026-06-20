@@ -836,13 +836,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 155,
-      "sid": 155,
-      "label": "Set up computer",
-      "uid": "SPIN_WHEEL:155"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 156,
       "sid": 156,
       "label": "Read directions for window cleaner",
@@ -912,13 +905,13 @@
       "uid": "MAINTENANCE:78"
     }
   ],
-  "version": 332,
-  "updated": "2026-06-20T04:50:30.129868+00:00",
+  "version": 333,
+  "updated": "2026-06-20T05:00:34.425843+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 77
+    "SPIN_WHEEL": 76
   }
 }
