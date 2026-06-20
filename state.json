@@ -884,15 +884,29 @@
       "sid": 158,
       "label": "Install cat filter",
       "uid": "SPIN_WHEEL:158"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 159,
+      "sid": 159,
+      "label": "Install next clwae",
+      "uid": "SPIN_WHEEL:159"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 160,
+      "sid": 160,
+      "label": "Next clear bathroom bin",
+      "uid": "SPIN_WHEEL:160"
     }
   ],
-  "version": 327,
-  "updated": "2026-06-20T01:25:05.308062+00:00",
+  "version": 328,
+  "updated": "2026-06-20T01:25:50.726934+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 73
+    "SPIN_WHEEL": 75
   }
 }
