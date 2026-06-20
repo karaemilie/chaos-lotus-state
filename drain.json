@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-20T01:25:49.924Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Call and add Genevieve to club membership for month",
+      "_addedAt": "2026-06-20T04:19:24.264Z",
+      "_ts": "2026-06-20T04:19:24.376Z"
+    }
+  ],
+  "mirroredAt": "2026-06-20T04:19:24.677Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
