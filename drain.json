@@ -1,19 +1,74 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 23,
+      "label": "Figure out if I need a spreading thingy for my drywl",
+      "uid": "SPIN:69",
+      "_ts": "2026-06-20T11:34:02.304Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 39,
+      "label": "Next step stair polish",
+      "uid": "SPIN:96",
+      "_ts": "2026-06-20T11:34:11.244Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 164,
+      "label": "Repaint rail black",
+      "uid": "SPIN_WHEEL:164",
+      "_ts": "2026-06-20T11:34:52.487Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11179,
+      "row": 236,
+      "label": "✨ Replace cat fountain filters 🐱💧",
+      "uid": "TASKS:11179",
+      "_ts": "2026-06-20T11:35:17.185Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 69,
+      "label": "Label the Asami IV pots",
+      "uid": "SPIN:153",
+      "_ts": "2026-06-20T11:35:26.432Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 61,
+      "label": "Downsize five items hall closet",
+      "uid": "SPIN:145",
+      "_ts": "2026-06-20T11:35:44.736Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 55,
+      "label": "Next step bathroom shelf org (clear bins)",
+      "uid": "SPIN:139",
+      "_ts": "2026-06-20T11:36:03.351Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 53,
+      "label": "Put adhesive on Robo base",
+      "uid": "SPIN:136",
+      "_ts": "2026-06-20T11:36:08.195Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 24,
+      "label": "Add Wayfair stools to Pinterest",
+      "uid": "SPIN:70",
+      "_ts": "2026-06-20T11:36:47.315Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-20T11:36:22.329Z",
+  "mirroredAt": "2026-06-20T11:36:47.531Z",
   "counts": {
-    "completions": 0,
+    "completions": 9,
     "adds": 0
-  },
-  "processedAt": "2026-06-20T11:36:23.191804+00:00",
-  "lastAutoProcessed": [
-    "SPIN:69",
-    "SPIN:96",
-    "SPIN_WHEEL:164",
-    "SPIN:153",
-    "SPIN:145",
-    "SPIN:139",
-    "TASKS:11179"
-  ]
+  }
 }
