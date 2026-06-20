@@ -612,13 +612,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 139,
-      "row": 55,
-      "label": "Next step bathroom shelf org (clear bins)",
-      "uid": "SPIN:139"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 140,
       "row": 56,
       "label": "Scan living room with planner 5d",
@@ -651,13 +644,6 @@
       "row": 60,
       "label": "Find powder coat color for deck rail color",
       "uid": "SPIN:144"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 145,
-      "row": 61,
-      "label": "Downsize five items hall closet",
-      "uid": "SPIN:145"
     },
     {
       "source": "SPIN_WHEEL",
@@ -700,13 +686,6 @@
       "row": 67,
       "label": "Research preview and Casper exam dates",
       "uid": "SPIN:151"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 153,
-      "row": 69,
-      "label": "Label the Asami IV pots",
-      "uid": "SPIN:153"
     },
     {
       "source": "SPIN_WHEEL",
@@ -900,13 +879,13 @@
       "uid": "TASKS:10380"
     }
   ],
-  "version": 351,
-  "updated": "2026-06-20T11:35:31.074382+00:00",
+  "version": 352,
+  "updated": "2026-06-20T11:36:19.500784+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 76
+    "SPIN_WHEEL": 73
   }
 }
