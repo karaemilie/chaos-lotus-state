@@ -16,20 +16,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11191,
-      "row": 239,
-      "label": "\u2728 Measure Evan \ud83d\udcdd",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11191"
-    },
-    {
-      "source": "TASKS",
       "id": 11671,
       "row": 370,
       "label": "\u2728 Pay Lindsey & Miriam for the week!",
@@ -97,20 +83,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11025"
-    },
-    {
-      "source": "TASKS",
-      "id": 11679,
-      "row": 388,
-      "label": "\ud83c\udf38 Port standalone Pansy app to GitHub sync setup",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": null,
-      "critical": false,
-      "uid": "TASKS:11679"
     },
     {
       "source": "TASKS",
@@ -922,10 +894,36 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10443"
+    },
+    {
+      "source": "TASKS",
+      "id": 11459,
+      "label": "Figure out what else we need for stained glass projects \ud83c\udfa8",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11459"
+    },
+    {
+      "source": "TASKS",
+      "id": 11614,
+      "label": "Mock up custom spice rack shelf design \ud83e\uddc2\ud83d\udcd0 \ud83c\udfaf First step: measure the garage shelf opening",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11614"
     }
   ],
-  "version": 343,
-  "updated": "2026-06-20T10:45:30.140805+00:00",
+  "version": 344,
+  "updated": "2026-06-20T10:45:57.225310+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
