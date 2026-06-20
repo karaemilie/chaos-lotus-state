@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-20T00:47:43.288Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Install cat filter",
+      "_addedAt": "2026-06-20T01:24:52.925Z",
+      "_ts": "2026-06-20T01:24:53.393Z"
+    }
+  ],
+  "mirroredAt": "2026-06-20T01:24:53.715Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
