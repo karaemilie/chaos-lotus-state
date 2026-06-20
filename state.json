@@ -30,20 +30,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11638,
-      "row": 344,
-      "label": "\u2728 Next month plan: keep or change or pause AK Club membership?",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11638"
-    },
-    {
-      "source": "TASKS",
       "id": 11671,
       "row": 370,
       "label": "\u2728 Pay Lindsey & Miriam for the week!",
@@ -905,10 +891,23 @@
       "sid": 161,
       "label": "Call and add Genevieve to club membership for month",
       "uid": "SPIN_WHEEL:161"
+    },
+    {
+      "source": "TASKS",
+      "id": 10249,
+      "label": "Install new drain - Basement Bath \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10249"
     }
   ],
-  "version": 329,
-  "updated": "2026-06-20T04:19:36.994360+00:00",
+  "version": 330,
+  "updated": "2026-06-20T04:20:19.729342+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
