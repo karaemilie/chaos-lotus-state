@@ -843,13 +843,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 157,
-      "sid": 157,
-      "label": "Lymow login",
-      "uid": "SPIN_WHEEL:157"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 158,
       "sid": 158,
       "label": "Install cat filter",
@@ -912,13 +905,13 @@
       "uid": "SPIN_WHEEL:163"
     }
   ],
-  "version": 334,
-  "updated": "2026-06-20T05:57:11.269278+00:00",
+  "version": 335,
+  "updated": "2026-06-20T05:57:54.172243+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 77
+    "SPIN_WHEEL": 76
   }
 }
