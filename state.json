@@ -863,15 +863,29 @@
       "sid": 155,
       "label": "Set up computer",
       "uid": "SPIN_WHEEL:155"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 156,
+      "sid": 156,
+      "label": "Read directions for window cleaner",
+      "uid": "SPIN_WHEEL:156"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 157,
+      "sid": 157,
+      "label": "Lymow login",
+      "uid": "SPIN_WHEEL:157"
     }
   ],
-  "version": 325,
-  "updated": "2026-06-20T00:46:57.109574+00:00",
+  "version": 326,
+  "updated": "2026-06-20T00:47:44.546849+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 70
+    "SPIN_WHEEL": 72
   }
 }
