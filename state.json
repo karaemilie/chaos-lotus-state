@@ -605,13 +605,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 112,
-      "row": 47,
-      "label": "Order more shirts for B",
-      "uid": "SPIN:112"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 123,
       "row": 48,
       "label": "Research John Deere spreader",
@@ -929,13 +922,13 @@
       "uid": "SPIN_WHEEL:171"
     }
   ],
-  "version": 347,
-  "updated": "2026-06-20T11:20:54.290661+00:00",
+  "version": 348,
+  "updated": "2026-06-20T11:30:24.515666+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 80
+    "SPIN_WHEEL": 79
   }
 }
