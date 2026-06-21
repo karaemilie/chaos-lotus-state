@@ -708,13 +708,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 166,
-      "sid": 166,
-      "label": "Set up discord",
-      "uid": "SPIN_WHEEL:166"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 167,
       "sid": 167,
       "label": "Set up simpleNote",
@@ -906,13 +899,13 @@
       "uid": "SPIN_WHEEL:183"
     }
   ],
-  "version": 372,
-  "updated": "2026-06-21T03:46:25.184533+00:00",
+  "version": 373,
+  "updated": "2026-06-21T04:09:01.350021+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 77
+    "SPIN_WHEEL": 76
   }
 }
