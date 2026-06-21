@@ -266,16 +266,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 80,
-      "floor": "Plant",
-      "row": 81,
-      "label": "\ud83c\udf31 Hallway",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Hallway",
-      "uid": "ZONES:80"
-    },
-    {
-      "source": "ZONES",
       "zid": 83,
       "floor": "Personal",
       "row": 84,
@@ -464,13 +454,6 @@
       "row": 22,
       "label": "Run mom purse through ozone",
       "uid": "SPIN:79"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 81,
-      "row": 23,
-      "label": "Make list of free med schools",
-      "uid": "SPIN:81"
     },
     {
       "source": "SPIN_WHEEL",
@@ -839,15 +822,24 @@
       "sid": 190,
       "label": "More garage sanding",
       "uid": "SPIN_WHEEL:190"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 402,
-  "updated": "2026-06-21T08:08:31.645947+00:00",
+  "version": 403,
+  "updated": "2026-06-21T08:09:13.109184+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 67
+    "SPIN_WHEEL": 66
   }
 }
