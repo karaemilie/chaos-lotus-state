@@ -653,13 +653,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 169,
-      "row": 58,
-      "label": "Set up Xcode",
-      "uid": "SPIN:169"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 170,
       "row": 59,
       "label": "Green subaru",
@@ -757,19 +750,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10443,
-      "label": "Look through photos kids took at photo shoot",
-      "aw": 6,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10443"
-    },
-    {
-      "source": "TASKS",
       "id": 10151,
       "label": "Scrub ceiling of Subaru for dirt \ud83d\udcdd",
       "aw": 7,
@@ -816,15 +796,28 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11421"
+    },
+    {
+      "source": "TASKS",
+      "id": 11459,
+      "label": "Figure out what else we need for stained glass projects \ud83c\udfa8",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11459"
     }
   ],
-  "version": 406,
-  "updated": "2026-06-21T09:19:54.982049+00:00",
+  "version": 407,
+  "updated": "2026-06-21T09:20:25.240612+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 64
+    "SPIN_WHEEL": 63
   }
 }
