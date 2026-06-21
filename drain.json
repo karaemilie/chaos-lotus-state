@@ -20,12 +20,19 @@
       "label": "Next clear bathroom bin",
       "uid": "SPIN_WHEEL:160",
       "_ts": "2026-06-21T04:14:55.927Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 184,
+      "label": "Set",
+      "uid": "SPIN_WHEEL:184",
+      "_ts": "2026-06-21T04:15:00.773Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-21T04:14:56.136Z",
+  "mirroredAt": "2026-06-21T04:15:00.995Z",
   "counts": {
-    "completions": 3,
+    "completions": 4,
     "adds": 0
   }
 }
