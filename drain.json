@@ -8,12 +8,26 @@
       "label": "🌱 Hallway",
       "uid": "ZONES:80",
       "_ts": "2026-06-21T08:08:23.896Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 23,
+      "label": "Make list of free med schools",
+      "uid": "SPIN:81",
+      "_ts": "2026-06-21T08:08:40.084Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-06-21T08:08:32.510Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Clean family room windows!",
+      "_addedAt": "2026-06-21T08:08:13.365Z",
+      "_ts": "2026-06-21T08:08:13.532Z"
+    }
+  ],
+  "mirroredAt": "2026-06-21T08:08:40.307Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
