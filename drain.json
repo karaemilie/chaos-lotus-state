@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 31,
+      "label": "Fully test all tap formats on all types in lotus",
+      "uid": "SPIN:99",
+      "_ts": "2026-06-21T09:19:18.786Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-21T08:12:47.092Z",
+  "mirroredAt": "2026-06-21T09:19:18.998Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-21T08:12:47.788293+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11715"
-  ]
+  }
 }
