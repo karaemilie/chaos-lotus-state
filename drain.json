@@ -2,16 +2,30 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
+      "row": 5,
+      "label": "Ask Bailey about yarn",
+      "uid": "SPIN:27",
+      "_ts": "2026-06-21T08:06:10.959Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 7,
       "label": "New sand paper",
       "uid": "SPIN:32",
       "_ts": "2026-06-21T08:06:19.167Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-06-21T08:06:23.455Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "More garage sanding",
+      "_addedAt": "2026-06-21T08:06:32.734Z",
+      "_ts": "2026-06-21T08:06:32.897Z"
+    }
+  ],
+  "mirroredAt": "2026-06-21T08:06:33.125Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
