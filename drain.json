@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 45,
+      "label": "Social media pings plan",
+      "uid": "SPIN:109",
+      "_ts": "2026-06-21T01:57:40.748Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-21T01:56:33.015Z",
+  "mirroredAt": "2026-06-21T01:57:40.967Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-21T01:56:33.858098+00:00",
-  "lastAutoProcessed": [
-    "SPIN:85"
-  ]
+  }
 }
