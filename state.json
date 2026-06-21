@@ -528,13 +528,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 109,
-      "row": 45,
-      "label": "Social media pings plan",
-      "uid": "SPIN:109"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 110,
       "row": 46,
       "label": "Library audio book",
@@ -871,13 +864,13 @@
       "uid": "MAINTENANCE:79"
     }
   ],
-  "version": 366,
-  "updated": "2026-06-21T01:56:31.924684+00:00",
+  "version": 367,
+  "updated": "2026-06-21T01:57:51.595560+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 72
+    "SPIN_WHEEL": 71
   }
 }
