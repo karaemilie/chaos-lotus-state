@@ -694,14 +694,6 @@
       "uid": "SPIN_WHEEL:162"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 78,
-      "label": "\ud83c\udfe0 Scrub kids shower",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Scrub kids shower",
-      "uid": "MAINTENANCE:78"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 163,
       "sid": 163,
@@ -876,10 +868,18 @@
       "sid": 177,
       "label": "Research affordable med schools",
       "uid": "SPIN_WHEEL:177"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 79,
+      "label": "\ud83c\udfe0 Clean bathroom mirrors",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Clean bathroom mirrors",
+      "uid": "MAINTENANCE:79"
     }
   ],
-  "version": 364,
-  "updated": "2026-06-21T01:39:17.328027+00:00",
+  "version": 365,
+  "updated": "2026-06-21T01:50:59.343968+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
