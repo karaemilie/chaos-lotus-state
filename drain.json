@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-21T01:57:52.513Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Write Karen about Genevieve’s 529",
+      "_addedAt": "2026-06-21T02:02:32.485Z",
+      "_ts": "2026-06-21T02:02:33.231Z"
+    }
+  ],
+  "mirroredAt": "2026-06-21T02:02:33.588Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-21T01:57:53.198014+00:00",
-  "lastAutoProcessed": [
-    "SPIN:109"
-  ]
+    "adds": 1
+  }
 }
