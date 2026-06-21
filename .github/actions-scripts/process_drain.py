@@ -312,12 +312,45 @@ def process_maintenance_completion(wb, comp, stamp):
     return True, f"  ✅ MAINTENANCE '{actual_task}' (MID {mid}) stamped {stamp.date()}"
 
 
-def process_spin_wheel_completions(wb, comps):
-    """Delete SPIN WHEEL sheet rows for completed wheel items.
+def _log_spin_to_completed(wb, label, sid, stamp):
+    """Append a finished spin task to the COMPLETED sheet so it shows up in
+    'what did I do today'. Spin rows are minimal (Task/Source/TaskRow/SID), so
+    we fill only the columns we have, by HEADER NAME (never positional):
+      • ID            → f"SPIN-{sid}"  (namespaced: cannot collide with the
+                        integer TASKS/COMPLETED ID space, so the ID audit stays clean)
+      • Task          → the spin label
+      • Category      → "Spin"   (so day-reports can group/identify spin wins)
+      • Completed Date → Alaska stamp
+      • Notes         → provenance breadcrumb
+    Returns a log line, or None if COMPLETED sheet is absent.
+    """
+    if "COMPLETED" not in wb.sheetnames:
+        return None
+    wsc = wb["COMPLETED"]
+    Hc = {c.value: i + 1 for i, c in enumerate(wsc[1])}
+    nr = wsc.max_row + 1
+
+    def put(col, val):
+        if col in Hc:
+            wsc.cell(nr, Hc[col]).value = val
+
+    put("ID", f"SPIN-{sid}")
+    put("Task", label)
+    put("Category", "Spin")
+    put("Completed Date", stamp)
+    put("Notes", "✅ Completed via spin wheel")
+    return f"  📝 logged to COMPLETED: '{label}' (SPIN-{sid})"
+
+
+def process_spin_wheel_completions(wb, comps, stamp=None):
+    """Log each completed spin task to COMPLETED, then delete its SPIN WHEEL row.
 
     uid format: SPIN_WHEEL:{row}. Deletes shift everything below up by one,
     so we MUST delete in descending row order or later deletes hit the wrong
     rows. Returns (processed_uids, messages).
+
+    stamp: Alaska completion date (datetime). If None, completions are still
+    deleted but NOT logged (caller should always pass it).
     """
     if "SPIN WHEEL" not in wb.sheetnames:
         return [], ["  ❌ SPIN WHEEL sheet not found — skipping all spin completions"]
@@ -369,6 +402,12 @@ def process_spin_wheel_completions(wb, comps):
 
     for row, sid, uid, label in sorted(resolved, key=lambda x: x[0], reverse=True):
         actual = ws.cell(row, task_col).value
+        # 1. log to COMPLETED first (so a delete failure can't lose the win)
+        if stamp is not None:
+            logline = _log_spin_to_completed(wb, actual or label, sid, stamp)
+            if logline:
+                msgs.append(logline)
+        # 2. then delete the SPIN WHEEL row
         ws.delete_rows(row, 1)
         msgs.append(f"  ✅ SPIN deleted SID {sid} ('{actual or label}')")
         processed.append(uid)
@@ -850,7 +889,7 @@ def main():
     # 4c. Process SPIN_WHEEL completions (ID-based SID delete)
     if auto_spin and wb:
         print(f"\n🎡 Processing {len(auto_spin)} SPIN_WHEEL completions:")
-        spin_uids, spin_msgs = process_spin_wheel_completions(wb, auto_spin)
+        spin_uids, spin_msgs = process_spin_wheel_completions(wb, auto_spin, stamp=stamp)
         for m in spin_msgs:
             print(m)
         processed_uids.extend(spin_uids)
