@@ -451,13 +451,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 85,
-      "row": 31,
-      "label": "Summarize current & projected debt",
-      "uid": "SPIN:85"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 87,
       "row": 32,
       "label": "Sign B up for new MCAT date",
@@ -878,13 +871,13 @@
       "uid": "MAINTENANCE:79"
     }
   ],
-  "version": 365,
-  "updated": "2026-06-21T01:50:59.343968+00:00",
+  "version": 366,
+  "updated": "2026-06-21T01:56:31.924684+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 73
+    "SPIN_WHEEL": 72
   }
 }
