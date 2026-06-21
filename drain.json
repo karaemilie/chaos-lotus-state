@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 57,
+      "label": "Airport parking",
+      "uid": "SPIN:142",
+      "_ts": "2026-06-21T04:50:27.869Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-21T04:31:55.526Z",
+  "mirroredAt": "2026-06-21T04:50:28.214Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-21T04:31:56.140884+00:00",
-  "lastAutoProcessed": [
-    "SPIN:92"
-  ]
+  }
 }
