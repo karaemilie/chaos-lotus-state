@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 5,
+      "label": "Ask Bailey about yarn",
+      "uid": "SPIN:27",
+      "_ts": "2026-06-21T08:06:10.959Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-21T08:03:41.286Z",
+  "mirroredAt": "2026-06-21T08:06:11.165Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-21T08:03:42.183907+00:00",
-  "lastAutoProcessed": [
-    "SPIN:130"
-  ]
+  }
 }
