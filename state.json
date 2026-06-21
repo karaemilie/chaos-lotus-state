@@ -654,13 +654,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 156,
-      "sid": 156,
-      "label": "Read directions for window cleaner",
-      "uid": "SPIN_WHEEL:156"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 158,
       "sid": 158,
       "label": "Install cat filter",
@@ -871,13 +864,13 @@
       "uid": "SPIN_WHEEL:175"
     }
   ],
-  "version": 361,
-  "updated": "2026-06-21T01:06:06.434592+00:00",
+  "version": 362,
+  "updated": "2026-06-21T01:17:47.809377+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 72
+    "SPIN_WHEEL": 71
   }
 }
