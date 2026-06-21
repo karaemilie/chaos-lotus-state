@@ -2,20 +2,6 @@
   "tasks": [
     {
       "source": "TASKS",
-      "id": 11671,
-      "row": 366,
-      "label": "\u2728 Pay Lindsey & Miriam for the week!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11671"
-    },
-    {
-      "source": "TASKS",
       "id": 11715,
       "row": 426,
       "label": "\u2728 Listen to part of a podcast \ud83c\udfa7",
@@ -856,10 +842,23 @@
       "sid": 188,
       "label": "Research EcoVac cleaning solution",
       "uid": "SPIN_WHEEL:188"
+    },
+    {
+      "source": "TASKS",
+      "id": 10384,
+      "label": "Take my cords and Genevieve's cords to the tailor",
+      "aw": 6,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10384"
     }
   ],
-  "version": 392,
-  "updated": "2026-06-21T07:03:49.413924+00:00",
+  "version": 393,
+  "updated": "2026-06-21T07:20:30.938486+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
