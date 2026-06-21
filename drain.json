@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 156,
+      "label": "Read directions for window cleaner",
+      "uid": "SPIN_WHEEL:156",
+      "_ts": "2026-06-21T01:17:34.424Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-21T01:06:05.609Z",
+  "mirroredAt": "2026-06-21T01:17:34.671Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
