@@ -114,20 +114,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10251,
-      "row": 98,
-      "label": "Find a profile of WWAMI candidates grade ranges \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": "Bentley Support",
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10251"
-    },
-    {
-      "source": "TASKS",
       "id": 10255,
       "row": 99,
       "label": "Find Matt cheaper car insurance \ud83d\udcdd",
@@ -854,10 +840,23 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10443"
+    },
+    {
+      "source": "TASKS",
+      "id": 10151,
+      "label": "Scrub ceiling of Subaru for dirt \ud83d\udcdd",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10151"
     }
   ],
-  "version": 394,
-  "updated": "2026-06-21T07:41:34.266300+00:00",
+  "version": 395,
+  "updated": "2026-06-21T07:42:16.315931+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
