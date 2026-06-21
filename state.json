@@ -635,13 +635,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 150,
-      "row": 48,
-      "label": "Genevieve ticket back to AZ",
-      "uid": "SPIN:150"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 151,
       "row": 49,
       "label": "Research preview and Casper exam dates",
@@ -848,13 +841,13 @@
       "uid": "SPIN_WHEEL:190"
     }
   ],
-  "version": 400,
-  "updated": "2026-06-21T08:07:10.999385+00:00",
+  "version": 401,
+  "updated": "2026-06-21T08:07:52.854746+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 68
+    "SPIN_WHEEL": 67
   }
 }
