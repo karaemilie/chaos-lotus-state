@@ -1,16 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11450,
+      "row": 378,
+      "label": "Research TCU Med School cost",
+      "uid": "TASKS:11450",
+      "_ts": "2026-06-21T19:18:54.455Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-21T09:20:27.803Z",
+  "mirroredAt": "2026-06-21T19:18:54.685Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-21T09:20:28.572485+00:00",
-  "lastAutoProcessed": [
-    "SPIN:99",
-    "SPIN:168",
-    "SPIN:169",
-    "TASKS:10443"
-  ]
+  }
 }
