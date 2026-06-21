@@ -134,25 +134,33 @@ def save_beast(beast_bytes, sha, commit_msg):
     return result
 
 
-def save_beast_with_retry(apply_fn, commit_msg, max_attempts=5):
-    """Save the Beast with SHA-409 retry — the Beast analogue of the existing
-    state.json retry. PREVIOUSLY a concurrent run could bump the Beast's sha
-    between our load and our save; save_beast then hit HTTP 409 and RAISED,
-    crashing the run AFTER the drain had moved on — so a completion got cleared
-    from the queue WITHOUT its stamp ever landing (the 'tapped a zone in a busy
-    batch, it stayed on the wheel / never stamped' drop). The self-healing
-    'next run reprocesses' promise only holds if the item stays in the drain;
-    a hard crash here broke that chain.
+class BeastDeferred(Exception):
+    """Raised when save_beast_with_retry exhausts its 409 budget under heavy
+    concurrent load. This is NOT a real error: because the worker only clears
+    drain.json AFTER successful processing, an exhausted run leaves its items
+    IN the drain, so the next run reprocesses them (self-heal). main() catches
+    this and exits 0 so it does NOT send a false-alarm 'All jobs failed' email
+    for a condition that self-corrects. Genuine errors (auth, corruption,
+    non-409) still raise RuntimeError and exit 1 — those need a human."""
+    pass
 
-    Fix: on 409, RELOAD the Beast fresh (new bytes + new sha), RE-APPLY all of
-    this run's mutations on top via apply_fn (every processor keys by ID/ZID/
-    SID/MID — never by row — so re-applying onto a changed Beast is safe and
-    idempotent), then retry. apply_fn(wb, stamp) must perform all stamps/edits
-    and return the (already-saved-to-bytes is done here) — it just mutates wb.
+
+def save_beast_with_retry(apply_fn, commit_msg, max_attempts=8):
+    """Save the Beast with SHA-409 retry — the Beast analogue of the existing
+    state.json retry. On 409, RELOAD the Beast fresh (new bytes + new sha),
+    RE-APPLY all of this run's mutations via apply_fn (every processor keys by
+    ID/ZID/SID/MID — never by row — so re-applying is idempotent), then retry.
+
+    Under a heavy completion flood many runs fire concurrently and race for the
+    Beast sha. If we exhaust the (now 8) attempts we raise BeastDeferred (NOT
+    RuntimeError): the items stay queued in drain.json and the next run sweeps
+    them, so no data is lost and no scary failure email fires. Jittered backoff
+    spreads retries so concurrent runs don't keep colliding in lockstep.
 
     apply_fn signature: apply_fn(wb, stamp) -> None  (mutates wb in place)
     Returns (github commit result dict, final wb) on success.
     """
+    import random
     attempt = 0
     while True:
         attempt += 1
@@ -173,10 +181,19 @@ def save_beast_with_retry(apply_fn, commit_msg, max_attempts=5):
                 print(f"   ✅ Beast saved on attempt {attempt} (after 409 retry)")
             return result, wb
         if status == 409 and attempt < max_attempts:
-            print(f"   ⚠️  Beast 409 conflict — reloading + re-applying ({attempt}/{max_attempts})")
-            time.sleep(0.5 * attempt)  # small backoff
+            # jittered backoff: base grows with attempt, plus random spread so
+            # concurrent runs stop colliding in lockstep.
+            delay = 0.4 * attempt + random.uniform(0, 0.6)
+            print(f"   ⚠️  Beast 409 conflict — reloading + re-applying ({attempt}/{max_attempts}, wait {delay:.1f}s)")
+            time.sleep(delay)
             continue
-        # out of retries or a non-409 error
+        if status == 409:
+            # Exhausted the budget under flood — defer, do NOT crash. Items stay
+            # in drain (worker only clears after success) → next run reprocesses.
+            print(f"   ⏸️  Beast still 409 after {attempt} attempts — DEFERRING this run's "
+                  f"completions to the next run (items remain in drain, self-heal). No data lost.")
+            raise BeastDeferred(f"409 after {attempt} attempts")
+        # a non-409 error is a REAL problem self-heal won't fix → crash loud.
         raise RuntimeError(f"save_beast_with_retry failed: HTTP {status} after {attempt} attempt(s) — {result}")
 
 
@@ -1085,4 +1102,11 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except BeastDeferred as e:
+        # Expected under heavy concurrent load — items stay in drain, next run
+        # reprocesses them. Exit 0 so GitHub does NOT email "All jobs failed"
+        # for a self-correcting condition.
+        print(f"\n⏸️  Run deferred (no data lost, will self-heal next run): {e}")
+        sys.exit(0)
