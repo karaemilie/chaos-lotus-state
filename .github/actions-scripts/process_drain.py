@@ -784,8 +784,24 @@ def main():
     # 2. Partition by auto-handleable vs manual
     auto_zones = [c for c in completions if c.get("source") == "ZONES"]
     auto_maintenance = [c for c in completions if c.get("source") == "MAINTENANCE"]
-    auto_spin = [c for c in completions if c.get("source") == "SPIN_WHEEL"]
-    other_completions = [c for c in completions if c.get("source") not in AUTO_SOURCES]
+
+    # A spin completion is anything whose SOURCE is SPIN_WHEEL *or* whose UID is a
+    # spin uid (SPIN:{sid} / SPIN_WHEEL:{sid}). Routing on uid-prefix as a fallback
+    # closes the PLUS_ADD stranding bug: a +added petal that reached the wheel
+    # carrying its sheet provenance ("PLUS_ADD") as source would otherwise fail the
+    # source=="SPIN_WHEEL" gate, fall into other_completions, never delete its row,
+    # and resurface forever on every refill (the "condition leather" loop).
+    def _is_spin(c):
+        if c.get("source") == "SPIN_WHEEL":
+            return True
+        uid = c.get("uid", "") or ""
+        return uid.startswith("SPIN:") or uid.startswith("SPIN_WHEEL:")
+
+    auto_spin = [c for c in completions if _is_spin(c)]
+    # Everything that is neither an auto source NOR a spin-uid completion is left
+    # for Claude. (Spin items are excluded even when their source tag is wrong.)
+    other_completions = [c for c in completions
+                         if c.get("source") not in AUTO_SOURCES and not _is_spin(c)]
 
     print(f"🔧 Auto-processable: {len(auto_zones)} ZONES, {len(auto_maintenance)} MAINTENANCE, {len(auto_spin)} SPIN_WHEEL, {len(adds)} ADDS→SPIN")
     print(f"⏸️  Leaving for Claude: {len(other_completions)} other completions")
