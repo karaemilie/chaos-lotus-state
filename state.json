@@ -670,13 +670,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 142,
-      "row": 45,
-      "label": "Airport parking",
-      "uid": "SPIN:142"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 143,
       "row": 46,
       "label": "Next step iron curtain rod hunt down",
@@ -865,13 +858,13 @@
       "uid": "SPIN:185"
     }
   ],
-  "version": 380,
-  "updated": "2026-06-21T04:31:54.593630+00:00",
+  "version": 381,
+  "updated": "2026-06-21T04:50:40.708417+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 70
+    "SPIN_WHEEL": 69
   }
 }
