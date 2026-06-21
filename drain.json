@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 31,
+      "label": "Fully test all tap formats on all types in lotus",
+      "uid": "SPIN:99",
+      "_ts": "2026-06-21T09:19:18.786Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 57,
+      "label": "Set up Claude",
+      "uid": "SPIN:168",
+      "_ts": "2026-06-21T09:19:42.927Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-21T09:19:32.858Z",
+  "mirroredAt": "2026-06-21T09:19:43.143Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-06-21T09:19:33.510297+00:00",
-  "lastAutoProcessed": [
-    "SPIN:99"
-  ]
+  }
 }
