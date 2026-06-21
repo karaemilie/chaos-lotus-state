@@ -362,13 +362,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 32,
-      "row": 7,
-      "label": "New sand paper",
-      "uid": "SPIN:32"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 33,
       "row": 8,
       "label": "Submit for AL refund again",
@@ -848,13 +841,13 @@
       "uid": "SPIN_WHEEL:189"
     }
   ],
-  "version": 398,
-  "updated": "2026-06-21T08:06:22.394988+00:00",
+  "version": 399,
+  "updated": "2026-06-21T08:07:08.577299+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 68
+    "SPIN_WHEEL": 67
   }
 }
