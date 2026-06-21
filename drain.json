@@ -2,6 +2,14 @@
   "completions": [
     {
       "source": "TASKS",
+      "id": 11544,
+      "row": 310,
+      "label": "Pin up living room curtains 🎯 First step: grab pins + step stool",
+      "uid": "TASKS:11544",
+      "_ts": "2026-06-21T07:41:20.278Z"
+    },
+    {
+      "source": "TASKS",
       "id": 10251,
       "row": 98,
       "label": "Find a profile of WWAMI candidates grade ranges 📝",
@@ -9,10 +17,17 @@
       "_ts": "2026-06-21T07:41:20.442Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-06-21T07:41:36.258Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pin living room curtains to right length",
+      "_addedAt": "2026-06-21T07:41:55.541Z",
+      "_ts": "2026-06-21T07:41:55.645Z"
+    }
+  ],
+  "mirroredAt": "2026-06-21T07:41:55.874Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
