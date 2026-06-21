@@ -890,15 +890,29 @@
       "sid": 183,
       "label": "Label bathroom bins",
       "uid": "SPIN_WHEEL:183"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 184,
+      "sid": 184,
+      "label": "Set",
+      "uid": "SPIN_WHEEL:184"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 185,
+      "sid": 185,
+      "label": "Set up ultravine extension",
+      "uid": "SPIN_WHEEL:185"
     }
   ],
-  "version": 374,
-  "updated": "2026-06-21T04:09:51.639762+00:00",
+  "version": 375,
+  "updated": "2026-06-21T04:09:54.001330+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 75
+    "SPIN_WHEEL": 77
   }
 }
