@@ -58,20 +58,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11450,
-      "row": 378,
-      "label": "Research TCU Med School cost",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": "Bentley Pre-Med",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11450"
-    },
-    {
-      "source": "TASKS",
       "id": 10109,
       "row": 32,
       "label": "Schedule final Bank of America card payoff \ud83d\udcdd",
@@ -809,10 +795,23 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:11459"
+    },
+    {
+      "source": "TASKS",
+      "id": 10004,
+      "label": "Watch one faceless affiliate marketing YouTube video, jot 3 takeaways",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": "Faceless Affiliate Marketing",
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:10004"
     }
   ],
-  "version": 407,
-  "updated": "2026-06-21T09:20:25.240612+00:00",
+  "version": 408,
+  "updated": "2026-06-21T19:19:06.187212+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
