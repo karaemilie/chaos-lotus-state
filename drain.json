@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-21T19:19:08.309Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Load Claude Code",
+      "_addedAt": "2026-06-21T23:13:27.530Z",
+      "_ts": "2026-06-21T23:13:27.709Z"
+    }
+  ],
+  "mirroredAt": "2026-06-21T23:13:27.945Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-21T19:19:09.097513+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11450"
-  ]
+    "adds": 1
+  }
 }
