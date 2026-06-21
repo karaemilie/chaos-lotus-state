@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11544,
+      "row": 310,
+      "label": "Pin up living room curtains 🎯 First step: grab pins + step stool",
+      "uid": "TASKS:11544",
+      "_ts": "2026-06-21T07:41:20.278Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-21T07:20:32.951Z",
+  "mirroredAt": "2026-06-21T07:41:20.420Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-21T07:20:33.626231+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11671"
-  ]
+  }
 }
