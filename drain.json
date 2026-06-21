@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 31,
+      "label": "Summarize current & projected debt",
+      "uid": "SPIN:85",
+      "_ts": "2026-06-21T01:56:17.865Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-21T01:51:00.270Z",
+  "mirroredAt": "2026-06-21T01:56:18.189Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-21T01:51:00.956767+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:78"
-  ]
+  }
 }
