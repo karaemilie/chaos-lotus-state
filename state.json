@@ -642,13 +642,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 130,
-      "row": 46,
-      "label": "Pack up weed barrier, load up",
-      "uid": "SPIN:130"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 141,
       "row": 47,
       "label": "Check for Puma sale",
@@ -862,13 +855,13 @@
       "uid": "SPIN_WHEEL:189"
     }
   ],
-  "version": 396,
-  "updated": "2026-06-21T07:42:19.216190+00:00",
+  "version": 397,
+  "updated": "2026-06-21T08:03:40.134781+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 70
+    "SPIN_WHEEL": 69
   }
 }
