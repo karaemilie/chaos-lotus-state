@@ -647,13 +647,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 160,
-      "sid": 160,
-      "label": "Next clear bathroom bin",
-      "uid": "SPIN_WHEEL:160"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 161,
       "sid": 161,
       "label": "Call and add Genevieve to club membership for month",
@@ -829,13 +822,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 175,
-      "sid": 175,
-      "label": "Five reviews",
-      "uid": "SPIN_WHEEL:175"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 176,
       "sid": 176,
       "label": "Try window cleaner!!!",
@@ -865,13 +851,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 179,
-      "sid": 179,
-      "label": "Spray leather sandals",
-      "uid": "SPIN_WHEEL:179"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 180,
       "sid": 180,
       "label": "Garage shelf orb",
@@ -886,26 +865,19 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 184,
-      "sid": 184,
-      "label": "Set",
-      "uid": "SPIN_WHEEL:184"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 185,
       "sid": 185,
       "label": "Set up ultravine extension",
       "uid": "SPIN_WHEEL:185"
     }
   ],
-  "version": 376,
-  "updated": "2026-06-21T04:14:55.483444+00:00",
+  "version": 377,
+  "updated": "2026-06-21T04:15:42.970739+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 76
+    "SPIN_WHEEL": 72
   }
 }
