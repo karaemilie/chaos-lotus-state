@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-21T03:30:50.843Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Label bathroi",
+      "_addedAt": "2026-06-21T03:45:30.556Z",
+      "_ts": "2026-06-21T03:45:30.933Z"
+    }
+  ],
+  "mirroredAt": "2026-06-21T03:45:31.316Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
