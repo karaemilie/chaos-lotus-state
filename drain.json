@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-21T06:49:48.958Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set up ultravine on Junebug",
+      "_addedAt": "2026-06-21T06:49:32.859Z",
+      "_ts": "2026-06-21T06:49:33.096Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Buy more pads for eco vac",
+      "_addedAt": "2026-06-21T06:50:09.255Z",
+      "_ts": "2026-06-21T06:50:09.474Z"
+    }
+  ],
+  "mirroredAt": "2026-06-21T06:50:09.697Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
