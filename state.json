@@ -886,26 +886,19 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 182,
-      "sid": 182,
-      "label": "Label bathroi",
-      "uid": "SPIN_WHEEL:182"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 183,
       "sid": 183,
       "label": "Label bathroom bins",
       "uid": "SPIN_WHEEL:183"
     }
   ],
-  "version": 373,
-  "updated": "2026-06-21T04:09:01.350021+00:00",
+  "version": 374,
+  "updated": "2026-06-21T04:09:51.639762+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 76
+    "SPIN_WHEEL": 75
   }
 }
