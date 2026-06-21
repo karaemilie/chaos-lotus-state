@@ -853,15 +853,22 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10151"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 189,
+      "sid": 189,
+      "label": "Pin living room curtains to right length",
+      "uid": "SPIN_WHEEL:189"
     }
   ],
-  "version": 395,
-  "updated": "2026-06-21T07:42:16.315931+00:00",
+  "version": 396,
+  "updated": "2026-06-21T07:42:19.216190+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 69
+    "SPIN_WHEEL": 70
   }
 }
