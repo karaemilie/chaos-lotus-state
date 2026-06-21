@@ -355,13 +355,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 27,
-      "row": 5,
-      "label": "Ask Bailey about yarn",
-      "uid": "SPIN:27"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 28,
       "row": 6,
       "label": "Price saw stop at Alaska hardware",
@@ -855,13 +848,13 @@
       "uid": "SPIN_WHEEL:189"
     }
   ],
-  "version": 397,
-  "updated": "2026-06-21T08:03:40.134781+00:00",
+  "version": 398,
+  "updated": "2026-06-21T08:06:22.394988+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 69
+    "SPIN_WHEEL": 68
   }
 }
