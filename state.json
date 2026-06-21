@@ -2,20 +2,6 @@
   "tasks": [
     {
       "source": "TASKS",
-      "id": 11715,
-      "row": 426,
-      "label": "\u2728 Listen to part of a podcast \ud83c\udfa7",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 30,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11715"
-    },
-    {
-      "source": "TASKS",
       "id": 11064,
       "row": 420,
       "label": "Unpack the Festool Domino \ud83d\udd28\ud83d\udce6",
@@ -831,10 +817,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Bedroom",
       "uid": "ZONES:73"
+    },
+    {
+      "source": "TASKS",
+      "id": 11421,
+      "label": "Finish fixing sand table",
+      "aw": 5,
+      "pri": null,
+      "dur": 30,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11421"
     }
   ],
-  "version": 403,
-  "updated": "2026-06-21T08:09:13.109184+00:00",
+  "version": 404,
+  "updated": "2026-06-21T08:12:45.106488+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
