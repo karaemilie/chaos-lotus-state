@@ -328,6 +328,25 @@ def _log_spin_to_completed(wb, label, sid, stamp):
         return None
     wsc = wb["COMPLETED"]
     Hc = {c.value: i + 1 for i, c in enumerate(wsc[1])}
+
+    # DEDUPE GUARD: if this SID is already logged with the SAME completion date,
+    # don't append a second row. Without this, a completion that arrives via two
+    # paths — e.g. a stranded retry-queue item that finally flushes PLUS a manual
+    # re-mark of the same task — logs twice (the SPIN-27 / SPIN-150 double-logs).
+    # Keyed on ID + Completed Date so the same task completed again on a LATER
+    # day still logs (legitimately), but a same-day duplicate is skipped.
+    _id = f"SPIN-{sid}"
+    id_col = Hc.get("ID")
+    date_col = Hc.get("Completed Date")
+    if id_col and date_col:
+        stamp_d = stamp.date() if hasattr(stamp, "date") else stamp
+        for r in range(2, wsc.max_row + 1):
+            if wsc.cell(r, id_col).value == _id:
+                ev = wsc.cell(r, date_col).value
+                ev_d = ev.date() if hasattr(ev, "date") else ev
+                if ev_d == stamp_d:
+                    return f"  ⏭️  SPIN-{sid} already logged {stamp_d} — skipping duplicate"
+
     nr = wsc.max_row + 1
 
     def put(col, val):
