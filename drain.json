@@ -1,11 +1,13 @@
 {
   "completions": [
     {
-      "source": "SPIN_WHEEL",
-      "row": 48,
-      "label": "Genevieve ticket back to AZ",
-      "uid": "SPIN:150",
-      "_ts": "2026-06-21T08:07:22.205Z"
+      "source": "ZONES",
+      "row": 81,
+      "zid": 80,
+      "floor": "Plant",
+      "label": "🌱 Hallway",
+      "uid": "ZONES:80",
+      "_ts": "2026-06-21T08:08:23.896Z"
     }
   ],
   "adds": [
@@ -16,7 +18,7 @@
       "_ts": "2026-06-21T08:08:13.532Z"
     }
   ],
-  "mirroredAt": "2026-06-21T08:08:13.750Z",
+  "mirroredAt": "2026-06-21T08:08:24.111Z",
   "counts": {
     "completions": 1,
     "adds": 1
