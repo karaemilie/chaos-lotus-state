@@ -58,22 +58,8 @@
   },
   {
    "source": "TASKS",
-   "id": 11488,
-   "row": 413,
-   "label": "\u2728 Throw cat fountain in dishwasher \ud83d\udc31\ud83e\udee7",
-   "aw": 7,
-   "pri": "Soon",
-   "dur": 5,
-   "ml": "Easy",
-   "proj": null,
-   "cat": "Home",
-   "critical": false,
-   "uid": "TASKS:11488"
-  },
-  {
-   "source": "TASKS",
    "id": 11715,
-   "row": 427,
+   "row": 426,
    "label": "\u2728 Listen to part of a podcast \ud83c\udfa7",
    "aw": 5,
    "pri": "Soon",
@@ -185,7 +171,7 @@
   {
    "source": "TASKS",
    "id": 11064,
-   "row": 421,
+   "row": 420,
    "label": "Unpack the Festool Domino \ud83d\udd28\ud83d\udce6",
    "aw": 5,
    "pri": "Soon",
@@ -209,6 +195,20 @@
    "cat": "Finance",
    "critical": false,
    "uid": "TASKS:11151"
+  },
+  {
+   "source": "TASKS",
+   "id": 10089,
+   "row": 28,
+   "label": "Apply for Genevieve's credit card \ud83d\udcdd",
+   "aw": 3,
+   "pri": "High",
+   "dur": 15,
+   "ml": "Medium",
+   "proj": "Genevieve Credit Card Setup",
+   "cat": "Family",
+   "critical": false,
+   "uid": "TASKS:10089"
   },
   {
    "source": "COURAGE",
@@ -851,8 +851,8 @@
    "uid": "SPIN:185"
   }
  ],
- "version": 382,
- "updated": "2026-06-21T05:06:03.367144+00:00",
+ "version": 383,
+ "updated": "2026-06-21T05:20:31.160637+00:00",
  "buckets": {
   "TASKS": 17,
   "COURAGE": 3,
