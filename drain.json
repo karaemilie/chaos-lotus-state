@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 3,
+      "sid": 6,
+      "label": "posykin handle **",
+      "uid": "SPIN:6",
+      "_ts": "2026-06-21T06:18:22.599Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-21T04:50:41.811Z",
+  "mirroredAt": "2026-06-21T06:18:22.829Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-21T04:50:42.604730+00:00",
-  "lastAutoProcessed": [
-    "SPIN:142"
-  ]
+  }
 }
