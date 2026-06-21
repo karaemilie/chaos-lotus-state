@@ -395,7 +395,19 @@ def process_spin_wheel_completions(wb, comps, stamp=None):
     for sid, uid, label in targets:
         row = sid_to_row.get(sid)
         if row is None:
-            msgs.append(f"  ⏭️  SID {sid} not found (already gone?) — clearing uid anyway")
+            # SID already absent from the sheet (e.g. an overlapping Action run
+            # deleted the row first, or it shifted out). Previously this branch
+            # cleared the uid as "done" but NEVER logged the win — so a spin
+            # completion that resolved here vanished with no COMPLETED record
+            # (the 'posykin handle' disappearance). We DON'T have the sheet row
+            # anymore, but the drain payload carried the label, so log from that
+            # before clearing. Without this, any racing/already-gone spin loses
+            # its win silently.
+            if stamp is not None and label and label != "?":
+                logline = _log_spin_to_completed(wb, label, sid, stamp)
+                if logline:
+                    msgs.append(logline + " (from payload — row already gone)")
+            msgs.append(f"  ⏭️  SID {sid} not found (already gone?) — logged from payload, clearing uid")
             processed.append(uid)  # already absent = effectively done
             continue
         resolved.append((row, sid, uid, label))
