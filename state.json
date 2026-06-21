@@ -839,15 +839,22 @@
       "sid": 189,
       "label": "Pin living room curtains to right length",
       "uid": "SPIN_WHEEL:189"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 190,
+      "sid": 190,
+      "label": "More garage sanding",
+      "uid": "SPIN_WHEEL:190"
     }
   ],
-  "version": 399,
-  "updated": "2026-06-21T08:07:08.577299+00:00",
+  "version": 400,
+  "updated": "2026-06-21T08:07:10.999385+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 67
+    "SPIN_WHEEL": 68
   }
 }
