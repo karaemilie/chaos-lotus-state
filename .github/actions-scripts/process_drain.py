@@ -943,10 +943,14 @@ def main():
             for _c in auto_maintenance:
                 if _c.get("uid") in processed_uids:
                     process_maintenance_completion(_wb, _c, _stamp)
-            # Re-apply spin deletions (idempotent: SID already gone = no-op)
+            # Re-apply spin deletions AND logging. MUST pass _stamp — without it,
+            # _log_spin_to_completed is gated off and the replayed (= actually
+            # saved) Beast loses the COMPLETED record even though the first in-
+            # memory pass logged it. This was the silent spin-win disappearance
+            # (posykin, ultravine): fixed in the first copy, dropped in the replay.
             _spin_to_apply = [_c for _c in auto_spin if _c.get("uid") in processed_uids]
             if _spin_to_apply:
-                process_spin_wheel_completions(_wb, _spin_to_apply)
+                process_spin_wheel_completions(_wb, _spin_to_apply, stamp=_stamp)
             # Re-apply adds (process_adds dedupes by label, so replaying is safe)
             if adds:
                 process_adds(_wb, adds)
