@@ -808,15 +808,22 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:10004"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 192,
+      "sid": 192,
+      "label": "Load Claude Code",
+      "uid": "SPIN_WHEEL:192"
     }
   ],
-  "version": 408,
-  "updated": "2026-06-21T19:19:06.187212+00:00",
+  "version": 409,
+  "updated": "2026-06-21T23:13:41.156863+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 63
+    "SPIN_WHEEL": 64
   }
 }
