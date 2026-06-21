@@ -492,13 +492,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 99,
-      "row": 31,
-      "label": "Fully test all tap formats on all types in lotus",
-      "uid": "SPIN:99"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 101,
       "row": 32,
       "label": "Plant my currant",
@@ -832,13 +825,13 @@
       "uid": "TASKS:11421"
     }
   ],
-  "version": 404,
-  "updated": "2026-06-21T08:12:45.106488+00:00",
+  "version": 405,
+  "updated": "2026-06-21T09:19:31.801883+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 66
+    "SPIN_WHEEL": 65
   }
 }
