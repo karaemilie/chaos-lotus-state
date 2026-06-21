@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-21T06:55:47.957Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Research EcoVac cleaning solution",
+      "_addedAt": "2026-06-21T07:03:33.563Z",
+      "_ts": "2026-06-21T07:03:33.843Z"
+    }
+  ],
+  "mirroredAt": "2026-06-21T07:03:34.085Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-21T06:55:48.620708+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:188"
-  ]
+    "adds": 1
+  }
 }
