@@ -16,20 +16,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11667,
-      "row": 359,
-      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11667"
-    },
-    {
-      "source": "TASKS",
       "id": 11678,
       "row": 378,
       "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
@@ -827,10 +813,23 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10384"
+    },
+    {
+      "source": "TASKS",
+      "id": 10181,
+      "label": "Brainstorm good community service focuses for ALL kids \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "Community Service",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10181"
     }
   ],
-  "version": 413,
-  "updated": "2026-06-22T03:53:14.683694+00:00",
+  "version": 414,
+  "updated": "2026-06-22T03:53:43.467964+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
