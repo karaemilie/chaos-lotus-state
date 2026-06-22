@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-22T23:43:25.773Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add urgency and overdue tags to chore app",
+      "_addedAt": "2026-06-22T23:54:30.538Z",
+      "_ts": "2026-06-22T23:54:30.702Z"
+    }
+  ],
+  "mirroredAt": "2026-06-22T23:54:30.950Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
