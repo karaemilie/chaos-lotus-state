@@ -44,20 +44,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11720,
-      "row": 425,
-      "label": "\u2728 Watch new content from Sabrina Ramonov \ud83c\udfa5",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11720"
-    },
-    {
-      "source": "TASKS",
       "id": 10018,
       "row": 419,
       "label": "Buy materials for bunk beds",
@@ -828,10 +814,23 @@
       "sid": 193,
       "label": "Sign up for an AI video tool **",
       "uid": "SPIN_WHEEL:193"
+    },
+    {
+      "source": "TASKS",
+      "id": 10384,
+      "label": "Take my cords and Genevieve's cords to the tailor",
+      "aw": 6,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10384"
     }
   ],
-  "version": 412,
-  "updated": "2026-06-22T03:52:44.359635+00:00",
+  "version": 413,
+  "updated": "2026-06-22T03:53:14.683694+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
