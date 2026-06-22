@@ -460,13 +460,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 83,
-      "row": 22,
-      "label": "Track down Etsy refund",
-      "uid": "SPIN:83"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 87,
       "row": 23,
       "label": "Sign B up for new MCAT date",
@@ -826,13 +819,13 @@
       "uid": "TASKS:11527"
     }
   ],
-  "version": 418,
-  "updated": "2026-06-22T05:02:50.388624+00:00",
+  "version": 419,
+  "updated": "2026-06-22T05:07:57.143130+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 65
+    "SPIN_WHEEL": 64
   }
 }
