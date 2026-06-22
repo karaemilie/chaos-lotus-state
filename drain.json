@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 55,
+      "label": "Try window cleaner!!!",
+      "uid": "SPIN:176",
+      "_ts": "2026-06-22T03:52:32.420Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11720,
+      "row": 425,
+      "label": "✨ Watch new content from Sabrina Ramonov 🎥",
+      "uid": "TASKS:11720",
+      "_ts": "2026-06-22T03:53:00.936Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-22T03:52:45.386Z",
+  "mirroredAt": "2026-06-22T03:53:01.160Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-06-22T03:52:46.139419+00:00",
-  "lastAutoProcessed": [
-    "SPIN:176"
-  ]
+  }
 }
