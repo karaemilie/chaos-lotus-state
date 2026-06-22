@@ -827,15 +827,22 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:11459"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 198,
+      "sid": 198,
+      "label": "Linc tray 5 plan",
+      "uid": "SPIN_WHEEL:198"
     }
   ],
-  "version": 426,
-  "updated": "2026-06-22T20:37:44.738041+00:00",
+  "version": 427,
+  "updated": "2026-06-22T20:37:47.994780+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 65
+    "SPIN_WHEEL": 66
   }
 }
