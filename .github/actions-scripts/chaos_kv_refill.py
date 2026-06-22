@@ -379,8 +379,22 @@ def refill_daily_ten(wb, on_wheel_uids, today, wheel_task_count=None):
             if DAILY_AW_RANGE[0] <= t["aw"] <= DAILY_AW_RANGE[1]
             and f"TASKS:{t['id']}" not in on_wheel_uids]
     if pool:
-        rng = random.Random(today.toordinal() + len(on_wheel_uids))
-        t = rng.choice(pool)
+        # RECURRING-FIRST: due-today recurring tasks (rhythm tasks) must surface
+        # before random one-time tasks — mirrors the full reseed's _build_daily_ten
+        # ("picks = list(recurring)"). Previously this refill picked PURELY at
+        # random, so a due Monday/weekly recurring task could sit un-surfaced
+        # while a one-time task rotated in instead (the "it pulled stained glass
+        # instead of my Monday task" bug). Pick the most-overdue recurring first
+        # (oldest start = longest waiting), then fall back to daily-stable random
+        # among one-time tasks.
+        recurring_due = [t for t in pool if _is_recurring(t)]
+        if recurring_due:
+            # oldest start first (longest overdue rhythm task), AW as tiebreak
+            recurring_due.sort(key=lambda t: (t.get("start") or today, -t["aw"]))
+            t = recurring_due[0]
+        else:
+            rng = random.Random(today.toordinal() + len(on_wheel_uids))
+            t = rng.choice(pool)
     else:
         # DRY FALLBACK: reach into future-dated tasks, soonest+highest-priority
         future = _future_tasks_in_band(wb, today, *DAILY_AW_RANGE, on_wheel_uids, "TASKS")
