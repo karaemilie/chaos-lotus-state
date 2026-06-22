@@ -605,13 +605,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 161,
-      "row": 43,
-      "label": "Call and add Genevieve to club membership for month",
-      "uid": "SPIN:161"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 162,
       "row": 44,
       "label": "Clean little table on porch **",
@@ -800,13 +793,13 @@
       "uid": "ZONES:74"
     }
   ],
-  "version": 433,
-  "updated": "2026-06-22T22:09:53.847327+00:00",
+  "version": 434,
+  "updated": "2026-06-22T22:10:20.476030+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 64
+    "SPIN_WHEEL": 63
   }
 }
