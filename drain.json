@@ -1,15 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-22T03:53:46.571Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Print window cleaner recipe",
+      "_addedAt": "2026-06-22T04:42:21.785Z",
+      "_ts": "2026-06-22T04:42:21.914Z"
+    }
+  ],
+  "mirroredAt": "2026-06-22T04:42:22.140Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-22T03:53:47.541691+00:00",
-  "lastAutoProcessed": [
-    "SPIN:176",
-    "TASKS:11720",
-    "TASKS:11667"
-  ]
+    "adds": 1
+  }
 }
