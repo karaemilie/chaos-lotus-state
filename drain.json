@@ -1,13 +1,35 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 49,
+      "label": "Green subaru",
+      "uid": "SPIN:170",
+      "_ts": "2026-06-22T21:02:29.261Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 61,
+      "zid": 60,
+      "floor": "Digital",
+      "label": "💻 Photos",
+      "uid": "ZONES:60",
+      "_ts": "2026-06-22T21:02:47.821Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 84,
+      "zid": 83,
+      "floor": "Personal",
+      "label": "👱‍♀️ Hand Care & Mani",
+      "uid": "ZONES:83",
+      "_ts": "2026-06-22T21:03:09.662Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-22T21:02:47.821Z",
+  "mirroredAt": "2026-06-22T21:03:09.865Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-06-22T21:02:48.775951+00:00",
-  "lastAutoProcessed": [
-    "SPIN:170"
-  ]
+  }
 }
