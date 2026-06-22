@@ -826,15 +826,22 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10181"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 194,
+      "sid": 194,
+      "label": "Print window cleaner recipe",
+      "uid": "SPIN_WHEEL:194"
     }
   ],
-  "version": 414,
-  "updated": "2026-06-22T03:53:43.467964+00:00",
+  "version": 415,
+  "updated": "2026-06-22T04:42:37.280602+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 65
+    "SPIN_WHEEL": 66
   }
 }
