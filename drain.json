@@ -1,18 +1,41 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-22T22:09:58.099Z",
-  "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-22T22:09:58.850077+00:00",
-  "lastAutoProcessed": [
-    "ZONES:73",
-    "SPIN:171",
-    "TASKS:11635"
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11635,
+      "row": 371,
+      "label": "✨ Clear the upstairs trashes",
+      "uid": "TASKS:11635",
+      "_ts": "2026-06-22T22:09:00.096Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 74,
+      "zid": 73,
+      "floor": "Plant",
+      "label": "🌱 Bedroom",
+      "uid": "ZONES:73",
+      "_ts": "2026-06-22T22:09:08.248Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 48,
+      "label": "Genevieve room cle",
+      "uid": "SPIN:171",
+      "_ts": "2026-06-22T22:09:36.564Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 43,
+      "label": "Call and add Genevieve to club membership for month",
+      "uid": "SPIN:161",
+      "_ts": "2026-06-22T22:10:00.751Z"
+    }
   ],
-  "resetNeeded": [
-    "Plant"
-  ]
+  "adds": [],
+  "mirroredAt": "2026-06-22T22:10:00.977Z",
+  "counts": {
+    "completions": 4,
+    "adds": 0
+  }
 }
