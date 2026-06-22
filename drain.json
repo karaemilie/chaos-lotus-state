@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 22,
+      "label": "Track down Etsy refund",
+      "uid": "SPIN:83",
+      "_ts": "2026-06-22T05:07:43.578Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-22T05:02:52.731Z",
+  "mirroredAt": "2026-06-22T05:07:43.919Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-22T05:02:53.540042+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11678",
-    "TASKS:10591"
-  ]
+  }
 }
