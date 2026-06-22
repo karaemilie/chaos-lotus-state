@@ -807,15 +807,22 @@
       "row": 64,
       "label": "Print window cleaner recipe",
       "uid": "SPIN:194"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 195,
+      "sid": 195,
+      "label": "Browse more iron curtain options",
+      "uid": "SPIN_WHEEL:195"
     }
   ],
-  "version": 422,
-  "updated": "2026-06-22T05:43:05.929065+00:00",
+  "version": 423,
+  "updated": "2026-06-22T05:43:08.439566+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 62
+    "SPIN_WHEEL": 63
   }
 }
