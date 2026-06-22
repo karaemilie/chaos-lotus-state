@@ -16,20 +16,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11678,
-      "row": 378,
-      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11678"
-    },
-    {
-      "source": "TASKS",
       "id": 10018,
       "row": 419,
       "label": "Buy materials for bunk beds",
@@ -826,10 +812,23 @@
       "sid": 194,
       "label": "Print window cleaner recipe",
       "uid": "SPIN_WHEEL:194"
+    },
+    {
+      "source": "TASKS",
+      "id": 10477,
+      "label": "Play around with Claude Cowork!",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:10477"
     }
   ],
-  "version": 416,
-  "updated": "2026-06-22T04:49:57.630438+00:00",
+  "version": 417,
+  "updated": "2026-06-22T04:50:47.695857+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
