@@ -274,16 +274,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 60,
-      "floor": "Digital",
-      "row": 61,
-      "label": "\ud83d\udcbb Photos",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Photos",
-      "uid": "ZONES:60"
-    },
-    {
-      "source": "ZONES",
       "zid": 79,
       "floor": "Plant",
       "row": 80,
@@ -301,16 +291,6 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Bedroom",
       "uid": "ZONES:73"
-    },
-    {
-      "source": "ZONES",
-      "zid": 83,
-      "floor": "Personal",
-      "row": 84,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Hand Care & Mani",
-      "uid": "ZONES:83"
     },
     {
       "source": "ZONES",
@@ -827,10 +807,28 @@
       "sid": 198,
       "label": "Linc tray 5 plan",
       "uid": "SPIN_WHEEL:198"
+    },
+    {
+      "source": "ZONES",
+      "zid": 61,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Reviews",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Reviews",
+      "uid": "ZONES:61"
+    },
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Epilate Legs",
+      "uid": "ZONES:85"
     }
   ],
-  "version": 428,
-  "updated": "2026-06-22T21:02:46.517314+00:00",
+  "version": 429,
+  "updated": "2026-06-22T21:03:24.769192+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
