@@ -30,20 +30,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11635,
-      "row": 371,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:11635"
-    },
-    {
-      "source": "TASKS",
       "id": 10017,
       "row": 5,
       "label": "Create materials list for bunk beds",
@@ -807,10 +793,23 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:11121"
+    },
+    {
+      "source": "TASKS",
+      "id": 11124,
+      "label": "Look into Jake study abroad for a semester",
+      "aw": 5,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11124"
     }
   ],
-  "version": 431,
-  "updated": "2026-06-22T21:22:39.574001+00:00",
+  "version": 432,
+  "updated": "2026-06-22T22:09:12.538904+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
