@@ -32,10 +32,17 @@
       "_ts": "2026-06-22T22:10:00.751Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-06-22T22:10:00.977Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Vacumn Genevieve room",
+      "_addedAt": "2026-06-22T22:10:10.111Z",
+      "_ts": "2026-06-22T22:10:10.209Z"
+    }
+  ],
+  "mirroredAt": "2026-06-22T22:10:10.443Z",
   "counts": {
     "completions": 4,
-    "adds": 0
+    "adds": 1
   }
 }
