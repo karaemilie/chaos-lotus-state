@@ -791,15 +791,36 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Plants",
       "uid": "ZONES:74"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 199,
+      "sid": 199,
+      "label": "Vacumn Genevieve room",
+      "uid": "SPIN_WHEEL:199"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 200,
+      "sid": 200,
+      "label": "Clear Genevieve room",
+      "uid": "SPIN_WHEEL:200"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 201,
+      "sid": 201,
+      "label": "Order paint online to pick up",
+      "uid": "SPIN_WHEEL:201"
     }
   ],
-  "version": 435,
-  "updated": "2026-06-22T22:10:48.759191+00:00",
+  "version": 436,
+  "updated": "2026-06-22T22:10:52.315444+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 63
+    "SPIN_WHEEL": 66
   }
 }
