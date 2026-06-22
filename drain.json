@@ -1,66 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "TASKS",
-      "id": 11635,
-      "row": 371,
-      "label": "✨ Clear the upstairs trashes",
-      "uid": "TASKS:11635",
-      "_ts": "2026-06-22T22:09:00.096Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 74,
-      "zid": 73,
-      "floor": "Plant",
-      "label": "🌱 Bedroom",
-      "uid": "ZONES:73",
-      "_ts": "2026-06-22T22:09:08.248Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 48,
-      "label": "Genevieve room cle",
-      "uid": "SPIN:171",
-      "_ts": "2026-06-22T22:09:36.564Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 43,
-      "label": "Call and add Genevieve to club membership for month",
-      "uid": "SPIN:161",
-      "_ts": "2026-06-22T22:10:00.751Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Vacumn Genevieve room",
-      "_addedAt": "2026-06-22T22:10:10.111Z",
-      "_ts": "2026-06-22T22:10:10.209Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Clear Genevieve room",
-      "_addedAt": "2026-06-22T22:10:18.100Z",
-      "_ts": "2026-06-22T22:10:18.207Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Order paint online to pick up",
-      "_addedAt": "2026-06-22T22:10:28.792Z",
-      "_ts": "2026-06-22T22:10:28.898Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Wash Genevieve blankets",
-      "_addedAt": "2026-06-22T22:10:38.141Z",
-      "_ts": "2026-06-22T22:10:38.248Z"
-    }
-  ],
-  "mirroredAt": "2026-06-22T22:10:38.500Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-06-22T22:10:51.335Z",
   "counts": {
-    "completions": 4,
-    "adds": 4
+    "completions": 0,
+    "adds": 0
   }
 }
