@@ -134,6 +134,14 @@ def save_beast(beast_bytes, sha, commit_msg):
     return result
 
 
+class _AuditAbort(Exception):
+    """Raised inside the retry apply_fn when process_completions reports an ID
+    audit problem. Not a 409, so it aborts the save without retrying; caught by
+    finalize_task_completions to leave the items queued rather than save a bad
+    Beast."""
+    pass
+
+
 class BeastDeferred(Exception):
     """Raised when save_beast_with_retry exhausts its 409 budget under heavy
     concurrent load. This is NOT a real error: because the worker only clears
@@ -784,10 +792,38 @@ def finalize_task_completions(comps):
         return None, True
 
     print(f"\n📜 Finalizing {len(ids)} TASKS/COURAGE completion(s) via engine: {ids}")
-    beast_bytes, sha = load_beast()
-    wb = load_workbook(io.BytesIO(beast_bytes))
-    results = pcmod.process_completions(wb, ids)
 
+    # Run the engine inside the retry's apply_fn so a SHA-409 conflict (the
+    # worker/refill commits to the Beast repo between our checkout and our PUT —
+    # common when several completions land in the same minute) RELOADS the Beast
+    # and RE-APPLIES idempotently instead of crashing the step. process_completions
+    # keys by ID, so re-applying is safe. Previously this path used the plain
+    # save_beast() with no retry, so a same-minute completion flood could 409 →
+    # RuntimeError → step fail → drain never cleared → completions stranded.
+    captured = {"results": None, "audit_failed": False}
+
+    def _apply(wb, _stamp):
+        results = pcmod.process_completions(wb, ids)
+        captured["results"] = results
+        if results.get("audit"):
+            captured["audit_failed"] = True
+            raise _AuditAbort(f"audit problems: {results['audit']}")
+
+    try:
+        save_beast_with_retry(
+            _apply,
+            f"🤖 Auto-finalize: {len(ids)} TASKS/COURAGE → COMPLETED",
+        )
+    except _AuditAbort:
+        results = captured["results"] or {}
+        print(f"   🔴 AUDIT PROBLEMS: {results.get('audit')} — NOT saving, leaving queued")
+        return results, False
+    except BeastDeferred:
+        # Exhausted 409 budget under flood — items stay in drain, next run sweeps.
+        print("   ⏸️  TASKS/COURAGE finalize deferred (Beast 409 flood) — items remain queued, self-heal next run")
+        return captured["results"], False
+
+    results = captured["results"] or {}
     for tid, name in results.get("completed", []):
         print(f"   ✅ {name[:45]} → COMPLETED")
     for nid, name, nxt in results.get("recurred", []):
@@ -796,13 +832,6 @@ def finalize_task_completions(comps):
         print(f"   🔓 unlocked next-in-seq: {name[:40]}")
     if results.get("errors"):
         print(f"   ⚠️  errors: {results['errors']}")
-    if results.get("audit"):
-        print(f"   🔴 AUDIT PROBLEMS: {results['audit']} — NOT saving, leaving queued")
-        return results, False  # do not save a beast that failed audit
-
-    # Save beast back
-    buf = io.BytesIO(); wb.save(buf)
-    save_beast(buf.getvalue(), sha, f"🤖 Auto-finalize: {len(results.get('completed',[]))} TASKS/COURAGE → COMPLETED")
     print("   🐝 Beast updated with finalized completions")
     return results, True
 
