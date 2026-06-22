@@ -822,15 +822,22 @@
       "sid": 203,
       "label": "Deploy task box fix",
       "uid": "SPIN_WHEEL:203"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 204,
+      "sid": 204,
+      "label": "Add urgency and overdue tags to chore app",
+      "uid": "SPIN_WHEEL:204"
     }
   ],
-  "version": 439,
-  "updated": "2026-06-22T23:43:27.064705+00:00",
+  "version": 440,
+  "updated": "2026-06-22T23:54:45.344176+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 67
+    "SPIN_WHEEL": 68
   }
 }
