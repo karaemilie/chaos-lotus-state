@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 49,
+      "label": "Green subaru",
+      "uid": "SPIN:170",
+      "_ts": "2026-06-22T21:02:29.261Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-22T20:37:47.087Z",
+  "mirroredAt": "2026-06-22T21:02:29.494Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
