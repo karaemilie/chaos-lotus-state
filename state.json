@@ -747,13 +747,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 176,
-      "row": 55,
-      "label": "Try window cleaner!!!",
-      "uid": "SPIN:176"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 177,
       "row": 56,
       "label": "Research affordable med schools",
@@ -837,13 +830,13 @@
       "uid": "SPIN_WHEEL:193"
     }
   ],
-  "version": 411,
-  "updated": "2026-06-22T00:09:36.534565+00:00",
+  "version": 412,
+  "updated": "2026-06-22T03:52:44.359635+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 66
+    "SPIN_WHEEL": 65
   }
 }
