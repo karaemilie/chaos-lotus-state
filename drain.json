@@ -1,14 +1,33 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 55,
+      "label": "Try window cleaner!!!",
+      "uid": "SPIN:176",
+      "_ts": "2026-06-22T03:52:32.420Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11720,
+      "row": 425,
+      "label": "✨ Watch new content from Sabrina Ramonov 🎥",
+      "uid": "TASKS:11720",
+      "_ts": "2026-06-22T03:53:00.936Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11667,
+      "row": 359,
+      "label": "✨ Clip & pot new Hoya starts 🪴🌱",
+      "uid": "TASKS:11667",
+      "_ts": "2026-06-22T03:53:28.422Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-22T03:53:16.922Z",
+  "mirroredAt": "2026-06-22T03:53:28.635Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-06-22T03:53:17.676068+00:00",
-  "lastAutoProcessed": [
-    "SPIN:176",
-    "TASKS:11720"
-  ]
+  }
 }
