@@ -86,20 +86,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10591,
-      "row": 153,
-      "label": "Review WHOOP lab results",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:10591"
-    },
-    {
-      "source": "TASKS",
       "id": 10151,
       "row": 48,
       "label": "Scrub ceiling of Subaru for dirt \ud83d\udcdd",
@@ -825,10 +811,23 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:10477"
+    },
+    {
+      "source": "TASKS",
+      "id": 11527,
+      "label": "Find insta handles for plant + homeschool niches \ud83d\udcf1\ud83c\udf3f\ud83d\udcda",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11527"
     }
   ],
-  "version": 417,
-  "updated": "2026-06-22T04:50:47.695857+00:00",
+  "version": 418,
+  "updated": "2026-06-22T05:02:50.388624+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
