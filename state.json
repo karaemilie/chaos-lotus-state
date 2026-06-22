@@ -761,13 +761,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 188,
-      "row": 62,
-      "label": "Research EcoVac cleaning solution",
-      "uid": "SPIN:188"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 189,
       "row": 63,
       "label": "Pin living room curtains to right length",
@@ -835,13 +828,13 @@
       "uid": "SPIN_WHEEL:194"
     }
   ],
-  "version": 415,
-  "updated": "2026-06-22T04:42:37.280602+00:00",
+  "version": 416,
+  "updated": "2026-06-22T04:49:57.630438+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 66
+    "SPIN_WHEEL": 65
   }
 }
