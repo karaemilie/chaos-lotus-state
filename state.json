@@ -270,16 +270,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "row": 74,
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
-      "source": "ZONES",
       "zid": 84,
       "floor": "Personal",
       "row": 85,
@@ -650,13 +640,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 171,
-      "row": 48,
-      "label": "Genevieve room cle",
-      "uid": "SPIN:171"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 172,
       "row": 49,
       "label": "Pull up veneer plans for shelfs",
@@ -806,15 +789,24 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:11124"
+    },
+    {
+      "source": "ZONES",
+      "zid": 74,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Plants",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Plants",
+      "uid": "ZONES:74"
     }
   ],
-  "version": 432,
-  "updated": "2026-06-22T22:09:12.538904+00:00",
+  "version": 433,
+  "updated": "2026-06-22T22:09:53.847327+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 65
+    "SPIN_WHEEL": 64
   }
 }
