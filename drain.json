@@ -7,12 +7,21 @@
       "label": "✨ Clear the upstairs trashes",
       "uid": "TASKS:11635",
       "_ts": "2026-06-22T22:09:00.096Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 74,
+      "zid": 73,
+      "floor": "Plant",
+      "label": "🌱 Bedroom",
+      "uid": "ZONES:73",
+      "_ts": "2026-06-22T22:09:08.248Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-22T22:09:00.303Z",
+  "mirroredAt": "2026-06-22T22:09:08.466Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
