@@ -30,20 +30,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11517,
-      "row": 287,
-      "label": "Set up GitHub auto-deploy for pansywheel on Cloudflare \ud83d\udc19\ud83c\udf38 \ud83d\udcdd",
-      "aw": 5,
-      "pri": null,
-      "dur": 60,
-      "ml": null,
-      "proj": "Spin Wheel System",
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11517"
-    },
-    {
-      "source": "TASKS",
       "id": 10237,
       "row": 393,
       "label": "Cancel Slate card",
@@ -828,10 +814,23 @@
       "sid": 197,
       "label": "Get Evan set up with retainer bath",
       "uid": "SPIN_WHEEL:197"
+    },
+    {
+      "source": "TASKS",
+      "id": 11459,
+      "label": "Figure out what else we need for stained glass projects \ud83c\udfa8",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11459"
     }
   ],
-  "version": 425,
-  "updated": "2026-06-22T20:37:06.176417+00:00",
+  "version": 426,
+  "updated": "2026-06-22T20:37:44.738041+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
