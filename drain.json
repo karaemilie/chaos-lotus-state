@@ -1,15 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11675,
+      "row": 369,
+      "label": "✨ Weekly Xmind outlines review/actions!",
+      "uid": "TASKS:11675",
+      "_ts": "2026-06-22T21:22:24.937Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-22T21:03:25.991Z",
+  "mirroredAt": "2026-06-22T21:22:25.198Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-22T21:03:26.861668+00:00",
-  "lastAutoProcessed": [
-    "ZONES:60",
-    "ZONES:83",
-    "SPIN:170"
-  ]
+  }
 }
