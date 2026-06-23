@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-23T06:06:26.595Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Second coat board",
+      "_addedAt": "2026-06-23T06:07:17.962Z",
+      "_ts": "2026-06-23T06:07:18.413Z"
+    }
+  ],
+  "mirroredAt": "2026-06-23T06:07:18.742Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
