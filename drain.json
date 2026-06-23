@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 53,
+      "label": "More garage sanding",
+      "uid": "SPIN:190",
+      "_ts": "2026-06-23T06:15:12.428Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-23T06:07:33.415Z",
+  "mirroredAt": "2026-06-23T06:15:12.659Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
