@@ -769,24 +769,10 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 203,
-      "row": 65,
-      "label": "Deploy task box fix",
-      "uid": "SPIN:203"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 204,
       "row": 66,
       "label": "Add urgency and overdue tags to chore app",
       "uid": "SPIN:204"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 205,
-      "row": 67,
-      "label": "Find the green sprayer",
-      "uid": "SPIN:205"
     },
     {
       "source": "SPIN_WHEEL",
@@ -808,13 +794,6 @@
       "row": 70,
       "label": "Bring up toilet bowl cleaner",
       "uid": "SPIN:208"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 209,
-      "row": 71,
-      "label": "Write about black table",
-      "uid": "SPIN:209"
     },
     {
       "source": "SPIN_WHEEL",
@@ -844,13 +823,13 @@
       "uid": "TASKS:10179"
     }
   ],
-  "version": 453,
-  "updated": "2026-06-23T03:52:42.202200+00:00",
+  "version": 454,
+  "updated": "2026-06-23T03:53:23.980923+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 70
+    "SPIN_WHEEL": 67
   }
 }
