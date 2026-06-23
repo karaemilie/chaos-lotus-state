@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-22T23:54:44.051Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find the green sprayer",
+      "_addedAt": "2026-06-23T00:18:22.069Z",
+      "_ts": "2026-06-23T00:18:22.181Z"
+    }
+  ],
+  "mirroredAt": "2026-06-23T00:18:22.443Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
