@@ -795,15 +795,22 @@
       "sid": 212,
       "label": "Assess the orange helmet?",
       "uid": "SPIN_WHEEL:212"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 213,
+      "sid": 213,
+      "label": "Build craft rolling bin",
+      "uid": "SPIN_WHEEL:213"
     }
   ],
-  "version": 459,
-  "updated": "2026-06-23T05:28:05.955245+00:00",
+  "version": 460,
+  "updated": "2026-06-23T06:06:27.814117+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 63
+    "SPIN_WHEEL": 64
   }
 }
