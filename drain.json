@@ -1,5 +1,39 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 53,
+      "label": "More garage sanding",
+      "uid": "SPIN:190",
+      "_ts": "2026-06-23T06:15:12.428Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11527,
+      "row": 290,
+      "label": "💸 Find insta handles for plant + homeschool niches 📱🌿📚",
+      "uid": "TASKS:11527",
+      "_ts": "2026-06-23T06:15:18.048Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 75,
+      "zid": 74,
+      "floor": "Plant",
+      "label": "🌱 Family Room Plants",
+      "uid": "ZONES:74",
+      "_ts": "2026-06-23T06:15:37.438Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 49,
+      "zid": 48,
+      "floor": "Basement",
+      "label": "🧺 Basement Craft Zone",
+      "uid": "ZONES:48",
+      "_ts": "2026-06-23T06:16:18.059Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +42,9 @@
       "_ts": "2026-06-23T06:16:03.600Z"
     }
   ],
-  "mirroredAt": "2026-06-23T06:16:15.233Z",
+  "mirroredAt": "2026-06-23T06:16:18.272Z",
   "counts": {
-    "completions": 0,
+    "completions": 4,
     "adds": 1
   }
 }
