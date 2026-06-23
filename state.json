@@ -815,15 +815,22 @@
       "sid": 219,
       "label": "Research eating disorders",
       "uid": "SPIN_WHEEL:219"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 220,
+      "sid": 220,
+      "label": "Have pretzel",
+      "uid": "SPIN_WHEEL:220"
     }
   ],
-  "version": 472,
-  "updated": "2026-06-23T10:42:13.103748+00:00",
+  "version": 473,
+  "updated": "2026-06-23T21:01:47.942187+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 66
+    "SPIN_WHEEL": 67
   }
 }
