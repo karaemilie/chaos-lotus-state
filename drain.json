@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-23T06:17:46.529Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Figure out stair width for new beds and height of current",
+      "_addedAt": "2026-06-23T07:29:38.111Z",
+      "_ts": "2026-06-23T07:29:38.251Z"
+    }
+  ],
+  "mirroredAt": "2026-06-23T07:29:38.490Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-23T06:17:47.679350+00:00",
-  "lastAutoProcessed": [
-    "SPIN:180",
-    "SPIN:124"
-  ]
+    "adds": 1
+  }
 }
