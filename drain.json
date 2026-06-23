@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-23T00:42:05.424Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Call Treeforms & price stools …",
+      "_addedAt": "2026-06-23T01:13:39.455Z",
+      "_ts": "2026-06-23T01:13:39.589Z"
+    }
+  ],
+  "mirroredAt": "2026-06-23T01:13:39.828Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-23T00:42:06.240599+00:00",
-  "lastAutoProcessed": [
-    "SPIN:154"
-  ]
+    "adds": 1
+  }
 }
