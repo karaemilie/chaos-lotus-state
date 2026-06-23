@@ -2,48 +2,6 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
-      "row": 53,
-      "label": "More garage sanding",
-      "uid": "SPIN:190",
-      "_ts": "2026-06-23T06:15:12.428Z"
-    },
-    {
-      "source": "TASKS",
-      "id": 11527,
-      "row": 290,
-      "label": "💸 Find insta handles for plant + homeschool niches 📱🌿📚",
-      "uid": "TASKS:11527",
-      "_ts": "2026-06-23T06:15:18.048Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 75,
-      "zid": 74,
-      "floor": "Plant",
-      "label": "🌱 Family Room Plants",
-      "uid": "ZONES:74",
-      "_ts": "2026-06-23T06:15:37.438Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 49,
-      "zid": 48,
-      "floor": "Basement",
-      "label": "🧺 Basement Craft Zone",
-      "uid": "ZONES:48",
-      "_ts": "2026-06-23T06:16:18.059Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 11,
-      "zid": 10,
-      "floor": "Upstairs",
-      "label": "🧺 Boys Room",
-      "uid": "ZONES:10",
-      "_ts": "2026-06-23T06:16:26.334Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 28,
       "label": "Next feature step chore board!",
       "uid": "SPIN:124",
@@ -57,17 +15,10 @@
       "_ts": "2026-06-23T06:16:56.683Z"
     }
   ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Insta tags for plants and homeschool",
-      "_addedAt": "2026-06-23T06:16:03.281Z",
-      "_ts": "2026-06-23T06:16:03.600Z"
-    }
-  ],
-  "mirroredAt": "2026-06-23T06:16:56.908Z",
+  "adds": [],
+  "mirroredAt": "2026-06-23T06:16:59.274Z",
   "counts": {
-    "completions": 7,
-    "adds": 1
+    "completions": 2,
+    "adds": 0
   }
 }
