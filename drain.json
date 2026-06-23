@@ -41,6 +41,13 @@
       "label": "🧺 Boys Room",
       "uid": "ZONES:10",
       "_ts": "2026-06-23T06:16:26.334Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 28,
+      "label": "Next feature step chore board!",
+      "uid": "SPIN:124",
+      "_ts": "2026-06-23T06:16:44.571Z"
     }
   ],
   "adds": [
@@ -51,9 +58,9 @@
       "_ts": "2026-06-23T06:16:03.600Z"
     }
   ],
-  "mirroredAt": "2026-06-23T06:16:26.561Z",
+  "mirroredAt": "2026-06-23T06:16:44.784Z",
   "counts": {
-    "completions": 5,
+    "completions": 6,
     "adds": 1
   }
 }
