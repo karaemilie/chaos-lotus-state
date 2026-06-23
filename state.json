@@ -713,13 +713,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 192,
-      "row": 54,
-      "label": "Load Claude Code",
-      "uid": "SPIN:192"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 193,
       "row": 55,
       "label": "Sign up for an AI video tool **",
@@ -852,13 +845,13 @@
       "uid": "SPIN:211"
     }
   ],
-  "version": 451,
-  "updated": "2026-06-23T03:46:32.226548+00:00",
+  "version": 452,
+  "updated": "2026-06-23T03:47:09.942610+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 71
+    "SPIN_WHEEL": 70
   }
 }
