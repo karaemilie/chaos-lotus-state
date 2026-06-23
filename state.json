@@ -629,13 +629,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 154,
-      "row": 41,
-      "label": "Make a list of plants to list in Hoya group",
-      "uid": "SPIN:154"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 158,
       "row": 42,
       "label": "Install cat filter",
@@ -845,13 +838,13 @@
       "uid": "SPIN_WHEEL:206"
     }
   ],
-  "version": 442,
-  "updated": "2026-06-23T00:41:26.408118+00:00",
+  "version": 443,
+  "updated": "2026-06-23T00:42:04.286237+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 70
+    "SPIN_WHEEL": 69
   }
 }
