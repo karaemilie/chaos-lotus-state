@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-23T10:42:12.108Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Have pretzel",
+      "_addedAt": "2026-06-23T21:01:32.091Z",
+      "_ts": "2026-06-23T21:01:32.299Z"
+    }
+  ],
+  "mirroredAt": "2026-06-23T21:01:32.565Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
