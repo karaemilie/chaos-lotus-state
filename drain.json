@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-23T01:14:36.439Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Bring up toilet bowl cleaner",
+      "_addedAt": "2026-06-23T01:27:51.762Z",
+      "_ts": "2026-06-23T01:27:52.792Z"
+    }
+  ],
+  "mirroredAt": "2026-06-23T01:27:53.028Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-23T01:14:37.391073+00:00",
-  "lastAutoProcessed": [
-    "SPIN:72"
-  ]
+    "adds": 1
+  }
 }
