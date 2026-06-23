@@ -454,13 +454,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 73,
-      "row": 18,
-      "label": "Call Sherwin williams, verify samples to go in stock **",
-      "uid": "SPIN:73"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 82,
       "row": 19,
       "label": "Do last privacy film on middle stall garage *",
@@ -528,13 +521,6 @@
       "row": 28,
       "label": "Call Chase about credit card wrong balance",
       "uid": "SPIN:107"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 123,
-      "row": 29,
-      "label": "Research John Deere spreader",
-      "uid": "SPIN:123"
     },
     {
       "source": "SPIN_WHEEL",
@@ -755,13 +741,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 201,
-      "row": 63,
-      "label": "Order paint online to pick up",
-      "uid": "SPIN:201"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 202,
       "row": 64,
       "label": "Finish main floor, family windows",
@@ -787,13 +766,6 @@
       "row": 69,
       "label": "Call Treeforms & price stools \u2026",
       "uid": "SPIN:207"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 208,
-      "row": 70,
-      "label": "Bring up toilet bowl cleaner",
-      "uid": "SPIN:208"
     },
     {
       "source": "SPIN_WHEEL",
@@ -823,13 +795,13 @@
       "uid": "TASKS:10179"
     }
   ],
-  "version": 454,
-  "updated": "2026-06-23T03:53:23.980923+00:00",
+  "version": 455,
+  "updated": "2026-06-23T03:54:07.019065+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 67
+    "SPIN_WHEEL": 63
   }
 }
