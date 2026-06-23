@@ -822,15 +822,22 @@
       "sid": 220,
       "label": "Have pretzel",
       "uid": "SPIN_WHEEL:220"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 221,
+      "sid": 221,
+      "label": "Try bang tutorial",
+      "uid": "SPIN_WHEEL:221"
     }
   ],
-  "version": 473,
-  "updated": "2026-06-23T21:01:47.942187+00:00",
+  "version": 474,
+  "updated": "2026-06-23T21:02:29.264591+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 67
+    "SPIN_WHEEL": 68
   }
 }
