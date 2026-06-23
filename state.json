@@ -686,13 +686,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 196,
-      "row": 58,
-      "label": "Measure counter height for stools **",
-      "uid": "SPIN:196"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 197,
       "row": 59,
       "label": "Get Evan set up with retainer bath",
@@ -797,13 +790,13 @@
       "uid": "ZONES:74"
     }
   ],
-  "version": 457,
-  "updated": "2026-06-23T03:55:42.362309+00:00",
+  "version": 458,
+  "updated": "2026-06-23T03:56:11.864038+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 63
+    "SPIN_WHEEL": 62
   }
 }
