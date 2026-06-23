@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-23T10:29:24.748Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Research eating disorders",
+      "_addedAt": "2026-06-23T10:41:59.918Z",
+      "_ts": "2026-06-23T10:42:00.105Z"
+    }
+  ],
+  "mirroredAt": "2026-06-23T10:42:00.333Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
