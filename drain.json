@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11496,
+      "row": 260,
+      "label": "Look into downloading open-source Claude 🤖",
+      "uid": "TASKS:11496",
+      "_ts": "2026-06-23T03:52:29.797Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-23T03:47:11.105Z",
+  "mirroredAt": "2026-06-23T03:52:30.037Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-23T03:47:11.897887+00:00",
-  "lastAutoProcessed": [
-    "SPIN:192"
-  ]
+  }
 }
