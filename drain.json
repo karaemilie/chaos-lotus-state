@@ -32,6 +32,15 @@
       "label": "🧺 Basement Craft Zone",
       "uid": "ZONES:48",
       "_ts": "2026-06-23T06:16:18.059Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 11,
+      "zid": 10,
+      "floor": "Upstairs",
+      "label": "🧺 Boys Room",
+      "uid": "ZONES:10",
+      "_ts": "2026-06-23T06:16:26.334Z"
     }
   ],
   "adds": [
@@ -42,9 +51,9 @@
       "_ts": "2026-06-23T06:16:03.600Z"
     }
   ],
-  "mirroredAt": "2026-06-23T06:16:18.272Z",
+  "mirroredAt": "2026-06-23T06:16:26.561Z",
   "counts": {
-    "completions": 4,
+    "completions": 5,
     "adds": 1
   }
 }
