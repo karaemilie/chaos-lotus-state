@@ -794,15 +794,22 @@
       "sid": 215,
       "label": "Insta tags for plants and homeschool",
       "uid": "SPIN_WHEEL:215"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 216,
+      "sid": 216,
+      "label": "Figure out stair width for new beds and height of current",
+      "uid": "SPIN_WHEEL:216"
     }
   ],
-  "version": 467,
-  "updated": "2026-06-23T06:17:45.361870+00:00",
+  "version": 468,
+  "updated": "2026-06-23T07:29:54.547310+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 63
+    "SPIN_WHEEL": 64
   }
 }
