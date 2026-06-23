@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-23T07:29:53.345Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Call and set up a septic appointment",
+      "_addedAt": "2026-06-23T07:30:49.125Z",
+      "_ts": "2026-06-23T07:30:49.578Z"
+    }
+  ],
+  "mirroredAt": "2026-06-23T07:30:49.907Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
