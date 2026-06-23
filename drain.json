@@ -1,13 +1,27 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11327,
+      "row": 262,
+      "label": "💸 Find a free Instagram scraper for Reels 📱🤖 📝",
+      "uid": "TASKS:11327",
+      "_ts": "2026-06-23T03:55:02.589Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 74,
+      "zid": 73,
+      "floor": "Plant",
+      "label": "🌱 Bedroom",
+      "uid": "ZONES:73",
+      "_ts": "2026-06-23T03:55:23.528Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-23T03:55:15.549Z",
+  "mirroredAt": "2026-06-23T03:55:23.757Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-06-23T03:55:16.270211+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11327"
-  ]
+  }
 }
