@@ -288,16 +288,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "row": 75,
-      "label": "\ud83c\udf31 Family Room Plants",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Plants",
-      "uid": "ZONES:74"
-    },
-    {
-      "source": "ZONES",
       "zid": 75,
       "floor": "Plant",
       "row": 76,
@@ -333,16 +323,6 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Clean bathroom mirrors",
       "uid": "MAINTENANCE:79"
-    },
-    {
-      "source": "TASKS",
-      "id": 11527,
-      "row": 290,
-      "label": "\ud83d\udcb8 Find insta handles for plant + homeschool niches \ud83d\udcf1\ud83c\udf3f\ud83d\udcda",
-      "emoji": "\ud83d\udcb8",
-      "aw": 5,
-      "specialZone": "Business",
-      "uid": "TASKS:11527"
     },
     {
       "source": "TASKS",
@@ -801,10 +781,32 @@
       "row": 65,
       "label": "Second coat board",
       "uid": "SPIN:214"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
+    },
+    {
+      "source": "TASKS",
+      "id": 10280,
+      "label": "Help Jackson do patriarchal blessing",
+      "aw": 3,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10280"
     }
   ],
-  "version": 463,
-  "updated": "2026-06-23T06:15:28.139715+00:00",
+  "version": 464,
+  "updated": "2026-06-23T06:16:12.718248+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
