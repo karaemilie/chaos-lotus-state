@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 41,
+      "label": "Make a list of plants to list in Hoya group",
+      "uid": "SPIN:154",
+      "_ts": "2026-06-23T00:41:23.375Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-06-23T00:41:12.932Z"
     }
   ],
-  "mirroredAt": "2026-06-23T00:41:13.179Z",
+  "mirroredAt": "2026-06-23T00:41:23.609Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
