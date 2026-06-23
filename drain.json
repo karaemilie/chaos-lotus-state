@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-23T02:09:00.514Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Second round purse ozone!",
+      "_addedAt": "2026-06-23T03:04:35.194Z",
+      "_ts": "2026-06-23T03:04:35.681Z"
+    }
+  ],
+  "mirroredAt": "2026-06-23T03:04:36.091Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
