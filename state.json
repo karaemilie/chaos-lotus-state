@@ -829,15 +829,22 @@
       "sid": 204,
       "label": "Add urgency and overdue tags to chore app",
       "uid": "SPIN_WHEEL:204"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 205,
+      "sid": 205,
+      "label": "Find the green sprayer",
+      "uid": "SPIN_WHEEL:205"
     }
   ],
-  "version": 440,
-  "updated": "2026-06-22T23:54:45.344176+00:00",
+  "version": 441,
+  "updated": "2026-06-23T00:18:40.077038+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 68
+    "SPIN_WHEEL": 69
   }
 }
