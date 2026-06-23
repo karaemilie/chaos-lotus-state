@@ -142,20 +142,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11496,
-      "row": 260,
-      "label": "Look into downloading open-source Claude \ud83e\udd16",
-      "aw": 3,
-      "pri": null,
-      "dur": 30,
-      "ml": null,
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11496"
-    },
-    {
-      "source": "TASKS",
       "id": 10211,
       "row": 83,
       "label": "Research zoning for assisted living home - end of street property",
@@ -843,10 +829,23 @@
       "row": 73,
       "label": "Second round purse ozone!",
       "uid": "SPIN:211"
+    },
+    {
+      "source": "TASKS",
+      "id": 10179,
+      "label": "Create community service tracking log for Lincoln and Evan",
+      "aw": 4,
+      "pri": "High",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": "Community Service",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10179"
     }
   ],
-  "version": 452,
-  "updated": "2026-06-23T03:47:09.942610+00:00",
+  "version": 453,
+  "updated": "2026-06-23T03:52:42.202200+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
