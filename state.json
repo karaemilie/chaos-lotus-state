@@ -802,15 +802,22 @@
       "sid": 213,
       "label": "Build craft rolling bin",
       "uid": "SPIN_WHEEL:213"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 214,
+      "sid": 214,
+      "label": "Second coat board",
+      "uid": "SPIN_WHEEL:214"
     }
   ],
-  "version": 460,
-  "updated": "2026-06-23T06:06:27.814117+00:00",
+  "version": 461,
+  "updated": "2026-06-23T06:07:34.581675+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 64
+    "SPIN_WHEEL": 65
   }
 }
