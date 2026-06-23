@@ -1,15 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-23T03:56:15.219Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Assess the orange helmet?",
+      "_addedAt": "2026-06-23T05:27:53.416Z",
+      "_ts": "2026-06-23T05:27:53.685Z"
+    }
+  ],
+  "mirroredAt": "2026-06-23T05:27:53.916Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-23T03:56:15.921788+00:00",
-  "lastAutoProcessed": [
-    "ZONES:73",
-    "SPIN:196",
-    "TASKS:11327"
-  ]
+    "adds": 1
+  }
 }
