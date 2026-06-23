@@ -468,13 +468,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 72,
-      "row": 18,
-      "label": "Search Target stools **",
-      "uid": "SPIN:72"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 73,
       "row": 19,
       "label": "Call Sherwin williams, verify samples to go in stock **",
@@ -845,13 +838,13 @@
       "uid": "SPIN_WHEEL:207"
     }
   ],
-  "version": 444,
-  "updated": "2026-06-23T01:13:52.478032+00:00",
+  "version": 445,
+  "updated": "2026-06-23T01:14:35.134343+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 70
+    "SPIN_WHEEL": 69
   }
 }
