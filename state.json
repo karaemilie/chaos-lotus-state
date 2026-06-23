@@ -248,16 +248,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 10,
-      "floor": "Upstairs",
-      "row": 11,
-      "label": "\ud83e\uddfa Boys Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Boys Room",
-      "uid": "ZONES:10"
-    },
-    {
-      "source": "ZONES",
       "zid": 22,
       "floor": "Main Floor",
       "row": 23,
@@ -265,16 +255,6 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Mudroom",
       "uid": "ZONES:22"
-    },
-    {
-      "source": "ZONES",
-      "zid": 48,
-      "floor": "Basement",
-      "row": 49,
-      "label": "\ud83e\uddfa Basement Craft Zone",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Craft Zone",
-      "uid": "ZONES:48"
     },
     {
       "source": "ZONES",
@@ -803,10 +783,28 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10280"
+    },
+    {
+      "source": "ZONES",
+      "zid": 49,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Foyer",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Foyer",
+      "uid": "ZONES:49"
+    },
+    {
+      "source": "ZONES",
+      "zid": 11,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa My Bathroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "My Bathroom",
+      "uid": "ZONES:11"
     }
   ],
-  "version": 464,
-  "updated": "2026-06-23T06:16:12.718248+00:00",
+  "version": 465,
+  "updated": "2026-06-23T06:16:55.956568+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
