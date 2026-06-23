@@ -322,16 +322,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11327,
-      "row": 262,
-      "label": "\ud83d\udcb8 Find a free Instagram scraper for Reels \ud83d\udcf1\ud83e\udd16 \ud83d\udcdd",
-      "emoji": "\ud83d\udcb8",
-      "aw": 6,
-      "specialZone": "Business",
-      "uid": "TASKS:11327"
-    },
-    {
-      "source": "TASKS",
       "id": 10365,
       "row": 369,
       "label": "\ud83d\udc38 Submit Bentley's PFD form to TCU \ud83d\udcdd",
@@ -793,10 +783,23 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10179"
+    },
+    {
+      "source": "TASKS",
+      "id": 10280,
+      "label": "Help Jackson do patriarchal blessing",
+      "aw": 3,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10280"
     }
   ],
-  "version": 455,
-  "updated": "2026-06-23T03:54:07.019065+00:00",
+  "version": 456,
+  "updated": "2026-06-23T03:55:13.149501+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
