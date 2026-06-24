@@ -821,15 +821,22 @@
       "sid": 218,
       "label": "UV clean the purse",
       "uid": "SPIN_WHEEL:218"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 219,
+      "sid": 219,
+      "label": "Put 5 plants to sell on tray",
+      "uid": "SPIN_WHEEL:219"
     }
   ],
-  "version": 485,
-  "updated": "2026-06-24T07:00:00.167966+00:00",
+  "version": 486,
+  "updated": "2026-06-24T07:00:02.839827+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 64
+    "SPIN_WHEEL": 65
   }
 }
