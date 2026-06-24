@@ -8,10 +8,23 @@
       "_ts": "2026-06-24T06:59:08.046Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-06-24T06:59:15.173Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "UV clean the purse",
+      "_addedAt": "2026-06-24T06:59:00.939Z",
+      "_ts": "2026-06-24T06:59:01.426Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Put 5 plants to sell on tray",
+      "_addedAt": "2026-06-24T06:59:29.585Z",
+      "_ts": "2026-06-24T06:59:29.814Z"
+    }
+  ],
+  "mirroredAt": "2026-06-24T06:59:30.086Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 2
   }
 }
