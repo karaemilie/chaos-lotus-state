@@ -849,15 +849,22 @@
       "sid": 224,
       "label": "Order another Unbed alarm",
       "uid": "SPIN_WHEEL:224"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 225,
+      "sid": 225,
+      "label": "Kohls order",
+      "uid": "SPIN_WHEEL:225"
     }
   ],
-  "version": 491,
-  "updated": "2026-06-24T08:58:33.504945+00:00",
+  "version": 492,
+  "updated": "2026-06-24T09:24:35.660941+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 68
+    "SPIN_WHEEL": 69
   }
 }
