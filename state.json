@@ -828,15 +828,22 @@
       "sid": 217,
       "label": "Find the caffeine gum",
       "uid": "SPIN_WHEEL:217"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 218,
+      "sid": 218,
+      "label": "UV clean the purse",
+      "uid": "SPIN_WHEEL:218"
     }
   ],
-  "version": 483,
-  "updated": "2026-06-24T06:11:58.740986+00:00",
+  "version": 484,
+  "updated": "2026-06-24T06:59:16.612300+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 65
+    "SPIN_WHEEL": 66
   }
 }
