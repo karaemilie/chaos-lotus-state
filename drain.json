@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-24T00:21:24.958Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Check contact prescription?",
+      "_addedAt": "2026-06-24T01:05:47.713Z",
+      "_ts": "2026-06-24T01:05:47.823Z"
+    }
+  ],
+  "mirroredAt": "2026-06-24T01:05:48.066Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
