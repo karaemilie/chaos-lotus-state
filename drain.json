@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 56,
+      "label": "Add urgency and overdue tags to chore app",
+      "uid": "SPIN:204",
+      "_ts": "2026-06-24T07:02:34.976Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-06-24T07:02:33.049Z"
     }
   ],
-  "mirroredAt": "2026-06-24T07:02:33.406Z",
+  "mirroredAt": "2026-06-24T07:02:35.196Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
