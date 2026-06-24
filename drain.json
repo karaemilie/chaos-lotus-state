@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-24T07:03:36.052Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Get webcam for B",
+      "_addedAt": "2026-06-24T08:57:41.924Z",
+      "_ts": "2026-06-24T08:57:42.081Z"
+    }
+  ],
+  "mirroredAt": "2026-06-24T08:57:42.316Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
