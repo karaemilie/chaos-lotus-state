@@ -460,13 +460,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 52,
-      "row": 14,
-      "label": "Find a cable for Musiah",
-      "uid": "SPIN:52"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 55,
       "row": 15,
       "label": "Embry-Riddle: check balance",
@@ -879,13 +872,13 @@
       "uid": "SPIN_WHEEL:228"
     }
   ],
-  "version": 495,
-  "updated": "2026-06-24T09:27:07.687315+00:00",
+  "version": 496,
+  "updated": "2026-06-24T09:34:04.253126+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 72
+    "SPIN_WHEEL": 71
   }
 }
