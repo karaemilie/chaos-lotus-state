@@ -828,15 +828,22 @@
       "sid": 221,
       "label": "Update iPad for Musiah **",
       "uid": "SPIN_WHEEL:221"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 222,
+      "sid": 222,
+      "label": "Get webcam for B",
+      "uid": "SPIN_WHEEL:222"
     }
   ],
-  "version": 489,
-  "updated": "2026-06-24T07:03:37.774304+00:00",
+  "version": 490,
+  "updated": "2026-06-24T08:57:55.429631+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 65
+    "SPIN_WHEEL": 66
   }
 }
