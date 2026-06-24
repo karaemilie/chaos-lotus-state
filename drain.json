@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-24T06:11:57.918Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "UV clean the purse",
+      "_addedAt": "2026-06-24T06:59:00.939Z",
+      "_ts": "2026-06-24T06:59:01.426Z"
+    }
+  ],
+  "mirroredAt": "2026-06-24T06:59:01.770Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
