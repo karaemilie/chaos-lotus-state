@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 60,
+      "label": "Second round purse ozone!",
+      "uid": "SPIN:211",
+      "_ts": "2026-06-24T06:59:08.046Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-06-24T06:59:01.426Z"
     }
   ],
-  "mirroredAt": "2026-06-24T06:59:01.770Z",
+  "mirroredAt": "2026-06-24T06:59:08.278Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
