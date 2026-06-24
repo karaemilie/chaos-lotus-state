@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-24T07:00:01.389Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Deploy chore app",
+      "_addedAt": "2026-06-24T07:02:32.636Z",
+      "_ts": "2026-06-24T07:02:33.049Z"
+    }
+  ],
+  "mirroredAt": "2026-06-24T07:02:33.406Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
