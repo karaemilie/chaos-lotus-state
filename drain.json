@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-24T09:24:34.695Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Kohls order",
+      "_addedAt": "2026-06-24T09:24:22.062Z",
+      "_ts": "2026-06-24T09:24:22.176Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Research/decide about new  vacumn",
+      "_addedAt": "2026-06-24T09:24:47.876Z",
+      "_ts": "2026-06-24T09:24:47.987Z"
+    }
+  ],
+  "mirroredAt": "2026-06-24T09:24:48.200Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
