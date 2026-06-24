@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-24T01:11:35.615Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find the caffeine gum",
+      "_addedAt": "2026-06-24T06:11:45.335Z",
+      "_ts": "2026-06-24T06:11:45.467Z"
+    }
+  ],
+  "mirroredAt": "2026-06-24T06:11:45.752Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
