@@ -761,13 +761,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 206,
-      "row": 57,
-      "label": "Grab a tray for all my Hoya sale list-Wes",
-      "uid": "SPIN:206"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 207,
       "row": 58,
       "label": "Call Treeforms & price stools \u2026",
@@ -779,13 +772,6 @@
       "row": 59,
       "label": "Re-org disposable ware boxes in garage",
       "uid": "SPIN:210"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 211,
-      "row": 60,
-      "label": "Second round purse ozone!",
-      "uid": "SPIN:211"
     },
     {
       "source": "SPIN_WHEEL",
@@ -837,13 +823,13 @@
       "uid": "SPIN_WHEEL:218"
     }
   ],
-  "version": 484,
-  "updated": "2026-06-24T06:59:16.612300+00:00",
+  "version": 485,
+  "updated": "2026-06-24T07:00:00.167966+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 66
+    "SPIN_WHEEL": 64
   }
 }
