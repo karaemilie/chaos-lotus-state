@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-24T01:06:00.904Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Refund Jake contacts with VSP?",
+      "_addedAt": "2026-06-24T01:11:18.716Z",
+      "_ts": "2026-06-24T01:11:18.898Z"
+    }
+  ],
+  "mirroredAt": "2026-06-24T01:11:19.148Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
