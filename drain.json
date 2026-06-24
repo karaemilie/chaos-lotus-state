@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-24T08:58:32.425Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Kohls order",
+      "_addedAt": "2026-06-24T09:24:22.062Z",
+      "_ts": "2026-06-24T09:24:22.176Z"
+    }
+  ],
+  "mirroredAt": "2026-06-24T09:24:22.400Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
