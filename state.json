@@ -849,15 +849,22 @@
       "sid": 239,
       "label": "Figure out where to place new Pura",
       "uid": "SPIN_WHEEL:239"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 240,
+      "sid": 240,
+      "label": "Add yard edging to chore app",
+      "uid": "SPIN_WHEEL:240"
     }
   ],
-  "version": 522,
-  "updated": "2026-06-25T23:45:11.456584+00:00",
+  "version": 523,
+  "updated": "2026-06-25T23:53:25.921931+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 69
+    "SPIN_WHEEL": 70
   }
 }
