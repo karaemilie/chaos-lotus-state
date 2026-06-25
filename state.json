@@ -30,20 +30,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11702,
-      "row": 364,
-      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11702"
-    },
-    {
-      "source": "TASKS",
       "id": 11064,
       "row": 376,
       "label": "Unpack the Festool Domino \ud83d\udd28\ud83d\udce6",
@@ -869,10 +855,23 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10073"
+    },
+    {
+      "source": "TASKS",
+      "id": 10150,
+      "label": "Clean up all shoes in the mudroom \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10150"
     }
   ],
-  "version": 497,
-  "updated": "2026-06-25T02:04:53.754009+00:00",
+  "version": 498,
+  "updated": "2026-06-25T06:26:53.034836+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
