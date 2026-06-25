@@ -856,15 +856,22 @@
       "sid": 240,
       "label": "Add yard edging to chore app",
       "uid": "SPIN_WHEEL:240"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 241,
+      "sid": 241,
+      "label": "Add vetch to yard app",
+      "uid": "SPIN_WHEEL:241"
     }
   ],
-  "version": 523,
-  "updated": "2026-06-25T23:53:25.921931+00:00",
+  "version": 524,
+  "updated": "2026-06-25T23:54:10.215297+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 70
+    "SPIN_WHEEL": 71
   }
 }
