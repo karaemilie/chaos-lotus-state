@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-25T06:29:12.176Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find more sale plants",
+      "_addedAt": "2026-06-25T08:25:38.315Z",
+      "_ts": "2026-06-25T08:25:38.454Z"
+    }
+  ],
+  "mirroredAt": "2026-06-25T08:25:38.716Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
