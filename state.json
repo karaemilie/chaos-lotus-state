@@ -806,13 +806,6 @@
       "uid": "SPIN_WHEEL:227"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 228,
-      "sid": 228,
-      "label": "Write matt",
-      "uid": "SPIN_WHEEL:228"
-    },
-    {
       "source": "TASKS",
       "id": 10073,
       "label": "Figure out what to invest $18k ROTH in \ud83d\udcdd",
@@ -839,15 +832,6 @@
       "uid": "TASKS:10150"
     },
     {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
       "source": "TASKS",
       "id": 10202,
       "label": "Look into if life insurance policies are at end of term - convert to retain value \ud83d\udcdd",
@@ -866,15 +850,24 @@
       "sid": 229,
       "label": "Pick July/August celloesson",
       "uid": "SPIN_WHEEL:229"
+    },
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Props",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Props",
+      "uid": "ZONES:78"
     }
   ],
-  "version": 500,
-  "updated": "2026-06-25T06:28:28.999733+00:00",
+  "version": 501,
+  "updated": "2026-06-25T06:29:11.056744+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 71
+    "SPIN_WHEEL": 70
   }
 }
