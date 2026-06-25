@@ -128,20 +128,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11518,
-      "row": 273,
-      "label": "Buy 2 more allergy mattress covers (Prime Day) \ud83d\uded2\ud83d\udecf\ufe0f \ud83d\udcdd",
-      "aw": 6,
-      "pri": null,
-      "dur": 15,
-      "ml": null,
-      "proj": "Allergy Bedroom",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11518"
-    },
-    {
-      "source": "TASKS",
       "id": 11421,
       "row": 254,
       "label": "Finish fixing sand table",
@@ -823,10 +809,23 @@
       "sid": 234,
       "label": "Scrub brush front table**",
       "uid": "SPIN_WHEEL:234"
+    },
+    {
+      "source": "TASKS",
+      "id": 11719,
+      "label": "\u2728 Listen to part of a podcast \ud83c\udfa7",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11719"
     }
   ],
-  "version": 514,
-  "updated": "2026-06-25T23:39:18.043763+00:00",
+  "version": 515,
+  "updated": "2026-06-25T23:41:38.767065+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
