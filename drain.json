@@ -6,12 +6,26 @@
       "label": "Put 5 plants to sell on tray",
       "uid": "SPIN_WHEEL:219",
       "_ts": "2026-06-25T08:25:40.558Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 53,
+      "label": "Vacumn Genevieve room",
+      "uid": "SPIN:199",
+      "_ts": "2026-06-25T08:26:05.467Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-06-25T08:25:51.783Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find more sale plants",
+      "_addedAt": "2026-06-25T08:25:38.315Z",
+      "_ts": "2026-06-25T08:25:38.454Z"
+    }
+  ],
+  "mirroredAt": "2026-06-25T08:26:05.673Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
