@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 54,
+      "label": "Clear Genevieve room",
+      "uid": "SPIN:200",
+      "_ts": "2026-06-25T23:28:18.178Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-06-25T23:28:10.390Z"
     }
   ],
-  "mirroredAt": "2026-06-25T23:28:10.637Z",
+  "mirroredAt": "2026-06-25T23:28:18.419Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
