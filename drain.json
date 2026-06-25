@@ -1,14 +1,6 @@
 {
   "completions": [
     {
-      "source": "COURAGE",
-      "parentId": 11011,
-      "stepIndex": 0,
-      "label": "🔥 Book Bentley roundtrip DFW → Washington DC ✈️🏛️ 📝",
-      "uid": "COURAGE:11011:0",
-      "_ts": "2026-06-25T23:43:18.695Z"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 58,
       "label": "Call Treeforms & price stools …",
@@ -16,17 +8,10 @@
       "_ts": "2026-06-25T23:43:28.751Z"
     }
   ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Talk to Genevieve about fall invoices",
-      "_addedAt": "2026-06-25T23:42:35.347Z",
-      "_ts": "2026-06-25T23:42:35.434Z"
-    }
-  ],
-  "mirroredAt": "2026-06-25T23:43:28.979Z",
+  "adds": [],
+  "mirroredAt": "2026-06-25T23:43:40.360Z",
   "counts": {
-    "completions": 2,
-    "adds": 1
+    "completions": 1,
+    "adds": 0
   }
 }
