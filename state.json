@@ -852,15 +852,22 @@
       "sid": 231,
       "label": "Measure for 20\u201d Robo dock",
       "uid": "SPIN_WHEEL:231"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 232,
+      "sid": 232,
+      "label": "Back of board **",
+      "uid": "SPIN_WHEEL:232"
     }
   ],
-  "version": 505,
-  "updated": "2026-06-25T08:46:57.448979+00:00",
+  "version": 506,
+  "updated": "2026-06-25T23:13:59.557894+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 69
+    "SPIN_WHEEL": 70
   }
 }
