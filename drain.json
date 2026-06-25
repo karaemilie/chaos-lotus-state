@@ -1,13 +1,25 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-25T23:41:41.646Z",
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11518,
+      "row": 273,
+      "label": "Buy 2 more allergy mattress covers (Prime Day) 🛒🛏️ 📝",
+      "uid": "TASKS:11518",
+      "_ts": "2026-06-25T23:41:27.516Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Read Let Them parenting guide",
+      "_addedAt": "2026-06-25T23:41:54.155Z",
+      "_ts": "2026-06-25T23:41:54.238Z"
+    }
+  ],
+  "mirroredAt": "2026-06-25T23:41:54.482Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-25T23:41:42.575459+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11518"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
