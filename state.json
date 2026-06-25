@@ -2,20 +2,6 @@
   "tasks": [
     {
       "source": "TASKS",
-      "id": 10957,
-      "row": 177,
-      "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
-      "aw": 6,
-      "pri": "Medium",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10957"
-    },
-    {
-      "source": "TASKS",
       "id": 11502,
       "row": 272,
       "label": "\u2728 Review IXL assessments for Lincoln",
@@ -280,16 +266,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "row": 77,
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
-    },
-    {
-      "source": "ZONES",
       "zid": 84,
       "floor": "Personal",
       "row": 85,
@@ -366,13 +342,6 @@
       "row": 4,
       "label": "Order Jake 4 boxes contacts",
       "uid": "SPIN:18"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 28,
-      "row": 5,
-      "label": "Price saw stop at Alaska hardware",
-      "uid": "SPIN:28"
     },
     {
       "source": "SPIN_WHEEL",
@@ -868,15 +837,37 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10150"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
+    },
+    {
+      "source": "TASKS",
+      "id": 10202,
+      "label": "Look into if life insurance policies are at end of term - convert to retain value \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10202"
     }
   ],
-  "version": 498,
-  "updated": "2026-06-25T06:26:53.034836+00:00",
+  "version": 499,
+  "updated": "2026-06-25T06:27:36.513929+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 71
+    "SPIN_WHEEL": 70
   }
 }
