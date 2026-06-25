@@ -822,15 +822,22 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:11719"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 235,
+      "sid": 235,
+      "label": "Read Let Them parenting guide",
+      "uid": "SPIN_WHEEL:235"
     }
   ],
-  "version": 516,
-  "updated": "2026-06-25T23:42:10.397359+00:00",
+  "version": 517,
+  "updated": "2026-06-25T23:42:14.343952+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 65
+    "SPIN_WHEEL": 66
   }
 }
