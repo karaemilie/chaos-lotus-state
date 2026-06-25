@@ -772,13 +772,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 225,
-      "sid": 225,
-      "label": "Kohls order",
-      "uid": "SPIN_WHEEL:225"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 226,
       "sid": 226,
       "label": "Research/decide about new  vacumn",
@@ -854,13 +847,13 @@
       "uid": "SPIN_WHEEL:230"
     }
   ],
-  "version": 503,
-  "updated": "2026-06-25T08:26:34.877362+00:00",
+  "version": 504,
+  "updated": "2026-06-25T08:39:29.496929+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 69
+    "SPIN_WHEEL": 68
   }
 }
