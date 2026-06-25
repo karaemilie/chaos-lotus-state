@@ -829,15 +829,22 @@
       "sid": 235,
       "label": "Read Let Them parenting guide",
       "uid": "SPIN_WHEEL:235"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 236,
+      "sid": 236,
+      "label": "Talk to Genevieve about fall invoices",
+      "uid": "SPIN_WHEEL:236"
     }
   ],
-  "version": 517,
-  "updated": "2026-06-25T23:42:14.343952+00:00",
+  "version": 518,
+  "updated": "2026-06-25T23:42:58.795545+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 66
+    "SPIN_WHEEL": 67
   }
 }
