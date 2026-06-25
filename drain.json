@@ -1,15 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 227,
+      "label": "Put a cuticle oil in family room",
+      "uid": "SPIN_WHEEL:227",
+      "_ts": "2026-06-25T23:31:56.831Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-25T23:29:46.133Z",
+  "mirroredAt": "2026-06-25T23:31:57.071Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-25T23:29:46.813332+00:00",
-  "lastAutoProcessed": [
-    "SPIN:200",
-    "SPIN:129",
-    "SPIN_WHEEL:232"
-  ]
+  }
 }
