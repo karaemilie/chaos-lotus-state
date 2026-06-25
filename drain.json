@@ -1,9 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-25T06:28:27.805Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 228,
+      "label": "Write matt",
+      "uid": "SPIN_WHEEL:228",
+      "_ts": "2026-06-25T06:28:40.707Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pick July/August celloesson",
+      "_addedAt": "2026-06-25T06:28:14.744Z",
+      "_ts": "2026-06-25T06:28:14.948Z"
+    }
+  ],
+  "mirroredAt": "2026-06-25T06:28:40.978Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
