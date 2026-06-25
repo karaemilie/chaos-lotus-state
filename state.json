@@ -660,13 +660,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 199,
-      "row": 53,
-      "label": "Vacumn Genevieve room",
-      "uid": "SPIN:199"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 200,
       "row": 54,
       "label": "Clear Genevieve room",
@@ -741,13 +734,6 @@
       "sid": 218,
       "label": "UV clean the purse",
       "uid": "SPIN_WHEEL:218"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 219,
-      "sid": 219,
-      "label": "Put 5 plants to sell on tray",
-      "uid": "SPIN_WHEEL:219"
     },
     {
       "source": "SPIN_WHEEL",
@@ -868,13 +854,13 @@
       "uid": "SPIN_WHEEL:230"
     }
   ],
-  "version": 502,
-  "updated": "2026-06-25T08:25:52.665280+00:00",
+  "version": 503,
+  "updated": "2026-06-25T08:26:34.877362+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 71
+    "SPIN_WHEEL": 69
   }
 }
