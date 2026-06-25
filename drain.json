@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 225,
+      "label": "Kohls order",
+      "uid": "SPIN_WHEEL:225",
+      "_ts": "2026-06-25T08:39:17.478Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-25T08:26:36.127Z",
+  "mirroredAt": "2026-06-25T08:39:17.706Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
