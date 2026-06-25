@@ -478,13 +478,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 129,
-      "row": 28,
-      "label": "Make sure summer cello is on calensae",
-      "uid": "SPIN:129"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 135,
       "row": 29,
       "label": "Move chairs",
@@ -643,13 +636,6 @@
       "row": 52,
       "label": "Linc tray 5 plan",
       "uid": "SPIN:198"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 200,
-      "row": 54,
-      "label": "Clear Genevieve room",
-      "uid": "SPIN:200"
     },
     {
       "source": "SPIN_WHEEL",
@@ -860,13 +846,13 @@
       "uid": "SPIN_WHEEL:233"
     }
   ],
-  "version": 508,
-  "updated": "2026-06-25T23:28:24.673537+00:00",
+  "version": 509,
+  "updated": "2026-06-25T23:29:07.525514+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 70
+    "SPIN_WHEEL": 68
   }
 }
