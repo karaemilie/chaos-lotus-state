@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11518,
+      "row": 273,
+      "label": "Buy 2 more allergy mattress covers (Prime Day) 🛒🛏️ 📝",
+      "uid": "TASKS:11518",
+      "_ts": "2026-06-25T23:41:27.516Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-25T23:39:19.262Z",
+  "mirroredAt": "2026-06-25T23:41:27.766Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-25T23:39:20.152122+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:218"
-  ]
+  }
 }
