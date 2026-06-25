@@ -1,6 +1,14 @@
 {
   "completions": [
     {
+      "source": "COURAGE",
+      "parentId": 11011,
+      "stepIndex": 0,
+      "label": "🔥 Book Bentley roundtrip DFW → Washington DC ✈️🏛️ 📝",
+      "uid": "COURAGE:11011:0",
+      "_ts": "2026-06-25T23:43:18.695Z"
+    },
+    {
       "source": "SPIN_WHEEL",
       "row": 58,
       "label": "Call Treeforms & price stools …",
@@ -8,10 +16,17 @@
       "_ts": "2026-06-25T23:43:28.751Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-06-25T23:43:40.360Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Visit Treeforms",
+      "_addedAt": "2026-06-25T23:43:41.716Z",
+      "_ts": "2026-06-25T23:43:41.808Z"
+    }
+  ],
+  "mirroredAt": "2026-06-25T23:43:42.062Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
