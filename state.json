@@ -436,13 +436,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 90,
-      "row": 22,
-      "label": "Clean up porch",
-      "uid": "SPIN:90"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 95,
       "row": 23,
       "label": "Find first transcript for Bentley",
@@ -839,13 +832,13 @@
       "uid": "SPIN_WHEEL:234"
     }
   ],
-  "version": 512,
-  "updated": "2026-06-25T23:35:56.540453+00:00",
+  "version": 513,
+  "updated": "2026-06-25T23:36:34.447620+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 67
+    "SPIN_WHEEL": 66
   }
 }
