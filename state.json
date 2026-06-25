@@ -743,13 +743,6 @@
       "uid": "SPIN_WHEEL:226"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 227,
-      "sid": 227,
-      "label": "Put a cuticle oil in family room",
-      "uid": "SPIN_WHEEL:227"
-    },
-    {
       "source": "TASKS",
       "id": 10073,
       "label": "Figure out what to invest $18k ROTH in \ud83d\udcdd",
@@ -839,13 +832,13 @@
       "uid": "SPIN_WHEEL:233"
     }
   ],
-  "version": 510,
-  "updated": "2026-06-25T23:29:45.161868+00:00",
+  "version": 511,
+  "updated": "2026-06-25T23:32:08.143702+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 67
+    "SPIN_WHEEL": 66
   }
 }
