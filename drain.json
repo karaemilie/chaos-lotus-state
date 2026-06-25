@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-25T23:44:21.645Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Figure out where to place new Pura",
+      "_addedAt": "2026-06-25T23:44:48.183Z",
+      "_ts": "2026-06-25T23:44:48.428Z"
+    }
+  ],
+  "mirroredAt": "2026-06-25T23:44:48.674Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
