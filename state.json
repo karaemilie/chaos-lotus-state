@@ -842,15 +842,22 @@
       "sid": 238,
       "label": "Balloon arch",
       "uid": "SPIN_WHEEL:238"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 239,
+      "sid": 239,
+      "label": "Figure out where to place new Pura",
+      "uid": "SPIN_WHEEL:239"
     }
   ],
-  "version": 521,
-  "updated": "2026-06-25T23:44:22.840824+00:00",
+  "version": 522,
+  "updated": "2026-06-25T23:45:11.456584+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 68
+    "SPIN_WHEEL": 69
   }
 }
