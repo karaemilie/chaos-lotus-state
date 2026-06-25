@@ -688,13 +688,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 218,
-      "sid": 218,
-      "label": "UV clean the purse",
-      "uid": "SPIN_WHEEL:218"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 220,
       "sid": 220,
       "label": "Deploy chore app",
@@ -832,13 +825,13 @@
       "uid": "SPIN_WHEEL:234"
     }
   ],
-  "version": 513,
-  "updated": "2026-06-25T23:36:34.447620+00:00",
+  "version": 514,
+  "updated": "2026-06-25T23:39:18.043763+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 66
+    "SPIN_WHEEL": 65
   }
 }
