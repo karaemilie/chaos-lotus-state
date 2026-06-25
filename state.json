@@ -859,15 +859,22 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10202"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 229,
+      "sid": 229,
+      "label": "Pick July/August celloesson",
+      "uid": "SPIN_WHEEL:229"
     }
   ],
-  "version": 499,
-  "updated": "2026-06-25T06:27:36.513929+00:00",
+  "version": 500,
+  "updated": "2026-06-25T06:28:28.999733+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 70
+    "SPIN_WHEEL": 71
   }
 }
