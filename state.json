@@ -30,20 +30,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11661,
-      "row": 328,
-      "label": "\u2728 Water snake plants",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11661"
-    },
-    {
-      "source": "TASKS",
       "id": 11702,
       "row": 364,
       "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
@@ -870,10 +856,23 @@
       "sid": 228,
       "label": "Write matt",
       "uid": "SPIN_WHEEL:228"
+    },
+    {
+      "source": "TASKS",
+      "id": 10073,
+      "label": "Figure out what to invest $18k ROTH in \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 45,
+      "ml": "Hard",
+      "proj": "Financial Admin",
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10073"
     }
   ],
-  "version": 496,
-  "updated": "2026-06-24T09:34:04.253126+00:00",
+  "version": 497,
+  "updated": "2026-06-25T02:04:53.754009+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
