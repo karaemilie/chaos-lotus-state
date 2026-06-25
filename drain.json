@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-25T08:46:56.123Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Back of board **",
+      "_addedAt": "2026-06-25T23:13:45.539Z",
+      "_ts": "2026-06-25T23:13:45.650Z"
+    }
+  ],
+  "mirroredAt": "2026-06-25T23:13:45.915Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
