@@ -859,15 +859,22 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Props",
       "uid": "ZONES:78"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 230,
+      "sid": 230,
+      "label": "Find more sale plants",
+      "uid": "SPIN_WHEEL:230"
     }
   ],
-  "version": 501,
-  "updated": "2026-06-25T06:29:11.056744+00:00",
+  "version": 502,
+  "updated": "2026-06-25T08:25:52.665280+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 70
+    "SPIN_WHEEL": 71
   }
 }
