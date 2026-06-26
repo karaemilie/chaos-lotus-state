@@ -1,9 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-26T00:21:30.624Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 43,
+      "label": "Write Karen about Genevieve’s 529",
+      "uid": "SPIN:178",
+      "_ts": "2026-06-26T00:21:32.333Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ten more minutes weeding",
+      "_addedAt": "2026-06-26T00:21:16.293Z",
+      "_ts": "2026-06-26T00:21:16.424Z"
+    }
+  ],
+  "mirroredAt": "2026-06-26T00:21:32.563Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
