@@ -494,13 +494,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 162,
-      "row": 37,
-      "label": "Clean little table on porch **",
-      "uid": "SPIN:162"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 163,
       "row": 38,
       "label": "Post photo of property to Lymow **",
@@ -886,13 +879,13 @@
       "uid": "SPIN_WHEEL:245"
     }
   ],
-  "version": 529,
-  "updated": "2026-06-26T05:02:25.022560+00:00",
+  "version": 530,
+  "updated": "2026-06-26T05:21:11.354771+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 74
+    "SPIN_WHEEL": 73
   }
 }
