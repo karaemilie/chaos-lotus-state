@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-26T06:47:59.945Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "More work dining nook windows",
+      "_addedAt": "2026-06-26T06:49:04.331Z",
+      "_ts": "2026-06-26T06:49:04.680Z"
+    }
+  ],
+  "mirroredAt": "2026-06-26T06:49:05.005Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-26T06:48:00.612216+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:240",
-    "TASKS:11719"
-  ]
+    "adds": 1
+  }
 }
