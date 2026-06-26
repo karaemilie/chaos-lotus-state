@@ -20,31 +20,19 @@
       "label": "Research/decide about new  vacumn",
       "uid": "SPIN_WHEEL:226",
       "_ts": "2026-06-26T06:50:21.865Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "More work dining nook windows",
-      "_addedAt": "2026-06-26T06:49:04.331Z",
-      "_ts": "2026-06-26T06:49:04.680Z"
     },
     {
-      "source": "PLUS_ADD",
-      "label": "Try window entry arch",
-      "_addedAt": "2026-06-26T06:49:18.619Z",
-      "_ts": "2026-06-26T06:49:18.834Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "More work main living room",
-      "_addedAt": "2026-06-26T06:49:30.764Z",
-      "_ts": "2026-06-26T06:49:30.975Z"
+      "source": "SPIN_WHEEL",
+      "row": 239,
+      "label": "Figure out where to place new Pura",
+      "uid": "SPIN_WHEEL:239",
+      "_ts": "2026-06-26T06:50:42.883Z"
     }
   ],
-  "mirroredAt": "2026-06-26T06:50:22.075Z",
+  "adds": [],
+  "mirroredAt": "2026-06-26T06:50:43.092Z",
   "counts": {
-    "completions": 3,
-    "adds": 3
+    "completions": 4,
+    "adds": 0
   }
 }
