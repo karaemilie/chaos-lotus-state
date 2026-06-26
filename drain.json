@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-26T01:08:44.389Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Text Glen",
+      "_addedAt": "2026-06-26T04:51:17.213Z",
+      "_ts": "2026-06-26T04:51:17.462Z"
+    }
+  ],
+  "mirroredAt": "2026-06-26T04:51:17.697Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
