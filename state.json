@@ -824,13 +824,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 240,
-      "sid": 240,
-      "label": "Add yard edging to chore app",
-      "uid": "SPIN_WHEEL:240"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 242,
       "sid": 242,
       "label": "Ten more minutes weeding",
@@ -858,13 +851,13 @@
       "uid": "SPIN_WHEEL:245"
     }
   ],
-  "version": 532,
-  "updated": "2026-06-26T06:11:31.602228+00:00",
+  "version": 533,
+  "updated": "2026-06-26T06:47:28.332412+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 70
+    "SPIN_WHEEL": 69
   }
 }
