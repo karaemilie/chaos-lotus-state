@@ -849,15 +849,29 @@
       "sid": 246,
       "label": "More work dining nook windows",
       "uid": "SPIN_WHEEL:246"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 247,
+      "sid": 247,
+      "label": "Try window entry arch",
+      "uid": "SPIN_WHEEL:247"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 248,
+      "sid": 248,
+      "label": "More work main living room",
+      "uid": "SPIN_WHEEL:248"
     }
   ],
-  "version": 536,
-  "updated": "2026-06-26T06:50:01.702757+00:00",
+  "version": 537,
+  "updated": "2026-06-26T06:50:03.736115+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 69
+    "SPIN_WHEEL": 71
   }
 }
