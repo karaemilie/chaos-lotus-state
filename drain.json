@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-26T04:51:31.939Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Make Claude write memory rule about token flow for future him",
+      "_addedAt": "2026-06-26T05:02:08.635Z",
+      "_ts": "2026-06-26T05:02:09.049Z"
+    }
+  ],
+  "mirroredAt": "2026-06-26T05:02:09.406Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
