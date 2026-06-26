@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 240,
+      "label": "Add yard edging to chore app",
+      "uid": "SPIN_WHEEL:240",
+      "_ts": "2026-06-26T06:47:17.520Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11719,
+      "label": "✨ Listen to part of a podcast 🎧",
+      "uid": "TASKS:11719",
+      "_ts": "2026-06-26T06:47:38.902Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-26T06:47:29.290Z",
+  "mirroredAt": "2026-06-26T06:47:39.131Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-06-26T06:47:30.060394+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:240"
-  ]
+  }
 }
