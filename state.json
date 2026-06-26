@@ -841,15 +841,22 @@
       "sid": 249,
       "label": "Move black pura",
       "uid": "SPIN_WHEEL:249"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 250,
+      "sid": 250,
+      "label": "Hand held",
+      "uid": "SPIN_WHEEL:250"
     }
   ],
-  "version": 541,
-  "updated": "2026-06-26T06:51:59.447287+00:00",
+  "version": 542,
+  "updated": "2026-06-26T09:20:42.886738+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 68
+    "SPIN_WHEEL": 69
   }
 }
