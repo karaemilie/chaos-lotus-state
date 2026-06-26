@@ -34,12 +34,21 @@
       "label": "Get Evan set up with retainer bath",
       "uid": "SPIN:197",
       "_ts": "2026-06-26T06:50:54.235Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 76,
+      "zid": 75,
+      "floor": "Plant",
+      "label": "🌱 Main floor Down Low",
+      "uid": "ZONES:75",
+      "_ts": "2026-06-26T06:51:15.841Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-26T06:50:54.428Z",
+  "mirroredAt": "2026-06-26T06:51:16.059Z",
   "counts": {
-    "completions": 5,
+    "completions": 6,
     "adds": 0
   }
 }
