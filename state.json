@@ -863,15 +863,22 @@
       "sid": 241,
       "label": "Add vetch to yard app",
       "uid": "SPIN_WHEEL:241"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 242,
+      "sid": 242,
+      "label": "Ten more minutes weeding",
+      "uid": "SPIN_WHEEL:242"
     }
   ],
-  "version": 524,
-  "updated": "2026-06-25T23:54:10.215297+00:00",
+  "version": 525,
+  "updated": "2026-06-26T00:21:31.856218+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 71
+    "SPIN_WHEEL": 72
   }
 }
