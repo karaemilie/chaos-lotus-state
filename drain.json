@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-26T06:51:58.630Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Hand held",
+      "_addedAt": "2026-06-26T09:20:29.739Z",
+      "_ts": "2026-06-26T09:20:29.976Z"
+    }
+  ],
+  "mirroredAt": "2026-06-26T09:20:30.202Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
