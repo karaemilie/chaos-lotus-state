@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-26T09:20:42.014Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Hand held",
+      "_addedAt": "2026-06-26T09:20:29.739Z",
+      "_ts": "2026-06-26T09:20:29.976Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Bike pump and AE shirt for Sam",
+      "_addedAt": "2026-06-26T09:20:43.932Z",
+      "_ts": "2026-06-26T09:20:44.158Z"
+    }
+  ],
+  "mirroredAt": "2026-06-26T09:20:44.385Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
