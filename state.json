@@ -396,13 +396,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 88,
-      "row": 20,
-      "label": "Outside raspberry work, again",
-      "uid": "SPIN:88"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 89,
       "row": 21,
       "label": "Get rid of old weed barrel",
@@ -858,13 +851,13 @@
       "uid": "SPIN_WHEEL:246"
     }
   ],
-  "version": 535,
-  "updated": "2026-06-26T06:49:19.485530+00:00",
+  "version": 536,
+  "updated": "2026-06-26T06:50:01.702757+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 70
+    "SPIN_WHEEL": 69
   }
 }
