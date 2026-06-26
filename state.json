@@ -216,16 +216,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "row": 76,
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
-    },
-    {
-      "source": "ZONES",
       "zid": 84,
       "floor": "Personal",
       "row": 85,
@@ -571,13 +561,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 197,
-      "row": 51,
-      "label": "Get Evan set up with retainer bath",
-      "uid": "SPIN:197"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 198,
       "row": 52,
       "label": "Linc tray 5 plan",
@@ -783,13 +766,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 239,
-      "sid": 239,
-      "label": "Figure out where to place new Pura",
-      "uid": "SPIN_WHEEL:239"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 242,
       "sid": 242,
       "label": "Ten more minutes weeding",
@@ -849,15 +825,24 @@
       "sid": 248,
       "label": "More work main living room",
       "uid": "SPIN_WHEEL:248"
+    },
+    {
+      "source": "ZONES",
+      "zid": 79,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Kitchen Up High",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Kitchen Up High",
+      "uid": "ZONES:79"
     }
   ],
-  "version": 538,
-  "updated": "2026-06-26T06:50:46.802272+00:00",
+  "version": 539,
+  "updated": "2026-06-26T06:51:31.777287+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 69
+    "SPIN_WHEEL": 67
   }
 }
