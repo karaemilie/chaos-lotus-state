@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 217,
+      "label": "Find the caffeine gum",
+      "uid": "SPIN_WHEEL:217",
+      "_ts": "2026-06-26T06:05:41.574Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 241,
+      "label": "Add vetch to yard app",
+      "uid": "SPIN_WHEEL:241",
+      "_ts": "2026-06-26T06:10:49.439Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-26T05:21:12.329Z",
+  "mirroredAt": "2026-06-26T06:10:49.851Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-06-26T05:21:13.098161+00:00",
-  "lastAutoProcessed": [
-    "SPIN:162"
-  ]
+  }
 }
