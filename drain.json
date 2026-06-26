@@ -1,9 +1,43 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-26T06:50:02.746Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 20,
+      "label": "Outside raspberry work, again",
+      "uid": "SPIN:88",
+      "_ts": "2026-06-26T06:49:42.978Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 55,
+      "label": "Finish main floor, family windows",
+      "uid": "SPIN:202",
+      "_ts": "2026-06-26T06:50:03.708Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "More work dining nook windows",
+      "_addedAt": "2026-06-26T06:49:04.331Z",
+      "_ts": "2026-06-26T06:49:04.680Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Try window entry arch",
+      "_addedAt": "2026-06-26T06:49:18.619Z",
+      "_ts": "2026-06-26T06:49:18.834Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "More work main living room",
+      "_addedAt": "2026-06-26T06:49:30.764Z",
+      "_ts": "2026-06-26T06:49:30.975Z"
+    }
+  ],
+  "mirroredAt": "2026-06-26T06:50:03.918Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 2,
+    "adds": 3
   }
 }
