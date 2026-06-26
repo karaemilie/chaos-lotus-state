@@ -764,19 +764,6 @@
       "uid": "SPIN_WHEEL:234"
     },
     {
-      "source": "TASKS",
-      "id": 11719,
-      "label": "\u2728 Listen to part of a podcast \ud83c\udfa7",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 30,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11719"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 235,
       "sid": 235,
@@ -849,10 +836,23 @@
       "sid": 245,
       "label": "Make Claude write memory rule about token flow for future him",
       "uid": "SPIN_WHEEL:245"
+    },
+    {
+      "source": "TASKS",
+      "id": 11706,
+      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11706"
     }
   ],
-  "version": 533,
-  "updated": "2026-06-26T06:47:28.332412+00:00",
+  "version": 534,
+  "updated": "2026-06-26T06:47:57.739731+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
