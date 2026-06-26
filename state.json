@@ -585,13 +585,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 202,
-      "row": 55,
-      "label": "Finish main floor, family windows",
-      "uid": "SPIN:202"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 210,
       "row": 59,
       "label": "Re-org disposable ware boxes in garage",
@@ -659,13 +652,6 @@
       "sid": 224,
       "label": "Order another Unbed alarm",
       "uid": "SPIN_WHEEL:224"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 226,
-      "sid": 226,
-      "label": "Research/decide about new  vacumn",
-      "uid": "SPIN_WHEEL:226"
     },
     {
       "source": "TASKS",
@@ -865,13 +851,13 @@
       "uid": "SPIN_WHEEL:248"
     }
   ],
-  "version": 537,
-  "updated": "2026-06-26T06:50:03.736115+00:00",
+  "version": 538,
+  "updated": "2026-06-26T06:50:46.802272+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 71
+    "SPIN_WHEEL": 69
   }
 }
