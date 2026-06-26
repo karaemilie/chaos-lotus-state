@@ -634,13 +634,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 217,
-      "sid": 217,
-      "label": "Find the caffeine gum",
-      "uid": "SPIN_WHEEL:217"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 220,
       "sid": 220,
       "label": "Deploy chore app",
@@ -845,13 +838,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 241,
-      "sid": 241,
-      "label": "Add vetch to yard app",
-      "uid": "SPIN_WHEEL:241"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 242,
       "sid": 242,
       "label": "Ten more minutes weeding",
@@ -879,13 +865,13 @@
       "uid": "SPIN_WHEEL:245"
     }
   ],
-  "version": 530,
-  "updated": "2026-06-26T05:21:11.354771+00:00",
+  "version": 531,
+  "updated": "2026-06-26T06:11:02.258739+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 73
+    "SPIN_WHEEL": 71
   }
 }
