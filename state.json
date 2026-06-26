@@ -863,15 +863,22 @@
       "sid": 242,
       "label": "Ten more minutes weeding",
       "uid": "SPIN_WHEEL:242"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 243,
+      "sid": 243,
+      "label": "Change Amazon card payments",
+      "uid": "SPIN_WHEEL:243"
     }
   ],
-  "version": 526,
-  "updated": "2026-06-26T00:22:09.049233+00:00",
+  "version": 527,
+  "updated": "2026-06-26T01:08:45.520788+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 71
+    "SPIN_WHEEL": 72
   }
 }
