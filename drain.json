@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 20,
+      "label": "Outside raspberry work, again",
+      "uid": "SPIN:88",
+      "_ts": "2026-06-26T06:49:42.978Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -20,9 +28,9 @@
       "_ts": "2026-06-26T06:49:30.975Z"
     }
   ],
-  "mirroredAt": "2026-06-26T06:49:31.192Z",
+  "mirroredAt": "2026-06-26T06:49:43.183Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 3
   }
 }
