@@ -834,15 +834,22 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Kitchen Up High",
       "uid": "ZONES:79"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 249,
+      "sid": 249,
+      "label": "Move black pura",
+      "uid": "SPIN_WHEEL:249"
     }
   ],
-  "version": 540,
-  "updated": "2026-06-26T06:51:57.737503+00:00",
+  "version": 541,
+  "updated": "2026-06-26T06:51:59.447287+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 67
+    "SPIN_WHEEL": 68
   }
 }
