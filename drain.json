@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-25T23:54:08.796Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ten more minutes weeding",
+      "_addedAt": "2026-06-26T00:21:16.293Z",
+      "_ts": "2026-06-26T00:21:16.424Z"
+    }
+  ],
+  "mirroredAt": "2026-06-26T00:21:16.740Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
