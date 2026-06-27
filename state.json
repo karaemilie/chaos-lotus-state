@@ -244,15 +244,6 @@
       "uid": "MAINTENANCE:77"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 79,
-      "row": 80,
-      "label": "\ud83c\udfe0 Clean bathroom mirrors",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Clean bathroom mirrors",
-      "uid": "MAINTENANCE:79"
-    },
-    {
       "source": "TASKS",
       "id": 10004,
       "row": 336,
@@ -862,10 +853,18 @@
       "sid": 252,
       "label": "Research how to polish table",
       "uid": "SPIN_WHEEL:252"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 80,
+      "label": "\ud83c\udfe0 Wash my sheet",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Wash my sheet",
+      "uid": "MAINTENANCE:80"
     }
   ],
-  "version": 544,
-  "updated": "2026-06-27T07:36:39.843967+00:00",
+  "version": 545,
+  "updated": "2026-06-27T22:49:34.105388+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
