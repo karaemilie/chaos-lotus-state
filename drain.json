@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 224,
+      "label": "Order another Unbed alarm",
+      "uid": "SPIN_WHEEL:224",
+      "_ts": "2026-06-27T23:49:42.741Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-27T22:49:35.175Z",
+  "mirroredAt": "2026-06-27T23:49:43.102Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-27T22:49:35.960546+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:79"
-  ]
+  }
 }
