@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 80,
+      "label": "🏠 Clean bathroom mirrors",
+      "uid": "MAINTENANCE:79",
+      "_ts": "2026-06-27T22:49:22.872Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-27T07:36:37.725Z",
+  "mirroredAt": "2026-06-27T22:49:23.117Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
