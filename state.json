@@ -166,16 +166,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 11,
-      "floor": "Upstairs",
-      "row": 12,
-      "label": "\ud83e\uddfa My Bathroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "My Bathroom",
-      "uid": "ZONES:11"
-    },
-    {
-      "source": "ZONES",
       "zid": 22,
       "floor": "Main Floor",
       "row": 23,
@@ -853,10 +843,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Messages",
       "uid": "ZONES:62"
+    },
+    {
+      "source": "ZONES",
+      "zid": 12,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Upstairs Family Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Upstairs Family Room",
+      "uid": "ZONES:12"
     }
   ],
-  "version": 549,
-  "updated": "2026-06-28T00:37:24.298700+00:00",
+  "version": 550,
+  "updated": "2026-06-28T00:48:52.618691+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
