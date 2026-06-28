@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 233,
+      "label": "Edge stain shelf **",
+      "uid": "SPIN_WHEEL:233",
+      "_ts": "2026-06-28T08:19:19.159Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-28T06:04:22.325Z",
+  "mirroredAt": "2026-06-28T08:19:19.382Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-28T06:04:23.283071+00:00",
-  "lastAutoProcessed": [
-    "ZONES:78"
-  ]
+  }
 }
