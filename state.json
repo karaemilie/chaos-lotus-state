@@ -844,15 +844,22 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Hallway",
       "uid": "ZONES:80"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 254,
+      "sid": 254,
+      "label": "Next top coat garage board",
+      "uid": "SPIN_WHEEL:254"
     }
   ],
-  "version": 553,
-  "updated": "2026-06-28T08:19:35.348776+00:00",
+  "version": 554,
+  "updated": "2026-06-28T08:20:25.414007+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 69
+    "SPIN_WHEEL": 70
   }
 }
