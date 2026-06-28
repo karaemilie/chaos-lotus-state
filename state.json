@@ -637,15 +637,6 @@
       "uid": "SPIN_WHEEL:229"
     },
     {
-      "source": "ZONES",
-      "zid": 78,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Family Room Props",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Props",
-      "uid": "ZONES:78"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 230,
       "sid": 230,
@@ -851,10 +842,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Main Area",
       "uid": "ZONES:50"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Hallway",
+      "uid": "ZONES:80"
     }
   ],
-  "version": 551,
-  "updated": "2026-06-28T01:05:11.914327+00:00",
+  "version": 552,
+  "updated": "2026-06-28T06:04:21.201780+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
