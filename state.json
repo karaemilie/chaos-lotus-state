@@ -658,13 +658,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 233,
-      "sid": 233,
-      "label": "Edge stain shelf **",
-      "uid": "SPIN_WHEEL:233"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 234,
       "sid": 234,
       "label": "Scrub brush front table**",
@@ -853,13 +846,13 @@
       "uid": "ZONES:80"
     }
   ],
-  "version": 552,
-  "updated": "2026-06-28T06:04:21.201780+00:00",
+  "version": 553,
+  "updated": "2026-06-28T08:19:35.348776+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 70
+    "SPIN_WHEEL": 69
   }
 }
