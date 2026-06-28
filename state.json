@@ -176,16 +176,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 49,
-      "floor": "Basement",
-      "row": 50,
-      "label": "\ud83e\uddfa Basement Foyer",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Foyer",
-      "uid": "ZONES:49"
-    },
-    {
-      "source": "ZONES",
       "zid": 59,
       "floor": "Digital",
       "row": 60,
@@ -852,10 +842,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Upstairs Family Room",
       "uid": "ZONES:12"
+    },
+    {
+      "source": "ZONES",
+      "zid": 50,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Main Area",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Main Area",
+      "uid": "ZONES:50"
     }
   ],
-  "version": 550,
-  "updated": "2026-06-28T00:48:52.618691+00:00",
+  "version": 551,
+  "updated": "2026-06-28T01:05:11.914327+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
