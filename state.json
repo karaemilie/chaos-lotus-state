@@ -206,16 +206,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 61,
-      "floor": "Digital",
-      "row": 62,
-      "label": "\ud83d\udcbb Reviews",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Reviews",
-      "uid": "ZONES:61"
-    },
-    {
-      "source": "ZONES",
       "zid": 84,
       "floor": "Personal",
       "row": 85,
@@ -854,10 +844,19 @@
       "sid": 253,
       "label": "Order Bentley a bed bric",
       "uid": "SPIN_WHEEL:253"
+    },
+    {
+      "source": "ZONES",
+      "zid": 62,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Messages",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Messages",
+      "uid": "ZONES:62"
     }
   ],
-  "version": 548,
-  "updated": "2026-06-27T23:59:20.070490+00:00",
+  "version": 549,
+  "updated": "2026-06-28T00:37:24.298700+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
