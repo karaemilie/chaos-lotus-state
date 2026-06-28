@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-28T08:20:24.221Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Hume scale reading three lbs different",
+      "_addedAt": "2026-06-28T09:16:51.794Z",
+      "_ts": "2026-06-28T09:16:51.922Z"
+    }
+  ],
+  "mirroredAt": "2026-06-28T09:16:52.147Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
