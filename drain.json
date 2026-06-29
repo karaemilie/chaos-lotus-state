@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-29T07:47:04.053Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set daily quicken time w/alarm as habit for week",
+      "_addedAt": "2026-06-29T08:23:56.710Z",
+      "_ts": "2026-06-29T08:23:56.836Z"
+    }
+  ],
+  "mirroredAt": "2026-06-29T08:23:57.102Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
