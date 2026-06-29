@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-28T09:17:05.575Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Hue bulbs",
+      "_addedAt": "2026-06-29T02:40:40.416Z",
+      "_ts": "2026-06-29T02:40:40.718Z"
+    }
+  ],
+  "mirroredAt": "2026-06-29T02:40:40.938Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
