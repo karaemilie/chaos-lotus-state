@@ -28,12 +28,19 @@
       "label": "Balloon arch",
       "uid": "SPIN:238",
       "_ts": "2026-06-30T02:42:25.831Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 67,
+      "label": "Hand held",
+      "uid": "SPIN:250",
+      "_ts": "2026-06-30T02:42:41.787Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-30T02:42:26.107Z",
+  "mirroredAt": "2026-06-30T02:42:42.069Z",
   "counts": {
-    "completions": 4,
+    "completions": 5,
     "adds": 0
   }
 }
