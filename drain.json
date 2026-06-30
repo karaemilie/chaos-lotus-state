@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-30T05:53:01.248Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Inventory fiber gummies",
+      "_addedAt": "2026-06-30T21:37:25.912Z",
+      "_ts": "2026-06-30T21:37:26.173Z"
+    }
+  ],
+  "mirroredAt": "2026-06-30T21:37:26.480Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-30T05:53:02.016232+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11025"
-  ]
+    "adds": 1
+  }
 }
