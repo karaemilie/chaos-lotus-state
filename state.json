@@ -723,13 +723,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 252,
-      "row": 69,
-      "label": "Research how to polish table",
-      "uid": "SPIN:252"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 253,
       "row": 70,
       "label": "Order Bentley a bed bric",
@@ -911,13 +904,13 @@
       "uid": "SPIN_WHEEL:268"
     }
   ],
-  "version": 578,
-  "updated": "2026-06-30T05:28:43.334471+00:00",
+  "version": 579,
+  "updated": "2026-06-30T05:29:27.907823+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 79
+    "SPIN_WHEEL": 78
   }
 }
