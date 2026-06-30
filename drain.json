@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 13,
+      "zid": 12,
+      "floor": "Upstairs",
+      "label": "🧺 Upstairs Family Room",
+      "uid": "ZONES:12",
+      "_ts": "2026-06-30T04:24:48.726Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11750,
+      "label": "✨ Clear the upstairs trashes",
+      "uid": "TASKS:11750",
+      "_ts": "2026-06-30T04:25:07.380Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-30T04:25:02.785Z",
+  "mirroredAt": "2026-06-30T04:25:07.738Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-06-30T04:25:03.480607+00:00",
-  "lastAutoProcessed": [
-    "ZONES:12"
-  ]
+  }
 }
