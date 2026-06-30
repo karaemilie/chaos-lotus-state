@@ -326,15 +326,6 @@
       "uid": "MAINTENANCE:77"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 80,
-      "row": 81,
-      "label": "\ud83c\udfe0 Wash my sheet",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Wash my sheet",
-      "uid": "MAINTENANCE:80"
-    },
-    {
       "source": "TASKS",
       "id": 11243,
       "row": 232,
@@ -880,10 +871,18 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Eyebrows",
       "uid": "ZONES:86"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 81,
+      "label": "\ud83c\udfe0 Mop main floor",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Mop main floor",
+      "uid": "MAINTENANCE:81"
     }
   ],
-  "version": 562,
-  "updated": "2026-06-30T00:00:18.245360+00:00",
+  "version": 563,
+  "updated": "2026-06-30T00:03:34.295586+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
