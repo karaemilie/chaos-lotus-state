@@ -502,13 +502,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 158,
-      "row": 30,
-      "label": "Install cat filter",
-      "uid": "SPIN:158"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 163,
       "row": 31,
       "label": "Post photo of property to Lymow **",
@@ -698,13 +691,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 238,
-      "row": 59,
-      "label": "Balloon arch",
-      "uid": "SPIN:238"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 242,
       "row": 60,
       "label": "Ten more minutes weeding",
@@ -751,13 +737,6 @@
       "row": 66,
       "label": "Move black pura",
       "uid": "SPIN:249"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 250,
-      "row": 67,
-      "label": "Hand held",
-      "uid": "SPIN:250"
     },
     {
       "source": "SPIN_WHEEL",
@@ -871,13 +850,13 @@
       "uid": "TASKS:11749"
     }
   ],
-  "version": 568,
-  "updated": "2026-06-30T02:42:16.735034+00:00",
+  "version": 569,
+  "updated": "2026-06-30T02:43:01.695290+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 73
+    "SPIN_WHEEL": 70
   }
 }
