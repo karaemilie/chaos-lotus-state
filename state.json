@@ -422,13 +422,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 103,
-      "row": 21,
-      "label": "Remind Jake Weed and feed",
-      "uid": "SPIN:103"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 105,
       "row": 22,
       "label": "Verify what Dash & Dot pieces I have",
@@ -897,13 +890,13 @@
       "uid": "SPIN_WHEEL:268"
     }
   ],
-  "version": 580,
-  "updated": "2026-06-30T05:30:17.412313+00:00",
+  "version": 581,
+  "updated": "2026-06-30T05:52:13.501570+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 77
+    "SPIN_WHEEL": 76
   }
 }
