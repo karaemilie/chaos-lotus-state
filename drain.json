@@ -1,18 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-30T00:04:11.958Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find my other two Amazon returnz",
+      "_addedAt": "2026-06-30T00:21:38.253Z",
+      "_ts": "2026-06-30T00:21:38.637Z"
+    }
+  ],
+  "mirroredAt": "2026-06-30T00:21:38.905Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-06-30T00:04:12.643478+00:00",
-  "lastAutoProcessed": [
-    "ZONES:79",
-    "ZONES:80",
-    "MAINTENANCE:80"
-  ],
-  "resetNeeded": [
-    "Plant"
-  ]
+    "adds": 1
+  }
 }
