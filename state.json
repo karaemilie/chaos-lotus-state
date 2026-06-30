@@ -58,20 +58,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11025,
-      "row": 187,
-      "label": "Put the table leaves away \ud83c\udf42\ud83e\udeb5",
-      "aw": 7,
-      "pri": "Sometime",
-      "dur": 5,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11025"
-    },
-    {
-      "source": "TASKS",
       "id": 10533,
       "row": 359,
       "label": "Lymow - circle back on blades and antenna",
@@ -888,10 +874,23 @@
       "sid": 268,
       "label": "Try putty on chair ding **",
       "uid": "SPIN_WHEEL:268"
+    },
+    {
+      "source": "TASKS",
+      "id": 11208,
+      "label": "Decide about SimplySing subscription for Lincoln",
+      "aw": 4,
+      "pri": null,
+      "dur": 10,
+      "ml": "Light",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11208"
     }
   ],
-  "version": 581,
-  "updated": "2026-06-30T05:52:13.501570+00:00",
+  "version": 582,
+  "updated": "2026-06-30T05:52:58.359138+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
