@@ -838,20 +838,20 @@
     },
     {
       "source": "TASKS",
-      "id": 11749,
-      "label": "\u2728 Weekly Xmind outlines review/actions!",
+      "id": 11750,
+      "label": "\u2728 Clear the upstairs trashes",
       "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
+      "pri": null,
+      "dur": 10,
       "ml": "Easy",
       "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11749"
+      "cat": "Home",
+      "critical": true,
+      "uid": "TASKS:11750"
     }
   ],
-  "version": 569,
-  "updated": "2026-06-30T02:43:01.695290+00:00",
+  "version": 570,
+  "updated": "2026-06-30T02:43:48.727023+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
