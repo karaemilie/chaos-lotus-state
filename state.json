@@ -813,19 +813,6 @@
       "uid": "SPIN_WHEEL:259"
     },
     {
-      "source": "TASKS",
-      "id": 11750,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:11750"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 260,
       "sid": 260,
@@ -874,10 +861,23 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Stair Basket",
       "uid": "ZONES:13"
+    },
+    {
+      "source": "TASKS",
+      "id": 11151,
+      "label": "Evaluate converting NY Life Insurance policy",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:11151"
     }
   ],
-  "version": 574,
-  "updated": "2026-06-30T04:25:01.865820+00:00",
+  "version": 575,
+  "updated": "2026-06-30T04:25:24.820096+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
