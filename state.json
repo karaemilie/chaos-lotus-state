@@ -495,13 +495,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 141,
-      "row": 28,
-      "label": "Check for Puma sale",
-      "uid": "SPIN:141"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 151,
       "row": 29,
       "label": "Research preview and Casper exam dates",
@@ -878,13 +871,13 @@
       "uid": "TASKS:11749"
     }
   ],
-  "version": 567,
-  "updated": "2026-06-30T02:41:45.677682+00:00",
+  "version": 568,
+  "updated": "2026-06-30T02:42:16.735034+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 74
+    "SPIN_WHEEL": 73
   }
 }
