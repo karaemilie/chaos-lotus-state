@@ -16,20 +16,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11379,
-      "row": 248,
-      "label": "Scrub orange paint off Trex \ud83c\udfa8",
-      "aw": 3,
-      "pri": null,
-      "dur": 15,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11379"
-    },
-    {
-      "source": "TASKS",
       "id": 10909,
       "row": 172,
       "label": "Install bathroom faucet \ud83d\udcdd",
@@ -876,10 +862,23 @@
       "sid": 263,
       "label": "Goop off - door and deck",
       "uid": "SPIN_WHEEL:263"
+    },
+    {
+      "source": "TASKS",
+      "id": 10172,
+      "label": "Lincoln HS Plan: Create requirements document on Remarkable \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 45,
+      "ml": "Hard",
+      "proj": "Lincoln High School Plan",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10172"
     }
   ],
-  "version": 572,
-  "updated": "2026-06-30T02:44:35.991802+00:00",
+  "version": 573,
+  "updated": "2026-06-30T04:02:56.563572+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
