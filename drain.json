@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 81,
+      "label": "🏠 Wash my sheet",
+      "uid": "MAINTENANCE:80",
+      "_ts": "2026-06-30T00:03:20.990Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-30T00:00:19.434Z",
+  "mirroredAt": "2026-06-30T00:03:21.285Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-30T00:00:20.469267+00:00",
-  "lastAutoProcessed": [
-    "ZONES:85"
-  ]
+  }
 }
