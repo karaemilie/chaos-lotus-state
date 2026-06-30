@@ -2,20 +2,6 @@
   "tasks": [
     {
       "source": "TASKS",
-      "id": 11691,
-      "row": 339,
-      "label": "\u2728 Check in on Pura scents - time to refresh?",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11691"
-    },
-    {
-      "source": "TASKS",
       "id": 11426,
       "row": 351,
       "label": "Flesh out bunk bed attack plan (5 min)",
@@ -877,10 +863,23 @@
       "sid": 259,
       "label": "Find my other two Amazon returnz",
       "uid": "SPIN_WHEEL:259"
+    },
+    {
+      "source": "TASKS",
+      "id": 11749,
+      "label": "\u2728 Weekly Xmind outlines review/actions!",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11749"
     }
   ],
-  "version": 566,
-  "updated": "2026-06-30T02:39:46.321858+00:00",
+  "version": 567,
+  "updated": "2026-06-30T02:41:45.677682+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
