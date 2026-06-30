@@ -874,15 +874,22 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:11151"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 264,
+      "sid": 264,
+      "label": "Try a nut on table scratches **",
+      "uid": "SPIN_WHEEL:264"
     }
   ],
-  "version": 575,
-  "updated": "2026-06-30T04:25:24.820096+00:00",
+  "version": 576,
+  "updated": "2026-06-30T05:27:18.336039+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 74
+    "SPIN_WHEEL": 75
   }
 }
