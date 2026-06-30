@@ -2,16 +2,59 @@
   "completions": [
     {
       "source": "TASKS",
+      "id": 11691,
+      "row": 339,
+      "label": "✨ Check in on Pura scents - time to refresh?",
+      "uid": "TASKS:11691",
+      "_ts": "2026-06-30T02:41:35.545Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 28,
+      "label": "Check for Puma sale",
+      "uid": "SPIN:141",
+      "_ts": "2026-06-30T02:42:01.673Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 30,
+      "label": "Install cat filter",
+      "uid": "SPIN:158",
+      "_ts": "2026-06-30T02:42:07.353Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 59,
+      "label": "Balloon arch",
+      "uid": "SPIN:238",
+      "_ts": "2026-06-30T02:42:25.831Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 67,
+      "label": "Hand held",
+      "uid": "SPIN:250",
+      "_ts": "2026-06-30T02:42:41.787Z"
+    },
+    {
+      "source": "TASKS",
       "id": 11749,
       "label": "✨ Weekly Xmind outlines review/actions!",
       "uid": "TASKS:11749",
       "_ts": "2026-06-30T02:43:01.049Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-06-30T02:43:05.564Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Fix cat fountain",
+      "_addedAt": "2026-06-30T02:43:24.800Z",
+      "_ts": "2026-06-30T02:43:24.877Z"
+    }
+  ],
+  "mirroredAt": "2026-06-30T02:43:25.248Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 6,
+    "adds": 1
   }
 }
