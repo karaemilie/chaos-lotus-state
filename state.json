@@ -220,16 +220,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 12,
-      "floor": "Upstairs",
-      "row": 13,
-      "label": "\ud83e\uddfa Upstairs Family Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Upstairs Family Room",
-      "uid": "ZONES:12"
-    },
-    {
-      "source": "ZONES",
       "zid": 22,
       "floor": "Main Floor",
       "row": 23,
@@ -875,10 +865,19 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10172"
+    },
+    {
+      "source": "ZONES",
+      "zid": 13,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Stair Basket",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Stair Basket",
+      "uid": "ZONES:13"
     }
   ],
-  "version": 573,
-  "updated": "2026-06-30T04:02:56.563572+00:00",
+  "version": 574,
+  "updated": "2026-06-30T04:25:01.865820+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
