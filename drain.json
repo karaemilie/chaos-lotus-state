@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 21,
+      "label": "Remind Jake Weed and feed",
+      "uid": "SPIN:103",
+      "_ts": "2026-06-30T05:52:00.363Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-30T05:30:18.651Z",
+  "mirroredAt": "2026-06-30T05:52:00.628Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-06-30T05:30:19.731254+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:265"
-  ]
+  }
 }
