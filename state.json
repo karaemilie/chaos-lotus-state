@@ -288,26 +288,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 79,
-      "floor": "Plant",
-      "row": 80,
-      "label": "\ud83c\udf31 Kitchen Up High",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Kitchen Up High",
-      "uid": "ZONES:79"
-    },
-    {
-      "source": "ZONES",
-      "zid": 80,
-      "floor": "Plant",
-      "row": 81,
-      "label": "\ud83c\udf31 Hallway",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Hallway",
-      "uid": "ZONES:80"
-    },
-    {
-      "source": "ZONES",
       "zid": 84,
       "floor": "Personal",
       "row": 85,
@@ -879,10 +859,28 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Mop main floor",
       "uid": "MAINTENANCE:81"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
+    },
+    {
+      "source": "ZONES",
+      "zid": 74,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Plants",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Plants",
+      "uid": "ZONES:74"
     }
   ],
-  "version": 563,
-  "updated": "2026-06-30T00:03:34.295586+00:00",
+  "version": 564,
+  "updated": "2026-06-30T00:04:10.483884+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
