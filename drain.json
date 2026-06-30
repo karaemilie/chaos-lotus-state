@@ -1,6 +1,13 @@
 {
   "completions": [
     {
+      "source": "MAINTENANCE",
+      "row": 81,
+      "label": "🏠 Wash my sheet",
+      "uid": "MAINTENANCE:80",
+      "_ts": "2026-06-30T00:03:20.990Z"
+    },
+    {
       "source": "ZONES",
       "row": 80,
       "zid": 79,
@@ -8,12 +15,21 @@
       "label": "🌱 Kitchen Up High",
       "uid": "ZONES:79",
       "_ts": "2026-06-30T00:03:26.977Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 81,
+      "zid": 80,
+      "floor": "Plant",
+      "label": "🌱 Hallway",
+      "uid": "ZONES:80",
+      "_ts": "2026-06-30T00:03:43.751Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-06-30T00:03:35.464Z",
+  "mirroredAt": "2026-06-30T00:03:44.073Z",
   "counts": {
-    "completions": 1,
+    "completions": 3,
     "adds": 0
   }
 }
