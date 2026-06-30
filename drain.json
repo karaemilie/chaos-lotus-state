@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11691,
+      "row": 339,
+      "label": "✨ Check in on Pura scents - time to refresh?",
+      "uid": "TASKS:11691",
+      "_ts": "2026-06-30T02:41:35.545Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 28,
+      "label": "Check for Puma sale",
+      "uid": "SPIN:141",
+      "_ts": "2026-06-30T02:42:01.673Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-06-30T02:41:47.712Z",
+  "mirroredAt": "2026-06-30T02:42:01.955Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-06-30T02:41:48.503215+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11691"
-  ]
+  }
 }
