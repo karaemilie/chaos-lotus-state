@@ -779,13 +779,6 @@
       "uid": "SPIN_WHEEL:262"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 263,
-      "sid": 263,
-      "label": "Goop off - door and deck",
-      "uid": "SPIN_WHEEL:263"
-    },
-    {
       "source": "TASKS",
       "id": 10172,
       "label": "Lincoln HS Plan: Create requirements document on Remarkable \ud83d\udcdd",
@@ -901,13 +894,13 @@
       "uid": "ZONES:62"
     }
   ],
-  "version": 588,
-  "updated": "2026-07-01T06:31:49.932400+00:00",
+  "version": 589,
+  "updated": "2026-07-01T06:32:28.190701+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 78
+    "SPIN_WHEEL": 77
   }
 }
