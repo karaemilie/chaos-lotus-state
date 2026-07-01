@@ -713,15 +713,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
-      "source": "ZONES",
       "zid": 74,
       "floor": "Plant",
       "label": "\ud83c\udf31 Family Room Plants",
@@ -878,10 +869,19 @@
       "sid": 272,
       "label": "Compare my drywall producs**",
       "uid": "SPIN_WHEEL:272"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Main floor Down Low",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Main floor Down Low",
+      "uid": "ZONES:75"
     }
   ],
-  "version": 593,
-  "updated": "2026-07-01T06:54:43.390542+00:00",
+  "version": 594,
+  "updated": "2026-07-01T06:55:35.438453+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
