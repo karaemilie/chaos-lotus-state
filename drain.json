@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 22,
+      "label": "Verify what Dash & Dot pieces I have",
+      "uid": "SPIN:105",
+      "_ts": "2026-07-01T08:05:08.722Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-01T06:57:28.648Z",
+  "mirroredAt": "2026-07-01T08:05:08.963Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-01T06:57:29.816311+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:271"
-  ]
+  }
 }
