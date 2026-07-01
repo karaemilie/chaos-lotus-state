@@ -86,20 +86,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10049,
-      "row": 14,
-      "label": "Research Ruth's hair growth serum recommendation \ud83d\udcdd",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": "Self-Care",
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:10049"
-    },
-    {
-      "source": "TASKS",
       "id": 10343,
       "row": 112,
       "label": "Figure out how to follow up on zoning complaint about neighbors",
@@ -857,10 +843,23 @@
       "sid": 273,
       "label": "Find wall push pins",
       "uid": "SPIN_WHEEL:273"
+    },
+    {
+      "source": "TASKS",
+      "id": 11739,
+      "label": "\u2728 Listen to part of a podcast \ud83c\udfa7",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11739"
     }
   ],
-  "version": 599,
-  "updated": "2026-07-01T23:30:02.511610+00:00",
+  "version": 600,
+  "updated": "2026-07-01T23:39:32.237888+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
