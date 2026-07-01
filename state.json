@@ -235,16 +235,6 @@
       "uid": "ZONES:59"
     },
     {
-      "source": "ZONES",
-      "zid": 84,
-      "floor": "Personal",
-      "row": 85,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Mask",
-      "uid": "ZONES:84"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 77,
       "row": 78,
@@ -908,10 +898,19 @@
       "sid": 271,
       "label": "Change Citi Diamond auto pay",
       "uid": "SPIN_WHEEL:271"
+    },
+    {
+      "source": "ZONES",
+      "zid": 87,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Teeth Whitening",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Teeth Whitening",
+      "uid": "ZONES:87"
     }
   ],
-  "version": 585,
-  "updated": "2026-07-01T05:52:20.085571+00:00",
+  "version": 586,
+  "updated": "2026-07-01T06:14:43.218173+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
