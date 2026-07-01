@@ -1,14 +1,32 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 66,
+      "label": "Move black pura",
+      "uid": "SPIN:249",
+      "_ts": "2026-07-01T06:53:47.053Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 13,
+      "label": "Embry-Riddle: check balance",
+      "uid": "SPIN:55",
+      "_ts": "2026-07-01T06:54:30.297Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "🌱 Bedroom",
+      "uid": "ZONES:73",
+      "_ts": "2026-07-01T06:55:24.078Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-01T06:54:44.489Z",
+  "mirroredAt": "2026-07-01T06:55:24.340Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-07-01T06:54:45.421934+00:00",
-  "lastAutoProcessed": [
-    "SPIN:249",
-    "SPIN:55"
-  ]
+  }
 }
