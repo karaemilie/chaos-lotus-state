@@ -374,13 +374,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 105,
-      "row": 22,
-      "label": "Verify what Dash & Dot pieces I have",
-      "uid": "SPIN:105"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 107,
       "row": 23,
       "label": "Call Chase about credit card wrong balance",
@@ -866,13 +859,13 @@
       "uid": "ZONES:75"
     }
   ],
-  "version": 596,
-  "updated": "2026-07-01T06:57:27.404480+00:00",
+  "version": 597,
+  "updated": "2026-07-01T08:05:22.694336+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 73
+    "SPIN_WHEEL": 72
   }
 }
