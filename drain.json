@@ -21,12 +21,19 @@
       "label": "🌱 Bedroom",
       "uid": "ZONES:73",
       "_ts": "2026-07-01T06:55:24.078Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 52,
+      "label": "MCAT score date",
+      "uid": "SPIN:223",
+      "_ts": "2026-07-01T06:55:34.600Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-01T06:55:24.340Z",
+  "mirroredAt": "2026-07-01T06:55:34.829Z",
   "counts": {
-    "completions": 3,
+    "completions": 4,
     "adds": 0
   }
 }
