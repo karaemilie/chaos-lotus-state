@@ -901,15 +901,22 @@
       "sid": 270,
       "label": "Check space for clear bins in garage",
       "uid": "SPIN_WHEEL:270"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 271,
+      "sid": 271,
+      "label": "Change Citi Diamond auto pay",
+      "uid": "SPIN_WHEEL:271"
     }
   ],
-  "version": 584,
-  "updated": "2026-07-01T00:30:54.052740+00:00",
+  "version": 585,
+  "updated": "2026-07-01T05:52:20.085571+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 78
+    "SPIN_WHEEL": 79
   }
 }
