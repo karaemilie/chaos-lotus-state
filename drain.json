@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 66,
+      "label": "Move black pura",
+      "uid": "SPIN:249",
+      "_ts": "2026-07-01T06:53:47.053Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-01T06:38:09.192Z",
+  "mirroredAt": "2026-07-01T06:53:47.443Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-01T06:38:09.978014+00:00",
-  "lastAutoProcessed": [
-    "SPIN:68"
-  ]
+  }
 }
