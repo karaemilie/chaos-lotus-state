@@ -276,13 +276,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 33,
-      "row": 5,
-      "label": "Submit for AL refund again",
-      "uid": "SPIN:33"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 34,
       "row": 6,
       "label": "Research wood prefab stair treads",
@@ -859,13 +852,13 @@
       "uid": "ZONES:75"
     }
   ],
-  "version": 597,
-  "updated": "2026-07-01T08:05:22.694336+00:00",
+  "version": 598,
+  "updated": "2026-07-01T08:06:19.160258+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 72
+    "SPIN_WHEEL": 71
   }
 }
