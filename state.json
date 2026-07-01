@@ -850,15 +850,22 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Main floor Down Low",
       "uid": "ZONES:75"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 273,
+      "sid": 273,
+      "label": "Find wall push pins",
+      "uid": "SPIN_WHEEL:273"
     }
   ],
-  "version": 598,
-  "updated": "2026-07-01T08:06:19.160258+00:00",
+  "version": 599,
+  "updated": "2026-07-01T23:30:02.511610+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 71
+    "SPIN_WHEEL": 72
   }
 }
