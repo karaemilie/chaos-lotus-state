@@ -346,13 +346,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 68,
-      "row": 15,
-      "label": "Open up dry wall tool",
-      "uid": "SPIN:68"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 82,
       "row": 16,
       "label": "Do last privacy film on middle stall garage *",
@@ -901,13 +894,13 @@
       "uid": "SPIN_WHEEL:272"
     }
   ],
-  "version": 590,
-  "updated": "2026-07-01T06:37:27.631289+00:00",
+  "version": 591,
+  "updated": "2026-07-01T06:38:08.190133+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 78
+    "SPIN_WHEEL": 77
   }
 }
