@@ -832,13 +832,6 @@
       "uid": "SPIN_WHEEL:270"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 271,
-      "sid": 271,
-      "label": "Change Citi Diamond auto pay",
-      "uid": "SPIN_WHEEL:271"
-    },
-    {
       "source": "ZONES",
       "zid": 87,
       "floor": "Personal",
@@ -873,13 +866,13 @@
       "uid": "ZONES:75"
     }
   ],
-  "version": 595,
-  "updated": "2026-07-01T06:56:22.166599+00:00",
+  "version": 596,
+  "updated": "2026-07-01T06:57:27.404480+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 74
+    "SPIN_WHEEL": 73
   }
 }
