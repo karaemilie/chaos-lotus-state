@@ -661,13 +661,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 249,
-      "row": 66,
-      "label": "Move black pura",
-      "uid": "SPIN:249"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 251,
       "row": 68,
       "label": "Bike pump and AE shirt for Sam",
@@ -894,13 +887,13 @@
       "uid": "SPIN_WHEEL:272"
     }
   ],
-  "version": 591,
-  "updated": "2026-07-01T06:38:08.190133+00:00",
+  "version": 592,
+  "updated": "2026-07-01T06:54:00.560389+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 77
+    "SPIN_WHEEL": 76
   }
 }
