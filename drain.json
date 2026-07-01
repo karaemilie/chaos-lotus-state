@@ -8,12 +8,19 @@
       "label": "💻 Quicken",
       "uid": "ZONES:59",
       "_ts": "2026-07-01T06:31:35.452Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 263,
+      "label": "Goop off - door and deck",
+      "uid": "SPIN_WHEEL:263",
+      "_ts": "2026-07-01T06:31:41.067Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-01T06:31:35.660Z",
+  "mirroredAt": "2026-07-01T06:31:41.280Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
