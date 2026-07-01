@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-01T06:32:29.126Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Compare my drywall producs**",
+      "_addedAt": "2026-07-01T06:37:11.880Z",
+      "_ts": "2026-07-01T06:37:12.283Z"
+    }
+  ],
+  "mirroredAt": "2026-07-01T06:37:12.636Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-01T06:32:29.937169+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:263"
-  ]
+    "adds": 1
+  }
 }
