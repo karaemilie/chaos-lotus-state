@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-01T08:06:20.388Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find wall push pins",
+      "_addedAt": "2026-07-01T23:29:45.133Z",
+      "_ts": "2026-07-01T23:29:45.319Z"
+    }
+  ],
+  "mirroredAt": "2026-07-01T23:29:45.659Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-01T08:06:21.337679+00:00",
-  "lastAutoProcessed": [
-    "SPIN:105",
-    "SPIN:33"
-  ]
+    "adds": 1
+  }
 }
