@@ -706,13 +706,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 255,
-      "row": 72,
-      "label": "Hume scale reading three lbs different",
-      "uid": "SPIN:255"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 256,
       "row": 73,
       "label": "Hue bulbs",
@@ -909,13 +902,13 @@
       "uid": "ZONES:87"
     }
   ],
-  "version": 586,
-  "updated": "2026-07-01T06:14:43.218173+00:00",
+  "version": 587,
+  "updated": "2026-07-01T06:15:27.317291+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 79
+    "SPIN_WHEEL": 78
   }
 }
