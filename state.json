@@ -72,20 +72,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10495,
-      "row": 129,
-      "label": "Research Hannah Dollick Memorial Scholarship for Genevieve (females only, $15,000!) \ud83d\udcdd",
-      "aw": 3,
-      "pri": "ASAP",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10495"
-    },
-    {
-      "source": "TASKS",
       "id": 10343,
       "row": 112,
       "label": "Figure out how to follow up on zoning complaint about neighbors",
@@ -856,10 +842,23 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:11739"
+    },
+    {
+      "source": "TASKS",
+      "id": 11692,
+      "label": "\u2728 Trash & recycling to curb",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11692"
     }
   ],
-  "version": 600,
-  "updated": "2026-07-01T23:39:32.237888+00:00",
+  "version": 601,
+  "updated": "2026-07-01T23:54:49.056402+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
