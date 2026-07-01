@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-06-30T21:37:47.364Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Check space for clear bins in garage",
+      "_addedAt": "2026-07-01T00:30:41.236Z",
+      "_ts": "2026-07-01T00:30:41.340Z"
+    }
+  ],
+  "mirroredAt": "2026-07-01T00:30:41.602Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
