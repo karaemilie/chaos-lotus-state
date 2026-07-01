@@ -225,16 +225,6 @@
       "uid": "ZONES:50"
     },
     {
-      "source": "ZONES",
-      "zid": 59,
-      "floor": "Digital",
-      "row": 60,
-      "label": "\ud83d\udcbb Quicken",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Quicken",
-      "uid": "ZONES:59"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 77,
       "row": 78,
@@ -900,10 +890,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Teeth Whitening",
       "uid": "ZONES:87"
+    },
+    {
+      "source": "ZONES",
+      "zid": 62,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Messages",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Messages",
+      "uid": "ZONES:62"
     }
   ],
-  "version": 587,
-  "updated": "2026-07-01T06:15:27.317291+00:00",
+  "version": 588,
+  "updated": "2026-07-01T06:31:49.932400+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
