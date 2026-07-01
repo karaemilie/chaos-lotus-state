@@ -570,13 +570,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 223,
-      "row": 52,
-      "label": "MCAT score date",
-      "uid": "SPIN:223"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 229,
       "row": 53,
       "label": "Pick July/August celloesson",
@@ -880,13 +873,13 @@
       "uid": "ZONES:75"
     }
   ],
-  "version": 594,
-  "updated": "2026-07-01T06:55:35.438453+00:00",
+  "version": 595,
+  "updated": "2026-07-01T06:56:22.166599+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 75
+    "SPIN_WHEEL": 74
   }
 }
