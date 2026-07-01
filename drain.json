@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10495,
+      "row": 129,
+      "label": "Research Hannah Dollick Memorial Scholarship for Genevieve (females only, $15,000!) 📝",
+      "uid": "TASKS:10495",
+      "_ts": "2026-07-01T23:54:39.573Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-01T23:39:35.029Z",
+  "mirroredAt": "2026-07-01T23:54:39.868Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-01T23:39:35.905960+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10049"
-  ]
+  }
 }
