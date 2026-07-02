@@ -1,16 +1,36 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 55,
+      "label": "Next top coat garage board",
+      "uid": "SPIN:254",
+      "_ts": "2026-07-02T06:42:03.512Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
       "label": "Another coat garage board!",
       "_addedAt": "2026-07-02T06:42:13.429Z",
       "_ts": "2026-07-02T06:42:13.617Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Another coat garage board",
+      "_addedAt": "2026-07-02T06:42:20.415Z",
+      "_ts": "2026-07-02T06:42:20.613Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Find brackets for mudroom shelves",
+      "_addedAt": "2026-07-02T06:42:32.504Z",
+      "_ts": "2026-07-02T06:42:32.835Z"
     }
   ],
-  "mirroredAt": "2026-07-02T06:42:20.143Z",
+  "mirroredAt": "2026-07-02T06:42:33.096Z",
   "counts": {
-    "completions": 0,
-    "adds": 1
+    "completions": 1,
+    "adds": 3
   }
 }
