@@ -799,12 +799,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Feet Care & Pedi",
       "uid": "ZONES:88"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 274,
+      "sid": 274,
+      "label": "More med school research - financial aid grants list **",
+      "uid": "SPIN_WHEEL:274"
     }
   ],
-  "version": 623,
-  "updated": "2026-07-02T06:08:45.813619+00:00",
+  "version": 624,
+  "updated": "2026-07-02T06:08:47.641398+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 65,
     "TASKS": 17,
     "ZONES": 7,
     "COURAGE": 3,
