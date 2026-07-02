@@ -429,6 +429,14 @@ def build_seed(beast_path=None, today=None, courage_micros=None):
     # 6. Spin Wheel items
     all_tasks.extend(_build_spin_wheel(beast_path))
 
+    # 7. SCRAMBLE: sections are built in blocks (all Daily Ten, then all Courage,
+    # then all Zones, then all Spin), which reads clumped and predictable on the
+    # wheel. Shuffle the final list so the order feels organic. SAFE: every item
+    # is identified by its own uid and all processors key by uid/ID (never list
+    # position), so reordering changes nothing downstream — purely cosmetic.
+    import random as _random
+    _random.shuffle(all_tasks)
+
     return all_tasks
 
 
