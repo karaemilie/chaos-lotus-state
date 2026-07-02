@@ -353,13 +353,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 275,
-      "row": 65,
-      "label": "Another coat garage board!",
-      "uid": "SPIN:275"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 41,
       "row": 7,
       "label": "Transfer money from ML",
@@ -824,10 +817,10 @@
       "uid": "SPIN_WHEEL:278"
     }
   ],
-  "version": 630,
-  "updated": "2026-07-02T09:54:51.275907+00:00",
+  "version": 631,
+  "updated": "2026-07-02T09:55:56.527657+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
