@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-02T06:43:04.010Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "USE FABLE!",
+      "_addedAt": "2026-07-02T09:54:33.944Z",
+      "_ts": "2026-07-02T09:54:34.829Z"
+    }
+  ],
+  "mirroredAt": "2026-07-02T09:54:35.115Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
