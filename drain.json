@@ -8,10 +8,17 @@
       "_ts": "2026-07-02T06:42:03.512Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-02T06:42:03.754Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Another coat garage board!",
+      "_addedAt": "2026-07-02T06:42:13.429Z",
+      "_ts": "2026-07-02T06:42:13.617Z"
+    }
+  ],
+  "mirroredAt": "2026-07-02T06:42:13.882Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
