@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11281,
+      "row": 327,
+      "label": "🐸 Fill out Bentley's fall rental sublet forms 🏠📋",
+      "uid": "TASKS:11281",
+      "_ts": "2026-07-02T09:59:46.900Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-02T09:59:29.212Z",
+  "mirroredAt": "2026-07-02T09:59:47.221Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-02T09:59:29.972109+00:00",
-  "lastAutoProcessed": [
-    "SPIN:101"
-  ]
+  }
 }
