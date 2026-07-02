@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 60,
+      "label": "Fix cat fountain",
+      "uid": "SPIN:260",
+      "_ts": "2026-07-02T02:36:57.480Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-02T02:30:27.039Z",
+  "mirroredAt": "2026-07-02T02:36:57.731Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-02T02:30:27.996505+00:00",
-  "lastAutoProcessed": [
-    "ZONES:86",
-    "SPIN:198"
-  ]
+  }
 }
