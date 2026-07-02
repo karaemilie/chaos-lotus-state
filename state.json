@@ -244,13 +244,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 254,
-      "row": 55,
-      "label": "Next top coat garage board",
-      "uid": "SPIN:254"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 151,
       "row": 22,
       "label": "Research preview and Casper exam dates",
@@ -807,10 +800,10 @@
       "uid": "TASKS:11669"
     }
   ],
-  "version": 625,
-  "updated": "2026-07-02T06:11:31.609773+00:00",
+  "version": 626,
+  "updated": "2026-07-02T06:42:18.922662+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "TASKS": 17,
     "ZONES": 7,
     "COURAGE": 3,
