@@ -6,12 +6,19 @@
       "label": "Get webcam for B",
       "uid": "SPIN:222",
       "_ts": "2026-07-02T09:58:37.020Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 16,
+      "label": "Plant my currant",
+      "uid": "SPIN:101",
+      "_ts": "2026-07-02T09:58:46.098Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-02T09:58:37.390Z",
+  "mirroredAt": "2026-07-02T09:58:46.419Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
