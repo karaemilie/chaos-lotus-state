@@ -548,13 +548,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 222,
-      "row": 41,
-      "label": "Get webcam for B",
-      "uid": "SPIN:222"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 38,
       "row": 6,
       "label": "Genuine first step to Amazon commissions",
@@ -817,10 +810,10 @@
       "uid": "SPIN_WHEEL:278"
     }
   ],
-  "version": 631,
-  "updated": "2026-07-02T09:55:56.527657+00:00",
+  "version": 632,
+  "updated": "2026-07-02T09:58:50.101172+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
