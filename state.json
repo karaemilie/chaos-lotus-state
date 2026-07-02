@@ -30,20 +30,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11739,
-      "row": 373,
-      "label": "\u2728 Listen to part of a podcast \ud83c\udfa7",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 30,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11739"
-    },
-    {
-      "source": "TASKS",
       "id": 10223,
       "row": 83,
       "label": "Help Bentley open a Roth IRA \ud83d\udcdd",
@@ -801,10 +787,23 @@
       "row": 70,
       "label": "Find wall push pins",
       "uid": "SPIN:273"
+    },
+    {
+      "source": "TASKS",
+      "id": 10122,
+      "label": "Get TV off school room wall",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "School Room Organization",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10122"
     }
   ],
-  "version": 613,
-  "updated": "2026-07-02T02:39:08.552352+00:00",
+  "version": 614,
+  "updated": "2026-07-02T02:39:36.110829+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
