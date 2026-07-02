@@ -597,13 +597,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 198,
-      "row": 35,
-      "label": "Linc tray 5 plan",
-      "uid": "SPIN:198"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 210,
       "row": 36,
       "label": "Re-org disposable ware boxes in garage",
@@ -871,13 +864,13 @@
       "uid": "ZONES:88"
     }
   ],
-  "version": 607,
-  "updated": "2026-07-02T02:29:53.509709+00:00",
+  "version": 608,
+  "updated": "2026-07-02T02:30:26.011699+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 71
+    "SPIN_WHEEL": 70
   }
 }
