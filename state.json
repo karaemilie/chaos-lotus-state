@@ -762,20 +762,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 261,
-      "row": 61,
-      "label": "Load new habit tracker",
-      "uid": "SPIN:261"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 262,
-      "row": 62,
-      "label": "Tape measure",
-      "uid": "SPIN:262"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 264,
       "row": 63,
       "label": "Try a nut on table scratches **",
@@ -831,13 +817,13 @@
       "uid": "SPIN:273"
     }
   ],
-  "version": 610,
-  "updated": "2026-07-02T02:37:08.807844+00:00",
+  "version": 611,
+  "updated": "2026-07-02T02:37:45.967276+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 68
+    "SPIN_WHEEL": 66
   }
 }
