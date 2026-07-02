@@ -660,20 +660,6 @@
       "uid": "SPIN:248"
     },
     {
-      "source": "TASKS",
-      "id": 10462,
-      "row": 125,
-      "label": "Check on cancelling Kindle Unlimited for Genevieve",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10462"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 220,
       "row": 39,
@@ -806,10 +792,23 @@
       "sid": 274,
       "label": "More med school research - financial aid grants list **",
       "uid": "SPIN_WHEEL:274"
+    },
+    {
+      "source": "TASKS",
+      "id": 11669,
+      "label": "Clean heat tape off the roof \ud83c\udfe0\ud83e\ude9c",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "Roof heat tape removal",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11669"
     }
   ],
-  "version": 624,
-  "updated": "2026-07-02T06:08:47.641398+00:00",
+  "version": 625,
+  "updated": "2026-07-02T06:11:31.609773+00:00",
   "buckets": {
     "SPIN_WHEEL": 65,
     "TASKS": 17,
