@@ -380,13 +380,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 18,
-      "row": 4,
-      "label": "Order Jake 4 boxes contacts",
-      "uid": "SPIN:18"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 34,
       "row": 5,
       "label": "Research wood prefab stair treads",
@@ -878,13 +871,13 @@
       "uid": "ZONES:64"
     }
   ],
-  "version": 603,
-  "updated": "2026-07-02T00:01:39.267168+00:00",
+  "version": 604,
+  "updated": "2026-07-02T00:31:38.111101+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 72
+    "SPIN_WHEEL": 71
   }
 }
