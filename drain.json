@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 41,
+      "label": "Get webcam for B",
+      "uid": "SPIN:222",
+      "_ts": "2026-07-02T09:58:37.020Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-02T09:55:57.740Z",
+  "mirroredAt": "2026-07-02T09:58:37.390Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-02T09:55:58.922888+00:00",
-  "lastAutoProcessed": [
-    "SPIN:275"
-  ]
+  }
 }
