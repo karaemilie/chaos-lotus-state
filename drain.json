@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11208,
+      "row": 218,
+      "label": "Decide about SimplySing subscription for Lincoln",
+      "uid": "TASKS:11208",
+      "_ts": "2026-07-02T05:22:34.990Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-02T05:21:00.452Z",
+  "mirroredAt": "2026-07-02T05:22:35.273Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-02T05:21:01.352869+00:00",
-  "lastAutoProcessed": [
-    "ZONES:13"
-  ]
+  }
 }
