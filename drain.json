@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 87,
+      "zid": 86,
+      "floor": "Personal",
+      "label": "👱‍♀️ Eyebrows",
+      "uid": "ZONES:86",
+      "_ts": "2026-07-02T02:29:42.817Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 35,
+      "label": "Linc tray 5 plan",
+      "uid": "SPIN:198",
+      "_ts": "2026-07-02T02:30:10.361Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-02T02:29:54.415Z",
+  "mirroredAt": "2026-07-02T02:30:10.602Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-02T02:29:55.109869+00:00",
-  "lastAutoProcessed": [
-    "ZONES:86"
-  ]
+  }
 }
