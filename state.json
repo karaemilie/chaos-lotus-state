@@ -288,16 +288,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "row": 74,
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
-      "source": "ZONES",
       "zid": 74,
       "floor": "Plant",
       "row": 75,
@@ -869,10 +859,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "OneTab",
       "uid": "ZONES:64"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Main floor Down Low",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Main floor Down Low",
+      "uid": "ZONES:75"
     }
   ],
-  "version": 604,
-  "updated": "2026-07-02T00:31:38.111101+00:00",
+  "version": 605,
+  "updated": "2026-07-02T01:17:14.433949+00:00",
   "buckets": {
     "TASKS": 17,
     "COURAGE": 3,
