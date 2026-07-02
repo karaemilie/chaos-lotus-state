@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 88,
+      "zid": 87,
+      "floor": "Personal",
+      "label": "👱‍♀️ Teeth Whitening",
+      "uid": "ZONES:87",
+      "_ts": "2026-07-02T06:08:09.392Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-02T05:22:48.762Z",
+  "mirroredAt": "2026-07-02T06:08:09.717Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-02T05:22:49.546499+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11208"
-  ]
+  }
 }
