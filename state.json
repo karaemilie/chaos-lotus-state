@@ -844,12 +844,19 @@
       "sid": 287,
       "label": "Schedule TreeForms visit",
       "uid": "SPIN_WHEEL:287"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 288,
+      "sid": 288,
+      "label": "Send tree forms email and request verification of finish and order table stain color",
+      "uid": "SPIN_WHEEL:288"
     }
   ],
-  "version": 647,
-  "updated": "2026-07-03T08:26:35.317367+00:00",
+  "version": 648,
+  "updated": "2026-07-03T08:27:31.420948+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 71,
     "TASKS": 17,
     "COURAGE": 3,
     "MAINTENANCE": 2,
