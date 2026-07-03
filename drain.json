@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-03T10:09:06.790Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Research Oslo and polyphasic sleep",
+      "_addedAt": "2026-07-03T12:43:38.628Z",
+      "_ts": "2026-07-03T12:43:38.742Z"
+    }
+  ],
+  "mirroredAt": "2026-07-03T12:43:39.022Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-03T10:09:07.763196+00:00",
-  "lastAutoProcessed": [
-    "SPIN:292",
-    "TASKS:11599"
-  ]
+    "adds": 1
+  }
 }
