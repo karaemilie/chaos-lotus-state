@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-03T07:28:19.099Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Schedule TreeForms visit",
+      "_addedAt": "2026-07-03T08:26:21.831Z",
+      "_ts": "2026-07-03T08:26:22.078Z"
+    }
+  ],
+  "mirroredAt": "2026-07-03T08:26:22.329Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-03T07:28:20.315369+00:00",
-  "lastAutoProcessed": [
-    "SPIN:276"
-  ]
+    "adds": 1
+  }
 }
