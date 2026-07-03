@@ -1,9 +1,35 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-03T09:58:50.168Z",
+  "completions": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Testing",
+      "uid": "PLUS_ADD:Testing:2026-07-03T09:58:35.828Z",
+      "_ts": "2026-07-03T09:58:59.007Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Redeem discover rewards",
+      "_addedAt": "2026-07-03T09:26:02.071Z",
+      "_ts": "2026-07-03T09:26:02.192Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Research Hacky Sacks",
+      "_addedAt": "2026-07-03T09:26:16.815Z",
+      "_ts": "2026-07-03T09:26:16.930Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Testing",
+      "_addedAt": "2026-07-03T09:58:35.828Z",
+      "_ts": "2026-07-03T09:58:35.940Z"
+    }
+  ],
+  "mirroredAt": "2026-07-03T09:58:59.224Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 3
   }
 }
