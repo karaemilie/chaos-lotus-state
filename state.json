@@ -552,13 +552,6 @@
       "uid": "TASKS:11482"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 277,
-      "row": 67,
-      "label": "Find brackets for mudroom shelves",
-      "uid": "SPIN:277"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11055,
       "parentRow": 345,
@@ -839,10 +832,10 @@
       "uid": "SPIN_WHEEL:284"
     }
   ],
-  "version": 643,
-  "updated": "2026-07-03T07:22:30.977559+00:00",
+  "version": 644,
+  "updated": "2026-07-03T07:23:10.010049+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 68,
     "TASKS": 17,
     "COURAGE": 3,
     "MAINTENANCE": 2,
