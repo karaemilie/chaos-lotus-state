@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-03T08:26:34.488Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Schedule TreeForms visit",
+      "_addedAt": "2026-07-03T08:26:21.831Z",
+      "_ts": "2026-07-03T08:26:22.078Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Send tree forms email and request verification of finish and order table stain color",
+      "_addedAt": "2026-07-03T08:27:06.215Z",
+      "_ts": "2026-07-03T08:27:06.460Z"
+    }
+  ],
+  "mirroredAt": "2026-07-03T08:27:06.717Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
