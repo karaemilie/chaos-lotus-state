@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-03T08:28:20.198Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Redeem discover rewards",
+      "_addedAt": "2026-07-03T09:26:02.071Z",
+      "_ts": "2026-07-03T09:26:02.192Z"
+    }
+  ],
+  "mirroredAt": "2026-07-03T09:26:02.446Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
