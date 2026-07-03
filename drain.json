@@ -2,18 +2,35 @@
   "completions": [
     {
       "source": "ZONES",
+      "row": 63,
+      "zid": 62,
+      "floor": "Digital",
+      "label": "💻 Messages",
+      "uid": "ZONES:62",
+      "_ts": "2026-07-03T22:00:57.673Z"
+    },
+    {
+      "source": "ZONES",
       "row": 78,
       "zid": 77,
       "floor": "Plant",
       "label": "🌱 Corner Nook B",
       "uid": "ZONES:77",
       "_ts": "2026-07-03T22:01:03.616Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11604,
+      "row": 291,
+      "label": "✨ Cancel or downgrade Claude if not using (renews on 10th)",
+      "uid": "TASKS:11604",
+      "_ts": "2026-07-03T22:01:17.617Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-03T22:01:11.046Z",
+  "mirroredAt": "2026-07-03T22:01:17.834Z",
   "counts": {
-    "completions": 1,
+    "completions": 3,
     "adds": 0
   }
 }
