@@ -529,13 +529,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 292,
-      "row": 53,
-      "label": "Testing",
-      "uid": "SPIN:292"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 256,
       "row": 34,
       "label": "Hue bulbs",
@@ -738,10 +731,10 @@
       "uid": "TASKS:10223"
     }
   ],
-  "version": 657,
-  "updated": "2026-07-03T10:08:28.824353+00:00",
+  "version": 658,
+  "updated": "2026-07-03T10:09:03.853134+00:00",
   "buckets": {
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 51,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
