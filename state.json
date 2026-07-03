@@ -195,16 +195,6 @@
       "uid": "SPIN:189"
     },
     {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "row": 77,
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
-    },
-    {
       "source": "TASKS",
       "id": 10216,
       "row": 80,
@@ -811,15 +801,24 @@
       "sid": 279,
       "label": "\ud83d\udc38 Open Bentley fall rental site",
       "uid": "SPIN_WHEEL:279"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
     }
   ],
-  "version": 636,
-  "updated": "2026-07-02T10:00:32.182863+00:00",
+  "version": 637,
+  "updated": "2026-07-03T00:33:28.269774+00:00",
   "buckets": {
     "SPIN_WHEEL": 65,
     "TASKS": 17,
     "COURAGE": 3,
-    "ZONES": 7,
-    "MAINTENANCE": 2
+    "MAINTENANCE": 2,
+    "ZONES": 7
   }
 }
