@@ -694,13 +694,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 276,
-      "row": 66,
-      "label": "Another coat garage board",
-      "uid": "SPIN:276"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 43,
       "row": 8,
       "label": "Book septic",
@@ -846,10 +839,10 @@
       "uid": "SPIN_WHEEL:286"
     }
   ],
-  "version": 645,
-  "updated": "2026-07-03T07:23:12.121441+00:00",
+  "version": 646,
+  "updated": "2026-07-03T07:28:17.727184+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 69,
     "TASKS": 17,
     "COURAGE": 3,
     "MAINTENANCE": 2,
