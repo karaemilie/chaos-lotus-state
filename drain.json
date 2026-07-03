@@ -1,9 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 63,
+      "zid": 62,
+      "floor": "Digital",
+      "label": "💻 Messages",
+      "uid": "ZONES:62",
+      "_ts": "2026-07-03T22:00:57.673Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-03T12:43:52.455Z",
+  "mirroredAt": "2026-07-03T22:00:57.922Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
