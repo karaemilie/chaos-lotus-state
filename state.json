@@ -618,16 +618,6 @@
       "uid": "SPIN:43"
     },
     {
-      "source": "ZONES",
-      "zid": 62,
-      "floor": "Digital",
-      "row": 63,
-      "label": "\ud83d\udcbb Messages",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Messages",
-      "uid": "ZONES:62"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 282,
       "row": 46,
@@ -736,10 +726,19 @@
       "sid": 292,
       "label": "Research Oslo and polyphasic sleep",
       "uid": "SPIN_WHEEL:292"
+    },
+    {
+      "source": "ZONES",
+      "zid": 65,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Emails",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Emails",
+      "uid": "ZONES:65"
     }
   ],
-  "version": 659,
-  "updated": "2026-07-03T12:43:53.879131+00:00",
+  "version": 660,
+  "updated": "2026-07-03T22:01:10.121270+00:00",
   "buckets": {
     "SPIN_WHEEL": 52,
     "TASKS": 17,
