@@ -283,16 +283,6 @@
       "uid": "SPIN:270"
     },
     {
-      "source": "ZONES",
-      "zid": 50,
-      "floor": "Basement",
-      "row": 51,
-      "label": "\ud83e\uddfa Basement Main Area",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Main Area",
-      "uid": "ZONES:50"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 107,
       "row": 17,
@@ -810,10 +800,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook B",
       "uid": "ZONES:77"
+    },
+    {
+      "source": "ZONES",
+      "zid": 51,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Back Office",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Back Office",
+      "uid": "ZONES:51"
     }
   ],
-  "version": 637,
-  "updated": "2026-07-03T00:33:28.269774+00:00",
+  "version": 638,
+  "updated": "2026-07-03T00:34:08.644679+00:00",
   "buckets": {
     "SPIN_WHEEL": 65,
     "TASKS": 17,
