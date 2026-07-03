@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-03T00:34:10.532Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Search for velvet bar stools",
+      "_addedAt": "2026-07-03T05:45:24.766Z",
+      "_ts": "2026-07-03T05:45:24.910Z"
+    }
+  ],
+  "mirroredAt": "2026-07-03T05:45:25.176Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-03T00:34:11.354064+00:00",
-  "lastAutoProcessed": [
-    "ZONES:50"
-  ]
+    "adds": 1
+  }
 }
