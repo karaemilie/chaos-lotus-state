@@ -490,20 +490,6 @@
       "uid": "SPIN:163"
     },
     {
-      "source": "TASKS",
-      "id": 11604,
-      "row": 291,
-      "label": "\u2728 Cancel or downgrade Claude if not using (renews on 10th)",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11604"
-    },
-    {
       "source": "ZONES",
       "zid": 51,
       "floor": "Basement",
@@ -632,16 +618,6 @@
       "uid": "SPIN:253"
     },
     {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "row": 78,
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 174,
       "row": 17,
@@ -735,10 +711,32 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Emails",
       "uid": "ZONES:65"
+    },
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Props",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Props",
+      "uid": "ZONES:78"
+    },
+    {
+      "source": "TASKS",
+      "id": 10909,
+      "label": "Install bathroom faucet \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 60,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10909"
     }
   ],
-  "version": 660,
-  "updated": "2026-07-03T22:01:10.121270+00:00",
+  "version": 661,
+  "updated": "2026-07-03T22:01:51.214739+00:00",
   "buckets": {
     "SPIN_WHEEL": 52,
     "TASKS": 17,
