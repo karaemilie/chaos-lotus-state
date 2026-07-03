@@ -729,12 +729,19 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10223"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 292,
+      "sid": 292,
+      "label": "Research Oslo and polyphasic sleep",
+      "uid": "SPIN_WHEEL:292"
     }
   ],
-  "version": 658,
-  "updated": "2026-07-03T10:09:03.853134+00:00",
+  "version": 659,
+  "updated": "2026-07-03T12:43:53.879131+00:00",
   "buckets": {
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 52,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
