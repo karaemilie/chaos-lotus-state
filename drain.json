@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 67,
+      "label": "Find brackets for mudroom shelves",
+      "uid": "SPIN:277",
+      "_ts": "2026-07-03T07:22:48.851Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -20,9 +28,9 @@
       "_ts": "2026-07-03T07:22:42.719Z"
     }
   ],
-  "mirroredAt": "2026-07-03T07:22:42.944Z",
+  "mirroredAt": "2026-07-03T07:22:49.079Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 3
   }
 }
