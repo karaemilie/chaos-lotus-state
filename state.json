@@ -816,12 +816,26 @@
       "sid": 281,
       "label": "WWAMI cost research",
       "uid": "SPIN_WHEEL:281"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 282,
+      "sid": 282,
+      "label": "Set up new vaccum",
+      "uid": "SPIN_WHEEL:282"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 283,
+      "sid": 283,
+      "label": "Research entry rugs",
+      "uid": "SPIN_WHEEL:283"
     }
   ],
-  "version": 641,
-  "updated": "2026-07-03T05:46:31.997267+00:00",
+  "version": 642,
+  "updated": "2026-07-03T05:47:10.318216+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 68,
     "TASKS": 17,
     "COURAGE": 3,
     "MAINTENANCE": 2,
