@@ -1,13 +1,35 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11722,
+      "row": 355,
+      "label": "✨ Clip & pot new Hoya starts 🪴🌱",
+      "uid": "TASKS:11722",
+      "_ts": "2026-07-04T09:12:03.934Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 66,
+      "zid": 65,
+      "floor": "Digital",
+      "label": "💻 Emails",
+      "uid": "ZONES:65",
+      "_ts": "2026-07-04T09:12:15.550Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "🌱 Hallway",
+      "uid": "ZONES:80",
+      "_ts": "2026-07-04T09:12:56.518Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-04T09:12:15.417Z",
+  "mirroredAt": "2026-07-04T09:12:56.783Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-07-04T09:12:16.132893+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11722"
-  ]
+  }
 }
