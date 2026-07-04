@@ -1,15 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-03T22:01:53.898Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Jet alert for genevieve",
+      "_addedAt": "2026-07-04T02:08:01.349Z",
+      "_ts": "2026-07-04T02:08:01.576Z"
+    }
+  ],
+  "mirroredAt": "2026-07-04T02:08:01.827Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-03T22:01:54.817564+00:00",
-  "lastAutoProcessed": [
-    "ZONES:62",
-    "ZONES:77",
-    "TASKS:11604"
-  ]
+    "adds": 1
+  }
 }
