@@ -685,16 +685,6 @@
       "uid": "SPIN:268"
     },
     {
-      "source": "ZONES",
-      "zid": 78,
-      "floor": "Plant",
-      "row": 79,
-      "label": "\ud83c\udf31 Family Room Props",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Props",
-      "uid": "ZONES:78"
-    },
-    {
       "source": "TASKS",
       "id": 10343,
       "label": "Figure out how to follow up on zoning complaint about neighbors",
@@ -738,10 +728,19 @@
       "sid": 295,
       "label": "Make list of sales plants",
       "uid": "SPIN_WHEEL:295"
+    },
+    {
+      "source": "ZONES",
+      "zid": 79,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Kitchen Up High",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Kitchen Up High",
+      "uid": "ZONES:79"
     }
   ],
-  "version": 669,
-  "updated": "2026-07-04T06:03:20.645219+00:00",
+  "version": 670,
+  "updated": "2026-07-04T06:03:57.160128+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 54,
