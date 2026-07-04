@@ -30,13 +30,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 246,
-      "row": 30,
-      "label": "More work dining nook windows",
-      "uid": "SPIN:246"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 50,
       "row": 6,
       "label": "List bikes",
@@ -740,11 +733,11 @@
       "uid": "SPIN_WHEEL:294"
     }
   ],
-  "version": 667,
-  "updated": "2026-07-04T06:02:36.588034+00:00",
+  "version": 668,
+  "updated": "2026-07-04T06:03:17.984177+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 53,
     "MAINTENANCE": 2,
     "ZONES": 8,
     "COURAGE": 3
