@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-04T06:02:35.730Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Write Hoya lady",
+      "_addedAt": "2026-07-04T06:02:23.981Z",
+      "_ts": "2026-07-04T06:02:24.094Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Make list of sales plants",
+      "_addedAt": "2026-07-04T06:02:43.362Z",
+      "_ts": "2026-07-04T06:02:43.520Z"
+    }
+  ],
+  "mirroredAt": "2026-07-04T06:02:43.775Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
