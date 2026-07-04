@@ -309,16 +309,6 @@
       "uid": "SPIN:285"
     },
     {
-      "source": "ZONES",
-      "zid": 89,
-      "floor": "Personal",
-      "row": 90,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Mask",
-      "uid": "ZONES:89"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 107,
       "row": 11,
@@ -732,10 +722,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Emails",
       "uid": "ZONES:65"
+    },
+    {
+      "source": "ZONES",
+      "zid": 90,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Retainer",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Retainer",
+      "uid": "ZONES:90"
     }
   ],
-  "version": 665,
-  "updated": "2026-07-04T02:35:19.713355+00:00",
+  "version": 666,
+  "updated": "2026-07-04T02:36:00.308040+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 53,
