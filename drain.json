@@ -1,13 +1,27 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11663,
+      "row": 311,
+      "label": "✨ Pay rents (Jake & Matt) *reminder: moved to $400 for Horrocks*",
+      "uid": "TASKS:11663",
+      "_ts": "2026-07-04T02:34:41.988Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 65,
+      "zid": 64,
+      "floor": "Digital",
+      "label": "💻 OneTab",
+      "uid": "ZONES:64",
+      "_ts": "2026-07-04T02:35:00.194Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-04T02:34:57.465Z",
+  "mirroredAt": "2026-07-04T02:35:00.419Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-04T02:34:58.316603+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11663"
-  ]
+  }
 }
