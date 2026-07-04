@@ -454,16 +454,6 @@
       "uid": "SPIN:278"
     },
     {
-      "source": "ZONES",
-      "zid": 65,
-      "floor": "Digital",
-      "row": 66,
-      "label": "\ud83d\udcbb Emails",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Emails",
-      "uid": "ZONES:65"
-    },
-    {
       "source": "TASKS",
       "id": 10207,
       "row": 174,
@@ -688,15 +678,6 @@
       "uid": "TASKS:11317"
     },
     {
-      "source": "ZONES",
-      "zid": 80,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Hallway",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Hallway",
-      "uid": "ZONES:80"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 296,
       "sid": 296,
@@ -729,10 +710,28 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10454"
+    },
+    {
+      "source": "ZONES",
+      "zid": 66,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Due",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Due",
+      "uid": "ZONES:66"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 679,
-  "updated": "2026-07-04T09:12:13.519545+00:00",
+  "version": 680,
+  "updated": "2026-07-04T09:13:10.362711+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "TASKS": 17,
