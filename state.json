@@ -270,20 +270,6 @@
       "uid": "SPIN:194"
     },
     {
-      "source": "TASKS",
-      "id": 11722,
-      "row": 355,
-      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11722"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 165,
       "row": 15,
@@ -730,10 +716,23 @@
       "sid": 298,
       "label": "Order comfort peg",
       "uid": "SPIN_WHEEL:298"
+    },
+    {
+      "source": "TASKS",
+      "id": 10454,
+      "label": "Investigate WWAMI eligibility",
+      "aw": 3,
+      "pri": "ASAP",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "Bentley Med School Prep",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10454"
     }
   ],
-  "version": 678,
-  "updated": "2026-07-04T08:54:29.238824+00:00",
+  "version": 679,
+  "updated": "2026-07-04T09:12:13.519545+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "TASKS": 17,
