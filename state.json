@@ -326,13 +326,6 @@
       "uid": "SPIN:286"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 242,
-      "row": 28,
-      "label": "Ten more minutes weeding",
-      "uid": "SPIN:242"
-    },
-    {
       "source": "TASKS",
       "id": 11616,
       "row": 291,
@@ -725,10 +718,10 @@
       "uid": "ZONES:80"
     }
   ],
-  "version": 672,
-  "updated": "2026-07-04T06:14:15.556107+00:00",
+  "version": 673,
+  "updated": "2026-07-04T06:14:43.059923+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 52,
     "TASKS": 17,
     "ZONES": 7,
     "COURAGE": 3,
