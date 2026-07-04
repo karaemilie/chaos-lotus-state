@@ -1,33 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "ZONES",
-      "row": 75,
-      "zid": 74,
-      "floor": "Plant",
-      "label": "🌱 Family Room Plants",
-      "uid": "ZONES:74",
-      "_ts": "2026-07-04T06:14:01.235Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 28,
-      "label": "Ten more minutes weeding",
-      "uid": "SPIN:242",
-      "_ts": "2026-07-04T06:14:29.721Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "More outdoor work time…",
-      "_addedAt": "2026-07-04T06:14:46.375Z",
-      "_ts": "2026-07-04T06:14:46.569Z"
-    }
-  ],
-  "mirroredAt": "2026-07-04T06:14:46.822Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-07-04T06:15:10.822Z",
   "counts": {
-    "completions": 2,
-    "adds": 1
+    "completions": 0,
+    "adds": 0
   }
 }
