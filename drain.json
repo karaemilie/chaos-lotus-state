@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-04T06:38:05.899Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order comfort peg",
+      "_addedAt": "2026-07-04T08:09:26.100Z",
+      "_ts": "2026-07-04T08:09:26.319Z"
+    }
+  ],
+  "mirroredAt": "2026-07-04T08:09:26.562Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
