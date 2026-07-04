@@ -733,12 +733,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10909"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 293,
+      "sid": 293,
+      "label": "Jet alert for genevieve",
+      "uid": "SPIN_WHEEL:293"
     }
   ],
-  "version": 661,
-  "updated": "2026-07-03T22:01:51.214739+00:00",
+  "version": 662,
+  "updated": "2026-07-04T02:08:13.908463+00:00",
   "buckets": {
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 53,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
