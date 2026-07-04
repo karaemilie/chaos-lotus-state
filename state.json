@@ -375,16 +375,6 @@
       "uid": "TASKS:10207"
     },
     {
-      "source": "ZONES",
-      "zid": 64,
-      "floor": "Digital",
-      "row": 65,
-      "label": "\ud83d\udcbb OneTab",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "OneTab",
-      "uid": "ZONES:64"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 189,
       "row": 20,
@@ -733,10 +723,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10343"
+    },
+    {
+      "source": "ZONES",
+      "zid": 65,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Emails",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Emails",
+      "uid": "ZONES:65"
     }
   ],
-  "version": 664,
-  "updated": "2026-07-04T02:34:54.877967+00:00",
+  "version": 665,
+  "updated": "2026-07-04T02:35:19.713355+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 53,
