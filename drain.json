@@ -1,13 +1,6 @@
 {
   "completions": [
     {
-      "source": "SPIN_WHEEL",
-      "row": 30,
-      "label": "More work dining nook windows",
-      "uid": "SPIN:246",
-      "_ts": "2026-07-04T06:02:48.437Z"
-    },
-    {
       "source": "ZONES",
       "row": 79,
       "zid": 78,
@@ -17,23 +10,10 @@
       "_ts": "2026-07-04T06:03:12.022Z"
     }
   ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Write Hoya lady",
-      "_addedAt": "2026-07-04T06:02:23.981Z",
-      "_ts": "2026-07-04T06:02:24.094Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Make list of sales plants",
-      "_addedAt": "2026-07-04T06:02:43.362Z",
-      "_ts": "2026-07-04T06:02:43.520Z"
-    }
-  ],
-  "mirroredAt": "2026-07-04T06:03:12.261Z",
+  "adds": [],
+  "mirroredAt": "2026-07-04T06:03:19.328Z",
   "counts": {
-    "completions": 2,
-    "adds": 2
+    "completions": 1,
+    "adds": 0
   }
 }
