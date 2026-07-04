@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-04T02:36:01.575Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Write Hoya lady",
+      "_addedAt": "2026-07-04T06:02:23.981Z",
+      "_ts": "2026-07-04T06:02:24.094Z"
+    }
+  ],
+  "mirroredAt": "2026-07-04T06:02:24.333Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-04T02:36:02.620060+00:00",
-  "lastAutoProcessed": [
-    "ZONES:89"
-  ]
+    "adds": 1
+  }
 }
