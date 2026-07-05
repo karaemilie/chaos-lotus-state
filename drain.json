@@ -1,9 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 23,
+      "zid": 22,
+      "floor": "Main Floor",
+      "label": "🧺 Mudroom",
+      "uid": "ZONES:22",
+      "_ts": "2026-07-05T05:06:38.754Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-05T05:02:49.551Z",
+  "mirroredAt": "2026-07-05T05:06:39.073Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
