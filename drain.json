@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-05T04:25:47.592Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Buy more mop heads",
+      "_addedAt": "2026-07-05T05:02:34.948Z",
+      "_ts": "2026-07-05T05:02:35.443Z"
+    }
+  ],
+  "mirroredAt": "2026-07-05T05:02:35.790Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-05T04:25:48.275444+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:77"
-  ]
+    "adds": 1
+  }
 }
