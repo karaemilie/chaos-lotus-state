@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-05T01:33:02.361Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Price more plants",
+      "_addedAt": "2026-07-05T04:16:30.353Z",
+      "_ts": "2026-07-05T04:16:30.477Z"
+    }
+  ],
+  "mirroredAt": "2026-07-05T04:16:30.717Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
