@@ -737,13 +737,20 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Vacuum the upstairs",
       "uid": "MAINTENANCE:82"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 301,
+      "sid": 301,
+      "label": "Buy more mop heads",
+      "uid": "SPIN_WHEEL:301"
     }
   ],
-  "version": 685,
-  "updated": "2026-07-05T04:25:46.664774+00:00",
+  "version": 686,
+  "updated": "2026-07-05T05:02:50.802252+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 56,
     "ZONES": 7,
     "COURAGE": 3,
     "MAINTENANCE": 2
