@@ -332,16 +332,6 @@
       "uid": "TASKS:10020"
     },
     {
-      "source": "ZONES",
-      "zid": 22,
-      "floor": "Main Floor",
-      "row": 23,
-      "label": "\ud83e\uddfa Mudroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Mudroom",
-      "uid": "ZONES:22"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 38,
       "row": 4,
@@ -744,10 +734,19 @@
       "sid": 301,
       "label": "Buy more mop heads",
       "uid": "SPIN_WHEEL:301"
+    },
+    {
+      "source": "ZONES",
+      "zid": 24,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Music Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Music Room",
+      "uid": "ZONES:24"
     }
   ],
-  "version": 686,
-  "updated": "2026-07-05T05:02:50.802252+00:00",
+  "version": 687,
+  "updated": "2026-07-05T05:06:49.967811+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 56,
