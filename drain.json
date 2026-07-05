@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 47,
+      "label": "Redeem discover rewards",
+      "uid": "SPIN:290",
+      "_ts": "2026-07-05T23:57:46.416Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-05T23:36:54.189Z",
+  "mirroredAt": "2026-07-05T23:57:46.649Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-05T23:36:54.927661+00:00",
-  "lastAutoProcessed": [
-    "SPIN:283"
-  ]
+  }
 }
