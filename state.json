@@ -714,13 +714,6 @@
       "uid": "SPIN:135"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 300,
-      "sid": 300,
-      "label": "Price more plants",
-      "uid": "SPIN_WHEEL:300"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 82,
       "label": "\ud83c\udfe0 Vacuum the upstairs",
@@ -745,11 +738,11 @@
       "uid": "ZONES:24"
     }
   ],
-  "version": 687,
-  "updated": "2026-07-05T05:06:49.967811+00:00",
+  "version": 688,
+  "updated": "2026-07-05T07:44:10.894984+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 55,
     "ZONES": 7,
     "COURAGE": 3,
     "MAINTENANCE": 2
