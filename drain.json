@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 300,
+      "label": "Price more plants",
+      "uid": "SPIN_WHEEL:300",
+      "_ts": "2026-07-05T07:43:19.883Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-07-05T07:43:16.520Z"
     }
   ],
-  "mirroredAt": "2026-07-05T07:43:16.767Z",
+  "mirroredAt": "2026-07-05T07:43:20.113Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
