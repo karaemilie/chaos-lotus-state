@@ -1,18 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-04T09:13:14.913Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Swap out Puras",
+      "_addedAt": "2026-07-05T01:32:50.106Z",
+      "_ts": "2026-07-05T01:32:50.223Z"
+    }
+  ],
+  "mirroredAt": "2026-07-05T01:32:50.470Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-04T09:13:15.873906+00:00",
-  "lastAutoProcessed": [
-    "ZONES:65",
-    "ZONES:80",
-    "TASKS:11722"
-  ],
-  "autoReset": [
-    "Plant"
-  ]
+    "adds": 1
+  }
 }
