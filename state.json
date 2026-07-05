@@ -284,13 +284,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 290,
-      "row": 47,
-      "label": "Redeem discover rewards",
-      "uid": "SPIN:290"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 297,
       "row": 54,
       "label": "Decide about 1600 lumen hue bulbs",
@@ -738,11 +731,11 @@
       "uid": "SPIN_WHEEL:302"
     }
   ],
-  "version": 690,
-  "updated": "2026-07-05T23:36:53.248557+00:00",
+  "version": 691,
+  "updated": "2026-07-05T23:57:59.511830+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 54,
     "ZONES": 7,
     "COURAGE": 3,
     "MAINTENANCE": 2
