@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-05T05:06:50.963Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Price more plants",
+      "_addedAt": "2026-07-05T07:43:16.402Z",
+      "_ts": "2026-07-05T07:43:16.520Z"
+    }
+  ],
+  "mirroredAt": "2026-07-05T07:43:16.767Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-05T05:06:51.612991+00:00",
-  "lastAutoProcessed": [
-    "ZONES:22"
-  ]
+    "adds": 1
+  }
 }
