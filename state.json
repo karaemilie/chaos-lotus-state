@@ -277,13 +277,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 295,
-      "row": 52,
-      "label": "Make list of sales plants",
-      "uid": "SPIN:295"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 279,
       "row": 41,
       "label": "\ud83d\udc38 Open Bentley fall rental site",
@@ -747,11 +740,11 @@
       "uid": "SPIN_WHEEL:300"
     }
   ],
-  "version": 683,
-  "updated": "2026-07-05T04:16:42.918827+00:00",
+  "version": 684,
+  "updated": "2026-07-05T04:17:20.626385+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 55,
     "ZONES": 7,
     "COURAGE": 3,
     "MAINTENANCE": 2
