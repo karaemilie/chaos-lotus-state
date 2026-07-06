@@ -2,6 +2,14 @@
   "completions": [
     {
       "source": "TASKS",
+      "id": 11746,
+      "row": 370,
+      "label": "✨ Pay Lindsey & Miriam for the week!",
+      "uid": "TASKS:11746",
+      "_ts": "2026-07-06T00:34:07.257Z"
+    },
+    {
+      "source": "TASKS",
       "id": 11745,
       "row": 369,
       "label": "✨ Use Claude budget on new projects or app feature development 🧠⏳ 📝",
@@ -9,10 +17,17 @@
       "_ts": "2026-07-06T00:34:13.832Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-06T00:34:22.188Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pay Miriam",
+      "_addedAt": "2026-07-06T00:34:30.590Z",
+      "_ts": "2026-07-06T00:34:30.881Z"
+    }
+  ],
+  "mirroredAt": "2026-07-06T00:34:31.127Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
