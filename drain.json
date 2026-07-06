@@ -1,9 +1,53 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-06T00:35:03.049Z",
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11746,
+      "row": 370,
+      "label": "✨ Pay Lindsey & Miriam for the week!",
+      "uid": "TASKS:11746",
+      "_ts": "2026-07-06T00:34:07.257Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11745,
+      "row": 369,
+      "label": "✨ Use Claude budget on new projects or app feature development 🧠⏳ 📝",
+      "uid": "TASKS:11745",
+      "_ts": "2026-07-06T00:34:13.832Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 38,
+      "label": "Find wall push pins",
+      "uid": "SPIN:273",
+      "_ts": "2026-07-06T00:34:38.667Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11773,
+      "label": "✨ Clip & pot new Hoya starts 🪴🌱",
+      "uid": "TASKS:11773",
+      "_ts": "2026-07-06T00:35:03.039Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pay Miriam",
+      "_addedAt": "2026-07-06T00:34:30.590Z",
+      "_ts": "2026-07-06T00:34:30.881Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Price ten more Hoyas",
+      "_addedAt": "2026-07-06T00:35:11.740Z",
+      "_ts": "2026-07-06T00:35:12.029Z"
+    }
+  ],
+  "mirroredAt": "2026-07-06T00:35:12.301Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 4,
+    "adds": 2
   }
 }
