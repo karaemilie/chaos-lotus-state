@@ -307,15 +307,6 @@
       "uid": "ZONES:88"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 81,
-      "row": 82,
-      "label": "\ud83c\udfe0 Mop main floor",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Mop main floor",
-      "uid": "MAINTENANCE:81"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11576,
       "parentRow": 282,
@@ -718,10 +709,18 @@
       "sid": 305,
       "label": "Hear back/order cello peg",
       "uid": "SPIN_WHEEL:305"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 83,
+      "label": "\ud83c\udfe0 Wash kids bathroom rugs",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Wash kids bathroom rugs",
+      "uid": "MAINTENANCE:83"
     }
   ],
-  "version": 701,
-  "updated": "2026-07-06T02:53:06.288711+00:00",
+  "version": 702,
+  "updated": "2026-07-06T06:59:08.673329+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
     "TASKS": 17,
