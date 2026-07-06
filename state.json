@@ -534,13 +534,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 298,
-      "row": 55,
-      "label": "Order comfort peg",
-      "uid": "SPIN:298"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 292,
       "row": 49,
       "label": "Research Oslo and polyphasic sleep",
@@ -741,10 +734,10 @@
       "uid": "SPIN_WHEEL:305"
     }
   ],
-  "version": 698,
-  "updated": "2026-07-06T02:48:14.172782+00:00",
+  "version": 699,
+  "updated": "2026-07-06T02:48:54.838845+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 55,
     "TASKS": 17,
     "ZONES": 7,
     "COURAGE": 3,
