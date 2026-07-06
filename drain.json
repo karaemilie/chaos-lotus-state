@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-06T06:59:09.710Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order more drains?",
+      "_addedAt": "2026-07-06T09:06:25.120Z",
+      "_ts": "2026-07-06T09:06:25.242Z"
+    }
+  ],
+  "mirroredAt": "2026-07-06T09:06:25.481Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-06T06:59:10.717790+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:81"
-  ]
+    "adds": 1
+  }
 }
