@@ -1,20 +1,6 @@
 {
   "tasks": [
     {
-      "source": "TASKS",
-      "id": 11747,
-      "row": 371,
-      "label": "\u2728 Spend time on flower bouquet coding project",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": "Bouquet Tracker",
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11747"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 247,
       "row": 29,
@@ -696,19 +682,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11773,
-      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11773"
-    },
-    {
-      "source": "TASKS",
       "id": 11502,
       "label": "\u2728 Review IXL assessments for Lincoln",
       "aw": 4,
@@ -726,13 +699,39 @@
       "sid": 303,
       "label": "Pay Miriam",
       "uid": "SPIN_WHEEL:303"
+    },
+    {
+      "source": "TASKS",
+      "id": 11597,
+      "label": "\u2728 Update Pura subscriptions",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11597"
+    },
+    {
+      "source": "TASKS",
+      "id": 11677,
+      "label": "\u2728 Review Pura schedules, adjust/turn off where not needed",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11677"
     }
   ],
-  "version": 695,
-  "updated": "2026-07-06T00:35:04.344082+00:00",
+  "version": 696,
+  "updated": "2026-07-06T00:35:48.958995+00:00",
   "buckets": {
-    "TASKS": 17,
     "SPIN_WHEEL": 54,
+    "TASKS": 17,
     "ZONES": 7,
     "COURAGE": 3,
     "MAINTENANCE": 2
