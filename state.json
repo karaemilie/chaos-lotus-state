@@ -651,19 +651,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11597,
-      "label": "\u2728 Update Pura subscriptions",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11597"
-    },
-    {
-      "source": "TASKS",
       "id": 11677,
       "label": "\u2728 Review Pura schedules, adjust/turn off where not needed",
       "aw": 4,
@@ -716,10 +703,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11693"
+    },
+    {
+      "source": "TASKS",
+      "id": 11744,
+      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11744"
     }
   ],
-  "version": 705,
-  "updated": "2026-07-06T09:53:38.090157+00:00",
+  "version": 706,
+  "updated": "2026-07-06T10:21:57.262862+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
     "TASKS": 17,
