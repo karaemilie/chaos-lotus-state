@@ -621,13 +621,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 278,
-      "row": 40,
-      "label": "USE FABLE!",
-      "uid": "SPIN:278"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 135,
       "row": 12,
       "label": "Move chairs",
@@ -734,10 +727,10 @@
       "uid": "SPIN_WHEEL:305"
     }
   ],
-  "version": 699,
-  "updated": "2026-07-06T02:48:54.838845+00:00",
+  "version": 700,
+  "updated": "2026-07-06T02:52:21.122264+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 54,
     "TASKS": 17,
     "ZONES": 7,
     "COURAGE": 3,
