@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11746,
+      "row": 370,
+      "label": "✨ Pay Lindsey & Miriam for the week!",
+      "uid": "TASKS:11746",
+      "_ts": "2026-07-06T00:34:07.257Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-06T00:14:28.059Z",
+  "mirroredAt": "2026-07-06T00:34:07.459Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-06T00:14:28.724546+00:00",
-  "lastAutoProcessed": [
-    "ZONES:51"
-  ]
+  }
 }
