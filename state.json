@@ -635,13 +635,6 @@
       "uid": "MAINTENANCE:82"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 301,
-      "sid": 301,
-      "label": "Buy more mop heads",
-      "uid": "SPIN_WHEEL:301"
-    },
-    {
       "source": "ZONES",
       "zid": 24,
       "floor": "Main Floor",
@@ -727,10 +720,10 @@
       "uid": "SPIN_WHEEL:305"
     }
   ],
-  "version": 700,
-  "updated": "2026-07-06T02:52:21.122264+00:00",
+  "version": 701,
+  "updated": "2026-07-06T02:53:06.288711+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 53,
     "TASKS": 17,
     "ZONES": 7,
     "COURAGE": 3,
