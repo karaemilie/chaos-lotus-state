@@ -109,20 +109,6 @@
       "uid": "SPIN:220"
     },
     {
-      "source": "TASKS",
-      "id": 11746,
-      "row": 370,
-      "label": "\u2728 Pay Lindsey & Miriam for the week!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11746"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 296,
       "row": 53,
@@ -728,10 +714,23 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Craft Zone",
       "uid": "ZONES:52"
+    },
+    {
+      "source": "TASKS",
+      "id": 11773,
+      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11773"
     }
   ],
-  "version": 692,
-  "updated": "2026-07-06T00:14:27.124193+00:00",
+  "version": 693,
+  "updated": "2026-07-06T00:34:19.554555+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 54,
