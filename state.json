@@ -540,16 +540,6 @@
       "uid": "SPIN:274"
     },
     {
-      "source": "ZONES",
-      "zid": 51,
-      "floor": "Basement",
-      "row": 52,
-      "label": "\ud83e\uddfa Back Office",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Back Office",
-      "uid": "ZONES:51"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 299,
       "row": 56,
@@ -729,10 +719,19 @@
       "sid": 302,
       "label": "Ponder rugs again",
       "uid": "SPIN_WHEEL:302"
+    },
+    {
+      "source": "ZONES",
+      "zid": 52,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Craft Zone",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Craft Zone",
+      "uid": "ZONES:52"
     }
   ],
-  "version": 691,
-  "updated": "2026-07-05T23:57:59.511830+00:00",
+  "version": 692,
+  "updated": "2026-07-06T00:14:27.124193+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 54,
