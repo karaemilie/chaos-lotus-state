@@ -140,20 +140,6 @@
       "uid": "SPIN:95"
     },
     {
-      "source": "TASKS",
-      "id": 11745,
-      "row": 369,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11745"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11491,
       "parentRow": 258,
@@ -239,13 +225,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10247"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 273,
-      "row": 38,
-      "label": "Find wall push pins",
-      "uid": "SPIN:273"
     },
     {
       "source": "TASKS",
@@ -727,13 +706,26 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:11773"
+    },
+    {
+      "source": "TASKS",
+      "id": 11502,
+      "label": "\u2728 Review IXL assessments for Lincoln",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 20,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11502"
     }
   ],
-  "version": 693,
-  "updated": "2026-07-06T00:34:19.554555+00:00",
+  "version": 694,
+  "updated": "2026-07-06T00:35:00.337034+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 53,
     "ZONES": 7,
     "COURAGE": 3,
     "MAINTENANCE": 2
