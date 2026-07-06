@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-06T10:21:59.394Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Try “Fabulous”",
+      "_addedAt": "2026-07-06T18:44:31.159Z",
+      "_ts": "2026-07-06T18:44:31.493Z"
+    }
+  ],
+  "mirroredAt": "2026-07-06T18:44:31.751Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-06T10:22:00.185029+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11597"
-  ]
+    "adds": 1
+  }
 }
