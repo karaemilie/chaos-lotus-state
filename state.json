@@ -200,20 +200,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10247,
-      "row": 89,
-      "label": "Install new drain - My Bathroom \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10247"
-    },
-    {
-      "source": "TASKS",
       "id": 11194,
       "row": 215,
       "label": "Write review for Gutierrez and post twin photos on FB",
@@ -724,10 +710,23 @@
       "sid": 306,
       "label": "Order more drains?",
       "uid": "SPIN_WHEEL:306"
+    },
+    {
+      "source": "TASKS",
+      "id": 11693,
+      "label": "\u2728 Grab the candles and charge them",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11693"
     }
   ],
-  "version": 703,
-  "updated": "2026-07-06T09:06:39.681232+00:00",
+  "version": 704,
+  "updated": "2026-07-06T09:07:18.240558+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "TASKS": 17,
