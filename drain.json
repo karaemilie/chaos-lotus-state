@@ -1,5 +1,14 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10247,
+      "row": 89,
+      "label": "Install new drain - My Bathroom 📝",
+      "uid": "TASKS:10247",
+      "_ts": "2026-07-06T09:06:28.732Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +17,9 @@
       "_ts": "2026-07-06T09:06:25.242Z"
     }
   ],
-  "mirroredAt": "2026-07-06T09:06:25.481Z",
+  "mirroredAt": "2026-07-06T09:06:28.999Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
