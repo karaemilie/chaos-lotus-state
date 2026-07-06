@@ -719,13 +719,20 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:11502"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 303,
+      "sid": 303,
+      "label": "Pay Miriam",
+      "uid": "SPIN_WHEEL:303"
     }
   ],
-  "version": 694,
-  "updated": "2026-07-06T00:35:00.337034+00:00",
+  "version": 695,
+  "updated": "2026-07-06T00:35:04.344082+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 54,
     "ZONES": 7,
     "COURAGE": 3,
     "MAINTENANCE": 2
