@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 82,
+      "label": "🏠 Mop main floor",
+      "uid": "MAINTENANCE:81",
+      "_ts": "2026-07-06T06:58:54.535Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-06T02:53:07.533Z",
+  "mirroredAt": "2026-07-06T06:58:54.914Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-06T02:53:08.572645+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:301"
-  ]
+  }
 }
