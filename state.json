@@ -732,12 +732,19 @@
       "sid": 304,
       "label": "Price ten more Hoyas",
       "uid": "SPIN_WHEEL:304"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 305,
+      "sid": 305,
+      "label": "Hear back/order cello peg",
+      "uid": "SPIN_WHEEL:305"
     }
   ],
-  "version": 697,
-  "updated": "2026-07-06T00:35:53.267830+00:00",
+  "version": 698,
+  "updated": "2026-07-06T02:48:14.172782+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 56,
     "TASKS": 17,
     "ZONES": 7,
     "COURAGE": 3,
