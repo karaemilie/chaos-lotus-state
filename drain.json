@@ -1,21 +1,6 @@
 {
   "completions": [
     {
-      "source": "ZONES",
-      "zid": 52,
-      "floor": "Basement",
-      "label": "🧺 Basement Craft Zone",
-      "uid": "ZONES:52",
-      "_ts": "2026-07-07T05:46:01.788Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 307,
-      "label": "Try “Fabulous”",
-      "uid": "SPIN_WHEEL:307",
-      "_ts": "2026-07-07T05:46:26.221Z"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 308,
       "label": "Look at Amazon shirts",
@@ -38,9 +23,9 @@
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-07T05:46:38.449Z",
+  "mirroredAt": "2026-07-07T05:46:41.406Z",
   "counts": {
-    "completions": 5,
+    "completions": 3,
     "adds": 0
   }
 }
