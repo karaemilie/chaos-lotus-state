@@ -22,10 +22,17 @@
       "_ts": "2026-07-07T09:00:52.900Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-07T09:00:53.099Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Move vacuum to downstairs",
+      "_addedAt": "2026-07-07T09:01:09.981Z",
+      "_ts": "2026-07-07T09:01:10.086Z"
+    }
+  ],
+  "mirroredAt": "2026-07-07T09:01:10.322Z",
   "counts": {
     "completions": 3,
-    "adds": 0
+    "adds": 1
   }
 }
