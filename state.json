@@ -765,12 +765,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Clean a fridge shelf",
       "uid": "MAINTENANCE:84"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 314,
+      "sid": 314,
+      "label": "Order pura",
+      "uid": "SPIN_WHEEL:314"
     }
   ],
-  "version": 715,
-  "updated": "2026-07-07T05:27:52.483193+00:00",
+  "version": 716,
+  "updated": "2026-07-07T05:27:55.421369+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 61,
     "TASKS": 17,
     "ZONES": 7,
     "COURAGE": 3,
