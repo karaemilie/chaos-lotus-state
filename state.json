@@ -668,13 +668,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 307,
-      "sid": 307,
-      "label": "Try \u201cFabulous\u201d",
-      "uid": "SPIN_WHEEL:307"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 308,
       "sid": 308,
       "label": "Look at Amazon shirts",
@@ -753,10 +746,10 @@
       "uid": "ZONES:53"
     }
   ],
-  "version": 719,
-  "updated": "2026-07-07T05:46:13.697162+00:00",
+  "version": 720,
+  "updated": "2026-07-07T05:46:40.262700+00:00",
   "buckets": {
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 57,
     "TASKS": 17,
     "ZONES": 7,
     "COURAGE": 3,
