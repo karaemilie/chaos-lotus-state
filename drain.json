@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 8,
+      "label": "Sign B up for new MCAT date",
+      "uid": "SPIN:87",
+      "_ts": "2026-07-07T07:28:33.143Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-07T07:14:43.704Z",
+  "mirroredAt": "2026-07-07T07:28:33.373Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-07T07:14:44.535922+00:00",
-  "lastAutoProcessed": [
-    "ZONES:14"
-  ]
+  }
 }
