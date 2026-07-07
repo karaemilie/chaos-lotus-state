@@ -1,15 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-07T06:49:48.229Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Refresh Puraz",
+      "_addedAt": "2026-07-07T07:05:06.869Z",
+      "_ts": "2026-07-07T07:05:06.973Z"
+    }
+  ],
+  "mirroredAt": "2026-07-07T07:05:07.251Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-07T06:49:48.907708+00:00",
-  "lastAutoProcessed": [
-    "ZONES:74",
-    "ZONES:24",
-    "TASKS:11693"
-  ]
+    "adds": 1
+  }
 }
