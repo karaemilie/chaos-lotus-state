@@ -2,16 +2,30 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
+      "row": 27,
+      "label": "Find more sale plants",
+      "uid": "SPIN:230",
+      "_ts": "2026-07-07T05:38:03.943Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 50,
       "label": "Jet alert for genevieve",
       "uid": "SPIN:293",
       "_ts": "2026-07-07T05:38:16.175Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 56,
+      "label": "Swap out Puras",
+      "uid": "SPIN:299",
+      "_ts": "2026-07-07T05:38:39.387Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-07T05:38:19.074Z",
+  "mirroredAt": "2026-07-07T05:38:39.612Z",
   "counts": {
-    "completions": 1,
+    "completions": 3,
     "adds": 0
   }
 }
