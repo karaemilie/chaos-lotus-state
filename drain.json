@@ -1,14 +1,31 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 42,
+      "label": "Research Hacky Sacks",
+      "uid": "SPIN:291",
+      "_ts": "2026-07-07T09:00:05.508Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 39,
+      "label": "Set up new vaccum",
+      "uid": "SPIN:282",
+      "_ts": "2026-07-07T09:00:32.376Z"
+    },
+    {
+      "source": "MAINTENANCE",
+      "row": 83,
+      "label": "🏠 Vacuum the upstairs",
+      "uid": "MAINTENANCE:82",
+      "_ts": "2026-07-07T09:00:52.900Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-07T09:00:49.732Z",
+  "mirroredAt": "2026-07-07T09:00:53.099Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-07-07T09:00:50.577726+00:00",
-  "lastAutoProcessed": [
-    "SPIN:291",
-    "SPIN:282"
-  ]
+  }
 }
