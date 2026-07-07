@@ -1,15 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-07T05:47:33.198Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order cord",
+      "_addedAt": "2026-07-07T06:12:07.857Z",
+      "_ts": "2026-07-07T06:12:08.110Z"
+    }
+  ],
+  "mirroredAt": "2026-07-07T06:12:08.341Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-07T05:47:34.342827+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:311",
-    "SPIN_WHEEL:310",
-    "SPIN_WHEEL:308"
-  ]
+    "adds": 1
+  }
 }
