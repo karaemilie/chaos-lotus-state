@@ -1,34 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "ZONES",
-      "row": 75,
-      "zid": 74,
-      "floor": "Plant",
-      "label": "🌱 Family Room Plants",
-      "uid": "ZONES:74",
-      "_ts": "2026-07-07T06:47:24.496Z"
-    },
-    {
-      "source": "ZONES",
-      "zid": 24,
-      "floor": "Main Floor",
-      "label": "🧺 Music Room",
-      "uid": "ZONES:24",
-      "_ts": "2026-07-07T06:47:38.210Z"
-    },
-    {
-      "source": "TASKS",
-      "id": 11693,
-      "label": "✨ Grab the candles and charge them",
-      "uid": "TASKS:11693",
-      "_ts": "2026-07-07T06:49:35.234Z"
-    }
-  ],
+  "completions": [],
   "adds": [],
-  "mirroredAt": "2026-07-07T06:49:35.456Z",
+  "mirroredAt": "2026-07-07T06:49:48.229Z",
   "counts": {
-    "completions": 3,
+    "completions": 0,
     "adds": 0
   }
 }
