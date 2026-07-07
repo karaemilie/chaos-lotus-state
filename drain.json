@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-07T07:41:05.338Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Phone screen",
+      "_addedAt": "2026-07-07T08:12:33.253Z",
+      "_ts": "2026-07-07T08:12:33.467Z"
+    }
+  ],
+  "mirroredAt": "2026-07-07T08:12:33.720Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-07T07:41:06.397182+00:00",
-  "lastAutoProcessed": [
-    "SPIN:319"
-  ]
+    "adds": 1
+  }
 }
