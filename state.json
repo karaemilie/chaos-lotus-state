@@ -690,13 +690,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 315,
-      "row": 55,
-      "label": "Order cord",
-      "uid": "SPIN:315"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 38,
       "row": 4,
       "label": "Genuine first step to Amazon commissions",
@@ -763,10 +756,10 @@
       "uid": "MAINTENANCE:85"
     }
   ],
-  "version": 743,
-  "updated": "2026-07-07T09:01:14.330587+00:00",
+  "version": 744,
+  "updated": "2026-07-07T09:17:34.815281+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 55,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
