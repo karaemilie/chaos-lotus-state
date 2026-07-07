@@ -668,31 +668,10 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 308,
-      "sid": 308,
-      "label": "Look at Amazon shirts",
-      "uid": "SPIN_WHEEL:308"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 309,
       "sid": 309,
       "label": "Genevieve dr check calendar",
       "uid": "SPIN_WHEEL:309"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 310,
-      "sid": 310,
-      "label": "Create a routine just for procrastination?",
-      "uid": "SPIN_WHEEL:310"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 311,
-      "sid": 311,
-      "label": "New bulb",
-      "uid": "SPIN_WHEEL:311"
     },
     {
       "source": "SPIN_WHEEL",
@@ -746,10 +725,10 @@
       "uid": "ZONES:53"
     }
   ],
-  "version": 720,
-  "updated": "2026-07-07T05:46:40.262700+00:00",
+  "version": 721,
+  "updated": "2026-07-07T05:47:32.047738+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 54,
     "TASKS": 17,
     "ZONES": 7,
     "COURAGE": 3,
