@@ -581,15 +581,6 @@
       "uid": "MAINTENANCE:82"
     },
     {
-      "source": "ZONES",
-      "zid": 24,
-      "floor": "Main Floor",
-      "label": "\ud83e\uddfa Music Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Music Room",
-      "uid": "ZONES:24"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 302,
       "sid": 302,
@@ -629,19 +620,6 @@
       "sid": 306,
       "label": "Order more drains?",
       "uid": "SPIN_WHEEL:306"
-    },
-    {
-      "source": "TASKS",
-      "id": 11693,
-      "label": "\u2728 Grab the candles and charge them",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11693"
     },
     {
       "source": "TASKS",
@@ -736,10 +714,32 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Main floor Down Low",
       "uid": "ZONES:75"
+    },
+    {
+      "source": "ZONES",
+      "zid": 25,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Garage",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Garage",
+      "uid": "ZONES:25"
+    },
+    {
+      "source": "TASKS",
+      "id": 11646,
+      "label": "\u2728 Monthly pill box fill time",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11646"
     }
   ],
-  "version": 724,
-  "updated": "2026-07-07T06:47:36.002221+00:00",
+  "version": 725,
+  "updated": "2026-07-07T06:49:46.081200+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "TASKS": 17,
