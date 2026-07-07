@@ -259,15 +259,6 @@
       "uid": "TASKS:10202"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 82,
-      "row": 83,
-      "label": "\ud83c\udfe0 Vacuum the upstairs",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Vacuum the upstairs",
-      "uid": "MAINTENANCE:82"
-    },
-    {
       "source": "ZONES",
       "zid": 67,
       "floor": "Digital",
@@ -762,15 +753,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11766"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 85,
+      "label": "\ud83c\udfe0 Trim cat claws",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Trim cat claws",
+      "uid": "MAINTENANCE:85"
     }
   ],
-  "version": 742,
-  "updated": "2026-07-07T09:00:48.615614+00:00",
+  "version": 743,
+  "updated": "2026-07-07T09:01:14.330587+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "TASKS": 17,
     "COURAGE": 3,
-    "MAINTENANCE": 2,
-    "ZONES": 9
+    "ZONES": 9,
+    "MAINTENANCE": 2
   }
 }
