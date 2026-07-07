@@ -64,35 +64,11 @@
       "uid": "SPIN:89"
     },
     {
-      "source": "ZONES",
-      "zid": 90,
-      "floor": "Personal",
-      "row": 91,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Retainer",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Retainer",
-      "uid": "ZONES:90"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 314,
       "row": 54,
       "label": "Order pura",
       "uid": "SPIN:314"
-    },
-    {
-      "source": "TASKS",
-      "id": 11735,
-      "row": 338,
-      "label": "\u2728 Water snake plants",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11735"
     },
     {
       "source": "SPIN_WHEEL",
@@ -274,13 +250,6 @@
       "row": 58,
       "label": "Write Ruth",
       "uid": "SPIN:318"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 292,
-      "row": 43,
-      "label": "Research Oslo and polyphasic sleep",
-      "uid": "SPIN:292"
     },
     {
       "source": "TASKS",
@@ -785,15 +754,37 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Exfoliation",
       "uid": "ZONES:81"
+    },
+    {
+      "source": "ZONES",
+      "zid": 82,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Dermaplane",
+      "uid": "ZONES:82"
+    },
+    {
+      "source": "TASKS",
+      "id": 11766,
+      "label": "Browse iron curtain options \ud83e\ude9f",
+      "aw": 3,
+      "pri": 3,
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11766"
     }
   ],
-  "version": 739,
-  "updated": "2026-07-07T08:56:29.288208+00:00",
+  "version": 740,
+  "updated": "2026-07-07T08:57:12.669733+00:00",
   "buckets": {
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 58,
     "TASKS": 17,
-    "ZONES": 9,
     "COURAGE": 3,
-    "MAINTENANCE": 2
+    "MAINTENANCE": 2,
+    "ZONES": 9
   }
 }
