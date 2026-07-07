@@ -327,13 +327,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 293,
-      "row": 50,
-      "label": "Jet alert for genevieve",
-      "uid": "SPIN:293"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 43,
       "row": 5,
       "label": "Book septic",
@@ -459,13 +452,6 @@
       "row": 39,
       "label": "More med school research - financial aid grants list **",
       "uid": "SPIN:274"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 299,
-      "row": 56,
-      "label": "Swap out Puras",
-      "uid": "SPIN:299"
     },
     {
       "source": "SPIN_WHEEL",
@@ -767,10 +753,10 @@
       "uid": "SPIN_WHEEL:314"
     }
   ],
-  "version": 717,
-  "updated": "2026-07-07T05:38:17.928787+00:00",
+  "version": 718,
+  "updated": "2026-07-07T05:39:04.571965+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 58,
     "TASKS": 17,
     "ZONES": 7,
     "COURAGE": 3,
