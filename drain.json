@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-07T05:01:54.818Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "List my classical academic press books",
+      "_addedAt": "2026-07-07T05:14:12.839Z",
+      "_ts": "2026-07-07T05:14:12.947Z"
+    }
+  ],
+  "mirroredAt": "2026-07-07T05:14:13.211Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
