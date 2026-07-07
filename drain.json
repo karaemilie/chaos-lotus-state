@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 82,
+      "zid": 81,
+      "floor": "Personal",
+      "label": "👱‍♀️ Face Exfoliation",
+      "uid": "ZONES:81",
+      "_ts": "2026-07-07T21:08:27.704Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-07T10:05:15.124Z",
+  "mirroredAt": "2026-07-07T21:08:28.124Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-07T10:05:16.273390+00:00",
-  "lastAutoProcessed": [
-    "SPIN:314"
-  ]
+  }
 }
