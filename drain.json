@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-06T23:07:27.433Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "New bulb",
+      "_addedAt": "2026-07-07T01:05:20.922Z",
+      "_ts": "2026-07-07T01:05:21.086Z"
+    }
+  ],
+  "mirroredAt": "2026-07-07T01:05:21.334Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
