@@ -664,14 +664,6 @@
       "uid": "SPIN_WHEEL:305"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 83,
-      "label": "\ud83c\udfe0 Wash kids bathroom rugs",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Wash kids bathroom rugs",
-      "uid": "MAINTENANCE:83"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 306,
       "sid": 306,
@@ -765,10 +757,18 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:11757"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 84,
+      "label": "\ud83c\udfe0 Clean a fridge shelf",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Clean a fridge shelf",
+      "uid": "MAINTENANCE:84"
     }
   ],
-  "version": 714,
-  "updated": "2026-07-07T05:27:06.870538+00:00",
+  "version": 715,
+  "updated": "2026-07-07T05:27:52.483193+00:00",
   "buckets": {
     "SPIN_WHEEL": 60,
     "TASKS": 17,
