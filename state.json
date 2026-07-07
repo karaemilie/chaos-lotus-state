@@ -71,16 +71,6 @@
       "uid": "TASKS:11762"
     },
     {
-      "source": "ZONES",
-      "zid": 14,
-      "floor": "Upstairs",
-      "row": 15,
-      "label": "\ud83e\uddfa Upstairs Hallway",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Upstairs Hallway",
-      "uid": "ZONES:14"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 4,
       "row": 2,
@@ -757,15 +747,24 @@
       "sid": 319,
       "label": "Add vacuum filter to maintenance sheey",
       "uid": "SPIN_WHEEL:319"
+    },
+    {
+      "source": "ZONES",
+      "zid": 15,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa My Closet",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "My Closet",
+      "uid": "ZONES:15"
     }
   ],
-  "version": 728,
-  "updated": "2026-07-07T07:07:34.563226+00:00",
+  "version": 729,
+  "updated": "2026-07-07T07:14:42.674482+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 17,
-    "ZONES": 7,
     "COURAGE": 3,
+    "ZONES": 7,
     "MAINTENANCE": 2
   }
 }
