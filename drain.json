@@ -8,10 +8,17 @@
       "_ts": "2026-07-07T05:26:56.727Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-07T05:26:56.967Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order pura",
+      "_addedAt": "2026-07-07T05:27:04.951Z",
+      "_ts": "2026-07-07T05:27:05.047Z"
+    }
+  ],
+  "mirroredAt": "2026-07-07T05:27:05.295Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
