@@ -740,19 +740,12 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Trim cat claws",
       "uid": "MAINTENANCE:85"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 320,
-      "sid": 320,
-      "label": "Add way to mark business tasks on front end?",
-      "uid": "SPIN_WHEEL:320"
     }
   ],
-  "version": 747,
-  "updated": "2026-07-07T09:34:34.536617+00:00",
+  "version": 748,
+  "updated": "2026-07-07T09:35:17.825254+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 53,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
