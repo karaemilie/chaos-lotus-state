@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 52,
+      "floor": "Basement",
+      "label": "🧺 Basement Craft Zone",
+      "uid": "ZONES:52",
+      "_ts": "2026-07-07T05:46:01.788Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 307,
+      "label": "Try “Fabulous”",
+      "uid": "SPIN_WHEEL:307",
+      "_ts": "2026-07-07T05:46:26.221Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-07T05:46:14.752Z",
+  "mirroredAt": "2026-07-07T05:46:26.455Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-07T05:46:15.627153+00:00",
-  "lastAutoProcessed": [
-    "ZONES:52"
-  ]
+  }
 }
