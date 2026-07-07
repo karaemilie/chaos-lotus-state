@@ -72,13 +72,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 282,
-      "row": 39,
-      "label": "Set up new vaccum",
-      "uid": "SPIN:282"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 4,
       "row": 2,
       "label": "Review building permit posted",
@@ -771,10 +764,10 @@
       "uid": "TASKS:11766"
     }
   ],
-  "version": 741,
-  "updated": "2026-07-07T09:00:17.058953+00:00",
+  "version": 742,
+  "updated": "2026-07-07T09:00:48.615614+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 56,
     "TASKS": 17,
     "COURAGE": 3,
     "MAINTENANCE": 2,
