@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-07T09:21:04.169Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add way to mark business tasks on front end?",
+      "_addedAt": "2026-07-07T09:22:07.872Z",
+      "_ts": "2026-07-07T09:22:08.105Z"
+    }
+  ],
+  "mirroredAt": "2026-07-07T09:22:08.483Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-07T09:21:05.319894+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:320"
-  ]
+    "adds": 1
+  }
 }
