@@ -1,14 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 67,
+      "zid": 66,
+      "floor": "Digital",
+      "label": "💻 Due",
+      "uid": "ZONES:66",
+      "_ts": "2026-07-07T09:56:03.619Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-07T09:35:18.736Z",
+  "mirroredAt": "2026-07-07T09:56:03.856Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-07T09:35:19.570472+00:00",
-  "lastAutoProcessed": [
-    "SPIN:312",
-    "SPIN_WHEEL:320"
-  ]
+  }
 }
