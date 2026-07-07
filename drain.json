@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 50,
+      "label": "Order pura",
+      "uid": "SPIN:314",
+      "_ts": "2026-07-07T10:05:00.437Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-07T09:57:05.030Z",
+  "mirroredAt": "2026-07-07T10:05:00.654Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-07T09:57:05.901693+00:00",
-  "lastAutoProcessed": [
-    "ZONES:67"
-  ]
+  }
 }
