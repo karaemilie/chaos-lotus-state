@@ -185,16 +185,6 @@
       "uid": "SPIN:297"
     },
     {
-      "source": "ZONES",
-      "zid": 81,
-      "floor": "Personal",
-      "row": 82,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Exfoliation",
-      "uid": "ZONES:81"
-    },
-    {
       "source": "TASKS",
       "id": 11532,
       "row": 260,
@@ -717,10 +707,19 @@
       "label": "\ud83d\udd25 Check PFD statuses for everyone (Bentley, Jake, Genevieve)",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11217:0"
+    },
+    {
+      "source": "ZONES",
+      "zid": 82,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Dermaplane",
+      "uid": "ZONES:82"
     }
   ],
-  "version": 756,
-  "updated": "2026-07-07T10:05:14.142230+00:00",
+  "version": 757,
+  "updated": "2026-07-07T21:08:40.311365+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 52,
