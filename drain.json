@@ -1,15 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 52,
+      "floor": "Basement",
+      "label": "🧺 Basement Craft Zone",
+      "uid": "ZONES:52",
+      "_ts": "2026-07-07T05:46:01.788Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-07T05:39:05.514Z",
+  "mirroredAt": "2026-07-07T05:46:02.012Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-07T05:39:06.288885+00:00",
-  "lastAutoProcessed": [
-    "SPIN:230",
-    "SPIN:299",
-    "SPIN:293"
-  ]
+  }
 }
