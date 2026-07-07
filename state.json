@@ -650,19 +650,6 @@
       "uid": "TASKS:11502"
     },
     {
-      "source": "TASKS",
-      "id": 11677,
-      "label": "\u2728 Review Pura schedules, adjust/turn off where not needed",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11677"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 304,
       "sid": 304,
@@ -765,10 +752,23 @@
       "sid": 313,
       "label": "List my classical academic press books",
       "uid": "SPIN_WHEEL:313"
+    },
+    {
+      "source": "TASKS",
+      "id": 11757,
+      "label": "\u2728 Listen to part of a podcast \ud83c\udfa7",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11757"
     }
   ],
-  "version": 713,
-  "updated": "2026-07-07T05:14:27.418897+00:00",
+  "version": 714,
+  "updated": "2026-07-07T05:27:06.870538+00:00",
   "buckets": {
     "SPIN_WHEEL": 60,
     "TASKS": 17,
