@@ -357,16 +357,6 @@
       "uid": "TASKS:11243"
     },
     {
-      "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "row": 75,
-      "label": "\ud83c\udf31 Family Room Plants",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Plants",
-      "uid": "ZONES:74"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 183,
       "row": 18,
@@ -737,10 +727,19 @@
       "sid": 316,
       "label": "Check Jake PFD**",
       "uid": "SPIN_WHEEL:316"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Main floor Down Low",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Main floor Down Low",
+      "uid": "ZONES:75"
     }
   ],
-  "version": 723,
-  "updated": "2026-07-07T06:21:32.696995+00:00",
+  "version": 724,
+  "updated": "2026-07-07T06:47:36.002221+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "TASKS": 17,
