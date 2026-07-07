@@ -65,16 +65,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 88,
-      "floor": "Personal",
-      "row": 89,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Feet Care & Pedi",
-      "uid": "ZONES:88"
-    },
-    {
-      "source": "ZONES",
       "zid": 90,
       "floor": "Personal",
       "row": 91,
@@ -786,10 +776,19 @@
       "sid": 320,
       "label": "Label growth tasks purple?  Hmmmm",
       "uid": "SPIN_WHEEL:320"
+    },
+    {
+      "source": "ZONES",
+      "zid": 81,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Exfoliation",
+      "uid": "ZONES:81"
     }
   ],
-  "version": 738,
-  "updated": "2026-07-07T08:13:32.635290+00:00",
+  "version": 739,
+  "updated": "2026-07-07T08:56:29.288208+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 17,
