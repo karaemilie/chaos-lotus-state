@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-08T01:56:09.946Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Next window film! **",
+      "_addedAt": "2026-07-08T02:33:27.816Z",
+      "_ts": "2026-07-08T02:33:27.912Z"
+    }
+  ],
+  "mirroredAt": "2026-07-08T02:33:28.177Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-08T01:56:11.017607+00:00",
-  "lastAutoProcessed": [
-    "SPIN:319"
-  ]
+    "adds": 1
+  }
 }
