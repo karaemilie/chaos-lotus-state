@@ -1,13 +1,33 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 321,
+      "label": "Sign Jake sig page **",
+      "uid": "SPIN_WHEEL:321",
+      "_ts": "2026-07-08T09:16:57.064Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 26,
+      "zid": 25,
+      "floor": "Main Floor",
+      "label": "🧺 Garage",
+      "uid": "ZONES:25",
+      "_ts": "2026-07-08T09:17:15.985Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 48,
+      "label": "Refresh Puraz",
+      "uid": "SPIN:317",
+      "_ts": "2026-07-08T09:17:24.081Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-08T09:17:15.423Z",
+  "mirroredAt": "2026-07-08T09:17:24.308Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-07-08T09:17:16.707236+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:321"
-  ]
+  }
 }
