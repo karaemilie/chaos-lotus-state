@@ -316,16 +316,6 @@
       "uid": "SPIN:296"
     },
     {
-      "source": "TASKS",
-      "id": 11664,
-      "row": 298,
-      "label": "\ud83d\udcb8 Try this Claude Code reels tool \ud83e\udd16\ud83c\udfac",
-      "emoji": "\ud83d\udcb8",
-      "aw": null,
-      "specialZone": "Business",
-      "uid": "TASKS:11664"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 43,
       "row": 5,
@@ -702,10 +692,23 @@
       "sid": 324,
       "label": "Set up visual studio code**",
       "uid": "SPIN_WHEEL:324"
+    },
+    {
+      "source": "TASKS",
+      "id": 11421,
+      "label": "Finish fixing sand table",
+      "aw": 5,
+      "pri": null,
+      "dur": 30,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11421"
     }
   ],
-  "version": 780,
-  "updated": "2026-07-08T07:13:02.746300+00:00",
+  "version": 781,
+  "updated": "2026-07-08T07:13:44.430328+00:00",
   "buckets": {
     "SPIN_WHEEL": 50,
     "TASKS": 17,
