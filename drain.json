@@ -1,41 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "label": "🌱 Corner Nook B",
-      "uid": "ZONES:77",
-      "_ts": "2026-07-08T01:43:45.245Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 69,
-      "zid": 68,
-      "floor": "Digital",
-      "label": "💻 Photos",
-      "uid": "ZONES:68",
-      "_ts": "2026-07-08T01:44:15.536Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 25,
-      "label": "Select July/August cello lesson dates 🎻",
-      "uid": "SPIN:229",
-      "_ts": "2026-07-08T01:44:36.287Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Check for Linda",
-      "_addedAt": "2026-07-08T01:44:44.797Z",
-      "_ts": "2026-07-08T01:44:44.930Z"
-    }
-  ],
-  "mirroredAt": "2026-07-08T01:44:45.189Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-07-08T01:44:51.718Z",
   "counts": {
-    "completions": 3,
-    "adds": 1
+    "completions": 0,
+    "adds": 0
   }
 }
