@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 27,
+      "label": "Pack AE returns up",
+      "uid": "SPIN:257",
+      "_ts": "2026-07-08T06:05:28.677Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-08T05:16:02.278Z",
+  "mirroredAt": "2026-07-08T06:05:28.898Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
