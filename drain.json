@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-08T04:27:56.823Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Call eye dr and request call to Linai",
+      "_addedAt": "2026-07-08T05:15:47.301Z",
+      "_ts": "2026-07-08T05:15:47.413Z"
+    }
+  ],
+  "mirroredAt": "2026-07-08T05:15:47.682Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-08T04:27:57.676096+00:00",
-  "lastAutoProcessed": [
-    "SPIN:316"
-  ]
+    "adds": 1
+  }
 }
