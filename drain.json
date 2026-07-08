@@ -25,10 +25,17 @@
       "_ts": "2026-07-08T01:44:36.287Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-08T01:44:36.509Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Check for Linda",
+      "_addedAt": "2026-07-08T01:44:44.797Z",
+      "_ts": "2026-07-08T01:44:44.930Z"
+    }
+  ],
+  "mirroredAt": "2026-07-08T01:44:45.189Z",
   "counts": {
     "completions": 3,
-    "adds": 0
+    "adds": 1
   }
 }
