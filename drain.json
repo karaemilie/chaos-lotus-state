@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 22,
+      "label": "Assess the orange helmet?",
+      "uid": "SPIN:212",
+      "_ts": "2026-07-08T02:46:55.553Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-08T02:34:27.322Z",
+  "mirroredAt": "2026-07-08T02:46:55.788Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-08T02:34:28.116948+00:00",
-  "lastAutoProcessed": [
-    "SPIN:82"
-  ]
+  }
 }
