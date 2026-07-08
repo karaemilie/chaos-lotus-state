@@ -465,13 +465,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 317,
-      "row": 48,
-      "label": "Refresh Puraz",
-      "uid": "SPIN:317"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 194,
       "row": 20,
       "label": "Print window cleaner recipe",
@@ -607,16 +600,6 @@
       "uid": "SPIN:193"
     },
     {
-      "source": "ZONES",
-      "zid": 25,
-      "floor": "Main Floor",
-      "row": 26,
-      "label": "\ud83e\uddfa Garage",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Garage",
-      "uid": "ZONES:25"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 85,
       "row": 86,
@@ -698,12 +681,21 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11421"
+    },
+    {
+      "source": "ZONES",
+      "zid": 26,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Main Floor Living",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Main Floor Living",
+      "uid": "ZONES:26"
     }
   ],
-  "version": 782,
-  "updated": "2026-07-08T09:17:14.194583+00:00",
+  "version": 783,
+  "updated": "2026-07-08T09:17:41.746919+00:00",
   "buckets": {
-    "SPIN_WHEEL": 49,
+    "SPIN_WHEEL": 48,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
