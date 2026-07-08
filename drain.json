@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 38,
+      "label": "Write Hoya lady",
+      "uid": "SPIN:294",
+      "_ts": "2026-07-08T06:56:01.445Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-08T06:51:32.652Z",
+  "mirroredAt": "2026-07-08T06:56:01.900Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-08T06:51:33.741565+00:00",
-  "lastAutoProcessed": [
-    "SPIN:286"
-  ]
+  }
 }
