@@ -338,13 +338,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 257,
-      "row": 27,
-      "label": "Pack AE returns up",
-      "uid": "SPIN:257"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 296,
       "row": 39,
       "label": "More outdoor work time\u2026",
@@ -712,10 +705,10 @@
       "uid": "SPIN_WHEEL:322"
     }
   ],
-  "version": 774,
-  "updated": "2026-07-08T05:16:03.640102+00:00",
+  "version": 775,
+  "updated": "2026-07-08T06:05:39.761449+00:00",
   "buckets": {
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 50,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
