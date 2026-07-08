@@ -695,12 +695,19 @@
       "sid": 323,
       "label": "Practice board for dominos",
       "uid": "SPIN_WHEEL:323"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 324,
+      "sid": 324,
+      "label": "Set up visual studio code**",
+      "uid": "SPIN_WHEEL:324"
     }
   ],
-  "version": 779,
-  "updated": "2026-07-08T06:56:13.696796+00:00",
+  "version": 780,
+  "updated": "2026-07-08T07:13:02.746300+00:00",
   "buckets": {
-    "SPIN_WHEEL": 49,
+    "SPIN_WHEEL": 50,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
