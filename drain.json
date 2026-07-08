@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-08T02:47:08.575Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 22,
+      "label": "Assess the orange helmet?",
+      "uid": "SPIN:212",
+      "_ts": "2026-07-08T02:46:55.553Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Jake signature page… **",
+      "_addedAt": "2026-07-08T02:47:14.664Z",
+      "_ts": "2026-07-08T02:47:14.744Z"
+    }
+  ],
+  "mirroredAt": "2026-07-08T02:47:14.978Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-08T02:47:09.512935+00:00",
-  "lastAutoProcessed": [
-    "SPIN:212"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
