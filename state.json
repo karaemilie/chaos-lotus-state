@@ -699,25 +699,25 @@
     },
     {
       "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
-      "source": "ZONES",
       "zid": 54,
       "floor": "Basement",
       "label": "\ud83e\uddfa Crawlspace",
       "emoji": "\ud83e\uddfa",
       "zoneName": "Crawlspace",
       "uid": "ZONES:54"
+    },
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Props",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Props",
+      "uid": "ZONES:78"
     }
   ],
-  "version": 761,
-  "updated": "2026-07-08T01:34:33.485891+00:00",
+  "version": 762,
+  "updated": "2026-07-08T01:43:56.689375+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 52,
