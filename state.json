@@ -365,16 +365,6 @@
       "uid": "SPIN:319"
     },
     {
-      "source": "ZONES",
-      "zid": 68,
-      "floor": "Digital",
-      "row": 69,
-      "label": "\ud83d\udcbb Photos",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Photos",
-      "uid": "ZONES:68"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 259,
       "row": 31,
@@ -714,10 +704,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Props",
       "uid": "ZONES:78"
+    },
+    {
+      "source": "ZONES",
+      "zid": 69,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Reviews",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Reviews",
+      "uid": "ZONES:69"
     }
   ],
-  "version": 762,
-  "updated": "2026-07-08T01:43:56.689375+00:00",
+  "version": 763,
+  "updated": "2026-07-08T01:44:27.584226+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 52,
