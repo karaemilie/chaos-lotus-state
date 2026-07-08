@@ -128,13 +128,6 @@
       "uid": "ZONES:78"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 294,
-      "row": 38,
-      "label": "Write Hoya lady",
-      "uid": "SPIN:294"
-    },
-    {
       "source": "ZONES",
       "zid": 54,
       "floor": "Basement",
@@ -704,10 +697,10 @@
       "uid": "SPIN_WHEEL:323"
     }
   ],
-  "version": 778,
-  "updated": "2026-07-08T06:51:31.502484+00:00",
+  "version": 779,
+  "updated": "2026-07-08T06:56:13.696796+00:00",
   "buckets": {
-    "SPIN_WHEEL": 50,
+    "SPIN_WHEEL": 49,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
