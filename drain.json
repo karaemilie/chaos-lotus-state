@@ -1,13 +1,27 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "🌱 Corner Nook A",
+      "uid": "ZONES:76",
+      "_ts": "2026-07-08T01:33:48.839Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 54,
+      "zid": 53,
+      "floor": "Basement",
+      "label": "🧺 Basement Foyer",
+      "uid": "ZONES:53",
+      "_ts": "2026-07-08T01:34:17.658Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-08T01:34:03.978Z",
+  "mirroredAt": "2026-07-08T01:34:17.884Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-08T01:34:04.782893+00:00",
-  "lastAutoProcessed": [
-    "ZONES:76"
-  ]
+  }
 }
