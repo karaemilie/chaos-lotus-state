@@ -352,13 +352,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 319,
-      "row": 54,
-      "label": "Phone screen",
-      "uid": "SPIN:319"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 259,
       "row": 31,
       "label": "Find my other two Amazon returnz",
@@ -708,11 +701,11 @@
       "uid": "ZONES:69"
     }
   ],
-  "version": 764,
-  "updated": "2026-07-08T01:44:50.783876+00:00",
+  "version": 765,
+  "updated": "2026-07-08T01:56:08.733934+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 50,
     "ZONES": 7,
     "COURAGE": 3,
     "MAINTENANCE": 2
