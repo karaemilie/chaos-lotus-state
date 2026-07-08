@@ -258,16 +258,6 @@
       "uid": "SPIN:144"
     },
     {
-      "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "row": 74,
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 135,
       "row": 11,
@@ -716,10 +706,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Hand Care & Mani",
       "uid": "ZONES:83"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
     }
   ],
-  "version": 758,
-  "updated": "2026-07-07T23:58:58.630669+00:00",
+  "version": 759,
+  "updated": "2026-07-08T00:12:12.678743+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 52,
