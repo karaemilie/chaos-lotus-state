@@ -654,13 +654,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 321,
-      "sid": 321,
-      "label": "Sign Jake sig page **",
-      "uid": "SPIN_WHEEL:321"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 322,
       "sid": 322,
       "label": "Call eye dr and request call to Linai",
@@ -707,10 +700,10 @@
       "uid": "TASKS:11421"
     }
   ],
-  "version": 781,
-  "updated": "2026-07-08T07:13:44.430328+00:00",
+  "version": 782,
+  "updated": "2026-07-08T09:17:14.194583+00:00",
   "buckets": {
-    "SPIN_WHEEL": 50,
+    "SPIN_WHEEL": 49,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
