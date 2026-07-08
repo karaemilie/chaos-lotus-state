@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-08T06:06:15.877Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Practice board for dominos",
+      "_addedAt": "2026-07-08T06:50:38.551Z",
+      "_ts": "2026-07-08T06:50:38.694Z"
+    }
+  ],
+  "mirroredAt": "2026-07-08T06:50:38.969Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-08T06:06:16.793803+00:00",
-  "lastAutoProcessed": [
-    "SPIN:257",
-    "TASKS:11697"
-  ]
+    "adds": 1
+  }
 }
