@@ -243,20 +243,6 @@
       "uid": "SPIN:270"
     },
     {
-      "source": "TASKS",
-      "id": 11697,
-      "row": 314,
-      "label": "Do last privacy film on middle stall garage",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11697"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 318,
       "row": 49,
@@ -703,10 +689,23 @@
       "sid": 322,
       "label": "Call eye dr and request call to Linai",
       "uid": "SPIN_WHEEL:322"
+    },
+    {
+      "source": "TASKS",
+      "id": 10522,
+      "label": "Linc - violin this year? Hmmm",
+      "aw": 6,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10522"
     }
   ],
-  "version": 775,
-  "updated": "2026-07-08T06:05:39.761449+00:00",
+  "version": 776,
+  "updated": "2026-07-08T06:06:12.916387+00:00",
   "buckets": {
     "SPIN_WHEEL": 50,
     "TASKS": 17,
