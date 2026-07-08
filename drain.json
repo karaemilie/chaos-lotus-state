@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 74,
+      "zid": 73,
+      "floor": "Plant",
+      "label": "🌱 Bedroom",
+      "uid": "ZONES:73",
+      "_ts": "2026-07-08T00:11:58.981Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-07T23:58:59.776Z",
+  "mirroredAt": "2026-07-08T00:11:59.378Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-07T23:59:00.814872+00:00",
-  "lastAutoProcessed": [
-    "ZONES:82"
-  ]
+  }
 }
