@@ -515,13 +515,6 @@
       "uid": "SPIN:279"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 82,
-      "row": 7,
-      "label": "Do last privacy film on middle stall garage *",
-      "uid": "SPIN:82"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 84,
       "row": 85,
@@ -708,11 +701,11 @@
       "uid": "SPIN_WHEEL:319"
     }
   ],
-  "version": 766,
-  "updated": "2026-07-08T02:33:42.708234+00:00",
+  "version": 767,
+  "updated": "2026-07-08T02:34:26.297883+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 50,
     "ZONES": 7,
     "COURAGE": 3,
     "MAINTENANCE": 2
