@@ -229,13 +229,6 @@
       "uid": "SPIN:270"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 318,
-      "row": 49,
-      "label": "Write Ruth",
-      "uid": "SPIN:318"
-    },
-    {
       "source": "TASKS",
       "id": 10237,
       "row": 317,
@@ -692,10 +685,10 @@
       "uid": "ZONES:26"
     }
   ],
-  "version": 783,
-  "updated": "2026-07-08T09:17:41.746919+00:00",
+  "version": 784,
+  "updated": "2026-07-08T09:18:21.604883+00:00",
   "buckets": {
-    "SPIN_WHEEL": 48,
+    "SPIN_WHEEL": 47,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
