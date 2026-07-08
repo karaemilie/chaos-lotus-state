@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 37,
+      "label": "Watch a domino video!!",
+      "uid": "SPIN:286",
+      "_ts": "2026-07-08T06:50:42.977Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-07-08T06:50:38.694Z"
     }
   ],
-  "mirroredAt": "2026-07-08T06:50:38.969Z",
+  "mirroredAt": "2026-07-08T06:50:43.250Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
