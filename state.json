@@ -223,13 +223,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 316,
-      "row": 47,
-      "label": "Check Jake PFD**",
-      "uid": "SPIN:316"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 305,
       "row": 43,
       "label": "Hear back/order cello peg",
@@ -712,10 +705,10 @@
       "uid": "SPIN_WHEEL:321"
     }
   ],
-  "version": 772,
-  "updated": "2026-07-08T04:27:14.112959+00:00",
+  "version": 773,
+  "updated": "2026-07-08T04:27:55.879973+00:00",
   "buckets": {
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 50,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
