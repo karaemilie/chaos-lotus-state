@@ -1,15 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 54,
+      "label": "Phone screen",
+      "uid": "SPIN:319",
+      "_ts": "2026-07-08T01:55:53.079Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-08T01:44:51.718Z",
+  "mirroredAt": "2026-07-08T01:55:53.353Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-08T01:44:52.493556+00:00",
-  "lastAutoProcessed": [
-    "ZONES:77",
-    "ZONES:68",
-    "SPIN:229"
-  ]
+  }
 }
