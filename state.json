@@ -47,13 +47,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 212,
-      "row": 22,
-      "label": "Assess the orange helmet?",
-      "uid": "SPIN:212"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 272,
       "row": 35,
       "label": "Compare my drywall producs**",
@@ -701,11 +694,11 @@
       "uid": "SPIN_WHEEL:319"
     }
   ],
-  "version": 767,
-  "updated": "2026-07-08T02:34:26.297883+00:00",
+  "version": 768,
+  "updated": "2026-07-08T02:47:07.522214+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 50,
+    "SPIN_WHEEL": 49,
     "ZONES": 7,
     "COURAGE": 3,
     "MAINTENANCE": 2
