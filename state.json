@@ -139,13 +139,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 251,
-      "row": 25,
-      "label": "Bike pump and AE shirt for Sam",
-      "uid": "SPIN:251"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 165,
       "row": 13,
       "label": "Inspect music room closet",
@@ -726,10 +719,10 @@
       "uid": "SPIN_WHEEL:331"
     }
   ],
-  "version": 793,
-  "updated": "2026-07-09T10:29:40.005920+00:00",
+  "version": 794,
+  "updated": "2026-07-09T23:30:56.314994+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 52,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
