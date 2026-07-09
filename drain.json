@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-09T00:53:33.484Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Clean up front porch",
+      "_addedAt": "2026-07-09T01:08:07.330Z",
+      "_ts": "2026-07-09T01:08:07.453Z"
+    }
+  ],
+  "mirroredAt": "2026-07-09T01:08:07.744Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-09T00:53:34.329039+00:00",
-  "lastAutoProcessed": [
-    "ZONES:15"
-  ]
+    "adds": 1
+  }
 }
