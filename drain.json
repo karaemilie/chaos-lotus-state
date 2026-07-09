@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-09T23:30:57.442Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find missing black drain **",
+      "_addedAt": "2026-07-09T23:47:54.580Z",
+      "_ts": "2026-07-09T23:47:54.693Z"
+    }
+  ],
+  "mirroredAt": "2026-07-09T23:47:54.928Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-09T23:30:58.360592+00:00",
-  "lastAutoProcessed": [
-    "SPIN:251"
-  ]
+    "adds": 1
+  }
 }
