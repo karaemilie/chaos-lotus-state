@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-09T10:17:56.707Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Plan to feed Linc AND Evan",
+      "_addedAt": "2026-07-09T10:29:21.769Z",
+      "_ts": "2026-07-09T10:29:21.979Z"
+    }
+  ],
+  "mirroredAt": "2026-07-09T10:29:22.216Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
