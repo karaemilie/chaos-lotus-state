@@ -6,12 +6,21 @@
       "label": "Genevieve dr check calendar",
       "uid": "SPIN:309",
       "_ts": "2026-07-09T00:52:34.327Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 16,
+      "zid": 15,
+      "floor": "Upstairs",
+      "label": "🧺 My Closet",
+      "uid": "ZONES:15",
+      "_ts": "2026-07-09T00:52:42.472Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-09T00:52:34.568Z",
+  "mirroredAt": "2026-07-09T00:52:42.964Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
