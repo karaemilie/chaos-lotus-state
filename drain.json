@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-09T01:08:23.389Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Lincoln present - order",
+      "_addedAt": "2026-07-09T09:55:06.192Z",
+      "_ts": "2026-07-09T09:55:06.326Z"
+    }
+  ],
+  "mirroredAt": "2026-07-09T09:55:06.754Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
