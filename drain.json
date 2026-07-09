@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 45,
+      "label": "Genevieve dr check calendar",
+      "uid": "SPIN:309",
+      "_ts": "2026-07-09T00:52:34.327Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-08T09:18:22.725Z",
+  "mirroredAt": "2026-07-09T00:52:34.568Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-08T09:18:23.682300+00:00",
-  "lastAutoProcessed": [
-    "SPIN:318"
-  ]
+  }
 }
