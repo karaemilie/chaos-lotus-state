@@ -1,24 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 44,
-      "label": "Order more drains?",
-      "uid": "SPIN:306",
-      "_ts": "2026-07-09T23:48:41.449Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Find missing black drain **",
-      "_addedAt": "2026-07-09T23:47:54.580Z",
-      "_ts": "2026-07-09T23:47:54.693Z"
-    }
-  ],
-  "mirroredAt": "2026-07-09T23:48:41.681Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-07-09T23:49:08.000Z",
   "counts": {
-    "completions": 1,
-    "adds": 1
+    "completions": 0,
+    "adds": 0
   }
 }
