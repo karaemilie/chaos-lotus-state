@@ -542,13 +542,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 306,
-      "row": 44,
-      "label": "Order more drains?",
-      "uid": "SPIN:306"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 172,
       "row": 14,
       "label": "Pull up veneer plans for shelfs",
@@ -726,10 +719,10 @@
       "uid": "SPIN_WHEEL:332"
     }
   ],
-  "version": 795,
-  "updated": "2026-07-09T23:48:10.666838+00:00",
+  "version": 796,
+  "updated": "2026-07-09T23:49:06.832851+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 52,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
