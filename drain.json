@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-09T10:04:55.895Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Clean robot water tank",
+      "_addedAt": "2026-07-09T10:17:34.415Z",
+      "_ts": "2026-07-09T10:17:34.536Z"
+    }
+  ],
+  "mirroredAt": "2026-07-09T10:17:34.789Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
