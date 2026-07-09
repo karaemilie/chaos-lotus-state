@@ -675,12 +675,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Genevieve's Room",
       "uid": "ZONES:16"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 325,
+      "sid": 325,
+      "label": "Clean up front porch",
+      "uid": "SPIN_WHEEL:325"
     }
   ],
-  "version": 786,
-  "updated": "2026-07-09T00:53:32.614719+00:00",
+  "version": 787,
+  "updated": "2026-07-09T01:08:24.675832+00:00",
   "buckets": {
-    "SPIN_WHEEL": 46,
+    "SPIN_WHEEL": 47,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
