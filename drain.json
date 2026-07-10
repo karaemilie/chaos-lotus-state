@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-10T08:28:32.982Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pay & submit AYO cost",
+      "_addedAt": "2026-07-10T08:29:09.300Z",
+      "_ts": "2026-07-10T08:29:09.743Z"
+    }
+  ],
+  "mirroredAt": "2026-07-10T08:29:10.040Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
