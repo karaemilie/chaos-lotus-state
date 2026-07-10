@@ -6,12 +6,27 @@
       "label": "Downstairs bathroom knobs 🚪",
       "uid": "SPIN:9",
       "_ts": "2026-07-10T08:26:44.332Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11766,
+      "row": 356,
+      "label": "Browse iron curtain options 🪟",
+      "uid": "TASKS:11766",
+      "_ts": "2026-07-10T08:27:07.819Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-10T08:27:01.086Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Finish last three bathroom knobs **",
+      "_addedAt": "2026-07-10T08:26:42.834Z",
+      "_ts": "2026-07-10T08:26:43.798Z"
+    }
+  ],
+  "mirroredAt": "2026-07-10T08:27:08.029Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
