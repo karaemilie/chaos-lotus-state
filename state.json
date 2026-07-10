@@ -765,12 +765,19 @@
       "sid": 345,
       "label": "Add Music room to routines",
       "uid": "SPIN_WHEEL:345"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 346,
+      "sid": 346,
+      "label": "Finish last three bathroom knobs **",
+      "uid": "SPIN_WHEEL:346"
     }
   ],
-  "version": 812,
-  "updated": "2026-07-10T08:00:46.087499+00:00",
+  "version": 813,
+  "updated": "2026-07-10T08:27:02.613413+00:00",
   "buckets": {
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 60,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
