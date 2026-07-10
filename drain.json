@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-10T08:29:27.748Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Measure foyer lamp height",
+      "_addedAt": "2026-07-10T08:32:38.291Z",
+      "_ts": "2026-07-10T08:32:38.886Z"
+    }
+  ],
+  "mirroredAt": "2026-07-10T08:32:39.241Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
