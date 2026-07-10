@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-10T08:00:44.398Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Finish last three bathroom knobs **",
+      "_addedAt": "2026-07-10T08:26:42.834Z",
+      "_ts": "2026-07-10T08:26:43.798Z"
+    }
+  ],
+  "mirroredAt": "2026-07-10T08:26:44.126Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
