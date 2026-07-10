@@ -195,13 +195,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 304,
-      "row": 42,
-      "label": "Price ten more Hoyas",
-      "uid": "SPIN:304"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 270,
       "row": 31,
       "label": "Check space for clear bins in garage",
@@ -835,10 +828,10 @@
       "uid": "SPIN_WHEEL:357"
     }
   ],
-  "version": 826,
-  "updated": "2026-07-10T22:50:35.953331+00:00",
+  "version": 827,
+  "updated": "2026-07-10T22:51:20.533116+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 68,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
