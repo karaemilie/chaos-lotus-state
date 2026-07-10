@@ -716,12 +716,19 @@
       "label": "\ud83d\udd25 Find USF registrar email address for PFD form \ud83d\udcdd",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11215:0"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 337,
+      "sid": 337,
+      "label": "Log into Higgsfield on computer**",
+      "uid": "SPIN_WHEEL:337"
     }
   ],
-  "version": 803,
-  "updated": "2026-07-10T06:50:05.349161+00:00",
+  "version": 804,
+  "updated": "2026-07-10T07:21:08.164841+00:00",
   "buckets": {
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 53,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
