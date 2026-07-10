@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 19,
+      "label": "Sign up for an AI video tool ** 💸",
+      "uid": "SPIN:193",
+      "_ts": "2026-07-10T07:20:51.374Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-07-10T07:20:48.090Z"
     }
   ],
-  "mirroredAt": "2026-07-10T07:20:48.380Z",
+  "mirroredAt": "2026-07-10T07:20:51.589Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
