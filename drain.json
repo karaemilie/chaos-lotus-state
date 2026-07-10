@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-10T09:42:16.268Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Check rug height at door",
+      "_addedAt": "2026-07-10T22:24:33.102Z",
+      "_ts": "2026-07-10T22:24:33.354Z"
+    }
+  ],
+  "mirroredAt": "2026-07-10T22:24:33.607Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-10T09:42:17.297977+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:326"
-  ]
+    "adds": 1
+  }
 }
