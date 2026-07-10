@@ -511,16 +511,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "row": 76,
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
-    },
-    {
-      "source": "ZONES",
       "zid": 83,
       "floor": "Personal",
       "row": 84,
@@ -771,10 +761,19 @@
       "sid": 347,
       "label": "Iron curtain rod options",
       "uid": "SPIN_WHEEL:347"
+    },
+    {
+      "source": "ZONES",
+      "zid": 79,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Kitchen Up High",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Kitchen Up High",
+      "uid": "ZONES:79"
     }
   ],
-  "version": 815,
-  "updated": "2026-07-10T08:27:38.493676+00:00",
+  "version": 816,
+  "updated": "2026-07-10T08:28:31.788114+00:00",
   "buckets": {
     "SPIN_WHEEL": 60,
     "TASKS": 17,
