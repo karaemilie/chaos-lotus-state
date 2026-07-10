@@ -1,6 +1,13 @@
 {
   "completions": [
     {
+      "source": "SPIN_WHEEL",
+      "row": 356,
+      "label": "Check rug height at door",
+      "uid": "SPIN_WHEEL:356",
+      "_ts": "2026-07-10T22:51:50.861Z"
+    },
+    {
       "source": "ZONES",
       "row": 70,
       "zid": 69,
@@ -10,10 +17,17 @@
       "_ts": "2026-07-10T22:52:03.102Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-10T22:52:13.377Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Review online rug heights",
+      "_addedAt": "2026-07-10T22:52:18.270Z",
+      "_ts": "2026-07-10T22:52:18.384Z"
+    }
+  ],
+  "mirroredAt": "2026-07-10T22:52:18.642Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
