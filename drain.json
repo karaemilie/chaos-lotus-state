@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 40,
+      "label": "Decide about 1600 lumen hue bulbs",
+      "uid": "SPIN:297",
+      "_ts": "2026-07-10T06:47:25.297Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-07-10T06:47:19.072Z"
     }
   ],
-  "mirroredAt": "2026-07-10T06:47:19.320Z",
+  "mirroredAt": "2026-07-10T06:47:25.566Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
