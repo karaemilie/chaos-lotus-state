@@ -784,12 +784,19 @@
       "sid": 349,
       "label": "Measure foyer lamp height",
       "uid": "SPIN_WHEEL:349"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 350,
+      "sid": 350,
+      "label": "Upload Jake signature page**",
+      "uid": "SPIN_WHEEL:350"
     }
   ],
-  "version": 818,
-  "updated": "2026-07-10T08:33:03.714041+00:00",
+  "version": 819,
+  "updated": "2026-07-10T09:16:38.348442+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
