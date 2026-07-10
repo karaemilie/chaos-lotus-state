@@ -770,12 +770,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Kitchen Up High",
       "uid": "ZONES:79"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 348,
+      "sid": 348,
+      "label": "Pay & submit AYO cost",
+      "uid": "SPIN_WHEEL:348"
     }
   ],
-  "version": 816,
-  "updated": "2026-07-10T08:28:31.788114+00:00",
+  "version": 817,
+  "updated": "2026-07-10T08:29:29.307060+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 61,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
