@@ -826,12 +826,33 @@
       "sid": 357,
       "label": "Assess supplies to build spice rack",
       "uid": "SPIN_WHEEL:357"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 358,
+      "sid": 358,
+      "label": "Return labels for spice racks",
+      "uid": "SPIN_WHEEL:358"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 359,
+      "sid": 359,
+      "label": "Load returns in vehicle",
+      "uid": "SPIN_WHEEL:359"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 360,
+      "sid": 360,
+      "label": "List Hoyas",
+      "uid": "SPIN_WHEEL:360"
     }
   ],
-  "version": 827,
-  "updated": "2026-07-10T22:51:20.533116+00:00",
+  "version": 828,
+  "updated": "2026-07-10T22:51:22.640087+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 71,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
