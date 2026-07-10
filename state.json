@@ -815,13 +815,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 356,
-      "sid": 356,
-      "label": "Check rug height at door",
-      "uid": "SPIN_WHEEL:356"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 357,
       "sid": 357,
       "label": "Assess supplies to build spice rack",
@@ -849,10 +842,10 @@
       "uid": "SPIN_WHEEL:360"
     }
   ],
-  "version": 828,
-  "updated": "2026-07-10T22:51:22.640087+00:00",
+  "version": 829,
+  "updated": "2026-07-10T22:52:12.278800+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 70,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
