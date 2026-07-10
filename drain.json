@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-10T06:02:33.806Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Check what type of halogen bulbs we use",
+      "_addedAt": "2026-07-10T06:47:18.987Z",
+      "_ts": "2026-07-10T06:47:19.072Z"
+    }
+  ],
+  "mirroredAt": "2026-07-10T06:47:19.320Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-10T06:02:34.926308+00:00",
-  "lastAutoProcessed": [
-    "SPIN:259"
-  ]
+    "adds": 1
+  }
 }
