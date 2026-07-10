@@ -187,20 +187,6 @@
       "uid": "SPIN:268"
     },
     {
-      "source": "TASKS",
-      "id": 11766,
-      "row": 356,
-      "label": "Browse iron curtain options \ud83e\ude9f",
-      "aw": 3,
-      "pri": 3,
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11766"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 305,
       "row": 43,
@@ -290,13 +276,6 @@
       "row": 16,
       "label": "Label bathroom bins",
       "uid": "SPIN:183"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 9,
-      "row": 3,
-      "label": "Downstairs bathroom knobs \ud83d\udeaa",
-      "uid": "SPIN:9"
     },
     {
       "source": "SPIN_WHEEL",
@@ -772,12 +751,25 @@
       "sid": 346,
       "label": "Finish last three bathroom knobs **",
       "uid": "SPIN_WHEEL:346"
+    },
+    {
+      "source": "TASKS",
+      "id": 10981,
+      "label": "\u2728 Check balance on Matt's work card (1-800-344-5696) \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10981"
     }
   ],
-  "version": 813,
-  "updated": "2026-07-10T08:27:02.613413+00:00",
+  "version": 814,
+  "updated": "2026-07-10T08:27:34.606111+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 59,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
