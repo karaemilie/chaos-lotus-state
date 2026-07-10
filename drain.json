@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-10T06:50:08.689Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Log into Higgsfield on computer**",
+      "_addedAt": "2026-07-10T07:20:48.007Z",
+      "_ts": "2026-07-10T07:20:48.090Z"
+    }
+  ],
+  "mirroredAt": "2026-07-10T07:20:48.380Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-10T06:50:09.894735+00:00",
-  "lastAutoProcessed": [
-    "COURAGE:11576:0"
-  ]
+    "adds": 1
+  }
 }
