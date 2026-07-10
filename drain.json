@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-10T07:21:56.475Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Eval main floor coconut",
+      "_addedAt": "2026-07-10T07:23:48.930Z",
+      "_ts": "2026-07-10T07:23:49.288Z"
+    }
+  ],
+  "mirroredAt": "2026-07-10T07:23:49.668Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-10T07:21:57.419375+00:00",
-  "lastAutoProcessed": [
-    "SPIN:193"
-  ]
+    "adds": 1
+  }
 }
