@@ -522,13 +522,6 @@
       "uid": "SPIN:272"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 193,
-      "row": 19,
-      "label": "Sign up for an AI video tool ** \ud83d\udcb8",
-      "uid": "SPIN:193"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 85,
       "row": 86,
@@ -725,10 +718,10 @@
       "uid": "SPIN_WHEEL:337"
     }
   ],
-  "version": 804,
-  "updated": "2026-07-10T07:21:08.164841+00:00",
+  "version": 805,
+  "updated": "2026-07-10T07:21:54.989013+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 52,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
