@@ -8,10 +8,17 @@
       "_ts": "2026-07-10T07:39:21.546Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-10T07:39:21.932Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Measure mirrors",
+      "_addedAt": "2026-07-10T07:39:28.508Z",
+      "_ts": "2026-07-10T07:39:28.591Z"
+    }
+  ],
+  "mirroredAt": "2026-07-10T07:39:28.835Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
