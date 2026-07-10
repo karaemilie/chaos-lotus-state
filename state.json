@@ -400,18 +400,6 @@
       "uid": "SPIN:95"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11576,
-      "parentRow": 272,
-      "parentLabel": "Follow up w/ Embry-Riddle re: APS details \ud83c\udf93\u2708\ufe0f \ud83d\udcdd",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-06-08",
-      "label": "\ud83d\udd25 Follow up w/ Embry-Riddle re: APS details \ud83c\udf93\u2708\ufe0f \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11576:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 194,
       "row": 20,
@@ -717,10 +705,21 @@
       "sid": 335,
       "label": "Check what type of halogen bulbs we use",
       "uid": "SPIN_WHEEL:335"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11215,
+      "stepIndex": 0,
+      "parentLabel": "Find USF registrar email address for PFD form \ud83d\udcdd",
+      "aw": 2,
+      "due": "2026-06-12",
+      "label": "\ud83d\udd25 Find USF registrar email address for PFD form \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11215:0"
     }
   ],
-  "version": 802,
-  "updated": "2026-07-10T06:48:31.385551+00:00",
+  "version": 803,
+  "updated": "2026-07-10T06:50:05.349161+00:00",
   "buckets": {
     "SPIN_WHEEL": 52,
     "TASKS": 17,
