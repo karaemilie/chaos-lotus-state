@@ -1,10 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-10T09:16:15.258Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order shoes for Lincoln?",
+      "_addedAt": "2026-07-10T09:17:45.924Z",
+      "_ts": "2026-07-10T09:17:46.591Z"
+    }
+  ],
+  "mirroredAt": "2026-07-10T09:17:47.001Z",
   "counts": {
     "completions": 0,
     "adds": 1
-  },
-  "processedAt": "2026-07-10T09:16:38.175540+00:00"
+  }
 }
