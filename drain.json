@@ -1,9 +1,28 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-10T07:59:50.578Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Bring down dirt",
+      "_addedAt": "2026-07-10T07:59:32.907Z",
+      "_ts": "2026-07-10T07:59:33.337Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Search for 1” trim board",
+      "_addedAt": "2026-07-10T07:59:52.002Z",
+      "_ts": "2026-07-10T07:59:52.144Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Add",
+      "_addedAt": "2026-07-10T08:00:02.483Z",
+      "_ts": "2026-07-10T08:00:02.627Z"
+    }
+  ],
+  "mirroredAt": "2026-07-10T08:00:03.166Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 3
   }
 }
