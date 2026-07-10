@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-10T04:31:02.295Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Plant one of the raspberries!! **",
+      "_addedAt": "2026-07-10T05:09:58.134Z",
+      "_ts": "2026-07-10T05:09:58.452Z"
+    }
+  ],
+  "mirroredAt": "2026-07-10T05:09:58.714Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-10T04:31:03.510707+00:00",
-  "lastAutoProcessed": [
-    "SPIN:144"
-  ]
+    "adds": 1
+  }
 }
