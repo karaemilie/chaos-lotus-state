@@ -470,16 +470,6 @@
       "uid": "SPIN:264"
     },
     {
-      "source": "ZONES",
-      "zid": 69,
-      "floor": "Digital",
-      "row": 70,
-      "label": "\ud83d\udcbb Reviews",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Reviews",
-      "uid": "ZONES:69"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 172,
       "row": 14,
@@ -847,10 +837,19 @@
       "sid": 361,
       "label": "\ud83d\udd25 call Amer Express",
       "uid": "SPIN_WHEEL:361"
+    },
+    {
+      "source": "ZONES",
+      "zid": 70,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb AmazonCart",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "AmazonCart",
+      "uid": "ZONES:70"
     }
   ],
-  "version": 830,
-  "updated": "2026-07-10T22:52:14.779589+00:00",
+  "version": 831,
+  "updated": "2026-07-10T22:52:57.459619+00:00",
   "buckets": {
     "SPIN_WHEEL": 71,
     "TASKS": 17,
