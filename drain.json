@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-10T08:32:58.660Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Upload Jake signature page**",
+      "_addedAt": "2026-07-10T09:16:14.701Z",
+      "_ts": "2026-07-10T09:16:14.997Z"
+    }
+  ],
+  "mirroredAt": "2026-07-10T09:16:15.258Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
