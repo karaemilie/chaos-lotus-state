@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-10T06:48:32.596Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Next step APS - log into Genevieve’s account",
+      "_addedAt": "2026-07-10T06:48:54.192Z",
+      "_ts": "2026-07-10T06:48:54.340Z"
+    }
+  ],
+  "mirroredAt": "2026-07-10T06:48:54.616Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-10T06:48:37.642370+00:00",
-  "lastAutoProcessed": [
-    "SPIN:297"
-  ]
+    "adds": 1
+  }
 }
