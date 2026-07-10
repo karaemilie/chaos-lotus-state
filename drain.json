@@ -1,38 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 3,
-      "label": "Downstairs bathroom knobs 🚪",
-      "uid": "SPIN:9",
-      "_ts": "2026-07-10T08:26:44.332Z"
-    },
-    {
-      "source": "TASKS",
-      "id": 11766,
-      "row": 356,
-      "label": "Browse iron curtain options 🪟",
-      "uid": "TASKS:11766",
-      "_ts": "2026-07-10T08:27:07.819Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Finish last three bathroom knobs **",
-      "_addedAt": "2026-07-10T08:26:42.834Z",
-      "_ts": "2026-07-10T08:26:43.798Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Iron curtain rod options",
-      "_addedAt": "2026-07-10T08:27:21.539Z",
-      "_ts": "2026-07-10T08:27:21.786Z"
-    }
-  ],
-  "mirroredAt": "2026-07-10T08:27:22.020Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-07-10T08:27:37.002Z",
   "counts": {
-    "completions": 2,
-    "adds": 2
+    "completions": 0,
+    "adds": 0
   }
 }
