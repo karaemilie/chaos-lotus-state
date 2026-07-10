@@ -1,16 +1,17 @@
 {
-  "completions": [],
-  "adds": [
+  "completions": [
     {
-      "source": "PLUS_ADD",
-      "label": "Finish last three bathroom knobs **",
-      "_addedAt": "2026-07-10T08:26:42.834Z",
-      "_ts": "2026-07-10T08:26:43.798Z"
+      "source": "SPIN_WHEEL",
+      "row": 3,
+      "label": "Downstairs bathroom knobs 🚪",
+      "uid": "SPIN:9",
+      "_ts": "2026-07-10T08:26:44.332Z"
     }
   ],
-  "mirroredAt": "2026-07-10T08:26:44.126Z",
+  "adds": [],
+  "mirroredAt": "2026-07-10T08:27:01.086Z",
   "counts": {
-    "completions": 0,
-    "adds": 1
+    "completions": 1,
+    "adds": 0
   }
 }
