@@ -791,12 +791,19 @@
       "sid": 350,
       "label": "Upload Jake signature page**",
       "uid": "SPIN_WHEEL:350"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 351,
+      "sid": 351,
+      "label": "Order shoes for Lincoln?",
+      "uid": "SPIN_WHEEL:351"
     }
   ],
-  "version": 819,
-  "updated": "2026-07-10T09:16:38.348442+00:00",
+  "version": 820,
+  "updated": "2026-07-10T09:18:09.303414+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 64,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
