@@ -6,33 +6,18 @@
       "label": "Check rug height at door",
       "uid": "SPIN_WHEEL:356",
       "_ts": "2026-07-10T22:51:50.861Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 70,
+      "zid": 69,
+      "floor": "Digital",
+      "label": "💻 Reviews",
+      "uid": "ZONES:69",
+      "_ts": "2026-07-10T22:52:03.102Z"
     }
   ],
   "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Assess supplies to build spice rack",
-      "_addedAt": "2026-07-10T22:50:20.064Z",
-      "_ts": "2026-07-10T22:50:20.179Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Return labels for spice racks",
-      "_addedAt": "2026-07-10T22:50:30.499Z",
-      "_ts": "2026-07-10T22:50:30.605Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Load returns in vehicle",
-      "_addedAt": "2026-07-10T22:50:42.438Z",
-      "_ts": "2026-07-10T22:50:42.564Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "List Hoyas",
-      "_addedAt": "2026-07-10T22:51:01.656Z",
-      "_ts": "2026-07-10T22:51:01.771Z"
-    },
     {
       "source": "PLUS_ADD",
       "label": "🔥 call Amer Express",
@@ -40,9 +25,9 @@
       "_ts": "2026-07-10T22:51:09.305Z"
     }
   ],
-  "mirroredAt": "2026-07-10T22:51:51.062Z",
+  "mirroredAt": "2026-07-10T22:52:03.328Z",
   "counts": {
-    "completions": 1,
-    "adds": 5
+    "completions": 2,
+    "adds": 1
   }
 }
