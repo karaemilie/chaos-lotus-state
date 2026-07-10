@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 42,
+      "label": "Price ten more Hoyas",
+      "uid": "SPIN:304",
+      "_ts": "2026-07-10T22:50:49.836Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -20,9 +28,9 @@
       "_ts": "2026-07-10T22:50:42.564Z"
     }
   ],
-  "mirroredAt": "2026-07-10T22:50:42.824Z",
+  "mirroredAt": "2026-07-10T22:50:50.047Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 3
   }
 }
