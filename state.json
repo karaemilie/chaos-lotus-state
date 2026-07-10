@@ -286,13 +286,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 296,
-      "row": 39,
-      "label": "More outdoor work time\u2026",
-      "uid": "SPIN:296"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 43,
       "row": 5,
       "label": "Book septic",
@@ -726,10 +719,10 @@
       "uid": "SPIN_WHEEL:334"
     }
   ],
-  "version": 799,
-  "updated": "2026-07-10T05:10:15.819390+00:00",
+  "version": 800,
+  "updated": "2026-07-10T05:10:59.025025+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 52,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
