@@ -1,9 +1,32 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-10T08:27:37.002Z",
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 76,
+      "zid": 75,
+      "floor": "Plant",
+      "label": "🌱 Main floor Down Low",
+      "uid": "ZONES:75",
+      "_ts": "2026-07-10T08:28:09.044Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Finish last three bathroom knobs **",
+      "_addedAt": "2026-07-10T08:26:42.834Z",
+      "_ts": "2026-07-10T08:26:43.798Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Iron curtain rod options",
+      "_addedAt": "2026-07-10T08:27:21.539Z",
+      "_ts": "2026-07-10T08:27:21.786Z"
+    }
+  ],
+  "mirroredAt": "2026-07-10T08:28:09.238Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 2
   }
 }
