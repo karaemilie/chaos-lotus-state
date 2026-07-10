@@ -798,12 +798,26 @@
       "sid": 351,
       "label": "Order shoes for Lincoln?",
       "uid": "SPIN_WHEEL:351"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 352,
+      "sid": 352,
+      "label": "Ask Lincoln about cake",
+      "uid": "SPIN_WHEEL:352"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 353,
+      "sid": 353,
+      "label": "Ask Lincoln about pizza",
+      "uid": "SPIN_WHEEL:353"
     }
   ],
-  "version": 820,
-  "updated": "2026-07-10T09:18:09.303414+00:00",
+  "version": 821,
+  "updated": "2026-07-10T09:18:58.447667+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 66,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
