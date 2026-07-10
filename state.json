@@ -716,12 +716,26 @@
       "sid": 338,
       "label": "Eval main floor coconut",
       "uid": "SPIN_WHEEL:338"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 339,
+      "sid": 339,
+      "label": "Measure mirrors",
+      "uid": "SPIN_WHEEL:339"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 340,
+      "sid": 340,
+      "label": "Move Robo vac downstairs **",
+      "uid": "SPIN_WHEEL:340"
     }
   ],
-  "version": 808,
-  "updated": "2026-07-10T07:40:18.478401+00:00",
+  "version": 809,
+  "updated": "2026-07-10T07:40:20.690137+00:00",
   "buckets": {
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 54,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
