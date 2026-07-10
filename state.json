@@ -257,13 +257,6 @@
       "uid": "SPIN:189"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 297,
-      "row": 40,
-      "label": "Decide about 1600 lumen hue bulbs",
-      "uid": "SPIN:297"
-    },
-    {
       "source": "TASKS",
       "id": 10505,
       "row": 126,
@@ -726,10 +719,10 @@
       "uid": "SPIN_WHEEL:335"
     }
   ],
-  "version": 801,
-  "updated": "2026-07-10T06:47:46.235893+00:00",
+  "version": 802,
+  "updated": "2026-07-10T06:48:31.385551+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 52,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
