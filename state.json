@@ -812,12 +812,19 @@
       "sid": 353,
       "label": "Ask Lincoln about pizza",
       "uid": "SPIN_WHEEL:353"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 354,
+      "sid": 354,
+      "label": "Find out bike clinic hours",
+      "uid": "SPIN_WHEEL:354"
     }
   ],
-  "version": 821,
-  "updated": "2026-07-10T09:18:58.447667+00:00",
+  "version": 822,
+  "updated": "2026-07-10T09:21:36.141945+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 67,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
