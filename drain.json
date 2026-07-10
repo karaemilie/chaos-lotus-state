@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 28,
+      "label": "Find my other two Amazon returnz",
+      "uid": "SPIN:259",
+      "_ts": "2026-07-10T06:02:11.021Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-10T05:11:00.453Z",
+  "mirroredAt": "2026-07-10T06:02:11.404Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-10T05:11:01.550365+00:00",
-  "lastAutoProcessed": [
-    "SPIN:296"
-  ]
+  }
 }
