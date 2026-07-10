@@ -366,13 +366,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 144,
-      "row": 11,
-      "label": "Find powder coat color for deck rail color",
-      "uid": "SPIN:144"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 320,
       "row": 51,
       "label": "Jake signature page\u2026 **",
@@ -726,10 +719,10 @@
       "uid": "SPIN_WHEEL:333"
     }
   ],
-  "version": 797,
-  "updated": "2026-07-10T02:23:38.774769+00:00",
+  "version": 798,
+  "updated": "2026-07-10T04:31:01.201818+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 52,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
