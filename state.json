@@ -652,13 +652,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 329,
-      "sid": 329,
-      "label": "Eval Mudroom scents",
-      "uid": "SPIN_WHEEL:329"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 330,
       "sid": 330,
       "label": "Clean robot water tank",
@@ -725,10 +718,10 @@
       "uid": "SPIN_WHEEL:338"
     }
   ],
-  "version": 806,
-  "updated": "2026-07-10T07:24:03.750572+00:00",
+  "version": 807,
+  "updated": "2026-07-10T07:39:36.448728+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 52,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
