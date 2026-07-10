@@ -819,12 +819,19 @@
       "sid": 355,
       "label": "Check Linc wallet , order new phone case",
       "uid": "SPIN_WHEEL:355"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 356,
+      "sid": 356,
+      "label": "Check rug height at door",
+      "uid": "SPIN_WHEEL:356"
     }
   ],
-  "version": 824,
-  "updated": "2026-07-10T09:42:14.995413+00:00",
+  "version": 825,
+  "updated": "2026-07-10T22:24:52.395952+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 68,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
