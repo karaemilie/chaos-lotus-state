@@ -531,15 +531,6 @@
       "uid": "ZONES:26"
     },
     {
-      "source": "ZONES",
-      "zid": 16,
-      "floor": "Upstairs",
-      "label": "\ud83e\uddfa Genevieve's Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Genevieve's Room",
-      "uid": "ZONES:16"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 325,
       "sid": 325,
@@ -650,27 +641,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 342,
-      "sid": 342,
-      "label": "Bring down dirt",
-      "uid": "SPIN_WHEEL:342"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 343,
-      "sid": 343,
-      "label": "Search for 1\u201d trim board",
-      "uid": "SPIN_WHEEL:343"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 344,
-      "sid": 344,
-      "label": "Add",
-      "uid": "SPIN_WHEEL:344"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 346,
       "sid": 346,
       "label": "Finish last three bathroom knobs **",
@@ -777,13 +747,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 359,
-      "sid": 359,
-      "label": "Load returns in vehicle",
-      "uid": "SPIN_WHEEL:359"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 360,
       "sid": 360,
       "label": "List Hoyas",
@@ -795,13 +758,6 @@
       "sid": 361,
       "label": "\ud83d\udd25 call Amer Express",
       "uid": "SPIN_WHEEL:361"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 363,
-      "sid": 363,
-      "label": "Talk to Bailey about the mouse",
-      "uid": "SPIN_WHEEL:363"
     },
     {
       "source": "SPIN_WHEEL",
@@ -852,12 +808,21 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "MasterBrain",
       "uid": "ZONES:71"
+    },
+    {
+      "source": "ZONES",
+      "zid": 17,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Kids Bathroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Kids Bathroom",
+      "uid": "ZONES:17"
     }
   ],
-  "version": 843,
-  "updated": "2026-07-11T10:02:23.994145+00:00",
+  "version": 844,
+  "updated": "2026-07-11T10:03:16.797302+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 67,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
