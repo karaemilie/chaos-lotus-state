@@ -50,12 +50,19 @@
       "label": "Load returns in vehicle",
       "uid": "SPIN_WHEEL:359",
       "_ts": "2026-07-11T10:02:52.653Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 363,
+      "label": "Talk to Bailey about the mouse",
+      "uid": "SPIN_WHEEL:363",
+      "_ts": "2026-07-11T10:02:58.559Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-11T10:02:52.848Z",
+  "mirroredAt": "2026-07-11T10:02:58.769Z",
   "counts": {
-    "completions": 7,
+    "completions": 8,
     "adds": 0
   }
 }
