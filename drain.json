@@ -43,12 +43,19 @@
       "label": "Bring down dirt",
       "uid": "SPIN_WHEEL:342",
       "_ts": "2026-07-11T10:02:29.114Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 359,
+      "label": "Load returns in vehicle",
+      "uid": "SPIN_WHEEL:359",
+      "_ts": "2026-07-11T10:02:52.653Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-11T10:02:29.342Z",
+  "mirroredAt": "2026-07-11T10:02:52.848Z",
   "counts": {
-    "completions": 6,
+    "completions": 7,
     "adds": 0
   }
 }
