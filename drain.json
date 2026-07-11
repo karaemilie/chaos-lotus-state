@@ -36,12 +36,19 @@
       "label": "Search for 1” trim board",
       "uid": "SPIN_WHEEL:343",
       "_ts": "2026-07-11T10:02:25.072Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 342,
+      "label": "Bring down dirt",
+      "uid": "SPIN_WHEEL:342",
+      "_ts": "2026-07-11T10:02:29.114Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-11T10:02:25.270Z",
+  "mirroredAt": "2026-07-11T10:02:29.342Z",
   "counts": {
-    "completions": 5,
+    "completions": 6,
     "adds": 0
   }
 }
