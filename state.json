@@ -167,13 +167,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 302,
-      "row": 41,
-      "label": "Ponder rugs again",
-      "uid": "SPIN:302"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 107,
       "row": 9,
       "label": "Call Chase about credit card wrong balance",
@@ -861,10 +854,10 @@
       "uid": "ZONES:71"
     }
   ],
-  "version": 842,
-  "updated": "2026-07-11T10:01:29.638983+00:00",
+  "version": 843,
+  "updated": "2026-07-11T10:02:23.994145+00:00",
   "buckets": {
-    "SPIN_WHEEL": 73,
+    "SPIN_WHEEL": 72,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
