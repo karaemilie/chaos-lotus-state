@@ -22,12 +22,19 @@
       "label": "🧺 Genevieve's Room",
       "uid": "ZONES:16",
       "_ts": "2026-07-11T10:02:03.251Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 344,
+      "label": "Add",
+      "uid": "SPIN_WHEEL:344",
+      "_ts": "2026-07-11T10:02:20.369Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-11T10:02:03.467Z",
+  "mirroredAt": "2026-07-11T10:02:20.593Z",
   "counts": {
-    "completions": 3,
+    "completions": 4,
     "adds": 0
   }
 }
