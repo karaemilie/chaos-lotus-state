@@ -1,16 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-11T10:10:39.028Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Handle rest of week task redistribution",
+      "_addedAt": "2026-07-11T10:15:31.681Z",
+      "_ts": "2026-07-11T10:15:31.817Z"
+    }
+  ],
+  "mirroredAt": "2026-07-11T10:15:32.051Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-11T10:10:46.169235+00:00",
-  "lastAutoProcessed": [
-    "ZONES:71"
-  ],
-  "autoReset": [
-    "Digital"
-  ]
+    "adds": 1
+  }
 }
