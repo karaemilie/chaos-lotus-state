@@ -860,12 +860,19 @@
       "sid": 363,
       "label": "Talk to Bailey about the mouse",
       "uid": "SPIN_WHEEL:363"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 364,
+      "sid": 364,
+      "label": "Wash new pillow cases",
+      "uid": "SPIN_WHEEL:364"
     }
   ],
-  "version": 833,
-  "updated": "2026-07-11T03:25:43.357894+00:00",
+  "version": 834,
+  "updated": "2026-07-11T07:28:19.019278+00:00",
   "buckets": {
-    "SPIN_WHEEL": 73,
+    "SPIN_WHEEL": 74,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
