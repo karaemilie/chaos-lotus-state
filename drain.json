@@ -57,12 +57,19 @@
       "label": "Talk to Bailey about the mouse",
       "uid": "SPIN_WHEEL:363",
       "_ts": "2026-07-11T10:02:58.559Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 367,
+      "label": "Return forms for spice racka",
+      "uid": "SPIN_WHEEL:367",
+      "_ts": "2026-07-11T10:03:13.695Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-11T10:02:58.769Z",
+  "mirroredAt": "2026-07-11T10:03:13.904Z",
   "counts": {
-    "completions": 8,
+    "completions": 9,
     "adds": 0
   }
 }
