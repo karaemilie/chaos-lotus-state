@@ -382,20 +382,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11793,
-      "row": 382,
-      "label": "Email ADT about photo pickup \ud83d\udce7",
-      "aw": 3,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11793"
-    },
-    {
-      "source": "TASKS",
       "id": 11532,
       "row": 260,
       "label": "Research why proper razor + chemical disposal matters (kids service project) \ud83e\ude92\u267b\ufe0f\ud83d\udcda",
@@ -867,10 +853,23 @@
       "sid": 367,
       "label": "Return forms for spice racka",
       "uid": "SPIN_WHEEL:367"
+    },
+    {
+      "source": "TASKS",
+      "id": 11777,
+      "label": "\u2728 Spend time on flower bouquet coding project",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": "Bouquet Tracker",
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11777"
     }
   ],
-  "version": 839,
-  "updated": "2026-07-11T09:30:26.434491+00:00",
+  "version": 840,
+  "updated": "2026-07-11T09:32:57.416220+00:00",
   "buckets": {
     "SPIN_WHEEL": 74,
     "TASKS": 17,
