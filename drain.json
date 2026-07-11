@@ -1,17 +1,33 @@
 {
   "completions": [
     {
+      "source": "ZONES",
+      "zid": 70,
+      "floor": "Digital",
+      "label": "💻 AmazonCart",
+      "uid": "ZONES:70",
+      "_ts": "2026-07-11T10:01:18.048Z"
+    },
+    {
       "source": "SPIN_WHEEL",
       "row": 41,
       "label": "Ponder rugs again",
       "uid": "SPIN:302",
       "_ts": "2026-07-11T10:01:26.129Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 16,
+      "floor": "Upstairs",
+      "label": "🧺 Genevieve's Room",
+      "uid": "ZONES:16",
+      "_ts": "2026-07-11T10:02:03.251Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-11T10:01:30.710Z",
+  "mirroredAt": "2026-07-11T10:02:03.467Z",
   "counts": {
-    "completions": 1,
+    "completions": 3,
     "adds": 0
   }
 }
