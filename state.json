@@ -699,13 +699,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 345,
-      "sid": 345,
-      "label": "Add Music room to routines",
-      "uid": "SPIN_WHEEL:345"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 346,
       "sid": 346,
       "label": "Finish last three bathroom knobs **",
@@ -842,13 +835,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 362,
-      "sid": 362,
-      "label": "Review online rug heights",
-      "uid": "SPIN_WHEEL:362"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 363,
       "sid": 363,
       "label": "Talk to Bailey about the mouse",
@@ -883,10 +869,10 @@
       "uid": "SPIN_WHEEL:367"
     }
   ],
-  "version": 838,
-  "updated": "2026-07-11T09:29:42.177589+00:00",
+  "version": 839,
+  "updated": "2026-07-11T09:30:26.434491+00:00",
   "buckets": {
-    "SPIN_WHEEL": 76,
+    "SPIN_WHEEL": 74,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
