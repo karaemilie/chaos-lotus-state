@@ -251,13 +251,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 259,
-      "row": 28,
-      "label": "Find my other two Amazon returnz",
-      "uid": "SPIN:259"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 43,
       "row": 5,
       "label": "Book septic",
@@ -883,10 +876,10 @@
       "uid": "SPIN_WHEEL:366"
     }
   ],
-  "version": 836,
-  "updated": "2026-07-11T09:28:45.702395+00:00",
+  "version": 837,
+  "updated": "2026-07-11T09:29:40.475930+00:00",
   "buckets": {
-    "SPIN_WHEEL": 76,
+    "SPIN_WHEEL": 75,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 7,
