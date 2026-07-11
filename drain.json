@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-11T07:28:17.080Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "PB Mouse Traps",
+      "_addedAt": "2026-07-11T07:58:39.421Z",
+      "_ts": "2026-07-11T07:58:39.725Z"
+    }
+  ],
+  "mirroredAt": "2026-07-11T07:58:39.983Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
