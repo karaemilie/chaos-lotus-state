@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-11T09:28:43.893Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Email PFD for Bentley",
+      "_addedAt": "2026-07-11T09:28:27.177Z",
+      "_ts": "2026-07-11T09:28:27.301Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Return forms for spice racka",
+      "_addedAt": "2026-07-11T09:29:24.914Z",
+      "_ts": "2026-07-11T09:29:25.403Z"
+    }
+  ],
+  "mirroredAt": "2026-07-11T09:29:25.684Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
