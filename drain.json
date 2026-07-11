@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-10T22:52:58.622Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Talk to Bailey about the mouse",
+      "_addedAt": "2026-07-11T03:25:27.080Z",
+      "_ts": "2026-07-11T03:25:27.281Z"
+    }
+  ],
+  "mirroredAt": "2026-07-11T03:25:27.528Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
