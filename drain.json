@@ -2,16 +2,43 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
+      "row": 28,
+      "label": "Find my other two Amazon returnz",
+      "uid": "SPIN:259",
+      "_ts": "2026-07-11T09:29:26.282Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 345,
       "label": "Add Music room to routines",
       "uid": "SPIN_WHEEL:345",
       "_ts": "2026-07-11T09:29:40.111Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 362,
+      "label": "Review online rug heights",
+      "uid": "SPIN_WHEEL:362",
+      "_ts": "2026-07-11T09:29:53.502Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-11T09:29:41.328Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Email PFD for Bentley",
+      "_addedAt": "2026-07-11T09:28:27.177Z",
+      "_ts": "2026-07-11T09:28:27.301Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Return forms for spice racka",
+      "_addedAt": "2026-07-11T09:29:24.914Z",
+      "_ts": "2026-07-11T09:29:25.403Z"
+    }
+  ],
+  "mirroredAt": "2026-07-11T09:29:53.713Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 3,
+    "adds": 2
   }
 }
