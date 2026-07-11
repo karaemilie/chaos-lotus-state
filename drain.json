@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 28,
+      "label": "Find my other two Amazon returnz",
+      "uid": "SPIN:259",
+      "_ts": "2026-07-11T09:29:26.282Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -14,9 +22,9 @@
       "_ts": "2026-07-11T09:29:25.403Z"
     }
   ],
-  "mirroredAt": "2026-07-11T09:29:25.684Z",
+  "mirroredAt": "2026-07-11T09:29:26.486Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 2
   }
 }
