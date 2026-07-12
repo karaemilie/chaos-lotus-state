@@ -197,13 +197,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 172,
-      "row": 12,
-      "label": "Pull up veneer plans for shelfs",
-      "uid": "SPIN:172"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 220,
       "row": 19,
       "label": "Deploy chore app",
@@ -870,10 +863,10 @@
       "uid": "SPIN_WHEEL:375"
     }
   ],
-  "version": 864,
-  "updated": "2026-07-12T06:16:20.721057+00:00",
+  "version": 865,
+  "updated": "2026-07-12T06:17:01.202236+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 70,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
