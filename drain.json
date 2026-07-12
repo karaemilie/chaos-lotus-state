@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 39,
+      "label": "Fix mower",
+      "uid": "SPIN:328",
+      "_ts": "2026-07-12T08:12:02.507Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-12T08:06:56.061Z",
+  "mirroredAt": "2026-07-12T08:12:02.734Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
