@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11790,
+      "row": 364,
+      "label": "Jake jump seat plan 🎯 First step: open a note, list what the jumpseat arrangement needs",
+      "uid": "TASKS:11790",
+      "_ts": "2026-07-12T06:19:15.116Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-12T06:17:02.212Z",
+  "mirroredAt": "2026-07-12T06:19:15.493Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-12T06:17:06.947903+00:00",
-  "lastAutoProcessed": [
-    "SPIN:172"
-  ]
+  }
 }
