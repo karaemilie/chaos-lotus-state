@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 64,
+      "label": "List body pillow",
+      "uid": "SPIN:371",
+      "_ts": "2026-07-12T09:47:16.388Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 63,
+      "label": "Wash new pillowcases",
+      "uid": "SPIN:370",
+      "_ts": "2026-07-12T09:47:34.868Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-12T09:47:30.898Z",
+  "mirroredAt": "2026-07-12T09:47:35.068Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-12T09:47:31.687142+00:00",
-  "lastAutoProcessed": [
-    "SPIN:371"
-  ]
+  }
 }
