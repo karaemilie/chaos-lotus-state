@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 39,
+      "label": "Fix mower",
+      "uid": "SPIN:328",
+      "_ts": "2026-07-12T08:12:02.507Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 60,
+      "label": "Find out bike clinic hours",
+      "uid": "SPIN:354",
+      "_ts": "2026-07-12T08:12:40.411Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-12T08:12:16.668Z",
+  "mirroredAt": "2026-07-12T08:12:40.646Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-12T08:12:18.395418+00:00",
-  "lastAutoProcessed": [
-    "SPIN:328"
-  ]
+  }
 }
