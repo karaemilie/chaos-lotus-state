@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-12T02:48:15.932Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Sand railing",
+      "_addedAt": "2026-07-12T04:15:32.789Z",
+      "_ts": "2026-07-12T04:15:32.976Z"
+    }
+  ],
+  "mirroredAt": "2026-07-12T04:15:33.514Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-12T02:48:16.625978+00:00",
-  "lastAutoProcessed": [
-    "SPIN:361"
-  ]
+    "adds": 1
+  }
 }
