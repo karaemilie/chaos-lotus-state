@@ -228,13 +228,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 328,
-      "row": 39,
-      "label": "Fix mower",
-      "uid": "SPIN:328"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 4,
       "row": 2,
       "label": "Review building permit posted",
@@ -877,10 +870,10 @@
       "uid": "SPIN_WHEEL:377"
     }
   ],
-  "version": 871,
-  "updated": "2026-07-12T08:06:57.271037+00:00",
+  "version": 872,
+  "updated": "2026-07-12T08:12:15.649183+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 71,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
