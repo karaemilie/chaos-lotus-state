@@ -37,13 +37,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 364,
-      "row": 66,
-      "label": "Wash new pillow cases",
-      "uid": "SPIN:364"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 320,
       "row": 33,
       "label": "Jake signature page\u2026 **",
@@ -878,10 +871,10 @@
       "uid": "ZONES:80"
     }
   ],
-  "version": 857,
-  "updated": "2026-07-12T04:32:04.958569+00:00",
+  "version": 858,
+  "updated": "2026-07-12T05:43:05.498434+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 71,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
