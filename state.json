@@ -2,13 +2,6 @@
   "tasks": [
     {
       "source": "SPIN_WHEEL",
-      "sid": 194,
-      "row": 17,
-      "label": "Print window cleaner recipe",
-      "uid": "SPIN:194"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 268,
       "row": 24,
       "label": "Try putty on chair ding **",
@@ -863,10 +856,10 @@
       "uid": "SPIN_WHEEL:377"
     }
   ],
-  "version": 873,
-  "updated": "2026-07-12T08:12:54.578034+00:00",
+  "version": 874,
+  "updated": "2026-07-12T08:32:17.492477+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 69,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
