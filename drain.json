@@ -1,6 +1,20 @@
 {
   "completions": [
     {
+      "source": "SPIN_WHEEL",
+      "row": 55,
+      "label": "Check Linc wallet , order new phone case",
+      "uid": "SPIN:355",
+      "_ts": "2026-07-12T09:44:58.332Z"
+    },
+    {
+      "source": "MAINTENANCE",
+      "row": 86,
+      "label": "🏠 Trim cat claws",
+      "uid": "MAINTENANCE:85",
+      "_ts": "2026-07-12T09:45:27.564Z"
+    },
+    {
       "source": "ZONES",
       "row": 59,
       "zid": 58,
@@ -8,12 +22,26 @@
       "label": "💻 Emails",
       "uid": "ZONES:58",
       "_ts": "2026-07-12T09:45:36.016Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 58,
+      "label": "List Hoyas",
+      "uid": "SPIN:360",
+      "_ts": "2026-07-12T09:45:49.627Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 62,
+      "label": "Handle rest of week task redistribution",
+      "uid": "SPIN:368",
+      "_ts": "2026-07-12T09:46:00.727Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-12T09:45:49.225Z",
+  "mirroredAt": "2026-07-12T09:46:00.986Z",
   "counts": {
-    "completions": 1,
+    "completions": 5,
     "adds": 0
   }
 }
