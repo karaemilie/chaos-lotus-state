@@ -566,20 +566,6 @@
       "uid": "SPIN:354"
     },
     {
-      "source": "TASKS",
-      "id": 11790,
-      "row": 364,
-      "label": "Jake jump seat plan \ud83c\udfaf First step: open a note, list what the jumpseat arrangement needs",
-      "aw": 4,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Kids",
-      "critical": false,
-      "uid": "TASKS:11790"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 281,
       "row": 29,
@@ -861,10 +847,23 @@
       "sid": 375,
       "label": "Measure already cut birch for closet *",
       "uid": "SPIN_WHEEL:375"
+    },
+    {
+      "source": "TASKS",
+      "id": 11577,
+      "label": "Check if NMS offers scholarship for summer classes \ud83c\udf93\ud83d\udcb0",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11577"
     }
   ],
-  "version": 865,
-  "updated": "2026-07-12T06:17:01.202236+00:00",
+  "version": 866,
+  "updated": "2026-07-12T06:19:28.207900+00:00",
   "buckets": {
     "SPIN_WHEEL": 70,
     "TASKS": 17,
