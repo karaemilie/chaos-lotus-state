@@ -877,12 +877,19 @@
       "sid": 371,
       "label": "List body pillow",
       "uid": "SPIN_WHEEL:371"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 372,
+      "sid": 372,
+      "label": "Add dead gang to daily list",
+      "uid": "SPIN_WHEEL:372"
     }
   ],
-  "version": 852,
-  "updated": "2026-07-12T01:14:53.338054+00:00",
+  "version": 853,
+  "updated": "2026-07-12T01:15:37.076631+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 73,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
