@@ -868,12 +868,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:11121"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 377,
+      "sid": 377,
+      "label": "Buy a clear power cord",
+      "uid": "SPIN_WHEEL:377"
     }
   ],
-  "version": 870,
-  "updated": "2026-07-12T06:56:10.519429+00:00",
+  "version": 871,
+  "updated": "2026-07-12T08:06:57.271037+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 72,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
