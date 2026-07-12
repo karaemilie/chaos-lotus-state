@@ -870,12 +870,19 @@
       "sid": 372,
       "label": "Add dead gang to daily list",
       "uid": "SPIN_WHEEL:372"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 373,
+      "sid": 373,
+      "label": "Sand railing",
+      "uid": "SPIN_WHEEL:373"
     }
   ],
-  "version": 855,
-  "updated": "2026-07-12T02:48:15.014978+00:00",
+  "version": 856,
+  "updated": "2026-07-12T04:15:50.179363+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 72,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
