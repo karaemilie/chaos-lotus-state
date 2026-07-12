@@ -522,13 +522,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 369,
-      "row": 71,
-      "label": "Edit Genevieve paper",
-      "uid": "SPIN:369"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 305,
       "row": 30,
       "label": "Hear back/order cello peg",
@@ -886,10 +879,10 @@
       "uid": "SPIN_WHEEL:372"
     }
   ],
-  "version": 853,
-  "updated": "2026-07-12T01:15:37.076631+00:00",
+  "version": 854,
+  "updated": "2026-07-12T01:40:31.966518+00:00",
   "buckets": {
-    "SPIN_WHEEL": 73,
+    "SPIN_WHEEL": 72,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
