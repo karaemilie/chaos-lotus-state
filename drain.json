@@ -1,18 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 64,
+      "label": "List body pillow",
+      "uid": "SPIN:371",
+      "_ts": "2026-07-12T09:47:16.388Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-12T09:46:34.088Z",
+  "mirroredAt": "2026-07-12T09:47:16.670Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-12T09:46:35.347514+00:00",
-  "lastAutoProcessed": [
-    "ZONES:58",
-    "MAINTENANCE:85",
-    "SPIN:355",
-    "SPIN:368",
-    "SPIN:360",
-    "SPIN:353"
-  ]
+  }
 }
