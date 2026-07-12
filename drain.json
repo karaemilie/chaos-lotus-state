@@ -13,12 +13,21 @@
       "label": "🏠 Trim cat claws",
       "uid": "MAINTENANCE:85",
       "_ts": "2026-07-12T09:45:27.564Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 59,
+      "zid": 58,
+      "floor": "Digital",
+      "label": "💻 Emails",
+      "uid": "ZONES:58",
+      "_ts": "2026-07-12T09:45:36.016Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-12T09:45:27.783Z",
+  "mirroredAt": "2026-07-12T09:45:36.241Z",
   "counts": {
-    "completions": 2,
+    "completions": 3,
     "adds": 0
   }
 }
