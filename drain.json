@@ -1,5 +1,12 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Edit Genevieve paper",
+      "uid": "PLUS_ADD:Edit Genevieve paper:2026-07-12T00:01:04.314Z",
+      "_ts": "2026-07-12T00:01:13.282Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +15,9 @@
       "_ts": "2026-07-12T00:01:04.477Z"
     }
   ],
-  "mirroredAt": "2026-07-12T00:01:04.745Z",
+  "mirroredAt": "2026-07-12T00:01:13.566Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
