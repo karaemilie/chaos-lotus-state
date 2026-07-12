@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-12T01:14:46.281Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "List body pillow",
+      "_addedAt": "2026-07-12T01:14:25.801Z",
+      "_ts": "2026-07-12T01:14:25.990Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Add dead gang to daily list",
+      "_addedAt": "2026-07-12T01:14:58.491Z",
+      "_ts": "2026-07-12T01:14:58.959Z"
+    }
+  ],
+  "mirroredAt": "2026-07-12T01:14:59.235Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
