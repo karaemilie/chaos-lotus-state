@@ -44,13 +44,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 340,
-      "row": 50,
-      "label": "Move Robo vac downstairs **",
-      "uid": "SPIN:340"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 348,
       "row": 54,
       "label": "Pay & submit AYO cost",
@@ -871,10 +864,10 @@
       "uid": "ZONES:80"
     }
   ],
-  "version": 858,
-  "updated": "2026-07-12T05:43:05.498434+00:00",
+  "version": 859,
+  "updated": "2026-07-12T05:43:50.184389+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 70,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
