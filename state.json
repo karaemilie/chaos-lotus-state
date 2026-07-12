@@ -750,13 +750,6 @@
       "uid": "SPIN:336"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 371,
-      "row": 64,
-      "label": "List body pillow",
-      "uid": "SPIN:371"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11217,
       "parentRow": 211,
@@ -848,11 +841,11 @@
       "uid": "ZONES:60"
     }
   ],
-  "version": 884,
-  "updated": "2026-07-12T09:46:33.023240+00:00",
+  "version": 885,
+  "updated": "2026-07-12T09:47:29.882269+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "ZONES": 9,
     "COURAGE": 3,
     "MAINTENANCE": 2
