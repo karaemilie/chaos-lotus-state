@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-12T06:12:34.437Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Measure already cut birch for closet *",
+      "_addedAt": "2026-07-12T06:16:05.019Z",
+      "_ts": "2026-07-12T06:16:05.676Z"
+    }
+  ],
+  "mirroredAt": "2026-07-12T06:16:06.108Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-12T06:12:35.859398+00:00",
-  "lastAutoProcessed": [
-    "SPIN:327"
-  ]
+    "adds": 1
+  }
 }
