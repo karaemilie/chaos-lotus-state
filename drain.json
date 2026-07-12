@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 65,
+      "label": "🔥 call Amer Express",
+      "uid": "SPIN:361",
+      "_ts": "2026-07-12T02:47:59.870Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-12T01:40:33.134Z",
+  "mirroredAt": "2026-07-12T02:48:00.098Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-12T01:40:34.767813+00:00",
-  "lastAutoProcessed": [
-    "SPIN:369"
-  ]
+  }
 }
