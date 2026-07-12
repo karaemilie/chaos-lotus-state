@@ -633,20 +633,6 @@
       "uid": "COURAGE:11651:0"
     },
     {
-      "source": "TASKS",
-      "id": 11775,
-      "row": 351,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11775"
-    },
-    {
       "source": "ZONES",
       "zid": 26,
       "floor": "Main Floor",
@@ -869,10 +855,23 @@
       "sid": 376,
       "label": "Test prep plan for Linc",
       "uid": "SPIN_WHEEL:376"
+    },
+    {
+      "source": "TASKS",
+      "id": 11121,
+      "label": "Write Bentley back about endowments",
+      "aw": 4,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11121"
     }
   ],
-  "version": 869,
-  "updated": "2026-07-12T06:54:31.836136+00:00",
+  "version": 870,
+  "updated": "2026-07-12T06:56:10.519429+00:00",
   "buckets": {
     "SPIN_WHEEL": 71,
     "TASKS": 17,
