@@ -870,12 +870,19 @@
       "sid": 370,
       "label": "Wash new pillowcases",
       "uid": "SPIN_WHEEL:370"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 371,
+      "sid": 371,
+      "label": "List body pillow",
+      "uid": "SPIN_WHEEL:371"
     }
   ],
-  "version": 851,
-  "updated": "2026-07-12T00:05:16.117652+00:00",
+  "version": 852,
+  "updated": "2026-07-12T01:14:53.338054+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 72,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
