@@ -148,13 +148,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 327,
-      "row": 38,
-      "label": "Send boys note / schedule Ruth",
-      "uid": "SPIN:327"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 325,
       "row": 37,
       "label": "Clean up front porch",
@@ -870,10 +863,10 @@
       "uid": "ZONES:55"
     }
   ],
-  "version": 862,
-  "updated": "2026-07-12T06:07:36.020668+00:00",
+  "version": 863,
+  "updated": "2026-07-12T06:12:33.298800+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 70,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
