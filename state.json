@@ -854,12 +854,19 @@
       "sid": 377,
       "label": "Buy a clear power cord",
       "uid": "SPIN_WHEEL:377"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 378,
+      "sid": 378,
+      "label": "Mix up window cleaner",
+      "uid": "SPIN_WHEEL:378"
     }
   ],
-  "version": 874,
-  "updated": "2026-07-12T08:32:17.492477+00:00",
+  "version": 875,
+  "updated": "2026-07-12T08:32:58.665936+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 70,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
