@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-12T00:01:27.860Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Wash new pillowcases",
+      "_addedAt": "2026-07-12T00:04:56.249Z",
+      "_ts": "2026-07-12T00:04:56.383Z"
+    }
+  ],
+  "mirroredAt": "2026-07-12T00:04:56.677Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
