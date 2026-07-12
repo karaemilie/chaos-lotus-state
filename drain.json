@@ -8,10 +8,17 @@
       "_ts": "2026-07-12T08:32:01.359Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-12T08:32:01.672Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Mix up window cleaner",
+      "_addedAt": "2026-07-12T08:32:13.782Z",
+      "_ts": "2026-07-12T08:32:13.998Z"
+    }
+  ],
+  "mirroredAt": "2026-07-12T08:32:14.272Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
