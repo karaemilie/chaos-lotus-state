@@ -861,12 +861,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Back Annex",
       "uid": "ZONES:55"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 375,
+      "sid": 375,
+      "label": "Measure already cut birch for closet *",
+      "uid": "SPIN_WHEEL:375"
     }
   ],
-  "version": 863,
-  "updated": "2026-07-12T06:12:33.298800+00:00",
+  "version": 864,
+  "updated": "2026-07-12T06:16:20.721057+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 71,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
