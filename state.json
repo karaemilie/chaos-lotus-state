@@ -597,16 +597,6 @@
       "uid": "ZONES:83"
     },
     {
-      "source": "ZONES",
-      "zid": 78,
-      "floor": "Plant",
-      "row": 79,
-      "label": "\ud83c\udf31 Family Room Props",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Props",
-      "uid": "ZONES:78"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 354,
       "row": 60,
@@ -877,10 +867,19 @@
       "sid": 373,
       "label": "Sand railing",
       "uid": "SPIN_WHEEL:373"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Hallway",
+      "uid": "ZONES:80"
     }
   ],
-  "version": 856,
-  "updated": "2026-07-12T04:15:50.179363+00:00",
+  "version": 857,
+  "updated": "2026-07-12T04:32:04.958569+00:00",
   "buckets": {
     "SPIN_WHEEL": 72,
     "TASKS": 17,
