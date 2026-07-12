@@ -632,13 +632,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 370,
-      "row": 63,
-      "label": "Wash new pillowcases",
-      "uid": "SPIN:370"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 215,
       "row": 16,
       "label": "Insta tags for plants and homeschool \ud83d\udcb8",
@@ -841,11 +834,11 @@
       "uid": "ZONES:60"
     }
   ],
-  "version": 885,
-  "updated": "2026-07-12T09:47:29.882269+00:00",
+  "version": 886,
+  "updated": "2026-07-12T09:47:57.890579+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "COURAGE": 3,
     "MAINTENANCE": 2
