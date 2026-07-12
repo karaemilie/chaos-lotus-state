@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-12T06:56:12.915Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Buy a clear power cord",
+      "_addedAt": "2026-07-12T08:06:42.629Z",
+      "_ts": "2026-07-12T08:06:43.143Z"
+    }
+  ],
+  "mirroredAt": "2026-07-12T08:06:43.365Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-12T06:56:13.727962+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11775"
-  ]
+    "adds": 1
+  }
 }
