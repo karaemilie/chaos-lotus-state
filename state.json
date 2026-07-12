@@ -856,13 +856,20 @@
       "sid": 368,
       "label": "Handle rest of week task redistribution",
       "uid": "SPIN_WHEEL:368"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 369,
+      "sid": 369,
+      "label": "Edit Genevieve paper",
+      "uid": "SPIN_WHEEL:369"
     }
   ],
-  "version": 848,
-  "updated": "2026-07-11T10:15:48.289889+00:00",
+  "version": 849,
+  "updated": "2026-07-12T00:01:31.125945+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 70,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2
