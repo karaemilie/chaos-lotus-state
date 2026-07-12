@@ -30,13 +30,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 361,
-      "row": 65,
-      "label": "\ud83d\udd25 call Amer Express",
-      "uid": "SPIN:361"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 330,
       "row": 40,
       "label": "Clean robot water tank",
@@ -879,10 +872,10 @@
       "uid": "SPIN_WHEEL:372"
     }
   ],
-  "version": 854,
-  "updated": "2026-07-12T01:40:31.966518+00:00",
+  "version": 855,
+  "updated": "2026-07-12T02:48:15.014978+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 71,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
