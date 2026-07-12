@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-12T09:47:58.827Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "ORDER POSTURE PEG",
+      "_addedAt": "2026-07-12T23:30:51.389Z",
+      "_ts": "2026-07-12T23:30:51.570Z"
+    }
+  ],
+  "mirroredAt": "2026-07-12T23:30:51.838Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-12T09:47:59.587108+00:00",
-  "lastAutoProcessed": [
-    "SPIN:371",
-    "SPIN:370"
-  ]
+    "adds": 1
+  }
 }
