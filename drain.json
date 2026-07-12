@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 38,
+      "label": "Send boys note / schedule Ruth",
+      "uid": "SPIN:327",
+      "_ts": "2026-07-12T06:12:09.289Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-12T06:07:37.004Z",
+  "mirroredAt": "2026-07-12T06:12:09.523Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-12T06:07:44.965413+00:00",
-  "lastAutoProcessed": [
-    "ZONES:54"
-  ]
+  }
 }
