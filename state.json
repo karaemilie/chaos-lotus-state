@@ -234,13 +234,6 @@
       "uid": "SPIN:341"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 355,
-      "row": 55,
-      "label": "Check Linc wallet , order new phone case",
-      "uid": "SPIN:355"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 85,
       "row": 86,
@@ -878,11 +871,11 @@
       "uid": "SPIN_WHEEL:380"
     }
   ],
-  "version": 881,
-  "updated": "2026-07-12T09:33:25.787390+00:00",
+  "version": 882,
+  "updated": "2026-07-12T09:45:15.345274+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 71,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 3
