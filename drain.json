@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 17,
+      "label": "Print window cleaner recipe",
+      "uid": "SPIN:194",
+      "_ts": "2026-07-12T08:32:01.359Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-12T08:12:56.006Z",
+  "mirroredAt": "2026-07-12T08:32:01.672Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-12T08:13:01.454827+00:00",
-  "lastAutoProcessed": [
-    "SPIN:328",
-    "SPIN:354"
-  ]
+  }
 }
