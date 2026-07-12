@@ -400,16 +400,6 @@
       "uid": "SPIN:43"
     },
     {
-      "source": "ZONES",
-      "zid": 54,
-      "floor": "Basement",
-      "row": 55,
-      "label": "\ud83e\uddfa Crawlspace",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Crawlspace",
-      "uid": "ZONES:54"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 322,
       "row": 34,
@@ -869,10 +859,19 @@
       "sid": 374,
       "label": "Set up downstairs robot",
       "uid": "SPIN_WHEEL:374"
+    },
+    {
+      "source": "ZONES",
+      "zid": 55,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Back Annex",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Back Annex",
+      "uid": "ZONES:55"
     }
   ],
-  "version": 861,
-  "updated": "2026-07-12T05:44:42.428483+00:00",
+  "version": 862,
+  "updated": "2026-07-12T06:07:36.020668+00:00",
   "buckets": {
     "SPIN_WHEEL": 71,
     "TASKS": 17,
