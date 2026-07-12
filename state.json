@@ -490,16 +490,6 @@
       "uid": "SPIN:360"
     },
     {
-      "source": "TASKS",
-      "id": 10031,
-      "row": 9,
-      "label": "\ud83d\udcb8 List NILO table on Facebook Marketplace",
-      "emoji": "\ud83d\udcb8",
-      "aw": 7,
-      "specialZone": "Business",
-      "uid": "TASKS:10031"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 247,
       "row": 21,
@@ -860,10 +850,23 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:11577"
+    },
+    {
+      "source": "TASKS",
+      "id": 11649,
+      "label": "Set up Swift Playground \ud83c\udf4e\ud83d\udcbb",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11649"
     }
   ],
-  "version": 866,
-  "updated": "2026-07-12T06:19:28.207900+00:00",
+  "version": 867,
+  "updated": "2026-07-12T06:33:44.143941+00:00",
   "buckets": {
     "SPIN_WHEEL": 70,
     "TASKS": 17,
