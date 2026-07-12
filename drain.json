@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-12T00:05:55.069Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "List body pillow",
+      "_addedAt": "2026-07-12T01:14:25.801Z",
+      "_ts": "2026-07-12T01:14:25.990Z"
+    }
+  ],
+  "mirroredAt": "2026-07-12T01:14:26.261Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
