@@ -234,15 +234,6 @@
       "uid": "SPIN:341"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 85,
-      "row": 86,
-      "label": "\ud83c\udfe0 Trim cat claws",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Trim cat claws",
-      "uid": "MAINTENANCE:85"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 243,
       "row": 18,
@@ -869,15 +860,23 @@
       "sid": 380,
       "label": "Order cursive book for L&E",
       "uid": "SPIN_WHEEL:380"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 86,
+      "label": "\ud83c\udfe0 Clean the cat fountain",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Clean the cat fountain",
+      "uid": "MAINTENANCE:86"
     }
   ],
-  "version": 882,
-  "updated": "2026-07-12T09:45:15.345274+00:00",
+  "version": 883,
+  "updated": "2026-07-12T09:45:48.098874+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 71,
     "ZONES": 9,
-    "MAINTENANCE": 2,
-    "COURAGE": 3
+    "COURAGE": 3,
+    "MAINTENANCE": 2
   }
 }
