@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 12,
+      "label": "Pull up veneer plans for shelfs",
+      "uid": "SPIN:172",
+      "_ts": "2026-07-12T06:16:09.935Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-07-12T06:16:05.676Z"
     }
   ],
-  "mirroredAt": "2026-07-12T06:16:06.108Z",
+  "mirroredAt": "2026-07-12T06:16:10.150Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
