@@ -335,20 +335,6 @@
       "uid": "SPIN:368"
     },
     {
-      "source": "TASKS",
-      "id": 10004,
-      "row": 294,
-      "label": "Watch one faceless affiliate marketing YouTube video, jot 3 takeaways",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": "Faceless Affiliate Marketing",
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:10004"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 85,
       "row": 86,
@@ -863,10 +849,23 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:11649"
+    },
+    {
+      "source": "TASKS",
+      "id": 10124,
+      "label": "Go through garage shoes with Evan \ud83d\udcdd",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": "Garage Organization",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10124"
     }
   ],
-  "version": 867,
-  "updated": "2026-07-12T06:33:44.143941+00:00",
+  "version": 868,
+  "updated": "2026-07-12T06:54:25.186605+00:00",
   "buckets": {
     "SPIN_WHEEL": 70,
     "TASKS": 17,
