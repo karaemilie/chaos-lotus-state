@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10031,
+      "row": 9,
+      "label": "💸 List NILO table on Facebook Marketplace",
+      "uid": "TASKS:10031",
+      "_ts": "2026-07-12T06:33:30.100Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-12T06:19:30.577Z",
+  "mirroredAt": "2026-07-12T06:33:30.489Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-12T06:19:31.336481+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11790"
-  ]
+  }
 }
