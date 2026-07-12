@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 55,
+      "label": "Check Linc wallet , order new phone case",
+      "uid": "SPIN:355",
+      "_ts": "2026-07-12T09:44:58.332Z"
+    },
+    {
+      "source": "MAINTENANCE",
+      "row": 86,
+      "label": "🏠 Trim cat claws",
+      "uid": "MAINTENANCE:85",
+      "_ts": "2026-07-12T09:45:27.564Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-12T09:45:16.521Z",
+  "mirroredAt": "2026-07-12T09:45:27.783Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-12T09:45:18.707502+00:00",
-  "lastAutoProcessed": [
-    "SPIN:355"
-  ]
+  }
 }
