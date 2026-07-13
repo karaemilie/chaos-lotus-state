@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 70,
+      "label": "Buy a clear power cord",
+      "uid": "SPIN:377",
+      "_ts": "2026-07-13T05:10:16.441Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-13T02:49:28.356Z",
+  "mirroredAt": "2026-07-13T05:10:16.682Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-13T02:49:35.838157+00:00",
-  "lastAutoProcessed": [
-    "SPIN:358"
-  ]
+  }
 }
