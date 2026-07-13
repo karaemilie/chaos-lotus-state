@@ -779,13 +779,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 377,
-      "row": 70,
-      "label": "Buy a clear power cord",
-      "uid": "SPIN:377"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 322,
       "row": 32,
       "label": "Call eye dr and request call to Linai",
@@ -834,11 +827,11 @@
       "uid": "SPIN_WHEEL:381"
     }
   ],
-  "version": 888,
-  "updated": "2026-07-13T02:49:27.314903+00:00",
+  "version": 889,
+  "updated": "2026-07-13T05:10:34.841420+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "ZONES": 9,
     "COURAGE": 3,
     "MAINTENANCE": 2
