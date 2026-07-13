@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-13T08:09:24.993Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Take care of all August plane tickets 😬😬",
+      "_addedAt": "2026-07-13T08:41:45.963Z",
+      "_ts": "2026-07-13T08:41:46.109Z"
+    }
+  ],
+  "mirroredAt": "2026-07-13T08:41:46.338Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-13T08:09:26.571073+00:00",
-  "lastAutoProcessed": [
-    "SPIN:381"
-  ]
+    "adds": 1
+  }
 }
