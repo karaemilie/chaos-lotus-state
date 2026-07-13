@@ -825,13 +825,20 @@
       "sid": 381,
       "label": "ORDER POSTURE PEG",
       "uid": "SPIN_WHEEL:381"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 382,
+      "sid": 382,
+      "label": "Add extension cords to vehicle",
+      "uid": "SPIN_WHEEL:382"
     }
   ],
-  "version": 889,
-  "updated": "2026-07-13T05:10:34.841420+00:00",
+  "version": 890,
+  "updated": "2026-07-13T05:14:07.565370+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "COURAGE": 3,
     "MAINTENANCE": 2
