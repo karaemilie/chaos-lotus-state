@@ -92,20 +92,6 @@
       "uid": "SPIN:366"
     },
     {
-      "source": "TASKS",
-      "id": 11794,
-      "row": 362,
-      "label": "\u2728 Put on new tattoo",
-      "aw": 4,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11794"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 174,
       "row": 12,
@@ -832,10 +818,23 @@
       "sid": 382,
       "label": "Add extension cords to vehicle",
       "uid": "SPIN_WHEEL:382"
+    },
+    {
+      "source": "TASKS",
+      "id": 10283,
+      "label": "Help Bentley set up LinkedIn \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10283"
     }
   ],
-  "version": 890,
-  "updated": "2026-07-13T05:14:07.565370+00:00",
+  "version": 891,
+  "updated": "2026-07-13T05:54:33.142519+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 66,
