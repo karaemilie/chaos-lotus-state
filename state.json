@@ -818,12 +818,26 @@
       "sid": 383,
       "label": "Load pillowcases",
       "uid": "SPIN_WHEEL:383"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 384,
+      "sid": 384,
+      "label": "Write Nilo Lady back",
+      "uid": "SPIN_WHEEL:384"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 385,
+      "sid": 385,
+      "label": "Check garage wall for hole",
+      "uid": "SPIN_WHEEL:385"
     }
   ],
-  "version": 897,
-  "updated": "2026-07-13T08:04:15.601200+00:00",
+  "version": 898,
+  "updated": "2026-07-13T08:05:09.815324+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 67,
     "TASKS": 17,
     "ZONES": 8,
     "COURAGE": 3,
