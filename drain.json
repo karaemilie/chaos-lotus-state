@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 59,
+      "label": "PB Mouse Traps",
+      "uid": "SPIN:365",
+      "_ts": "2026-07-13T07:47:19.288Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 56,
+      "zid": 55,
+      "floor": "Basement",
+      "label": "🧺 Back Annex",
+      "uid": "ZONES:55",
+      "_ts": "2026-07-13T07:47:45.821Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-13T07:47:40.806Z",
+  "mirroredAt": "2026-07-13T07:47:46.074Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-13T07:47:41.921440+00:00",
-  "lastAutoProcessed": [
-    "SPIN:365"
-  ]
+  }
 }
