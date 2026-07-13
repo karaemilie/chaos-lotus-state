@@ -325,13 +325,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 379,
-      "row": 72,
-      "label": "Elevate network box in closet",
-      "uid": "SPIN:379"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 348,
       "row": 49,
       "label": "Pay & submit AYO cost",
@@ -357,16 +350,6 @@
       "row": 11,
       "label": "Inspect music room closet",
       "uid": "SPIN:165"
-    },
-    {
-      "source": "ZONES",
-      "zid": 55,
-      "floor": "Basement",
-      "row": 56,
-      "label": "\ud83e\uddfa Back Annex",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Back Annex",
-      "uid": "ZONES:55"
     },
     {
       "source": "ZONES",
@@ -824,13 +807,22 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Reviews",
       "uid": "ZONES:61"
+    },
+    {
+      "source": "ZONES",
+      "zid": 56,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Bathroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Bathroom",
+      "uid": "ZONES:56"
     }
   ],
-  "version": 893,
-  "updated": "2026-07-13T07:47:39.757041+00:00",
+  "version": 894,
+  "updated": "2026-07-13T07:48:22.823403+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "ZONES": 9,
     "COURAGE": 3,
     "MAINTENANCE": 2
