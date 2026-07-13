@@ -1,5 +1,15 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 85,
+      "zid": 84,
+      "floor": "Personal",
+      "label": "👱‍♀️ Face Mask",
+      "uid": "ZONES:84",
+      "_ts": "2026-07-13T08:41:49.740Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +18,9 @@
       "_ts": "2026-07-13T08:41:46.109Z"
     }
   ],
-  "mirroredAt": "2026-07-13T08:41:46.338Z",
+  "mirroredAt": "2026-07-13T08:41:49.966Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
