@@ -797,15 +797,6 @@
       "uid": "MAINTENANCE:86"
     },
     {
-      "source": "ZONES",
-      "zid": 60,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Photos",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Photos",
-      "uid": "ZONES:60"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 381,
       "sid": 381,
@@ -831,10 +822,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10283"
+    },
+    {
+      "source": "ZONES",
+      "zid": 61,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Reviews",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Reviews",
+      "uid": "ZONES:61"
     }
   ],
-  "version": 891,
-  "updated": "2026-07-13T05:54:33.142519+00:00",
+  "version": 892,
+  "updated": "2026-07-13T06:03:13.153893+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 66,
