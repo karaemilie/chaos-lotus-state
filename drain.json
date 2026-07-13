@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-13T08:04:07.386Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Load pillowcases",
+      "_addedAt": "2026-07-13T08:03:51.550Z",
+      "_ts": "2026-07-13T08:03:52.246Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Write Nilo Lady back",
+      "_addedAt": "2026-07-13T08:04:09.017Z",
+      "_ts": "2026-07-13T08:04:09.434Z"
+    }
+  ],
+  "mirroredAt": "2026-07-13T08:04:09.720Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
