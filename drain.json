@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 59,
+      "label": "PB Mouse Traps",
+      "uid": "SPIN:365",
+      "_ts": "2026-07-13T07:47:19.288Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-13T06:03:14.458Z",
+  "mirroredAt": "2026-07-13T07:47:19.521Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-13T06:03:16.195076+00:00",
-  "lastAutoProcessed": [
-    "ZONES:60"
-  ]
+  }
 }
