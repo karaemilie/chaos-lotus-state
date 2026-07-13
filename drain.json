@@ -1,15 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-13T07:48:23.746Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Load pillowcases",
+      "_addedAt": "2026-07-13T08:03:51.550Z",
+      "_ts": "2026-07-13T08:03:52.246Z"
+    }
+  ],
+  "mirroredAt": "2026-07-13T08:03:52.625Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-13T07:48:32.694548+00:00",
-  "lastAutoProcessed": [
-    "ZONES:55",
-    "SPIN:365",
-    "SPIN:379"
-  ]
+    "adds": 1
+  }
 }
