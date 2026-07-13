@@ -2,16 +2,6 @@
   "tasks": [
     {
       "source": "ZONES",
-      "zid": 59,
-      "floor": "Digital",
-      "row": 60,
-      "label": "\ud83d\udcbb Quicken",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Quicken",
-      "uid": "ZONES:59"
-    },
-    {
-      "source": "ZONES",
       "zid": 17,
       "floor": "Upstairs",
       "row": 18,
@@ -838,12 +828,30 @@
       "sid": 387,
       "label": "Check Genevieve AkAir acct wallet",
       "uid": "SPIN_WHEEL:387"
+    },
+    {
+      "source": "ZONES",
+      "zid": 61,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Reviews",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Reviews",
+      "uid": "ZONES:61"
+    },
+    {
+      "source": "ZONES",
+      "zid": 62,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Messages",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Messages",
+      "uid": "ZONES:62"
     }
   ],
-  "version": 903,
-  "updated": "2026-07-13T08:48:20.999588+00:00",
+  "version": 904,
+  "updated": "2026-07-13T08:56:04.893254+00:00",
   "buckets": {
-    "ZONES": 8,
+    "ZONES": 9,
     "SPIN_WHEEL": 68,
     "TASKS": 17,
     "MAINTENANCE": 2,
