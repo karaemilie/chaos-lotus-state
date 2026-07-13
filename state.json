@@ -507,13 +507,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 365,
-      "row": 59,
-      "label": "PB Mouse Traps",
-      "uid": "SPIN:365"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 324,
       "row": 34,
       "label": "Set up visual studio code**",
@@ -833,11 +826,11 @@
       "uid": "ZONES:61"
     }
   ],
-  "version": 892,
-  "updated": "2026-07-13T06:03:13.153893+00:00",
+  "version": 893,
+  "updated": "2026-07-13T07:47:39.757041+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "ZONES": 9,
     "COURAGE": 3,
     "MAINTENANCE": 2
