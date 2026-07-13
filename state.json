@@ -21,16 +21,6 @@
       "uid": "ZONES:17"
     },
     {
-      "source": "ZONES",
-      "zid": 84,
-      "floor": "Personal",
-      "row": 85,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Mask",
-      "uid": "ZONES:84"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 376,
       "row": 61,
@@ -832,10 +822,19 @@
       "sid": 386,
       "label": "Take care of all August plane tickets \ud83d\ude2c\ud83d\ude2c",
       "uid": "SPIN_WHEEL:386"
+    },
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Epilate Legs",
+      "uid": "ZONES:85"
     }
   ],
-  "version": 901,
-  "updated": "2026-07-13T08:42:10.124992+00:00",
+  "version": 902,
+  "updated": "2026-07-13T08:42:59.170888+00:00",
   "buckets": {
     "ZONES": 8,
     "SPIN_WHEEL": 67,
