@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-13T08:56:06.077Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "🔥 Deal with Calc dude",
+      "_addedAt": "2026-07-13T09:15:29.664Z",
+      "_ts": "2026-07-13T09:15:29.829Z"
+    }
+  ],
+  "mirroredAt": "2026-07-13T09:15:30.071Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-13T08:56:06.954249+00:00",
-  "lastAutoProcessed": [
-    "ZONES:59",
-    "ZONES:59"
-  ]
+    "adds": 1
+  }
 }
