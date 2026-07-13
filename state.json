@@ -346,13 +346,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 358,
-      "row": 57,
-      "label": "Return labels for spice racks",
-      "uid": "SPIN:358"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 348,
       "row": 49,
       "label": "Pay & submit AYO cost",
@@ -841,11 +834,11 @@
       "uid": "SPIN_WHEEL:381"
     }
   ],
-  "version": 887,
-  "updated": "2026-07-12T23:31:07.589667+00:00",
+  "version": 888,
+  "updated": "2026-07-13T02:49:27.314903+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "COURAGE": 3,
     "MAINTENANCE": 2
