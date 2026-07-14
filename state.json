@@ -916,13 +916,20 @@
       "sid": 397,
       "label": "Schedule piano tuner",
       "uid": "SPIN_WHEEL:397"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 398,
+      "sid": 398,
+      "label": "Order harp strings",
+      "uid": "SPIN_WHEEL:398"
     }
   ],
-  "version": 912,
-  "updated": "2026-07-14T06:48:01.688610+00:00",
+  "version": 913,
+  "updated": "2026-07-14T06:48:48.284264+00:00",
   "buckets": {
     "ZONES": 9,
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 79,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 3
