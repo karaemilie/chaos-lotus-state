@@ -88,13 +88,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 382,
-      "row": 64,
-      "label": "Add extension cords to vehicle",
-      "uid": "SPIN:382"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 324,
       "row": 34,
       "label": "Set up visual studio code**",
@@ -922,10 +915,10 @@
       "uid": "ZONES:27"
     }
   ],
-  "version": 916,
-  "updated": "2026-07-14T07:21:15.339526+00:00",
+  "version": 917,
+  "updated": "2026-07-14T07:21:53.741409+00:00",
   "buckets": {
-    "SPIN_WHEEL": 79,
+    "SPIN_WHEEL": 78,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
