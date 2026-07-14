@@ -888,13 +888,20 @@
       "sid": 393,
       "label": "Measure last two mirrors",
       "uid": "SPIN_WHEEL:393"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 394,
+      "sid": 394,
+      "label": "Move foyer Scentsy to library",
+      "uid": "SPIN_WHEEL:394"
     }
   ],
-  "version": 908,
-  "updated": "2026-07-14T04:40:00.932778+00:00",
+  "version": 909,
+  "updated": "2026-07-14T05:03:20.085974+00:00",
   "buckets": {
     "ZONES": 9,
-    "SPIN_WHEEL": 74,
+    "SPIN_WHEEL": 75,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 3
