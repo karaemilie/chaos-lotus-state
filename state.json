@@ -927,12 +927,19 @@
       "sid": 400,
       "label": "Try on sweater vests",
       "uid": "SPIN_WHEEL:400"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 401,
+      "sid": 401,
+      "label": "Paint my hair clips",
+      "uid": "SPIN_WHEEL:401"
     }
   ],
-  "version": 919,
-  "updated": "2026-07-14T20:38:12.250744+00:00",
+  "version": 920,
+  "updated": "2026-07-14T20:40:39.823334+00:00",
   "buckets": {
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 81,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
