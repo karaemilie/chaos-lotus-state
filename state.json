@@ -662,16 +662,6 @@
       "uid": "SPIN:135"
     },
     {
-      "source": "ZONES",
-      "zid": 26,
-      "floor": "Main Floor",
-      "row": 27,
-      "label": "\ud83e\uddfa Main Floor Living",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Main Floor Living",
-      "uid": "ZONES:26"
-    },
-    {
       "source": "TASKS",
       "id": 11711,
       "row": 312,
@@ -921,10 +911,19 @@
       "cat": "Home",
       "critical": true,
       "uid": "TASKS:11782"
+    },
+    {
+      "source": "ZONES",
+      "zid": 27,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Main Floor Family",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Main Floor Family",
+      "uid": "ZONES:27"
     }
   ],
-  "version": 915,
-  "updated": "2026-07-14T07:14:30.364157+00:00",
+  "version": 916,
+  "updated": "2026-07-14T07:21:15.339526+00:00",
   "buckets": {
     "SPIN_WHEEL": 79,
     "TASKS": 17,
