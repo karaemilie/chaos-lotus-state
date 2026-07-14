@@ -846,13 +846,27 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Messages",
       "uid": "ZONES:62"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 388,
+      "sid": 388,
+      "label": "\ud83d\udd25 Deal with Calc dude",
+      "uid": "SPIN_WHEEL:388"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 389,
+      "sid": 389,
+      "label": "Kitchen wizz bulbs",
+      "uid": "SPIN_WHEEL:389"
     }
   ],
-  "version": 904,
-  "updated": "2026-07-13T08:56:04.893254+00:00",
+  "version": 905,
+  "updated": "2026-07-14T01:22:33.178454+00:00",
   "buckets": {
     "ZONES": 9,
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 70,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 3
