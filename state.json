@@ -1,16 +1,6 @@
 {
   "tasks": [
     {
-      "source": "ZONES",
-      "zid": 17,
-      "floor": "Upstairs",
-      "row": 18,
-      "label": "\ud83e\uddfa Kids Bathroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Kids Bathroom",
-      "uid": "ZONES:17"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 376,
       "row": 61,
@@ -923,15 +913,24 @@
       "sid": 398,
       "label": "Order harp strings",
       "uid": "SPIN_WHEEL:398"
+    },
+    {
+      "source": "ZONES",
+      "zid": 18,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa My Bedroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "My Bedroom",
+      "uid": "ZONES:18"
     }
   ],
-  "version": 913,
-  "updated": "2026-07-14T06:48:48.284264+00:00",
+  "version": 914,
+  "updated": "2026-07-14T06:54:50.633925+00:00",
   "buckets": {
-    "ZONES": 9,
     "SPIN_WHEEL": 79,
     "TASKS": 17,
     "MAINTENANCE": 2,
+    "ZONES": 9,
     "COURAGE": 3
   }
 }
