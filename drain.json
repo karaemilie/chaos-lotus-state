@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-14T07:21:54.739Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Wrap gifts",
+      "_addedAt": "2026-07-14T20:37:07.515Z",
+      "_ts": "2026-07-14T20:37:07.710Z"
+    }
+  ],
+  "mirroredAt": "2026-07-14T20:37:07.978Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-14T07:21:55.446850+00:00",
-  "lastAutoProcessed": [
-    "ZONES:26",
-    "SPIN:382"
-  ]
+    "adds": 1
+  }
 }
