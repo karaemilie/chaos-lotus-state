@@ -881,13 +881,20 @@
       "sid": 392,
       "label": "iColorCustom - install on Mac?",
       "uid": "SPIN_WHEEL:392"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 393,
+      "sid": 393,
+      "label": "Measure last two mirrors",
+      "uid": "SPIN_WHEEL:393"
     }
   ],
-  "version": 907,
-  "updated": "2026-07-14T04:11:24.116078+00:00",
+  "version": 908,
+  "updated": "2026-07-14T04:40:00.932778+00:00",
   "buckets": {
     "ZONES": 9,
-    "SPIN_WHEEL": 73,
+    "SPIN_WHEEL": 74,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 3
