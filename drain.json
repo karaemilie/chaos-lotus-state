@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-14T20:38:11.358Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Paint my hair clips",
+      "_addedAt": "2026-07-14T20:40:23.017Z",
+      "_ts": "2026-07-14T20:40:23.142Z"
+    }
+  ],
+  "mirroredAt": "2026-07-14T20:40:23.463Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
