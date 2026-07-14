@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-14T05:04:05.239Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order vitamin B & K",
+      "_addedAt": "2026-07-14T06:27:49.526Z",
+      "_ts": "2026-07-14T06:27:50.091Z"
+    }
+  ],
+  "mirroredAt": "2026-07-14T06:27:50.455Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
