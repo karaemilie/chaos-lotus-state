@@ -902,13 +902,20 @@
       "sid": 395,
       "label": "Load sticker software to Neo",
       "uid": "SPIN_WHEEL:395"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 396,
+      "sid": 396,
+      "label": "Order vitamin B & K",
+      "uid": "SPIN_WHEEL:396"
     }
   ],
-  "version": 910,
-  "updated": "2026-07-14T05:04:06.495197+00:00",
+  "version": 911,
+  "updated": "2026-07-14T06:28:05.980003+00:00",
   "buckets": {
     "ZONES": 9,
-    "SPIN_WHEEL": 76,
+    "SPIN_WHEEL": 77,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 3
