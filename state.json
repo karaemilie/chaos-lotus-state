@@ -860,13 +860,27 @@
       "sid": 389,
       "label": "Kitchen wizz bulbs",
       "uid": "SPIN_WHEEL:389"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 390,
+      "sid": 390,
+      "label": "Straws for drawer",
+      "uid": "SPIN_WHEEL:390"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 391,
+      "sid": 391,
+      "label": "Calculate material for freezer",
+      "uid": "SPIN_WHEEL:391"
     }
   ],
-  "version": 905,
-  "updated": "2026-07-14T01:22:33.178454+00:00",
+  "version": 906,
+  "updated": "2026-07-14T01:23:17.481074+00:00",
   "buckets": {
     "ZONES": 9,
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 72,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 3
