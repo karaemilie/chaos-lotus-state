@@ -338,20 +338,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11646,
-      "row": 280,
-      "label": "\u2728 Monthly pill box fill time",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11646"
-    },
-    {
-      "source": "TASKS",
       "id": 11421,
       "row": 233,
       "label": "Finish fixing sand table",
@@ -922,10 +908,23 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "My Bedroom",
       "uid": "ZONES:18"
+    },
+    {
+      "source": "TASKS",
+      "id": 11782,
+      "label": "\u2728 Clear the upstairs trashes",
+      "aw": 4,
+      "pri": null,
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": true,
+      "uid": "TASKS:11782"
     }
   ],
-  "version": 914,
-  "updated": "2026-07-14T06:54:50.633925+00:00",
+  "version": 915,
+  "updated": "2026-07-14T07:14:30.364157+00:00",
   "buckets": {
     "SPIN_WHEEL": 79,
     "TASKS": 17,
