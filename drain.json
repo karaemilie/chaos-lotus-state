@@ -6,6 +6,15 @@
       "label": "Make project list for fridge shelf area",
       "uid": "SPIN:341",
       "_ts": "2026-07-15T07:00:11.279Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 81,
+      "zid": 80,
+      "floor": "Plant",
+      "label": "🌱 Hallway",
+      "uid": "ZONES:80",
+      "_ts": "2026-07-15T07:00:22.115Z"
     }
   ],
   "adds": [
@@ -22,9 +31,9 @@
       "_ts": "2026-07-15T07:00:08.299Z"
     }
   ],
-  "mirroredAt": "2026-07-15T07:00:11.593Z",
+  "mirroredAt": "2026-07-15T07:00:22.314Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 2
   }
 }
