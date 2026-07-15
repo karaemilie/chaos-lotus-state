@@ -945,12 +945,19 @@
       "sid": 413,
       "label": "Set up Claude to handle my iMessages",
       "uid": "SPIN_WHEEL:413"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 414,
+      "sid": 414,
+      "label": "Call dentist and pay",
+      "uid": "SPIN_WHEEL:414"
     }
   ],
-  "version": 944,
-  "updated": "2026-07-15T08:52:41.983008+00:00",
+  "version": 945,
+  "updated": "2026-07-15T08:55:15.854697+00:00",
   "buckets": {
-    "SPIN_WHEEL": 83,
+    "SPIN_WHEEL": 84,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
