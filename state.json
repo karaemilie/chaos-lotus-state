@@ -599,13 +599,6 @@
       "uid": "TASKS:11711"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 339,
-      "row": 45,
-      "label": "Measure mirrors",
-      "uid": "SPIN:339"
-    },
-    {
       "source": "TASKS",
       "id": 10172,
       "row": 52,
@@ -757,13 +750,6 @@
       "sid": 392,
       "label": "iColorCustom - install on Mac?",
       "uid": "SPIN_WHEEL:392"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 393,
-      "sid": 393,
-      "label": "Measure last two mirrors",
-      "uid": "SPIN_WHEEL:393"
     },
     {
       "source": "SPIN_WHEEL",
@@ -940,10 +926,10 @@
       "uid": "SPIN_WHEEL:410"
     }
   ],
-  "version": 940,
-  "updated": "2026-07-15T07:19:30.346809+00:00",
+  "version": 941,
+  "updated": "2026-07-15T07:20:07.002904+00:00",
   "buckets": {
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 80,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
