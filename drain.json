@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-15T04:32:27.224Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Use $30 gift card on Mercari!",
+      "_addedAt": "2026-07-15T06:05:10.542Z",
+      "_ts": "2026-07-15T06:05:10.694Z"
+    }
+  ],
+  "mirroredAt": "2026-07-15T06:05:11.001Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-15T04:32:28.107276+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:396"
-  ]
+    "adds": 1
+  }
 }
