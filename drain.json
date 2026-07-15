@@ -6,12 +6,26 @@
       "label": "Measure last two mirrors",
       "uid": "SPIN_WHEEL:393",
       "_ts": "2026-07-15T07:19:26.024Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 45,
+      "label": "Measure mirrors",
+      "uid": "SPIN:339",
+      "_ts": "2026-07-15T07:19:39.478Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-15T07:19:29.376Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Crop all sun photos **",
+      "_addedAt": "2026-07-15T07:19:18.336Z",
+      "_ts": "2026-07-15T07:19:18.599Z"
+    }
+  ],
+  "mirroredAt": "2026-07-15T07:19:39.712Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
