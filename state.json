@@ -941,12 +941,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "My Bathroom",
       "uid": "ZONES:19"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 403,
+      "sid": 403,
+      "label": "Boxes for spice rack",
+      "uid": "SPIN_WHEEL:403"
     }
   ],
-  "version": 922,
-  "updated": "2026-07-15T03:57:12.950991+00:00",
+  "version": 923,
+  "updated": "2026-07-15T04:02:22.604049+00:00",
   "buckets": {
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 83,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
