@@ -973,12 +973,26 @@
       "sid": 417,
       "label": "\ud83d\udd25 submit for AYO cost",
       "uid": "SPIN_WHEEL:417"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 418,
+      "sid": 418,
+      "label": "Use Claude to add AYO to calendar",
+      "uid": "SPIN_WHEEL:418"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 419,
+      "sid": 419,
+      "label": "Pull up TCU Fall bill",
+      "uid": "SPIN_WHEEL:419"
     }
   ],
-  "version": 948,
-  "updated": "2026-07-15T09:15:26.676840+00:00",
+  "version": 949,
+  "updated": "2026-07-15T10:26:58.223037+00:00",
   "buckets": {
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 89,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
