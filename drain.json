@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-15T08:58:44.261Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Finish boxing spice racks",
+      "_addedAt": "2026-07-15T08:58:27.565Z",
+      "_ts": "2026-07-15T08:58:27.703Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Genevieve muffin / loaf pans",
+      "_addedAt": "2026-07-15T08:58:51.255Z",
+      "_ts": "2026-07-15T08:58:51.393Z"
+    }
+  ],
+  "mirroredAt": "2026-07-15T08:58:51.628Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
