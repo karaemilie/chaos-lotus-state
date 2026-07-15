@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-15T07:18:18.832Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Crop all sun photos **",
+      "_addedAt": "2026-07-15T07:19:18.336Z",
+      "_ts": "2026-07-15T07:19:18.599Z"
+    }
+  ],
+  "mirroredAt": "2026-07-15T07:19:18.962Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
