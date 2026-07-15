@@ -195,13 +195,6 @@
       "uid": "TASKS:10503"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 338,
-      "row": 44,
-      "label": "Eval main floor coconut",
-      "uid": "SPIN:338"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10365,
       "parentRow": 297,
@@ -940,10 +933,10 @@
       "uid": "SPIN_WHEEL:408"
     }
   ],
-  "version": 936,
-  "updated": "2026-07-15T07:10:06.412343+00:00",
+  "version": 937,
+  "updated": "2026-07-15T07:17:36.699548+00:00",
   "buckets": {
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 81,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
