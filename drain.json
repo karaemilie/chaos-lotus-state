@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 393,
+      "label": "Measure last two mirrors",
+      "uid": "SPIN_WHEEL:393",
+      "_ts": "2026-07-15T07:19:26.024Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-07-15T07:19:18.599Z"
     }
   ],
-  "mirroredAt": "2026-07-15T07:19:18.962Z",
+  "mirroredAt": "2026-07-15T07:19:26.270Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
