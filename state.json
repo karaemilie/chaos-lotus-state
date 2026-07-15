@@ -232,13 +232,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 331,
-      "row": 37,
-      "label": "Plan to feed Linc AND Evan",
-      "uid": "SPIN:331"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 95,
       "row": 7,
       "label": "Find first transcript for Bentley",
@@ -947,10 +940,10 @@
       "uid": "SPIN_WHEEL:407"
     }
   ],
-  "version": 933,
-  "updated": "2026-07-15T07:00:57.878419+00:00",
+  "version": 934,
+  "updated": "2026-07-15T07:02:46.970753+00:00",
   "buckets": {
-    "SPIN_WHEEL": 83,
+    "SPIN_WHEEL": 82,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
