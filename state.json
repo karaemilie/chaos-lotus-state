@@ -255,16 +255,6 @@
       "uid": "TASKS:11055"
     },
     {
-      "source": "ZONES",
-      "zid": 83,
-      "floor": "Personal",
-      "row": 84,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Hand Care & Mani",
-      "uid": "ZONES:83"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 305,
       "row": 28,
@@ -934,10 +924,19 @@
       "sid": 404,
       "label": "Use $30 gift card on Mercari!",
       "uid": "SPIN_WHEEL:404"
+    },
+    {
+      "source": "ZONES",
+      "zid": 86,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Eyebrows",
+      "uid": "ZONES:86"
     }
   ],
-  "version": 927,
-  "updated": "2026-07-15T06:06:06.963773+00:00",
+  "version": 928,
+  "updated": "2026-07-15T06:46:05.250662+00:00",
   "buckets": {
     "SPIN_WHEEL": 81,
     "TASKS": 17,
