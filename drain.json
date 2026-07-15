@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-15T03:57:14.382Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Boxes for spice rack",
+      "_addedAt": "2026-07-15T04:02:06.551Z",
+      "_ts": "2026-07-15T04:02:07.007Z"
+    }
+  ],
+  "mirroredAt": "2026-07-15T04:02:07.451Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-15T03:57:15.166131+00:00",
-  "lastAutoProcessed": [
-    "ZONES:18"
-  ]
+    "adds": 1
+  }
 }
