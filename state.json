@@ -857,13 +857,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 396,
-      "sid": 396,
-      "label": "Order vitamin B & K",
-      "uid": "SPIN_WHEEL:396"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 397,
       "sid": 397,
       "label": "Schedule piano tuner",
@@ -943,10 +936,10 @@
       "uid": "SPIN_WHEEL:403"
     }
   ],
-  "version": 924,
-  "updated": "2026-07-15T04:13:00.167831+00:00",
+  "version": 925,
+  "updated": "2026-07-15T04:32:26.063144+00:00",
   "buckets": {
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 81,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
