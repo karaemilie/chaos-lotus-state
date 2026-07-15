@@ -938,12 +938,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Bedroom",
       "uid": "ZONES:73"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 407,
+      "sid": 407,
+      "label": "Measure sorel boots",
+      "uid": "SPIN_WHEEL:407"
     }
   ],
-  "version": 932,
-  "updated": "2026-07-15T07:00:54.548092+00:00",
+  "version": 933,
+  "updated": "2026-07-15T07:00:57.878419+00:00",
   "buckets": {
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 83,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
