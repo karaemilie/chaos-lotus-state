@@ -933,12 +933,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Eyebrows",
       "uid": "ZONES:86"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 405,
+      "sid": 405,
+      "label": "Install hue bulbs down down stairs",
+      "uid": "SPIN_WHEEL:405"
     }
   ],
-  "version": 928,
-  "updated": "2026-07-15T06:46:05.250662+00:00",
+  "version": 929,
+  "updated": "2026-07-15T06:50:38.664945+00:00",
   "buckets": {
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 82,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
