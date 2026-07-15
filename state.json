@@ -959,12 +959,19 @@
       "sid": 415,
       "label": "Finish boxing spice racks",
       "uid": "SPIN_WHEEL:415"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 416,
+      "sid": 416,
+      "label": "Genevieve muffin / loaf pans",
+      "uid": "SPIN_WHEEL:416"
     }
   ],
-  "version": 946,
-  "updated": "2026-07-15T08:58:45.575494+00:00",
+  "version": 947,
+  "updated": "2026-07-15T08:59:28.623767+00:00",
   "buckets": {
-    "SPIN_WHEEL": 85,
+    "SPIN_WHEEL": 86,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
