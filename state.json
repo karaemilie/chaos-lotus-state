@@ -884,15 +884,6 @@
       "uid": "SPIN_WHEEL:398"
     },
     {
-      "source": "ZONES",
-      "zid": 18,
-      "floor": "Upstairs",
-      "label": "\ud83e\uddfa My Bedroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "My Bedroom",
-      "uid": "ZONES:18"
-    },
-    {
       "source": "TASKS",
       "id": 11782,
       "label": "\u2728 Clear the upstairs trashes",
@@ -941,10 +932,19 @@
       "sid": 402,
       "label": "Research ladder typws",
       "uid": "SPIN_WHEEL:402"
+    },
+    {
+      "source": "ZONES",
+      "zid": 19,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa My Bathroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "My Bathroom",
+      "uid": "ZONES:19"
     }
   ],
-  "version": 921,
-  "updated": "2026-07-14T20:41:22.962364+00:00",
+  "version": 922,
+  "updated": "2026-07-15T03:57:12.950991+00:00",
   "buckets": {
     "SPIN_WHEEL": 82,
     "TASKS": 17,
