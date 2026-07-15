@@ -931,12 +931,19 @@
       "sid": 409,
       "label": "Research types of ladders",
       "uid": "SPIN_WHEEL:409"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 410,
+      "sid": 410,
+      "label": "Crop all sun photos **",
+      "uid": "SPIN_WHEEL:410"
     }
   ],
-  "version": 939,
-  "updated": "2026-07-15T07:18:19.866461+00:00",
+  "version": 940,
+  "updated": "2026-07-15T07:19:30.346809+00:00",
   "buckets": {
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 82,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
