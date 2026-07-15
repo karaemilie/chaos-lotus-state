@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-15T06:46:06.460Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Install hue bulbs down down stairs",
+      "_addedAt": "2026-07-15T06:50:21.623Z",
+      "_ts": "2026-07-15T06:50:22.110Z"
+    }
+  ],
+  "mirroredAt": "2026-07-15T06:50:22.450Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-15T06:46:07.299310+00:00",
-  "lastAutoProcessed": [
-    "ZONES:83"
-  ]
+    "adds": 1
+  }
 }
