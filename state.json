@@ -422,13 +422,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 215,
-      "row": 16,
-      "label": "Insta tags for plants and homeschool \ud83d\udcb8",
-      "uid": "SPIN:215"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 220,
       "row": 17,
       "label": "Deploy chore app",
@@ -947,10 +940,10 @@
       "uid": "SPIN_WHEEL:408"
     }
   ],
-  "version": 935,
-  "updated": "2026-07-15T07:09:26.775522+00:00",
+  "version": 936,
+  "updated": "2026-07-15T07:10:06.412343+00:00",
   "buckets": {
-    "SPIN_WHEEL": 83,
+    "SPIN_WHEEL": 82,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
