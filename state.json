@@ -415,13 +415,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 341,
-      "row": 46,
-      "label": "Make project list for fridge shelf area",
-      "uid": "SPIN:341"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 334,
       "row": 40,
       "label": "Plant one of the raspberries!! **",
@@ -639,16 +632,6 @@
       "row": 45,
       "label": "Measure mirrors",
       "uid": "SPIN:339"
-    },
-    {
-      "source": "ZONES",
-      "zid": 80,
-      "floor": "Plant",
-      "row": 81,
-      "label": "\ud83c\udf31 Hallway",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Hallway",
-      "uid": "ZONES:80"
     },
     {
       "source": "TASKS",
@@ -946,12 +929,21 @@
       "sid": 406,
       "label": "Assess Mudroom fridge area for space to hang frame",
       "uid": "SPIN_WHEEL:406"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 931,
-  "updated": "2026-07-15T07:00:13.455574+00:00",
+  "version": 932,
+  "updated": "2026-07-15T07:00:54.548092+00:00",
   "buckets": {
-    "SPIN_WHEEL": 83,
+    "SPIN_WHEEL": 82,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
