@@ -1,39 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 46,
-      "label": "Make project list for fridge shelf area",
-      "uid": "SPIN:341",
-      "_ts": "2026-07-15T07:00:11.279Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 81,
-      "zid": 80,
-      "floor": "Plant",
-      "label": "🌱 Hallway",
-      "uid": "ZONES:80",
-      "_ts": "2026-07-15T07:00:22.115Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Assess Mudroom fridge area for space to hang frame",
-      "_addedAt": "2026-07-15T06:59:57.238Z",
-      "_ts": "2026-07-15T06:59:58.179Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Measure sorel boots",
-      "_addedAt": "2026-07-15T07:00:08.039Z",
-      "_ts": "2026-07-15T07:00:08.299Z"
-    }
-  ],
-  "mirroredAt": "2026-07-15T07:00:22.314Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-07-15T07:00:56.942Z",
   "counts": {
-    "completions": 2,
-    "adds": 2
+    "completions": 0,
+    "adds": 0
   }
 }
