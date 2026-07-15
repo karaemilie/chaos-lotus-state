@@ -822,13 +822,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 391,
-      "sid": 391,
-      "label": "Calculate material for freezer",
-      "uid": "SPIN_WHEEL:391"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 392,
       "sid": 392,
       "label": "iColorCustom - install on Mac?",
@@ -943,10 +936,10 @@
       "uid": "SPIN_WHEEL:404"
     }
   ],
-  "version": 926,
-  "updated": "2026-07-15T06:05:27.423392+00:00",
+  "version": 927,
+  "updated": "2026-07-15T06:06:06.963773+00:00",
   "buckets": {
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 81,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
