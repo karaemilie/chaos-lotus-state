@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 396,
+      "label": "Order vitamin B & K",
+      "uid": "SPIN_WHEEL:396",
+      "_ts": "2026-07-15T04:32:11.989Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-15T04:13:01.441Z",
+  "mirroredAt": "2026-07-15T04:32:12.210Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-15T04:13:02.494798+00:00",
-  "lastAutoProcessed": [
-    "SPIN:357"
-  ]
+  }
 }
