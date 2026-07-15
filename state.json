@@ -934,12 +934,19 @@
       "sid": 403,
       "label": "Boxes for spice rack",
       "uid": "SPIN_WHEEL:403"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 404,
+      "sid": 404,
+      "label": "Use $30 gift card on Mercari!",
+      "uid": "SPIN_WHEEL:404"
     }
   ],
-  "version": 925,
-  "updated": "2026-07-15T04:32:26.063144+00:00",
+  "version": 926,
+  "updated": "2026-07-15T06:05:27.423392+00:00",
   "buckets": {
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 82,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
