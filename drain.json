@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 44,
+      "label": "Eval main floor coconut",
+      "uid": "SPIN:338",
+      "_ts": "2026-07-15T07:17:23.477Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-15T07:10:07.421Z",
+  "mirroredAt": "2026-07-15T07:17:23.746Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-15T07:10:08.283669+00:00",
-  "lastAutoProcessed": [
-    "SPIN:215"
-  ]
+  }
 }
