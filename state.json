@@ -22,13 +22,6 @@
       "uid": "SPIN:50"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 349,
-      "row": 50,
-      "label": "Measure foyer lamp height",
-      "uid": "SPIN:349"
-    },
-    {
       "source": "TASKS",
       "id": 10214,
       "row": 76,
@@ -933,10 +926,10 @@
       "uid": "SPIN_WHEEL:408"
     }
   ],
-  "version": 937,
-  "updated": "2026-07-15T07:17:36.699548+00:00",
+  "version": 938,
+  "updated": "2026-07-15T07:18:17.800002+00:00",
   "buckets": {
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 80,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
