@@ -952,12 +952,19 @@
       "sid": 414,
       "label": "Call dentist and pay",
       "uid": "SPIN_WHEEL:414"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 415,
+      "sid": 415,
+      "label": "Finish boxing spice racks",
+      "uid": "SPIN_WHEEL:415"
     }
   ],
-  "version": 945,
-  "updated": "2026-07-15T08:55:15.854697+00:00",
+  "version": 946,
+  "updated": "2026-07-15T08:58:45.575494+00:00",
   "buckets": {
-    "SPIN_WHEEL": 84,
+    "SPIN_WHEEL": 85,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
