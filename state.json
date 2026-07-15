@@ -939,12 +939,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10167"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 406,
+      "sid": 406,
+      "label": "Assess Mudroom fridge area for space to hang frame",
+      "uid": "SPIN_WHEEL:406"
     }
   ],
-  "version": 930,
-  "updated": "2026-07-15T06:51:21.809129+00:00",
+  "version": 931,
+  "updated": "2026-07-15T07:00:13.455574+00:00",
   "buckets": {
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 83,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
