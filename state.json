@@ -456,20 +456,6 @@
       "uid": "SPIN:348"
     },
     {
-      "source": "TASKS",
-      "id": 11774,
-      "row": 346,
-      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11774"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 330,
       "row": 36,
@@ -940,10 +926,23 @@
       "sid": 405,
       "label": "Install hue bulbs down down stairs",
       "uid": "SPIN_WHEEL:405"
+    },
+    {
+      "source": "TASKS",
+      "id": 10167,
+      "label": "\u2728 Clean filters in NuWave air purifier \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10167"
     }
   ],
-  "version": 929,
-  "updated": "2026-07-15T06:50:38.664945+00:00",
+  "version": 930,
+  "updated": "2026-07-15T06:51:21.809129+00:00",
   "buckets": {
     "SPIN_WHEEL": 82,
     "TASKS": 17,
