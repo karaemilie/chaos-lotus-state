@@ -8,10 +8,17 @@
       "_ts": "2026-07-15T07:17:23.477Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-15T07:17:23.746Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Research types of ladders",
+      "_addedAt": "2026-07-15T07:17:35.620Z",
+      "_ts": "2026-07-15T07:17:35.857Z"
+    }
+  ],
+  "mirroredAt": "2026-07-15T07:17:36.135Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
