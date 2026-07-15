@@ -1,9 +1,25 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-15T06:50:37.376Z",
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11774,
+      "row": 346,
+      "label": "✨ Pay Linda, Lindsey & Miriam for the week!",
+      "uid": "TASKS:11774",
+      "_ts": "2026-07-15T06:51:09.777Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Install hue bulbs down down stairs",
+      "_addedAt": "2026-07-15T06:50:21.623Z",
+      "_ts": "2026-07-15T06:50:22.110Z"
+    }
+  ],
+  "mirroredAt": "2026-07-15T06:51:10.040Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
