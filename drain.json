@@ -1,9 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 18,
+      "floor": "Upstairs",
+      "label": "🧺 My Bedroom",
+      "uid": "ZONES:18",
+      "_ts": "2026-07-15T03:56:57.530Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-14T20:41:21.225Z",
+  "mirroredAt": "2026-07-15T03:56:57.874Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
