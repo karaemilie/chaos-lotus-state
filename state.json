@@ -565,13 +565,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 357,
-      "row": 54,
-      "label": "Assess supplies to build spice rack",
-      "uid": "SPIN:357"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 174,
       "row": 12,
       "label": "Go through shorts/pants with Jake**",
@@ -950,10 +943,10 @@
       "uid": "SPIN_WHEEL:403"
     }
   ],
-  "version": 923,
-  "updated": "2026-07-15T04:02:22.604049+00:00",
+  "version": 924,
+  "updated": "2026-07-15T04:13:00.167831+00:00",
   "buckets": {
-    "SPIN_WHEEL": 83,
+    "SPIN_WHEEL": 82,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
