@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 422,
+      "label": "Set up new pura",
+      "uid": "SPIN_WHEEL:422",
+      "_ts": "2026-07-16T00:42:05.367Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-16T00:10:52.367Z",
+  "mirroredAt": "2026-07-16T00:42:05.614Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-16T00:10:53.489273+00:00",
-  "lastAutoProcessed": [
-    "SPIN:163"
-  ]
+  }
 }
