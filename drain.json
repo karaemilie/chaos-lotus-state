@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-16T00:42:20.439Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 422,
+      "label": "Set up new pura",
+      "uid": "SPIN_WHEEL:422",
+      "_ts": "2026-07-16T00:42:05.367Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Swap pura into music room",
+      "_addedAt": "2026-07-16T00:42:26.374Z",
+      "_ts": "2026-07-16T00:42:26.492Z"
+    }
+  ],
+  "mirroredAt": "2026-07-16T00:42:26.766Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-16T00:42:21.337948+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:422"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
