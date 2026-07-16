@@ -978,12 +978,19 @@
       "sid": 427,
       "label": "Refill Taha affair",
       "uid": "SPIN_WHEEL:427"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 428,
+      "sid": 428,
+      "label": "Fix front porch camera",
+      "uid": "SPIN_WHEEL:428"
     }
   ],
-  "version": 967,
-  "updated": "2026-07-16T01:49:54.349862+00:00",
+  "version": 968,
+  "updated": "2026-07-16T02:37:32.169218+00:00",
   "buckets": {
-    "SPIN_WHEEL": 88,
+    "SPIN_WHEEL": 89,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
