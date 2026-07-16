@@ -963,12 +963,19 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:11721"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 430,
+      "sid": 430,
+      "label": "Non slip and sand free door rug pad",
+      "uid": "SPIN_WHEEL:430"
     }
   ],
-  "version": 978,
-  "updated": "2026-07-16T22:38:00.590062+00:00",
+  "version": 979,
+  "updated": "2026-07-16T23:51:06.199021+00:00",
   "buckets": {
-    "SPIN_WHEEL": 86,
+    "SPIN_WHEEL": 87,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "COURAGE": 3,
