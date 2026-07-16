@@ -761,15 +761,6 @@
       "uid": "SPIN_WHEEL:404"
     },
     {
-      "source": "ZONES",
-      "zid": 86,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Eyebrows",
-      "uid": "ZONES:86"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 405,
       "sid": 405,
@@ -992,10 +983,19 @@
       "sid": 429,
       "label": "Order shoes and swimsuit for Lincoln",
       "uid": "SPIN_WHEEL:429"
+    },
+    {
+      "source": "ZONES",
+      "zid": 87,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Teeth Whitening",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Teeth Whitening",
+      "uid": "ZONES:87"
     }
   ],
-  "version": 969,
-  "updated": "2026-07-16T03:33:53.354980+00:00",
+  "version": 970,
+  "updated": "2026-07-16T06:34:15.549492+00:00",
   "buckets": {
     "SPIN_WHEEL": 90,
     "MAINTENANCE": 2,
