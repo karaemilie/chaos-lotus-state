@@ -964,12 +964,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:11487"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 425,
+      "sid": 425,
+      "label": "See if South has FLL class",
+      "uid": "SPIN_WHEEL:425"
     }
   ],
-  "version": 963,
-  "updated": "2026-07-16T00:52:36.930160+00:00",
+  "version": 964,
+  "updated": "2026-07-16T00:52:40.536538+00:00",
   "buckets": {
-    "SPIN_WHEEL": 86,
+    "SPIN_WHEEL": 87,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
