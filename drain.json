@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-16T01:49:53.382Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Fix front porch camera",
+      "_addedAt": "2026-07-16T02:37:19.242Z",
+      "_ts": "2026-07-16T02:37:19.353Z"
+    }
+  ],
+  "mirroredAt": "2026-07-16T02:37:19.631Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
