@@ -610,15 +610,6 @@
       "uid": "SPIN_WHEEL:387"
     },
     {
-      "source": "ZONES",
-      "zid": 62,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Messages",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Messages",
-      "uid": "ZONES:62"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 388,
       "sid": 388,
@@ -898,31 +889,11 @@
       "uid": "SPIN_WHEEL:424"
     },
     {
-      "source": "TASKS",
-      "id": 11487,
-      "label": "\u2728 Check if Mizuno GX Sonic 6 CR is back in stock (blue, size 24)",
-      "aw": 7,
-      "pri": "Sometime",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11487"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 425,
       "sid": 425,
       "label": "See if South has FLL class",
       "uid": "SPIN_WHEEL:425"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 426,
-      "sid": 426,
-      "label": "Try balloon tie-er",
-      "uid": "SPIN_WHEEL:426"
     },
     {
       "source": "SPIN_WHEEL",
@@ -984,12 +955,34 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:11737"
+    },
+    {
+      "source": "ZONES",
+      "zid": 64,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb OneTab",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "OneTab",
+      "uid": "ZONES:64"
+    },
+    {
+      "source": "TASKS",
+      "id": 11736,
+      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11736"
     }
   ],
-  "version": 974,
-  "updated": "2026-07-16T09:18:28.705420+00:00",
+  "version": 975,
+  "updated": "2026-07-16T09:19:21.851607+00:00",
   "buckets": {
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 88,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "COURAGE": 3,
