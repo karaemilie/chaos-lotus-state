@@ -484,20 +484,6 @@
       "uid": "SPIN:183"
     },
     {
-      "source": "TASKS",
-      "id": 10032,
-      "row": 9,
-      "label": "Research local robotics leagues for Evan \ud83d\udcdd",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": "High",
-      "ml": "Medium",
-      "proj": "Evan Activities",
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10032"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 374,
       "row": 59,
@@ -965,10 +951,23 @@
       "sid": 424,
       "label": "Ask Evan if he WANTS to do robotics ? Ask Lincoln ?",
       "uid": "SPIN_WHEEL:424"
+    },
+    {
+      "source": "TASKS",
+      "id": 11487,
+      "label": "\u2728 Check if Mizuno GX Sonic 6 CR is back in stock (blue, size 24)",
+      "aw": 7,
+      "pri": "Sometime",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11487"
     }
   ],
-  "version": 962,
-  "updated": "2026-07-16T00:51:56.429225+00:00",
+  "version": 963,
+  "updated": "2026-07-16T00:52:36.930160+00:00",
   "buckets": {
     "SPIN_WHEEL": 86,
     "MAINTENANCE": 2,
