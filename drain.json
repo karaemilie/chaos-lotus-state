@@ -6,6 +6,13 @@
       "label": "Sand railing",
       "uid": "SPIN:373",
       "_ts": "2026-07-16T00:44:51.021Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 57,
+      "label": "Add dead gang to daily list",
+      "uid": "SPIN:372",
+      "_ts": "2026-07-16T00:44:57.975Z"
     }
   ],
   "adds": [
@@ -16,9 +23,9 @@
       "_ts": "2026-07-16T00:44:48.235Z"
     }
   ],
-  "mirroredAt": "2026-07-16T00:44:51.263Z",
+  "mirroredAt": "2026-07-16T00:44:58.227Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 1
   }
 }
