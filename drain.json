@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-16T00:55:11.889Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Try balloon tie-er",
+      "_addedAt": "2026-07-16T01:29:58.735Z",
+      "_ts": "2026-07-16T01:29:59.386Z"
+    }
+  ],
+  "mirroredAt": "2026-07-16T01:29:59.747Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-16T00:55:12.961698+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:420"
-  ]
+    "adds": 1
+  }
 }
