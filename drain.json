@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-16T01:30:11.453Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Refill Taha affair",
+      "_addedAt": "2026-07-16T01:49:39.337Z",
+      "_ts": "2026-07-16T01:49:39.466Z"
+    }
+  ],
+  "mirroredAt": "2026-07-16T01:49:39.829Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
