@@ -125,13 +125,6 @@
       "uid": "SPIN:253"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 163,
-      "row": 10,
-      "label": "Email Lymow about antennas/moving + getting another \ud83d\udce7",
-      "uid": "SPIN:163"
-    },
-    {
       "source": "TASKS",
       "id": 10533,
       "row": 311,
@@ -975,10 +968,10 @@
       "uid": "ZONES:63"
     }
   ],
-  "version": 955,
-  "updated": "2026-07-16T00:10:03.683048+00:00",
+  "version": 956,
+  "updated": "2026-07-16T00:10:51.038561+00:00",
   "buckets": {
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 86,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
