@@ -146,13 +146,6 @@
       "uid": "SPIN:274"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 373,
-      "row": 58,
-      "label": "Sand railing",
-      "uid": "SPIN:373"
-    },
-    {
       "source": "TASKS",
       "id": 10503,
       "row": 122,
@@ -593,13 +586,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 372,
-      "row": 57,
-      "label": "Add dead gang to daily list",
-      "uid": "SPIN:372"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 186,
       "row": 14,
       "label": "posykin handle ** \ud83d\udcb8",
@@ -974,10 +960,10 @@
       "uid": "SPIN_WHEEL:423"
     }
   ],
-  "version": 960,
-  "updated": "2026-07-16T00:45:02.338978+00:00",
+  "version": 961,
+  "updated": "2026-07-16T00:45:41.023943+00:00",
   "buckets": {
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 85,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
