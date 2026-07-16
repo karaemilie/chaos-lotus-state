@@ -676,13 +676,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 399,
-      "sid": 399,
-      "label": "Wrap gifts",
-      "uid": "SPIN_WHEEL:399"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 400,
       "sid": 400,
       "label": "Try on sweater vests",
@@ -979,10 +972,10 @@
       "uid": "TASKS:11721"
     }
   ],
-  "version": 976,
-  "updated": "2026-07-16T22:36:31.260192+00:00",
+  "version": 977,
+  "updated": "2026-07-16T22:37:40.549655+00:00",
   "buckets": {
-    "SPIN_WHEEL": 88,
+    "SPIN_WHEEL": 87,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "COURAGE": 3,
