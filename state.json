@@ -620,15 +620,6 @@
       "uid": "SPIN_WHEEL:386"
     },
     {
-      "source": "ZONES",
-      "zid": 85,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Epilate Legs",
-      "uid": "ZONES:85"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 387,
       "sid": 387,
@@ -992,10 +983,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Teeth Whitening",
       "uid": "ZONES:87"
+    },
+    {
+      "source": "ZONES",
+      "zid": 88,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Feet Care & Pedi",
+      "uid": "ZONES:88"
     }
   ],
-  "version": 970,
-  "updated": "2026-07-16T06:34:15.549492+00:00",
+  "version": 971,
+  "updated": "2026-07-16T06:44:27.360914+00:00",
   "buckets": {
     "SPIN_WHEEL": 90,
     "MAINTENANCE": 2,
