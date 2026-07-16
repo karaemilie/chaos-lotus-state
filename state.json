@@ -939,13 +939,6 @@
       "uid": "SPIN_WHEEL:421"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 422,
-      "sid": 422,
-      "label": "Set up new pura",
-      "uid": "SPIN_WHEEL:422"
-    },
-    {
       "source": "TASKS",
       "id": 11502,
       "label": "\u2728 Review IXL assessments for Lincoln",
@@ -968,10 +961,10 @@
       "uid": "ZONES:63"
     }
   ],
-  "version": 956,
-  "updated": "2026-07-16T00:10:51.038561+00:00",
+  "version": 957,
+  "updated": "2026-07-16T00:42:19.222610+00:00",
   "buckets": {
-    "SPIN_WHEEL": 86,
+    "SPIN_WHEEL": 85,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
