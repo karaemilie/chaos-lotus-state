@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-16T00:51:55.575Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ask Evan if he WANTS to do robotics ? Ask Lincoln ?",
+      "_addedAt": "2026-07-16T00:51:43.095Z",
+      "_ts": "2026-07-16T00:51:43.675Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "See if South has FLL class",
+      "_addedAt": "2026-07-16T00:52:01.055Z",
+      "_ts": "2026-07-16T00:52:01.184Z"
+    }
+  ],
+  "mirroredAt": "2026-07-16T00:52:01.485Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
