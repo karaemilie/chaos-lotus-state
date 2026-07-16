@@ -1,14 +1,33 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 80,
+      "zid": 79,
+      "floor": "Plant",
+      "label": "🌱 Kitchen Up High",
+      "uid": "ZONES:79",
+      "_ts": "2026-07-16T09:16:50.202Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 31,
+      "label": "Jake signature page… **",
+      "uid": "SPIN:320",
+      "_ts": "2026-07-16T09:17:33.075Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11796,
+      "label": "✨ Mow the lawn 🌱",
+      "uid": "TASKS:11796",
+      "_ts": "2026-07-16T09:18:14.286Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-16T09:17:49.859Z",
+  "mirroredAt": "2026-07-16T09:18:14.596Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-07-16T09:17:50.789009+00:00",
-  "lastAutoProcessed": [
-    "ZONES:79",
-    "SPIN:320"
-  ]
+  }
 }
