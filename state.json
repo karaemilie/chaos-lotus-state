@@ -965,12 +965,19 @@
       "sid": 422,
       "label": "Swap pura into music room",
       "uid": "SPIN_WHEEL:422"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 423,
+      "sid": 423,
+      "label": "Grab cloth, heat gun, foam brush, & sanding sponge for railing project",
+      "uid": "SPIN_WHEEL:423"
     }
   ],
-  "version": 959,
-  "updated": "2026-07-16T00:43:00.037022+00:00",
+  "version": 960,
+  "updated": "2026-07-16T00:45:02.338978+00:00",
   "buckets": {
-    "SPIN_WHEEL": 86,
+    "SPIN_WHEEL": 87,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
