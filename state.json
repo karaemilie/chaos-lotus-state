@@ -964,12 +964,19 @@
       "sid": 425,
       "label": "See if South has FLL class",
       "uid": "SPIN_WHEEL:425"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 426,
+      "sid": 426,
+      "label": "Try balloon tie-er",
+      "uid": "SPIN_WHEEL:426"
     }
   ],
-  "version": 965,
-  "updated": "2026-07-16T00:55:10.548849+00:00",
+  "version": 966,
+  "updated": "2026-07-16T01:30:12.516960+00:00",
   "buckets": {
-    "SPIN_WHEEL": 86,
+    "SPIN_WHEEL": 87,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
