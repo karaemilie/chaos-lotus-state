@@ -639,13 +639,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 394,
-      "sid": 394,
-      "label": "Move foyer Scentsy to library",
-      "uid": "SPIN_WHEEL:394"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 395,
       "sid": 395,
       "label": "Load sticker software to Neo",
@@ -972,10 +965,10 @@
       "uid": "TASKS:11721"
     }
   ],
-  "version": 977,
-  "updated": "2026-07-16T22:37:40.549655+00:00",
+  "version": 978,
+  "updated": "2026-07-16T22:38:00.590062+00:00",
   "buckets": {
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 86,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "COURAGE": 3,
