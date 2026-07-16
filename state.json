@@ -401,24 +401,10 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 367,
-      "row": 56,
-      "label": "Return forms for spice racka",
-      "uid": "SPIN:367"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 220,
       "row": 17,
       "label": "Deploy chore app",
       "uid": "SPIN:220"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 348,
-      "row": 49,
-      "label": "Pay & submit AYO cost",
-      "uid": "SPIN:348"
     },
     {
       "source": "SPIN_WHEEL",
@@ -545,13 +531,6 @@
       "row": 59,
       "label": "Set up downstairs robot",
       "uid": "SPIN:374"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 352,
-      "row": 53,
-      "label": "Ask Lincoln about cake",
-      "uid": "SPIN:352"
     },
     {
       "source": "SPIN_WHEEL",
@@ -704,15 +683,6 @@
       "sid": 387,
       "label": "Check Genevieve AkAir acct wallet",
       "uid": "SPIN_WHEEL:387"
-    },
-    {
-      "source": "ZONES",
-      "zid": 61,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Reviews",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Reviews",
-      "uid": "ZONES:61"
     },
     {
       "source": "ZONES",
@@ -928,13 +898,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 414,
-      "sid": 414,
-      "label": "Call dentist and pay",
-      "uid": "SPIN_WHEEL:414"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 415,
       "sid": 415,
       "label": "Finish boxing spice racks",
@@ -1001,12 +964,21 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:11502"
+    },
+    {
+      "source": "ZONES",
+      "zid": 63,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Calls/Voicemail",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Calls/Voicemail",
+      "uid": "ZONES:63"
     }
   ],
-  "version": 954,
-  "updated": "2026-07-16T00:09:24.607819+00:00",
+  "version": 955,
+  "updated": "2026-07-16T00:10:03.683048+00:00",
   "buckets": {
-    "SPIN_WHEEL": 91,
+    "SPIN_WHEEL": 87,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9,
