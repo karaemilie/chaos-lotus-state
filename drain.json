@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 420,
+      "label": "Send Ruth mechanic recommendations",
+      "uid": "SPIN_WHEEL:420",
+      "_ts": "2026-07-16T00:54:55.357Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-16T00:52:39.449Z",
+  "mirroredAt": "2026-07-16T00:54:55.816Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
