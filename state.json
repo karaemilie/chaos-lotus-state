@@ -22,20 +22,6 @@
       "uid": "SPIN:50"
     },
     {
-      "source": "TASKS",
-      "id": 10214,
-      "row": 76,
-      "label": "Help Bentley record his service hours \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 45,
-      "ml": "Medium",
-      "proj": "Bentley Support",
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10214"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 335,
       "row": 41,
@@ -959,14 +945,27 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Calls/Voicemail",
       "uid": "ZONES:63"
+    },
+    {
+      "source": "TASKS",
+      "id": 11796,
+      "label": "\u2728 Mow the lawn \ud83c\udf31",
+      "aw": 3,
+      "pri": 3,
+      "dur": 45,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11796"
     }
   ],
-  "version": 957,
-  "updated": "2026-07-16T00:42:19.222610+00:00",
+  "version": 958,
+  "updated": "2026-07-16T00:42:56.228063+00:00",
   "buckets": {
     "SPIN_WHEEL": 85,
-    "TASKS": 17,
     "MAINTENANCE": 2,
+    "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3
   }
