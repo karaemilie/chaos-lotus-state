@@ -1,17 +1,47 @@
 {
   "completions": [
     {
+      "source": "ZONES",
+      "row": 80,
+      "zid": 79,
+      "floor": "Plant",
+      "label": "🌱 Kitchen Up High",
+      "uid": "ZONES:79",
+      "_ts": "2026-07-16T09:16:50.202Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 31,
+      "label": "Jake signature page… **",
+      "uid": "SPIN:320",
+      "_ts": "2026-07-16T09:17:33.075Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11796,
+      "label": "✨ Mow the lawn 🌱",
+      "uid": "TASKS:11796",
+      "_ts": "2026-07-16T09:18:14.286Z"
+    },
+    {
       "source": "TASKS",
       "id": 11487,
       "label": "✨ Check if Mizuno GX Sonic 6 CR is back in stock (blue, size 24)",
       "uid": "TASKS:11487",
       "_ts": "2026-07-16T09:18:27.002Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 426,
+      "label": "Try balloon tie-er",
+      "uid": "SPIN_WHEEL:426",
+      "_ts": "2026-07-16T09:18:33.349Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-16T09:18:31.001Z",
+  "mirroredAt": "2026-07-16T09:18:33.640Z",
   "counts": {
-    "completions": 1,
+    "completions": 5,
     "adds": 0
   }
 }
