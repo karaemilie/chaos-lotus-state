@@ -9,6 +9,13 @@
     },
     {
       "source": "SPIN_WHEEL",
+      "row": 411,
+      "label": "Get more balloon stuff",
+      "uid": "SPIN_WHEEL:411",
+      "_ts": "2026-07-16T00:08:39.530Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 414,
       "label": "Call dentist and pay",
       "uid": "SPIN_WHEEL:414",
@@ -21,12 +28,19 @@
       "label": "💻 Reviews",
       "uid": "ZONES:61",
       "_ts": "2026-07-16T00:09:14.321Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 53,
+      "label": "Ask Lincoln about cake",
+      "uid": "SPIN:352",
+      "_ts": "2026-07-16T00:09:26.796Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-16T00:09:25.643Z",
+  "mirroredAt": "2026-07-16T00:09:27.033Z",
   "counts": {
-    "completions": 3,
+    "completions": 5,
     "adds": 0
   }
 }
