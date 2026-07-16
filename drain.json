@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-16T00:45:42.035Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ask Evan if he WANTS to do robotics ? Ask Lincoln ?",
+      "_addedAt": "2026-07-16T00:51:43.095Z",
+      "_ts": "2026-07-16T00:51:43.675Z"
+    }
+  ],
+  "mirroredAt": "2026-07-16T00:51:44.066Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-16T00:45:42.709612+00:00",
-  "lastAutoProcessed": [
-    "SPIN:373",
-    "SPIN:372"
-  ]
+    "adds": 1
+  }
 }
