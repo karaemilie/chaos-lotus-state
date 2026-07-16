@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-16T02:37:31.313Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order shoes and swimsuit for Lincoln",
+      "_addedAt": "2026-07-16T03:33:40.309Z",
+      "_ts": "2026-07-16T03:33:40.450Z"
+    }
+  ],
+  "mirroredAt": "2026-07-16T03:33:40.734Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
