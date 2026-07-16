@@ -94,16 +94,6 @@
       "uid": "SPIN:347"
     },
     {
-      "source": "ZONES",
-      "zid": 79,
-      "floor": "Plant",
-      "row": 80,
-      "label": "\ud83c\udf31 Kitchen Up High",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Kitchen Up High",
-      "uid": "ZONES:79"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 253,
       "row": 20,
@@ -992,15 +982,24 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Feet Care & Pedi",
       "uid": "ZONES:88"
+    },
+    {
+      "source": "ZONES",
+      "zid": 74,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Plants",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Plants",
+      "uid": "ZONES:74"
     }
   ],
-  "version": 971,
-  "updated": "2026-07-16T06:44:27.360914+00:00",
+  "version": 972,
+  "updated": "2026-07-16T09:17:05.523144+00:00",
   "buckets": {
     "SPIN_WHEEL": 90,
     "MAINTENANCE": 2,
     "TASKS": 17,
-    "ZONES": 9,
-    "COURAGE": 3
+    "COURAGE": 3,
+    "ZONES": 9
   }
 }
