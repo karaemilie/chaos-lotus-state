@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 399,
+      "label": "Wrap gifts",
+      "uid": "SPIN_WHEEL:399",
+      "_ts": "2026-07-16T22:37:16.322Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-16T22:36:34.607Z",
+  "mirroredAt": "2026-07-16T22:37:16.576Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-16T22:36:35.759057+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11736"
-  ]
+  }
 }
