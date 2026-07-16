@@ -1,17 +1,31 @@
 {
   "completions": [
     {
+      "source": "TASKS",
+      "id": 11782,
+      "label": "✨ Clear the upstairs trashes",
+      "uid": "TASKS:11782",
+      "_ts": "2026-07-16T00:08:26.865Z"
+    },
+    {
       "source": "SPIN_WHEEL",
       "row": 411,
       "label": "Get more balloon stuff",
       "uid": "SPIN_WHEEL:411",
       "_ts": "2026-07-16T00:08:39.530Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 414,
+      "label": "Call dentist and pay",
+      "uid": "SPIN_WHEEL:414",
+      "_ts": "2026-07-16T00:08:46.606Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-16T00:08:44.793Z",
+  "mirroredAt": "2026-07-16T00:08:46.863Z",
   "counts": {
-    "completions": 1,
+    "completions": 3,
     "adds": 0
   }
 }
