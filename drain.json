@@ -1,9 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 399,
+      "label": "Wrap gifts",
+      "uid": "SPIN_WHEEL:399",
+      "_ts": "2026-07-16T22:37:16.322Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 394,
+      "label": "Move foyer Scentsy to library",
+      "uid": "SPIN_WHEEL:394",
+      "_ts": "2026-07-16T22:37:43.115Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-16T22:37:41.802Z",
+  "mirroredAt": "2026-07-16T22:37:43.384Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
   }
 }
