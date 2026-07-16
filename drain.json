@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 80,
+      "zid": 79,
+      "floor": "Plant",
+      "label": "🌱 Kitchen Up High",
+      "uid": "ZONES:79",
+      "_ts": "2026-07-16T09:16:50.202Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-16T06:44:28.763Z",
+  "mirroredAt": "2026-07-16T09:16:50.446Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-16T06:44:29.945751+00:00",
-  "lastAutoProcessed": [
-    "ZONES:85"
-  ]
+  }
 }
