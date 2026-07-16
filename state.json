@@ -958,12 +958,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11796"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 422,
+      "sid": 422,
+      "label": "Swap pura into music room",
+      "uid": "SPIN_WHEEL:422"
     }
   ],
-  "version": 958,
-  "updated": "2026-07-16T00:42:56.228063+00:00",
+  "version": 959,
+  "updated": "2026-07-16T00:43:00.037022+00:00",
   "buckets": {
-    "SPIN_WHEEL": 85,
+    "SPIN_WHEEL": 86,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
