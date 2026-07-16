@@ -877,19 +877,6 @@
       "uid": "ZONES:63"
     },
     {
-      "source": "TASKS",
-      "id": 11796,
-      "label": "\u2728 Mow the lawn \ud83c\udf31",
-      "aw": 3,
-      "pri": 3,
-      "dur": 45,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11796"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 422,
       "sid": 422,
@@ -984,10 +971,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Plants",
       "uid": "ZONES:74"
+    },
+    {
+      "source": "TASKS",
+      "id": 11737,
+      "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
+      "aw": 6,
+      "pri": "Medium",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11737"
     }
   ],
-  "version": 973,
-  "updated": "2026-07-16T09:17:48.836247+00:00",
+  "version": 974,
+  "updated": "2026-07-16T09:18:28.705420+00:00",
   "buckets": {
     "SPIN_WHEEL": 89,
     "MAINTENANCE": 2,
