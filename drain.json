@@ -1,13 +1,33 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 87,
+      "floor": "Personal",
+      "label": "👱‍♀️ Teeth Whitening",
+      "uid": "ZONES:87",
+      "_ts": "2026-07-17T01:52:56.233Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 63,
+      "floor": "Digital",
+      "label": "💻 Calls/Voicemail",
+      "uid": "ZONES:63",
+      "_ts": "2026-07-17T01:53:04.021Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 416,
+      "label": "Genevieve muffin / loaf pans",
+      "uid": "SPIN_WHEEL:416",
+      "_ts": "2026-07-17T01:53:57.047Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-17T01:53:54.358Z",
+  "mirroredAt": "2026-07-17T01:53:57.347Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-07-17T01:53:55.222872+00:00",
-  "lastAutoProcessed": [
-    "ZONES:63"
-  ]
+  }
 }
