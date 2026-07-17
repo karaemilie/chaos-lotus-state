@@ -955,12 +955,19 @@
       "row": 48,
       "label": "Mix up window cleaner",
       "uid": "SPIN:378"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 435,
+      "sid": 435,
+      "label": "Set up Cowork integration",
+      "uid": "SPIN_WHEEL:435"
     }
   ],
-  "version": 995,
-  "updated": "2026-07-17T07:37:41.369028+00:00",
+  "version": 996,
+  "updated": "2026-07-17T07:37:43.435580+00:00",
   "buckets": {
-    "SPIN_WHEEL": 86,
+    "SPIN_WHEEL": 87,
     "TASKS": 17,
     "COURAGE": 3,
     "MAINTENANCE": 2,
