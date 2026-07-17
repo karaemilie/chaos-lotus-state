@@ -798,13 +798,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 416,
-      "sid": 416,
-      "label": "Genevieve muffin / loaf pans",
-      "uid": "SPIN_WHEEL:416"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 417,
       "sid": 417,
       "label": "\ud83d\udd25 submit for AYO cost",
@@ -986,10 +979,10 @@
       "uid": "ZONES:65"
     }
   ],
-  "version": 983,
-  "updated": "2026-07-17T01:53:53.458987+00:00",
+  "version": 984,
+  "updated": "2026-07-17T01:54:19.538239+00:00",
   "buckets": {
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 88,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "COURAGE": 3,
