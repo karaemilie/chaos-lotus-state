@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-17T07:39:13.233Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Measure living roi",
+      "_addedAt": "2026-07-17T23:00:06.527Z",
+      "_ts": "2026-07-17T23:00:06.637Z"
+    }
+  ],
+  "mirroredAt": "2026-07-17T23:00:06.939Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
