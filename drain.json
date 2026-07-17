@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 65,
+      "label": "Load pillowcases",
+      "uid": "SPIN:383",
+      "_ts": "2026-07-17T05:24:45.949Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-17T05:24:11.749Z",
+  "mirroredAt": "2026-07-17T05:24:46.200Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-17T05:24:12.587639+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:432"
-  ]
+  }
 }
