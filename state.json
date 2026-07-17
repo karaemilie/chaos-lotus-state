@@ -976,12 +976,19 @@
       "sid": 433,
       "label": "Second sample coat boys room",
       "uid": "SPIN_WHEEL:433"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 434,
+      "sid": 434,
+      "label": "Returns to Subaru",
+      "uid": "SPIN_WHEEL:434"
     }
   ],
-  "version": 989,
-  "updated": "2026-07-17T05:09:15.327257+00:00",
+  "version": 990,
+  "updated": "2026-07-17T05:23:28.923487+00:00",
   "buckets": {
-    "SPIN_WHEEL": 88,
+    "SPIN_WHEEL": 89,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "COURAGE": 3,
