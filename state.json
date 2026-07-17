@@ -131,13 +131,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 385,
-      "row": 51,
-      "label": "Check garage wall for hole",
-      "uid": "SPIN:385"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 351,
       "row": 43,
       "label": "Order shoes for Lincoln?",
@@ -964,10 +957,10 @@
       "uid": "SPIN_WHEEL:435"
     }
   ],
-  "version": 996,
-  "updated": "2026-07-17T07:37:43.435580+00:00",
+  "version": 997,
+  "updated": "2026-07-17T07:38:23.287989+00:00",
   "buckets": {
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 86,
     "TASKS": 17,
     "COURAGE": 3,
     "MAINTENANCE": 2,
