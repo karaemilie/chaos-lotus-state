@@ -1,38 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 76,
-      "label": "Use Claude to add AYO to calendar",
-      "uid": "SPIN:418",
-      "_ts": "2026-07-17T07:37:29.325Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 51,
-      "label": "Check garage wall for hole",
-      "uid": "SPIN:385",
-      "_ts": "2026-07-17T07:38:03.963Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 84,
-      "label": "Order shoes and swimsuit for Lincoln",
-      "uid": "SPIN:429",
-      "_ts": "2026-07-17T07:38:12.907Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Order new swimsuit for Linc",
-      "_addedAt": "2026-07-17T07:38:23.769Z",
-      "_ts": "2026-07-17T07:38:23.880Z"
-    }
-  ],
-  "mirroredAt": "2026-07-17T07:38:24.127Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-07-17T07:39:13.233Z",
   "counts": {
-    "completions": 3,
-    "adds": 1
+    "completions": 0,
+    "adds": 0
   }
 }
