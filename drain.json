@@ -1,5 +1,12 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Measure living roi",
+      "uid": "PLUS_ADD:Measure living roi:2026-07-17T23:00:06.527Z",
+      "_ts": "2026-07-17T23:00:19.656Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -14,9 +21,9 @@
       "_ts": "2026-07-17T23:00:14.107Z"
     }
   ],
-  "mirroredAt": "2026-07-17T23:00:14.504Z",
+  "mirroredAt": "2026-07-17T23:00:19.915Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 2
   }
 }
