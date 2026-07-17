@@ -962,12 +962,19 @@
       "sid": 437,
       "label": "Measure living roi",
       "uid": "SPIN_WHEEL:437"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 438,
+      "sid": 438,
+      "label": "Measure living room windows",
+      "uid": "SPIN_WHEEL:438"
     }
   ],
-  "version": 1000,
-  "updated": "2026-07-17T23:00:27.504902+00:00",
+  "version": 1001,
+  "updated": "2026-07-17T23:01:19.045555+00:00",
   "buckets": {
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 88,
     "TASKS": 17,
     "COURAGE": 3,
     "MAINTENANCE": 2,
