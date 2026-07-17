@@ -729,15 +729,6 @@
       "uid": "SPIN_WHEEL:406"
     },
     {
-      "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 407,
       "sid": 407,
@@ -969,10 +960,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Due",
       "uid": "ZONES:66"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Main floor Down Low",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Main floor Down Low",
+      "uid": "ZONES:75"
     }
   ],
-  "version": 987,
-  "updated": "2026-07-17T03:45:55.015611+00:00",
+  "version": 988,
+  "updated": "2026-07-17T03:46:38.541931+00:00",
   "buckets": {
     "SPIN_WHEEL": 87,
     "MAINTENANCE": 2,
