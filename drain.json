@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-17T06:33:33.258Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 76,
+      "label": "Use Claude to add AYO to calendar",
+      "uid": "SPIN:418",
+      "_ts": "2026-07-17T07:37:29.325Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set up Cowork integration",
+      "_addedAt": "2026-07-17T06:33:33.158Z",
+      "_ts": "2026-07-17T06:33:33.281Z"
+    }
+  ],
+  "mirroredAt": "2026-07-17T07:37:29.546Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-17T06:33:34.231620+00:00",
-  "lastAutoProcessed": [
-    "ZONES:74"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
