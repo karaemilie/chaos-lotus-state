@@ -1,19 +1,6 @@
 {
-  "completions": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Measure living roi",
-      "uid": "PLUS_ADD:Measure living roi:2026-07-17T23:00:06.527Z",
-      "_ts": "2026-07-17T23:00:19.656Z"
-    }
-  ],
+  "completions": [],
   "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Measure living roi",
-      "_addedAt": "2026-07-17T23:00:06.527Z",
-      "_ts": "2026-07-17T23:00:06.637Z"
-    },
     {
       "source": "PLUS_ADD",
       "label": "Measure living room windows",
@@ -21,9 +8,9 @@
       "_ts": "2026-07-17T23:00:14.107Z"
     }
   ],
-  "mirroredAt": "2026-07-17T23:00:19.915Z",
+  "mirroredAt": "2026-07-17T23:00:26.246Z",
   "counts": {
-    "completions": 1,
-    "adds": 2
+    "completions": 0,
+    "adds": 1
   }
 }
