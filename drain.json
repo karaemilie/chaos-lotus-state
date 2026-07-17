@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 57,
+      "zid": 56,
+      "floor": "Basement",
+      "label": "🧺 Basement Bathroom",
+      "uid": "ZONES:56",
+      "_ts": "2026-07-17T03:10:48.640Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-17T01:56:53.150Z",
+  "mirroredAt": "2026-07-17T03:10:48.877Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-17T01:56:53.855776+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:421"
-  ]
+  }
 }
