@@ -162,16 +162,6 @@
       "uid": "COURAGE:10365:0"
     },
     {
-      "source": "ZONES",
-      "zid": 56,
-      "floor": "Basement",
-      "row": 57,
-      "label": "\ud83e\uddfa Basement Bathroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Bathroom",
-      "uid": "ZONES:56"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 337,
       "row": 43,
@@ -970,10 +960,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Emails",
       "uid": "ZONES:65"
+    },
+    {
+      "source": "ZONES",
+      "zid": 57,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Bar",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Bar",
+      "uid": "ZONES:57"
     }
   ],
-  "version": 985,
-  "updated": "2026-07-17T01:56:51.910198+00:00",
+  "version": 986,
+  "updated": "2026-07-17T03:11:02.594522+00:00",
   "buckets": {
     "SPIN_WHEEL": 87,
     "MAINTENANCE": 2,
