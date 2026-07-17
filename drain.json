@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-17T05:09:14.466Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Returns to Subaru",
+      "_addedAt": "2026-07-17T05:23:12.143Z",
+      "_ts": "2026-07-17T05:23:13.062Z"
+    }
+  ],
+  "mirroredAt": "2026-07-17T05:23:13.321Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
