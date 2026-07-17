@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 64,
+      "floor": "Digital",
+      "label": "💻 OneTab",
+      "uid": "ZONES:64",
+      "_ts": "2026-07-17T03:45:42.881Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-17T03:11:03.778Z",
+  "mirroredAt": "2026-07-17T03:45:43.134Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-17T03:11:04.660795+00:00",
-  "lastAutoProcessed": [
-    "ZONES:56"
-  ]
+  }
 }
