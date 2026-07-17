@@ -149,13 +149,6 @@
       "uid": "COURAGE:10218:0"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 429,
-      "row": 84,
-      "label": "Order shoes and swimsuit for Lincoln",
-      "uid": "SPIN:429"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 86,
       "row": 87,
@@ -957,10 +950,10 @@
       "uid": "SPIN_WHEEL:435"
     }
   ],
-  "version": 997,
-  "updated": "2026-07-17T07:38:23.287989+00:00",
+  "version": 998,
+  "updated": "2026-07-17T07:39:12.140106+00:00",
   "buckets": {
-    "SPIN_WHEEL": 86,
+    "SPIN_WHEEL": 85,
     "TASKS": 17,
     "COURAGE": 3,
     "MAINTENANCE": 2,
