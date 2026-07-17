@@ -863,15 +863,6 @@
       "uid": "ZONES:88"
     },
     {
-      "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Family Room Plants",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Plants",
-      "uid": "ZONES:74"
-    },
-    {
       "source": "TASKS",
       "id": 11737,
       "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
@@ -969,10 +960,19 @@
       "sid": 434,
       "label": "Returns to Subaru",
       "uid": "SPIN_WHEEL:434"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
     }
   ],
-  "version": 992,
-  "updated": "2026-07-17T05:24:58.746793+00:00",
+  "version": 993,
+  "updated": "2026-07-17T06:33:32.032462+00:00",
   "buckets": {
     "SPIN_WHEEL": 87,
     "MAINTENANCE": 2,
