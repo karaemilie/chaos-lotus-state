@@ -845,15 +845,6 @@
       "uid": "TASKS:11502"
     },
     {
-      "source": "ZONES",
-      "zid": 63,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Calls/Voicemail",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Calls/Voicemail",
-      "uid": "ZONES:63"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 422,
       "sid": 422,
@@ -984,10 +975,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Mask",
       "uid": "ZONES:89"
+    },
+    {
+      "source": "ZONES",
+      "zid": 65,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Emails",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Emails",
+      "uid": "ZONES:65"
     }
   ],
-  "version": 982,
-  "updated": "2026-07-17T01:53:09.835402+00:00",
+  "version": 983,
+  "updated": "2026-07-17T01:53:53.458987+00:00",
   "buckets": {
     "SPIN_WHEEL": 89,
     "MAINTENANCE": 2,
