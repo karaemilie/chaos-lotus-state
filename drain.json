@@ -1,9 +1,31 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-17T07:37:42.426Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 76,
+      "label": "Use Claude to add AYO to calendar",
+      "uid": "SPIN:418",
+      "_ts": "2026-07-17T07:37:29.325Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 51,
+      "label": "Check garage wall for hole",
+      "uid": "SPIN:385",
+      "_ts": "2026-07-17T07:38:03.963Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set up Cowork integration",
+      "_addedAt": "2026-07-17T06:33:33.158Z",
+      "_ts": "2026-07-17T06:33:33.281Z"
+    }
+  ],
+  "mirroredAt": "2026-07-17T07:38:04.218Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
