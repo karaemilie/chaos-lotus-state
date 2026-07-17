@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-17T03:46:39.619Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Second sample coat boys room",
+      "_addedAt": "2026-07-17T05:09:02.881Z",
+      "_ts": "2026-07-17T05:09:03.032Z"
+    }
+  ],
+  "mirroredAt": "2026-07-17T05:09:03.408Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-17T03:46:40.566856+00:00",
-  "lastAutoProcessed": [
-    "ZONES:73"
-  ]
+    "adds": 1
+  }
 }
