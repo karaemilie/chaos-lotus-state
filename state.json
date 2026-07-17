@@ -46,13 +46,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 383,
-      "row": 65,
-      "label": "Load pillowcases",
-      "uid": "SPIN:383"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 375,
       "row": 60,
       "label": "Measure already cut birch for closet *",
@@ -978,10 +971,10 @@
       "uid": "SPIN_WHEEL:434"
     }
   ],
-  "version": 991,
-  "updated": "2026-07-17T05:24:10.635939+00:00",
+  "version": 992,
+  "updated": "2026-07-17T05:24:58.746793+00:00",
   "buckets": {
-    "SPIN_WHEEL": 88,
+    "SPIN_WHEEL": 87,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "COURAGE": 3,
