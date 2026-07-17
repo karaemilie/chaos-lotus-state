@@ -901,15 +901,6 @@
       "uid": "TASKS:11737"
     },
     {
-      "source": "ZONES",
-      "zid": 64,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb OneTab",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "OneTab",
-      "uid": "ZONES:64"
-    },
-    {
       "source": "TASKS",
       "id": 11721,
       "label": "\u2728 Watch new content from Sabrina Ramonov \ud83c\udfa5",
@@ -969,10 +960,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Bar",
       "uid": "ZONES:57"
+    },
+    {
+      "source": "ZONES",
+      "zid": 66,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Due",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Due",
+      "uid": "ZONES:66"
     }
   ],
-  "version": 986,
-  "updated": "2026-07-17T03:11:02.594522+00:00",
+  "version": 987,
+  "updated": "2026-07-17T03:45:55.015611+00:00",
   "buckets": {
     "SPIN_WHEEL": 87,
     "MAINTENANCE": 2,
