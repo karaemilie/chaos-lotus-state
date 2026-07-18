@@ -1,36 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Third",
-      "uid": "PLUS_ADD:Third:2026-07-18T03:18:22.808Z",
-      "_ts": "2026-07-18T03:18:37.518Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 80,
-      "label": "Second sample coat boys room",
-      "uid": "SPIN:433",
-      "_ts": "2026-07-18T03:18:43.456Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Third",
-      "_addedAt": "2026-07-18T03:18:22.808Z",
-      "_ts": "2026-07-18T03:18:23.157Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Third coat boys room",
-      "_addedAt": "2026-07-18T03:18:29.828Z",
-      "_ts": "2026-07-18T03:18:30.222Z"
-    }
-  ],
-  "mirroredAt": "2026-07-18T03:18:43.722Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-07-18T03:19:29.688Z",
   "counts": {
-    "completions": 2,
-    "adds": 2
+    "completions": 0,
+    "adds": 0
   }
 }
