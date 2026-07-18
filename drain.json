@@ -5,6 +5,13 @@
       "label": "Third",
       "uid": "PLUS_ADD:Third:2026-07-18T03:18:22.808Z",
       "_ts": "2026-07-18T03:18:37.518Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 80,
+      "label": "Second sample coat boys room",
+      "uid": "SPIN:433",
+      "_ts": "2026-07-18T03:18:43.456Z"
     }
   ],
   "adds": [
@@ -21,9 +28,9 @@
       "_ts": "2026-07-18T03:18:30.222Z"
     }
   ],
-  "mirroredAt": "2026-07-18T03:18:37.763Z",
+  "mirroredAt": "2026-07-18T03:18:43.722Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 2
   }
 }
