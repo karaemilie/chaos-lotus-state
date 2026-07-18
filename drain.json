@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11615,
+      "row": 269,
+      "label": "⭐ Figure out next schedule for Evan's Create & Learn class 💻📅 🎯 First step: open the Create & Learn class calendar",
+      "uid": "TASKS:11615",
+      "_ts": "2026-07-18T02:20:20.990Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-18T02:15:45.482Z",
+  "mirroredAt": "2026-07-18T02:20:21.241Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-18T02:15:46.363748+00:00",
-  "lastAutoProcessed": [
-    "ZONES:65"
-  ]
+  }
 }
