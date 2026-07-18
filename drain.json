@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-18T03:59:04.142Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ten more minutes YouTube video",
+      "_addedAt": "2026-07-18T05:16:45.148Z",
+      "_ts": "2026-07-18T05:16:45.228Z"
+    }
+  ],
+  "mirroredAt": "2026-07-18T05:16:45.478Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-18T03:59:04.830127+00:00",
-  "lastAutoProcessed": [
-    "SPIN:313"
-  ]
+    "adds": 1
+  }
 }
