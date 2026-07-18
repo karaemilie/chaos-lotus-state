@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-18T00:30:55.792Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Next step iMessage a",
+      "_addedAt": "2026-07-18T01:04:06.149Z",
+      "_ts": "2026-07-18T01:04:06.359Z"
+    }
+  ],
+  "mirroredAt": "2026-07-18T01:04:06.640Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-18T00:30:56.684385+00:00",
-  "lastAutoProcessed": [
-    "SPIN:438"
-  ]
+    "adds": 1
+  }
 }
