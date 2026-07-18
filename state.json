@@ -43,16 +43,6 @@
       "uid": "SPIN:281"
     },
     {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "row": 77,
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10218,
       "parentRow": 75,
@@ -989,15 +979,24 @@
       "sid": 454,
       "label": "List wobble chairs",
       "uid": "SPIN_WHEEL:454"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
     }
   ],
-  "version": 1039,
-  "updated": "2026-07-18T05:38:46.307073+00:00",
+  "version": 1040,
+  "updated": "2026-07-18T06:06:38.753702+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 91,
-    "ZONES": 7,
     "COURAGE": 3,
+    "ZONES": 7,
     "MAINTENANCE": 2
   }
 }
