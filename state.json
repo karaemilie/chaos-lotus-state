@@ -547,20 +547,6 @@
       "uid": "SPIN:189"
     },
     {
-      "source": "TASKS",
-      "id": 11737,
-      "row": 316,
-      "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
-      "aw": 6,
-      "pri": "Medium",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11737"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 405,
       "row": 64,
@@ -969,10 +955,23 @@
       "sid": 439,
       "label": "\ud83d\udd25 opt out of B tuition insurance",
       "uid": "SPIN_WHEEL:439"
+    },
+    {
+      "source": "TASKS",
+      "id": 11791,
+      "label": "Call dentist about twins wisdom teeth \ud83d\udcde\ud83e\uddb7",
+      "aw": 3,
+      "pri": 3,
+      "dur": 10,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11791"
     }
   ],
-  "version": 1004,
-  "updated": "2026-07-18T00:18:54.805648+00:00",
+  "version": 1005,
+  "updated": "2026-07-18T00:19:32.904541+00:00",
   "buckets": {
     "ZONES": 7,
     "SPIN_WHEEL": 88,
