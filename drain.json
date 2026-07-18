@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11295,
+      "row": 223,
+      "label": "✨ Deep clean cat litter 🐱🧼",
+      "uid": "TASKS:11295",
+      "_ts": "2026-07-18T06:23:21.047Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-18T06:19:29.169Z",
+  "mirroredAt": "2026-07-18T06:23:21.403Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-18T06:19:29.867025+00:00",
-  "lastAutoProcessed": [
-    "SPIN:430"
-  ]
+  }
 }
