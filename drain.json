@@ -1,5 +1,14 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11737,
+      "row": 316,
+      "label": "✨ Help Evan plan a game night 🎲🎮",
+      "uid": "TASKS:11737",
+      "_ts": "2026-07-18T00:19:06.218Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -14,9 +23,9 @@
       "_ts": "2026-07-18T00:19:03.963Z"
     }
   ],
-  "mirroredAt": "2026-07-18T00:19:04.221Z",
+  "mirroredAt": "2026-07-18T00:19:06.484Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 2
   }
 }
