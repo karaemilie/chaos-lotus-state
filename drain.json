@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 61,
+      "label": "Research ladder typws",
+      "uid": "SPIN:402",
+      "_ts": "2026-07-18T02:05:30.286Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-18T01:33:33.655Z",
+  "mirroredAt": "2026-07-18T02:05:30.500Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-18T01:33:34.772205+00:00",
-  "lastAutoProcessed": [
-    "SPIN:404"
-  ]
+  }
 }
