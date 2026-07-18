@@ -1,15 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 63,
+      "label": "Use $30 gift card on Mercari!",
+      "uid": "SPIN:404",
+      "_ts": "2026-07-18T01:33:15.029Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-18T01:23:13.128Z",
+  "mirroredAt": "2026-07-18T01:33:15.254Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-18T01:23:13.846860+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:441",
-    "SPIN_WHEEL:442",
-    "SPIN:437"
-  ]
+  }
 }
