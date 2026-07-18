@@ -37,13 +37,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 423,
-      "row": 73,
-      "label": "Grab cloth, heat gun, foam brush, & sanding sponge for railing project",
-      "uid": "SPIN:423"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 281,
       "row": 25,
       "label": "WWAMI cost research",
@@ -991,11 +984,11 @@
       "uid": "SPIN_WHEEL:453"
     }
   ],
-  "version": 1037,
-  "updated": "2026-07-18T05:37:58.051512+00:00",
+  "version": 1038,
+  "updated": "2026-07-18T05:38:43.814623+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 91,
+    "SPIN_WHEEL": 90,
     "ZONES": 7,
     "COURAGE": 3,
     "MAINTENANCE": 2
