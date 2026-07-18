@@ -104,13 +104,6 @@
       "uid": "SPIN:408"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 392,
-      "row": 55,
-      "label": "iColorCustom - install on Mac?",
-      "uid": "SPIN:392"
-    },
-    {
       "source": "TASKS",
       "id": 10189,
       "row": 62,
@@ -390,13 +383,6 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:11802"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 397,
-      "row": 57,
-      "label": "Schedule piano tuner",
-      "uid": "SPIN:397"
     },
     {
       "source": "SPIN_WHEEL",
@@ -946,11 +932,11 @@
       "uid": "SPIN_WHEEL:457"
     }
   ],
-  "version": 1051,
-  "updated": "2026-07-18T08:17:53.513200+00:00",
+  "version": 1052,
+  "updated": "2026-07-18T08:18:53.730939+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 85,
+    "SPIN_WHEEL": 83,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2
