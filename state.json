@@ -55,20 +55,6 @@
       "uid": "COURAGE:10218:0"
     },
     {
-      "source": "TASKS",
-      "id": 11295,
-      "row": 223,
-      "label": "\u2728 Deep clean cat litter \ud83d\udc31\ud83e\uddfc",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11295"
-    },
-    {
       "source": "ZONES",
       "zid": 57,
       "floor": "Basement",
@@ -974,10 +960,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook B",
       "uid": "ZONES:77"
+    },
+    {
+      "source": "TASKS",
+      "id": 10124,
+      "label": "Go through garage shoes with Evan \ud83d\udcdd",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": "Garage Organization",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10124"
     }
   ],
-  "version": 1042,
-  "updated": "2026-07-18T06:19:28.310392+00:00",
+  "version": 1043,
+  "updated": "2026-07-18T06:23:34.125471+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 89,
