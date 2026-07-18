@@ -975,13 +975,20 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Mask",
       "uid": "ZONES:89"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 449,
+      "sid": 449,
+      "label": "Bring sander up",
+      "uid": "SPIN_WHEEL:449"
     }
   ],
-  "version": 1027,
-  "updated": "2026-07-18T03:48:57.453750+00:00",
+  "version": 1028,
+  "updated": "2026-07-18T03:49:43.309266+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 90,
     "ZONES": 7,
     "COURAGE": 3,
     "MAINTENANCE": 2
