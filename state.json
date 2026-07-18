@@ -528,13 +528,6 @@
       "uid": "SPIN:319"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 431,
-      "row": 79,
-      "label": "Work on windowsill tray",
-      "uid": "SPIN:431"
-    },
-    {
       "source": "ZONES",
       "zid": 66,
       "floor": "Digital",
@@ -988,11 +981,11 @@
       "uid": "SPIN_WHEEL:457"
     }
   ],
-  "version": 1047,
-  "updated": "2026-07-18T07:42:54.312184+00:00",
+  "version": 1048,
+  "updated": "2026-07-18T08:16:02.263477+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 91,
+    "SPIN_WHEEL": 90,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2
