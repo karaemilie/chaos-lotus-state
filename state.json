@@ -968,13 +968,20 @@
       "cat": "Kids",
       "critical": false,
       "uid": "TASKS:11791"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 440,
+      "sid": 440,
+      "label": "Send a game night note about next weekend for Evan",
+      "uid": "SPIN_WHEEL:440"
     }
   ],
-  "version": 1005,
-  "updated": "2026-07-18T00:19:32.904541+00:00",
+  "version": 1006,
+  "updated": "2026-07-18T00:19:35.872615+00:00",
   "buckets": {
     "ZONES": 7,
-    "SPIN_WHEEL": 88,
+    "SPIN_WHEEL": 89,
     "TASKS": 17,
     "COURAGE": 3,
     "MAINTENANCE": 2
