@@ -930,13 +930,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 437,
-      "row": 87,
-      "label": "Measure living roi",
-      "uid": "SPIN:437"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 374,
       "row": 44,
       "label": "Set up downstairs robot",
@@ -971,24 +964,17 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 442,
-      "sid": 442,
-      "label": "Claude i",
-      "uid": "SPIN_WHEEL:442"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 443,
       "sid": 443,
       "label": "Claude iMessage extension",
       "uid": "SPIN_WHEEL:443"
     }
   ],
-  "version": 1010,
-  "updated": "2026-07-18T01:22:34.323940+00:00",
+  "version": 1011,
+  "updated": "2026-07-18T01:23:12.199908+00:00",
   "buckets": {
     "ZONES": 7,
-    "SPIN_WHEEL": 90,
+    "SPIN_WHEEL": 88,
     "TASKS": 17,
     "COURAGE": 3,
     "MAINTENANCE": 2
