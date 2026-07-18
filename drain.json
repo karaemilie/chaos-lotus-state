@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-18T02:20:38.265Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Push pins",
+      "_addedAt": "2026-07-18T02:31:21.698Z",
+      "_ts": "2026-07-18T02:31:21.974Z"
+    }
+  ],
+  "mirroredAt": "2026-07-18T02:31:22.228Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-18T02:20:39.178486+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11615"
-  ]
+    "adds": 1
+  }
 }
