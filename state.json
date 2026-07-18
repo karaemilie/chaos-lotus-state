@@ -588,16 +588,6 @@
       "uid": "TASKS:10172"
     },
     {
-      "source": "ZONES",
-      "zid": 65,
-      "floor": "Digital",
-      "row": 66,
-      "label": "\ud83d\udcbb Emails",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Emails",
-      "uid": "ZONES:65"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 347,
       "row": 40,
@@ -955,10 +945,19 @@
       "sid": 444,
       "label": "Robinhood and AI trading?",
       "uid": "SPIN_WHEEL:444"
+    },
+    {
+      "source": "ZONES",
+      "zid": 66,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Due",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Due",
+      "uid": "ZONES:66"
     }
   ],
-  "version": 1017,
-  "updated": "2026-07-18T02:14:39.696077+00:00",
+  "version": 1018,
+  "updated": "2026-07-18T02:15:44.566263+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 86,
