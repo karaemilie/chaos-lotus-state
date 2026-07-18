@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-18T05:18:50.266Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 56,
+      "label": "Load sticker software to Neo",
+      "uid": "SPIN:395",
+      "_ts": "2026-07-18T05:18:33.207Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Try Claude suggested path to reach custom cut software",
+      "_addedAt": "2026-07-18T05:18:53.510Z",
+      "_ts": "2026-07-18T05:18:53.574Z"
+    }
+  ],
+  "mirroredAt": "2026-07-18T05:18:53.817Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-18T05:18:51.210314+00:00",
-  "lastAutoProcessed": [
-    "SPIN:395"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
