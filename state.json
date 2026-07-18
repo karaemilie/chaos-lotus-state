@@ -23,13 +23,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 313,
-      "row": 26,
-      "label": "List my classical academic press books \ud83d\udcb8",
-      "uid": "SPIN:313"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 189,
       "row": 14,
       "label": "Pin living room curtains to right length",
@@ -984,11 +977,11 @@
       "uid": "SPIN_WHEEL:449"
     }
   ],
-  "version": 1028,
-  "updated": "2026-07-18T03:49:43.309266+00:00",
+  "version": 1029,
+  "updated": "2026-07-18T03:59:02.819299+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 90,
+    "SPIN_WHEEL": 89,
     "ZONES": 7,
     "COURAGE": 3,
     "MAINTENANCE": 2
