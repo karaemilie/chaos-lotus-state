@@ -975,13 +975,20 @@
       "sid": 449,
       "label": "Bring sander up",
       "uid": "SPIN_WHEEL:449"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 450,
+      "sid": 450,
+      "label": "Ten more minutes YouTube video",
+      "uid": "SPIN_WHEEL:450"
     }
   ],
-  "version": 1029,
-  "updated": "2026-07-18T03:59:02.819299+00:00",
+  "version": 1030,
+  "updated": "2026-07-18T05:17:00.715665+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 90,
     "ZONES": 7,
     "COURAGE": 3,
     "MAINTENANCE": 2
