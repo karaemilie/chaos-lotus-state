@@ -10,10 +10,17 @@
       "_ts": "2026-07-18T03:48:43.559Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-18T03:48:43.812Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Bring sander up",
+      "_addedAt": "2026-07-18T03:48:51.420Z",
+      "_ts": "2026-07-18T03:48:51.748Z"
+    }
+  ],
+  "mirroredAt": "2026-07-18T03:48:52.029Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
