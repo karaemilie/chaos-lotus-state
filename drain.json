@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 88,
+      "label": "Measure living room windows",
+      "uid": "SPIN:438",
+      "_ts": "2026-07-18T00:30:43.061Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-18T00:19:35.029Z",
+  "mirroredAt": "2026-07-18T00:30:43.319Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
