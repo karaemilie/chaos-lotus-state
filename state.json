@@ -37,13 +37,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 395,
-      "row": 56,
-      "label": "Load sticker software to Neo",
-      "uid": "SPIN:395"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 422,
       "row": 72,
       "label": "Swap pura into music room",
@@ -984,11 +977,11 @@
       "uid": "SPIN_WHEEL:450"
     }
   ],
-  "version": 1030,
-  "updated": "2026-07-18T05:17:00.715665+00:00",
+  "version": 1031,
+  "updated": "2026-07-18T05:18:49.103533+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 90,
+    "SPIN_WHEEL": 89,
     "ZONES": 7,
     "COURAGE": 3,
     "MAINTENANCE": 2
