@@ -56,13 +56,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 334,
-      "row": 35,
-      "label": "Plant one of the raspberries!! **",
-      "uid": "SPIN:334"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 107,
       "row": 8,
       "label": "Call Chase about credit card wrong balance",
@@ -995,11 +988,11 @@
       "uid": "SPIN_WHEEL:457"
     }
   ],
-  "version": 1046,
-  "updated": "2026-07-18T07:42:16.067701+00:00",
+  "version": 1047,
+  "updated": "2026-07-18T07:42:54.312184+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 92,
+    "SPIN_WHEEL": 91,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2
