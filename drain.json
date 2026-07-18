@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-18T05:34:39.904Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 72,
+      "label": "Swap pura into music room",
+      "uid": "SPIN:422",
+      "_ts": "2026-07-18T05:34:23.413Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Outlet extender",
+      "_addedAt": "2026-07-18T05:35:13.141Z",
+      "_ts": "2026-07-18T05:35:13.299Z"
+    }
+  ],
+  "mirroredAt": "2026-07-18T05:35:13.543Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-18T05:34:40.767100+00:00",
-  "lastAutoProcessed": [
-    "SPIN:422"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
