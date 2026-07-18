@@ -1,14 +1,45 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 79,
+      "label": "Work on windowsill tray",
+      "uid": "SPIN:431",
+      "_ts": "2026-07-18T08:15:47.500Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 445,
+      "label": "Push pins",
+      "uid": "SPIN_WHEEL:445",
+      "_ts": "2026-07-18T08:16:27.120Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 446,
+      "label": "Push pin to mount dragon fly",
+      "uid": "SPIN_WHEEL:446",
+      "_ts": "2026-07-18T08:16:31.140Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 447,
+      "label": "Third",
+      "uid": "SPIN_WHEEL:447",
+      "_ts": "2026-07-18T08:16:35.092Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 454,
+      "label": "List wobble chairs",
+      "uid": "SPIN_WHEEL:454",
+      "_ts": "2026-07-18T08:16:52.235Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-18T08:16:41.853Z",
+  "mirroredAt": "2026-07-18T08:16:52.483Z",
   "counts": {
-    "completions": 0,
+    "completions": 5,
     "adds": 0
-  },
-  "processedAt": "2026-07-18T08:16:42.814224+00:00",
-  "lastAutoProcessed": [
-    "SPIN:431",
-    "SPIN_WHEEL:445"
-  ]
+  }
 }
