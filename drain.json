@@ -8,10 +8,23 @@
       "_ts": "2026-07-18T05:37:44.194Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-18T05:37:56.757Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Paint a railing section",
+      "_addedAt": "2026-07-18T05:37:40.067Z",
+      "_ts": "2026-07-18T05:37:40.394Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "List wobble chairs",
+      "_addedAt": "2026-07-18T05:38:00.010Z",
+      "_ts": "2026-07-18T05:38:00.038Z"
+    }
+  ],
+  "mirroredAt": "2026-07-18T05:38:00.297Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 2
   }
 }
