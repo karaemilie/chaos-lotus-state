@@ -1,41 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Next step iMessage a",
-      "uid": "PLUS_ADD:Next step iMessage a:2026-07-18T01:04:06.149Z",
-      "_ts": "2026-07-18T01:04:36.029Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Claude i",
-      "uid": "PLUS_ADD:Claude i:2026-07-18T01:04:10.512Z",
-      "_ts": "2026-07-18T01:04:39.884Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Next step iMessage a",
-      "_addedAt": "2026-07-18T01:04:06.149Z",
-      "_ts": "2026-07-18T01:04:06.359Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Claude i",
-      "_addedAt": "2026-07-18T01:04:10.512Z",
-      "_ts": "2026-07-18T01:04:10.653Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Claude iMessage extension",
-      "_addedAt": "2026-07-18T01:04:23.067Z",
-      "_ts": "2026-07-18T01:04:23.274Z"
-    }
-  ],
-  "mirroredAt": "2026-07-18T01:04:40.137Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-07-18T01:05:02.060Z",
   "counts": {
-    "completions": 2,
-    "adds": 3
+    "completions": 0,
+    "adds": 0
   }
 }
