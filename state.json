@@ -22,16 +22,6 @@
       "uid": "SPIN:444"
     },
     {
-      "source": "ZONES",
-      "zid": 88,
-      "floor": "Personal",
-      "row": 89,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Feet Care & Pedi",
-      "uid": "ZONES:88"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 313,
       "row": 26,
@@ -976,10 +966,19 @@
       "sid": 448,
       "label": "Third coat boys room",
       "uid": "SPIN_WHEEL:448"
+    },
+    {
+      "source": "ZONES",
+      "zid": 89,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Mask",
+      "uid": "ZONES:89"
     }
   ],
-  "version": 1026,
-  "updated": "2026-07-18T03:19:30.733350+00:00",
+  "version": 1027,
+  "updated": "2026-07-18T03:48:57.453750+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 89,
