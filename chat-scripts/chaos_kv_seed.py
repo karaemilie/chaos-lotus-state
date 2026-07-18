@@ -384,6 +384,12 @@ def build_seed(beast_path=None, today=None, courage_micros=None):
         _lbl = t["label"]
         if t.get("recurring") and not str(_lbl).startswith("✨"):
             _lbl = f"✨ {_lbl}"
+        # ⭐ marks tasks that come from the actual HiveBrain (planned/scheduled work)
+        # vs. spontaneous spin/zone items — but ONLY if the label doesn't already
+        # carry another marker (✨ recurring · 🐸 frog · 🔥 courage · 💸 business).
+        # One badge per task: an existing marker already signals "from HiveBrain."
+        if not str(_lbl).lstrip().startswith(("⭐", "✨", "🐸", "🔥", "💸")):
+            _lbl = f"⭐ {_lbl}"
         all_tasks.append({
             "source": "TASKS",
             "id": t["id"],
