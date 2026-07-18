@@ -1,6 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Third",
+      "uid": "PLUS_ADD:Third:2026-07-18T03:18:22.808Z",
+      "_ts": "2026-07-18T03:18:37.518Z"
+    }
+  ],
   "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Third",
+      "_addedAt": "2026-07-18T03:18:22.808Z",
+      "_ts": "2026-07-18T03:18:23.157Z"
+    },
     {
       "source": "PLUS_ADD",
       "label": "Third coat boys room",
@@ -8,9 +21,9 @@
       "_ts": "2026-07-18T03:18:30.222Z"
     }
   ],
-  "mirroredAt": "2026-07-18T03:18:35.850Z",
+  "mirroredAt": "2026-07-18T03:18:37.763Z",
   "counts": {
-    "completions": 0,
-    "adds": 1
+    "completions": 1,
+    "adds": 2
   }
 }
