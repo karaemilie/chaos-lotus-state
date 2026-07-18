@@ -1,17 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-18T06:24:12.892Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Jake USF fall check - $852 on Gemini card",
+      "_addedAt": "2026-07-18T07:41:20.747Z",
+      "_ts": "2026-07-18T07:41:20.858Z"
+    }
+  ],
+  "mirroredAt": "2026-07-18T07:41:21.149Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-18T06:24:13.651814+00:00",
-  "lastAutoProcessed": [
-    "ZONES:57",
-    "TASKS:11295"
-  ],
-  "autoReset": [
-    "Basement"
-  ]
+    "adds": 1
+  }
 }
