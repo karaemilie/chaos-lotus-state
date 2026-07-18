@@ -876,13 +876,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 433,
-      "row": 80,
-      "label": "Second sample coat boys room",
-      "uid": "SPIN:433"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 4,
       "row": 2,
       "label": "Review building permit posted",
@@ -978,11 +971,11 @@
       "uid": "SPIN_WHEEL:447"
     }
   ],
-  "version": 1024,
-  "updated": "2026-07-18T03:18:37.074365+00:00",
+  "version": 1025,
+  "updated": "2026-07-18T03:19:28.743417+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 88,
     "ZONES": 7,
     "COURAGE": 3,
     "MAINTENANCE": 2
