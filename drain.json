@@ -2,16 +2,30 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
+      "row": 441,
+      "label": "Next step iMessage a",
+      "uid": "SPIN_WHEEL:441",
+      "_ts": "2026-07-18T01:22:20.868Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 442,
       "label": "Claude i",
       "uid": "SPIN_WHEEL:442",
       "_ts": "2026-07-18T01:22:28.267Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 87,
+      "label": "Measure living roi",
+      "uid": "SPIN:437",
+      "_ts": "2026-07-18T01:22:45.799Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-18T01:22:35.329Z",
+  "mirroredAt": "2026-07-18T01:22:46.195Z",
   "counts": {
-    "completions": 1,
+    "completions": 3,
     "adds": 0
   }
 }
