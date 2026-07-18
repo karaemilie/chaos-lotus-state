@@ -1,13 +1,27 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11295,
+      "row": 223,
+      "label": "✨ Deep clean cat litter 🐱🧼",
+      "uid": "TASKS:11295",
+      "_ts": "2026-07-18T06:23:21.047Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 58,
+      "zid": 57,
+      "floor": "Basement",
+      "label": "🧺 Basement Bar",
+      "uid": "ZONES:57",
+      "_ts": "2026-07-18T06:23:58.770Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-18T06:23:36.335Z",
+  "mirroredAt": "2026-07-18T06:23:58.995Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-18T06:23:37.080855+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11295"
-  ]
+  }
 }
