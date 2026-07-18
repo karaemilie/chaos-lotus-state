@@ -851,13 +851,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 445,
-      "sid": 445,
-      "label": "Push pins",
-      "uid": "SPIN_WHEEL:445"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 446,
       "sid": 446,
       "label": "Push pin to mount dragon fly",
@@ -981,11 +974,11 @@
       "uid": "SPIN_WHEEL:457"
     }
   ],
-  "version": 1048,
-  "updated": "2026-07-18T08:16:02.263477+00:00",
+  "version": 1049,
+  "updated": "2026-07-18T08:16:40.781765+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 90,
+    "SPIN_WHEEL": 89,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2
