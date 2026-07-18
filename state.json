@@ -713,13 +713,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 330,
-      "row": 32,
-      "label": "Clean robot water tank",
-      "uid": "SPIN:330"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 374,
       "row": 44,
       "label": "Set up downstairs robot",
@@ -953,11 +946,11 @@
       "uid": "SPIN_WHEEL:457"
     }
   ],
-  "version": 1050,
-  "updated": "2026-07-18T08:17:12.254097+00:00",
+  "version": 1051,
+  "updated": "2026-07-18T08:17:53.513200+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 86,
+    "SPIN_WHEEL": 85,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2
