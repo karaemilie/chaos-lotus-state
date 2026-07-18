@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 51,
+      "label": "Check Genevieve AkAir acct wallet",
+      "uid": "SPIN:387",
+      "_ts": "2026-07-18T06:08:26.163Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-18T06:06:39.921Z",
+  "mirroredAt": "2026-07-18T06:08:26.533Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-18T06:06:40.897826+00:00",
-  "lastAutoProcessed": [
-    "ZONES:76"
-  ]
+  }
 }
