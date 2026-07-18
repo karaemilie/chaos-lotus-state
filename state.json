@@ -899,13 +899,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 438,
-      "row": 88,
-      "label": "Measure living room windows",
-      "uid": "SPIN:438"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 375,
       "row": 45,
       "label": "Measure already cut birch for closet *",
@@ -977,11 +970,11 @@
       "uid": "SPIN_WHEEL:440"
     }
   ],
-  "version": 1006,
-  "updated": "2026-07-18T00:19:35.872615+00:00",
+  "version": 1007,
+  "updated": "2026-07-18T00:30:54.826799+00:00",
   "buckets": {
     "ZONES": 7,
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 88,
     "TASKS": 17,
     "COURAGE": 3,
     "MAINTENANCE": 2
