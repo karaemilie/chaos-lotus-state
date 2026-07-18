@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-18T02:07:18.554Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Robinhood and AI trading?",
+      "_addedAt": "2026-07-18T02:14:24.640Z",
+      "_ts": "2026-07-18T02:14:24.951Z"
+    }
+  ],
+  "mirroredAt": "2026-07-18T02:14:25.227Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-18T02:07:19.387576+00:00",
-  "lastAutoProcessed": [
-    "SPIN:413"
-  ]
+    "adds": 1
+  }
 }
