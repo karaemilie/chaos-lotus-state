@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 78,
+      "label": "Non slip and sand free door rug pad",
+      "uid": "SPIN:430",
+      "_ts": "2026-07-18T06:19:14.587Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-18T06:08:38.485Z",
+  "mirroredAt": "2026-07-18T06:19:14.792Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-18T06:08:39.152330+00:00",
-  "lastAutoProcessed": [
-    "SPIN:387"
-  ]
+  }
 }
