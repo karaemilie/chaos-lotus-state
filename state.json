@@ -851,20 +851,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 446,
-      "sid": 446,
-      "label": "Push pin to mount dragon fly",
-      "uid": "SPIN_WHEEL:446"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 447,
-      "sid": 447,
-      "label": "Third",
-      "uid": "SPIN_WHEEL:447"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 448,
       "sid": 448,
       "label": "Third coat boys room",
@@ -913,13 +899,6 @@
       "sid": 453,
       "label": "Paint a railing section",
       "uid": "SPIN_WHEEL:453"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 454,
-      "sid": 454,
-      "label": "List wobble chairs",
-      "uid": "SPIN_WHEEL:454"
     },
     {
       "source": "ZONES",
@@ -974,11 +953,11 @@
       "uid": "SPIN_WHEEL:457"
     }
   ],
-  "version": 1049,
-  "updated": "2026-07-18T08:16:40.781765+00:00",
+  "version": 1050,
+  "updated": "2026-07-18T08:17:12.254097+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 86,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2
