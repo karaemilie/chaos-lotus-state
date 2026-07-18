@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 69,
+      "label": "Set up Claude to handle my iMessages",
+      "uid": "SPIN:413",
+      "_ts": "2026-07-18T02:07:00.558Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-18T02:05:44.383Z",
+  "mirroredAt": "2026-07-18T02:07:00.919Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-18T02:05:45.227417+00:00",
-  "lastAutoProcessed": [
-    "SPIN:402"
-  ]
+  }
 }
