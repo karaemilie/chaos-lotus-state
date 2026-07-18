@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 35,
+      "label": "Plant one of the raspberries!! **",
+      "uid": "SPIN:334",
+      "_ts": "2026-07-18T07:42:06.277Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -20,9 +28,9 @@
       "_ts": "2026-07-18T07:41:59.677Z"
     }
   ],
-  "mirroredAt": "2026-07-18T07:41:59.973Z",
+  "mirroredAt": "2026-07-18T07:42:06.499Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 3
   }
 }
