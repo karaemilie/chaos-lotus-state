@@ -930,13 +930,20 @@
       "sid": 457,
       "label": "Vetch work",
       "uid": "SPIN_WHEEL:457"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 458,
+      "sid": 458,
+      "label": "Try me new .edu apps ** (Nibble, etc)",
+      "uid": "SPIN_WHEEL:458"
     }
   ],
-  "version": 1052,
-  "updated": "2026-07-18T08:18:53.730939+00:00",
+  "version": 1053,
+  "updated": "2026-07-19T00:35:31.863944+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 83,
+    "SPIN_WHEEL": 84,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2
