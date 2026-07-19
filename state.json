@@ -104,20 +104,6 @@
       "uid": "SPIN:408"
     },
     {
-      "source": "TASKS",
-      "id": 10189,
-      "row": 62,
-      "label": "\u2b50 Try out Nibble app - see if good for teaching logic \ud83d\udcdd",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10189"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 375,
       "row": 45,
@@ -937,10 +923,23 @@
       "sid": 458,
       "label": "Try me new .edu apps ** (Nibble, etc)",
       "uid": "SPIN_WHEEL:458"
+    },
+    {
+      "source": "TASKS",
+      "id": 11704,
+      "label": "\u2728 Throw cat fountain in dishwasher \ud83d\udc31\ud83e\udee7",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11704"
     }
   ],
-  "version": 1053,
-  "updated": "2026-07-19T00:35:31.863944+00:00",
+  "version": 1054,
+  "updated": "2026-07-19T00:36:09.384963+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 84,
