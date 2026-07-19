@@ -934,12 +934,19 @@
       "row": 25,
       "label": "Next window film! **",
       "uid": "SPIN:319"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 460,
+      "sid": 460,
+      "label": "Return labels for sweater vests",
+      "uid": "SPIN_WHEEL:460"
     }
   ],
-  "version": 1059,
-  "updated": "2026-07-19T01:09:12.684595+00:00",
+  "version": 1060,
+  "updated": "2026-07-19T01:09:14.634416+00:00",
   "buckets": {
-    "SPIN_WHEEL": 83,
+    "SPIN_WHEEL": 84,
     "ZONES": 7,
     "TASKS": 17,
     "COURAGE": 3,
