@@ -1,15 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-18T08:18:54.676Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Try me new .edu apps ** (Nibble, etc)",
+      "_addedAt": "2026-07-19T00:35:17.930Z",
+      "_ts": "2026-07-19T00:35:18.040Z"
+    }
+  ],
+  "mirroredAt": "2026-07-19T00:35:18.323Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-18T08:18:55.337133+00:00",
-  "lastAutoProcessed": [
-    "SPIN:330",
-    "SPIN:397",
-    "SPIN:392"
-  ]
+    "adds": 1
+  }
 }
