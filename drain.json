@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-19T01:11:37.449Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ask Evan about gel pillow",
+      "_addedAt": "2026-07-19T01:25:43.764Z",
+      "_ts": "2026-07-19T01:25:44.191Z"
+    }
+  ],
+  "mirroredAt": "2026-07-19T01:25:44.524Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-19T01:11:38.581798+00:00",
-  "lastAutoProcessed": [
-    "SPIN:400"
-  ]
+    "adds": 1
+  }
 }
