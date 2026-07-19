@@ -201,13 +201,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 400,
-      "row": 51,
-      "label": "Try on sweater vests",
-      "uid": "SPIN:400"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 4,
       "row": 2,
       "label": "Review building permit posted",
@@ -943,10 +936,10 @@
       "uid": "SPIN_WHEEL:460"
     }
   ],
-  "version": 1060,
-  "updated": "2026-07-19T01:09:14.634416+00:00",
+  "version": 1061,
+  "updated": "2026-07-19T01:11:36.283039+00:00",
   "buckets": {
-    "SPIN_WHEEL": 84,
+    "SPIN_WHEEL": 83,
     "ZONES": 7,
     "TASKS": 17,
     "COURAGE": 3,
