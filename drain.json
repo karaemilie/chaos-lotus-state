@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 14,
+      "label": "Pin living room curtains to right length",
+      "uid": "SPIN:189",
+      "_ts": "2026-07-19T01:08:19.380Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-19T00:44:22.995Z",
+  "mirroredAt": "2026-07-19T01:08:19.699Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
