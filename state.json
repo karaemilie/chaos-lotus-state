@@ -16,13 +16,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 189,
-      "row": 14,
-      "label": "Pin living room curtains to right length",
-      "uid": "SPIN:189"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 174,
       "row": 11,
       "label": "Go through shorts/pants with Jake**",
@@ -938,11 +931,11 @@
       "uid": "SPIN_WHEEL:459"
     }
   ],
-  "version": 1056,
-  "updated": "2026-07-19T00:44:21.847853+00:00",
+  "version": 1057,
+  "updated": "2026-07-19T01:08:32.662013+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 84,
+    "SPIN_WHEEL": 83,
     "COURAGE": 3,
     "ZONES": 7,
     "MAINTENANCE": 2
