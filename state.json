@@ -2,13 +2,6 @@
   "tasks": [
     {
       "source": "SPIN_WHEEL",
-      "sid": 378,
-      "row": 43,
-      "label": "Mix up window cleaner",
-      "uid": "SPIN:378"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 332,
       "row": 30,
       "label": "Find missing black drain **",
@@ -936,10 +929,10 @@
       "uid": "SPIN_WHEEL:461"
     }
   ],
-  "version": 1063,
-  "updated": "2026-07-19T04:10:43.755809+00:00",
+  "version": 1064,
+  "updated": "2026-07-19T05:38:14.909236+00:00",
   "buckets": {
-    "SPIN_WHEEL": 83,
+    "SPIN_WHEEL": 82,
     "ZONES": 7,
     "TASKS": 17,
     "COURAGE": 3,
