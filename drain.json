@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-19T06:04:28.336Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Empty table in room! **",
+      "_addedAt": "2026-07-19T06:04:14.718Z",
+      "_ts": "2026-07-19T06:04:14.826Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Research suction issues for robot",
+      "_addedAt": "2026-07-19T06:04:34.832Z",
+      "_ts": "2026-07-19T06:04:34.938Z"
+    }
+  ],
+  "mirroredAt": "2026-07-19T06:04:35.200Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
