@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-19T01:08:33.604Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 14,
+      "label": "Pin living room curtains to right length",
+      "uid": "SPIN:189",
+      "_ts": "2026-07-19T01:08:19.380Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Return labels for sweater vests",
+      "_addedAt": "2026-07-19T01:09:00.129Z",
+      "_ts": "2026-07-19T01:09:00.251Z"
+    }
+  ],
+  "mirroredAt": "2026-07-19T01:09:00.481Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-19T01:08:34.376156+00:00",
-  "lastAutoProcessed": [
-    "SPIN:189"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
