@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-19T00:36:12.366Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Antigravity for stocks?",
+      "_addedAt": "2026-07-19T00:43:09.912Z",
+      "_ts": "2026-07-19T00:43:10.382Z"
+    }
+  ],
+  "mirroredAt": "2026-07-19T00:43:10.756Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-19T00:36:13.808865+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10189"
-  ]
+    "adds": 1
+  }
 }
