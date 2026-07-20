@@ -855,12 +855,26 @@
       "sid": 466,
       "label": "Cancel DramaWave by Saturday",
       "uid": "SPIN_WHEEL:466"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 467,
+      "sid": 467,
+      "label": "Change parent pin and kindle device name",
+      "uid": "SPIN_WHEEL:467"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 468,
+      "sid": 468,
+      "label": "Check halogen bulb dimensions, add to subscribe and save",
+      "uid": "SPIN_WHEEL:468"
     }
   ],
-  "version": 1083,
-  "updated": "2026-07-19T23:30:04.297292+00:00",
+  "version": 1084,
+  "updated": "2026-07-20T08:52:12.776140+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 71,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
