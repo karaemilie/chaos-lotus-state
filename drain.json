@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 69,
+      "label": "Add outdoor time to daily routine",
+      "uid": "SPIN:472",
+      "_ts": "2026-07-21T10:02:05.294Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-21T09:58:05.680Z",
+  "mirroredAt": "2026-07-21T10:02:05.657Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-21T09:58:06.719509+00:00",
-  "lastAutoProcessed": [
-    "SPIN:415"
-  ]
+  }
 }
