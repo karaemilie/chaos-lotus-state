@@ -862,12 +862,19 @@
       "sid": 472,
       "label": "Add outdoor time to daily routine",
       "uid": "SPIN_WHEEL:472"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 473,
+      "sid": 473,
+      "label": "Weed with Evan :)",
+      "uid": "SPIN_WHEEL:473"
     }
   ],
-  "version": 1098,
-  "updated": "2026-07-21T05:31:30.945031+00:00",
+  "version": 1099,
+  "updated": "2026-07-21T05:31:32.949703+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 71,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
