@@ -855,12 +855,19 @@
       "sid": 473,
       "label": "Weed with Evan :)",
       "uid": "SPIN_WHEEL:473"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 474,
+      "sid": 474,
+      "label": "Sand table down!",
+      "uid": "SPIN_WHEEL:474"
     }
   ],
-  "version": 1101,
-  "updated": "2026-07-21T05:33:02.025794+00:00",
+  "version": 1102,
+  "updated": "2026-07-21T05:33:03.878453+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 70,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
