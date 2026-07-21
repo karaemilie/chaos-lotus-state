@@ -9,13 +9,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 475,
-      "row": 72,
-      "label": "Find a 10\u201d candle",
-      "uid": "SPIN:475"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 253,
       "row": 13,
       "label": "Order Bentley a bed bric",
@@ -848,10 +841,10 @@
       "uid": "ZONES:78"
     }
   ],
-  "version": 1109,
-  "updated": "2026-07-21T09:35:33.579902+00:00",
+  "version": 1110,
+  "updated": "2026-07-21T09:57:18.887894+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "ZONES": 9,
     "COURAGE": 3,
     "TASKS": 17,
