@@ -30,13 +30,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 374,
-      "row": 35,
-      "label": "Set up downstairs robot",
-      "uid": "SPIN:374"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 453,
       "row": 59,
       "label": "Paint a railing section",
@@ -864,10 +857,10 @@
       "uid": "SPIN_WHEEL:470"
     }
   ],
-  "version": 1094,
-  "updated": "2026-07-21T03:35:39.199002+00:00",
+  "version": 1095,
+  "updated": "2026-07-21T03:36:21.542850+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 69,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
