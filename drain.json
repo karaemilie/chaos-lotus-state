@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-21T00:36:10.445Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Finish eBay order",
+      "_addedAt": "2026-07-21T00:48:52.788Z",
+      "_ts": "2026-07-21T00:48:52.880Z"
+    }
+  ],
+  "mirroredAt": "2026-07-21T00:48:53.200Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-21T00:36:11.671326+00:00",
-  "lastAutoProcessed": [
-    "SPIN:335"
-  ]
+    "adds": 1
+  }
 }
