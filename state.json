@@ -22,13 +22,6 @@
       "uid": "SPIN:268"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 472,
-      "row": 69,
-      "label": "Add outdoor time to daily routine",
-      "uid": "SPIN:472"
-    },
-    {
       "source": "ZONES",
       "zid": 20,
       "floor": "Upstairs",
@@ -834,10 +827,10 @@
       "uid": "ZONES:78"
     }
   ],
-  "version": 1111,
-  "updated": "2026-07-21T09:58:04.328360+00:00",
+  "version": 1112,
+  "updated": "2026-07-21T10:02:24.466701+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "ZONES": 9,
     "COURAGE": 3,
     "TASKS": 17,
