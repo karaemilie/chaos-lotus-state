@@ -1,35 +1,6 @@
 {
   "completions": [
     {
-      "source": "MAINTENANCE",
-      "row": 87,
-      "label": "🏠 Clean the cat fountain",
-      "uid": "MAINTENANCE:86",
-      "_ts": "2026-07-21T09:21:26.470Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 65,
-      "label": "Finish eBay order",
-      "uid": "SPIN:468",
-      "_ts": "2026-07-21T09:21:36.841Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 49,
-      "label": "Returns to Subaru",
-      "uid": "SPIN:434",
-      "_ts": "2026-07-21T09:21:45.249Z"
-    },
-    {
-      "source": "TASKS",
-      "id": 11810,
-      "row": 331,
-      "label": "✨ Clear the upstairs trashes",
-      "uid": "TASKS:11810",
-      "_ts": "2026-07-21T09:22:01.026Z"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 39,
       "label": "Boxes for spice rack",
@@ -38,9 +9,9 @@
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-21T09:22:23.099Z",
+  "mirroredAt": "2026-07-21T09:22:37.516Z",
   "counts": {
-    "completions": 5,
+    "completions": 1,
     "adds": 0
   }
 }
