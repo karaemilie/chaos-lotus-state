@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 27,
+      "label": "Check what type of halogen bulbs we use",
+      "uid": "SPIN:335",
+      "_ts": "2026-07-21T00:35:55.605Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-20T23:24:05.047Z",
+  "mirroredAt": "2026-07-21T00:35:55.848Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-20T23:24:05.864219+00:00",
-  "lastAutoProcessed": [
-    "SPIN:468"
-  ]
+  }
 }
