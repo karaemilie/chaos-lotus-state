@@ -855,12 +855,19 @@
       "sid": 470,
       "label": "Clean and store old",
       "uid": "SPIN_WHEEL:470"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 471,
+      "sid": 471,
+      "label": "Set up black roborock",
+      "uid": "SPIN_WHEEL:471"
     }
   ],
-  "version": 1095,
-  "updated": "2026-07-21T03:36:21.542850+00:00",
+  "version": 1096,
+  "updated": "2026-07-21T03:36:23.410436+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 70,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
