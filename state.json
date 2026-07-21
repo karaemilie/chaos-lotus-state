@@ -869,12 +869,19 @@
       "sid": 475,
       "label": "Find a 10\u201d candle",
       "uid": "SPIN_WHEEL:475"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 476,
+      "sid": 476,
+      "label": "Pick someone for pillow",
+      "uid": "SPIN_WHEEL:476"
     }
   ],
-  "version": 1103,
-  "updated": "2026-07-21T08:09:33.758858+00:00",
+  "version": 1104,
+  "updated": "2026-07-21T08:17:41.574287+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 72,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
