@@ -1,6 +1,13 @@
 {
   "completions": [
     {
+      "source": "MAINTENANCE",
+      "row": 87,
+      "label": "🏠 Clean the cat fountain",
+      "uid": "MAINTENANCE:86",
+      "_ts": "2026-07-21T09:21:26.470Z"
+    },
+    {
       "source": "SPIN_WHEEL",
       "row": 65,
       "label": "Finish eBay order",
@@ -13,12 +20,20 @@
       "label": "Returns to Subaru",
       "uid": "SPIN:434",
       "_ts": "2026-07-21T09:21:45.249Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11810,
+      "row": 331,
+      "label": "✨ Clear the upstairs trashes",
+      "uid": "TASKS:11810",
+      "_ts": "2026-07-21T09:22:01.026Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-21T09:21:48.108Z",
+  "mirroredAt": "2026-07-21T09:22:01.234Z",
   "counts": {
-    "completions": 2,
+    "completions": 4,
     "adds": 0
   }
 }
