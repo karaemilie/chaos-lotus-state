@@ -13,12 +13,19 @@
       "label": "Finish eBay order",
       "uid": "SPIN:468",
       "_ts": "2026-07-21T09:21:36.841Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 49,
+      "label": "Returns to Subaru",
+      "uid": "SPIN:434",
+      "_ts": "2026-07-21T09:21:45.249Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-21T09:21:37.055Z",
+  "mirroredAt": "2026-07-21T09:21:45.452Z",
   "counts": {
-    "completions": 2,
+    "completions": 3,
     "adds": 0
   }
 }
