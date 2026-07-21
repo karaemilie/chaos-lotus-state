@@ -10,10 +10,17 @@
       "_ts": "2026-07-21T02:52:13.557Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-21T02:52:13.816Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Sand bedroo",
+      "_addedAt": "2026-07-21T02:52:24.642Z",
+      "_ts": "2026-07-21T02:52:24.765Z"
+    }
+  ],
+  "mirroredAt": "2026-07-21T02:52:25.016Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
