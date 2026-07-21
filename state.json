@@ -9,13 +9,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 460,
-      "row": 65,
-      "label": "Return labels for sweater vests",
-      "uid": "SPIN:460"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 325,
       "row": 24,
       "label": "Clean up front porch",
@@ -871,10 +864,10 @@
       "uid": "SPIN_WHEEL:473"
     }
   ],
-  "version": 1099,
-  "updated": "2026-07-21T05:31:32.949703+00:00",
+  "version": 1100,
+  "updated": "2026-07-21T05:32:19.940714+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 70,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
