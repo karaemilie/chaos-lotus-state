@@ -9,13 +9,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 4,
-      "row": 2,
-      "label": "Review building permit posted",
-      "uid": "SPIN:4"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 457,
       "row": 62,
       "label": "Vetch work",
@@ -858,10 +851,10 @@
       "uid": "SPIN_WHEEL:468"
     }
   ],
-  "version": 1090,
-  "updated": "2026-07-21T00:49:55.052794+00:00",
+  "version": 1091,
+  "updated": "2026-07-21T00:59:35.037842+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 68,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
