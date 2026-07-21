@@ -205,13 +205,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 468,
-      "row": 65,
-      "label": "Finish eBay order",
-      "uid": "SPIN:468"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 412,
       "row": 43,
       "label": "Figure out if we have smart bulbs in the hall",
@@ -230,13 +223,6 @@
       "row": 35,
       "label": "Write Nilo Lady back",
       "uid": "SPIN:384"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 434,
-      "row": 49,
-      "label": "Returns to Subaru",
-      "uid": "SPIN:434"
     },
     {
       "source": "SPIN_WHEEL",
@@ -300,20 +286,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10150"
-    },
-    {
-      "source": "TASKS",
-      "id": 11810,
-      "row": 331,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:11810"
     },
     {
       "source": "SPIN_WHEEL",
@@ -876,12 +848,25 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Dust spray on stair iron",
       "uid": "MAINTENANCE:87"
+    },
+    {
+      "source": "TASKS",
+      "id": 11708,
+      "label": "Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11708"
     }
   ],
-  "version": 1106,
-  "updated": "2026-07-21T09:21:46.878605+00:00",
+  "version": 1107,
+  "updated": "2026-07-21T09:22:35.033164+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 70,
     "ZONES": 9,
     "COURAGE": 3,
     "TASKS": 17,
