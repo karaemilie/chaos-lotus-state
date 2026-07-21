@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 72,
+      "label": "Find a 10” candle",
+      "uid": "SPIN:475",
+      "_ts": "2026-07-21T09:57:04.498Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-21T09:35:34.975Z",
+  "mirroredAt": "2026-07-21T09:57:04.716Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-21T09:35:35.895529+00:00",
-  "lastAutoProcessed": [
-    "SPIN:466"
-  ]
+  }
 }
