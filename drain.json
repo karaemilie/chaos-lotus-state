@@ -1,16 +1,17 @@
 {
-  "completions": [],
-  "adds": [
+  "completions": [
     {
-      "source": "PLUS_ADD",
-      "label": "Clean and store old",
-      "_addedAt": "2026-07-21T03:35:24.349Z",
-      "_ts": "2026-07-21T03:35:24.727Z"
+      "source": "SPIN_WHEEL",
+      "row": 35,
+      "label": "Set up downstairs robot",
+      "uid": "SPIN:374",
+      "_ts": "2026-07-21T03:35:25.010Z"
     }
   ],
-  "mirroredAt": "2026-07-21T03:35:25.032Z",
+  "adds": [],
+  "mirroredAt": "2026-07-21T03:35:37.988Z",
   "counts": {
-    "completions": 0,
-    "adds": 1
+    "completions": 1,
+    "adds": 0
   }
 }
