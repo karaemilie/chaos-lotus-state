@@ -9,13 +9,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 457,
-      "row": 62,
-      "label": "Vetch work",
-      "uid": "SPIN:457"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 460,
       "row": 65,
       "label": "Return labels for sweater vests",
@@ -871,10 +864,10 @@
       "uid": "SPIN_WHEEL:472"
     }
   ],
-  "version": 1097,
-  "updated": "2026-07-21T05:30:47.870074+00:00",
+  "version": 1098,
+  "updated": "2026-07-21T05:31:30.945031+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 70,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
