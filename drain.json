@@ -1,17 +1,55 @@
 {
   "completions": [
     {
+      "source": "MAINTENANCE",
+      "row": 87,
+      "label": "🏠 Clean the cat fountain",
+      "uid": "MAINTENANCE:86",
+      "_ts": "2026-07-21T09:21:26.470Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 65,
+      "label": "Finish eBay order",
+      "uid": "SPIN:468",
+      "_ts": "2026-07-21T09:21:36.841Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 49,
+      "label": "Returns to Subaru",
+      "uid": "SPIN:434",
+      "_ts": "2026-07-21T09:21:45.249Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11810,
+      "row": 331,
+      "label": "✨ Clear the upstairs trashes",
+      "uid": "TASKS:11810",
+      "_ts": "2026-07-21T09:22:01.026Z"
+    },
+    {
       "source": "SPIN_WHEEL",
       "row": 39,
       "label": "Boxes for spice rack",
       "uid": "SPIN:403",
       "_ts": "2026-07-21T09:22:22.846Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 78,
+      "zid": 77,
+      "floor": "Plant",
+      "label": "🌱 Corner Nook B",
+      "uid": "ZONES:77",
+      "_ts": "2026-07-21T09:22:48.123Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-21T09:22:37.516Z",
+  "mirroredAt": "2026-07-21T09:22:48.366Z",
   "counts": {
-    "completions": 1,
+    "completions": 6,
     "adds": 0
   }
 }
