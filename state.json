@@ -855,12 +855,19 @@
       "sid": 469,
       "label": "Sand bedroo",
       "uid": "SPIN_WHEEL:469"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 470,
+      "sid": 470,
+      "label": "Clean and store old",
+      "uid": "SPIN_WHEEL:470"
     }
   ],
-  "version": 1093,
-  "updated": "2026-07-21T02:53:11.326301+00:00",
+  "version": 1094,
+  "updated": "2026-07-21T03:35:39.199002+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 70,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
