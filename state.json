@@ -431,13 +431,6 @@
       "uid": "SPIN:389"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 403,
-      "row": 39,
-      "label": "Boxes for spice rack",
-      "uid": "SPIN:403"
-    },
-    {
       "source": "TASKS",
       "id": 11075,
       "row": 176,
@@ -596,16 +589,6 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:11225"
-    },
-    {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "row": 78,
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
     },
     {
       "source": "SPIN_WHEEL",
@@ -861,12 +844,21 @@
       "cat": "Kids",
       "critical": false,
       "uid": "TASKS:11708"
+    },
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Props",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Props",
+      "uid": "ZONES:78"
     }
   ],
-  "version": 1107,
-  "updated": "2026-07-21T09:22:35.033164+00:00",
+  "version": 1108,
+  "updated": "2026-07-21T09:23:14.377165+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 69,
     "ZONES": 9,
     "COURAGE": 3,
     "TASKS": 17,
