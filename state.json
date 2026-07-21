@@ -9,13 +9,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 466,
-      "row": 63,
-      "label": "Cancel DramaWave by Saturday",
-      "uid": "SPIN:466"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 475,
       "row": 72,
       "label": "Find a 10\u201d candle",
@@ -855,10 +848,10 @@
       "uid": "ZONES:78"
     }
   ],
-  "version": 1108,
-  "updated": "2026-07-21T09:23:14.377165+00:00",
+  "version": 1109,
+  "updated": "2026-07-21T09:35:33.579902+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 68,
     "ZONES": 9,
     "COURAGE": 3,
     "TASKS": 17,
