@@ -1,9 +1,37 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-21T05:31:32.136Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 62,
+      "label": "Vetch work",
+      "uid": "SPIN:457",
+      "_ts": "2026-07-21T05:30:55.613Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 65,
+      "label": "Return labels for sweater vests",
+      "uid": "SPIN:460",
+      "_ts": "2026-07-21T05:31:43.344Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add outdoor time to daily routine",
+      "_addedAt": "2026-07-21T05:30:22.801Z",
+      "_ts": "2026-07-21T05:30:22.911Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Weed with Evan :)",
+      "_addedAt": "2026-07-21T05:30:52.063Z",
+      "_ts": "2026-07-21T05:30:52.169Z"
+    }
+  ],
+  "mirroredAt": "2026-07-21T05:31:43.580Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 2,
+    "adds": 2
   }
 }
