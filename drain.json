@@ -6,12 +6,19 @@
       "label": "🏠 Clean the cat fountain",
       "uid": "MAINTENANCE:86",
       "_ts": "2026-07-21T09:21:26.470Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 65,
+      "label": "Finish eBay order",
+      "uid": "SPIN:468",
+      "_ts": "2026-07-21T09:21:36.841Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-21T09:21:26.803Z",
+  "mirroredAt": "2026-07-21T09:21:37.055Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
