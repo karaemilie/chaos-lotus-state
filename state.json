@@ -848,12 +848,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Craft Zone",
       "uid": "ZONES:43"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 469,
+      "sid": 469,
+      "label": "Sand bedroo",
+      "uid": "SPIN_WHEEL:469"
     }
   ],
-  "version": 1092,
-  "updated": "2026-07-21T02:52:25.657933+00:00",
+  "version": 1093,
+  "updated": "2026-07-21T02:53:11.326301+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 69,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
