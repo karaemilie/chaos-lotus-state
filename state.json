@@ -862,12 +862,19 @@
       "sid": 474,
       "label": "Sand table down!",
       "uid": "SPIN_WHEEL:474"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 475,
+      "sid": 475,
+      "label": "Find a 10\u201d candle",
+      "uid": "SPIN_WHEEL:475"
     }
   ],
-  "version": 1102,
-  "updated": "2026-07-21T05:33:03.878453+00:00",
+  "version": 1103,
+  "updated": "2026-07-21T08:09:33.758858+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 71,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 9,
