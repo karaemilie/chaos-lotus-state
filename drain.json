@@ -8,10 +8,17 @@
       "_ts": "2026-07-21T03:35:25.010Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-21T03:35:37.988Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set up black roborock",
+      "_addedAt": "2026-07-21T03:35:44.378Z",
+      "_ts": "2026-07-21T03:35:44.486Z"
+    }
+  ],
+  "mirroredAt": "2026-07-21T03:35:44.745Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
