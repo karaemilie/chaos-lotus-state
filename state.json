@@ -799,16 +799,6 @@
       "uid": "TASKS:11789"
     },
     {
-      "source": "ZONES",
-      "zid": 42,
-      "floor": "Basement",
-      "row": 43,
-      "label": "\ud83e\uddfa Basement Foyer",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Foyer",
-      "uid": "ZONES:42"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 279,
       "row": 18,
@@ -849,10 +839,19 @@
       "sid": 468,
       "label": "Finish eBay order",
       "uid": "SPIN_WHEEL:468"
+    },
+    {
+      "source": "ZONES",
+      "zid": 43,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Craft Zone",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Craft Zone",
+      "uid": "ZONES:43"
     }
   ],
-  "version": 1091,
-  "updated": "2026-07-21T00:59:35.037842+00:00",
+  "version": 1092,
+  "updated": "2026-07-21T02:52:25.657933+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "TASKS": 17,
