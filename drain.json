@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-21T05:30:46.748Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add outdoor time to daily routine",
+      "_addedAt": "2026-07-21T05:30:22.801Z",
+      "_ts": "2026-07-21T05:30:22.911Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Weed with Evan :)",
+      "_addedAt": "2026-07-21T05:30:52.063Z",
+      "_ts": "2026-07-21T05:30:52.169Z"
+    }
+  ],
+  "mirroredAt": "2026-07-21T05:30:52.411Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
