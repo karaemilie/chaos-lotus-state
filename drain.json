@@ -1,13 +1,28 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 82,
+      "zid": 81,
+      "floor": "Personal",
+      "label": "👱‍♀️ Face Exfoliation",
+      "uid": "ZONES:81",
+      "_ts": "2026-07-22T09:34:03.972Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 79,
+      "zid": 78,
+      "floor": "Plant",
+      "label": "🌱 Family Room Props",
+      "uid": "ZONES:78",
+      "_ts": "2026-07-22T09:34:36.605Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-22T09:34:17.864Z",
+  "mirroredAt": "2026-07-22T09:34:36.824Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-22T09:34:18.718258+00:00",
-  "lastAutoProcessed": [
-    "ZONES:81"
-  ]
+  }
 }
