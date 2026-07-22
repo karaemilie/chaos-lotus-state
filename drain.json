@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-22T21:30:49.545Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set up rug pad",
+      "_addedAt": "2026-07-22T23:24:20.542Z",
+      "_ts": "2026-07-22T23:24:20.659Z"
+    }
+  ],
+  "mirroredAt": "2026-07-22T23:24:20.918Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-22T21:30:50.523631+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11802"
-  ]
+    "adds": 1
+  }
 }
