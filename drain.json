@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 67,
+      "label": "Clean and store old",
+      "uid": "SPIN:470",
+      "_ts": "2026-07-22T06:38:25.654Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-22T06:37:22.068Z",
+  "mirroredAt": "2026-07-22T06:38:26.026Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-22T06:37:23.044484+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:84"
-  ]
+  }
 }
