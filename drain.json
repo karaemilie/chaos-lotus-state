@@ -1,9 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 22,
+      "zid": 21,
+      "floor": "Upstairs",
+      "label": "🧺 Laundry Room",
+      "uid": "ZONES:21",
+      "_ts": "2026-07-22T06:45:13.770Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-22T06:40:08.570Z",
+  "mirroredAt": "2026-07-22T06:45:14.200Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
