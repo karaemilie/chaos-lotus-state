@@ -22,13 +22,6 @@
       "uid": "SPIN:337"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 474,
-      "row": 63,
-      "label": "Sand table down!",
-      "uid": "SPIN:474"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10043,
       "parentRow": 156,
@@ -813,11 +806,11 @@
       "uid": "ZONES:2"
     }
   ],
-  "version": 1131,
-  "updated": "2026-07-22T09:36:51.599586+00:00",
+  "version": 1132,
+  "updated": "2026-07-22T21:19:32.635600+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2
