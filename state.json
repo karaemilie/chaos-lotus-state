@@ -814,13 +814,20 @@
       "sid": 478,
       "label": "DQ gift cards - pack",
       "uid": "SPIN_WHEEL:478"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 479,
+      "sid": 479,
+      "label": "Hand sand table, next step?",
+      "uid": "SPIN_WHEEL:479"
     }
   ],
-  "version": 1122,
-  "updated": "2026-07-22T06:39:25.106280+00:00",
+  "version": 1123,
+  "updated": "2026-07-22T06:40:09.465125+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 64,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2
