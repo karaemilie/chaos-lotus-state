@@ -41,16 +41,6 @@
       "uid": "COURAGE:10043:0"
     },
     {
-      "source": "ZONES",
-      "zid": 21,
-      "floor": "Upstairs",
-      "row": 22,
-      "label": "\ud83e\uddfa Laundry Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Laundry Room",
-      "uid": "ZONES:21"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 408,
       "row": 40,
@@ -821,10 +811,19 @@
       "sid": 479,
       "label": "Hand sand table, next step?",
       "uid": "SPIN_WHEEL:479"
+    },
+    {
+      "source": "ZONES",
+      "zid": 1,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Boys Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Boys Room",
+      "uid": "ZONES:1"
     }
   ],
-  "version": 1123,
-  "updated": "2026-07-22T06:40:09.465125+00:00",
+  "version": 1124,
+  "updated": "2026-07-22T06:45:26.179574+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 64,
