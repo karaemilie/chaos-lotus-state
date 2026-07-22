@@ -1,16 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-22T06:45:28.450Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add photo of mirror wall to Claude thread",
+      "_addedAt": "2026-07-22T06:52:08.439Z",
+      "_ts": "2026-07-22T06:52:08.844Z"
+    }
+  ],
+  "mirroredAt": "2026-07-22T06:52:09.241Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-22T06:45:29.208027+00:00",
-  "lastAutoProcessed": [
-    "ZONES:21"
-  ],
-  "autoReset": [
-    "Upstairs"
-  ]
+    "adds": 1
+  }
 }
