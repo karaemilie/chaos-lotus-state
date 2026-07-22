@@ -22,16 +22,6 @@
       "uid": "SPIN:268"
     },
     {
-      "source": "ZONES",
-      "zid": 20,
-      "floor": "Upstairs",
-      "row": 21,
-      "label": "\ud83e\uddfa Boys Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Boys Room",
-      "uid": "ZONES:20"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 427,
       "row": 48,
@@ -825,10 +815,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Props",
       "uid": "ZONES:78"
+    },
+    {
+      "source": "ZONES",
+      "zid": 21,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Laundry Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Laundry Room",
+      "uid": "ZONES:21"
     }
   ],
-  "version": 1112,
-  "updated": "2026-07-21T10:02:24.466701+00:00",
+  "version": 1113,
+  "updated": "2026-07-22T05:19:59.984275+00:00",
   "buckets": {
     "SPIN_WHEEL": 65,
     "ZONES": 9,
