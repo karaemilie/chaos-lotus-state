@@ -564,20 +564,6 @@
       "uid": "SPIN:135"
     },
     {
-      "source": "TASKS",
-      "id": 11802,
-      "row": 326,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11802"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 390,
       "row": 37,
@@ -804,10 +790,23 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Upstairs Family Room",
       "uid": "ZONES:2"
+    },
+    {
+      "source": "TASKS",
+      "id": 11630,
+      "label": "Look at shoes with Jake \ud83d\udc5f \ud83c\udfaf First step: ask Jake his size + what style he wants, then browse",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11630"
     }
   ],
-  "version": 1132,
-  "updated": "2026-07-22T21:19:32.635600+00:00",
+  "version": 1133,
+  "updated": "2026-07-22T21:30:45.387756+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 62,
