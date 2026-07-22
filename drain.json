@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11802,
+      "row": 326,
+      "label": "✨ Use Claude budget on new projects or app feature development 🧠⏳ 📝",
+      "uid": "TASKS:11802",
+      "_ts": "2026-07-22T21:30:30.938Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-22T21:19:34.073Z",
+  "mirroredAt": "2026-07-22T21:30:31.307Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-22T21:19:35.222719+00:00",
-  "lastAutoProcessed": [
-    "SPIN:474"
-  ]
+  }
 }
