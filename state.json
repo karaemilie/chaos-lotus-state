@@ -285,16 +285,6 @@
       "uid": "TASKS:11649"
     },
     {
-      "source": "ZONES",
-      "zid": 81,
-      "floor": "Personal",
-      "row": 82,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Exfoliation",
-      "uid": "ZONES:81"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 95,
       "row": 5,
@@ -810,10 +800,19 @@
       "sid": 477,
       "label": "Set extra Roborock alarms",
       "uid": "SPIN_WHEEL:477"
+    },
+    {
+      "source": "ZONES",
+      "zid": 82,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Dermaplane",
+      "uid": "ZONES:82"
     }
   ],
-  "version": 1116,
-  "updated": "2026-07-22T06:08:51.989547+00:00",
+  "version": 1117,
+  "updated": "2026-07-22T06:09:23.523340+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "ZONES": 9,
