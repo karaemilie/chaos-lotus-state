@@ -744,16 +744,6 @@
       "uid": "TASKS:11752"
     },
     {
-      "source": "ZONES",
-      "zid": 78,
-      "floor": "Plant",
-      "row": 79,
-      "label": "\ud83c\udf31 Family Room Props",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Props",
-      "uid": "ZONES:78"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 165,
       "row": 8,
@@ -819,10 +809,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Hand Care & Mani",
       "uid": "ZONES:83"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Hallway",
+      "uid": "ZONES:80"
     }
   ],
-  "version": 1129,
-  "updated": "2026-07-22T09:34:16.805320+00:00",
+  "version": 1130,
+  "updated": "2026-07-22T09:34:51.416882+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 64,
