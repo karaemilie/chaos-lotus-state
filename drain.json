@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-22T06:38:37.715Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 67,
+      "label": "Clean and store old",
+      "uid": "SPIN:470",
+      "_ts": "2026-07-22T06:38:25.654Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "DQ gift cards - pack",
+      "_addedAt": "2026-07-22T06:39:12.100Z",
+      "_ts": "2026-07-22T06:39:12.190Z"
+    }
+  ],
+  "mirroredAt": "2026-07-22T06:39:12.434Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-22T06:38:38.437692+00:00",
-  "lastAutoProcessed": [
-    "SPIN:470"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
