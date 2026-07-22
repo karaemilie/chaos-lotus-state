@@ -428,15 +428,6 @@
       "uid": "TASKS:11802"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 84,
-      "row": 85,
-      "label": "\ud83c\udfe0 Clean a fridge shelf",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Clean a fridge shelf",
-      "uid": "MAINTENANCE:84"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10043,
       "parentRow": 156,
@@ -809,10 +800,18 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Dermaplane",
       "uid": "ZONES:82"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 88,
+      "label": "\ud83c\udfe0 Scrub cats food plate",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Scrub cats food plate",
+      "uid": "MAINTENANCE:88"
     }
   ],
-  "version": 1117,
-  "updated": "2026-07-22T06:09:23.523340+00:00",
+  "version": 1118,
+  "updated": "2026-07-22T06:37:21.032253+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "ZONES": 9,
