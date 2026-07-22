@@ -22,13 +22,6 @@
       "uid": "SPIN:268"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 427,
-      "row": 48,
-      "label": "Refill Taha affair",
-      "uid": "SPIN:427"
-    },
-    {
       "source": "ZONES",
       "zid": 43,
       "floor": "Basement",
@@ -833,10 +826,10 @@
       "uid": "SPIN_WHEEL:477"
     }
   ],
-  "version": 1114,
-  "updated": "2026-07-22T05:46:50.336817+00:00",
+  "version": 1115,
+  "updated": "2026-07-22T06:08:11.785942+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "ZONES": 9,
     "COURAGE": 3,
     "TASKS": 17,
