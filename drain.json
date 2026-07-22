@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-22T06:39:24.234Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "DQ gift cards - pack",
+      "_addedAt": "2026-07-22T06:39:12.100Z",
+      "_ts": "2026-07-22T06:39:12.190Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Hand sand table, next step?",
+      "_addedAt": "2026-07-22T06:39:56.053Z",
+      "_ts": "2026-07-22T06:39:56.140Z"
+    }
+  ],
+  "mirroredAt": "2026-07-22T06:39:56.457Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
