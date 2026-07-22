@@ -146,13 +146,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 476,
-      "row": 73,
-      "label": "Pick someone for pillow",
-      "uid": "SPIN:476"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 405,
       "row": 40,
       "label": "Install hue bulbs down down stairs",
@@ -220,13 +213,6 @@
       "row": 4,
       "label": "Pull old weed spreader out of shed",
       "uid": "SPIN:89"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 473,
-      "row": 70,
-      "label": "Weed with Evan :)",
-      "uid": "SPIN:473"
     },
     {
       "source": "TASKS",
@@ -826,10 +812,10 @@
       "uid": "SPIN_WHEEL:477"
     }
   ],
-  "version": 1115,
-  "updated": "2026-07-22T06:08:11.785942+00:00",
+  "version": 1116,
+  "updated": "2026-07-22T06:08:51.989547+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 63,
     "ZONES": 9,
     "COURAGE": 3,
     "TASKS": 17,
