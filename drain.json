@@ -1,19 +1,17 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-22T06:09:25.584Z",
-  "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-22T06:09:26.364412+00:00",
-  "lastAutoProcessed": [
-    "ZONES:81",
-    "SPIN:427",
-    "SPIN:476",
-    "SPIN:473"
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 85,
+      "label": "🏠 Clean a fridge shelf",
+      "uid": "MAINTENANCE:84",
+      "_ts": "2026-07-22T06:37:05.077Z"
+    }
   ],
-  "autoReset": [
-    "Personal"
-  ]
+  "adds": [],
+  "mirroredAt": "2026-07-22T06:37:05.326Z",
+  "counts": {
+    "completions": 1,
+    "adds": 0
+  }
 }
