@@ -661,8 +661,27 @@ def apply_refills(wb, processed_completions, today, pending_uids=None):
     # been refilled — skip. We capture the pre-removal uid set to decide this.
     uids_before = {t.get("uid") for t in tasks}
 
-    # 1. Remove completed items from the wheel
-    tasks = [t for t in tasks if t.get("uid") not in completed_uids]
+    # CANONICAL UID MATCH (fixes the "completed spin item reappears" bug):
+    # The front-end/worker emit spin completions as 'SPIN_WHEEL:{sid}', but the
+    # wheel slot in state.json is stored as 'SPIN:{sid}' (documented prefix
+    # drift). A raw string compare ('SPIN:474' != 'SPIN_WHEEL:474') then FAILS
+    # to remove the just-completed slot — the sheet row is deleted and COMPLETED
+    # is written, but the wheel still shows the item, so it gets served again.
+    # Normalize both sides to (SOURCE_ROOT, tail) so the prefix variant can't
+    # strand a completed slot. SPIN_WHEEL and SPIN collapse to the same root.
+    def _canon_uid(u):
+        if not u:
+            return u
+        parts = str(u).split(":")
+        root = parts[0]
+        if root in ("SPIN", "SPIN_WHEEL"):
+            root = "SPIN"  # collapse the drift
+        return ":".join([root] + parts[1:])
+
+    completed_canon = {_canon_uid(u) for u in completed_uids}
+
+    # 1. Remove completed items from the wheel (canonical match)
+    tasks = [t for t in tasks if _canon_uid(t.get("uid")) not in completed_canon]
 
     # Only these completions get a refill: their item was present before removal.
     # (Spin/zone/maint matched by uid; tasks/courage matched by uid too.)
