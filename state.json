@@ -807,13 +807,20 @@
       "row": 27,
       "label": "Finish last three bathroom knobs **",
       "uid": "SPIN:346"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 478,
+      "sid": 478,
+      "label": "DQ gift cards - pack",
+      "uid": "SPIN_WHEEL:478"
     }
   ],
-  "version": 1121,
-  "updated": "2026-07-22T06:39:23.275998+00:00",
+  "version": 1122,
+  "updated": "2026-07-22T06:39:25.106280+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 63,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2
