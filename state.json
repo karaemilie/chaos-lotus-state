@@ -480,16 +480,6 @@
       "uid": "SPIN:425"
     },
     {
-      "source": "ZONES",
-      "zid": 81,
-      "floor": "Personal",
-      "row": 82,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Exfoliation",
-      "uid": "ZONES:81"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 389,
       "row": 36,
@@ -820,10 +810,19 @@
       "sid": 481,
       "label": "Vitamins for Linc and Evan",
       "uid": "SPIN_WHEEL:481"
+    },
+    {
+      "source": "ZONES",
+      "zid": 83,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Hand Care & Mani",
+      "uid": "ZONES:83"
     }
   ],
-  "version": 1128,
-  "updated": "2026-07-22T09:33:19.144556+00:00",
+  "version": 1129,
+  "updated": "2026-07-22T09:34:16.805320+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 64,
