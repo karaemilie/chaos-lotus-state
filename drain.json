@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 63,
+      "label": "Sand table down!",
+      "uid": "SPIN:474",
+      "_ts": "2026-07-22T21:19:15.985Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-22T09:36:52.770Z",
+  "mirroredAt": "2026-07-22T21:19:16.282Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-22T09:36:53.833775+00:00",
-  "lastAutoProcessed": [
-    "ZONES:1",
-    "SPIN:324"
-  ]
+  }
 }
