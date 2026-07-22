@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-22T06:53:02.694Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Vitamins for Linc and Evan",
+      "_addedAt": "2026-07-22T07:32:55.677Z",
+      "_ts": "2026-07-22T07:32:55.828Z"
+    }
+  ],
+  "mirroredAt": "2026-07-22T07:32:56.071Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-22T06:53:03.761993+00:00",
-  "lastAutoProcessed": [
-    "SPIN:410"
-  ]
+    "adds": 1
+  }
 }
