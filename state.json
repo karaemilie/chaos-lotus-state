@@ -49,13 +49,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 410,
-      "row": 41,
-      "label": "Crop all sun photos **",
-      "uid": "SPIN:410"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 458,
       "row": 54,
       "label": "Try me new .edu apps ** (Nibble, etc)",
@@ -829,11 +822,11 @@
       "uid": "SPIN_WHEEL:480"
     }
   ],
-  "version": 1125,
-  "updated": "2026-07-22T06:52:22.735889+00:00",
+  "version": 1126,
+  "updated": "2026-07-22T06:53:01.440008+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2
