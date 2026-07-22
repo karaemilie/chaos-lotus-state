@@ -523,13 +523,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 324,
-      "row": 22,
-      "label": "Set up visual studio code**",
-      "uid": "SPIN:324"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 253,
       "row": 13,
       "label": "Order Bentley a bed bric",
@@ -779,15 +772,6 @@
       "uid": "SPIN_WHEEL:479"
     },
     {
-      "source": "ZONES",
-      "zid": 1,
-      "floor": "Upstairs",
-      "label": "\ud83e\uddfa Boys Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Boys Room",
-      "uid": "ZONES:1"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 480,
       "sid": 480,
@@ -818,13 +802,22 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Hallway",
       "uid": "ZONES:80"
+    },
+    {
+      "source": "ZONES",
+      "zid": 2,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Upstairs Family Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Upstairs Family Room",
+      "uid": "ZONES:2"
     }
   ],
-  "version": 1130,
-  "updated": "2026-07-22T09:34:51.416882+00:00",
+  "version": 1131,
+  "updated": "2026-07-22T09:36:51.599586+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2
