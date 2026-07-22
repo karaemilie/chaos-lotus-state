@@ -300,13 +300,6 @@
       "uid": "SPIN:243"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 469,
-      "row": 60,
-      "label": "Sand bedroo",
-      "uid": "SPIN:469"
-    },
-    {
       "source": "TASKS",
       "id": 10898,
       "row": 152,
@@ -829,11 +822,11 @@
       "uid": "SPIN_WHEEL:481"
     }
   ],
-  "version": 1127,
-  "updated": "2026-07-22T07:33:15.961986+00:00",
+  "version": 1128,
+  "updated": "2026-07-22T09:33:19.144556+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "COURAGE": 3,
     "ZONES": 9,
     "MAINTENANCE": 2
