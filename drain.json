@@ -1,14 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 1,
+      "floor": "Upstairs",
+      "label": "🧺 Boys Room",
+      "uid": "ZONES:1",
+      "_ts": "2026-07-22T09:34:52.906Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 22,
+      "label": "Set up visual studio code**",
+      "uid": "SPIN:324",
+      "_ts": "2026-07-22T09:36:35.749Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-22T09:34:52.545Z",
+  "mirroredAt": "2026-07-22T09:36:36.141Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-22T09:34:53.495509+00:00",
-  "lastAutoProcessed": [
-    "ZONES:81",
-    "ZONES:78"
-  ]
+  }
 }
