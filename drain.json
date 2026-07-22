@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-22T05:20:01.146Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set extra Roborock alarms",
+      "_addedAt": "2026-07-22T05:46:32.132Z",
+      "_ts": "2026-07-22T05:46:32.234Z"
+    }
+  ],
+  "mirroredAt": "2026-07-22T05:46:32.510Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-22T05:20:02.183836+00:00",
-  "lastAutoProcessed": [
-    "ZONES:20"
-  ]
+    "adds": 1
+  }
 }
