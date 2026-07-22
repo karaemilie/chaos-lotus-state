@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 63,
+      "label": "Sand table down!",
+      "uid": "SPIN:474",
+      "_ts": "2026-07-22T06:39:57.391Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -14,9 +22,9 @@
       "_ts": "2026-07-22T06:39:56.140Z"
     }
   ],
-  "mirroredAt": "2026-07-22T06:39:56.457Z",
+  "mirroredAt": "2026-07-22T06:39:57.616Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 2
   }
 }
