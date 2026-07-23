@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11789,
+      "row": 319,
+      "label": "✨ Water snake plants",
+      "uid": "TASKS:11789",
+      "_ts": "2026-07-23T03:48:56.437Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-23T03:44:50.582Z",
+  "mirroredAt": "2026-07-23T03:48:56.791Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-23T03:44:51.586299+00:00",
-  "lastAutoProcessed": [
-    "SPIN:107"
-  ]
+  }
 }
