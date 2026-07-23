@@ -695,13 +695,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 107,
-      "row": 6,
-      "label": "Call Chase about credit card wrong balance",
-      "uid": "SPIN:107"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 186,
       "row": 10,
       "label": "posykin handle ** \ud83d\udcb8",
@@ -804,11 +797,11 @@
       "uid": "TASKS:11630"
     }
   ],
-  "version": 1139,
-  "updated": "2026-07-23T03:39:07.559246+00:00",
+  "version": 1140,
+  "updated": "2026-07-23T03:44:49.284122+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
