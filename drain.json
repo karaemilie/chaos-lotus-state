@@ -1,9 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 76,
+      "zid": 75,
+      "floor": "Plant",
+      "label": "🌱 Main floor Down Low",
+      "uid": "ZONES:75",
+      "_ts": "2026-07-23T23:25:05.060Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-23T08:31:33.379Z",
+  "mirroredAt": "2026-07-23T23:25:05.303Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
