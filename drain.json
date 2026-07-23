@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 6,
+      "label": "Call Chase about credit card wrong balance",
+      "uid": "SPIN:107",
+      "_ts": "2026-07-23T03:44:35.610Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-23T03:39:10.549Z",
+  "mirroredAt": "2026-07-23T03:44:36.002Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-23T03:39:11.586404+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11752"
-  ]
+  }
 }
