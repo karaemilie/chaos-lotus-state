@@ -810,12 +810,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Music Room",
       "uid": "ZONES:28"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 488,
+      "sid": 488,
+      "label": "Create hall in hue app *",
+      "uid": "SPIN_WHEEL:488"
     }
   ],
-  "version": 1150,
-  "updated": "2026-07-23T07:46:00.982347+00:00",
+  "version": 1151,
+  "updated": "2026-07-23T07:54:13.306017+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 65,
     "TASKS": 17,
     "ZONES": 8,
     "MAINTENANCE": 2,
