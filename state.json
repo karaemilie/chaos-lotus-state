@@ -719,16 +719,6 @@
       "uid": "TASKS:11847"
     },
     {
-      "source": "ZONES",
-      "zid": 27,
-      "floor": "Main Floor",
-      "row": 28,
-      "label": "\ud83e\uddfa Main Floor Family",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Main Floor Family",
-      "uid": "ZONES:27"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 405,
       "row": 37,
@@ -811,10 +801,19 @@
       "sid": 487,
       "label": "5 minutes in AceIt app",
       "uid": "SPIN_WHEEL:487"
+    },
+    {
+      "source": "ZONES",
+      "zid": 28,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Music Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Music Room",
+      "uid": "ZONES:28"
     }
   ],
-  "version": 1149,
-  "updated": "2026-07-23T07:06:09.672509+00:00",
+  "version": 1150,
+  "updated": "2026-07-23T07:46:00.982347+00:00",
   "buckets": {
     "SPIN_WHEEL": 64,
     "TASKS": 17,
