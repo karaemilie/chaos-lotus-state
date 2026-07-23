@@ -545,20 +545,6 @@
       "uid": "SPIN:351"
     },
     {
-      "source": "TASKS",
-      "id": 11752,
-      "row": 295,
-      "label": "\u2728 Check in on Pura scents - time to refresh?",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11752"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 38,
       "row": 2,
@@ -803,10 +789,23 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Photos",
       "uid": "ZONES:68"
+    },
+    {
+      "source": "TASKS",
+      "id": 11630,
+      "label": "Look at shoes with Jake \ud83d\udc5f \ud83c\udfaf First step: ask Jake his size + what style he wants, then browse",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11630"
     }
   ],
-  "version": 1138,
-  "updated": "2026-07-23T02:59:26.732500+00:00",
+  "version": 1139,
+  "updated": "2026-07-23T03:39:07.559246+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 63,
