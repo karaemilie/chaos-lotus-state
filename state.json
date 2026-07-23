@@ -763,15 +763,6 @@
       "uid": "SPIN_WHEEL:490"
     },
     {
-      "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
       "source": "TASKS",
       "id": 10237,
       "label": "Cancel Slate card",
@@ -805,10 +796,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Upstairs Hallway",
       "uid": "ZONES:3"
+    },
+    {
+      "source": "ZONES",
+      "zid": 74,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Plants",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Plants",
+      "uid": "ZONES:74"
     }
   ],
-  "version": 1161,
-  "updated": "2026-07-23T23:26:39.296820+00:00",
+  "version": 1162,
+  "updated": "2026-07-23T23:27:06.311814+00:00",
   "buckets": {
     "SPIN_WHEEL": 64,
     "TASKS": 17,
