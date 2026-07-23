@@ -804,12 +804,19 @@
       "row": 27,
       "label": "Upload Jake signature page**",
       "uid": "SPIN:350"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 486,
+      "sid": 486,
+      "label": "Next step mirror thread",
+      "uid": "SPIN_WHEEL:486"
     }
   ],
-  "version": 1146,
-  "updated": "2026-07-23T05:28:31.328178+00:00",
+  "version": 1147,
+  "updated": "2026-07-23T07:04:55.797096+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 64,
     "TASKS": 17,
     "ZONES": 8,
     "MAINTENANCE": 2,
