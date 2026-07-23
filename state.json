@@ -22,16 +22,6 @@
       "uid": "SPIN:281"
     },
     {
-      "source": "ZONES",
-      "zid": 66,
-      "floor": "Digital",
-      "row": 67,
-      "label": "\ud83d\udcbb Due",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Due",
-      "uid": "ZONES:66"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 337,
       "row": 25,
@@ -804,10 +794,19 @@
       "sid": 483,
       "label": "Grab my Marco book to start",
       "uid": "SPIN_WHEEL:483"
+    },
+    {
+      "source": "ZONES",
+      "zid": 68,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Photos",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Photos",
+      "uid": "ZONES:68"
     }
   ],
-  "version": 1137,
-  "updated": "2026-07-23T02:27:45.752942+00:00",
+  "version": 1138,
+  "updated": "2026-07-23T02:59:26.732500+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 63,
