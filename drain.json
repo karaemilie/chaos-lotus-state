@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-22T23:24:37.329Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Grab my Marco book to start",
+      "_addedAt": "2026-07-23T02:26:48.678Z",
+      "_ts": "2026-07-23T02:26:48.828Z"
+    }
+  ],
+  "mirroredAt": "2026-07-23T02:26:49.082Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
