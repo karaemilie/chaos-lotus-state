@@ -684,13 +684,6 @@
       "uid": "SPIN:412"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 480,
-      "row": 60,
-      "label": "Add photo of mirror wall to Claude thread",
-      "uid": "SPIN:480"
-    },
-    {
       "source": "TASKS",
       "id": 11711,
       "row": 282,
@@ -813,10 +806,10 @@
       "uid": "SPIN_WHEEL:486"
     }
   ],
-  "version": 1147,
-  "updated": "2026-07-23T07:04:55.797096+00:00",
+  "version": 1148,
+  "updated": "2026-07-23T07:05:42.454541+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "ZONES": 8,
     "MAINTENANCE": 2,
