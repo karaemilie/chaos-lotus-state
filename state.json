@@ -645,20 +645,6 @@
       "uid": "SPIN:459"
     },
     {
-      "source": "TASKS",
-      "id": 11789,
-      "row": 319,
-      "label": "\u2728 Water snake plants",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11789"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 333,
       "row": 23,
@@ -795,10 +781,23 @@
       "cat": "Kids",
       "critical": false,
       "uid": "TASKS:11630"
+    },
+    {
+      "source": "TASKS",
+      "id": 10023,
+      "label": "Measure width for cabinet shelves",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10023"
     }
   ],
-  "version": 1140,
-  "updated": "2026-07-23T03:44:49.284122+00:00",
+  "version": 1141,
+  "updated": "2026-07-23T03:49:06.508982+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 62,
