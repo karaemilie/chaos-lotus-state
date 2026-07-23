@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-23T03:49:08.768Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Setup email forward.net **",
+      "_addedAt": "2026-07-23T04:47:02.042Z",
+      "_ts": "2026-07-23T04:47:02.543Z"
+    }
+  ],
+  "mirroredAt": "2026-07-23T04:47:02.897Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-23T03:49:09.629381+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11789"
-  ]
+    "adds": 1
+  }
 }
