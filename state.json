@@ -493,13 +493,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 482,
-      "row": 62,
-      "label": "Set up rug pad",
-      "uid": "SPIN:482"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 459,
       "row": 52,
       "label": "Antigravity for stocks?",
@@ -677,13 +670,6 @@
       "uid": "COURAGE:11217:0"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 412,
-      "row": 39,
-      "label": "Figure out if we have smart bulbs in the hall",
-      "uid": "SPIN:412"
-    },
-    {
       "source": "TASKS",
       "id": 11711,
       "row": 282,
@@ -819,10 +805,10 @@
       "uid": "SPIN_WHEEL:488"
     }
   ],
-  "version": 1151,
-  "updated": "2026-07-23T07:54:13.306017+00:00",
+  "version": 1152,
+  "updated": "2026-07-23T07:55:00.495229+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "ZONES": 8,
     "MAINTENANCE": 2,
