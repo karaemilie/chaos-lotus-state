@@ -1,16 +1,18 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-23T23:25:22.441Z",
-  "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-23T23:25:23.488477+00:00",
-  "lastAutoProcessed": [
-    "ZONES:75"
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10522,
+      "row": 121,
+      "label": "⭐ Linc - violin this year? Hmmm",
+      "uid": "TASKS:10522",
+      "_ts": "2026-07-23T23:25:31.339Z"
+    }
   ],
-  "autoReset": [
-    "Plant"
-  ]
+  "adds": [],
+  "mirroredAt": "2026-07-23T23:25:31.572Z",
+  "counts": {
+    "completions": 1,
+    "adds": 0
+  }
 }
