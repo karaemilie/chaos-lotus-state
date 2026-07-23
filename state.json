@@ -257,15 +257,6 @@
       "uid": "SPIN:243"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 87,
-      "row": 88,
-      "label": "\ud83c\udfe0 Dust spray on stair iron",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Dust spray on stair iron",
-      "uid": "MAINTENANCE:87"
-    },
-    {
       "source": "TASKS",
       "id": 11421,
       "row": 217,
@@ -805,10 +796,18 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Plants",
       "uid": "ZONES:74"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 90,
+      "label": "\ud83c\udfe0 Scrub cats food bowl",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Scrub cats food bowl",
+      "uid": "MAINTENANCE:90"
     }
   ],
-  "version": 1162,
-  "updated": "2026-07-23T23:27:06.311814+00:00",
+  "version": 1163,
+  "updated": "2026-07-23T23:42:09.542669+00:00",
   "buckets": {
     "SPIN_WHEEL": 64,
     "TASKS": 17,
