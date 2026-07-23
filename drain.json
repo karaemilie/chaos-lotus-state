@@ -1,16 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 88,
+      "label": "🏠 Dust spray on stair iron",
+      "uid": "MAINTENANCE:87",
+      "_ts": "2026-07-23T23:41:55.346Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-23T23:27:08.515Z",
+  "mirroredAt": "2026-07-23T23:41:55.577Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-23T23:27:09.402554+00:00",
-  "lastAutoProcessed": [
-    "ZONES:2",
-    "ZONES:73",
-    "TASKS:10522",
-    "TASKS:10190"
-  ]
+  }
 }
