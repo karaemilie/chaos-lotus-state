@@ -1,15 +1,43 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10522,
+      "row": 121,
+      "label": "⭐ Linc - violin this year? Hmmm",
+      "uid": "TASKS:10522",
+      "_ts": "2026-07-23T23:25:31.339Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 10190,
+      "row": 61,
+      "label": "⭐ Mirror Wall: Use AI to finish designing layout 📝",
+      "uid": "TASKS:10190",
+      "_ts": "2026-07-23T23:26:00.057Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 3,
+      "zid": 2,
+      "floor": "Upstairs",
+      "label": "🧺 Upstairs Family Room",
+      "uid": "ZONES:2",
+      "_ts": "2026-07-23T23:26:19.083Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "🌱 Bedroom",
+      "uid": "ZONES:73",
+      "_ts": "2026-07-23T23:26:50.775Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-23T23:26:41.715Z",
+  "mirroredAt": "2026-07-23T23:26:50.997Z",
   "counts": {
-    "completions": 0,
+    "completions": 4,
     "adds": 0
-  },
-  "processedAt": "2026-07-23T23:26:42.613274+00:00",
-  "lastAutoProcessed": [
-    "ZONES:2",
-    "TASKS:10522",
-    "TASKS:10190"
-  ]
+  }
 }
