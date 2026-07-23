@@ -802,12 +802,19 @@
       "sid": 489,
       "label": "Calc paint needed for boys room",
       "uid": "SPIN_WHEEL:489"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 490,
+      "sid": 490,
+      "label": "Read more about paint sprayers - quickest clean??",
+      "uid": "SPIN_WHEEL:490"
     }
   ],
-  "version": 1156,
-  "updated": "2026-07-23T08:31:31.987857+00:00",
+  "version": 1157,
+  "updated": "2026-07-23T08:31:34.822885+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 64,
     "TASKS": 17,
     "ZONES": 8,
     "MAINTENANCE": 2,
