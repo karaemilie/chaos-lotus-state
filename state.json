@@ -724,15 +724,6 @@
       "uid": "SPIN_WHEEL:488"
     },
     {
-      "source": "ZONES",
-      "zid": 68,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Photos",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Photos",
-      "uid": "ZONES:68"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 489,
       "sid": 489,
@@ -797,10 +788,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Scrub cats food bowl",
       "uid": "MAINTENANCE:90"
+    },
+    {
+      "source": "ZONES",
+      "zid": 69,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Reviews",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Reviews",
+      "uid": "ZONES:69"
     }
   ],
-  "version": 1164,
-  "updated": "2026-07-23T23:42:34.467034+00:00",
+  "version": 1165,
+  "updated": "2026-07-23T23:43:20.171531+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 17,
