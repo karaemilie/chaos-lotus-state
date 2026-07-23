@@ -350,16 +350,6 @@
       "uid": "SPIN:347"
     },
     {
-      "source": "TASKS",
-      "id": 11075,
-      "row": 176,
-      "label": "\ud83d\udc38 Reconcile Chase Hyatt card statement",
-      "emoji": "\ud83d\udc38",
-      "aw": 2,
-      "specialZone": "Frog",
-      "uid": "TASKS:11075"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 471,
       "row": 58,
@@ -801,10 +791,23 @@
       "sid": 484,
       "label": "Setup email forward.net **",
       "uid": "SPIN_WHEEL:484"
+    },
+    {
+      "source": "TASKS",
+      "id": 11711,
+      "label": "Set up process flow for Cowork (Claude app) \u2192 RecCloud to transcribe reels on new computer \ud83e\udd16\ud83c\udfac\ud83d\udcbb \u2014 \ud83c\udfaf First step: open Cowork on new laptop, paste one reel URL, test RecCloud transcribe",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11711"
     }
   ],
-  "version": 1142,
-  "updated": "2026-07-23T04:47:15.278050+00:00",
+  "version": 1143,
+  "updated": "2026-07-23T05:25:30.067935+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 63,
