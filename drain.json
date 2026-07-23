@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10522,
+      "row": 121,
+      "label": "⭐ Linc - violin this year? Hmmm",
+      "uid": "TASKS:10522",
+      "_ts": "2026-07-23T23:25:31.339Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 10190,
+      "row": 61,
+      "label": "⭐ Mirror Wall: Use AI to finish designing layout 📝",
+      "uid": "TASKS:10190",
+      "_ts": "2026-07-23T23:26:00.057Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-23T23:25:48.807Z",
+  "mirroredAt": "2026-07-23T23:26:00.292Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-23T23:25:49.575570+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10522"
-  ]
+  }
 }
