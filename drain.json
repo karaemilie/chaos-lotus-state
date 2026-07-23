@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 39,
+      "label": "Figure out if we have smart bulbs in the hall",
+      "uid": "SPIN:412",
+      "_ts": "2026-07-23T07:48:17.195Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-07-23T07:48:15.342Z"
     }
   ],
-  "mirroredAt": "2026-07-23T07:48:15.745Z",
+  "mirroredAt": "2026-07-23T07:48:17.430Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
