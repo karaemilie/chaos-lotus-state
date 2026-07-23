@@ -685,20 +685,6 @@
       "uid": "SPIN:405"
     },
     {
-      "source": "TASKS",
-      "id": 10190,
-      "row": 61,
-      "label": "\u2b50 Mirror Wall: Use AI to finish designing layout \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 45,
-      "ml": "Medium",
-      "proj": "Mirror Wall",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10190"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 443,
       "row": 46,
@@ -807,10 +793,23 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10237"
+    },
+    {
+      "source": "TASKS",
+      "id": 10533,
+      "label": "Lymow - circle back on blades and antenna",
+      "aw": 7,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10533"
     }
   ],
-  "version": 1159,
-  "updated": "2026-07-23T23:25:46.612388+00:00",
+  "version": 1160,
+  "updated": "2026-07-23T23:26:10.145137+00:00",
   "buckets": {
     "SPIN_WHEEL": 64,
     "TASKS": 17,
