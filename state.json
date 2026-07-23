@@ -641,16 +641,6 @@
       "uid": "TASKS:11805"
     },
     {
-      "source": "ZONES",
-      "zid": 67,
-      "floor": "Digital",
-      "row": 68,
-      "label": "\ud83d\udcbb Quicken",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Quicken",
-      "uid": "ZONES:67"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 38,
       "row": 2,
@@ -803,10 +793,19 @@
       "sid": 488,
       "label": "Create hall in hue app *",
       "uid": "SPIN_WHEEL:488"
+    },
+    {
+      "source": "ZONES",
+      "zid": 68,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Photos",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Photos",
+      "uid": "ZONES:68"
     }
   ],
-  "version": 1153,
-  "updated": "2026-07-23T07:55:32.812868+00:00",
+  "version": 1154,
+  "updated": "2026-07-23T08:13:52.637471+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 17,
