@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 88,
+      "label": "🏠 Dust spray on stair iron",
+      "uid": "MAINTENANCE:87",
+      "_ts": "2026-07-23T23:41:55.346Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 59,
+      "label": "Hand sand table, next step?",
+      "uid": "SPIN:479",
+      "_ts": "2026-07-23T23:42:19.824Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-23T23:42:10.786Z",
+  "mirroredAt": "2026-07-23T23:42:20.059Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-23T23:42:11.905008+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:87"
-  ]
+  }
 }
