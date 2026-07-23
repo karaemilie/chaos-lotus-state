@@ -699,20 +699,6 @@
       "uid": "TASKS:10190"
     },
     {
-      "source": "TASKS",
-      "id": 10522,
-      "row": 121,
-      "label": "\u2b50 Linc - violin this year? Hmmm",
-      "aw": 6,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10522"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 443,
       "row": 46,
@@ -808,10 +794,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Bedroom",
       "uid": "ZONES:73"
+    },
+    {
+      "source": "TASKS",
+      "id": 10237,
+      "label": "Cancel Slate card",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10237"
     }
   ],
-  "version": 1158,
-  "updated": "2026-07-23T23:25:19.308278+00:00",
+  "version": 1159,
+  "updated": "2026-07-23T23:25:46.612388+00:00",
   "buckets": {
     "SPIN_WHEEL": 64,
     "TASKS": 17,
