@@ -427,13 +427,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 464,
-      "row": 54,
-      "label": "Research paint sprayer for bedroom project \ud83c\udfa8",
-      "uid": "SPIN:464"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 322,
       "row": 19,
       "label": "Call eye dr and request call to Linai",
@@ -811,10 +804,10 @@
       "uid": "SPIN_WHEEL:489"
     }
   ],
-  "version": 1155,
-  "updated": "2026-07-23T08:30:40.300380+00:00",
+  "version": 1156,
+  "updated": "2026-07-23T08:31:31.987857+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "ZONES": 8,
     "MAINTENANCE": 2,
