@@ -16,13 +16,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 467,
-      "row": 57,
-      "label": "Change parent pin and kindle device name",
-      "uid": "SPIN:467"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 281,
       "row": 18,
       "label": "WWAMI cost research",
@@ -813,11 +806,11 @@
       "uid": "SPIN_WHEEL:483"
     }
   ],
-  "version": 1136,
-  "updated": "2026-07-23T02:27:02.106351+00:00",
+  "version": 1137,
+  "updated": "2026-07-23T02:27:45.752942+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
