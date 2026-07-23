@@ -681,13 +681,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 479,
-      "row": 59,
-      "label": "Hand sand table, next step?",
-      "uid": "SPIN:479"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 135,
       "row": 6,
       "label": "Move chairs",
@@ -806,10 +799,10 @@
       "uid": "MAINTENANCE:90"
     }
   ],
-  "version": 1163,
-  "updated": "2026-07-23T23:42:09.542669+00:00",
+  "version": 1164,
+  "updated": "2026-07-23T23:42:34.467034+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "ZONES": 8,
     "MAINTENANCE": 2,
