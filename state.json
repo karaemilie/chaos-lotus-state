@@ -603,16 +603,6 @@
       "uid": "SPIN:253"
     },
     {
-      "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "row": 76,
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 323,
       "row": 20,
@@ -809,10 +799,19 @@
       "sid": 490,
       "label": "Read more about paint sprayers - quickest clean??",
       "uid": "SPIN_WHEEL:490"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 1157,
-  "updated": "2026-07-23T08:31:34.822885+00:00",
+  "version": 1158,
+  "updated": "2026-07-23T23:25:19.308278+00:00",
   "buckets": {
     "SPIN_WHEEL": 64,
     "TASKS": 17,
