@@ -1,9 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 68,
+      "zid": 67,
+      "floor": "Digital",
+      "label": "💻 Quicken",
+      "uid": "ZONES:67",
+      "_ts": "2026-07-23T08:13:38.781Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-23T07:55:34.054Z",
+  "mirroredAt": "2026-07-23T08:13:39.023Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
