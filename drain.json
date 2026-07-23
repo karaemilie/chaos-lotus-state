@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-23T05:25:32.677Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Submit for Bentley summer class reimbursement t",
+      "_addedAt": "2026-07-23T05:27:30.086Z",
+      "_ts": "2026-07-23T05:27:30.541Z"
+    }
+  ],
+  "mirroredAt": "2026-07-23T05:27:30.894Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-23T05:25:33.630399+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11075"
-  ]
+    "adds": 1
+  }
 }
