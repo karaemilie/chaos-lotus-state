@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-23T07:46:02.036Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Create hall in hue app *",
+      "_addedAt": "2026-07-23T07:48:14.846Z",
+      "_ts": "2026-07-23T07:48:15.342Z"
+    }
+  ],
+  "mirroredAt": "2026-07-23T07:48:15.745Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-23T07:46:03.233517+00:00",
-  "lastAutoProcessed": [
-    "ZONES:27"
-  ]
+    "adds": 1
+  }
 }
