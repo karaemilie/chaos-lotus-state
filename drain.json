@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-23T07:05:43.508Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "5 minutes in AceIt app",
+      "_addedAt": "2026-07-23T07:05:56.123Z",
+      "_ts": "2026-07-23T07:05:56.362Z"
+    }
+  ],
+  "mirroredAt": "2026-07-23T07:05:56.671Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-23T07:05:44.406015+00:00",
-  "lastAutoProcessed": [
-    "SPIN:480"
-  ]
+    "adds": 1
+  }
 }
