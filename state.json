@@ -759,15 +759,6 @@
       "uid": "ZONES:3"
     },
     {
-      "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Family Room Plants",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Plants",
-      "uid": "ZONES:74"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 90,
       "label": "\ud83c\udfe0 Scrub cats food bowl",
@@ -797,10 +788,19 @@
       "sid": 492,
       "label": "Research last year robotics comps in",
       "uid": "SPIN_WHEEL:492"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Main floor Down Low",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Main floor Down Low",
+      "uid": "ZONES:75"
     }
   ],
-  "version": 1169,
-  "updated": "2026-07-24T00:53:41.428184+00:00",
+  "version": 1170,
+  "updated": "2026-07-24T00:54:27.439004+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 17,
