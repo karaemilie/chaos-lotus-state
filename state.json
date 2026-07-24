@@ -71,16 +71,6 @@
       "uid": "TASKS:10454"
     },
     {
-      "source": "TASKS",
-      "id": 11491,
-      "row": 226,
-      "label": "\ud83d\udc38 Call Alaska Air: claim miles for cello flight + ask about baggage refund \ud83c\udfbb\u2708\ufe0f \ud83d\udcdd",
-      "emoji": "\ud83d\udc38",
-      "aw": 2,
-      "specialZone": "Frog",
-      "uid": "TASKS:11491"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 165,
       "row": 7,
@@ -795,10 +785,23 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Wash towels",
       "uid": "MAINTENANCE:91"
+    },
+    {
+      "source": "TASKS",
+      "id": 11225,
+      "label": "Buy Evan a rock climbing harness \ud83e\uddd7",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11225"
     }
   ],
-  "version": 1172,
-  "updated": "2026-07-24T01:14:29.741477+00:00",
+  "version": 1173,
+  "updated": "2026-07-24T08:36:16.590101+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 17,
