@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-24T21:59:55.399Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Move Jake August ticket",
+      "_addedAt": "2026-07-24T22:01:02.888Z",
+      "_ts": "2026-07-24T22:01:03.053Z"
+    }
+  ],
+  "mirroredAt": "2026-07-24T22:01:03.286Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
