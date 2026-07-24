@@ -790,12 +790,19 @@
       "sid": 491,
       "label": "See what FPCS is doing for robotics league",
       "uid": "SPIN_WHEEL:491"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 492,
+      "sid": 492,
+      "label": "Research last year robotics comps in",
+      "uid": "SPIN_WHEEL:492"
     }
   ],
-  "version": 1168,
-  "updated": "2026-07-24T00:53:39.410125+00:00",
+  "version": 1169,
+  "updated": "2026-07-24T00:53:41.428184+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "ZONES": 8,
     "MAINTENANCE": 2,
