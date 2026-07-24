@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-24T00:43:57.246Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "See what FPCS is doing for robotics league",
+      "_addedAt": "2026-07-24T00:52:45.011Z",
+      "_ts": "2026-07-24T00:52:45.128Z"
+    }
+  ],
+  "mirroredAt": "2026-07-24T00:52:45.386Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-24T00:43:58.168538+00:00",
-  "lastAutoProcessed": [
-    "SPIN:485"
-  ]
+    "adds": 1
+  }
 }
