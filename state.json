@@ -796,12 +796,19 @@
       "sid": 495,
       "label": "Find Jake $2000 May class so I can reimbursw",
       "uid": "SPIN_WHEEL:495"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 496,
+      "sid": 496,
+      "label": "Move Jake August ticket",
+      "uid": "SPIN_WHEEL:496"
     }
   ],
-  "version": 1181,
-  "updated": "2026-07-24T21:59:56.692919+00:00",
+  "version": 1182,
+  "updated": "2026-07-24T22:01:19.925112+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 64,
     "TASKS": 17,
     "ZONES": 8,
     "COURAGE": 3,
