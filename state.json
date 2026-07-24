@@ -51,13 +51,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 424,
-      "row": 41,
-      "label": "Ask Evan if he WANTS to do robotics ? Ask Lincoln ?",
-      "uid": "SPIN:424"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 453,
       "row": 48,
       "label": "Paint a railing section",
@@ -799,10 +792,10 @@
       "uid": "SPIN_WHEEL:491"
     }
   ],
-  "version": 1167,
-  "updated": "2026-07-24T00:53:00.582044+00:00",
+  "version": 1168,
+  "updated": "2026-07-24T00:53:39.410125+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 17,
     "ZONES": 8,
     "MAINTENANCE": 2,
