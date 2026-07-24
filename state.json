@@ -207,13 +207,6 @@
       "uid": "SPIN:336"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 243,
-      "row": 11,
-      "label": "Change Amazon card payments",
-      "uid": "SPIN:243"
-    },
-    {
       "source": "TASKS",
       "id": 11421,
       "row": 217,
@@ -799,10 +792,10 @@
       "uid": "SPIN_WHEEL:494"
     }
   ],
-  "version": 1178,
-  "updated": "2026-07-24T21:03:36.510801+00:00",
+  "version": 1179,
+  "updated": "2026-07-24T21:04:09.861793+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 17,
     "ZONES": 8,
     "COURAGE": 3,
