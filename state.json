@@ -797,12 +797,19 @@
       "sid": 493,
       "label": "Talk to parents about running funds through Genevieve 529",
       "uid": "SPIN_WHEEL:493"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 494,
+      "sid": 494,
+      "label": "Explore Claude voice mode as a tutor",
+      "uid": "SPIN_WHEEL:494"
     }
   ],
-  "version": 1176,
-  "updated": "2026-07-24T19:52:11.725703+00:00",
+  "version": 1177,
+  "updated": "2026-07-24T20:58:05.469762+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 64,
     "TASKS": 17,
     "ZONES": 8,
     "COURAGE": 3,
