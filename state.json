@@ -810,12 +810,26 @@
       "sid": 497,
       "label": "Drop off USPS boxes",
       "uid": "SPIN_WHEEL:497"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 498,
+      "sid": 498,
+      "label": "Drop Off recycling",
+      "uid": "SPIN_WHEEL:498"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 499,
+      "sid": 499,
+      "label": "Break down recycling",
+      "uid": "SPIN_WHEEL:499"
     }
   ],
-  "version": 1183,
-  "updated": "2026-07-24T22:33:35.091816+00:00",
+  "version": 1184,
+  "updated": "2026-07-24T22:34:27.843633+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 67,
     "TASKS": 17,
     "ZONES": 8,
     "COURAGE": 3,
