@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 34,
+      "label": "Kitchen wizz bulbs",
+      "uid": "SPIN:389",
+      "_ts": "2026-07-24T08:37:21.637Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-24T08:37:02.908Z",
+  "mirroredAt": "2026-07-24T08:37:21.904Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-24T08:37:04.030197+00:00",
-  "lastAutoProcessed": [
-    "ZONES:82"
-  ]
+  }
 }
