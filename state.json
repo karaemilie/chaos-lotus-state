@@ -381,18 +381,6 @@
       "uid": "SPIN:481"
     },
     {
-      "source": "COURAGE",
-      "parentId": 10043,
-      "parentRow": 156,
-      "parentLabel": "Book back-to-school tickets for Bentley \u2708\ufe0f\ud83c\udf93 \ud83d\udcdd",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-06-25",
-      "label": "\ud83d\udd25 Book back-to-school tickets for Bentley \u2708\ufe0f\ud83c\udf93 \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:10043:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 322,
       "row": 19,
@@ -797,10 +785,21 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Main floor Down Low",
       "uid": "ZONES:75"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11221,
+      "stepIndex": 0,
+      "parentLabel": "Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
+      "aw": 2,
+      "due": "2026-06-25",
+      "label": "\ud83d\udd25 Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11221:0"
     }
   ],
-  "version": 1170,
-  "updated": "2026-07-24T00:54:27.439004+00:00",
+  "version": 1171,
+  "updated": "2026-07-24T01:10:23.257339+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 17,
