@@ -271,13 +271,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 279,
-      "row": 16,
-      "label": "\ud83d\udc38 Open Bentley fall rental site",
-      "uid": "SPIN:279"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 398,
       "row": 36,
       "label": "Order harp strings",
@@ -806,10 +799,10 @@
       "uid": "SPIN_WHEEL:494"
     }
   ],
-  "version": 1177,
-  "updated": "2026-07-24T20:58:05.469762+00:00",
+  "version": 1178,
+  "updated": "2026-07-24T21:03:36.510801+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "ZONES": 8,
     "COURAGE": 3,
