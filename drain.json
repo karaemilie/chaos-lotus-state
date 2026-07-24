@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11491,
+      "row": 226,
+      "label": "🐸 Call Alaska Air: claim miles for cello flight + ask about baggage refund 🎻✈️ 📝",
+      "uid": "TASKS:11491",
+      "_ts": "2026-07-24T08:36:01.791Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-24T01:14:30.668Z",
+  "mirroredAt": "2026-07-24T08:36:02.029Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-24T01:14:31.433398+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:88"
-  ]
+  }
 }
