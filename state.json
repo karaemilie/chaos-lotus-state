@@ -182,15 +182,6 @@
       "uid": "SPIN:333"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 88,
-      "row": 89,
-      "label": "\ud83c\udfe0 Scrub cats food plate",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Scrub cats food plate",
-      "uid": "MAINTENANCE:88"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 337,
       "row": 24,
@@ -796,15 +787,23 @@
       "label": "\ud83d\udd25 Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11221:0"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 91,
+      "label": "\ud83c\udfe0 Wash towels",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Wash towels",
+      "uid": "MAINTENANCE:91"
     }
   ],
-  "version": 1171,
-  "updated": "2026-07-24T01:10:23.257339+00:00",
+  "version": 1172,
+  "updated": "2026-07-24T01:14:29.741477+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 17,
     "ZONES": 8,
-    "MAINTENANCE": 2,
-    "COURAGE": 3
+    "COURAGE": 3,
+    "MAINTENANCE": 2
   }
 }
