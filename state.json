@@ -790,12 +790,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Mask",
       "uid": "ZONES:84"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 493,
+      "sid": 493,
+      "label": "Talk to parents about running funds through Genevieve 529",
+      "uid": "SPIN_WHEEL:493"
     }
   ],
-  "version": 1175,
-  "updated": "2026-07-24T08:37:37.932326+00:00",
+  "version": 1176,
+  "updated": "2026-07-24T19:52:11.725703+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "ZONES": 8,
     "COURAGE": 3,
