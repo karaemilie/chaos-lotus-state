@@ -92,16 +92,6 @@
       "uid": "SPIN:351"
     },
     {
-      "source": "ZONES",
-      "zid": 82,
-      "floor": "Personal",
-      "row": 83,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Dermaplane",
-      "uid": "ZONES:82"
-    },
-    {
       "source": "TASKS",
       "id": 11812,
       "row": 328,
@@ -798,10 +788,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:11225"
+    },
+    {
+      "source": "ZONES",
+      "zid": 84,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Mask",
+      "uid": "ZONES:84"
     }
   ],
-  "version": 1173,
-  "updated": "2026-07-24T08:36:16.590101+00:00",
+  "version": 1174,
+  "updated": "2026-07-24T08:37:01.709822+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 17,
