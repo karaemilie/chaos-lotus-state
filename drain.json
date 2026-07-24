@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 89,
+      "label": "🏠 Scrub cats food plate",
+      "uid": "MAINTENANCE:88",
+      "_ts": "2026-07-24T01:14:18.619Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-24T01:10:26.283Z",
+  "mirroredAt": "2026-07-24T01:14:18.824Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-24T01:10:27.421929+00:00",
-  "lastAutoProcessed": [
-    "COURAGE:10043:0"
-  ]
+  }
 }
