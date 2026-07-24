@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-24T08:37:39.159Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Talk to parents about running funds through Genevieve 529",
+      "_addedAt": "2026-07-24T19:51:56.849Z",
+      "_ts": "2026-07-24T19:51:57.014Z"
+    }
+  ],
+  "mirroredAt": "2026-07-24T19:51:57.264Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-24T08:37:40.211110+00:00",
-  "lastAutoProcessed": [
-    "SPIN:389"
-  ]
+    "adds": 1
+  }
 }
