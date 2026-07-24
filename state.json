@@ -304,13 +304,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 389,
-      "row": 34,
-      "label": "Kitchen wizz bulbs",
-      "uid": "SPIN:389"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 268,
       "row": 14,
       "label": "Try putty on chair ding **",
@@ -799,10 +792,10 @@
       "uid": "ZONES:84"
     }
   ],
-  "version": 1174,
-  "updated": "2026-07-24T08:37:01.709822+00:00",
+  "version": 1175,
+  "updated": "2026-07-24T08:37:37.932326+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 17,
     "ZONES": 8,
     "COURAGE": 3,
