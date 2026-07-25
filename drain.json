@@ -1,13 +1,16 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "label": "🏠 Scrub cats food bowl",
+      "uid": "MAINTENANCE:90",
+      "_ts": "2026-07-25T04:59:29.261Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-25T04:54:16.075Z",
+  "mirroredAt": "2026-07-25T04:59:29.485Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-25T04:54:16.950032+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11293"
-  ]
+  }
 }
