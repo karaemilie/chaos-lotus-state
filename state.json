@@ -272,13 +272,6 @@
       "uid": "SPIN:268"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 450,
-      "row": 47,
-      "label": "Ten more minutes YouTube video",
-      "uid": "SPIN:450"
-    },
-    {
       "source": "TASKS",
       "id": 11764,
       "row": 301,
@@ -832,10 +825,10 @@
       "uid": "SPIN_WHEEL:500"
     }
   ],
-  "version": 1187,
-  "updated": "2026-07-25T03:23:24.659564+00:00",
+  "version": 1188,
+  "updated": "2026-07-25T03:24:12.094726+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
