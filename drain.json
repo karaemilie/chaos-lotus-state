@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-25T06:43:49.656Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Look at Pet insta ideA",
+      "_addedAt": "2026-07-25T07:48:30.903Z",
+      "_ts": "2026-07-25T07:48:31.288Z"
+    }
+  ],
+  "mirroredAt": "2026-07-25T07:48:31.623Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-25T06:43:50.637526+00:00",
-  "lastAutoProcessed": [
-    "SPIN:425"
-  ]
+    "adds": 1
+  }
 }
