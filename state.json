@@ -740,13 +740,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 499,
-      "row": 63,
-      "label": "Break down recycling",
-      "uid": "SPIN:499"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 495,
       "row": 59,
       "label": "Find Jake $2000 May class so I can reimbursw",
@@ -865,10 +858,10 @@
       "uid": "SPIN:497"
     }
   ],
-  "version": 1210,
-  "updated": "2026-07-25T07:50:28.678330+00:00",
+  "version": 1211,
+  "updated": "2026-07-25T07:52:47.034558+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 69,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
