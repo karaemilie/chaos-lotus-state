@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 37,
+      "label": "See if South has FLL class",
+      "uid": "SPIN:425",
+      "_ts": "2026-07-25T06:43:35.076Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-25T06:32:04.008Z",
+  "mirroredAt": "2026-07-25T06:43:35.291Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-25T06:32:04.924775+00:00",
-  "lastAutoProcessed": [
-    "SPIN:491"
-  ]
+  }
 }
