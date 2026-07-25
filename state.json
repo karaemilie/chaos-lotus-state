@@ -114,20 +114,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11777,
-      "row": 310,
-      "label": "\u2728 Spend time on flower bouquet coding project",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": "Bouquet Tracker",
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11777"
-    },
-    {
-      "source": "TASKS",
       "id": 10198,
       "row": 66,
       "label": "\u2b50 Review notes from convo with Linai's Dad about WWAMI",
@@ -829,10 +815,23 @@
       "sid": 501,
       "label": "More icon design tracker app **",
       "uid": "SPIN_WHEEL:501"
+    },
+    {
+      "source": "TASKS",
+      "id": 11630,
+      "label": "Look at shoes with Jake \ud83d\udc5f \ud83c\udfaf First step: ask Jake his size + what style he wants, then browse",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11630"
     }
   ],
-  "version": 1190,
-  "updated": "2026-07-25T03:43:21.329239+00:00",
+  "version": 1191,
+  "updated": "2026-07-25T03:44:05.851124+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "TASKS": 17,
