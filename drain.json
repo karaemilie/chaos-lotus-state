@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11812,
+      "row": 328,
+      "label": "✨ Check if Mizuno GX Sonic 6 CR is back in stock (blue, size 24)",
+      "uid": "TASKS:11812",
+      "_ts": "2026-07-25T03:38:36.817Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-25T03:24:13.018Z",
+  "mirroredAt": "2026-07-25T03:38:37.075Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-25T03:24:13.744092+00:00",
-  "lastAutoProcessed": [
-    "SPIN:450"
-  ]
+  }
 }
