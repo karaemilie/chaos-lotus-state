@@ -849,12 +849,19 @@
       "row": 60,
       "label": "Research last year robotics comps in",
       "uid": "SPIN:492"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 503,
+      "sid": 503,
+      "label": "Research built ins and heat vents (Mudroom)",
+      "uid": "SPIN_WHEEL:503"
     }
   ],
-  "version": 1199,
-  "updated": "2026-07-25T05:01:39.860179+00:00",
+  "version": 1200,
+  "updated": "2026-07-25T05:02:36.698932+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 69,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
