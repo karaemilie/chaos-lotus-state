@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 62,
+      "label": "Drop Off recycling",
+      "uid": "SPIN:498",
+      "_ts": "2026-07-25T09:31:33.835Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-25T08:03:51.832Z",
+  "mirroredAt": "2026-07-25T09:31:34.066Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
