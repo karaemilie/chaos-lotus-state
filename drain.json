@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 52,
+      "label": "Research last year robotics comps in",
+      "uid": "SPIN:492",
+      "_ts": "2026-07-25T09:40:03.961Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 10124,
+      "row": 31,
+      "label": "⭐ Go through garage shoes with Evan 📝",
+      "uid": "TASKS:10124",
+      "_ts": "2026-07-25T09:41:01.679Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-25T09:40:18.401Z",
+  "mirroredAt": "2026-07-25T09:41:01.954Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-25T09:40:19.075496+00:00",
-  "lastAutoProcessed": [
-    "SPIN:492"
-  ]
+  }
 }
