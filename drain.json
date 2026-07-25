@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-25T04:59:42.494Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Look up harp in Evernote",
+      "_addedAt": "2026-07-25T05:00:29.300Z",
+      "_ts": "2026-07-25T05:00:29.629Z"
+    }
+  ],
+  "mirroredAt": "2026-07-25T05:00:29.947Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-25T04:59:43.386483+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:90"
-  ]
+    "adds": 1
+  }
 }
