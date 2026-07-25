@@ -1,5 +1,14 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11847,
+      "row": 361,
+      "label": "✨ Use Claude budget on new projects or app feature development 🧠⏳ 📝",
+      "uid": "TASKS:11847",
+      "_ts": "2026-07-25T04:52:34.065Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +17,9 @@
       "_ts": "2026-07-25T04:52:32.826Z"
     }
   ],
-  "mirroredAt": "2026-07-25T04:52:33.069Z",
+  "mirroredAt": "2026-07-25T04:52:34.276Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
