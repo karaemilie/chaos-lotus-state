@@ -820,12 +820,19 @@
       "sid": 511,
       "label": "Start freezer wrap!!!!",
       "uid": "SPIN_WHEEL:511"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 512,
+      "sid": 512,
+      "label": "Basket for front bench",
+      "uid": "SPIN_WHEEL:512"
     }
   ],
-  "version": 1224,
-  "updated": "2026-07-25T22:10:54.901197+00:00",
+  "version": 1225,
+  "updated": "2026-07-25T22:11:40.644045+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 65,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
