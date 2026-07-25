@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 67,
+      "label": "Break down recycling",
+      "uid": "SPIN:499",
+      "_ts": "2026-07-25T07:52:31.960Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-25T07:50:29.719Z",
+  "mirroredAt": "2026-07-25T07:52:32.180Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-25T07:50:30.454952+00:00",
-  "lastAutoProcessed": [
-    "SPIN:471"
-  ]
+  }
 }
