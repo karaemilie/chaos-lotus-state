@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-25T07:57:18.683Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Plot out plan for Genevieve school year costs",
+      "_addedAt": "2026-07-25T08:03:37.834Z",
+      "_ts": "2026-07-25T08:03:37.964Z"
+    }
+  ],
+  "mirroredAt": "2026-07-25T08:03:38.213Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
-  },
-  "processedAt": "2026-07-25T07:57:52.562188+00:00",
-  "lastAutoProcessed": [
-    "SPIN:493"
-  ]
+    "completions": 0,
+    "adds": 1
+  }
 }
