@@ -770,13 +770,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 497,
-      "row": 61,
-      "label": "Drop off USPS boxes",
-      "uid": "SPIN:497"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 509,
       "sid": 509,
       "label": "Plot out plan for Genevieve school year costs",
@@ -794,15 +787,6 @@
       "cat": "Kids",
       "critical": false,
       "uid": "TASKS:11708"
-    },
-    {
-      "source": "ZONES",
-      "zid": 44,
-      "floor": "Basement",
-      "label": "\ud83e\uddfa Basement Main Area",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Main Area",
-      "uid": "ZONES:44"
     },
     {
       "source": "MAINTENANCE",
@@ -824,12 +808,21 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11769"
+    },
+    {
+      "source": "ZONES",
+      "zid": 45,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Crawlspace",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Crawlspace",
+      "uid": "ZONES:45"
     }
   ],
-  "version": 1217,
-  "updated": "2026-07-25T09:33:51.110251+00:00",
+  "version": 1218,
+  "updated": "2026-07-25T09:34:59.781838+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
