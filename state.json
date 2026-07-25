@@ -29,20 +29,6 @@
       "uid": "SPIN:366"
     },
     {
-      "source": "TASKS",
-      "id": 11293,
-      "row": 210,
-      "label": "\u2728 Fertilize raspberries \ud83e\uded0\ud83c\udf31",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11293"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 220,
       "row": 10,
@@ -834,10 +820,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10122"
+    },
+    {
+      "source": "TASKS",
+      "id": 10124,
+      "label": "Go through garage shoes with Evan \ud83d\udcdd",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": "Garage Organization",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10124"
     }
   ],
-  "version": 1194,
-  "updated": "2026-07-25T04:53:27.477743+00:00",
+  "version": 1195,
+  "updated": "2026-07-25T04:54:13.801298+00:00",
   "buckets": {
     "SPIN_WHEEL": 69,
     "TASKS": 17,
