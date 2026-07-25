@@ -2,6 +2,13 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
+      "row": 62,
+      "label": "Drop Off recycling",
+      "uid": "SPIN:498",
+      "_ts": "2026-07-25T09:31:33.835Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 47,
       "label": "DQ gift cards - pack",
       "uid": "SPIN:478",
@@ -14,12 +21,19 @@
       "label": "✨ Rotate plants on hallway wall 🪴🔄",
       "uid": "TASKS:11799",
       "_ts": "2026-07-25T09:31:49.397Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 19,
+      "label": "Clean up front porch",
+      "uid": "SPIN:325",
+      "_ts": "2026-07-25T09:32:29.161Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-25T09:31:56.444Z",
+  "mirroredAt": "2026-07-25T09:32:29.407Z",
   "counts": {
-    "completions": 2,
+    "completions": 4,
     "adds": 0
   }
 }
