@@ -168,13 +168,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 375,
-      "row": 28,
-      "label": "Measure already cut birch for closet *",
-      "uid": "SPIN:375"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 268,
       "row": 13,
       "label": "Try putty on chair ding **",
@@ -240,20 +233,6 @@
       "label": "\ud83d\udd25 Submit Bentley's PFD form to TCU \ud83d\udcdd",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:10365:0"
-    },
-    {
-      "source": "TASKS",
-      "id": 11805,
-      "row": 317,
-      "label": "\u2728 Put on new tattoo",
-      "aw": 4,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11805"
     },
     {
       "source": "TASKS",
@@ -870,12 +849,25 @@
       "sid": 505,
       "label": "Compare birch pieces to diagram",
       "uid": "SPIN_WHEEL:505"
+    },
+    {
+      "source": "TASKS",
+      "id": 11818,
+      "label": "Apply for travel grant for Embry-Riddle (Genevieve) \u2708\ufe0f\ud83d\udcb0",
+      "aw": 3,
+      "pri": 3,
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11818"
     }
   ],
-  "version": 1202,
-  "updated": "2026-07-25T06:23:15.115734+00:00",
+  "version": 1203,
+  "updated": "2026-07-25T06:24:01.678238+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 70,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
