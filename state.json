@@ -68,13 +68,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 492,
-      "row": 52,
-      "label": "Research last year robotics comps in",
-      "uid": "SPIN:492"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 322,
       "row": 17,
       "label": "Call eye dr and request call to Linai",
@@ -823,10 +816,10 @@
       "uid": "SPIN_WHEEL:510"
     }
   ],
-  "version": 1221,
-  "updated": "2026-07-25T09:39:40.882208+00:00",
+  "version": 1222,
+  "updated": "2026-07-25T09:40:17.338154+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
