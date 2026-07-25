@@ -601,14 +601,6 @@
       "uid": "TASKS:10533"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 90,
-      "label": "\ud83c\udfe0 Scrub cats food bowl",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Scrub cats food bowl",
-      "uid": "MAINTENANCE:90"
-    },
-    {
       "source": "ZONES",
       "zid": 69,
       "floor": "Digital",
@@ -833,10 +825,18 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10124"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 93,
+      "label": "\ud83c\udfe0 Wash towels",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Wash towels",
+      "uid": "MAINTENANCE:93"
     }
   ],
-  "version": 1195,
-  "updated": "2026-07-25T04:54:13.801298+00:00",
+  "version": 1196,
+  "updated": "2026-07-25T04:59:41.580954+00:00",
   "buckets": {
     "SPIN_WHEEL": 69,
     "TASKS": 17,
