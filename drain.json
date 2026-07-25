@@ -6,12 +6,19 @@
       "label": "Drop Off recycling",
       "uid": "SPIN:498",
       "_ts": "2026-07-25T09:31:33.835Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 47,
+      "label": "DQ gift cards - pack",
+      "uid": "SPIN:478",
+      "_ts": "2026-07-25T09:31:42.240Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-25T09:31:34.066Z",
+  "mirroredAt": "2026-07-25T09:31:42.447Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
