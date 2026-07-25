@@ -126,13 +126,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 491,
-      "row": 59,
-      "label": "See what FPCS is doing for robotics league",
-      "uid": "SPIN:491"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 497,
       "row": 65,
       "label": "Drop off USPS boxes",
@@ -878,10 +871,10 @@
       "uid": "SPIN_WHEEL:507"
     }
   ],
-  "version": 1205,
-  "updated": "2026-07-25T06:31:13.006473+00:00",
+  "version": 1206,
+  "updated": "2026-07-25T06:32:02.946904+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 71,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
