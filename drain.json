@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 48,
+      "label": "Set up black roborock",
+      "uid": "SPIN:471",
+      "_ts": "2026-07-25T07:50:16.313Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-25T07:48:45.071Z",
+  "mirroredAt": "2026-07-25T07:50:16.697Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
