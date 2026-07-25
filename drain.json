@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-25T09:41:15.987Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Start freezer wrap!!!!",
+      "_addedAt": "2026-07-25T22:10:34.803Z",
+      "_ts": "2026-07-25T22:10:34.918Z"
+    }
+  ],
+  "mirroredAt": "2026-07-25T22:10:35.162Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-25T09:41:16.918592+00:00",
-  "lastAutoProcessed": [
-    "SPIN:492",
-    "TASKS:10124"
-  ]
+    "adds": 1
+  }
 }
