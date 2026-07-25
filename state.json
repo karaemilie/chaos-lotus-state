@@ -862,12 +862,19 @@
       "cat": "Kids",
       "critical": false,
       "uid": "TASKS:11818"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 506,
+      "sid": 506,
+      "label": "Anchor bathroom hutch",
+      "uid": "SPIN_WHEEL:506"
     }
   ],
-  "version": 1203,
-  "updated": "2026-07-25T06:24:01.678238+00:00",
+  "version": 1204,
+  "updated": "2026-07-25T06:24:04.708252+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 71,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
