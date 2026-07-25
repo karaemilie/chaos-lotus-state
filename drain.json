@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-25T22:10:53.456Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Start freezer wrap!!!!",
+      "_addedAt": "2026-07-25T22:10:34.803Z",
+      "_ts": "2026-07-25T22:10:34.918Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Basket for front bench",
+      "_addedAt": "2026-07-25T22:11:05.546Z",
+      "_ts": "2026-07-25T22:11:05.661Z"
+    }
+  ],
+  "mirroredAt": "2026-07-25T22:11:05.912Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
