@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-25T05:02:35.431Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Make plan w/Ruth",
+      "_addedAt": "2026-07-25T06:07:29.366Z",
+      "_ts": "2026-07-25T06:07:29.484Z"
+    }
+  ],
+  "mirroredAt": "2026-07-25T06:07:29.712Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
