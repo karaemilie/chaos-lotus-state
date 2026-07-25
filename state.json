@@ -596,20 +596,6 @@
       "uid": "SPIN:459"
     },
     {
-      "source": "TASKS",
-      "id": 10124,
-      "row": 31,
-      "label": "\u2b50 Go through garage shoes with Evan \ud83d\udcdd",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": "Garage Organization",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10124"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 453,
       "row": 38,
@@ -814,10 +800,23 @@
       "sid": 510,
       "label": "Next three icons \u2728",
       "uid": "SPIN_WHEEL:510"
+    },
+    {
+      "source": "TASKS",
+      "id": 10533,
+      "label": "Lymow - circle back on blades and antenna",
+      "aw": 7,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10533"
     }
   ],
-  "version": 1222,
-  "updated": "2026-07-25T09:40:17.338154+00:00",
+  "version": 1223,
+  "updated": "2026-07-25T09:41:13.725428+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 17,
