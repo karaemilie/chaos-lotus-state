@@ -823,12 +823,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook A",
       "uid": "ZONES:76"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 500,
+      "sid": 500,
+      "label": "Finish the YouTube video on launching!",
+      "uid": "SPIN_WHEEL:500"
     }
   ],
-  "version": 1186,
-  "updated": "2026-07-25T00:44:07.792818+00:00",
+  "version": 1187,
+  "updated": "2026-07-25T03:23:24.659564+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 68,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
