@@ -727,13 +727,6 @@
       "uid": "SPIN:390"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 477,
-      "row": 46,
-      "label": "Set extra Roborock alarms",
-      "uid": "SPIN:477"
-    },
-    {
       "source": "TASKS",
       "id": 10124,
       "row": 31,
@@ -833,10 +826,10 @@
       "uid": "TASKS:11769"
     }
   ],
-  "version": 1216,
-  "updated": "2026-07-25T09:33:04.028109+00:00",
+  "version": 1217,
+  "updated": "2026-07-25T09:33:51.110251+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
