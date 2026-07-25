@@ -66,12 +66,20 @@
       "label": "Drop off USPS boxes",
       "uid": "SPIN:497",
       "_ts": "2026-07-25T09:33:34.813Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 44,
+      "floor": "Basement",
+      "label": "🧺 Basement Main Area",
+      "uid": "ZONES:44",
+      "_ts": "2026-07-25T09:33:48.382Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-25T09:33:35.011Z",
+  "mirroredAt": "2026-07-25T09:33:48.593Z",
   "counts": {
-    "completions": 9,
+    "completions": 10,
     "adds": 0
   }
 }
