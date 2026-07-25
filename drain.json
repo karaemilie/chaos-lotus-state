@@ -35,12 +35,20 @@
       "label": "🏠 Wash towels",
       "uid": "MAINTENANCE:93",
       "_ts": "2026-07-25T09:32:33.945Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11811,
+      "row": 320,
+      "label": "✨ Mow the lawn 🌱",
+      "uid": "TASKS:11811",
+      "_ts": "2026-07-25T09:32:42.134Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-25T09:32:34.145Z",
+  "mirroredAt": "2026-07-25T09:32:42.333Z",
   "counts": {
-    "completions": 5,
+    "completions": 6,
     "adds": 0
   }
 }
