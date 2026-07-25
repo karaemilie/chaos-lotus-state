@@ -510,20 +510,6 @@
       "uid": "SPIN:425"
     },
     {
-      "source": "TASKS",
-      "id": 11847,
-      "row": 361,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11847"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 405,
       "row": 37,
@@ -835,10 +821,23 @@
       "sid": 502,
       "label": "First step to convert pansy and task box to app store",
       "uid": "SPIN_WHEEL:502"
+    },
+    {
+      "source": "TASKS",
+      "id": 10122,
+      "label": "Get TV off school room wall",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "School Room Organization",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10122"
     }
   ],
-  "version": 1193,
-  "updated": "2026-07-25T04:52:46.101230+00:00",
+  "version": 1194,
+  "updated": "2026-07-25T04:53:27.477743+00:00",
   "buckets": {
     "SPIN_WHEEL": 69,
     "TASKS": 17,
