@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-25T06:07:46.964Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Compare birch pieces to diagram",
+      "_addedAt": "2026-07-25T06:22:57.850Z",
+      "_ts": "2026-07-25T06:22:57.964Z"
+    }
+  ],
+  "mirroredAt": "2026-07-25T06:22:58.198Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
