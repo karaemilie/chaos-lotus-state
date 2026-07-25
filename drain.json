@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-25T03:38:49.347Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "More icon design tracker app **",
+      "_addedAt": "2026-07-25T03:43:07.426Z",
+      "_ts": "2026-07-25T03:43:07.562Z"
+    }
+  ],
+  "mirroredAt": "2026-07-25T03:43:07.808Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-25T03:38:50.049190+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11812"
-  ]
+    "adds": 1
+  }
 }
