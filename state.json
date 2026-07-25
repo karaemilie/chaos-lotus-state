@@ -91,13 +91,6 @@
       "uid": "TASKS:10599"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 493,
-      "row": 57,
-      "label": "Talk to parents about running funds through Genevieve 529",
-      "uid": "SPIN:493"
-    },
-    {
       "source": "TASKS",
       "id": 10090,
       "row": 23,
@@ -858,10 +851,10 @@
       "uid": "SPIN:497"
     }
   ],
-  "version": 1211,
-  "updated": "2026-07-25T07:52:47.034558+00:00",
+  "version": 1212,
+  "updated": "2026-07-25T07:57:31.888228+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 68,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
