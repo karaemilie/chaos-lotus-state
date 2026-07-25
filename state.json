@@ -629,15 +629,6 @@
       "uid": "TASKS:10533"
     },
     {
-      "source": "ZONES",
-      "zid": 3,
-      "floor": "Upstairs",
-      "label": "\ud83e\uddfa Upstairs Hallway",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Upstairs Hallway",
-      "uid": "ZONES:3"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 90,
       "label": "\ud83c\udfe0 Scrub cats food bowl",
@@ -828,10 +819,19 @@
       "cat": "Kids",
       "critical": false,
       "uid": "TASKS:11630"
+    },
+    {
+      "source": "ZONES",
+      "zid": 4,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa My Closet",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "My Closet",
+      "uid": "ZONES:4"
     }
   ],
-  "version": 1191,
-  "updated": "2026-07-25T03:44:05.851124+00:00",
+  "version": 1192,
+  "updated": "2026-07-25T04:47:52.964747+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "TASKS": 17,
