@@ -734,14 +734,6 @@
       "uid": "COURAGE:11221:0"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 91,
-      "label": "\ud83c\udfe0 Wash towels",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Wash towels",
-      "uid": "MAINTENANCE:91"
-    },
-    {
       "source": "TASKS",
       "id": 11225,
       "label": "Buy Evan a rock climbing harness \ud83e\uddd7",
@@ -824,10 +816,18 @@
       "sid": 499,
       "label": "Break down recycling",
       "uid": "SPIN_WHEEL:499"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 92,
+      "label": "\ud83c\udfe0 Bleach shower curtains",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Bleach shower curtains",
+      "uid": "MAINTENANCE:92"
     }
   ],
-  "version": 1184,
-  "updated": "2026-07-24T22:34:27.843633+00:00",
+  "version": 1185,
+  "updated": "2026-07-25T00:36:42.987519+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "TASKS": 17,
