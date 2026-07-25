@@ -863,12 +863,19 @@
       "sid": 504,
       "label": "Make plan w/Ruth",
       "uid": "SPIN_WHEEL:504"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 505,
+      "sid": 505,
+      "label": "Compare birch pieces to diagram",
+      "uid": "SPIN_WHEEL:505"
     }
   ],
-  "version": 1201,
-  "updated": "2026-07-25T06:07:48.161240+00:00",
+  "version": 1202,
+  "updated": "2026-07-25T06:23:15.115734+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 71,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
