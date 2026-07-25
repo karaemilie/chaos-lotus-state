@@ -130,13 +130,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 498,
-      "row": 62,
-      "label": "Drop Off recycling",
-      "uid": "SPIN:498"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 502,
       "row": 66,
       "label": "First step to convert pansy and task box to app store",
@@ -858,10 +851,10 @@
       "uid": "SPIN_WHEEL:509"
     }
   ],
-  "version": 1213,
-  "updated": "2026-07-25T08:03:52.619409+00:00",
+  "version": 1214,
+  "updated": "2026-07-25T09:31:55.391196+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 68,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
