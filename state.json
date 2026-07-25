@@ -343,13 +343,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 501,
-      "row": 57,
-      "label": "More icon design tracker app **",
-      "uid": "SPIN:501"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 186,
       "row": 9,
       "label": "posykin handle ** \ud83d\udcb8",
@@ -830,10 +823,10 @@
       "uid": "SPIN_WHEEL:510"
     }
   ],
-  "version": 1220,
-  "updated": "2026-07-25T09:38:56.890042+00:00",
+  "version": 1221,
+  "updated": "2026-07-25T09:39:40.882208+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
