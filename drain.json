@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11293,
+      "row": 210,
+      "label": "✨ Fertilize raspberries 🫐🌱",
+      "uid": "TASKS:11293",
+      "_ts": "2026-07-25T04:54:02.995Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-25T04:53:30.364Z",
+  "mirroredAt": "2026-07-25T04:54:03.284Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-25T04:53:31.373251+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11847"
-  ]
+  }
 }
