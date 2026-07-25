@@ -92,20 +92,6 @@
       "uid": "SPIN:351"
     },
     {
-      "source": "TASKS",
-      "id": 11812,
-      "row": 328,
-      "label": "\u2728 Check if Mizuno GX Sonic 6 CR is back in stock (blue, size 24)",
-      "aw": 7,
-      "pri": "Sometime",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11812"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 477,
       "row": 57,
@@ -823,10 +809,23 @@
       "sid": 500,
       "label": "Finish the YouTube video on launching!",
       "uid": "SPIN_WHEEL:500"
+    },
+    {
+      "source": "TASKS",
+      "id": 11811,
+      "label": "\u2728 Mow the lawn \ud83c\udf31",
+      "aw": 3,
+      "pri": 3,
+      "dur": 45,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11811"
     }
   ],
-  "version": 1188,
-  "updated": "2026-07-25T03:24:12.094726+00:00",
+  "version": 1189,
+  "updated": "2026-07-25T03:38:46.920112+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "TASKS": 17,
