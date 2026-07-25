@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-25T05:01:40.933Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Research built ins and heat vents (Mudroom)",
+      "_addedAt": "2026-07-25T05:02:17.263Z",
+      "_ts": "2026-07-25T05:02:17.805Z"
+    }
+  ],
+  "mirroredAt": "2026-07-25T05:02:18.083Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-25T05:01:41.827772+00:00",
-  "lastAutoProcessed": [
-    "SPIN:398"
-  ]
+    "adds": 1
+  }
 }
