@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-25T04:47:53.941Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "First step to convert pansy and task box to app store",
+      "_addedAt": "2026-07-25T04:52:32.671Z",
+      "_ts": "2026-07-25T04:52:32.826Z"
+    }
+  ],
+  "mirroredAt": "2026-07-25T04:52:33.069Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-25T04:47:54.624168+00:00",
-  "lastAutoProcessed": [
-    "ZONES:3"
-  ]
+    "adds": 1
+  }
 }
