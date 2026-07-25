@@ -828,12 +828,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "My Closet",
       "uid": "ZONES:4"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 502,
+      "sid": 502,
+      "label": "First step to convert pansy and task box to app store",
+      "uid": "SPIN_WHEEL:502"
     }
   ],
-  "version": 1192,
-  "updated": "2026-07-25T04:47:52.964747+00:00",
+  "version": 1193,
+  "updated": "2026-07-25T04:52:46.101230+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 69,
     "TASKS": 17,
     "COURAGE": 3,
     "ZONES": 8,
