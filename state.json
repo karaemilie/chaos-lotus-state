@@ -849,12 +849,19 @@
       "row": 61,
       "label": "Drop off USPS boxes",
       "uid": "SPIN:497"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 509,
+      "sid": 509,
+      "label": "Plot out plan for Genevieve school year costs",
+      "uid": "SPIN_WHEEL:509"
     }
   ],
-  "version": 1212,
-  "updated": "2026-07-25T07:57:31.888228+00:00",
+  "version": 1213,
+  "updated": "2026-07-25T08:03:52.619409+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 69,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
