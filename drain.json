@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-25T00:44:09.005Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Finish the YouTube video on launching!",
+      "_addedAt": "2026-07-25T03:23:11.188Z",
+      "_ts": "2026-07-25T03:23:11.758Z"
+    }
+  ],
+  "mirroredAt": "2026-07-25T03:23:12.087Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-25T00:44:10.070534+00:00",
-  "lastAutoProcessed": [
-    "ZONES:80"
-  ]
+    "adds": 1
+  }
 }
