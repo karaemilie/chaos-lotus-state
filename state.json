@@ -16,13 +16,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 425,
-      "row": 37,
-      "label": "See if South has FLL class",
-      "uid": "SPIN:425"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 440,
       "row": 40,
       "label": "Send a game night note about next weekend for Evan",
@@ -871,10 +864,10 @@
       "uid": "SPIN_WHEEL:507"
     }
   ],
-  "version": 1206,
-  "updated": "2026-07-25T06:32:02.946904+00:00",
+  "version": 1207,
+  "updated": "2026-07-25T06:43:48.563073+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 70,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
