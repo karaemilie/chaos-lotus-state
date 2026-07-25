@@ -165,27 +165,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 478,
-      "row": 47,
-      "label": "DQ gift cards - pack",
-      "uid": "SPIN:478"
-    },
-    {
-      "source": "TASKS",
-      "id": 11799,
-      "row": 315,
-      "label": "\u2728 Rotate plants on hallway wall \ud83e\udeb4\ud83d\udd04",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Plants",
-      "critical": false,
-      "uid": "TASKS:11799"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 95,
       "row": 5,
       "label": "Find first transcript for Bentley",
@@ -362,13 +341,6 @@
       "row": 70,
       "label": "Anchor bathroom hutch",
       "uid": "SPIN:506"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 325,
-      "row": 19,
-      "label": "Clean up front porch",
-      "uid": "SPIN:325"
     },
     {
       "source": "ZONES",
@@ -849,12 +821,25 @@
       "sid": 509,
       "label": "Plot out plan for Genevieve school year costs",
       "uid": "SPIN_WHEEL:509"
+    },
+    {
+      "source": "TASKS",
+      "id": 11708,
+      "label": "Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11708"
     }
   ],
-  "version": 1214,
-  "updated": "2026-07-25T09:31:55.391196+00:00",
+  "version": 1215,
+  "updated": "2026-07-25T09:32:46.505690+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
