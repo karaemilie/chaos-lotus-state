@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 47,
+      "label": "Ten more minutes YouTube video",
+      "uid": "SPIN:450",
+      "_ts": "2026-07-25T03:23:15.526Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-07-25T03:23:11.758Z"
     }
   ],
-  "mirroredAt": "2026-07-25T03:23:12.087Z",
+  "mirroredAt": "2026-07-25T03:23:15.759Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
