@@ -190,16 +190,6 @@
       "uid": "SPIN:95"
     },
     {
-      "source": "ZONES",
-      "zid": 80,
-      "floor": "Plant",
-      "row": 81,
-      "label": "\ud83c\udf31 Hallway",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Hallway",
-      "uid": "ZONES:80"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 336,
       "row": 23,
@@ -824,15 +814,24 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Bleach shower curtains",
       "uid": "MAINTENANCE:92"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
     }
   ],
-  "version": 1185,
-  "updated": "2026-07-25T00:36:42.987519+00:00",
+  "version": 1186,
+  "updated": "2026-07-25T00:44:07.792818+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "TASKS": 17,
-    "ZONES": 8,
     "COURAGE": 3,
+    "ZONES": 8,
     "MAINTENANCE": 2
   }
 }
