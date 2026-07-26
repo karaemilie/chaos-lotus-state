@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-26T09:24:03.279Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Get B new white shiry",
+      "_addedAt": "2026-07-26T17:30:00.172Z",
+      "_ts": "2026-07-26T17:30:00.790Z"
+    }
+  ],
+  "mirroredAt": "2026-07-26T17:30:01.192Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-26T09:24:04.273492+00:00",
-  "lastAutoProcessed": [
-    "SPIN:515"
-  ]
+    "adds": 1
+  }
 }
