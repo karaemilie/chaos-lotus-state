@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-26T06:02:05.986Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Empty mop tank",
+      "_addedAt": "2026-07-26T07:49:01.132Z",
+      "_ts": "2026-07-26T07:49:01.452Z"
+    }
+  ],
+  "mirroredAt": "2026-07-26T07:49:01.685Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
