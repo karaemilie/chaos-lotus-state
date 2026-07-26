@@ -691,13 +691,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 483,
-      "row": 45,
-      "label": "Grab my Marco book to start",
-      "uid": "SPIN:483"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 517,
       "row": 70,
       "label": "Deal with paint return",
@@ -857,11 +850,11 @@
       "uid": "ZONES:79"
     }
   ],
-  "version": 1239,
-  "updated": "2026-07-26T09:08:25.409390+00:00",
+  "version": 1240,
+  "updated": "2026-07-26T09:09:23.565118+00:00",
   "buckets": {
     "COURAGE": 3,
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 68,
     "ZONES": 9,
     "TASKS": 17,
     "MAINTENANCE": 2
