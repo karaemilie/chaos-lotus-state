@@ -1,35 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "ZONES",
-      "row": 77,
-      "zid": 76,
-      "floor": "Plant",
-      "label": "🌱 Corner Nook A",
-      "uid": "ZONES:76",
-      "_ts": "2026-07-26T07:49:07.767Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 76,
-      "zid": 75,
-      "floor": "Plant",
-      "label": "🌱 Main floor Down Low",
-      "uid": "ZONES:75",
-      "_ts": "2026-07-26T07:49:14.226Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Deal with paint return",
-      "_addedAt": "2026-07-26T07:49:06.454Z",
-      "_ts": "2026-07-26T07:49:06.772Z"
-    }
-  ],
-  "mirroredAt": "2026-07-26T07:49:16.243Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-07-26T07:50:06.580Z",
   "counts": {
-    "completions": 2,
-    "adds": 1
+    "completions": 0,
+    "adds": 0
   }
 }
