@@ -828,12 +828,19 @@
       "sid": 513,
       "label": "Send apartment notes to Bentley",
       "uid": "SPIN_WHEEL:513"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 514,
+      "sid": 514,
+      "label": "Calc Evan daily protein need **",
+      "uid": "SPIN_WHEEL:514"
     }
   ],
-  "version": 1228,
-  "updated": "2026-07-26T05:16:51.403499+00:00",
+  "version": 1229,
+  "updated": "2026-07-26T06:00:39.016982+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
