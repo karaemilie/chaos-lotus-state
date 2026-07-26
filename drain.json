@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 78,
+      "zid": 77,
+      "floor": "Plant",
+      "label": "🌱 Corner Nook B",
+      "uid": "ZONES:77",
+      "_ts": "2026-07-26T09:07:46.915Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 65,
+      "label": "Basket for front bench",
+      "uid": "SPIN:512",
+      "_ts": "2026-07-26T09:08:06.149Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-26T09:08:00.202Z",
+  "mirroredAt": "2026-07-26T09:08:06.380Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-26T09:08:01.058903+00:00",
-  "lastAutoProcessed": [
-    "ZONES:77"
-  ]
+  }
 }
