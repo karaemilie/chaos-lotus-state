@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-26T17:30:14.968Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "L new white dress shirt",
+      "_addedAt": "2026-07-26T20:33:13.312Z",
+      "_ts": "2026-07-26T20:33:13.465Z"
+    }
+  ],
+  "mirroredAt": "2026-07-26T20:33:13.730Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
