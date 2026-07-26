@@ -1,16 +1,6 @@
 {
   "tasks": [
     {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "row": 77,
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
-    },
-    {
       "source": "TASKS",
       "id": 11776,
       "row": 298,
@@ -266,16 +256,6 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Music Room",
       "uid": "ZONES:28"
-    },
-    {
-      "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "row": 76,
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
     },
     {
       "source": "SPIN_WHEEL",
@@ -849,15 +829,33 @@
       "sid": 516,
       "label": "Empty mop tank",
       "uid": "SPIN_WHEEL:516"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
+    },
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Props",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Props",
+      "uid": "ZONES:78"
     }
   ],
-  "version": 1233,
-  "updated": "2026-07-26T07:49:18.193172+00:00",
+  "version": 1234,
+  "updated": "2026-07-26T07:50:05.425405+00:00",
   "buckets": {
-    "ZONES": 9,
     "TASKS": 17,
     "SPIN_WHEEL": 68,
     "MAINTENANCE": 2,
+    "ZONES": 9,
     "COURAGE": 3
   }
 }
