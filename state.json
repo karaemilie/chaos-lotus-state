@@ -379,13 +379,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 512,
-      "row": 65,
-      "label": "Basket for front bench",
-      "uid": "SPIN:512"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 384,
       "row": 29,
       "label": "Write Nilo Lady back",
@@ -864,11 +857,11 @@
       "uid": "ZONES:79"
     }
   ],
-  "version": 1238,
-  "updated": "2026-07-26T09:07:59.113923+00:00",
+  "version": 1239,
+  "updated": "2026-07-26T09:08:25.409390+00:00",
   "buckets": {
     "COURAGE": 3,
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 69,
     "ZONES": 9,
     "TASKS": 17,
     "MAINTENANCE": 2
