@@ -847,13 +847,20 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Props",
       "uid": "ZONES:78"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 517,
+      "sid": 517,
+      "label": "Deal with paint return",
+      "uid": "SPIN_WHEEL:517"
     }
   ],
-  "version": 1234,
-  "updated": "2026-07-26T07:50:05.425405+00:00",
+  "version": 1235,
+  "updated": "2026-07-26T07:50:07.392762+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 69,
     "MAINTENANCE": 2,
     "ZONES": 9,
     "COURAGE": 3
