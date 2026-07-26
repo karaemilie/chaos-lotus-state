@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-26T05:16:52.320Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Calc Evan daily protein need **",
+      "_addedAt": "2026-07-26T06:00:21.372Z",
+      "_ts": "2026-07-26T06:00:21.658Z"
+    }
+  ],
+  "mirroredAt": "2026-07-26T06:00:21.889Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-26T05:16:53.030963+00:00",
-  "lastAutoProcessed": [
-    "SPIN:494"
-  ]
+    "adds": 1
+  }
 }
