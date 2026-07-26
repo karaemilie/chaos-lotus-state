@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-25T22:11:39.668Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send apartment notes to Bentley",
+      "_addedAt": "2026-07-26T03:25:05.430Z",
+      "_ts": "2026-07-26T03:25:05.669Z"
+    }
+  ],
+  "mirroredAt": "2026-07-26T03:25:05.920Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
