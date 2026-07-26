@@ -478,13 +478,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 494,
-      "row": 52,
-      "label": "Explore Claude voice mode as a tutor",
-      "uid": "SPIN:494"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 484,
       "row": 46,
       "label": "Setup email forward.net **",
@@ -837,10 +830,10 @@
       "uid": "SPIN_WHEEL:513"
     }
   ],
-  "version": 1227,
-  "updated": "2026-07-26T03:25:20.845648+00:00",
+  "version": 1228,
+  "updated": "2026-07-26T05:16:51.403499+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
