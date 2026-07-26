@@ -305,16 +305,6 @@
       "uid": "SPIN:43"
     },
     {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "row": 78,
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 500,
       "row": 54,
@@ -863,10 +853,19 @@
       "sid": 518,
       "label": "Check heat is turned down at night \ud83d\ude2c",
       "uid": "SPIN_WHEEL:518"
+    },
+    {
+      "source": "ZONES",
+      "zid": 79,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Kitchen Up High",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Kitchen Up High",
+      "uid": "ZONES:79"
     }
   ],
-  "version": 1237,
-  "updated": "2026-07-26T08:20:49.304992+00:00",
+  "version": 1238,
+  "updated": "2026-07-26T09:07:59.113923+00:00",
   "buckets": {
     "COURAGE": 3,
     "SPIN_WHEEL": 70,
