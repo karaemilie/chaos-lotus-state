@@ -185,20 +185,6 @@
       "uid": "TASKS:11176"
     },
     {
-      "source": "TASKS",
-      "id": 10149,
-      "row": 38,
-      "label": "\u2b50 Research foods that keep growth plates open",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10149"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 95,
       "row": 5,
@@ -835,10 +821,23 @@
       "sid": 514,
       "label": "Calc Evan daily protein need **",
       "uid": "SPIN_WHEEL:514"
+    },
+    {
+      "source": "TASKS",
+      "id": 11818,
+      "label": "Apply for travel grant for Embry-Riddle (Genevieve) \u2708\ufe0f\ud83d\udcb0",
+      "aw": 3,
+      "pri": 3,
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11818"
     }
   ],
-  "version": 1229,
-  "updated": "2026-07-26T06:00:39.016982+00:00",
+  "version": 1230,
+  "updated": "2026-07-26T06:01:21.407970+00:00",
   "buckets": {
     "SPIN_WHEEL": 66,
     "ZONES": 9,
