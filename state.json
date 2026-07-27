@@ -115,13 +115,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 488,
-      "row": 48,
-      "label": "Create hall in hue app *",
-      "uid": "SPIN:488"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 486,
       "row": 46,
       "label": "Next step mirror thread",
@@ -851,10 +844,10 @@
       "uid": "SPIN_WHEEL:520"
     }
   ],
-  "version": 1246,
-  "updated": "2026-07-27T05:48:24.502877+00:00",
+  "version": 1247,
+  "updated": "2026-07-27T05:49:26.636995+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 9,
