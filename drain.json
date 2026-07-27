@@ -1,15 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-27T22:51:58.131Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Inspect Bentley missing iPad keycap",
+      "_addedAt": "2026-07-27T22:53:13.405Z",
+      "_ts": "2026-07-27T22:53:13.683Z"
+    }
+  ],
+  "mirroredAt": "2026-07-27T22:53:13.948Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-27T22:51:58.842412+00:00",
-  "lastAutoProcessed": [
-    "SPIN:516",
-    "SPIN:518",
-    "TASKS:11845"
-  ]
+    "adds": 1
+  }
 }
