@@ -1,9 +1,25 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-27T22:53:26.171Z",
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11186,
+      "row": 183,
+      "label": "⭐ Send Bentley a keycap for his missing iPad key",
+      "uid": "TASKS:11186",
+      "_ts": "2026-07-27T22:53:29.769Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Inspect Bentley missing iPad keycap",
+      "_addedAt": "2026-07-27T22:53:13.405Z",
+      "_ts": "2026-07-27T22:53:13.683Z"
+    }
+  ],
+  "mirroredAt": "2026-07-27T22:53:29.995Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
