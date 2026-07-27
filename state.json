@@ -845,12 +845,19 @@
       "sid": 525,
       "label": "Train table -",
       "uid": "SPIN_WHEEL:525"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 526,
+      "sid": 526,
+      "label": "Bathroom cabinet - install crossbar \u2728",
+      "uid": "SPIN_WHEEL:526"
     }
   ],
-  "version": 1262,
-  "updated": "2026-07-27T23:22:22.299603+00:00",
+  "version": 1263,
+  "updated": "2026-07-27T23:23:21.505203+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 69,
     "ZONES": 9,
     "TASKS": 17,
     "MAINTENANCE": 2,
