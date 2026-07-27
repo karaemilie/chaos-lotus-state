@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 65,
+      "label": "Empty mop tank",
+      "uid": "SPIN:516",
+      "_ts": "2026-07-27T22:50:27.657Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-27T06:41:21.911Z",
+  "mirroredAt": "2026-07-27T22:50:27.891Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-27T06:41:22.711217+00:00",
-  "lastAutoProcessed": [
-    "ZONES:69"
-  ]
+  }
 }
