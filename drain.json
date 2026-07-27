@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 61,
+      "label": "Next three icons ✨",
+      "uid": "SPIN:510",
+      "_ts": "2026-07-27T23:21:10.091Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-07-27T23:21:08.822Z"
     }
   ],
-  "mirroredAt": "2026-07-27T23:21:09.088Z",
+  "mirroredAt": "2026-07-27T23:21:10.326Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
