@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 70,
+      "zid": 69,
+      "floor": "Digital",
+      "label": "💻 Reviews",
+      "uid": "ZONES:69",
+      "_ts": "2026-07-27T06:41:05.526Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-27T06:07:58.729Z",
+  "mirroredAt": "2026-07-27T06:41:05.868Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-27T06:07:59.533769+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11834"
-  ]
+  }
 }
