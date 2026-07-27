@@ -470,13 +470,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 514,
-      "row": 64,
-      "label": "Calc Evan daily protein need **",
-      "uid": "SPIN:514"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 440,
       "row": 36,
       "label": "Send a game night note about next weekend for Evan",
@@ -833,10 +826,10 @@
       "uid": "TASKS:10237"
     }
   ],
-  "version": 1257,
-  "updated": "2026-07-27T22:54:08.713003+00:00",
+  "version": 1258,
+  "updated": "2026-07-27T22:59:49.937225+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "ZONES": 9,
     "TASKS": 17,
     "MAINTENANCE": 2,
