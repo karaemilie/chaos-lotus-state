@@ -299,13 +299,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 516,
-      "row": 65,
-      "label": "Empty mop tank",
-      "uid": "SPIN:516"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 419,
       "row": 33,
       "label": "Pull up TCU Fall bill",
@@ -842,10 +835,10 @@
       "uid": "ZONES:71"
     }
   ],
-  "version": 1252,
-  "updated": "2026-07-27T06:41:20.923093+00:00",
+  "version": 1253,
+  "updated": "2026-07-27T22:50:39.746084+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "TASKS": 17,
     "MAINTENANCE": 2,
