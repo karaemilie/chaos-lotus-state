@@ -628,13 +628,6 @@
       "uid": "SPIN:350"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 380,
-      "row": 28,
-      "label": "Order cursive book for L&E",
-      "uid": "SPIN:380"
-    },
-    {
       "source": "ZONES",
       "zid": 70,
       "floor": "Digital",
@@ -841,23 +834,16 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 525,
-      "sid": 525,
-      "label": "Train table -",
-      "uid": "SPIN_WHEEL:525"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 526,
       "sid": 526,
       "label": "Bathroom cabinet - install crossbar \u2728",
       "uid": "SPIN_WHEEL:526"
     }
   ],
-  "version": 1263,
-  "updated": "2026-07-27T23:23:21.505203+00:00",
+  "version": 1264,
+  "updated": "2026-07-27T23:24:09.559537+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 67,
     "ZONES": 9,
     "TASKS": 17,
     "MAINTENANCE": 2,
