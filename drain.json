@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 64,
+      "label": "Calc Evan daily protein need **",
+      "uid": "SPIN:514",
+      "_ts": "2026-07-27T22:59:32.479Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-27T22:54:10.751Z",
+  "mirroredAt": "2026-07-27T22:59:32.684Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
