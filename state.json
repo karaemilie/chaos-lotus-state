@@ -406,20 +406,6 @@
       "uid": "COURAGE:11806:0"
     },
     {
-      "source": "TASKS",
-      "id": 11834,
-      "row": 326,
-      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11834"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10365,
       "parentRow": 257,
@@ -842,10 +828,23 @@
       "row": 11,
       "label": "Order Bentley a bed bric",
       "uid": "SPIN:253"
+    },
+    {
+      "source": "TASKS",
+      "id": 11769,
+      "label": "Email TreeForms \u2014 verify finish + order table stain color \ud83d\udce7\ud83e\udeb5",
+      "aw": 3,
+      "pri": 3,
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11769"
     }
   ],
-  "version": 1250,
-  "updated": "2026-07-27T06:07:17.959516+00:00",
+  "version": 1251,
+  "updated": "2026-07-27T06:07:56.635669+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "ZONES": 9,
