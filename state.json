@@ -831,12 +831,19 @@
       "sid": 522,
       "label": "Work on Evan diet plan **",
       "uid": "SPIN_WHEEL:522"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 523,
+      "sid": 523,
+      "label": "More icon crafting*",
+      "uid": "SPIN_WHEEL:523"
     }
   ],
-  "version": 1259,
-  "updated": "2026-07-27T23:00:44.242700+00:00",
+  "version": 1260,
+  "updated": "2026-07-27T23:21:32.866051+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 67,
     "ZONES": 9,
     "TASKS": 17,
     "MAINTENANCE": 2,
