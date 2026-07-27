@@ -831,12 +831,26 @@
       "sid": 523,
       "label": "More icon crafting*",
       "uid": "SPIN_WHEEL:523"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 524,
+      "sid": 524,
+      "label": "Needle & thread to room",
+      "uid": "SPIN_WHEEL:524"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 525,
+      "sid": 525,
+      "label": "Train table -",
+      "uid": "SPIN_WHEEL:525"
     }
   ],
-  "version": 1261,
-  "updated": "2026-07-27T23:22:20.122191+00:00",
+  "version": 1262,
+  "updated": "2026-07-27T23:22:22.299603+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 68,
     "ZONES": 9,
     "TASKS": 17,
     "MAINTENANCE": 2,
