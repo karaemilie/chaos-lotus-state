@@ -738,13 +738,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 517,
-      "row": 67,
-      "label": "Deal with paint return",
-      "uid": "SPIN:517"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 57,
       "label": "Compare birch pieces to diagram",
@@ -858,10 +851,10 @@
       "uid": "SPIN_WHEEL:520"
     }
   ],
-  "version": 1245,
-  "updated": "2026-07-26T20:33:26.314710+00:00",
+  "version": 1246,
+  "updated": "2026-07-27T05:48:24.502877+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 68,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 9,
