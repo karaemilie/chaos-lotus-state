@@ -67,13 +67,6 @@
       "uid": "SPIN:186"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 518,
-      "row": 66,
-      "label": "Check heat is turned down at night \ud83d\ude2c",
-      "uid": "SPIN:518"
-    },
-    {
       "source": "TASKS",
       "id": 10089,
       "row": 22,
@@ -835,10 +828,10 @@
       "uid": "ZONES:71"
     }
   ],
-  "version": 1253,
-  "updated": "2026-07-27T22:50:39.746084+00:00",
+  "version": 1254,
+  "updated": "2026-07-27T22:51:20.806635+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "ZONES": 9,
     "TASKS": 17,
     "MAINTENANCE": 2,
