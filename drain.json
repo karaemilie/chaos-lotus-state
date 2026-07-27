@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 67,
+      "label": "Deal with paint return",
+      "uid": "SPIN:517",
+      "_ts": "2026-07-27T05:48:07.156Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-26T20:33:25.418Z",
+  "mirroredAt": "2026-07-27T05:48:07.385Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
