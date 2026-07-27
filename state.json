@@ -825,12 +825,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11421"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 521,
+      "sid": 521,
+      "label": "Inspect Bentley missing iPad keycap",
+      "uid": "SPIN_WHEEL:521"
     }
   ],
-  "version": 1255,
-  "updated": "2026-07-27T22:51:55.930126+00:00",
+  "version": 1256,
+  "updated": "2026-07-27T22:53:27.201795+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "TASKS": 17,
     "MAINTENANCE": 2,
