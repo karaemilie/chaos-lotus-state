@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-27T05:49:27.800Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Write Linda a check for 3 August lessons",
+      "_addedAt": "2026-07-27T05:54:37.932Z",
+      "_ts": "2026-07-27T05:54:38.165Z"
+    }
+  ],
+  "mirroredAt": "2026-07-27T05:54:38.394Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-27T05:49:28.674576+00:00",
-  "lastAutoProcessed": [
-    "SPIN:488"
-  ]
+    "adds": 1
+  }
 }
