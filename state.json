@@ -504,20 +504,6 @@
       "uid": "SPIN:264"
     },
     {
-      "source": "TASKS",
-      "id": 11186,
-      "row": 183,
-      "label": "\u2b50 Send Bentley a keycap for his missing iPad key",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11186"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 500,
       "row": 52,
@@ -832,10 +818,23 @@
       "sid": 521,
       "label": "Inspect Bentley missing iPad keycap",
       "uid": "SPIN_WHEEL:521"
+    },
+    {
+      "source": "TASKS",
+      "id": 10237,
+      "label": "Cancel Slate card",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10237"
     }
   ],
-  "version": 1256,
-  "updated": "2026-07-27T22:53:27.201795+00:00",
+  "version": 1257,
+  "updated": "2026-07-27T22:54:08.713003+00:00",
   "buckets": {
     "SPIN_WHEEL": 66,
     "ZONES": 9,
