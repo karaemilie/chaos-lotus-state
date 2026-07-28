@@ -23,13 +23,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 384,
-      "row": 27,
-      "label": "Write Nilo Lady back",
-      "uid": "SPIN:384"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 463,
       "row": 40,
       "label": "Research suction issues for robot",
@@ -837,10 +830,10 @@
       "uid": "TASKS:10089"
     }
   ],
-  "version": 1293,
-  "updated": "2026-07-28T08:53:46.770428+00:00",
+  "version": 1294,
+  "updated": "2026-07-28T08:54:26.286752+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
