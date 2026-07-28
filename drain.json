@@ -1,13 +1,27 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "label": "👱‍♀️ Face Mask",
+      "uid": "ZONES:85",
+      "_ts": "2026-07-28T08:51:17.433Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 75,
+      "zid": 74,
+      "floor": "Plant",
+      "label": "🌱 Family Room Plants",
+      "uid": "ZONES:74",
+      "_ts": "2026-07-28T08:52:09.968Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-28T08:51:34.794Z",
+  "mirroredAt": "2026-07-28T08:52:10.233Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-28T08:51:35.789777+00:00",
-  "lastAutoProcessed": [
-    "ZONES:85"
-  ]
+  }
 }
