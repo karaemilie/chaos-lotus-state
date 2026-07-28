@@ -798,15 +798,6 @@
       "uid": "TASKS:10787"
     },
     {
-      "source": "ZONES",
-      "zid": 85,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Mask",
-      "uid": "ZONES:85"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 532,
       "sid": 532,
@@ -837,10 +828,19 @@
       "sid": 534,
       "label": "Measure Linc for tech suit",
       "uid": "SPIN_WHEEL:534"
+    },
+    {
+      "source": "ZONES",
+      "zid": 86,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Epilate Legs",
+      "uid": "ZONES:86"
     }
   ],
-  "version": 1290,
-  "updated": "2026-07-28T08:23:10.465354+00:00",
+  "version": 1291,
+  "updated": "2026-07-28T08:51:33.596245+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "COURAGE": 3,
