@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-28T08:54:29.354Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Bring a bag up for paint stuff",
+      "_addedAt": "2026-07-28T22:22:30.235Z",
+      "_ts": "2026-07-28T22:22:30.348Z"
+    }
+  ],
+  "mirroredAt": "2026-07-28T22:22:30.701Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-28T08:54:30.479056+00:00",
-  "lastAutoProcessed": [
-    "SPIN:384",
-    "TASKS:11832"
-  ]
+    "adds": 1
+  }
 }
