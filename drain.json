@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-28T05:49:50.524Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Research PayDay social",
+      "_addedAt": "2026-07-28T05:56:58.823Z",
+      "_ts": "2026-07-28T05:56:59.254Z"
+    }
+  ],
+  "mirroredAt": "2026-07-28T05:56:59.614Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-28T05:49:51.457712+00:00",
-  "lastAutoProcessed": [
-    "SPIN:504"
-  ]
+    "adds": 1
+  }
 }
