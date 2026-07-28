@@ -857,12 +857,19 @@
       "sid": 530,
       "label": "List Asamis",
       "uid": "SPIN_WHEEL:530"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 531,
+      "sid": 531,
+      "label": "Finish painting legs \u2728",
+      "uid": "SPIN_WHEEL:531"
     }
   ],
-  "version": 1274,
-  "updated": "2026-07-28T04:01:30.000977+00:00",
+  "version": 1275,
+  "updated": "2026-07-28T05:06:06.626589+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 71,
     "ZONES": 9,
     "TASKS": 17,
     "MAINTENANCE": 2,
