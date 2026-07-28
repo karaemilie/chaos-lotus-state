@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11832,
+      "row": 322,
+      "label": "✨ Weekly Xmind outlines review/actions!",
+      "uid": "TASKS:11832",
+      "_ts": "2026-07-28T08:53:32.210Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 27,
+      "label": "Write Nilo Lady back",
+      "uid": "SPIN:384",
+      "_ts": "2026-07-28T08:54:07.427Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-28T08:53:49.621Z",
+  "mirroredAt": "2026-07-28T08:54:07.658Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-07-28T08:53:50.723023+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11832"
-  ]
+  }
 }
