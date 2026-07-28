@@ -1,16 +1,30 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 5,
+      "label": "Move chairs",
+      "uid": "SPIN:135",
+      "_ts": "2026-07-28T08:22:00.386Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
       "label": "Swap chairs up/down",
       "_addedAt": "2026-07-28T08:22:12.476Z",
       "_ts": "2026-07-28T08:22:12.565Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Measure Linc for tech suit",
+      "_addedAt": "2026-07-28T08:22:24.656Z",
+      "_ts": "2026-07-28T08:22:24.748Z"
     }
   ],
-  "mirroredAt": "2026-07-28T08:22:16.608Z",
+  "mirroredAt": "2026-07-28T08:22:24.974Z",
   "counts": {
-    "completions": 0,
-    "adds": 1
+    "completions": 1,
+    "adds": 2
   }
 }
