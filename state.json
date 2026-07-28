@@ -828,12 +828,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10089"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 535,
+      "sid": 535,
+      "label": "Bring a bag up for paint stuff",
+      "uid": "SPIN_WHEEL:535"
     }
   ],
-  "version": 1294,
-  "updated": "2026-07-28T08:54:26.286752+00:00",
+  "version": 1295,
+  "updated": "2026-07-28T22:22:45.722068+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 68,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
