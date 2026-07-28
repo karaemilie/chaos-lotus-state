@@ -331,16 +331,6 @@
       "uid": "SPIN:509"
     },
     {
-      "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "row": 75,
-      "label": "\ud83c\udf31 Family Room Plants",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Plants",
-      "uid": "ZONES:74"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 89,
       "row": 3,
@@ -837,10 +827,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Epilate Legs",
       "uid": "ZONES:86"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Main floor Down Low",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Main floor Down Low",
+      "uid": "ZONES:75"
     }
   ],
-  "version": 1291,
-  "updated": "2026-07-28T08:51:33.596245+00:00",
+  "version": 1292,
+  "updated": "2026-07-28T08:52:22.670663+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "COURAGE": 3,
