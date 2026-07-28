@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 6,
+      "label": "Inspect music room closet",
+      "uid": "SPIN:165",
+      "_ts": "2026-07-28T06:44:17.058Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-28T06:42:42.223Z",
+  "mirroredAt": "2026-07-28T06:44:17.396Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-28T06:42:43.006058+00:00",
-  "lastAutoProcessed": [
-    "COURAGE:11787:0"
-  ]
+  }
 }
