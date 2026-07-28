@@ -131,16 +131,6 @@
       "uid": "ZONES:58"
     },
     {
-      "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "row": 74,
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 530,
       "row": 70,
@@ -828,10 +818,19 @@
       "sid": 535,
       "label": "Bring a bag up for paint stuff",
       "uid": "SPIN_WHEEL:535"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
     }
   ],
-  "version": 1296,
-  "updated": "2026-07-28T22:42:10.688980+00:00",
+  "version": 1297,
+  "updated": "2026-07-28T22:51:02.866112+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "COURAGE": 3,
