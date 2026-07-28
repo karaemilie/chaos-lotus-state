@@ -8,10 +8,17 @@
       "_ts": "2026-07-28T08:22:00.386Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-28T08:22:00.601Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Swap chairs up/down",
+      "_addedAt": "2026-07-28T08:22:12.476Z",
+      "_ts": "2026-07-28T08:22:12.565Z"
+    }
+  ],
+  "mirroredAt": "2026-07-28T08:22:12.817Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
