@@ -501,20 +501,6 @@
       "uid": "SPIN:521"
     },
     {
-      "source": "TASKS",
-      "id": 11832,
-      "row": 322,
-      "label": "\u2728 Weekly Xmind outlines review/actions!",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11832"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 527,
       "row": 67,
@@ -836,10 +822,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Main floor Down Low",
       "uid": "ZONES:75"
+    },
+    {
+      "source": "TASKS",
+      "id": 10089,
+      "label": "Apply for Genevieve's credit card \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": "Genevieve Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10089"
     }
   ],
-  "version": 1292,
-  "updated": "2026-07-28T08:52:22.670663+00:00",
+  "version": 1293,
+  "updated": "2026-07-28T08:53:46.770428+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "COURAGE": 3,
