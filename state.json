@@ -253,16 +253,6 @@
       "uid": "SPIN:502"
     },
     {
-      "source": "ZONES",
-      "zid": 78,
-      "floor": "Plant",
-      "row": 79,
-      "label": "\ud83c\udf31 Family Room Props",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Props",
-      "uid": "ZONES:78"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 174,
       "row": 8,
@@ -864,10 +854,19 @@
       "sid": 531,
       "label": "Finish painting legs \u2728",
       "uid": "SPIN_WHEEL:531"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 1275,
-  "updated": "2026-07-28T05:06:06.626589+00:00",
+  "version": 1276,
+  "updated": "2026-07-28T05:06:43.853041+00:00",
   "buckets": {
     "SPIN_WHEEL": 71,
     "ZONES": 9,
