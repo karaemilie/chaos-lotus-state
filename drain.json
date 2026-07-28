@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-28T01:45:31.565Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 67,
+      "label": "Get B new white shiry",
+      "uid": "SPIN:519",
+      "_ts": "2026-07-28T01:45:13.173Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Measure Linc for dress shirt",
+      "_addedAt": "2026-07-28T01:45:45.173Z",
+      "_ts": "2026-07-28T01:45:45.276Z"
+    }
+  ],
+  "mirroredAt": "2026-07-28T01:45:45.573Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-28T01:45:32.365879+00:00",
-  "lastAutoProcessed": [
-    "SPIN:519"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
