@@ -307,13 +307,6 @@
       "uid": "TASKS:11758"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 135,
-      "row": 5,
-      "label": "Move chairs",
-      "uid": "SPIN:135"
-    },
-    {
       "source": "ZONES",
       "zid": 4,
       "floor": "Upstairs",
@@ -832,10 +825,10 @@
       "uid": "COURAGE:11806:0"
     }
   ],
-  "version": 1287,
-  "updated": "2026-07-28T06:44:31.066991+00:00",
+  "version": 1288,
+  "updated": "2026-07-28T08:22:15.558220+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
