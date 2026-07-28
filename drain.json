@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 22,
+      "label": "Iron curtain rod options",
+      "uid": "SPIN:347",
+      "_ts": "2026-07-28T06:41:46.507Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-28T06:06:34.608Z",
+  "mirroredAt": "2026-07-28T06:41:46.737Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-28T06:06:36.011380+00:00",
-  "lastAutoProcessed": [
-    "SPIN:503"
-  ]
+  }
 }
