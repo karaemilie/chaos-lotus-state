@@ -323,20 +323,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11776,
-      "row": 295,
-      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11776"
-    },
-    {
-      "source": "TASKS",
       "id": 11520,
       "row": 218,
       "label": "\u2b50 Figure out more pillow sleeve micro covers needed \ud83d\udecf\ufe0f\ud83d\udd22 \ud83d\udcdd",
@@ -851,10 +837,23 @@
       "sid": 529,
       "label": "Measure Linc for dress shirt",
       "uid": "SPIN_WHEEL:529"
+    },
+    {
+      "source": "TASKS",
+      "id": 11649,
+      "label": "Set up Swift Playground \ud83c\udf4e\ud83d\udcbb",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11649"
     }
   ],
-  "version": 1272,
-  "updated": "2026-07-28T01:46:02.481044+00:00",
+  "version": 1273,
+  "updated": "2026-07-28T04:00:39.119623+00:00",
   "buckets": {
     "SPIN_WHEEL": 69,
     "ZONES": 9,
