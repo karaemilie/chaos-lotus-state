@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 84,
+      "zid": 83,
+      "floor": "Personal",
+      "label": "👱‍♀️ Retainer",
+      "uid": "ZONES:83",
+      "_ts": "2026-07-28T05:11:57.698Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-28T05:10:57.419Z",
+  "mirroredAt": "2026-07-28T05:11:58.088Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-28T05:10:58.252827+00:00",
-  "lastAutoProcessed": [
-    "SPIN:38"
-  ]
+  }
 }
