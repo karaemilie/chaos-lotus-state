@@ -539,18 +539,6 @@
       "uid": "TASKS:11832"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11787,
-      "parentRow": 296,
-      "parentLabel": "Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-07-13",
-      "label": "\ud83d\udd25 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11787:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 527,
       "row": 67,
@@ -838,10 +826,21 @@
       "sid": 532,
       "label": "Research PayDay social",
       "uid": "SPIN_WHEEL:532"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11806,
+      "stepIndex": 0,
+      "parentLabel": "Review US Bank card statement \ud83d\udcb3\ud83d\udd0d",
+      "aw": 2,
+      "due": null,
+      "label": "\ud83d\udd25 Review US Bank card statement \ud83d\udcb3\ud83d\udd0d",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11806:0"
     }
   ],
-  "version": 1285,
-  "updated": "2026-07-28T06:41:58.672105+00:00",
+  "version": 1286,
+  "updated": "2026-07-28T06:42:40.103984+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "COURAGE": 3,
