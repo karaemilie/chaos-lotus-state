@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 53,
+      "label": "Make plan w/Ruth",
+      "uid": "SPIN:504",
+      "_ts": "2026-07-28T05:49:35.380Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-28T05:12:19.127Z",
+  "mirroredAt": "2026-07-28T05:49:35.600Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-28T05:12:20.133268+00:00",
-  "lastAutoProcessed": [
-    "ZONES:83"
-  ]
+  }
 }
