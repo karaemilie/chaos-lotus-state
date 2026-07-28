@@ -770,15 +770,6 @@
       "uid": "TASKS:11769"
     },
     {
-      "source": "ZONES",
-      "zid": 71,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb MasterBrain",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "MasterBrain",
-      "uid": "ZONES:71"
-    },
-    {
       "source": "TASKS",
       "id": 11421,
       "label": "Finish fixing sand table",
@@ -852,10 +843,19 @@
       "sid": 528,
       "label": "Write train table lady",
       "uid": "SPIN_WHEEL:528"
+    },
+    {
+      "source": "ZONES",
+      "zid": 58,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Emails",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Emails",
+      "uid": "ZONES:58"
     }
   ],
-  "version": 1267,
-  "updated": "2026-07-27T23:25:08.296156+00:00",
+  "version": 1268,
+  "updated": "2026-07-28T01:18:06.926923+00:00",
   "buckets": {
     "SPIN_WHEEL": 69,
     "ZONES": 9,
