@@ -1,13 +1,5 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 5,
-      "label": "Move chairs",
-      "uid": "SPIN:135",
-      "_ts": "2026-07-28T08:22:00.386Z"
-    }
-  ],
+  "completions": [],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -16,9 +8,9 @@
       "_ts": "2026-07-28T08:22:12.565Z"
     }
   ],
-  "mirroredAt": "2026-07-28T08:22:12.817Z",
+  "mirroredAt": "2026-07-28T08:22:16.608Z",
   "counts": {
-    "completions": 1,
+    "completions": 0,
     "adds": 1
   }
 }
