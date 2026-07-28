@@ -29,13 +29,6 @@
       "uid": "SPIN:463"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 526,
-      "row": 66,
-      "label": "Bathroom cabinet - install crossbar \u2728",
-      "uid": "SPIN:526"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10365,
       "parentRow": 256,
@@ -837,10 +830,10 @@
       "uid": "SPIN_WHEEL:535"
     }
   ],
-  "version": 1295,
-  "updated": "2026-07-28T22:22:45.722068+00:00",
+  "version": 1296,
+  "updated": "2026-07-28T22:42:10.688980+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
