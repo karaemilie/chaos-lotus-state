@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-28T22:51:04.007Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Review APS requirements",
+      "_addedAt": "2026-07-29T00:09:56.908Z",
+      "_ts": "2026-07-29T00:09:57.062Z"
+    }
+  ],
+  "mirroredAt": "2026-07-29T00:09:57.375Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-28T22:51:04.832088+00:00",
-  "lastAutoProcessed": [
-    "ZONES:73"
-  ]
+    "adds": 1
+  }
 }
