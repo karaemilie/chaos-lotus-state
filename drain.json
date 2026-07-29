@@ -2,30 +2,16 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
-      "row": 24,
-      "label": "Order shoes for Lincoln?",
-      "uid": "SPIN:351",
-      "_ts": "2026-07-29T04:59:05.921Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 71,
       "label": "Finish painting legs ✨",
       "uid": "SPIN:531",
       "_ts": "2026-07-29T04:59:50.220Z"
     }
   ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Hand sand table, eval if we are ready for wax ✨",
-      "_addedAt": "2026-07-29T04:59:47.375Z",
-      "_ts": "2026-07-29T04:59:47.483Z"
-    }
-  ],
-  "mirroredAt": "2026-07-29T04:59:50.446Z",
+  "adds": [],
+  "mirroredAt": "2026-07-29T05:00:05.362Z",
   "counts": {
-    "completions": 2,
-    "adds": 1
+    "completions": 1,
+    "adds": 0
   }
 }
