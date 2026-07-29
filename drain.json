@@ -1,9 +1,25 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-29T05:41:02.016Z",
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11758,
+      "row": 282,
+      "label": "✨ Trash & recycling to curb",
+      "uid": "TASKS:11758",
+      "_ts": "2026-07-29T05:41:23.616Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Bring up mini scrub brush and drill",
+      "_addedAt": "2026-07-29T05:40:40.119Z",
+      "_ts": "2026-07-29T05:40:40.249Z"
+    }
+  ],
+  "mirroredAt": "2026-07-29T05:41:23.857Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
