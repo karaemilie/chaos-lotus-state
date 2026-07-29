@@ -131,13 +131,6 @@
       "uid": "ZONES:58"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 530,
-      "row": 70,
-      "label": "List Asamis",
-      "uid": "SPIN:530"
-    },
-    {
       "source": "TASKS",
       "id": 10198,
       "row": 63,
@@ -822,10 +815,10 @@
       "uid": "SPIN_WHEEL:537"
     }
   ],
-  "version": 1303,
-  "updated": "2026-07-29T05:00:47.692629+00:00",
+  "version": 1304,
+  "updated": "2026-07-29T05:40:02.112034+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
