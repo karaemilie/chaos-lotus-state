@@ -121,16 +121,6 @@
       "uid": "SPIN:174"
     },
     {
-      "source": "ZONES",
-      "zid": 58,
-      "floor": "Digital",
-      "row": 59,
-      "label": "\ud83d\udcbb Emails",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Emails",
-      "uid": "ZONES:58"
-    },
-    {
       "source": "TASKS",
       "id": 10198,
       "row": 63,
@@ -854,10 +844,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Eyebrows",
       "uid": "ZONES:87"
+    },
+    {
+      "source": "ZONES",
+      "zid": 59,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Quicken",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Quicken",
+      "uid": "ZONES:59"
     }
   ],
-  "version": 1318,
-  "updated": "2026-07-29T08:27:19.854280+00:00",
+  "version": 1319,
+  "updated": "2026-07-29T08:28:18.366564+00:00",
   "buckets": {
     "SPIN_WHEEL": 71,
     "COURAGE": 3,
