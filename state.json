@@ -826,12 +826,33 @@
       "sid": 539,
       "label": "Request more peg covers manufacturer? **",
       "uid": "SPIN_WHEEL:539"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 540,
+      "sid": 540,
+      "label": "Ask Claude how to adjust door hinge",
+      "uid": "SPIN_WHEEL:540"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 541,
+      "sid": 541,
+      "label": "Paint dinged edge cabinet",
+      "uid": "SPIN_WHEEL:541"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 542,
+      "sid": 542,
+      "label": "Move quilt to right",
+      "uid": "SPIN_WHEEL:542"
     }
   ],
-  "version": 1308,
-  "updated": "2026-07-29T06:59:44.342626+00:00",
+  "version": 1309,
+  "updated": "2026-07-29T07:00:29.727976+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 70,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
