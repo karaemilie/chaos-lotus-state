@@ -813,12 +813,19 @@
       "sid": 537,
       "label": "Hand sand table, eval if we are ready for wax \u2728",
       "uid": "SPIN_WHEEL:537"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 538,
+      "sid": 538,
+      "label": "Bring up mini scrub brush and drill",
+      "uid": "SPIN_WHEEL:538"
     }
   ],
-  "version": 1305,
-  "updated": "2026-07-29T05:41:00.916285+00:00",
+  "version": 1306,
+  "updated": "2026-07-29T05:41:03.014221+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 66,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
