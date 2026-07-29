@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 55,
+      "label": "Anchor bathroom hutch",
+      "uid": "SPIN:506",
+      "_ts": "2026-07-29T07:00:46.357Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -14,9 +22,9 @@
       "_ts": "2026-07-29T07:00:32.396Z"
     }
   ],
-  "mirroredAt": "2026-07-29T07:00:32.649Z",
+  "mirroredAt": "2026-07-29T07:00:46.588Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 2
   }
 }
