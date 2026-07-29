@@ -720,13 +720,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 533,
-      "sid": 533,
-      "label": "Swap chairs up/down",
-      "uid": "SPIN_WHEEL:533"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 534,
       "sid": 534,
       "label": "Measure Linc for tech suit",
@@ -762,13 +755,6 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10089"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 535,
-      "sid": 535,
-      "label": "Bring a bag up for paint stuff",
-      "uid": "SPIN_WHEEL:535"
     },
     {
       "source": "SPIN_WHEEL",
@@ -863,10 +849,10 @@
       "uid": "SPIN_WHEEL:546"
     }
   ],
-  "version": 1315,
-  "updated": "2026-07-29T07:56:26.264693+00:00",
+  "version": 1316,
+  "updated": "2026-07-29T07:57:15.072431+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 70,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
