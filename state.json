@@ -379,13 +379,6 @@
       "uid": "MAINTENANCE:92"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 351,
-      "row": 24,
-      "label": "Order shoes for Lincoln?",
-      "uid": "SPIN:351"
-    },
-    {
       "source": "TASKS",
       "id": 11769,
       "row": 291,
@@ -829,10 +822,10 @@
       "uid": "SPIN_WHEEL:536"
     }
   ],
-  "version": 1299,
-  "updated": "2026-07-29T04:20:18.158529+00:00",
+  "version": 1300,
+  "updated": "2026-07-29T04:59:19.882662+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
