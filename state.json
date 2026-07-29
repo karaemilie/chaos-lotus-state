@@ -832,12 +832,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Kitchen Up High",
       "uid": "ZONES:79"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 548,
+      "sid": 548,
+      "label": "Cancel Drama Wave",
+      "uid": "SPIN_WHEEL:548"
     }
   ],
-  "version": 1323,
-  "updated": "2026-07-29T08:43:08.893206+00:00",
+  "version": 1324,
+  "updated": "2026-07-29T17:31:29.269211+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 69,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
