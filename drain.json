@@ -6,6 +6,14 @@
       "label": "Anchor bathroom hutch",
       "uid": "SPIN:506",
       "_ts": "2026-07-29T07:00:46.357Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "🌱 Corner Nook A",
+      "uid": "ZONES:76",
+      "_ts": "2026-07-29T07:01:04.475Z"
     }
   ],
   "adds": [
@@ -22,9 +30,9 @@
       "_ts": "2026-07-29T07:00:32.396Z"
     }
   ],
-  "mirroredAt": "2026-07-29T07:00:46.588Z",
+  "mirroredAt": "2026-07-29T07:01:04.698Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 2
   }
 }
