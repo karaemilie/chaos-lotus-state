@@ -6,6 +6,13 @@
       "label": "Order shoes for Lincoln?",
       "uid": "SPIN:351",
       "_ts": "2026-07-29T04:59:05.921Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 71,
+      "label": "Finish painting legs ✨",
+      "uid": "SPIN:531",
+      "_ts": "2026-07-29T04:59:50.220Z"
     }
   ],
   "adds": [
@@ -16,9 +23,9 @@
       "_ts": "2026-07-29T04:59:47.483Z"
     }
   ],
-  "mirroredAt": "2026-07-29T04:59:47.738Z",
+  "mirroredAt": "2026-07-29T04:59:50.446Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 1
   }
 }
