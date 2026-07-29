@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 24,
+      "label": "Order shoes for Lincoln?",
+      "uid": "SPIN:351",
+      "_ts": "2026-07-29T04:59:05.921Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-29T04:20:19.679Z",
+  "mirroredAt": "2026-07-29T04:59:06.289Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-29T04:20:20.687981+00:00",
-  "lastAutoProcessed": [
-    "SPIN:524"
-  ]
+  }
 }
