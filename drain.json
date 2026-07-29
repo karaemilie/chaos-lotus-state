@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 70,
+      "label": "List Asamis",
+      "uid": "SPIN:530",
+      "_ts": "2026-07-29T05:39:47.223Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-29T05:00:48.728Z",
+  "mirroredAt": "2026-07-29T05:39:47.487Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-29T05:00:49.488313+00:00",
-  "lastAutoProcessed": [
-    "SPIN:531"
-  ]
+  }
 }
