@@ -766,13 +766,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 539,
-      "sid": 539,
-      "label": "Request more peg covers manufacturer? **",
-      "uid": "SPIN_WHEEL:539"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 540,
       "sid": 540,
       "label": "Ask Claude how to adjust door hinge",
@@ -798,20 +791,6 @@
       "sid": 543,
       "label": "Research how to style hutch",
       "uid": "SPIN_WHEEL:543"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 544,
-      "sid": 544,
-      "label": "Paint ding on hutch",
-      "uid": "SPIN_WHEEL:544"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 545,
-      "sid": 545,
-      "label": "Adjust hutch shelf for gap",
-      "uid": "SPIN_WHEEL:545"
     },
     {
       "source": "SPIN_WHEEL",
@@ -855,10 +834,10 @@
       "uid": "ZONES:79"
     }
   ],
-  "version": 1322,
-  "updated": "2026-07-29T08:42:20.288730+00:00",
+  "version": 1323,
+  "updated": "2026-07-29T08:43:08.893206+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 68,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
