@@ -847,12 +847,19 @@
       "sid": 546,
       "label": "Try citric acid for cleaning",
       "uid": "SPIN_WHEEL:546"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 547,
+      "sid": 547,
+      "label": "Bring up last chair from swap",
+      "uid": "SPIN_WHEEL:547"
     }
   ],
-  "version": 1316,
-  "updated": "2026-07-29T07:57:15.072431+00:00",
+  "version": 1317,
+  "updated": "2026-07-29T07:57:17.766223+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 71,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
