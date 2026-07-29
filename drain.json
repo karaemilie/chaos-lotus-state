@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 65,
+      "label": "Needle & thread to room",
+      "uid": "SPIN:524",
+      "_ts": "2026-07-29T04:20:02.448Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-29T00:10:14.257Z",
+  "mirroredAt": "2026-07-29T04:20:02.789Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
