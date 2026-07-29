@@ -15,10 +15,23 @@
       "_ts": "2026-07-29T07:56:09.884Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-29T07:56:25.020Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Try citric acid for cleaning",
+      "_addedAt": "2026-07-29T07:55:41.123Z",
+      "_ts": "2026-07-29T07:55:41.301Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Bring up last chair from swap",
+      "_addedAt": "2026-07-29T07:56:31.877Z",
+      "_ts": "2026-07-29T07:56:32.062Z"
+    }
+  ],
+  "mirroredAt": "2026-07-29T07:56:32.303Z",
   "counts": {
     "completions": 2,
-    "adds": 0
+    "adds": 2
   }
 }
