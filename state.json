@@ -854,12 +854,19 @@
       "sid": 545,
       "label": "Adjust hutch shelf for gap",
       "uid": "SPIN_WHEEL:545"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 546,
+      "sid": 546,
+      "label": "Try citric acid for cleaning",
+      "uid": "SPIN_WHEEL:546"
     }
   ],
-  "version": 1314,
-  "updated": "2026-07-29T07:55:45.781264+00:00",
+  "version": 1315,
+  "updated": "2026-07-29T07:56:26.264693+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 72,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
