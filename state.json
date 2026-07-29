@@ -443,13 +443,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 531,
-      "row": 71,
-      "label": "Finish painting legs \u2728",
-      "uid": "SPIN:531"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 337,
       "row": 20,
       "label": "Log into Higgsfield on computer**",
@@ -829,10 +822,10 @@
       "uid": "SPIN_WHEEL:537"
     }
   ],
-  "version": 1302,
-  "updated": "2026-07-29T05:00:06.509018+00:00",
+  "version": 1303,
+  "updated": "2026-07-29T05:00:47.692629+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
