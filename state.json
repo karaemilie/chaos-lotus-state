@@ -819,12 +819,19 @@
       "cat": "Kids",
       "critical": false,
       "uid": "TASKS:11818"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 539,
+      "sid": 539,
+      "label": "Request more peg covers manufacturer? **",
+      "uid": "SPIN_WHEEL:539"
     }
   ],
-  "version": 1307,
-  "updated": "2026-07-29T05:41:49.053892+00:00",
+  "version": 1308,
+  "updated": "2026-07-29T06:59:44.342626+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 67,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
