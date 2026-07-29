@@ -854,12 +854,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook B",
       "uid": "ZONES:77"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 545,
+      "sid": 545,
+      "label": "Adjust hutch shelf for gap",
+      "uid": "SPIN_WHEEL:545"
     }
   ],
-  "version": 1312,
-  "updated": "2026-07-29T07:02:03.275815+00:00",
+  "version": 1313,
+  "updated": "2026-07-29T07:02:05.292200+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 72,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
