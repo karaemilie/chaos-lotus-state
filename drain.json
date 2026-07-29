@@ -8,10 +8,17 @@
       "_ts": "2026-07-29T07:55:23.112Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-29T07:55:23.320Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Try citric acid for cleaning",
+      "_addedAt": "2026-07-29T07:55:41.123Z",
+      "_ts": "2026-07-29T07:55:41.301Z"
+    }
+  ],
+  "mirroredAt": "2026-07-29T07:55:41.537Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
