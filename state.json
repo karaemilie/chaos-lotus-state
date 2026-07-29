@@ -336,13 +336,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 524,
-      "row": 65,
-      "label": "Needle & thread to room",
-      "uid": "SPIN:524"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 456,
       "row": 37,
       "label": "Raspberry patch work",
@@ -836,10 +829,10 @@
       "uid": "SPIN_WHEEL:536"
     }
   ],
-  "version": 1298,
-  "updated": "2026-07-29T00:10:15.702227+00:00",
+  "version": 1299,
+  "updated": "2026-07-29T04:20:18.158529+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
