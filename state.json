@@ -771,15 +771,6 @@
       "uid": "SPIN_WHEEL:535"
     },
     {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 536,
       "sid": 536,
@@ -854,10 +845,19 @@
       "sid": 544,
       "label": "Paint ding on hutch",
       "uid": "SPIN_WHEEL:544"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
     }
   ],
-  "version": 1311,
-  "updated": "2026-07-29T07:01:21.271757+00:00",
+  "version": 1312,
+  "updated": "2026-07-29T07:02:03.275815+00:00",
   "buckets": {
     "SPIN_WHEEL": 71,
     "COURAGE": 3,
