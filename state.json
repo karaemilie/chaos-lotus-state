@@ -262,20 +262,6 @@
       "uid": "TASKS:10533"
     },
     {
-      "source": "TASKS",
-      "id": 11758,
-      "row": 282,
-      "label": "\u2728 Trash & recycling to curb",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11758"
-    },
-    {
       "source": "ZONES",
       "zid": 4,
       "floor": "Upstairs",
@@ -820,10 +806,23 @@
       "sid": 538,
       "label": "Bring up mini scrub brush and drill",
       "uid": "SPIN_WHEEL:538"
+    },
+    {
+      "source": "TASKS",
+      "id": 11818,
+      "label": "Apply for travel grant for Embry-Riddle (Genevieve) \u2708\ufe0f\ud83d\udcb0",
+      "aw": 3,
+      "pri": 3,
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11818"
     }
   ],
-  "version": 1306,
-  "updated": "2026-07-29T05:41:03.014221+00:00",
+  "version": 1307,
+  "updated": "2026-07-29T05:41:49.053892+00:00",
   "buckets": {
     "SPIN_WHEEL": 66,
     "COURAGE": 3,
