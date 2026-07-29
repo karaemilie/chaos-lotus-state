@@ -727,15 +727,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 86,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Epilate Legs",
-      "uid": "ZONES:86"
-    },
-    {
-      "source": "ZONES",
       "zid": 75,
       "floor": "Plant",
       "label": "\ud83c\udf31 Main floor Down Low",
@@ -854,10 +845,19 @@
       "sid": 547,
       "label": "Bring up last chair from swap",
       "uid": "SPIN_WHEEL:547"
+    },
+    {
+      "source": "ZONES",
+      "zid": 87,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Eyebrows",
+      "uid": "ZONES:87"
     }
   ],
-  "version": 1317,
-  "updated": "2026-07-29T07:57:17.766223+00:00",
+  "version": 1318,
+  "updated": "2026-07-29T08:27:19.854280+00:00",
   "buckets": {
     "SPIN_WHEEL": 71,
     "COURAGE": 3,
