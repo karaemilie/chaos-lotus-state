@@ -807,15 +807,6 @@
       "uid": "SPIN_WHEEL:544"
     },
     {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 545,
       "sid": 545,
@@ -853,10 +844,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Teeth Whitening",
       "uid": "ZONES:88"
+    },
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Props",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Props",
+      "uid": "ZONES:78"
     }
   ],
-  "version": 1320,
-  "updated": "2026-07-29T08:36:58.647075+00:00",
+  "version": 1321,
+  "updated": "2026-07-29T08:37:42.735533+00:00",
   "buckets": {
     "SPIN_WHEEL": 71,
     "COURAGE": 3,
