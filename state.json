@@ -820,12 +820,19 @@
       "sid": 536,
       "label": "Review APS requirements",
       "uid": "SPIN_WHEEL:536"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 537,
+      "sid": 537,
+      "label": "Hand sand table, eval if we are ready for wax \u2728",
+      "uid": "SPIN_WHEEL:537"
     }
   ],
-  "version": 1301,
-  "updated": "2026-07-29T05:00:04.382501+00:00",
+  "version": 1302,
+  "updated": "2026-07-29T05:00:06.509018+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 67,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
