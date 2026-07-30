@@ -530,20 +530,6 @@
       "uid": "SPIN:484"
     },
     {
-      "source": "TASKS",
-      "id": 11704,
-      "row": 264,
-      "label": "\u2728 Throw cat fountain in dishwasher \ud83d\udc31\ud83e\udee7",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11704"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11217,
       "parentRow": 187,
@@ -794,13 +780,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 549,
-      "sid": 549,
-      "label": "Clean my bedrii",
-      "uid": "SPIN_WHEEL:549"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 550,
       "sid": 550,
       "label": "Clean bedroom windows",
@@ -872,12 +851,25 @@
       "sid": 558,
       "label": "Write Insta plant lady back",
       "uid": "SPIN_WHEEL:558"
+    },
+    {
+      "source": "TASKS",
+      "id": 11851,
+      "label": "\u2728 Watch new content from Sabrina Ramonov \ud83c\udfa5",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11851"
     }
   ],
-  "version": 1339,
-  "updated": "2026-07-30T07:47:54.598101+00:00",
+  "version": 1340,
+  "updated": "2026-07-30T07:48:45.515792+00:00",
   "buckets": {
-    "SPIN_WHEEL": 74,
+    "SPIN_WHEEL": 73,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
