@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-30T06:56:35.510Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Shop vqc",
+      "_addedAt": "2026-07-30T07:46:37.644Z",
+      "_ts": "2026-07-30T07:46:37.829Z"
+    }
+  ],
+  "mirroredAt": "2026-07-30T07:46:38.065Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-30T06:56:36.572762+00:00",
-  "lastAutoProcessed": [
-    "ZONES:4"
-  ]
+    "adds": 1
+  }
 }
