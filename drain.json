@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-30T03:11:22.811Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Empty vac water…",
+      "_addedAt": "2026-07-30T03:20:40.947Z",
+      "_ts": "2026-07-30T03:20:41.017Z"
+    }
+  ],
+  "mirroredAt": "2026-07-30T03:20:41.254Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
