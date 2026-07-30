@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-30T03:21:33.168Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Candlestick and pillowcase return form",
+      "_addedAt": "2026-07-30T05:48:44.270Z",
+      "_ts": "2026-07-30T05:48:44.380Z"
+    }
+  ],
+  "mirroredAt": "2026-07-30T05:48:44.623Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-30T03:21:34.103832+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:552"
-  ]
+    "adds": 1
+  }
 }
