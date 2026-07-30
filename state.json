@@ -871,12 +871,19 @@
       "sid": 559,
       "label": "Work on hook set up for purses",
       "uid": "SPIN_WHEEL:559"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 560,
+      "sid": 560,
+      "label": "Order more halogen bulbs",
+      "uid": "SPIN_WHEEL:560"
     }
   ],
-  "version": 1341,
-  "updated": "2026-07-30T21:25:40.717258+00:00",
+  "version": 1342,
+  "updated": "2026-07-30T22:34:11.007950+00:00",
   "buckets": {
-    "SPIN_WHEEL": 74,
+    "SPIN_WHEEL": 75,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
