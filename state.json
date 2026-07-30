@@ -235,16 +235,6 @@
       "uid": "TASKS:10533"
     },
     {
-      "source": "ZONES",
-      "zid": 4,
-      "floor": "Upstairs",
-      "row": 5,
-      "label": "\ud83e\uddfa My Closet",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "My Closet",
-      "uid": "ZONES:4"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 509,
       "row": 58,
@@ -852,10 +842,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Foyer",
       "uid": "ZONES:46"
+    },
+    {
+      "source": "ZONES",
+      "zid": 5,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Boys Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Boys Room",
+      "uid": "ZONES:5"
     }
   ],
-  "version": 1336,
-  "updated": "2026-07-30T06:47:45.751523+00:00",
+  "version": 1337,
+  "updated": "2026-07-30T06:56:34.278354+00:00",
   "buckets": {
     "SPIN_WHEEL": 71,
     "COURAGE": 3,
