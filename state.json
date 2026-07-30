@@ -825,12 +825,33 @@
       "sid": 548,
       "label": "Cancel Drama Wave",
       "uid": "SPIN_WHEEL:548"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 549,
+      "sid": 549,
+      "label": "Clean my bedrii",
+      "uid": "SPIN_WHEEL:549"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 550,
+      "sid": 550,
+      "label": "Clean bedroom windows",
+      "uid": "SPIN_WHEEL:550"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 551,
+      "sid": 551,
+      "label": "Paintable caulk",
+      "uid": "SPIN_WHEEL:551"
     }
   ],
-  "version": 1326,
-  "updated": "2026-07-30T03:10:38.684323+00:00",
+  "version": 1327,
+  "updated": "2026-07-30T03:10:40.971221+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 70,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
