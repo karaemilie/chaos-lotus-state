@@ -851,12 +851,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Boys Room",
       "uid": "ZONES:5"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 556,
+      "sid": 556,
+      "label": "Shop vqc",
+      "uid": "SPIN_WHEEL:556"
     }
   ],
-  "version": 1337,
-  "updated": "2026-07-30T06:56:34.278354+00:00",
+  "version": 1338,
+  "updated": "2026-07-30T07:46:59.987605+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 72,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
