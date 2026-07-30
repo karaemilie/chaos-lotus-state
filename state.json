@@ -221,16 +221,6 @@
       "uid": "SPIN:281"
     },
     {
-      "source": "ZONES",
-      "zid": 45,
-      "floor": "Basement",
-      "row": 46,
-      "label": "\ud83e\uddfa Crawlspace",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Crawlspace",
-      "uid": "ZONES:45"
-    },
-    {
       "source": "TASKS",
       "id": 10533,
       "row": 268,
@@ -860,10 +850,19 @@
       "sid": 555,
       "label": "Install tile",
       "uid": "SPIN_WHEEL:555"
+    },
+    {
+      "source": "ZONES",
+      "zid": 46,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Foyer",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Foyer",
+      "uid": "ZONES:46"
     }
   ],
-  "version": 1334,
-  "updated": "2026-07-30T06:08:38.973308+00:00",
+  "version": 1335,
+  "updated": "2026-07-30T06:47:04.776475+00:00",
   "buckets": {
     "SPIN_WHEEL": 72,
     "COURAGE": 3,
