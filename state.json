@@ -853,12 +853,19 @@
       "sid": 552,
       "label": "Mop bathroom **",
       "uid": "SPIN_WHEEL:552"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 553,
+      "sid": 553,
+      "label": "Empty vac water\u2026",
+      "uid": "SPIN_WHEEL:553"
     }
   ],
-  "version": 1329,
-  "updated": "2026-07-30T03:11:23.927930+00:00",
+  "version": 1330,
+  "updated": "2026-07-30T03:20:53.822714+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 72,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
