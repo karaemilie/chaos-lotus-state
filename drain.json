@@ -2,16 +2,30 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
+      "row": 547,
+      "label": "Bring up last chair from swap",
+      "uid": "SPIN_WHEEL:547",
+      "_ts": "2026-07-30T03:09:40.996Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 40,
       "label": "Research suction issues for robot",
       "uid": "SPIN:463",
       "_ts": "2026-07-30T03:09:57.670Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-07-30T03:10:01.562Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Clean my bedrii",
+      "_addedAt": "2026-07-30T03:10:04.933Z",
+      "_ts": "2026-07-30T03:10:04.997Z"
+    }
+  ],
+  "mirroredAt": "2026-07-30T03:10:05.232Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
