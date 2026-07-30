@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 547,
+      "label": "Bring up last chair from swap",
+      "uid": "SPIN_WHEEL:547",
+      "_ts": "2026-07-30T03:09:40.996Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-29T17:31:27.727Z",
+  "mirroredAt": "2026-07-30T03:09:41.369Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
