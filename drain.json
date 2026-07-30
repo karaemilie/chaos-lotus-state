@@ -1,6 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Shop vqc",
+      "uid": "PLUS_ADD:Shop vqc:2026-07-30T07:46:37.644Z",
+      "_ts": "2026-07-30T07:47:42.408Z"
+    }
+  ],
   "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Shop vqc",
+      "_addedAt": "2026-07-30T07:46:37.644Z",
+      "_ts": "2026-07-30T07:46:37.829Z"
+    },
     {
       "source": "PLUS_ADD",
       "label": "Shop vac garage glass",
@@ -14,9 +27,9 @@
       "_ts": "2026-07-30T07:46:55.213Z"
     }
   ],
-  "mirroredAt": "2026-07-30T07:46:58.747Z",
+  "mirroredAt": "2026-07-30T07:47:42.630Z",
   "counts": {
-    "completions": 0,
-    "adds": 2
+    "completions": 1,
+    "adds": 3
   }
 }
