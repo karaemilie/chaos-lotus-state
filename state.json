@@ -800,13 +800,6 @@
       "uid": "SPIN_WHEEL:546"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 547,
-      "sid": 547,
-      "label": "Bring up last chair from swap",
-      "uid": "SPIN_WHEEL:547"
-    },
-    {
       "source": "ZONES",
       "zid": 59,
       "floor": "Digital",
@@ -841,10 +834,10 @@
       "uid": "SPIN_WHEEL:548"
     }
   ],
-  "version": 1324,
-  "updated": "2026-07-29T17:31:29.269211+00:00",
+  "version": 1325,
+  "updated": "2026-07-30T03:10:00.438788+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 68,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
