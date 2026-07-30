@@ -749,13 +749,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 541,
-      "sid": 541,
-      "label": "Paint dinged edge cabinet",
-      "uid": "SPIN_WHEEL:541"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 542,
       "sid": 542,
       "label": "Move quilt to right",
@@ -861,10 +854,10 @@
       "uid": "ZONES:46"
     }
   ],
-  "version": 1335,
-  "updated": "2026-07-30T06:47:04.776475+00:00",
+  "version": 1336,
+  "updated": "2026-07-30T06:47:45.751523+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 71,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
