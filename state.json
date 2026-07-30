@@ -256,13 +256,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 390,
-      "row": 28,
-      "label": "Straws for drawer",
-      "uid": "SPIN:390"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 509,
       "row": 58,
       "label": "Plot out plan for Genevieve school year costs",
@@ -862,10 +855,10 @@
       "uid": "SPIN_WHEEL:554"
     }
   ],
-  "version": 1332,
-  "updated": "2026-07-30T05:49:01.660035+00:00",
+  "version": 1333,
+  "updated": "2026-07-30T06:07:52.176235+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 71,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
