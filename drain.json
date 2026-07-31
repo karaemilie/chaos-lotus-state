@@ -6,6 +6,13 @@
       "label": "Find name of co",
       "uid": "SPIN_WHEEL:569",
       "_ts": "2026-07-31T08:09:30.061Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 567,
+      "label": "A",
+      "uid": "SPIN_WHEEL:567",
+      "_ts": "2026-07-31T08:09:36.565Z"
     }
   ],
   "adds": [
@@ -22,9 +29,9 @@
       "_ts": "2026-07-31T08:09:07.104Z"
     }
   ],
-  "mirroredAt": "2026-07-31T08:09:30.265Z",
+  "mirroredAt": "2026-07-31T08:09:36.782Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 2
   }
 }
