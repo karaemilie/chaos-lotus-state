@@ -499,13 +499,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 577,
-      "row": 81,
-      "label": "Get BofA overpayment back",
-      "uid": "SPIN:577"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 281,
       "row": 11,
       "label": "WWAMI cost research",
@@ -981,11 +974,11 @@
       "uid": "SPIN_WHEEL:585"
     }
   ],
-  "version": 1390,
-  "updated": "2026-07-31T22:20:02.884349+00:00",
+  "version": 1391,
+  "updated": "2026-07-31T22:20:45.143677+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 88,
+    "SPIN_WHEEL": 87,
     "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
