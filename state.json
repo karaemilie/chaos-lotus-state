@@ -179,16 +179,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 59,
-      "floor": "Digital",
-      "row": 60,
-      "label": "\ud83d\udcbb Quicken",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Quicken",
-      "uid": "ZONES:59"
-    },
-    {
-      "source": "ZONES",
       "zid": 84,
       "floor": "Personal",
       "row": 85,
@@ -917,10 +907,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10090"
+    },
+    {
+      "source": "ZONES",
+      "zid": 61,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Reviews",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Reviews",
+      "uid": "ZONES:61"
     }
   ],
-  "version": 1360,
-  "updated": "2026-07-31T04:53:08.294348+00:00",
+  "version": 1361,
+  "updated": "2026-07-31T04:53:38.639653+00:00",
   "buckets": {
     "SPIN_WHEEL": 78,
     "TASKS": 17,
