@@ -1,9 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 46,
+      "floor": "Basement",
+      "label": "🧺 Basement Foyer",
+      "uid": "ZONES:46",
+      "_ts": "2026-07-31T04:19:12.096Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-31T04:01:54.364Z",
+  "mirroredAt": "2026-07-31T04:19:12.341Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
