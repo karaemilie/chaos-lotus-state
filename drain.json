@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 6,
+      "zid": 5,
+      "floor": "Upstairs",
+      "label": "🧺 Boys Room",
+      "uid": "ZONES:5",
+      "_ts": "2026-07-31T05:00:09.634Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-31T04:55:43.692Z",
+  "mirroredAt": "2026-07-31T05:00:10.011Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-31T04:55:44.421645+00:00",
-  "lastAutoProcessed": [
-    "SPIN:521"
-  ]
+  }
 }
