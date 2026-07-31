@@ -908,12 +908,19 @@
       "sid": 568,
       "label": "Another window film! *",
       "uid": "SPIN_WHEEL:568"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 569,
+      "sid": 569,
+      "label": "Find name of co",
+      "uid": "SPIN_WHEEL:569"
     }
   ],
-  "version": 1365,
-  "updated": "2026-07-31T05:28:28.625256+00:00",
+  "version": 1366,
+  "updated": "2026-07-31T05:33:14.748356+00:00",
   "buckets": {
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 78,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
