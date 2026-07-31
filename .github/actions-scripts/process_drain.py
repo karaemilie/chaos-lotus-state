@@ -342,7 +342,7 @@ def process_maintenance_completion(wb, comp, stamp):
     return True, f"  ✅ MAINTENANCE '{actual_task}' (MID {mid}) stamped {stamp.date()}"
 
 
-def _log_spin_to_completed(wb, label, sid, stamp):
+def _log_spin_to_completed(wb, label, sid, stamp, id_prefix="SPIN", note="✅ Completed via spin wheel"):
     """Append a finished spin task to the COMPLETED sheet so it shows up in
     'what did I do today'. Spin rows are minimal (Task/Source/TaskRow/SID), so
     we fill only the columns we have, by HEADER NAME (never positional):
@@ -365,7 +365,7 @@ def _log_spin_to_completed(wb, label, sid, stamp):
     # re-mark of the same task — logs twice (the SPIN-27 / SPIN-150 double-logs).
     # Keyed on ID + Completed Date so the same task completed again on a LATER
     # day still logs (legitimately), but a same-day duplicate is skipped.
-    _id = f"SPIN-{sid}"
+    _id = f"{id_prefix}-{sid}"
     id_col = Hc.get("ID")
     date_col = Hc.get("Completed Date")
     if id_col and date_col:
@@ -375,7 +375,7 @@ def _log_spin_to_completed(wb, label, sid, stamp):
                 ev = wsc.cell(r, date_col).value
                 ev_d = ev.date() if hasattr(ev, "date") else ev
                 if ev_d == stamp_d:
-                    return f"  ⏭️  SPIN-{sid} already logged {stamp_d} — skipping duplicate"
+                    return f"  ⏭️  {_id} already logged {stamp_d} — skipping duplicate"
 
     nr = wsc.max_row + 1
 
@@ -383,12 +383,140 @@ def _log_spin_to_completed(wb, label, sid, stamp):
         if col in Hc:
             wsc.cell(nr, Hc[col]).value = val
 
-    put("ID", f"SPIN-{sid}")
+    put("ID", _id)
     put("Task", label)
     put("Category", "Spin")
     put("Completed Date", stamp)
-    put("Notes", "✅ Completed via spin wheel")
-    return f"  📝 logged to COMPLETED: '{label}' (SPIN-{sid})"
+    put("Notes", note)
+    return f"  📝 logged to COMPLETED: '{label}' ({_id})"
+
+
+_ISO_IN_UID = __import__("re").compile(r"\d{4}-\d{2}-\d{2}T[\d:.]+Z?")
+
+
+def _plus_add_key(comp):
+    """Stable id for a + task that never made it onto the sheet.
+
+    Do NOT rsplit the uid on ':' to find the timestamp — the timestamp itself
+    contains colons, so that returns '00.000Z' and every orphan collapses onto
+    the same key. Match the ISO stamp explicitly instead.
+    """
+    at = comp.get("_addedAt") or ""
+    if not at:
+        mt = _ISO_IN_UID.search(comp.get("uid", "") or "")
+        at = mt.group(0) if mt else ""
+    digits = "".join(ch for ch in str(at) if ch.isdigit())[:14]
+    return digits or "unknown"
+
+
+def _already_logged_today(wb, label, stamp):
+    """Has this exact label already been logged to COMPLETED on this date?
+
+    The SPIN-{sid} dedupe inside _log_spin_to_completed can't protect a PLUS_ADD
+    replay: on a second pass the sheet row is gone, so the same task logs under
+    ADD-{ts} instead of SPIN-{sid} and slips past an ID-keyed check. Overlapping
+    Action runs are routine here, so guard on label+date as well.
+    """
+    if "COMPLETED" not in wb.sheetnames or not label:
+        return False
+    wsc = wb["COMPLETED"]
+    Hc = {c.value: i + 1 for i, c in enumerate(wsc[1])}
+    tcol, dcol = Hc.get("Task"), Hc.get("Completed Date")
+    if not tcol or not dcol:
+        return False
+    want = str(label).strip().lower()
+    sd = stamp.date() if hasattr(stamp, "date") else stamp
+    for r in range(2, wsc.max_row + 1):
+        v = wsc.cell(r, tcol).value
+        if v and str(v).strip().lower() == want:
+            ev = wsc.cell(r, dcol).value
+            ev = ev.date() if hasattr(ev, "date") else ev
+            if ev == sd:
+                return True
+    return False
+
+
+def process_plus_add_completions(wb, comps, stamp=None):
+    """Finalize completions still carrying their front-end PLUS_ADD identity.
+
+    THE STRANDING BUG. A '+' add is filed to SPIN WHEEL by process_adds() with a
+    fresh SID, but the front-end list keeps the ORIGINAL uid
+    (PLUS_ADD:{label}:{addedAt}). So when the user ticks it off, the payload
+    arrives as source="PLUS_ADD" with no sid: it fails the SPIN_WHEEL source
+    gate, fails the SPIN:/SPIN_WHEEL: uid-prefix fallback, lands in
+    other_completions and queues in drain.json forever — the task keeps
+    reappearing at the bottom of the list and never reaches COMPLETED.
+
+    There is no SID to match on, so resolve by LABEL. That is safe here because
+    process_adds() de-dups the sheet on lowercased label, so a label maps to at
+    most one PLUS_ADD row.
+
+    NEVER STRAND: if the row can't be resolved (the add never landed, or another
+    run already deleted it), still log the win from the drain payload and clear
+    the uid. A missing row must not cost the user a completion.
+    """
+    if not comps:
+        return [], []
+    msgs = []
+    processed = []
+
+    ws = wb["SPIN WHEEL"] if "SPIN WHEEL" in wb.sheetnames else None
+    label_to_row, row_to_sid = {}, {}
+    if ws is not None:
+        header = {c.value: i + 1 for i, c in enumerate(ws[1])}
+        task_col = header.get("Task", 1)
+        sid_col = header.get("SID")
+        for r in range(2, ws.max_row + 1):
+            v = ws.cell(r, task_col).value
+            if v:
+                label_to_row.setdefault(str(v).strip().lower(), r)
+                if sid_col:
+                    row_to_sid[r] = ws.cell(r, sid_col).value
+
+    resolved, orphans = [], []
+    for comp in comps:
+        label = (comp.get("label") or "").strip()
+        uid = comp.get("uid", "")
+        if not label:
+            msgs.append(f"  ⏭️  PLUS_ADD {uid!r} has no label — clearing")
+            processed.append(uid)
+            continue
+        row = label_to_row.get(label.lower())
+        if row is None:
+            orphans.append((uid, label, comp))
+        else:
+            resolved.append((row, row_to_sid.get(row), uid, label))
+
+    # rows first, DESCENDING — deletes shift everything below up by one
+    for row, sid, uid, label in sorted(resolved, key=lambda x: -x[0]):
+        if stamp is not None and _already_logged_today(wb, label, stamp):
+            msgs.append(f"  ⏭️  '{label}' already in COMPLETED today — deleting row only")
+        elif stamp is not None:
+            line = _log_spin_to_completed(
+                wb, label, sid if sid is not None else _plus_add_key({"uid": uid}),
+                stamp, id_prefix="SPIN" if sid is not None else "ADD",
+                note="✅ Completed via + quick-add")
+            if line:
+                msgs.append(line)
+        ws.delete_rows(row, 1)
+        msgs.append(f"  ✅ PLUS_ADD '{label}' → COMPLETED, SPIN WHEEL row {row} deleted")
+        processed.append(uid)
+
+    for uid, label, comp in orphans:
+        if stamp is not None and _already_logged_today(wb, label, stamp):
+            msgs.append(f"  ⏭️  '{label}' already in COMPLETED today — clearing uid only")
+            processed.append(uid)
+            continue
+        if stamp is not None:
+            line = _log_spin_to_completed(
+                wb, label, _plus_add_key(comp), stamp, id_prefix="ADD",
+                note="✅ Completed via + quick-add (no sheet row)")
+            if line:
+                msgs.append(line)
+        msgs.append(f"  ✅ PLUS_ADD '{label}' → COMPLETED (never reached the sheet) — clearing uid")
+        processed.append(uid)
+
+    return processed, msgs
 
 
 def process_spin_wheel_completions(wb, comps, stamp=None):
@@ -938,12 +1066,24 @@ def main():
         return uid.startswith("SPIN:") or uid.startswith("SPIN_WHEEL:")
 
     auto_spin = [c for c in completions if _is_spin(c)]
+
+    # A '+' task keeps its PLUS_ADD uid in the front-end even after process_adds()
+    # gives it a SPIN WHEEL row, so its completion has no SID and matches neither
+    # gate above. Route it to its own label-based handler instead of stranding it.
+    def _is_plus_add(c):
+        if _is_spin(c):
+            return False
+        return (c.get("source") == "PLUS_ADD"
+                or (c.get("uid", "") or "").startswith("PLUS_ADD:"))
+
+    auto_plus = [c for c in completions if _is_plus_add(c)]
     # Everything that is neither an auto source NOR a spin-uid completion is left
     # for Claude. (Spin items are excluded even when their source tag is wrong.)
     other_completions = [c for c in completions
-                         if c.get("source") not in AUTO_SOURCES and not _is_spin(c)]
+                         if c.get("source") not in AUTO_SOURCES
+                         and not _is_spin(c) and not _is_plus_add(c)]
 
-    print(f"🔧 Auto-processable: {len(auto_zones)} ZONES, {len(auto_maintenance)} MAINTENANCE, {len(auto_spin)} SPIN_WHEEL, {len(adds)} ADDS→SPIN")
+    print(f"🔧 Auto-processable: {len(auto_zones)} ZONES, {len(auto_maintenance)} MAINTENANCE, {len(auto_spin)} SPIN_WHEEL, {len(auto_plus)} PLUS_ADD, {len(adds)} ADDS→SPIN")
     print(f"⏸️  Leaving for Claude: {len(other_completions)} other completions")
 
     if pending_clear_from_chat:
@@ -953,7 +1093,7 @@ def main():
     #    (adds get appended to the SPIN WHEEL sheet).
     wb = None
     beast_sha = None
-    if auto_zones or auto_maintenance or auto_spin or adds:
+    if auto_zones or auto_maintenance or auto_spin or auto_plus or adds:
         print(f"\n📂 Loading beast from {BEAST_REPO}/{BEAST_FILE}...")
         beast_bytes, beast_sha = load_beast()
         print(f"   {len(beast_bytes)} bytes, SHA {beast_sha[:12]}")
@@ -999,6 +1139,19 @@ def main():
         # track spin comps for refill bookkeeping (refill itself skips spin)
         for comp in auto_spin:
             if comp.get("uid") in spin_uids:
+                processed_comps.append(comp)
+
+    # 4c-bis. Process PLUS_ADD completions (label-based; see the stranding note)
+    if auto_plus and wb:
+        print(f"\n➕ Processing {len(auto_plus)} PLUS_ADD completions:")
+        plus_uids, plus_msgs = process_plus_add_completions(wb, auto_plus, stamp=stamp)
+        for m in plus_msgs:
+            print(m)
+        processed_uids.extend(plus_uids)
+        for comp in auto_plus:
+            if comp.get("uid") in plus_uids:
+                processed_details.append({"uid": comp.get("uid"),
+                                          "result": f"PLUS_ADD '{comp.get('label')}' → COMPLETED"})
                 processed_comps.append(comp)
 
     # 4d. Process ADDS → append to SPIN WHEEL sheet (front-end adds become spin items)
