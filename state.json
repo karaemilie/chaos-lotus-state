@@ -944,13 +944,20 @@
       "sid": 580,
       "label": "Update PURA settings",
       "uid": "SPIN_WHEEL:580"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 581,
+      "sid": 581,
+      "label": "Take down dress shoes in closet",
+      "uid": "SPIN_WHEEL:581"
     }
   ],
-  "version": 1386,
-  "updated": "2026-07-31T21:00:40.138395+00:00",
+  "version": 1387,
+  "updated": "2026-07-31T21:03:02.301441+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 83,
+    "SPIN_WHEEL": 84,
     "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
