@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-31T21:17:55.859Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pick a recipe",
+      "_addedAt": "2026-07-31T22:18:56.994Z",
+      "_ts": "2026-07-31T22:18:57.154Z"
+    }
+  ],
+  "mirroredAt": "2026-07-31T22:18:57.415Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
