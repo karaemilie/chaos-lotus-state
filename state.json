@@ -937,19 +937,12 @@
       "sid": 578,
       "label": "Linc swim registration",
       "uid": "SPIN_WHEEL:578"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 579,
-      "sid": 579,
-      "label": "Tatim",
-      "uid": "SPIN_WHEEL:579"
     }
   ],
-  "version": 1380,
-  "updated": "2026-07-31T09:47:31.391011+00:00",
+  "version": 1381,
+  "updated": "2026-07-31T09:52:55.766487+00:00",
   "buckets": {
-    "SPIN_WHEEL": 83,
+    "SPIN_WHEEL": 82,
     "TASKS": 17,
     "COURAGE": 3,
     "MAINTENANCE": 2,
