@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-31T09:52:56.884Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 579,
+      "label": "Tatim",
+      "uid": "SPIN_WHEEL:579",
+      "_ts": "2026-07-31T09:52:35.484Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Try free NFC app",
+      "_addedAt": "2026-07-31T09:53:04.099Z",
+      "_ts": "2026-07-31T09:53:04.217Z"
+    }
+  ],
+  "mirroredAt": "2026-07-31T09:53:04.466Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-31T09:52:57.807316+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:579"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
