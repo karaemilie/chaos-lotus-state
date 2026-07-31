@@ -937,12 +937,19 @@
       "sid": 578,
       "label": "Linc swim registration",
       "uid": "SPIN_WHEEL:578"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 579,
+      "sid": 579,
+      "label": "Try free NFC app",
+      "uid": "SPIN_WHEEL:579"
     }
   ],
-  "version": 1382,
-  "updated": "2026-07-31T09:53:33.277954+00:00",
+  "version": 1383,
+  "updated": "2026-07-31T09:53:35.652055+00:00",
   "buckets": {
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 83,
     "TASKS": 17,
     "COURAGE": 3,
     "MAINTENANCE": 2,
