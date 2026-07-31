@@ -130,13 +130,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 319,
-      "row": 12,
-      "label": "Next window film! **",
-      "uid": "SPIN:319"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 540,
       "row": 60,
       "label": "Ask Claude how to adjust door hinge",
@@ -917,10 +910,10 @@
       "uid": "SPIN_WHEEL:568"
     }
   ],
-  "version": 1364,
-  "updated": "2026-07-31T05:27:44.361218+00:00",
+  "version": 1365,
+  "updated": "2026-07-31T05:28:28.625256+00:00",
   "buckets": {
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 77,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
