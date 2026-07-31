@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-31T03:59:37.719Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add zones to completed xls",
+      "_addedAt": "2026-07-31T04:01:39.533Z",
+      "_ts": "2026-07-31T04:01:39.980Z"
+    }
+  ],
+  "mirroredAt": "2026-07-31T04:01:40.397Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
