@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-31T08:30:03.006Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Tatim",
+      "_addedAt": "2026-07-31T09:47:16.902Z",
+      "_ts": "2026-07-31T09:47:17.017Z"
+    }
+  ],
+  "mirroredAt": "2026-07-31T09:47:17.363Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
