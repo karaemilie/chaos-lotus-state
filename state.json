@@ -908,12 +908,26 @@
       "sid": 569,
       "label": "Find name of co",
       "uid": "SPIN_WHEEL:569"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 570,
+      "sid": 570,
+      "label": "AceIt app?",
+      "uid": "SPIN_WHEEL:570"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 571,
+      "sid": 571,
+      "label": "Name of comedian SAT prep",
+      "uid": "SPIN_WHEEL:571"
     }
   ],
-  "version": 1367,
-  "updated": "2026-07-31T05:33:52.559396+00:00",
+  "version": 1368,
+  "updated": "2026-07-31T05:33:54.448809+00:00",
   "buckets": {
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 79,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
