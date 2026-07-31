@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-31T08:15:22.256Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pay down my AK card and transfer balance to Genevieve Embry riddle account. Pay off Gemini too somehow",
+      "_addedAt": "2026-07-31T08:15:08.746Z",
+      "_ts": "2026-07-31T08:15:08.880Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Get BofA overpayment back",
+      "_addedAt": "2026-07-31T08:15:39.162Z",
+      "_ts": "2026-07-31T08:15:39.309Z"
+    }
+  ],
+  "mirroredAt": "2026-07-31T08:15:39.559Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
