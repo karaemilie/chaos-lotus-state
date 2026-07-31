@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-31T03:55:17.324Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Figure out how to box NL Science **",
+      "_addedAt": "2026-07-31T03:57:54.891Z",
+      "_ts": "2026-07-31T03:57:55.363Z"
+    }
+  ],
+  "mirroredAt": "2026-07-31T03:57:55.787Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
