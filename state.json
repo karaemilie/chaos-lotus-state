@@ -833,13 +833,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 556,
-      "sid": 556,
-      "label": "Shop vqc",
-      "uid": "SPIN_WHEEL:556"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 557,
       "sid": 557,
       "label": "Shop vac garage glass",
@@ -874,13 +867,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 560,
-      "sid": 560,
-      "label": "Order more halogen bulbs",
-      "uid": "SPIN_WHEEL:560"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 561,
       "sid": 561,
       "label": "Retusa in pon",
@@ -894,10 +880,10 @@
       "uid": "SPIN_WHEEL:562"
     }
   ],
-  "version": 1346,
-  "updated": "2026-07-31T00:48:26.426062+00:00",
+  "version": 1347,
+  "updated": "2026-07-31T00:49:06.776472+00:00",
   "buckets": {
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 75,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
