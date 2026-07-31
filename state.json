@@ -626,16 +626,6 @@
       "uid": "SPIN:443"
     },
     {
-      "source": "TASKS",
-      "id": 10787,
-      "row": 135,
-      "label": "\ud83d\udcb8 List NL Science on eBay \ud83d\udcdd",
-      "emoji": "\ud83d\udcb8",
-      "aw": 7,
-      "specialZone": "Business",
-      "uid": "TASKS:10787"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 532,
       "sid": 532,
@@ -885,10 +875,23 @@
       "sid": 564,
       "label": "Figure out how to box NL Science **",
       "uid": "SPIN_WHEEL:564"
+    },
+    {
+      "source": "TASKS",
+      "id": 11553,
+      "label": "\u2728 Clean the icemaker \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11553"
     }
   ],
-  "version": 1350,
-  "updated": "2026-07-31T03:58:09.865122+00:00",
+  "version": 1351,
+  "updated": "2026-07-31T03:58:49.290519+00:00",
   "buckets": {
     "SPIN_WHEEL": 76,
     "COURAGE": 3,
