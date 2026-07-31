@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 12,
+      "label": "Next window film! **",
+      "uid": "SPIN:319",
+      "_ts": "2026-07-31T05:27:31.547Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-07-31T05:27:29.320Z"
     }
   ],
-  "mirroredAt": "2026-07-31T05:27:29.684Z",
+  "mirroredAt": "2026-07-31T05:27:31.746Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
