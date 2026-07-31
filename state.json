@@ -345,16 +345,6 @@
       "uid": "SPIN:453"
     },
     {
-      "source": "ZONES",
-      "zid": 5,
-      "floor": "Upstairs",
-      "row": 6,
-      "label": "\ud83e\uddfa Boys Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Boys Room",
-      "uid": "ZONES:5"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 496,
       "row": 40,
@@ -909,10 +899,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Reviews",
       "uid": "ZONES:61"
+    },
+    {
+      "source": "ZONES",
+      "zid": 6,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Genevieve's Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Genevieve's Room",
+      "uid": "ZONES:6"
     }
   ],
-  "version": 1362,
-  "updated": "2026-07-31T04:55:42.642478+00:00",
+  "version": 1363,
+  "updated": "2026-07-31T05:00:24.581041+00:00",
   "buckets": {
     "SPIN_WHEEL": 77,
     "TASKS": 17,
