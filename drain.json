@@ -1,6 +1,20 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 569,
+      "label": "Find name of co",
+      "uid": "SPIN_WHEEL:569",
+      "_ts": "2026-07-31T08:09:30.061Z"
+    }
+  ],
   "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Update swim on calendar",
+      "_addedAt": "2026-07-31T08:08:53.279Z",
+      "_ts": "2026-07-31T08:08:54.296Z"
+    },
     {
       "source": "PLUS_ADD",
       "label": "Try free BRIC app",
@@ -8,9 +22,9 @@
       "_ts": "2026-07-31T08:09:07.104Z"
     }
   ],
-  "mirroredAt": "2026-07-31T08:09:11.859Z",
+  "mirroredAt": "2026-07-31T08:09:30.265Z",
   "counts": {
-    "completions": 0,
-    "adds": 1
+    "completions": 1,
+    "adds": 2
   }
 }
