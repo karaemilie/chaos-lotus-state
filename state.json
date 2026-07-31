@@ -219,13 +219,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 529,
-      "row": 52,
-      "label": "Measure Linc for dress shirt",
-      "uid": "SPIN:529"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 484,
       "row": 34,
       "label": "Setup email forward.net **",
@@ -939,10 +932,10 @@
       "uid": "SPIN_WHEEL:577"
     }
   ],
-  "version": 1377,
-  "updated": "2026-07-31T08:16:07.216826+00:00",
+  "version": 1378,
+  "updated": "2026-07-31T08:19:42.311723+00:00",
   "buckets": {
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 81,
     "TASKS": 17,
     "COURAGE": 3,
     "MAINTENANCE": 2,
