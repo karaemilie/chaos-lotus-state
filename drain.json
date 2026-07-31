@@ -1,13 +1,6 @@
 {
   "completions": [
     {
-      "source": "SPIN_WHEEL",
-      "row": 81,
-      "label": "Get BofA overpayment back",
-      "uid": "SPIN:577",
-      "_ts": "2026-07-31T22:19:45.556Z"
-    },
-    {
       "source": "PLUS_ADD",
       "label": "Pick a recipe",
       "uid": "PLUS_ADD:Pick a recipe:2026-07-31T22:18:56.994Z",
@@ -27,13 +20,9 @@
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-07-31T22:20:51.158Z",
+  "mirroredAt": "2026-07-31T22:21:15.410Z",
   "counts": {
-    "completions": 4,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-07-31T22:20:47.212129+00:00",
-  "lastAutoProcessed": [
-    "SPIN:577"
-  ]
+  }
 }
