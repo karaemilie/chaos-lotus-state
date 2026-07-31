@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-31T06:07:23.748Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find/charge caulk gun",
+      "_addedAt": "2026-07-31T06:35:32.786Z",
+      "_ts": "2026-07-31T06:35:33.482Z"
+    }
+  ],
+  "mirroredAt": "2026-07-31T06:35:33.885Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-31T06:07:24.666670+00:00",
-  "lastAutoProcessed": [
-    "SPIN:551"
-  ]
+    "adds": 1
+  }
 }
