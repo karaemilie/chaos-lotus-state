@@ -501,6 +501,16 @@ def process_plus_add_completions(wb, comps, stamp=None):
         ws.delete_rows(row, 1)
         msgs.append(f"  ✅ PLUS_ADD '{label}' → COMPLETED, SPIN WHEEL row {row} deleted")
         processed.append(uid)
+        # THE SECOND HALF OF THE STRANDING BUG. A '+' task has TWO identities:
+        # the front-end list holds PLUS_ADD:{label}:{addedAt}, but process_adds()
+        # seeded state.json under the canonical SPIN_WHEEL:{sid}. Returning only
+        # the PLUS_ADD uid clears drain.json and writes the Beast, but the state
+        # removal matches nothing — so the task keeps showing on the wheel AND in
+        # the box even though it is fully completed. Emit BOTH uid forms so the
+        # refill actually removes it.
+        if sid is not None:
+            processed.append(f"SPIN_WHEEL:{sid}")
+            processed.append(f"SPIN:{sid}")
 
     for uid, label, comp in orphans:
         if stamp is not None and _already_logged_today(wb, label, stamp):
