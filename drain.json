@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-31T02:44:43.597Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Update category for NL science listing",
+      "_addedAt": "2026-07-31T03:54:55.953Z",
+      "_ts": "2026-07-31T03:54:56.457Z"
+    }
+  ],
+  "mirroredAt": "2026-07-31T03:54:56.800Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-31T02:44:44.435833+00:00",
-  "lastAutoProcessed": [
-    "SPIN:174"
-  ]
+    "adds": 1
+  }
 }
