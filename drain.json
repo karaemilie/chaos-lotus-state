@@ -1,15 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 7,
+      "label": "Go through shorts/pants with Jake**",
+      "uid": "SPIN:174",
+      "_ts": "2026-07-31T02:44:24.363Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-31T00:49:08.091Z",
+  "mirroredAt": "2026-07-31T02:44:24.585Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-07-31T00:49:09.179832+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:563",
-    "SPIN_WHEEL:560",
-    "SPIN_WHEEL:556"
-  ]
+  }
 }
