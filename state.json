@@ -922,12 +922,19 @@
       "sid": 574,
       "label": "Update swim on calendar",
       "uid": "SPIN_WHEEL:574"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 575,
+      "sid": 575,
+      "label": "Try free BRIC app",
+      "uid": "SPIN_WHEEL:575"
     }
   ],
-  "version": 1373,
-  "updated": "2026-07-31T08:10:01.441614+00:00",
+  "version": 1374,
+  "updated": "2026-07-31T08:10:03.573913+00:00",
   "buckets": {
-    "SPIN_WHEEL": 79,
+    "SPIN_WHEEL": 80,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
