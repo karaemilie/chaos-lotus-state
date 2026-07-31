@@ -951,34 +951,13 @@
       "sid": 582,
       "label": "Check B text settings",
       "uid": "SPIN_WHEEL:582"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 583,
-      "sid": 583,
-      "label": "Pick a recipe",
-      "uid": "SPIN_WHEEL:583"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 584,
-      "sid": 584,
-      "label": "Fred Meyer run",
-      "uid": "SPIN_WHEEL:584"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 585,
-      "sid": 585,
-      "label": "Fix Bentley iMessage",
-      "uid": "SPIN_WHEEL:585"
     }
   ],
-  "version": 1393,
-  "updated": "2026-07-31T22:34:33.031523+00:00",
+  "version": 1394,
+  "updated": "2026-07-31T23:14:29.248985+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 84,
     "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
