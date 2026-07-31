@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-31T06:35:47.003Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pillowcase returns, candle return",
+      "_addedAt": "2026-07-31T07:57:56.675Z",
+      "_ts": "2026-07-31T07:57:56.797Z"
+    }
+  ],
+  "mirroredAt": "2026-07-31T07:57:57.045Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
