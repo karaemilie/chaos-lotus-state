@@ -1,9 +1,29 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 81,
+      "label": "Get BofA overpayment back",
+      "uid": "SPIN:577",
+      "_ts": "2026-07-31T22:19:45.556Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Pick a recipe",
+      "uid": "PLUS_ADD:Pick a recipe:2026-07-31T22:18:56.994Z",
+      "_ts": "2026-07-31T22:20:46.152Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Fred Meyer run",
+      "uid": "PLUS_ADD:Fred Meyer run:2026-07-31T22:19:04.152Z",
+      "_ts": "2026-07-31T22:20:47.793Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-07-31T22:20:46.244Z",
+  "mirroredAt": "2026-07-31T22:20:48.010Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
   }
 }
