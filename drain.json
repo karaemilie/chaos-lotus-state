@@ -1,31 +1,9 @@
 {
- "completions": [
-  {
-   "source": "SPIN_WHEEL",
-   "label": "Pick a recipe",
-   "sid": 583,
-   "uid": "SPIN_WHEEL:583",
-   "_ts": "2026-07-31T23:14:16.203300+00:00"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "label": "Fred Meyer run",
-   "sid": 584,
-   "uid": "SPIN_WHEEL:584",
-   "_ts": "2026-07-31T23:14:16.203300+00:00"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "label": "Fix Bentley iMessage",
-   "sid": 585,
-   "uid": "SPIN_WHEEL:585",
-   "_ts": "2026-07-31T23:14:16.203300+00:00"
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-07-31T23:14:30.516Z",
+  "counts": {
+    "completions": 0,
+    "adds": 0
   }
- ],
- "adds": [],
- "mirroredAt": "2026-07-31T23:09:42.973Z",
- "counts": {
-  "completions": 3,
-  "adds": 0
- }
 }
