@@ -958,13 +958,20 @@
       "sid": 582,
       "label": "Check B text settings",
       "uid": "SPIN_WHEEL:582"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 583,
+      "sid": 583,
+      "label": "Pick a recipe",
+      "uid": "SPIN_WHEEL:583"
     }
   ],
-  "version": 1388,
-  "updated": "2026-07-31T21:17:57.102945+00:00",
+  "version": 1389,
+  "updated": "2026-07-31T22:19:13.906263+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 85,
+    "SPIN_WHEEL": 86,
     "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
