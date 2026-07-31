@@ -809,20 +809,6 @@
       "uid": "SPIN:220"
     },
     {
-      "source": "TASKS",
-      "id": 11851,
-      "row": 332,
-      "label": "\u2728 Watch new content from Sabrina Ramonov \ud83c\udfa5",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11851"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 484,
       "row": 35,
@@ -918,10 +904,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10183"
+    },
+    {
+      "source": "TASKS",
+      "id": 10090,
+      "label": "Link Genevieve's credit card to her bank account (not yours) \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 10,
+      "ml": "Medium",
+      "proj": "Genevieve Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10090"
     }
   ],
-  "version": 1359,
-  "updated": "2026-07-31T04:40:13.381187+00:00",
+  "version": 1360,
+  "updated": "2026-07-31T04:53:08.294348+00:00",
   "buckets": {
     "SPIN_WHEEL": 78,
     "TASKS": 17,
