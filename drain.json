@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-31T08:19:43.337Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Linc swim registration",
+      "_addedAt": "2026-07-31T08:29:48.101Z",
+      "_ts": "2026-07-31T08:29:48.213Z"
+    }
+  ],
+  "mirroredAt": "2026-07-31T08:29:48.461Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-31T08:19:44.172848+00:00",
-  "lastAutoProcessed": [
-    "SPIN:529"
-  ]
+    "adds": 1
+  }
 }
