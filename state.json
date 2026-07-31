@@ -878,12 +878,19 @@
       "sid": 563,
       "label": "Update category for NL science listing",
       "uid": "SPIN_WHEEL:563"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 564,
+      "sid": 564,
+      "label": "Figure out how to box NL Science **",
+      "uid": "SPIN_WHEEL:564"
     }
   ],
-  "version": 1349,
-  "updated": "2026-07-31T03:55:18.369164+00:00",
+  "version": 1350,
+  "updated": "2026-07-31T03:58:09.865122+00:00",
   "buckets": {
-    "SPIN_WHEEL": 75,
+    "SPIN_WHEEL": 76,
     "COURAGE": 3,
     "TASKS": 17,
     "ZONES": 8,
