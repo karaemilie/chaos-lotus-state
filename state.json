@@ -930,12 +930,19 @@
       "sid": 576,
       "label": "Pay down my AK card and transfer balance to Genevieve Embry riddle account. Pay off Gemini too somehow",
       "uid": "SPIN_WHEEL:576"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 577,
+      "sid": 577,
+      "label": "Get BofA overpayment back",
+      "uid": "SPIN_WHEEL:577"
     }
   ],
-  "version": 1376,
-  "updated": "2026-07-31T08:15:23.647074+00:00",
+  "version": 1377,
+  "updated": "2026-07-31T08:16:07.216826+00:00",
   "buckets": {
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 82,
     "TASKS": 17,
     "COURAGE": 3,
     "MAINTENANCE": 2,
