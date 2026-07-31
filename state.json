@@ -285,20 +285,6 @@
       "uid": "SPIN:486"
     },
     {
-      "source": "TASKS",
-      "id": 10430,
-      "row": 105,
-      "label": "\u2728 529 Plans for year: what to have G. Karen cover, what to cover from our funds \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10430"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 436,
       "row": 25,
@@ -919,10 +905,23 @@
       "sid": 567,
       "label": "A",
       "uid": "SPIN_WHEEL:567"
+    },
+    {
+      "source": "TASKS",
+      "id": 10183,
+      "label": "Research R1A zoned vs R9 - options for new assisted living on street",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10183"
     }
   ],
-  "version": 1358,
-  "updated": "2026-07-31T04:39:36.941133+00:00",
+  "version": 1359,
+  "updated": "2026-07-31T04:40:13.381187+00:00",
   "buckets": {
     "SPIN_WHEEL": 78,
     "TASKS": 17,
