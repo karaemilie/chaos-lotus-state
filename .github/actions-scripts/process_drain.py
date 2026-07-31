@@ -278,6 +278,28 @@ def process_zone_completion(wb, comp, stamp):
         return True, f"  ⏭️  {actual_floor}/{actual_zone} (row {target_row}) already stamped — skip"
 
     ws.cell(target_row, completed_col).value = stamp
+
+    # LOG the zone completion into the COMPLETED sheet so zones have a history
+    # trail (for "what did I actually get done?" audits + verifying zones are
+    # advancing). Non-fatal: a logging failure must NOT block the stamp. Uses
+    # the ZONE-{zid} id convention (mirrors SPIN-{sid}). These rows get cleared
+    # in the periodic COMPLETED trim like everything else.
+    try:
+        if "COMPLETED" in wb.sheetnames:
+            cws = wb["COMPLETED"]
+            chdr = {c.value: i + 1 for i, c in enumerate(cws[1])}
+            log_row = cws.max_row + 1
+            def _put(col, val):
+                if col in chdr:
+                    cws.cell(log_row, chdr[col]).value = val
+            _put("ID", f"ZONE-{zid}")
+            _put("Task", f"🧹 Zone: {actual_floor} / {actual_zone}")
+            _put("Category", "Zone")
+            _put("Completed Date", stamp)
+    except Exception as _log_err:  # noqa: BLE001 — logging is best-effort only
+        return True, (f"  ✅ {actual_floor}/{actual_zone} (row {target_row}) "
+                      f"stamped {stamp.date()} (⚠️ log skipped: {_log_err})")
+
     return True, f"  ✅ {actual_floor}/{actual_zone} (row {target_row}) stamped {stamp.date()}"
 
 
