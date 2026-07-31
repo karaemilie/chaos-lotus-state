@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-31T07:58:13.564Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Update swim on calendar",
+      "_addedAt": "2026-07-31T08:08:53.279Z",
+      "_ts": "2026-07-31T08:08:54.296Z"
+    }
+  ],
+  "mirroredAt": "2026-07-31T08:08:54.682Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
