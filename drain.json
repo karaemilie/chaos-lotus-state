@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-31T05:28:29.692Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find name of co",
+      "_addedAt": "2026-07-31T05:33:01.877Z",
+      "_ts": "2026-07-31T05:33:02.290Z"
+    }
+  ],
+  "mirroredAt": "2026-07-31T05:33:02.524Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-31T05:28:30.554459+00:00",
-  "lastAutoProcessed": [
-    "SPIN:319"
-  ]
+    "adds": 1
+  }
 }
