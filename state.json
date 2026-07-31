@@ -838,13 +838,6 @@
       "uid": "SPIN_WHEEL:566"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 567,
-      "sid": 567,
-      "label": "A",
-      "uid": "SPIN_WHEEL:567"
-    },
-    {
       "source": "TASKS",
       "id": 10183,
       "label": "Research R1A zoned vs R9 - options for new assisted living on street",
@@ -897,13 +890,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 569,
-      "sid": 569,
-      "label": "Find name of co",
-      "uid": "SPIN_WHEEL:569"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 570,
       "sid": 570,
       "label": "AceIt app?",
@@ -938,10 +924,10 @@
       "uid": "SPIN_WHEEL:574"
     }
   ],
-  "version": 1372,
-  "updated": "2026-07-31T08:09:13.198851+00:00",
+  "version": 1373,
+  "updated": "2026-07-31T08:10:01.441614+00:00",
   "buckets": {
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 79,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
