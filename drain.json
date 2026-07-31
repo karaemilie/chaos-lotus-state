@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-31T04:20:43.117Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Run Genevieve credit cost",
+      "_addedAt": "2026-07-31T04:28:25.277Z",
+      "_ts": "2026-07-31T04:28:25.391Z"
+    }
+  ],
+  "mirroredAt": "2026-07-31T04:28:25.636Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-07-31T04:20:43.848043+00:00",
-  "lastAutoProcessed": [
-    "SPIN:495"
-  ]
+    "adds": 1
+  }
 }
