@@ -411,13 +411,6 @@
       "uid": "SPIN:346"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 496,
-      "row": 36,
-      "label": "Move Jake August ticket",
-      "uid": "SPIN:496"
-    },
-    {
       "source": "TASKS",
       "id": 11852,
       "row": 331,
@@ -982,11 +975,11 @@
       "uid": "TASKS:11426"
     }
   ],
-  "version": 1418,
-  "updated": "2026-08-01T09:01:25.083318+00:00",
+  "version": 1419,
+  "updated": "2026-08-01T09:02:22.759695+00:00",
   "buckets": {
     "COURAGE": 3,
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 86,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9
