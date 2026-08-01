@@ -824,20 +824,6 @@
       "uid": "TASKS:11817"
     },
     {
-      "source": "TASKS",
-      "id": 11856,
-      "row": 335,
-      "label": "\u2728 Put on new tattoo",
-      "aw": 4,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11856"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 561,
       "row": 67,
@@ -971,10 +957,23 @@
       "sid": 585,
       "label": "Ozone clean the new drill",
       "uid": "SPIN_WHEEL:585"
+    },
+    {
+      "source": "TASKS",
+      "id": 10198,
+      "label": "Review notes from convo with Linai's Dad about WWAMI",
+      "aw": 4,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": "Bentley Med School",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10198"
     }
   ],
-  "version": 1398,
-  "updated": "2026-08-01T05:27:31.347133+00:00",
+  "version": 1399,
+  "updated": "2026-08-01T05:53:32.163117+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 87,
