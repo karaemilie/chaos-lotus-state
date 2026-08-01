@@ -197,13 +197,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 565,
-      "row": 71,
-      "label": "Add zones to completed xls",
-      "uid": "SPIN:565"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 576,
       "row": 80,
       "label": "Pay down my AK card and transfer balance to Genevieve Embry riddle account. Pay off Gemini too somehow",
@@ -992,11 +985,11 @@
       "uid": "SPIN_WHEEL:592"
     }
   ],
-  "version": 1412,
-  "updated": "2026-08-01T08:56:43.068172+00:00",
+  "version": 1413,
+  "updated": "2026-08-01T08:57:55.069547+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 90,
+    "SPIN_WHEEL": 89,
     "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
