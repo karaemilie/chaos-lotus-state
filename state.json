@@ -550,13 +550,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 578,
-      "row": 82,
-      "label": "Linc swim registration",
-      "uid": "SPIN:578"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 443,
       "row": 27,
       "label": "Claude iMessage extension",
@@ -984,11 +977,11 @@
       "uid": "TASKS:10241"
     }
   ],
-  "version": 1414,
-  "updated": "2026-08-01T08:58:37.271549+00:00",
+  "version": 1415,
+  "updated": "2026-08-01T09:00:04.560391+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 88,
     "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
