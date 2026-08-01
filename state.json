@@ -152,13 +152,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 568,
-      "row": 73,
-      "label": "Another window film! *",
-      "uid": "SPIN:568"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 507,
       "row": 42,
       "label": "Next step Claude robotics research thread",
@@ -972,11 +965,11 @@
       "uid": "SPIN_WHEEL:586"
     }
   ],
-  "version": 1402,
-  "updated": "2026-08-01T07:02:14.987712+00:00",
+  "version": 1403,
+  "updated": "2026-08-01T07:03:01.913591+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 86,
     "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
