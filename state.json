@@ -983,13 +983,20 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "School Room",
       "uid": "ZONES:29"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 590,
+      "sid": 590,
+      "label": "Research",
+      "uid": "SPIN_WHEEL:590"
     }
   ],
-  "version": 1407,
-  "updated": "2026-08-01T07:34:10.408436+00:00",
+  "version": 1408,
+  "updated": "2026-08-01T08:12:26.516344+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 90,
     "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
