@@ -1,5 +1,15 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 29,
+      "zid": 28,
+      "floor": "Main Floor",
+      "label": "🧺 Music Room",
+      "uid": "ZONES:28",
+      "_ts": "2026-08-01T07:33:18.207Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +18,9 @@
       "_ts": "2026-08-01T07:33:16.985Z"
     }
   ],
-  "mirroredAt": "2026-08-01T07:33:17.232Z",
+  "mirroredAt": "2026-08-01T07:33:18.444Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
