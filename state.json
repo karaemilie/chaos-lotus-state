@@ -282,16 +282,6 @@
       "uid": "SPIN:574"
     },
     {
-      "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "row": 76,
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 264,
       "row": 8,
@@ -958,10 +948,19 @@
       "sid": 583,
       "label": "Text body shop about AC",
       "uid": "SPIN_WHEEL:583"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Hallway",
+      "uid": "ZONES:80"
     }
   ],
-  "version": 1395,
-  "updated": "2026-08-01T01:06:42.730825+00:00",
+  "version": 1396,
+  "updated": "2026-08-01T04:17:28.012996+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 85,
