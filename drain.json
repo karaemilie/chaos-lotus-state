@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 47,
+      "label": "L new white dress shirt",
+      "uid": "SPIN:520",
+      "_ts": "2026-08-01T07:01:24.903Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-01T05:53:34.680Z",
+  "mirroredAt": "2026-08-01T07:01:25.194Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-01T05:53:35.495433+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11856"
-  ]
+  }
 }
