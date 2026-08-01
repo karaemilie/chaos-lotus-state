@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-07-31T23:14:30.516Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Text body shop about AC",
+      "_addedAt": "2026-08-01T01:06:28.943Z",
+      "_ts": "2026-08-01T01:06:29.620Z"
+    }
+  ],
+  "mirroredAt": "2026-08-01T01:06:29.877Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
