@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-01T21:28:14.380Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Fix mudroom vac",
+      "_addedAt": "2026-08-01T21:43:42.516Z",
+      "_ts": "2026-08-01T21:43:42.655Z"
+    }
+  ],
+  "mirroredAt": "2026-08-01T21:43:42.929Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
