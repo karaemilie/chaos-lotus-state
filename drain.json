@@ -2,30 +2,16 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
-      "row": 47,
-      "label": "L new white dress shirt",
-      "uid": "SPIN:520",
-      "_ts": "2026-08-01T07:01:24.903Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 73,
       "label": "Another window film! *",
       "uid": "SPIN:568",
       "_ts": "2026-08-01T07:01:56.234Z"
     }
   ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Next garage film!",
-      "_addedAt": "2026-08-01T07:01:54.056Z",
-      "_ts": "2026-08-01T07:01:54.173Z"
-    }
-  ],
-  "mirroredAt": "2026-08-01T07:01:56.503Z",
+  "adds": [],
+  "mirroredAt": "2026-08-01T07:02:13.283Z",
   "counts": {
-    "completions": 2,
-    "adds": 1
+    "completions": 1,
+    "adds": 0
   }
 }
