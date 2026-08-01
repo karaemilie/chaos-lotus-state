@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-01T04:17:29.294Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Cheapest shipping fix it grammar?",
+      "_addedAt": "2026-08-01T05:18:41.615Z",
+      "_ts": "2026-08-01T05:18:41.720Z"
+    }
+  ],
+  "mirroredAt": "2026-08-01T05:18:41.967Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-01T04:17:30.391063+00:00",
-  "lastAutoProcessed": [
-    "ZONES:75"
-  ]
+    "adds": 1
+  }
 }
