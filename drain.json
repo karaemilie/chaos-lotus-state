@@ -1,5 +1,20 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 36,
+      "label": "Move Jake August ticket",
+      "uid": "SPIN:496",
+      "_ts": "2026-08-01T09:02:07.663Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 52,
+      "label": "Hand sand table, eval if we are ready for wax ✨",
+      "uid": "SPIN:537",
+      "_ts": "2026-08-01T09:02:34.611Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +23,9 @@
       "_ts": "2026-08-01T09:02:21.612Z"
     }
   ],
-  "mirroredAt": "2026-08-01T09:02:23.883Z",
+  "mirroredAt": "2026-08-01T09:02:34.837Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 1
   }
 }
