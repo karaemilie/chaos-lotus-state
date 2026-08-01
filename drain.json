@@ -1,18 +1,18 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-01T09:00:58.782Z",
-  "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-01T09:00:59.834520+00:00",
-  "lastAutoProcessed": [
-    "ZONES:79",
-    "SPIN:578",
-    "SPIN:590"
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11848,
+      "row": 328,
+      "label": "✨ Check in on Pura scents - time to refresh?",
+      "uid": "TASKS:11848",
+      "_ts": "2026-08-01T09:01:02.918Z"
+    }
   ],
-  "autoReset": [
-    "Plant"
-  ]
+  "adds": [],
+  "mirroredAt": "2026-08-01T09:01:03.165Z",
+  "counts": {
+    "completions": 1,
+    "adds": 0
+  }
 }
