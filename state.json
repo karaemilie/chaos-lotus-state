@@ -488,16 +488,6 @@
       "uid": "SPIN:336"
     },
     {
-      "source": "ZONES",
-      "zid": 28,
-      "floor": "Main Floor",
-      "row": 29,
-      "label": "\ud83e\uddfa Music Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Music Room",
-      "uid": "ZONES:28"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10365,
       "parentRow": 254,
@@ -984,10 +974,19 @@
       "sid": 589,
       "label": "Swap chair and piano in music room!",
       "uid": "SPIN_WHEEL:589"
+    },
+    {
+      "source": "ZONES",
+      "zid": 29,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa School Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "School Room",
+      "uid": "ZONES:29"
     }
   ],
-  "version": 1406,
-  "updated": "2026-08-01T07:33:30.025676+00:00",
+  "version": 1407,
+  "updated": "2026-08-01T07:34:10.408436+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 89,
