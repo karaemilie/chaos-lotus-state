@@ -963,13 +963,20 @@
       "sid": 586,
       "label": "Next garage film!",
       "uid": "SPIN_WHEEL:586"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 587,
+      "sid": 587,
+      "label": "Spray Lincoln\u2019s shoes",
+      "uid": "SPIN_WHEEL:587"
     }
   ],
-  "version": 1403,
-  "updated": "2026-08-01T07:03:01.913591+00:00",
+  "version": 1404,
+  "updated": "2026-08-01T07:15:24.357305+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 86,
+    "SPIN_WHEEL": 87,
     "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
