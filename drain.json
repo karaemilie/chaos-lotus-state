@@ -8,10 +8,17 @@
       "_ts": "2026-08-01T09:02:07.663Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-08-01T09:02:07.924Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ask Jake when auditions are",
+      "_addedAt": "2026-08-01T09:02:21.463Z",
+      "_ts": "2026-08-01T09:02:21.612Z"
+    }
+  ],
+  "mirroredAt": "2026-08-01T09:02:21.840Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
