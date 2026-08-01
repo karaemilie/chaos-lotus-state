@@ -6,12 +6,21 @@
       "label": "Linc swim registration",
       "uid": "SPIN:578",
       "_ts": "2026-08-01T08:59:51.977Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 80,
+      "zid": 79,
+      "floor": "Plant",
+      "label": "🌱 Kitchen Up High",
+      "uid": "ZONES:79",
+      "_ts": "2026-08-01T09:00:01.338Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-01T08:59:52.191Z",
+  "mirroredAt": "2026-08-01T09:00:01.527Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
