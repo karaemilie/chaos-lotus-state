@@ -966,13 +966,20 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11426"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 593,
+      "sid": 593,
+      "label": "Ask Jake when auditions are",
+      "uid": "SPIN_WHEEL:593"
     }
   ],
-  "version": 1420,
-  "updated": "2026-08-01T09:03:07.142600+00:00",
+  "version": 1421,
+  "updated": "2026-08-01T09:03:08.856719+00:00",
   "buckets": {
     "COURAGE": 3,
-    "SPIN_WHEEL": 85,
+    "SPIN_WHEEL": 86,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9
