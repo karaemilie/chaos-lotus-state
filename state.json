@@ -964,13 +964,20 @@
       "sid": 594,
       "label": "Inventory rub and buff",
       "uid": "SPIN_WHEEL:594"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 595,
+      "sid": 595,
+      "label": "Xmind Claude integration",
+      "uid": "SPIN_WHEEL:595"
     }
   ],
-  "version": 1425,
-  "updated": "2026-08-01T21:02:44.726471+00:00",
+  "version": 1426,
+  "updated": "2026-08-01T21:27:27.684472+00:00",
   "buckets": {
     "COURAGE": 3,
-    "SPIN_WHEEL": 85,
+    "SPIN_WHEEL": 86,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9
