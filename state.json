@@ -985,13 +985,20 @@
       "sid": 597,
       "label": "Work on clock plan",
       "uid": "SPIN_WHEEL:597"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 598,
+      "sid": 598,
+      "label": "Fix mudroom vac",
+      "uid": "SPIN_WHEEL:598"
     }
   ],
-  "version": 1427,
-  "updated": "2026-08-01T21:28:15.745716+00:00",
+  "version": 1428,
+  "updated": "2026-08-01T21:44:00.702496+00:00",
   "buckets": {
     "COURAGE": 3,
-    "SPIN_WHEEL": 88,
+    "SPIN_WHEEL": 89,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9
