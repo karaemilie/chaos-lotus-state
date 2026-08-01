@@ -990,13 +990,20 @@
       "sid": 591,
       "label": "Pick joint and tape knives & trowel **",
       "uid": "SPIN_WHEEL:591"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 592,
+      "sid": 592,
+      "label": "Paint sample ceiling board",
+      "uid": "SPIN_WHEEL:592"
     }
   ],
-  "version": 1410,
-  "updated": "2026-08-01T08:13:14.908842+00:00",
+  "version": 1411,
+  "updated": "2026-08-01T08:55:38.333662+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 90,
+    "SPIN_WHEEL": 91,
     "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
