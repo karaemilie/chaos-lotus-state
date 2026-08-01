@@ -348,20 +348,6 @@
       "uid": "TASKS:11110"
     },
     {
-      "source": "TASKS",
-      "id": 11864,
-      "row": 340,
-      "label": "\u2728 Plan for Tim's Delta companion ticket \ud83d\udcdd",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11864"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 439,
       "row": 24,
@@ -966,10 +952,23 @@
       "sid": 593,
       "label": "Ask Jake when auditions are",
       "uid": "SPIN_WHEEL:593"
+    },
+    {
+      "source": "TASKS",
+      "id": 10202,
+      "label": "Look into if life insurance policies are at end of term - convert to retain value \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10202"
     }
   ],
-  "version": 1422,
-  "updated": "2026-08-01T09:04:08.936574+00:00",
+  "version": 1423,
+  "updated": "2026-08-01T09:04:58.764056+00:00",
   "buckets": {
     "COURAGE": 3,
     "SPIN_WHEEL": 85,
