@@ -376,20 +376,6 @@
       "uid": "SPIN:584"
     },
     {
-      "source": "TASKS",
-      "id": 11848,
-      "row": 328,
-      "label": "\u2728 Check in on Pura scents - time to refresh?",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11848"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 264,
       "row": 8,
@@ -981,10 +967,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Bedroom",
       "uid": "ZONES:73"
+    },
+    {
+      "source": "TASKS",
+      "id": 11426,
+      "label": "Flesh out bunk bed attack plan (5 min)",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Low",
+      "proj": "Bunk Beds with Lincoln & Evan",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11426"
     }
   ],
-  "version": 1417,
-  "updated": "2026-08-01T09:00:56.250793+00:00",
+  "version": 1418,
+  "updated": "2026-08-01T09:01:25.083318+00:00",
   "buckets": {
     "COURAGE": 3,
     "SPIN_WHEEL": 87,
