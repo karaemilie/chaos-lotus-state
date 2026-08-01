@@ -983,13 +983,20 @@
       "sid": 590,
       "label": "Research",
       "uid": "SPIN_WHEEL:590"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 591,
+      "sid": 591,
+      "label": "Pick joint and tape knives & trowel **",
+      "uid": "SPIN_WHEEL:591"
     }
   ],
-  "version": 1409,
-  "updated": "2026-08-01T08:13:12.531683+00:00",
+  "version": 1410,
+  "updated": "2026-08-01T08:13:14.908842+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 90,
     "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
