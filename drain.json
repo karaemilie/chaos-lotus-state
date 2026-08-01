@@ -1,16 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-01T09:05:27.083Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Inventory rub and buff",
+      "_addedAt": "2026-08-01T21:02:25.858Z",
+      "_ts": "2026-08-01T21:02:25.974Z"
+    }
+  ],
+  "mirroredAt": "2026-08-01T21:02:26.255Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-01T09:05:27.798517+00:00",
-  "lastAutoProcessed": [
-    "SPIN:575",
-    "SPIN:582",
-    "TASKS:11864",
-    "TASKS:11110"
-  ]
+    "adds": 1
+  }
 }
