@@ -977,13 +977,20 @@
       "sid": 588,
       "label": "Contact Brian about coaching",
       "uid": "SPIN_WHEEL:588"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 589,
+      "sid": 589,
+      "label": "Swap chair and piano in music room!",
+      "uid": "SPIN_WHEEL:589"
     }
   ],
-  "version": 1405,
-  "updated": "2026-08-01T07:16:06.850911+00:00",
+  "version": 1406,
+  "updated": "2026-08-01T07:33:30.025676+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 88,
+    "SPIN_WHEEL": 89,
     "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
