@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-01T07:34:11.575Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Research",
+      "_addedAt": "2026-08-01T08:12:11.077Z",
+      "_ts": "2026-08-01T08:12:11.190Z"
+    }
+  ],
+  "mirroredAt": "2026-08-01T08:12:11.439Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-01T07:34:12.538286+00:00",
-  "lastAutoProcessed": [
-    "ZONES:28"
-  ]
+    "adds": 1
+  }
 }
