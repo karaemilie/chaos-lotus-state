@@ -107,13 +107,6 @@
       "uid": "SPIN:505"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 489,
-      "row": 36,
-      "label": "Calc paint needed for boys room",
-      "uid": "SPIN:489"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 94,
       "row": 95,
@@ -999,11 +992,11 @@
       "uid": "SPIN_WHEEL:592"
     }
   ],
-  "version": 1411,
-  "updated": "2026-08-01T08:55:38.333662+00:00",
+  "version": 1412,
+  "updated": "2026-08-01T08:56:43.068172+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 91,
+    "SPIN_WHEEL": 90,
     "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
