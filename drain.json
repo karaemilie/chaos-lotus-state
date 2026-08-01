@@ -1,6 +1,13 @@
 {
   "completions": [
     {
+      "source": "SPIN_WHEEL",
+      "row": 82,
+      "label": "Linc swim registration",
+      "uid": "SPIN:578",
+      "_ts": "2026-08-01T08:59:51.977Z"
+    },
+    {
       "source": "ZONES",
       "row": 80,
       "zid": 79,
@@ -8,12 +15,19 @@
       "label": "🌱 Kitchen Up High",
       "uid": "ZONES:79",
       "_ts": "2026-08-01T09:00:01.338Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 88,
+      "label": "Research",
+      "uid": "SPIN:590",
+      "_ts": "2026-08-01T09:00:39.953Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-01T09:00:05.520Z",
+  "mirroredAt": "2026-08-01T09:00:40.171Z",
   "counts": {
-    "completions": 1,
+    "completions": 3,
     "adds": 0
   }
 }
