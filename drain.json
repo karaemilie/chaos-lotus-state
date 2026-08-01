@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-01T07:03:03.181Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Spray Lincoln’s shoes",
+      "_addedAt": "2026-08-01T07:15:09.118Z",
+      "_ts": "2026-08-01T07:15:09.686Z"
+    }
+  ],
+  "mirroredAt": "2026-08-01T07:15:10.084Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-01T07:03:03.864945+00:00",
-  "lastAutoProcessed": [
-    "SPIN:568"
-  ]
+    "adds": 1
+  }
 }
