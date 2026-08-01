@@ -16,13 +16,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 272,
-      "row": 10,
-      "label": "Compare my drywall producs**",
-      "uid": "SPIN:272"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 323,
       "row": 13,
       "label": "Practice board for dominos",
@@ -992,11 +985,11 @@
       "uid": "SPIN_WHEEL:590"
     }
   ],
-  "version": 1408,
-  "updated": "2026-08-01T08:12:26.516344+00:00",
+  "version": 1409,
+  "updated": "2026-08-01T08:13:12.531683+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 90,
+    "SPIN_WHEEL": 89,
     "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
