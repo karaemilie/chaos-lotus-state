@@ -930,13 +930,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 537,
-      "row": 52,
-      "label": "Hand sand table, eval if we are ready for wax \u2728",
-      "uid": "SPIN:537"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 419,
       "row": 22,
       "label": "Pull up TCU Fall bill",
@@ -975,11 +968,11 @@
       "uid": "TASKS:11426"
     }
   ],
-  "version": 1419,
-  "updated": "2026-08-01T09:02:22.759695+00:00",
+  "version": 1420,
+  "updated": "2026-08-01T09:03:07.142600+00:00",
   "buckets": {
     "COURAGE": 3,
-    "SPIN_WHEEL": 86,
+    "SPIN_WHEEL": 85,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9
