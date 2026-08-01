@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-01T21:02:43.579Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Xmind Claude integration",
+      "_addedAt": "2026-08-01T21:27:12.710Z",
+      "_ts": "2026-08-01T21:27:12.836Z"
+    }
+  ],
+  "mirroredAt": "2026-08-01T21:27:13.052Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
