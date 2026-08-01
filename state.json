@@ -334,20 +334,6 @@
       "uid": "SPIN:522"
     },
     {
-      "source": "TASKS",
-      "id": 11110,
-      "row": 172,
-      "label": "\u2728 Evaluate placing Alaska Club membership on hold \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11110"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 439,
       "row": 24,
@@ -503,13 +489,6 @@
       "row": 87,
       "label": "Swap chair and piano in music room!",
       "uid": "SPIN:589"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 582,
-      "row": 80,
-      "label": "Check B text settings",
-      "uid": "SPIN:582"
     },
     {
       "source": "SPIN_WHEEL",
@@ -965,13 +944,26 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10202"
+    },
+    {
+      "source": "TASKS",
+      "id": 10255,
+      "label": "Find Matt cheaper car insurance \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Hard",
+      "proj": "Insurance Admin",
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10255"
     }
   ],
-  "version": 1423,
-  "updated": "2026-08-01T09:04:58.764056+00:00",
+  "version": 1424,
+  "updated": "2026-08-01T09:05:25.009493+00:00",
   "buckets": {
     "COURAGE": 3,
-    "SPIN_WHEEL": 85,
+    "SPIN_WHEEL": 84,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9
