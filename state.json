@@ -290,20 +290,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11859,
-      "row": 338,
-      "label": "\u2728 Mow the lawn \ud83c\udf31",
-      "aw": 3,
-      "pri": 3,
-      "dur": 45,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11859"
-    },
-    {
-      "source": "TASKS",
       "id": 11649,
       "row": 243,
       "label": "\u2b50 Set up Swift Playground \ud83c\udf4e\ud83d\udcbb",
@@ -983,10 +969,23 @@
       "sid": 592,
       "label": "Paint sample ceiling board",
       "uid": "SPIN_WHEEL:592"
+    },
+    {
+      "source": "TASKS",
+      "id": 10241,
+      "label": "Apply for Jake's credit card \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": "Jake Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10241"
     }
   ],
-  "version": 1413,
-  "updated": "2026-08-01T08:57:55.069547+00:00",
+  "version": 1414,
+  "updated": "2026-08-01T08:58:37.271549+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 89,
