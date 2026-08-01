@@ -827,13 +827,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 575,
-      "row": 74,
-      "label": "Try free BRIC app",
-      "uid": "SPIN:575"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 465,
       "row": 31,
       "label": "5 minutes in Custom Cut Software \u23f1\ufe0f",
@@ -975,11 +968,11 @@
       "uid": "SPIN_WHEEL:593"
     }
   ],
-  "version": 1421,
-  "updated": "2026-08-01T09:03:08.856719+00:00",
+  "version": 1422,
+  "updated": "2026-08-01T09:04:08.936574+00:00",
   "buckets": {
     "COURAGE": 3,
-    "SPIN_WHEEL": 86,
+    "SPIN_WHEEL": 85,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9
