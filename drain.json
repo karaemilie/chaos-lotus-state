@@ -6,12 +6,20 @@
       "label": "Add zones to completed xls",
       "uid": "SPIN:565",
       "_ts": "2026-08-01T08:57:40.823Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11859,
+      "row": 338,
+      "label": "✨ Mow the lawn 🌱",
+      "uid": "TASKS:11859",
+      "_ts": "2026-08-01T08:57:50.897Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-01T08:57:41.027Z",
+  "mirroredAt": "2026-08-01T08:57:51.135Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
