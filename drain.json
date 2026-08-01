@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-01T05:18:55.662Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ozone clean the new drill",
+      "_addedAt": "2026-08-01T05:27:13.000Z",
+      "_ts": "2026-08-01T05:27:13.224Z"
+    }
+  ],
+  "mirroredAt": "2026-08-01T05:27:13.480Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
