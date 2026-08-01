@@ -971,13 +971,27 @@
       "sid": 595,
       "label": "Xmind Claude integration",
       "uid": "SPIN_WHEEL:595"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 596,
+      "sid": 596,
+      "label": "Add concrete to Claude plan",
+      "uid": "SPIN_WHEEL:596"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 597,
+      "sid": 597,
+      "label": "Work on clock plan",
+      "uid": "SPIN_WHEEL:597"
     }
   ],
-  "version": 1426,
-  "updated": "2026-08-01T21:27:27.684472+00:00",
+  "version": 1427,
+  "updated": "2026-08-01T21:28:15.745716+00:00",
   "buckets": {
     "COURAGE": 3,
-    "SPIN_WHEEL": 86,
+    "SPIN_WHEEL": 88,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9
