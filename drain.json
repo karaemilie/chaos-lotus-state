@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-02T06:24:09.257Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Next NL box sort",
+      "_addedAt": "2026-08-02T07:21:53.185Z",
+      "_ts": "2026-08-02T07:21:53.842Z"
+    }
+  ],
+  "mirroredAt": "2026-08-02T07:21:54.162Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-02T06:24:10.214713+00:00",
-  "lastAutoProcessed": [
-    "SPIN:336"
-  ]
+    "adds": 1
+  }
 }
