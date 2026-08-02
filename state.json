@@ -804,12 +804,19 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:11619"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 604,
+      "sid": 604,
+      "label": "Pack / ship candles back",
+      "uid": "SPIN_WHEEL:604"
     }
   ],
-  "version": 1460,
-  "updated": "2026-08-02T09:01:59.403082+00:00",
+  "version": 1461,
+  "updated": "2026-08-02T09:04:07.081577+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 63,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
