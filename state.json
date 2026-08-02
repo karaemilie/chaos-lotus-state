@@ -61,13 +61,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 336,
-      "row": 9,
-      "label": "Next step APS - log into Genevieve\u2019s account",
-      "uid": "SPIN:336"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 95,
       "row": 3,
       "label": "Find first transcript for Bentley",
@@ -837,10 +830,10 @@
       "uid": "SPIN_WHEEL:602"
     }
   ],
-  "version": 1450,
-  "updated": "2026-08-02T08:44:42.713427+00:00",
+  "version": 1451,
+  "updated": "2026-08-02T08:45:42.356432+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
