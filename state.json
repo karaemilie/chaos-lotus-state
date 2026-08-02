@@ -239,13 +239,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 548,
-      "row": 37,
-      "label": "Cancel Drama Wave",
-      "uid": "SPIN:548"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 553,
       "row": 39,
       "label": "Empty vac water\u2026",
@@ -829,10 +822,10 @@
       "uid": "ZONES:48"
     }
   ],
-  "version": 1455,
-  "updated": "2026-08-02T08:51:05.065086+00:00",
+  "version": 1456,
+  "updated": "2026-08-02T08:52:10.846317+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
