@@ -280,13 +280,6 @@
       "uid": "SPIN:572"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 600,
-      "row": 67,
-      "label": "Clear more space back of crawl space",
-      "uid": "SPIN:600"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 94,
       "row": 95,
@@ -837,10 +830,10 @@
       "uid": "SPIN_WHEEL:603"
     }
   ],
-  "version": 1453,
-  "updated": "2026-08-02T08:46:14.608922+00:00",
+  "version": 1454,
+  "updated": "2026-08-02T08:50:31.827377+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
