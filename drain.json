@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11893,
+      "row": 348,
+      "label": "✨ Plan for Tim's Delta companion ticket 📝",
+      "uid": "TASKS:11893",
+      "_ts": "2026-08-02T08:53:03.132Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-02T08:52:11.838Z",
+  "mirroredAt": "2026-08-02T08:53:03.459Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-02T08:52:12.656521+00:00",
-  "lastAutoProcessed": [
-    "SPIN:548"
-  ]
+  }
 }
