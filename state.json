@@ -410,13 +410,6 @@
       "uid": "SPIN:593"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 459,
-      "row": 19,
-      "label": "Antigravity for stocks?",
-      "uid": "SPIN:459"
-    },
-    {
       "source": "TASKS",
       "id": 10090,
       "row": 22,
@@ -851,10 +844,10 @@
       "uid": "SPIN_WHEEL:602"
     }
   ],
-  "version": 1448,
-  "updated": "2026-08-02T07:46:39.036988+00:00",
+  "version": 1449,
+  "updated": "2026-08-02T07:47:23.117921+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
