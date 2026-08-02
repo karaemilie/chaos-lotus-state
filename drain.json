@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-01T21:43:59.424Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Upload Linc video",
+      "_addedAt": "2026-08-02T01:24:02.071Z",
+      "_ts": "2026-08-02T01:24:02.619Z"
+    }
+  ],
+  "mirroredAt": "2026-08-02T01:24:02.875Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
