@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 45,
+      "label": "Mini LECA",
+      "uid": "SPIN:562",
+      "_ts": "2026-08-02T08:55:43.309Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 48,
+      "label": "AceIt app?",
+      "uid": "SPIN:570",
+      "_ts": "2026-08-02T08:56:12.773Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-02T08:55:56.258Z",
+  "mirroredAt": "2026-08-02T08:56:12.998Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-08-02T08:55:56.989762+00:00",
-  "lastAutoProcessed": [
-    "SPIN:562"
-  ]
+  }
 }
