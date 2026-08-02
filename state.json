@@ -2,13 +2,6 @@
   "tasks": [
     {
       "source": "SPIN_WHEEL",
-      "sid": 554,
-      "row": 40,
-      "label": "Candlestick and pillowcase return form",
-      "uid": "SPIN:554"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 458,
       "row": 18,
       "label": "Try me new .edu apps ** (Nibble, etc)",
@@ -813,10 +806,10 @@
       "uid": "SPIN_WHEEL:604"
     }
   ],
-  "version": 1461,
-  "updated": "2026-08-02T09:04:07.081577+00:00",
+  "version": 1462,
+  "updated": "2026-08-02T09:04:50.448206+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
