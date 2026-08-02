@@ -175,20 +175,6 @@
       "uid": "SPIN:281"
     },
     {
-      "source": "TASKS",
-      "id": 11520,
-      "row": 208,
-      "label": "\u2b50 Figure out more pillow sleeve micro covers needed \ud83d\udecf\ufe0f\ud83d\udd22 \ud83d\udcdd",
-      "aw": 5,
-      "pri": null,
-      "dur": 15,
-      "ml": null,
-      "proj": "Allergy Bedroom",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11520"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 540,
       "row": 35,
@@ -805,10 +791,23 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10659"
+    },
+    {
+      "source": "TASKS",
+      "id": 11619,
+      "label": "Find kids a cool physics simulator game / way to learn mass & density \u269b\ufe0f\ud83c\udfae \ud83c\udfaf First step: search 'mass density simulation game kids'",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11619"
     }
   ],
-  "version": 1459,
-  "updated": "2026-08-02T08:56:28.750387+00:00",
+  "version": 1460,
+  "updated": "2026-08-02T09:01:59.403082+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "ZONES": 9,
