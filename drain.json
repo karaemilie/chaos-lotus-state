@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 67,
+      "label": "Clear more space back of crawl space",
+      "uid": "SPIN:600",
+      "_ts": "2026-08-02T08:50:20.253Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 48,
+      "zid": 47,
+      "floor": "Basement",
+      "label": "🧺 Back Annex",
+      "uid": "ZONES:47",
+      "_ts": "2026-08-02T08:50:36.180Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-02T08:50:32.700Z",
+  "mirroredAt": "2026-08-02T08:50:36.375Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-08-02T08:50:33.560292+00:00",
-  "lastAutoProcessed": [
-    "SPIN:600"
-  ]
+  }
 }
