@@ -804,12 +804,19 @@
       "sid": 604,
       "label": "Pack / ship candles back",
       "uid": "SPIN_WHEEL:604"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 605,
+      "sid": 605,
+      "label": "ALSO CANCEL SVIP in Motodrama",
+      "uid": "SPIN_WHEEL:605"
     }
   ],
-  "version": 1462,
-  "updated": "2026-08-02T09:04:50.448206+00:00",
+  "version": 1463,
+  "updated": "2026-08-02T19:40:02.880495+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 63,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
