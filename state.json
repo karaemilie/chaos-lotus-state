@@ -544,20 +544,6 @@
       "uid": "SPIN:253"
     },
     {
-      "source": "TASKS",
-      "id": 11893,
-      "row": 348,
-      "label": "\u2728 Plan for Tim's Delta companion ticket \ud83d\udcdd",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11893"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 323,
       "row": 7,
@@ -820,10 +806,23 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Craft Zone",
       "uid": "ZONES:48"
+    },
+    {
+      "source": "TASKS",
+      "id": 10659,
+      "label": "Get Lincoln's four year plan together \ud83d\udccb\ud83c\udfaf",
+      "aw": 3,
+      "pri": "High",
+      "dur": 45,
+      "ml": null,
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10659"
     }
   ],
-  "version": 1456,
-  "updated": "2026-08-02T08:52:10.846317+00:00",
+  "version": 1457,
+  "updated": "2026-08-02T08:53:20.838337+00:00",
   "buckets": {
     "SPIN_WHEEL": 64,
     "ZONES": 9,
