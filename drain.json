@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 45,
+      "label": "Mini LECA",
+      "uid": "SPIN:562",
+      "_ts": "2026-08-02T08:55:43.309Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-02T08:53:23.365Z",
+  "mirroredAt": "2026-08-02T08:55:43.514Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-02T08:53:24.279168+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11893"
-  ]
+  }
 }
