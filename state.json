@@ -999,13 +999,20 @@
       "sid": 599,
       "label": "Upload Linc video",
       "uid": "SPIN_WHEEL:599"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 600,
+      "sid": 600,
+      "label": "Clear more space back of crawl space",
+      "uid": "SPIN_WHEEL:600"
     }
   ],
-  "version": 1429,
-  "updated": "2026-08-02T01:24:19.588234+00:00",
+  "version": 1430,
+  "updated": "2026-08-02T02:15:05.550139+00:00",
   "buckets": {
     "COURAGE": 3,
-    "SPIN_WHEEL": 90,
+    "SPIN_WHEEL": 91,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "ZONES": 9
