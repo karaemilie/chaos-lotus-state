@@ -1,14 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11520,
+      "row": 208,
+      "label": "⭐ Figure out more pillow sleeve micro covers needed 🛏️🔢 📝",
+      "uid": "TASKS:11520",
+      "_ts": "2026-08-02T09:01:47.365Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-02T08:56:29.933Z",
+  "mirroredAt": "2026-08-02T09:01:47.693Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-02T08:56:30.858461+00:00",
-  "lastAutoProcessed": [
-    "SPIN:562",
-    "SPIN:570"
-  ]
+  }
 }
