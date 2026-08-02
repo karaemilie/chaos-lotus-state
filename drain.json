@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 40,
+      "label": "Candlestick and pillowcase return form",
+      "uid": "SPIN:554",
+      "_ts": "2026-08-02T09:03:52.675Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-08-02T09:03:47.925Z"
     }
   ],
-  "mirroredAt": "2026-08-02T09:03:48.155Z",
+  "mirroredAt": "2026-08-02T09:03:52.866Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
