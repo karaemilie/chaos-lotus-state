@@ -75,13 +75,6 @@
       "uid": "SPIN:253"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 591,
-      "row": 62,
-      "label": "Pick joint and tape knives & trowel **",
-      "uid": "SPIN:591"
-    },
-    {
       "source": "ZONES",
       "zid": 47,
       "floor": "Basement",
@@ -844,11 +837,11 @@
       "uid": "SPIN:572"
     }
   ],
-  "version": 1442,
-  "updated": "2026-08-02T05:23:04.488567+00:00",
+  "version": 1443,
+  "updated": "2026-08-02T05:23:47.990174+00:00",
   "buckets": {
     "COURAGE": 3,
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "TASKS": 17,
     "MAINTENANCE": 2
