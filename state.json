@@ -20,16 +20,6 @@
       "uid": "SPIN:564"
     },
     {
-      "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "row": 74,
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 588,
       "row": 60,
@@ -835,10 +825,19 @@
       "row": 50,
       "label": "Find/charge caulk gun",
       "uid": "SPIN:572"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Main floor Down Low",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Main floor Down Low",
+      "uid": "ZONES:75"
     }
   ],
-  "version": 1443,
-  "updated": "2026-08-02T05:23:47.990174+00:00",
+  "version": 1444,
+  "updated": "2026-08-02T05:40:28.217983+00:00",
   "buckets": {
     "COURAGE": 3,
     "SPIN_WHEEL": 66,
