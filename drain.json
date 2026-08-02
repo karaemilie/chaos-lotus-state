@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 9,
+      "label": "Next step APS - log into Genevieve’s account",
+      "uid": "SPIN:336",
+      "_ts": "2026-08-02T08:45:30.789Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-02T08:44:43.906Z",
+  "mirroredAt": "2026-08-02T08:45:30.988Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-02T08:44:44.783809+00:00",
-  "lastAutoProcessed": [
-    "SPIN:350"
-  ]
+  }
 }
