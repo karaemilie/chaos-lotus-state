@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 65,
+      "label": "Inventory rub and buff",
+      "uid": "SPIN:594",
+      "_ts": "2026-08-02T05:22:49.913Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-02T02:15:04.329Z",
+  "mirroredAt": "2026-08-02T05:22:50.163Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
