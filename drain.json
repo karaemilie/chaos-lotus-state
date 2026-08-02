@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-02T07:22:08.361Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Figure out how to add anti-gravity to Claude code",
+      "_addedAt": "2026-08-02T07:46:24.967Z",
+      "_ts": "2026-08-02T07:46:25.460Z"
+    }
+  ],
+  "mirroredAt": "2026-08-02T07:46:25.779Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
