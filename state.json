@@ -464,16 +464,6 @@
       "uid": "SPIN:588"
     },
     {
-      "source": "ZONES",
-      "zid": 47,
-      "floor": "Basement",
-      "row": 48,
-      "label": "\ud83e\uddfa Back Annex",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Back Annex",
-      "uid": "ZONES:47"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 522,
       "row": 31,
@@ -828,10 +818,19 @@
       "sid": 603,
       "label": "Genevieve and Bentley sig pages PFD",
       "uid": "SPIN_WHEEL:603"
+    },
+    {
+      "source": "ZONES",
+      "zid": 48,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Craft Zone",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Craft Zone",
+      "uid": "ZONES:48"
     }
   ],
-  "version": 1454,
-  "updated": "2026-08-02T08:50:31.827377+00:00",
+  "version": 1455,
+  "updated": "2026-08-02T08:51:05.065086+00:00",
   "buckets": {
     "SPIN_WHEEL": 65,
     "ZONES": 9,
