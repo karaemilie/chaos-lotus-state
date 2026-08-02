@@ -814,13 +814,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 336,
-      "row": 9,
-      "label": "Next step APS - log into Genevieve\u2019s account",
-      "uid": "SPIN:336"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 572,
       "row": 50,
       "label": "Find/charge caulk gun",
@@ -836,11 +829,11 @@
       "uid": "ZONES:75"
     }
   ],
-  "version": 1444,
-  "updated": "2026-08-02T05:40:28.217983+00:00",
+  "version": 1445,
+  "updated": "2026-08-02T06:24:08.208647+00:00",
   "buckets": {
     "COURAGE": 3,
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "ZONES": 9,
     "TASKS": 17,
     "MAINTENANCE": 2
