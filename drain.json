@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-02T01:24:18.623Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Clear more space back of crawl space",
+      "_addedAt": "2026-08-02T02:14:41.749Z",
+      "_ts": "2026-08-02T02:14:41.877Z"
+    }
+  ],
+  "mirroredAt": "2026-08-02T02:14:42.115Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
