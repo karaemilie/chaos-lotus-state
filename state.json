@@ -842,12 +842,19 @@
       "sid": 601,
       "label": "Next NL box sort",
       "uid": "SPIN_WHEEL:601"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 602,
+      "sid": 602,
+      "label": "Figure out how to add anti-gravity to Claude code",
+      "uid": "SPIN_WHEEL:602"
     }
   ],
-  "version": 1447,
-  "updated": "2026-08-02T07:22:09.615476+00:00",
+  "version": 1448,
+  "updated": "2026-08-02T07:46:39.036988+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 68,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
