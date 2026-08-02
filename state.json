@@ -507,13 +507,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 562,
-      "row": 45,
-      "label": "Mini LECA",
-      "uid": "SPIN:562"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 586,
       "row": 58,
       "label": "Next garage film!",
@@ -821,10 +814,10 @@
       "uid": "TASKS:10659"
     }
   ],
-  "version": 1457,
-  "updated": "2026-08-02T08:53:20.838337+00:00",
+  "version": 1458,
+  "updated": "2026-08-02T08:55:55.372243+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
