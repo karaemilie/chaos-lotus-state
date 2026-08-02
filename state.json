@@ -175,13 +175,6 @@
       "uid": "SPIN:281"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 570,
-      "row": 48,
-      "label": "AceIt app?",
-      "uid": "SPIN:570"
-    },
-    {
       "source": "TASKS",
       "id": 11520,
       "row": 208,
@@ -814,10 +807,10 @@
       "uid": "TASKS:10659"
     }
   ],
-  "version": 1458,
-  "updated": "2026-08-02T08:55:55.372243+00:00",
+  "version": 1459,
+  "updated": "2026-08-02T08:56:28.750387+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
