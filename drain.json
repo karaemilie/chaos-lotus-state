@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 37,
+      "label": "Cancel Drama Wave",
+      "uid": "SPIN:548",
+      "_ts": "2026-08-02T08:51:56.802Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-02T08:51:05.963Z",
+  "mirroredAt": "2026-08-02T08:51:57.010Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-02T08:51:06.684054+00:00",
-  "lastAutoProcessed": [
-    "ZONES:47",
-    "SPIN:600"
-  ]
+  }
 }
