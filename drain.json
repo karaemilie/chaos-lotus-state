@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-02T09:04:51.531Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "ALSO CANCEL SVIP in Motodrama",
+      "_addedAt": "2026-08-02T19:39:47.725Z",
+      "_ts": "2026-08-02T19:39:48.000Z"
+    }
+  ],
+  "mirroredAt": "2026-08-02T19:39:48.209Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-02T09:04:52.307623+00:00",
-  "lastAutoProcessed": [
-    "SPIN:554"
-  ]
+    "adds": 1
+  }
 }
