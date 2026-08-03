@@ -825,12 +825,19 @@
       "sid": 607,
       "label": "Jake Gemini card payment transfer**",
       "uid": "SPIN_WHEEL:607"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 608,
+      "sid": 608,
+      "label": "Genevieve Gemini card payment transfer**",
+      "uid": "SPIN_WHEEL:608"
     }
   ],
-  "version": 1465,
-  "updated": "2026-08-03T22:15:07.904502+00:00",
+  "version": 1466,
+  "updated": "2026-08-03T22:15:51.239784+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 3,
