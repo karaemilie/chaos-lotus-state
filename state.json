@@ -214,20 +214,6 @@
       "uid": "SPIN:323"
     },
     {
-      "source": "TASKS",
-      "id": 11891,
-      "row": 345,
-      "label": "\u2b50 Decide about high school swimming \ud83c\udfca",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:11891"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 604,
       "row": 63,
@@ -329,16 +315,6 @@
       "row": 9,
       "label": "Log into Higgsfield on computer**",
       "uid": "SPIN:337"
-    },
-    {
-      "source": "ZONES",
-      "zid": 61,
-      "floor": "Digital",
-      "row": 62,
-      "label": "\ud83d\udcbb Reviews",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Reviews",
-      "uid": "ZONES:61"
     },
     {
       "source": "SPIN_WHEEL",
@@ -457,13 +433,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 593,
-      "row": 56,
-      "label": "Ask Jake when auditions are",
-      "uid": "SPIN:593"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 522,
       "row": 28,
       "label": "Work on Evan diet plan **",
@@ -555,20 +524,6 @@
       "row": 65,
       "label": "Order whisk and mixer for genevieve",
       "uid": "SPIN:606"
-    },
-    {
-      "source": "TASKS",
-      "id": 11890,
-      "row": 344,
-      "label": "\u2b50 Write South registrar \u2014 ask for schedule of classes \ud83d\udce7",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:11890"
     },
     {
       "source": "SPIN_WHEEL",
@@ -847,12 +802,47 @@
       "sid": 610,
       "label": "Investigate if rent is 529 expense",
       "uid": "SPIN_WHEEL:610"
+    },
+    {
+      "source": "ZONES",
+      "zid": 62,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Messages",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Messages",
+      "uid": "ZONES:62"
+    },
+    {
+      "source": "TASKS",
+      "id": 10241,
+      "label": "Apply for Jake's credit card \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": "Jake Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10241"
+    },
+    {
+      "source": "TASKS",
+      "id": 10198,
+      "label": "Review notes from convo with Linai's Dad about WWAMI",
+      "aw": 4,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": "Bentley Med School",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10198"
     }
   ],
-  "version": 1471,
-  "updated": "2026-08-04T10:58:43.297998+00:00",
+  "version": 1472,
+  "updated": "2026-08-04T10:59:26.719867+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
