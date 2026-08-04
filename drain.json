@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-04T10:59:28.873Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Bring checkbook inside",
+      "_addedAt": "2026-08-04T22:56:40.626Z",
+      "_ts": "2026-08-04T22:56:40.767Z"
+    }
+  ],
+  "mirroredAt": "2026-08-04T22:56:41.042Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
