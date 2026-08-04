@@ -840,12 +840,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook A",
       "uid": "ZONES:76"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 610,
+      "sid": 610,
+      "label": "Investigate if rent is 529 expense",
+      "uid": "SPIN_WHEEL:610"
     }
   ],
-  "version": 1470,
-  "updated": "2026-08-04T10:58:40.622746+00:00",
+  "version": 1471,
+  "updated": "2026-08-04T10:58:43.297998+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 68,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
