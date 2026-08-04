@@ -788,15 +788,6 @@
       "uid": "SPIN_WHEEL:609"
     },
     {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 610,
       "sid": 610,
@@ -844,10 +835,19 @@
       "sid": 611,
       "label": "Bring checkbook inside",
       "uid": "SPIN_WHEEL:611"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
     }
   ],
-  "version": 1473,
-  "updated": "2026-08-04T22:56:59.821626+00:00",
+  "version": 1474,
+  "updated": "2026-08-04T22:58:04.640310+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "TASKS": 17,
