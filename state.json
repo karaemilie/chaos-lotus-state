@@ -813,16 +813,6 @@
       "uid": "SPIN:486"
     },
     {
-      "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "row": 75,
-      "label": "\ud83c\udf31 Family Room Plants",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Plants",
-      "uid": "ZONES:74"
-    },
-    {
       "source": "TASKS",
       "id": 10196,
       "label": "Research paying tuition through a trust to save on taxes \ud83d\udcdd",
@@ -841,10 +831,19 @@
       "sid": 609,
       "label": "Write Ted",
       "uid": "SPIN_WHEEL:609"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
     }
   ],
-  "version": 1469,
-  "updated": "2026-08-04T10:57:44.910711+00:00",
+  "version": 1470,
+  "updated": "2026-08-04T10:58:40.622746+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "TASKS": 17,
