@@ -414,13 +414,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 605,
-      "row": 64,
-      "label": "ALSO CANCEL SVIP in Motodrama",
-      "uid": "SPIN:605"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 573,
       "row": 44,
       "label": "Pillowcase returns, candle return",
@@ -844,10 +837,10 @@
       "uid": "TASKS:11846"
     }
   ],
-  "version": 1476,
-  "updated": "2026-08-04T22:59:49.106780+00:00",
+  "version": 1477,
+  "updated": "2026-08-04T23:00:32.529283+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
