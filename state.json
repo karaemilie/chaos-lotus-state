@@ -44,13 +44,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 561,
-      "row": 39,
-      "label": "Retusa in pon",
-      "uid": "SPIN:561"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 540,
       "row": 32,
       "label": "Ask Claude how to adjust door hinge",
@@ -837,10 +830,10 @@
       "uid": "TASKS:11846"
     }
   ],
-  "version": 1477,
-  "updated": "2026-08-04T23:00:32.529283+00:00",
+  "version": 1478,
+  "updated": "2026-08-04T23:16:50.102935+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
