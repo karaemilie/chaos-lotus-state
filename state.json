@@ -158,20 +158,6 @@
       "uid": "SPIN:588"
     },
     {
-      "source": "TASKS",
-      "id": 11871,
-      "row": 326,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:11871"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 587,
       "row": 52,
@@ -843,10 +829,23 @@
       "label": "\ud83d\udd25 Talk to Genevieve about her PFD",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:10187:0"
+    },
+    {
+      "source": "TASKS",
+      "id": 11846,
+      "label": "\u2728 Trash only to curb \ud83d\uddd1\ufe0f",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11846"
     }
   ],
-  "version": 1475,
-  "updated": "2026-08-04T22:59:09.355210+00:00",
+  "version": 1476,
+  "updated": "2026-08-04T22:59:49.106780+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "TASKS": 17,
