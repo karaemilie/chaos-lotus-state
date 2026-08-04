@@ -1,18 +1,25 @@
 {
   "completions": [
     {
-      "source": "TASKS",
-      "id": 11871,
-      "row": 326,
-      "label": "✨ Clear the upstairs trashes",
-      "uid": "TASKS:11871",
-      "_ts": "2026-08-04T22:58:58.297Z"
+      "source": "COURAGE",
+      "parentId": 11800,
+      "stepIndex": 0,
+      "label": "🔥 Update school lists for Lincoln & Evan",
+      "uid": "COURAGE:11800:0",
+      "_ts": "2026-08-04T22:58:51.132Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 64,
+      "label": "ALSO CANCEL SVIP in Motodrama",
+      "uid": "SPIN:605",
+      "_ts": "2026-08-04T22:59:12.486Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-04T22:59:12.418Z",
+  "mirroredAt": "2026-08-04T22:59:51.261Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
