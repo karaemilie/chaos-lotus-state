@@ -828,12 +828,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11846"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 612,
+      "sid": 612,
+      "label": "Mailbox run",
+      "uid": "SPIN_WHEEL:612"
     }
   ],
-  "version": 1479,
-  "updated": "2026-08-04T23:17:34.299770+00:00",
+  "version": 1480,
+  "updated": "2026-08-04T23:17:36.343491+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 67,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
