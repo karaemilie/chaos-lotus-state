@@ -345,18 +345,6 @@
       "uid": "SPIN:589"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11800,
-      "parentRow": 284,
-      "parentLabel": "Update school lists for Lincoln & Evan",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-07-14",
-      "label": "\ud83d\udd25 Update school lists for Lincoln & Evan",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11800:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 602,
       "row": 61,
@@ -844,15 +832,26 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook B",
       "uid": "ZONES:77"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 10187,
+      "stepIndex": 0,
+      "parentLabel": "Talk to Genevieve about her PFD",
+      "aw": 2,
+      "due": "2026-06-15",
+      "label": "\ud83d\udd25 Talk to Genevieve about her PFD",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:10187:0"
     }
   ],
-  "version": 1474,
-  "updated": "2026-08-04T22:58:04.640310+00:00",
+  "version": 1475,
+  "updated": "2026-08-04T22:59:09.355210+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "TASKS": 17,
     "ZONES": 9,
-    "COURAGE": 3,
-    "MAINTENANCE": 2
+    "MAINTENANCE": 2,
+    "COURAGE": 3
   }
 }
