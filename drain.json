@@ -1,15 +1,6 @@
 {
   "completions": [
     {
-      "source": "ZONES",
-      "row": 75,
-      "zid": 74,
-      "floor": "Plant",
-      "label": "🌱 Family Room Plants",
-      "uid": "ZONES:74",
-      "_ts": "2026-08-04T10:58:18.414Z"
-    },
-    {
       "source": "TASKS",
       "id": 11890,
       "row": 344,
@@ -25,23 +16,10 @@
       "_ts": "2026-08-04T10:58:36.227Z"
     }
   ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Write Ted",
-      "_addedAt": "2026-08-04T10:57:24.839Z",
-      "_ts": "2026-08-04T10:57:24.957Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Investigate if rent is 529 expense",
-      "_addedAt": "2026-08-04T10:57:43.568Z",
-      "_ts": "2026-08-04T10:57:43.701Z"
-    }
-  ],
-  "mirroredAt": "2026-08-04T10:58:36.602Z",
+  "adds": [],
+  "mirroredAt": "2026-08-04T10:58:42.014Z",
   "counts": {
-    "completions": 3,
-    "adds": 2
+    "completions": 2,
+    "adds": 0
   }
 }
