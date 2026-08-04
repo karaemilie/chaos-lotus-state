@@ -837,12 +837,19 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10198"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 611,
+      "sid": 611,
+      "label": "Bring checkbook inside",
+      "uid": "SPIN_WHEEL:611"
     }
   ],
-  "version": 1472,
-  "updated": "2026-08-04T10:59:26.719867+00:00",
+  "version": 1473,
+  "updated": "2026-08-04T22:56:59.821626+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 68,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3,
