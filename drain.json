@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 39,
+      "label": "Retusa in pon",
+      "uid": "SPIN:561",
+      "_ts": "2026-08-04T23:16:36.518Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-04T23:00:34.958Z",
+  "mirroredAt": "2026-08-04T23:16:36.745Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-04T23:00:35.789001+00:00",
-  "lastAutoProcessed": [
-    "SPIN:605",
-    "COURAGE:11800:0"
-  ]
+  }
 }
