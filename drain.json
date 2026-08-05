@@ -1,5 +1,12 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Read B application",
+      "uid": "PLUS_ADD:Read B application:2026-08-05T06:04:12.979Z",
+      "_ts": "2026-08-05T06:04:19.187Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +15,9 @@
       "_ts": "2026-08-05T06:04:13.097Z"
     }
   ],
-  "mirroredAt": "2026-08-05T06:04:13.464Z",
+  "mirroredAt": "2026-08-05T06:04:19.415Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
