@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-05T01:35:06.303Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Write Amy about swim meet",
+      "_addedAt": "2026-08-05T01:37:57.280Z",
+      "_ts": "2026-08-05T01:37:57.412Z"
+    }
+  ],
+  "mirroredAt": "2026-08-05T01:37:57.634Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
