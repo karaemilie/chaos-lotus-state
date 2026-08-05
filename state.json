@@ -165,13 +165,6 @@
       "uid": "SPIN:574"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 586,
-      "row": 51,
-      "label": "Next garage film!",
-      "uid": "SPIN:586"
-    },
-    {
       "source": "TASKS",
       "id": 10240,
       "row": 73,
@@ -843,10 +836,10 @@
       "uid": "ZONES:90"
     }
   ],
-  "version": 1482,
-  "updated": "2026-08-05T01:34:26.633593+00:00",
+  "version": 1483,
+  "updated": "2026-08-05T01:35:05.412940+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
