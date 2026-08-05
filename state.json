@@ -766,15 +766,6 @@
       "uid": "SPIN_WHEEL:611"
     },
     {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10187,
       "stepIndex": 0,
@@ -834,10 +825,19 @@
       "sid": 615,
       "label": "Write Amy about swim meet",
       "uid": "SPIN_WHEEL:615"
+    },
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Props",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Props",
+      "uid": "ZONES:78"
     }
   ],
-  "version": 1486,
-  "updated": "2026-08-05T01:39:07.954658+00:00",
+  "version": 1487,
+  "updated": "2026-08-05T01:39:53.862175+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "TASKS": 17,
