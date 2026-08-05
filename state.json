@@ -352,16 +352,6 @@
       "uid": "SPIN:502"
     },
     {
-      "source": "ZONES",
-      "zid": 88,
-      "floor": "Personal",
-      "row": 89,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Teeth Whitening",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Teeth Whitening",
-      "uid": "ZONES:88"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 581,
       "row": 48,
@@ -842,10 +832,19 @@
       "sid": 613,
       "label": "Pursteam refund",
       "uid": "SPIN_WHEEL:613"
+    },
+    {
+      "source": "ZONES",
+      "zid": 90,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Feet Care & Pedi",
+      "uid": "ZONES:90"
     }
   ],
-  "version": 1481,
-  "updated": "2026-08-05T00:01:29.968195+00:00",
+  "version": 1482,
+  "updated": "2026-08-05T01:34:26.633593+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "TASKS": 17,
