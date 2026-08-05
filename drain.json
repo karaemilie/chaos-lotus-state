@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-04T23:17:35.349Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pursteam refund",
+      "_addedAt": "2026-08-05T00:01:04.980Z",
+      "_ts": "2026-08-05T00:01:05.134Z"
+    }
+  ],
+  "mirroredAt": "2026-08-05T00:01:05.377Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
