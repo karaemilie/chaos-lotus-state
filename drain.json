@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-05T01:43:01.442Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Verify fall cost of live TCU , see if apartment matches **",
+      "_addedAt": "2026-08-05T01:55:57.235Z",
+      "_ts": "2026-08-05T01:55:57.374Z"
+    }
+  ],
+  "mirroredAt": "2026-08-05T01:55:57.765Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-05T01:43:02.300331+00:00",
-  "lastAutoProcessed": [
-    "ZONES:62"
-  ]
+    "adds": 1
+  }
 }
