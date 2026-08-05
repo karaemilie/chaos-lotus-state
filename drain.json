@@ -1,13 +1,26 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-05T01:34:28.038Z",
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 89,
+      "zid": 88,
+      "floor": "Personal",
+      "label": "👱‍♀️ Teeth Whitening",
+      "uid": "ZONES:88",
+      "_ts": "2026-08-05T01:34:05.802Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "More garage film work!",
+      "_addedAt": "2026-08-05T01:34:35.066Z",
+      "_ts": "2026-08-05T01:34:35.202Z"
+    }
+  ],
+  "mirroredAt": "2026-08-05T01:34:35.442Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-05T01:34:29.041458+00:00",
-  "lastAutoProcessed": [
-    "ZONES:88"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
