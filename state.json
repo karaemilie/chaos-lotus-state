@@ -724,15 +724,6 @@
       "uid": "SPIN_WHEEL:610"
     },
     {
-      "source": "ZONES",
-      "zid": 62,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Messages",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Messages",
-      "uid": "ZONES:62"
-    },
-    {
       "source": "TASKS",
       "id": 10241,
       "label": "Apply for Jake's credit card \ud83d\udcdd",
@@ -834,10 +825,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Props",
       "uid": "ZONES:78"
+    },
+    {
+      "source": "ZONES",
+      "zid": 63,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Calls/Voicemail",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Calls/Voicemail",
+      "uid": "ZONES:63"
     }
   ],
-  "version": 1487,
-  "updated": "2026-08-05T01:39:53.862175+00:00",
+  "version": 1488,
+  "updated": "2026-08-05T01:43:00.457115+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "TASKS": 17,
