@@ -332,13 +332,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 599,
-      "row": 59,
-      "label": "Upload Linc video",
-      "uid": "SPIN:599"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 502,
       "row": 23,
       "label": "First step to convert pansy and task box to app store",
@@ -460,13 +453,6 @@
       "row": 25,
       "label": "Plot out plan for Genevieve school year costs",
       "uid": "SPIN:509"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 606,
-      "row": 65,
-      "label": "Order whisk and mixer for genevieve",
-      "uid": "SPIN:606"
     },
     {
       "source": "SPIN_WHEEL",
@@ -850,10 +836,10 @@
       "uid": "SPIN_WHEEL:615"
     }
   ],
-  "version": 1485,
-  "updated": "2026-08-05T01:38:18.469401+00:00",
+  "version": 1486,
+  "updated": "2026-08-05T01:39:07.954658+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 67,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
