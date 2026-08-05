@@ -8,6 +8,13 @@
       "label": "👱‍♀️ Teeth Whitening",
       "uid": "ZONES:88",
       "_ts": "2026-08-05T01:34:05.802Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 51,
+      "label": "Next garage film!",
+      "uid": "SPIN:586",
+      "_ts": "2026-08-05T01:34:45.608Z"
     }
   ],
   "adds": [
@@ -18,9 +25,9 @@
       "_ts": "2026-08-05T01:34:35.202Z"
     }
   ],
-  "mirroredAt": "2026-08-05T01:34:35.442Z",
+  "mirroredAt": "2026-08-05T01:34:45.813Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 1
   }
 }
