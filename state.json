@@ -717,13 +717,6 @@
       "uid": "SPIN_WHEEL:609"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 610,
-      "sid": 610,
-      "label": "Investigate if rent is 529 expense",
-      "uid": "SPIN_WHEEL:610"
-    },
-    {
       "source": "TASKS",
       "id": 10241,
       "label": "Apply for Jake's credit card \ud83d\udcdd",
@@ -843,10 +836,10 @@
       "uid": "SPIN_WHEEL:616"
     }
   ],
-  "version": 1489,
-  "updated": "2026-08-05T01:56:22.499537+00:00",
+  "version": 1490,
+  "updated": "2026-08-05T01:57:17.438830+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
