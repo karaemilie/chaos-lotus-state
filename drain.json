@@ -13,19 +13,20 @@
       "label": "Upload Linc video",
       "uid": "SPIN:599",
       "_ts": "2026-08-05T01:38:43.501Z"
-    }
-  ],
-  "adds": [
+    },
     {
-      "source": "PLUS_ADD",
-      "label": "Write Amy about swim meet",
-      "_addedAt": "2026-08-05T01:37:57.280Z",
-      "_ts": "2026-08-05T01:37:57.412Z"
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "🌱 Corner Nook B",
+      "uid": "ZONES:77",
+      "_ts": "2026-08-05T01:39:06.594Z"
     }
   ],
-  "mirroredAt": "2026-08-05T01:38:43.758Z",
+  "adds": [],
+  "mirroredAt": "2026-08-05T01:39:06.800Z",
   "counts": {
-    "completions": 2,
-    "adds": 1
+    "completions": 3,
+    "adds": 0
   }
 }
