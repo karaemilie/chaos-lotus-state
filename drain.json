@@ -1,20 +1,6 @@
 {
   "completions": [
     {
-      "source": "SPIN_WHEEL",
-      "row": 65,
-      "label": "Order whisk and mixer for genevieve",
-      "uid": "SPIN:606",
-      "_ts": "2026-08-05T01:38:12.625Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 59,
-      "label": "Upload Linc video",
-      "uid": "SPIN:599",
-      "_ts": "2026-08-05T01:38:43.501Z"
-    },
-    {
       "source": "ZONES",
       "zid": 77,
       "floor": "Plant",
@@ -24,9 +10,9 @@
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-05T01:39:06.800Z",
+  "mirroredAt": "2026-08-05T01:39:09.008Z",
   "counts": {
-    "completions": 3,
+    "completions": 1,
     "adds": 0
   }
 }
