@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-05T06:04:34.961Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Cancel Drama box",
+      "_addedAt": "2026-08-05T08:27:20.572Z",
+      "_ts": "2026-08-05T08:27:20.694Z"
+    }
+  ],
+  "mirroredAt": "2026-08-05T08:27:20.968Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
