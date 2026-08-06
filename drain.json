@@ -1,14 +1,32 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11849,
+      "row": 312,
+      "label": "✨ Water snake plants",
+      "uid": "TASKS:11849",
+      "_ts": "2026-08-06T08:18:27.994Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 622,
+      "label": "Buy another laptop holder",
+      "uid": "SPIN_WHEEL:622",
+      "_ts": "2026-08-06T08:18:58.876Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 615,
+      "label": "Write Amy about swim meet",
+      "uid": "SPIN_WHEEL:615",
+      "_ts": "2026-08-06T08:19:20.936Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-06T08:19:16.052Z",
+  "mirroredAt": "2026-08-06T08:19:21.156Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-08-06T08:19:16.949215+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:622",
-    "TASKS:11849"
-  ]
+  }
 }
