@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-06T07:21:23.600Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Write Amy back",
+      "_addedAt": "2026-08-06T07:32:19.092Z",
+      "_ts": "2026-08-06T07:32:19.216Z"
+    }
+  ],
+  "mirroredAt": "2026-08-06T07:32:19.463Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-06T07:21:24.316680+00:00",
-  "lastAutoProcessed": [
-    "SPIN:602"
-  ]
+    "adds": 1
+  }
 }
