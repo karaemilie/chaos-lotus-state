@@ -603,20 +603,6 @@
       "uid": "TASKS:10089"
     },
     {
-      "source": "TASKS",
-      "id": 11849,
-      "row": 312,
-      "label": "\u2728 Water snake plants",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11849"
-    },
-    {
       "source": "ZONES",
       "zid": 75,
       "floor": "Plant",
@@ -876,10 +862,23 @@
       "sid": 627,
       "label": "Icon design work",
       "uid": "SPIN_WHEEL:627"
+    },
+    {
+      "source": "TASKS",
+      "id": 11852,
+      "label": "\u2728 Check if Mizuno GX Sonic 6 CR is back in stock (blue, size 24)",
+      "aw": 7,
+      "pri": "Sometime",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11852"
     }
   ],
-  "version": 1507,
-  "updated": "2026-08-06T08:16:43.612254+00:00",
+  "version": 1508,
+  "updated": "2026-08-06T08:18:38.937150+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 73,
