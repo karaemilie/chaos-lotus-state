@@ -1,13 +1,6 @@
 {
   "tasks": [
     {
-      "source": "SPIN_WHEEL",
-      "sid": 523,
-      "row": 29,
-      "label": "More icon crafting*",
-      "uid": "SPIN:523"
-    },
-    {
       "source": "TASKS",
       "id": 10202,
       "row": 64,
@@ -878,11 +871,11 @@
       "uid": "SPIN_WHEEL:626"
     }
   ],
-  "version": 1504,
-  "updated": "2026-08-06T07:33:30.279229+00:00",
+  "version": 1505,
+  "updated": "2026-08-06T08:16:08.889107+00:00",
   "buckets": {
-    "SPIN_WHEEL": 73,
     "TASKS": 17,
+    "SPIN_WHEEL": 72,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 3
