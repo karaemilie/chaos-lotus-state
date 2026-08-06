@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-05T08:38:03.162Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Transfer Ally Funds for twins",
+      "_addedAt": "2026-08-06T04:20:53.971Z",
+      "_ts": "2026-08-06T04:20:54.083Z"
+    }
+  ],
+  "mirroredAt": "2026-08-06T04:20:54.336Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
