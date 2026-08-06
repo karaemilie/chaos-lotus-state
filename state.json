@@ -869,13 +869,20 @@
       "sid": 626,
       "label": "Dispute second Moboreel charge",
       "uid": "SPIN_WHEEL:626"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 627,
+      "sid": 627,
+      "label": "Icon design work",
+      "uid": "SPIN_WHEEL:627"
     }
   ],
-  "version": 1506,
-  "updated": "2026-08-06T08:16:41.405451+00:00",
+  "version": 1507,
+  "updated": "2026-08-06T08:16:43.612254+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 73,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 3
