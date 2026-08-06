@@ -1,6 +1,14 @@
 {
   "completions": [
     {
+      "source": "ZONES",
+      "zid": 63,
+      "floor": "Digital",
+      "label": "💻 Calls/Voicemail",
+      "uid": "ZONES:63",
+      "_ts": "2026-08-06T06:37:32.578Z"
+    },
+    {
       "source": "TASKS",
       "id": 11846,
       "label": "✨ Trash only to curb 🗑️",
@@ -13,12 +21,19 @@
       "label": "Mailbox run",
       "uid": "SPIN_WHEEL:612",
       "_ts": "2026-08-06T06:37:44.605Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 35,
+      "label": "Empty vac water…",
+      "uid": "SPIN:553",
+      "_ts": "2026-08-06T06:38:25.040Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-06T06:37:54.794Z",
+  "mirroredAt": "2026-08-06T06:38:25.257Z",
   "counts": {
-    "completions": 2,
+    "completions": 4,
     "adds": 0
   }
 }
