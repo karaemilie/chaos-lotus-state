@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-06T08:16:10.340Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 29,
+      "label": "More icon crafting*",
+      "uid": "SPIN:523",
+      "_ts": "2026-08-06T08:15:54.173Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Icon design work",
+      "_addedAt": "2026-08-06T08:16:22.968Z",
+      "_ts": "2026-08-06T08:16:23.109Z"
+    }
+  ],
+  "mirroredAt": "2026-08-06T08:16:23.357Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-06T08:16:11.401913+00:00",
-  "lastAutoProcessed": [
-    "SPIN:523"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
