@@ -749,13 +749,6 @@
       "uid": "SPIN_WHEEL:614"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 615,
-      "sid": 615,
-      "label": "Write Amy about swim meet",
-      "uid": "SPIN_WHEEL:615"
-    },
-    {
       "source": "ZONES",
       "zid": 78,
       "floor": "Plant",
@@ -870,11 +863,11 @@
       "uid": "TASKS:11852"
     }
   ],
-  "version": 1509,
-  "updated": "2026-08-06T08:19:13.831152+00:00",
+  "version": 1510,
+  "updated": "2026-08-06T08:19:41.900897+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 71,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 3
