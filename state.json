@@ -820,15 +820,6 @@
       "uid": "ZONES:78"
     },
     {
-      "source": "ZONES",
-      "zid": 63,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Calls/Voicemail",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Calls/Voicemail",
-      "uid": "ZONES:63"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 616,
       "sid": 616,
@@ -876,10 +867,19 @@
       "sid": 623,
       "label": "Buy Jake shirts",
       "uid": "SPIN_WHEEL:623"
+    },
+    {
+      "source": "ZONES",
+      "zid": 64,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb OneTab",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "OneTab",
+      "uid": "ZONES:64"
     }
   ],
-  "version": 1498,
-  "updated": "2026-08-06T06:34:58.706075+00:00",
+  "version": 1499,
+  "updated": "2026-08-06T06:37:53.573804+00:00",
   "buckets": {
     "SPIN_WHEEL": 73,
     "TASKS": 17,
