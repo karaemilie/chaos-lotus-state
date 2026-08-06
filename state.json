@@ -801,13 +801,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 622,
-      "sid": 622,
-      "label": "Buy another laptop holder",
-      "uid": "SPIN_WHEEL:622"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 623,
       "sid": 623,
       "label": "Buy Jake shirts",
@@ -877,11 +870,11 @@
       "uid": "TASKS:11852"
     }
   ],
-  "version": 1508,
-  "updated": "2026-08-06T08:18:38.937150+00:00",
+  "version": 1509,
+  "updated": "2026-08-06T08:19:13.831152+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 73,
+    "SPIN_WHEEL": 72,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 3
