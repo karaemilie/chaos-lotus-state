@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-06T04:21:15.233Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Buy another laptop holder",
+      "_addedAt": "2026-08-06T06:16:32.638Z",
+      "_ts": "2026-08-06T06:16:32.852Z"
+    }
+  ],
+  "mirroredAt": "2026-08-06T06:16:33.086Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
