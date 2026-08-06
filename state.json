@@ -311,13 +311,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 602,
-      "row": 61,
-      "label": "Figure out how to add anti-gravity to Claude code",
-      "uid": "SPIN:602"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 281,
       "row": 6,
       "label": "WWAMI cost research",
@@ -871,10 +864,10 @@
       "uid": "SPIN_WHEEL:624"
     }
   ],
-  "version": 1501,
-  "updated": "2026-08-06T07:20:42.210260+00:00",
+  "version": 1502,
+  "updated": "2026-08-06T07:21:22.679186+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 71,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
