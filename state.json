@@ -2,13 +2,6 @@
   "tasks": [
     {
       "source": "SPIN_WHEEL",
-      "sid": 553,
-      "row": 35,
-      "label": "Empty vac water\u2026",
-      "uid": "SPIN:553"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 523,
       "row": 29,
       "label": "More icon crafting*",
@@ -761,26 +754,6 @@
       "uid": "COURAGE:10187:0"
     },
     {
-      "source": "TASKS",
-      "id": 11846,
-      "label": "\u2728 Trash only to curb \ud83d\uddd1\ufe0f",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11846"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 612,
-      "sid": 612,
-      "label": "Mailbox run",
-      "uid": "SPIN_WHEEL:612"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 613,
       "sid": 613,
@@ -876,12 +849,25 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "OneTab",
       "uid": "ZONES:64"
+    },
+    {
+      "source": "TASKS",
+      "id": 11743,
+      "label": "\u2728 Send text update to mother-in-law \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11743"
     }
   ],
-  "version": 1499,
-  "updated": "2026-08-06T06:37:53.573804+00:00",
+  "version": 1500,
+  "updated": "2026-08-06T06:38:43.888910+00:00",
   "buckets": {
-    "SPIN_WHEEL": 73,
+    "SPIN_WHEEL": 71,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
