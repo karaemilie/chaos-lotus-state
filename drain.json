@@ -1,16 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-06T06:38:45.966Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Talk to Claude about trading strategies",
+      "_addedAt": "2026-08-06T07:20:23.078Z",
+      "_ts": "2026-08-06T07:20:23.194Z"
+    }
+  ],
+  "mirroredAt": "2026-08-06T07:20:23.399Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-06T06:38:46.724216+00:00",
-  "lastAutoProcessed": [
-    "ZONES:63",
-    "SPIN_WHEEL:612",
-    "SPIN:553",
-    "TASKS:11846"
-  ]
+    "adds": 1
+  }
 }
