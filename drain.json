@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 620,
+      "label": "Cancel Netflix for DramaBox",
+      "uid": "SPIN_WHEEL:620",
+      "_ts": "2026-08-06T06:34:34.855Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-06T06:17:39.348Z",
+  "mirroredAt": "2026-08-06T06:34:35.087Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
