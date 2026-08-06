@@ -1,15 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-06T08:19:44.427Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Check on Bank of America card",
+      "_addedAt": "2026-08-06T18:22:55.450Z",
+      "_ts": "2026-08-06T18:22:55.647Z"
+    }
+  ],
+  "mirroredAt": "2026-08-06T18:22:56.005Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-06T08:19:45.435942+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:622",
-    "SPIN_WHEEL:615",
-    "TASKS:11849"
-  ]
+    "adds": 1
+  }
 }
