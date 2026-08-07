@@ -882,13 +882,20 @@
       "sid": 630,
       "label": "Price cheapest way to ship 4 lb book",
       "uid": "SPIN_WHEEL:630"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 631,
+      "sid": 631,
+      "label": "Readd Cu1",
+      "uid": "SPIN_WHEEL:631"
     }
   ],
-  "version": 1511,
-  "updated": "2026-08-06T23:30:36.869434+00:00",
+  "version": 1512,
+  "updated": "2026-08-07T00:59:38.428662+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 74,
+    "SPIN_WHEEL": 75,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 3
