@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-07T06:15:44.637Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 68,
+      "label": "Write Amy back",
+      "uid": "SPIN:625",
+      "_ts": "2026-08-07T06:15:26.332Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Make list of B transcripts needed",
+      "_addedAt": "2026-08-07T06:15:47.435Z",
+      "_ts": "2026-08-07T06:15:47.588Z"
+    }
+  ],
+  "mirroredAt": "2026-08-07T06:15:47.835Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-07T06:15:45.709252+00:00",
-  "lastAutoProcessed": [
-    "SPIN:625"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
