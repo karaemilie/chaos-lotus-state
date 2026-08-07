@@ -1,16 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-07T01:01:31.856Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Canker sore supplements",
+      "_addedAt": "2026-08-07T01:30:54.282Z",
+      "_ts": "2026-08-07T01:30:54.405Z"
+    }
+  ],
+  "mirroredAt": "2026-08-07T01:30:54.674Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-07T01:01:32.648374+00:00",
-  "lastAutoProcessed": [
-    "ZONES:90"
-  ],
-  "autoReset": [
-    "Personal"
-  ]
+    "adds": 1
+  }
 }
