@@ -1,9 +1,25 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-07T00:59:37.446Z",
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11888,
+      "row": 342,
+      "label": "🔥 Take care of seminary sign-up for the boys 📝",
+      "uid": "TASKS:11888",
+      "_ts": "2026-08-07T00:59:46.529Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Readd Cu1",
+      "_addedAt": "2026-08-07T00:59:18.716Z",
+      "_ts": "2026-08-07T00:59:18.853Z"
+    }
+  ],
+  "mirroredAt": "2026-08-07T00:59:46.767Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
