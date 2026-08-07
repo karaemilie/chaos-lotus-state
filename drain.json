@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-07T06:38:59.547Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Look at TCU commuter food plans",
+      "_addedAt": "2026-08-07T06:53:16.773Z",
+      "_ts": "2026-08-07T06:53:17.031Z"
+    }
+  ],
+  "mirroredAt": "2026-08-07T06:53:17.292Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-07T06:39:00.324707+00:00",
-  "lastAutoProcessed": [
-    "SPIN:623"
-  ]
+    "adds": 1
+  }
 }
