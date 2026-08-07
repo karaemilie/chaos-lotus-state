@@ -103,30 +103,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 608,
-      "row": 53,
-      "label": "Genevieve Gemini card payment transfer**",
-      "uid": "SPIN:608"
-    },
-    {
-      "source": "ZONES",
-      "zid": 6,
-      "floor": "Upstairs",
-      "row": 7,
-      "label": "\ud83e\uddfa Genevieve's Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Genevieve's Room",
-      "uid": "ZONES:6"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 616,
-      "row": 58,
-      "label": "Verify fall cost of live TCU , see if apartment matches **",
-      "uid": "SPIN:616"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 613,
       "row": 56,
       "label": "Pursteam refund",
@@ -182,13 +158,6 @@
       "row": 7,
       "label": "Submit Treeforms help request",
       "uid": "SPIN:333"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 500,
-      "row": 21,
-      "label": "Finish the YouTube video on launching!",
-      "uid": "SPIN:500"
     },
     {
       "source": "COURAGE",
@@ -912,12 +881,21 @@
       "sid": 641,
       "label": "Put my 30 day channel launch timeline on physical calendar, pull out stickers too! **",
       "uid": "SPIN_WHEEL:641"
+    },
+    {
+      "source": "ZONES",
+      "zid": 7,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Kids Bathroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Kids Bathroom",
+      "uid": "ZONES:7"
     }
   ],
-  "version": 1534,
-  "updated": "2026-08-07T08:52:44.940631+00:00",
+  "version": 1535,
+  "updated": "2026-08-07T08:53:27.429507+00:00",
   "buckets": {
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 74,
     "ZONES": 9,
     "TASKS": 17,
     "MAINTENANCE": 2,
