@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 38,
+      "label": "Write Insta plant lady back",
+      "uid": "SPIN:558",
+      "_ts": "2026-08-07T05:38:45.453Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-07T05:14:02.773Z",
+  "mirroredAt": "2026-08-07T05:38:45.688Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-07T05:14:03.840783+00:00",
-  "lastAutoProcessed": [
-    "SPIN:513"
-  ]
+  }
 }
