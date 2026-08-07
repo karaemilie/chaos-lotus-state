@@ -905,12 +905,19 @@
       "label": "\ud83d\udd25 Check PFD statuses for everyone (Bentley, Jake, Genevieve)",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11217:0"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 637,
+      "sid": 637,
+      "label": "Make list of B transcripts needed",
+      "uid": "SPIN_WHEEL:637"
     }
   ],
-  "version": 1524,
-  "updated": "2026-08-07T06:16:16.450646+00:00",
+  "version": 1525,
+  "updated": "2026-08-07T06:16:19.266059+00:00",
   "buckets": {
-    "SPIN_WHEEL": 76,
+    "SPIN_WHEEL": 77,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
