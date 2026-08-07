@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-07T08:53:28.413Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Schedule with Lincoln for work",
+      "_addedAt": "2026-08-07T09:20:40.183Z",
+      "_ts": "2026-08-07T09:20:40.439Z"
+    }
+  ],
+  "mirroredAt": "2026-08-07T09:20:40.685Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
