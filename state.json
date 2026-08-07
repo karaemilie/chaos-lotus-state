@@ -1,13 +1,6 @@
 {
   "tasks": [
     {
-      "source": "SPIN_WHEEL",
-      "sid": 623,
-      "row": 66,
-      "label": "Buy Jake shirts",
-      "uid": "SPIN:623"
-    },
-    {
       "source": "TASKS",
       "id": 11553,
       "row": 218,
@@ -907,11 +900,11 @@
       "uid": "SPIN_WHEEL:637"
     }
   ],
-  "version": 1526,
-  "updated": "2026-08-07T06:21:14.522977+00:00",
+  "version": 1527,
+  "updated": "2026-08-07T06:38:58.480246+00:00",
   "buckets": {
-    "SPIN_WHEEL": 76,
     "TASKS": 17,
+    "SPIN_WHEEL": 75,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 3
