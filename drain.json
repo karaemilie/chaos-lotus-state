@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-07T02:39:00.223Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Research schools for Bentley",
+      "_addedAt": "2026-08-07T05:05:51.621Z",
+      "_ts": "2026-08-07T05:05:51.784Z"
+    }
+  ],
+  "mirroredAt": "2026-08-07T05:05:52.010Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
