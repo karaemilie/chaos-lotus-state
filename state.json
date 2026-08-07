@@ -23,13 +23,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 95,
-      "row": 3,
-      "label": "Find first transcript for Bentley",
-      "uid": "SPIN:95"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 555,
       "row": 33,
       "label": "Install tile",
@@ -914,10 +907,10 @@
       "uid": "COURAGE:11217:0"
     }
   ],
-  "version": 1523,
-  "updated": "2026-08-07T06:15:43.389204+00:00",
+  "version": 1524,
+  "updated": "2026-08-07T06:16:16.450646+00:00",
   "buckets": {
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 76,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
