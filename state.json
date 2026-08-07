@@ -768,13 +768,6 @@
       "uid": "SPIN:607"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 502,
-      "row": 23,
-      "label": "First step to convert pansy and task box to app store",
-      "uid": "SPIN:502"
-    },
-    {
       "source": "TASKS",
       "id": 10187,
       "row": 55,
@@ -914,11 +907,11 @@
       "uid": "SPIN_WHEEL:639"
     }
   ],
-  "version": 1529,
-  "updated": "2026-08-07T07:38:16.524012+00:00",
+  "version": 1530,
+  "updated": "2026-08-07T07:42:51.125134+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 76,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 3
