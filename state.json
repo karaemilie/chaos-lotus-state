@@ -882,13 +882,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 574,
-      "row": 40,
-      "label": "Update swim on calendar",
-      "uid": "SPIN:574"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 592,
       "row": 49,
       "label": "Paint sample ceiling board",
@@ -914,10 +907,10 @@
       "uid": "SPIN_WHEEL:637"
     }
   ],
-  "version": 1525,
-  "updated": "2026-08-07T06:16:19.266059+00:00",
+  "version": 1526,
+  "updated": "2026-08-07T06:21:14.522977+00:00",
   "buckets": {
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 76,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
