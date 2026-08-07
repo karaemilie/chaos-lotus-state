@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-07T07:42:52.320Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Blanket bag to Genevieve room",
+      "_addedAt": "2026-08-07T08:35:10.578Z",
+      "_ts": "2026-08-07T08:35:10.775Z"
+    }
+  ],
+  "mirroredAt": "2026-08-07T08:35:11.013Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-07T07:42:53.717111+00:00",
-  "lastAutoProcessed": [
-    "SPIN:502"
-  ]
+    "adds": 1
+  }
 }
