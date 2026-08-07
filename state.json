@@ -521,13 +521,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 513,
-      "row": 27,
-      "label": "Send apartment notes to Bentley",
-      "uid": "SPIN:513"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 527,
       "row": 30,
       "label": "Inventory cursive books do we have more like Jake\u2019s \u2728",
@@ -918,11 +911,11 @@
       "uid": "SPIN_WHEEL:635"
     }
   ],
-  "version": 1518,
-  "updated": "2026-08-07T05:06:10.388715+00:00",
+  "version": 1519,
+  "updated": "2026-08-07T05:14:01.530145+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 79,
+    "SPIN_WHEEL": 78,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 3
