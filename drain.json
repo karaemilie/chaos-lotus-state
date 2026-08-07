@@ -1,9 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-07T08:52:44.124Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 21,
+      "label": "Finish the YouTube video on launching!",
+      "uid": "SPIN:500",
+      "_ts": "2026-08-07T08:52:45.785Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Put my 30 day channel launch timeline on physical calendar, pull out stickers too! **",
+      "_addedAt": "2026-08-07T08:52:32.093Z",
+      "_ts": "2026-08-07T08:52:32.656Z"
+    }
+  ],
+  "mirroredAt": "2026-08-07T08:52:45.993Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
