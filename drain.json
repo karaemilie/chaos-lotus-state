@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 68,
+      "label": "Write Amy back",
+      "uid": "SPIN:625",
+      "_ts": "2026-08-07T06:15:26.332Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-07T05:54:53.909Z",
+  "mirroredAt": "2026-08-07T06:15:26.537Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
