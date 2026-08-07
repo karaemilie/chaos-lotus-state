@@ -30,13 +30,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 419,
-      "row": 13,
-      "label": "Pull up TCU Fall bill",
-      "uid": "SPIN:419"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 604,
       "row": 51,
       "label": "Pack / ship candles back",
@@ -914,10 +907,10 @@
       "uid": "SPIN_WHEEL:640"
     }
   ],
-  "version": 1532,
-  "updated": "2026-08-07T08:35:26.017440+00:00",
+  "version": 1533,
+  "updated": "2026-08-07T08:36:10.825820+00:00",
   "buckets": {
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 76,
     "ZONES": 9,
     "TASKS": 17,
     "MAINTENANCE": 2,
