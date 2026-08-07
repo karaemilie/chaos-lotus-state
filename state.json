@@ -344,20 +344,6 @@
       "uid": "SPIN:629"
     },
     {
-      "source": "TASKS",
-      "id": 11858,
-      "row": 314,
-      "label": "\u2728 Rotate plants on hallway wall \ud83e\udeb4\ud83d\udd04",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Plants",
-      "critical": false,
-      "uid": "TASKS:11858"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 617,
       "row": 59,
@@ -478,20 +464,6 @@
       "row": 12,
       "label": "Register greenThumb / homeschool brain on insta **",
       "uid": "SPIN:408"
-    },
-    {
-      "source": "TASKS",
-      "id": 11905,
-      "row": 350,
-      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11905"
     },
     {
       "source": "SPIN_WHEEL",
@@ -904,10 +876,36 @@
       "sid": 643,
       "label": "Weekly visualizing who I want to be 1 wk, 1 month, 1 year\u2026 ?",
       "uid": "SPIN_WHEEL:643"
+    },
+    {
+      "source": "TASKS",
+      "id": 10198,
+      "label": "Review notes from convo with Linai's Dad about WWAMI",
+      "aw": 4,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": "Bentley Med School",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10198"
+    },
+    {
+      "source": "TASKS",
+      "id": 10088,
+      "label": "Research and pick credit card for Genevieve \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": "Genevieve Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10088"
     }
   ],
-  "version": 1537,
-  "updated": "2026-08-07T09:21:41.975974+00:00",
+  "version": 1538,
+  "updated": "2026-08-07T09:22:23.695492+00:00",
   "buckets": {
     "SPIN_WHEEL": 76,
     "ZONES": 9,
