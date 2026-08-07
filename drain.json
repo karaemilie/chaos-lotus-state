@@ -1,5 +1,14 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11905,
+      "row": 350,
+      "label": "✨ New habit for week? Or new stacked habit? Assess!",
+      "uid": "TASKS:11905",
+      "_ts": "2026-08-07T09:21:26.128Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -14,9 +23,9 @@
       "_ts": "2026-08-07T09:21:11.374Z"
     }
   ],
-  "mirroredAt": "2026-08-07T09:21:11.761Z",
+  "mirroredAt": "2026-08-07T09:21:26.344Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 2
   }
 }
