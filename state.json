@@ -65,20 +65,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11888,
-      "row": 342,
-      "label": "\ud83d\udd25 Take care of seminary sign-up for the boys \ud83d\udcdd",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:11888"
-    },
-    {
-      "source": "TASKS",
       "id": 10659,
       "row": 125,
       "label": "\u2b50 Get Lincoln's four year plan together \ud83d\udccb\ud83c\udfaf",
@@ -889,10 +875,23 @@
       "sid": 631,
       "label": "Readd Cu1",
       "uid": "SPIN_WHEEL:631"
+    },
+    {
+      "source": "TASKS",
+      "id": 11780,
+      "label": "\u2728 Grab the gold candles and charge them \ud83d\udd6f\ufe0f",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11780"
     }
   ],
-  "version": 1512,
-  "updated": "2026-08-07T00:59:38.428662+00:00",
+  "version": 1513,
+  "updated": "2026-08-07T01:00:24.499883+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 75,
