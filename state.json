@@ -269,13 +269,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 558,
-      "row": 38,
-      "label": "Write Insta plant lady back",
-      "uid": "SPIN:558"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 220,
       "row": 4,
       "label": "Deploy chore app",
@@ -911,11 +904,11 @@
       "uid": "SPIN_WHEEL:635"
     }
   ],
-  "version": 1519,
-  "updated": "2026-08-07T05:14:01.530145+00:00",
+  "version": 1520,
+  "updated": "2026-08-07T05:39:00.750561+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 77,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 3
