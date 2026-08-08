@@ -48,12 +48,19 @@
       "label": "👱‍♀️ Face Exfoliation",
       "uid": "ZONES:81",
       "_ts": "2026-08-08T09:02:44.224Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 55,
+      "label": "Read B application",
+      "uid": "SPIN:618",
+      "_ts": "2026-08-08T09:02:50.437Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-08T09:02:44.441Z",
+  "mirroredAt": "2026-08-08T09:02:50.651Z",
   "counts": {
-    "completions": 6,
+    "completions": 7,
     "adds": 0
   }
 }
