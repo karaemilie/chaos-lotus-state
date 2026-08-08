@@ -450,20 +450,6 @@
       "uid": "TASKS:11819"
     },
     {
-      "source": "TASKS",
-      "id": 11916,
-      "row": 359,
-      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11916"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 640,
       "row": 73,
@@ -932,10 +918,23 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Emails",
       "uid": "ZONES:65"
+    },
+    {
+      "source": "TASKS",
+      "id": 10506,
+      "label": "Check out Dr Robin again",
+      "aw": 7,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:10506"
     }
   ],
-  "version": 1546,
-  "updated": "2026-08-08T09:01:55.252699+00:00",
+  "version": 1547,
+  "updated": "2026-08-08T09:02:27.729735+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 80,
