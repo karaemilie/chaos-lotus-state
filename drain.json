@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-08T07:44:58.070Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Rug pad for smaller rug",
+      "_addedAt": "2026-08-08T08:38:20.022Z",
+      "_ts": "2026-08-08T08:38:20.136Z"
+    }
+  ],
+  "mirroredAt": "2026-08-08T08:38:20.452Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-08T07:44:59.052105+00:00",
-  "lastAutoProcessed": [
-    "SPIN:592"
-  ]
+    "adds": 1
+  }
 }
