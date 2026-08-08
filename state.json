@@ -243,13 +243,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 592,
-      "row": 46,
-      "label": "Paint sample ceiling board",
-      "uid": "SPIN:592"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 253,
       "row": 4,
       "label": "Order Bentley a bed bric",
@@ -932,10 +925,10 @@
       "uid": "SPIN_WHEEL:647"
     }
   ],
-  "version": 1542,
-  "updated": "2026-08-08T07:44:20.589102+00:00",
+  "version": 1543,
+  "updated": "2026-08-08T07:44:56.983020+00:00",
   "buckets": {
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 79,
     "ZONES": 9,
     "TASKS": 17,
     "MAINTENANCE": 2,
