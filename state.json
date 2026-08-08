@@ -465,27 +465,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11886,
-      "row": 334,
-      "label": "\u2728 Put on new tattoo",
-      "aw": 4,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11886"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 611,
-      "row": 51,
-      "label": "Bring checkbook inside",
-      "uid": "SPIN:611"
-    },
-    {
-      "source": "TASKS",
       "id": 11904,
       "row": 348,
       "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
@@ -667,20 +646,6 @@
       "uid": "SPIN:281"
     },
     {
-      "source": "TASKS",
-      "id": 11743,
-      "row": 263,
-      "label": "\u2728 Send text update to mother-in-law \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11743"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 571,
       "row": 33,
@@ -759,13 +724,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 618,
-      "row": 55,
-      "label": "Read B application",
-      "uid": "SPIN:618"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 564,
       "row": 31,
       "label": "Figure out how to box NL Science **",
@@ -777,16 +735,6 @@
       "row": 52,
       "label": "Pursteam refund",
       "uid": "SPIN:613"
-    },
-    {
-      "source": "ZONES",
-      "zid": 81,
-      "floor": "Personal",
-      "row": 83,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Exfoliation",
-      "uid": "ZONES:81"
     },
     {
       "source": "SPIN_WHEEL",
@@ -931,13 +879,48 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:10506"
+    },
+    {
+      "source": "ZONES",
+      "zid": 83,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Retainer",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Retainer",
+      "uid": "ZONES:83"
+    },
+    {
+      "source": "TASKS",
+      "id": 10117,
+      "label": "Look at FluentU/Netflix for foreign language learning for boys",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": "Homeschool Admin",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10117"
+    },
+    {
+      "source": "TASKS",
+      "id": 10196,
+      "label": "Research paying tuition through a trust to save on taxes \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10196"
     }
   ],
-  "version": 1547,
-  "updated": "2026-08-08T09:02:27.729735+00:00",
+  "version": 1548,
+  "updated": "2026-08-08T09:03:22.255096+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 78,
     "ZONES": 9,
     "COURAGE": 3,
     "MAINTENANCE": 2
