@@ -1,13 +1,27 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 65,
+      "zid": 64,
+      "floor": "Digital",
+      "label": "💻 OneTab",
+      "uid": "ZONES:64",
+      "_ts": "2026-08-08T09:01:35.509Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11916,
+      "row": 359,
+      "label": "✨ Pay Linda, Lindsey & Miriam for the week!",
+      "uid": "TASKS:11916",
+      "_ts": "2026-08-08T09:02:10.079Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-08T09:01:56.170Z",
+  "mirroredAt": "2026-08-08T09:02:10.310Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-08-08T09:01:56.871883+00:00",
-  "lastAutoProcessed": [
-    "ZONES:64"
-  ]
+  }
 }
