@@ -921,13 +921,20 @@
       "sid": 649,
       "label": "Plan to transition to new wake time",
       "uid": "SPIN_WHEEL:649"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 650,
+      "sid": 650,
+      "label": "Slack hangers",
+      "uid": "SPIN_WHEEL:650"
     }
   ],
-  "version": 1549,
-  "updated": "2026-08-08T09:34:40.814022+00:00",
+  "version": 1550,
+  "updated": "2026-08-08T23:29:28.679596+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 79,
+    "SPIN_WHEEL": 80,
     "ZONES": 9,
     "COURAGE": 3,
     "MAINTENANCE": 2
