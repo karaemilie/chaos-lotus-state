@@ -914,13 +914,20 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10196"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 649,
+      "sid": 649,
+      "label": "Plan to transition to new wake time",
+      "uid": "SPIN_WHEEL:649"
     }
   ],
-  "version": 1548,
-  "updated": "2026-08-08T09:03:22.255096+00:00",
+  "version": 1549,
+  "updated": "2026-08-08T09:34:40.814022+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 79,
     "ZONES": 9,
     "COURAGE": 3,
     "MAINTENANCE": 2
