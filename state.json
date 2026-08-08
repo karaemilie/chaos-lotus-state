@@ -307,16 +307,6 @@
       "uid": "SPIN:557"
     },
     {
-      "source": "ZONES",
-      "zid": 64,
-      "floor": "Digital",
-      "row": 65,
-      "label": "\ud83d\udcbb OneTab",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "OneTab",
-      "uid": "ZONES:64"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 647,
       "row": 80,
@@ -933,10 +923,19 @@
       "sid": 648,
       "label": "Rug pad for smaller rug",
       "uid": "SPIN_WHEEL:648"
+    },
+    {
+      "source": "ZONES",
+      "zid": 65,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Emails",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Emails",
+      "uid": "ZONES:65"
     }
   ],
-  "version": 1545,
-  "updated": "2026-08-08T08:38:35.044455+00:00",
+  "version": 1546,
+  "updated": "2026-08-08T09:01:55.252699+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 80,
