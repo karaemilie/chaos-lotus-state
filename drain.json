@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-09T00:01:49.060Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Lands End shirt exchange",
+      "_addedAt": "2026-08-09T00:08:24.135Z",
+      "_ts": "2026-08-09T00:08:24.258Z"
+    }
+  ],
+  "mirroredAt": "2026-08-09T00:08:24.518Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-09T00:01:49.970330+00:00",
-  "lastAutoProcessed": [
-    "ZONES:78"
-  ]
+    "adds": 1
+  }
 }
