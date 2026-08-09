@@ -927,13 +927,20 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Kitchen Up High",
       "uid": "ZONES:79"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 651,
+      "sid": 651,
+      "label": "Lands End shirt exchange",
+      "uid": "SPIN_WHEEL:651"
     }
   ],
-  "version": 1551,
-  "updated": "2026-08-09T00:01:47.997465+00:00",
+  "version": 1552,
+  "updated": "2026-08-09T00:08:46.692405+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 81,
     "ZONES": 9,
     "COURAGE": 3,
     "MAINTENANCE": 2
