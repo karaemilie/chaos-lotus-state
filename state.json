@@ -748,16 +748,6 @@
       "uid": "SPIN:604"
     },
     {
-      "source": "ZONES",
-      "zid": 48,
-      "floor": "Basement",
-      "row": 49,
-      "label": "\ud83e\uddfa Basement Craft Zone",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Craft Zone",
-      "uid": "ZONES:48"
-    },
-    {
       "source": "TASKS",
       "id": 11553,
       "row": 218,
@@ -934,10 +924,19 @@
       "sid": 652,
       "label": "Research cost of New England conservatory",
       "uid": "SPIN_WHEEL:652"
+    },
+    {
+      "source": "ZONES",
+      "zid": 49,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Foyer",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Foyer",
+      "uid": "ZONES:49"
     }
   ],
-  "version": 1554,
-  "updated": "2026-08-09T00:38:07.747323+00:00",
+  "version": 1555,
+  "updated": "2026-08-09T03:33:29.349452+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 81,
