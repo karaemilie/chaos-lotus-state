@@ -913,13 +913,6 @@
       "uid": "SPIN_WHEEL:649"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 650,
-      "sid": 650,
-      "label": "Slack hangers",
-      "uid": "SPIN_WHEEL:650"
-    },
-    {
       "source": "ZONES",
       "zid": 79,
       "floor": "Plant",
@@ -943,11 +936,11 @@
       "uid": "SPIN_WHEEL:652"
     }
   ],
-  "version": 1553,
-  "updated": "2026-08-09T00:34:55.399209+00:00",
+  "version": 1554,
+  "updated": "2026-08-09T00:38:07.747323+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 81,
     "ZONES": 9,
     "COURAGE": 3,
     "MAINTENANCE": 2
