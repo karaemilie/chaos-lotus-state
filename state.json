@@ -426,20 +426,6 @@
       "uid": "SPIN:542"
     },
     {
-      "source": "TASKS",
-      "id": 11819,
-      "row": 291,
-      "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
-      "aw": 6,
-      "pri": "Medium",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11819"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 640,
       "row": 73,
@@ -933,10 +919,23 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Foyer",
       "uid": "ZONES:49"
+    },
+    {
+      "source": "TASKS",
+      "id": 11930,
+      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:11930"
     }
   ],
-  "version": 1555,
-  "updated": "2026-08-09T03:33:29.349452+00:00",
+  "version": 1556,
+  "updated": "2026-08-09T04:05:38.831598+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 81,
