@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11819,
+      "row": 291,
+      "label": "✨ Help Evan plan a game night 🎲🎮",
+      "uid": "TASKS:11819",
+      "_ts": "2026-08-09T04:05:24.819Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-09T03:33:30.234Z",
+  "mirroredAt": "2026-08-09T04:05:25.061Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-09T03:33:30.902943+00:00",
-  "lastAutoProcessed": [
-    "ZONES:48"
-  ]
+  }
 }
