@@ -152,13 +152,6 @@
       "uid": "SPIN:505"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 573,
-      "row": 35,
-      "label": "Pillowcase returns, candle return",
-      "uid": "SPIN:573"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11217,
       "parentRow": 178,
@@ -918,11 +911,11 @@
       "uid": "TASKS:11872"
     }
   ],
-  "version": 1562,
-  "updated": "2026-08-10T04:25:32.334361+00:00",
+  "version": 1563,
+  "updated": "2026-08-10T04:29:43.049544+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 79,
+    "SPIN_WHEEL": 78,
     "ZONES": 9,
     "COURAGE": 3,
     "MAINTENANCE": 2
