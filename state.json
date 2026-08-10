@@ -563,20 +563,6 @@
       "uid": "SPIN:584"
     },
     {
-      "source": "TASKS",
-      "id": 11764,
-      "row": 270,
-      "label": "\u2b50 Talk to Genevieve about fall invoices \ud83d\udcb0",
-      "aw": 3,
-      "pri": 3,
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Kids",
-      "critical": false,
-      "uid": "TASKS:11764"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 281,
       "row": 5,
@@ -909,10 +895,23 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:11872"
+    },
+    {
+      "source": "TASKS",
+      "id": 11778,
+      "label": "\u2728 Update Pura subscriptions",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11778"
     }
   ],
-  "version": 1563,
-  "updated": "2026-08-10T04:29:43.049544+00:00",
+  "version": 1564,
+  "updated": "2026-08-10T04:30:27.518673+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 78,
