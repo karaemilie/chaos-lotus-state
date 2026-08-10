@@ -405,30 +405,6 @@
       "uid": "SPIN:619"
     },
     {
-      "source": "TASKS",
-      "id": 11872,
-      "row": 314,
-      "label": "\ud83d\udcb8 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
-      "emoji": "\ud83d\udcb8",
-      "aw": 7,
-      "specialZone": "Business",
-      "uid": "TASKS:11872"
-    },
-    {
-      "source": "TASKS",
-      "id": 11922,
-      "row": 351,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:11922"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 346,
       "row": 8,
@@ -521,16 +497,6 @@
       "row": 24,
       "label": "Try free NFC app",
       "uid": "SPIN:579"
-    },
-    {
-      "source": "ZONES",
-      "zid": 82,
-      "floor": "Personal",
-      "row": 84,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Dermaplane",
-      "uid": "ZONES:82"
     },
     {
       "source": "TASKS",
@@ -656,10 +622,45 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10505"
+    },
+    {
+      "source": "ZONES",
+      "zid": 84,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Hand Care & Mani",
+      "uid": "ZONES:84"
+    },
+    {
+      "source": "TASKS",
+      "id": 11619,
+      "label": "Find kids a cool physics simulator game / way to learn mass & density \u269b\ufe0f\ud83c\udfae \ud83c\udfaf First step: search 'mass density simulation game kids'",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11619"
+    },
+    {
+      "source": "TASKS",
+      "id": 11895,
+      "label": "Book septic \ud83d\udebd",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11895"
     }
   ],
-  "version": 1589,
-  "updated": "2026-08-10T20:39:16.894825+00:00",
+  "version": 1590,
+  "updated": "2026-08-10T20:39:57.379528+00:00",
   "buckets": {
     "SPIN_WHEEL": 42,
     "ZONES": 8,
