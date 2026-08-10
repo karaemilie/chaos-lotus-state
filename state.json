@@ -650,12 +650,19 @@
       "sid": 655,
       "label": "Write Genevieve back/read her thing",
       "uid": "SPIN_WHEEL:655"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 656,
+      "sid": 656,
+      "label": "Labels for eBay sales",
+      "uid": "SPIN_WHEEL:656"
     }
   ],
-  "version": 1587,
-  "updated": "2026-08-10T20:07:16.657966+00:00",
+  "version": 1588,
+  "updated": "2026-08-10T20:08:02.730205+00:00",
   "buckets": {
-    "SPIN_WHEEL": 41,
+    "SPIN_WHEEL": 42,
     "ZONES": 8,
     "TASKS": 17,
     "COURAGE": 3,
