@@ -643,12 +643,19 @@
       "sid": 654,
       "label": "Return for sweater",
       "uid": "SPIN_WHEEL:654"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 655,
+      "sid": 655,
+      "label": "Write Genevieve back/read her thing",
+      "uid": "SPIN_WHEEL:655"
     }
   ],
-  "version": 1586,
-  "updated": "2026-08-10T20:06:20.090769+00:00",
+  "version": 1587,
+  "updated": "2026-08-10T20:07:16.657966+00:00",
   "buckets": {
-    "SPIN_WHEEL": 40,
+    "SPIN_WHEEL": 41,
     "ZONES": 8,
     "TASKS": 17,
     "COURAGE": 3,
