@@ -2,6 +2,14 @@
   "completions": [
     {
       "source": "TASKS",
+      "id": 11797,
+      "row": 278,
+      "label": "✨ Cancel ultraviner $15/month if not using",
+      "uid": "TASKS:11797",
+      "_ts": "2026-08-10T20:39:00.368Z"
+    },
+    {
+      "source": "TASKS",
       "id": 11872,
       "row": 314,
       "label": "💸 Clip & pot new Hoya starts 🪴🌱",
@@ -15,12 +23,21 @@
       "label": "✨ Clear the upstairs trashes",
       "uid": "TASKS:11922",
       "_ts": "2026-08-10T20:39:16.618Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 84,
+      "zid": 82,
+      "floor": "Personal",
+      "label": "👱‍♀️ Dermaplane",
+      "uid": "ZONES:82",
+      "_ts": "2026-08-10T20:39:25.675Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-10T20:39:19.307Z",
+  "mirroredAt": "2026-08-10T20:39:26.019Z",
   "counts": {
-    "completions": 2,
+    "completions": 4,
     "adds": 0
   }
 }
