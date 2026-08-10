@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 35,
+      "label": "Pillowcase returns, candle return",
+      "uid": "SPIN:573",
+      "_ts": "2026-08-10T04:29:25.677Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-10T04:25:35.267Z",
+  "mirroredAt": "2026-08-10T04:29:25.918Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-10T04:25:36.165643+00:00",
-  "lastAutoProcessed": [
-    "ZONES:60",
-    "TASKS:11887"
-  ]
+  }
 }
