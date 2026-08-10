@@ -784,19 +784,6 @@
       "uid": "TASKS:10117"
     },
     {
-      "source": "TASKS",
-      "id": 10196,
-      "label": "Research paying tuition through a trust to save on taxes \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10196"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 649,
       "sid": 649,
@@ -911,10 +898,23 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:11808"
+    },
+    {
+      "source": "TASKS",
+      "id": 11865,
+      "label": "\u2728 Review Pura schedules, adjust/turn off where not needed",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11865"
     }
   ],
-  "version": 1565,
-  "updated": "2026-08-10T04:56:23.137793+00:00",
+  "version": 1566,
+  "updated": "2026-08-10T04:56:57.228520+00:00",
   "buckets": {
     "SPIN_WHEEL": 78,
     "TASKS": 17,
