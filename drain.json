@@ -1,9 +1,27 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 61,
+      "zid": 60,
+      "floor": "Digital",
+      "label": "💻 Photos",
+      "uid": "ZONES:60",
+      "_ts": "2026-08-10T04:24:19.217Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11887,
+      "row": 335,
+      "label": "✨ Mow the lawn 🌱",
+      "uid": "TASKS:11887",
+      "_ts": "2026-08-10T04:25:08.421Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-10T04:24:36.039Z",
+  "mirroredAt": "2026-08-10T04:25:08.648Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
   }
 }
