@@ -544,15 +544,6 @@
       "uid": "TASKS:10505"
     },
     {
-      "source": "ZONES",
-      "zid": 84,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Hand Care & Mani",
-      "uid": "ZONES:84"
-    },
-    {
       "source": "TASKS",
       "id": 11619,
       "label": "Find kids a cool physics simulator game / way to learn mass & density \u269b\ufe0f\ud83c\udfae \ud83c\udfaf First step: search 'mass density simulation game kids'",
@@ -665,10 +656,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11909"
+    },
+    {
+      "source": "ZONES",
+      "zid": 86,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Epilate Legs",
+      "uid": "ZONES:86"
     }
   ],
-  "version": 1596,
-  "updated": "2026-08-10T23:14:02.339484+00:00",
+  "version": 1597,
+  "updated": "2026-08-10T23:14:26.184096+00:00",
   "buckets": {
     "SPIN_WHEEL": 44,
     "TASKS": 17,
