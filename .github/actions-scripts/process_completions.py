@@ -99,11 +99,36 @@ def _nth_weekday_of_month(year, month, n, weekday_idx):
 
 
 def compute_next(rec_type, rec_value, completion_date, current_start, current_due):
-    """Compute the next occurrence date. Returns datetime or None if non-recurring.
+    """Compute the next occurrence, GUARDED so a recurring task can never
+    regenerate onto its own completion day (or earlier). Delegates the actual
+    per-type math to _compute_next_raw, then clamps the result forward.
 
-    completion_date: the Alaska stamp date of THIS completion.
-    current_start / current_due: the task's existing Start/Due (datetimes or None).
+    Why the clamp: most types compute from completion_date + an interval and are
+    naturally future, but Monthly Nth-weekday, an off-by-one in any type, or a
+    future-added recurrence type could land on/before the completion date — which
+    would make the task instantly re-appear "due today" after you just did it
+    (the exact bug we kept hitting by hand). This makes "next instance is always
+    strictly after the completion day" a structural guarantee, not a per-branch hope.
     """
+    nxt = _compute_next_raw(rec_type, rec_value, completion_date, current_start, current_due)
+    if nxt is None:
+        return None
+    # Floor the next occurrence strictly after the completion day AND after the
+    # task's current Start (so completing early doesn't rewind it either).
+    floor = completion_date
+    if current_start is not None and hasattr(current_start, "year"):
+        if current_start > floor:
+            floor = current_start
+    # Roll forward in whole days until strictly past the floor. Cheap, type-agnostic.
+    guard = 0
+    while nxt <= floor and guard < 400:
+        nxt = nxt + timedelta(days=1)
+        guard += 1
+    return nxt
+
+
+def _compute_next_raw(rec_type, rec_value, completion_date, current_start, current_due):
+    """Raw per-type next-occurrence math (unguarded). Call compute_next instead."""
     if rec_type is None:
         return None
     t = str(rec_type).strip().lower()
