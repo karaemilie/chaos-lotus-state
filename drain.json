@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11853,
+      "row": 311,
+      "label": "💸 Spend time on flower bouquet coding project",
+      "uid": "TASKS:11853",
+      "_ts": "2026-08-10T04:56:06.459Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 10196,
+      "label": "Research paying tuition through a trust to save on taxes 📝",
+      "uid": "TASKS:10196",
+      "_ts": "2026-08-10T04:56:28.961Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-10T04:56:25.643Z",
+  "mirroredAt": "2026-08-10T04:56:29.188Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-08-10T04:56:26.597135+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11853"
-  ]
+  }
 }
