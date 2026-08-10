@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-10T20:06:18.659Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Return for sweater",
+      "_addedAt": "2026-08-10T20:06:01.396Z",
+      "_ts": "2026-08-10T20:06:01.664Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Write Genevieve back/read her thing",
+      "_addedAt": "2026-08-10T20:06:51.184Z",
+      "_ts": "2026-08-10T20:06:51.455Z"
+    }
+  ],
+  "mirroredAt": "2026-08-10T20:06:51.769Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
