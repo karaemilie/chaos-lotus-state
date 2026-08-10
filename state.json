@@ -300,20 +300,6 @@
       "uid": "ZONES:29"
     },
     {
-      "source": "TASKS",
-      "id": 11797,
-      "row": 278,
-      "label": "\u2728 Cancel ultraviner $15/month if not using",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11797"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 89,
       "row": 2,
@@ -657,10 +643,23 @@
       "sid": 656,
       "label": "Labels for eBay sales",
       "uid": "SPIN_WHEEL:656"
+    },
+    {
+      "source": "TASKS",
+      "id": 10505,
+      "label": "Bank run",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10505"
     }
   ],
-  "version": 1588,
-  "updated": "2026-08-10T20:08:02.730205+00:00",
+  "version": 1589,
+  "updated": "2026-08-10T20:39:16.894825+00:00",
   "buckets": {
     "SPIN_WHEEL": 42,
     "ZONES": 8,
