@@ -514,20 +514,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11474,
-      "row": 198,
-      "label": "\u2728 Check for South weekly schedule adjustments",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11474"
-    },
-    {
-      "source": "TASKS",
       "id": 11852,
       "row": 304,
       "label": "\u2728 Check if Mizuno GX Sonic 6 CR is back in stock (blue, size 24)",
@@ -657,10 +643,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11895"
+    },
+    {
+      "source": "TASKS",
+      "id": 10506,
+      "label": "Check out Dr Robin again",
+      "aw": 7,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:10506"
     }
   ],
-  "version": 1590,
-  "updated": "2026-08-10T20:39:57.379528+00:00",
+  "version": 1591,
+  "updated": "2026-08-10T20:40:54.748324+00:00",
   "buckets": {
     "SPIN_WHEEL": 42,
     "ZONES": 8,
