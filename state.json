@@ -518,13 +518,6 @@
       "uid": "ZONES:75"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 633,
-      "row": 66,
-      "label": "List chalk dust math",
-      "uid": "SPIN:633"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 94,
       "row": 95,
@@ -805,13 +798,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 629,
-      "row": 62,
-      "label": "Send ER bill to Karen",
-      "uid": "SPIN:629"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 648,
       "sid": 648,
       "label": "Rug pad for smaller rug",
@@ -927,11 +913,11 @@
       "uid": "ZONES:66"
     }
   ],
-  "version": 1558,
-  "updated": "2026-08-10T04:23:12.085178+00:00",
+  "version": 1559,
+  "updated": "2026-08-10T04:23:47.778072+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 78,
     "ZONES": 9,
     "COURAGE": 3,
     "MAINTENANCE": 2
