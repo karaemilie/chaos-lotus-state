@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 63,
+      "label": "Price cheapest way to ship 4 lb book",
+      "uid": "SPIN:630",
+      "_ts": "2026-08-10T04:22:50.482Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-09T04:06:35.856Z",
+  "mirroredAt": "2026-08-10T04:22:50.748Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-09T04:06:38.176661+00:00",
-  "lastAutoProcessed": [
-    "ZONES:65"
-  ]
+  }
 }
