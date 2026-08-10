@@ -1,16 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11474,
+      "row": 198,
+      "label": "✨ Check for South weekly schedule adjustments",
+      "uid": "TASKS:11474",
+      "_ts": "2026-08-10T20:40:41.009Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-10T20:39:59.781Z",
+  "mirroredAt": "2026-08-10T20:40:41.255Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-10T20:40:00.734863+00:00",
-  "lastAutoProcessed": [
-    "ZONES:82",
-    "TASKS:11797",
-    "TASKS:11872",
-    "TASKS:11922"
-  ]
+  }
 }
