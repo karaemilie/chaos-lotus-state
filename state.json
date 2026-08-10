@@ -243,34 +243,6 @@
       "uid": "TASKS:11865"
     },
     {
-      "source": "TASKS",
-      "id": 11904,
-      "row": 336,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11904"
-    },
-    {
-      "source": "TASKS",
-      "id": 11798,
-      "row": 279,
-      "label": "\u2728 Cancel GAlarm?",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11798"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 323,
       "row": 5,
@@ -500,20 +472,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11919,
-      "row": 348,
-      "label": "\u2728 Plan for Tim's Delta companion ticket \ud83d\udcdd",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11919"
-    },
-    {
-      "source": "TASKS",
       "id": 11852,
       "row": 304,
       "label": "\u2728 Check if Mizuno GX Sonic 6 CR is back in stock (blue, size 24)",
@@ -656,10 +614,49 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:10506"
+    },
+    {
+      "source": "TASKS",
+      "id": 11649,
+      "label": "Set up Swift Playground \ud83c\udf4e\ud83d\udcbb",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11649"
+    },
+    {
+      "source": "TASKS",
+      "id": 11769,
+      "label": "Email TreeForms \u2014 verify finish + order table stain color \ud83d\udce7\ud83e\udeb5",
+      "aw": 3,
+      "pri": 3,
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11769"
+    },
+    {
+      "source": "TASKS",
+      "id": 10240,
+      "label": "Research and pick credit card for Jake \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": "Jake Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10240"
     }
   ],
-  "version": 1591,
-  "updated": "2026-08-10T20:40:54.748324+00:00",
+  "version": 1592,
+  "updated": "2026-08-10T20:41:49.835786+00:00",
   "buckets": {
     "SPIN_WHEEL": 42,
     "ZONES": 8,
