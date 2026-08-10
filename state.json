@@ -440,20 +440,6 @@
       "uid": "SPIN:481"
     },
     {
-      "source": "TASKS",
-      "id": 11788,
-      "row": 275,
-      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11788"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 579,
       "row": 24,
@@ -665,10 +651,23 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Epilate Legs",
       "uid": "ZONES:86"
+    },
+    {
+      "source": "TASKS",
+      "id": 10020,
+      "label": "Cut sides for in-wall cabinets",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Medium",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10020"
     }
   ],
-  "version": 1597,
-  "updated": "2026-08-10T23:14:26.184096+00:00",
+  "version": 1598,
+  "updated": "2026-08-10T23:18:46.287353+00:00",
   "buckets": {
     "SPIN_WHEEL": 44,
     "TASKS": 17,
