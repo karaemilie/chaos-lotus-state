@@ -15,16 +15,6 @@
       "uid": "SPIN:572"
     },
     {
-      "source": "ZONES",
-      "zid": 83,
-      "floor": "Personal",
-      "row": 85,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Retainer",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Retainer",
-      "uid": "ZONES:83"
-    },
-    {
       "source": "TASKS",
       "id": 11216,
       "row": 176,
@@ -653,14 +643,23 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10240"
+    },
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Mask",
+      "uid": "ZONES:85"
     }
   ],
-  "version": 1592,
-  "updated": "2026-08-10T20:41:49.835786+00:00",
+  "version": 1593,
+  "updated": "2026-08-10T20:42:37.845945+00:00",
   "buckets": {
     "SPIN_WHEEL": 42,
-    "ZONES": 8,
     "TASKS": 17,
+    "ZONES": 8,
     "COURAGE": 3,
     "MAINTENANCE": 2
   }
