@@ -659,12 +659,19 @@
       "sid": 657,
       "label": "App to track kid reminders?  Hmmm",
       "uid": "SPIN_WHEEL:657"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 658,
+      "sid": 658,
+      "label": "Bring up black tape for deck box",
+      "uid": "SPIN_WHEEL:658"
     }
   ],
-  "version": 1594,
-  "updated": "2026-08-10T21:20:25.225623+00:00",
+  "version": 1595,
+  "updated": "2026-08-10T22:48:32.832712+00:00",
   "buckets": {
-    "SPIN_WHEEL": 43,
+    "SPIN_WHEEL": 44,
     "TASKS": 17,
     "ZONES": 8,
     "COURAGE": 3,
