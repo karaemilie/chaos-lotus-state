@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-10T04:56:59.388Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Review my clock design options",
+      "_addedAt": "2026-08-10T05:39:59.008Z",
+      "_ts": "2026-08-10T05:39:59.245Z"
+    }
+  ],
+  "mirroredAt": "2026-08-10T05:39:59.495Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-10T04:57:00.345868+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11853",
-    "TASKS:10196"
-  ]
+    "adds": 1
+  }
 }
