@@ -395,20 +395,6 @@
       "uid": "SPIN:505"
     },
     {
-      "source": "TASKS",
-      "id": 11930,
-      "row": 359,
-      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11930"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 527,
       "row": 17,
@@ -445,20 +431,6 @@
       "row": 24,
       "label": "Try free NFC app",
       "uid": "SPIN:579"
-    },
-    {
-      "source": "TASKS",
-      "id": 11778,
-      "row": 273,
-      "label": "\u2728 Update Pura subscriptions",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11778"
     },
     {
       "source": "TASKS",
@@ -664,10 +636,36 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10020"
+    },
+    {
+      "source": "TASKS",
+      "id": 10615,
+      "label": "Find replacement strings for the harp (missing 2) \ud83c\udfb5 \ud83d\udcdd",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10615"
+    },
+    {
+      "source": "TASKS",
+      "id": 11889,
+      "label": "Add seminary to the calendar \ud83d\udcc5",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:11889"
     }
   ],
-  "version": 1598,
-  "updated": "2026-08-10T23:18:46.287353+00:00",
+  "version": 1599,
+  "updated": "2026-08-10T23:19:31.547239+00:00",
   "buckets": {
     "SPIN_WHEEL": 44,
     "TASKS": 17,
