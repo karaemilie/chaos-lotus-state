@@ -99,20 +99,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11887,
-      "row": 335,
-      "label": "\u2728 Mow the lawn \ud83c\udf31",
-      "aw": 3,
-      "pri": 3,
-      "dur": 45,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11887"
-    },
-    {
-      "source": "TASKS",
       "id": 11780,
       "row": 277,
       "label": "\u2728 Grab the gold candles and charge them \ud83d\udd6f\ufe0f",
@@ -917,10 +903,23 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Quicken",
       "uid": "ZONES:67"
+    },
+    {
+      "source": "TASKS",
+      "id": 11872,
+      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11872"
     }
   ],
-  "version": 1561,
-  "updated": "2026-08-10T04:24:34.826196+00:00",
+  "version": 1562,
+  "updated": "2026-08-10T04:25:32.334361+00:00",
   "buckets": {
     "TASKS": 17,
     "SPIN_WHEEL": 79,
