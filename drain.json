@@ -1,9 +1,26 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-10T04:23:48.790Z",
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 61,
+      "zid": 60,
+      "floor": "Digital",
+      "label": "💻 Photos",
+      "uid": "ZONES:60",
+      "_ts": "2026-08-10T04:24:19.217Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "List three more items **",
+      "_addedAt": "2026-08-10T04:23:26.325Z",
+      "_ts": "2026-08-10T04:23:26.562Z"
+    }
+  ],
+  "mirroredAt": "2026-08-10T04:24:19.425Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
