@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-10T05:45:20.319Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Return for sweater",
+      "_addedAt": "2026-08-10T20:06:01.396Z",
+      "_ts": "2026-08-10T20:06:01.664Z"
+    }
+  ],
+  "mirroredAt": "2026-08-10T20:06:01.919Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-10T05:45:21.271342+00:00",
-  "lastAutoProcessed": [
-    "SPIN:509"
-  ]
+    "adds": 1
+  }
 }
