@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-11T01:17:27.143Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find cheapest JetAlert",
+      "_addedAt": "2026-08-11T01:34:08.668Z",
+      "_ts": "2026-08-11T01:34:08.778Z"
+    }
+  ],
+  "mirroredAt": "2026-08-11T01:34:09.002Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
