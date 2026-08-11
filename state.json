@@ -326,13 +326,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 619,
-      "row": 35,
-      "label": "Cancel Drama box",
-      "uid": "SPIN:619"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 346,
       "row": 8,
       "label": "Finish last three bathroom knobs **",
@@ -669,10 +662,10 @@
       "uid": "MAINTENANCE:95"
     }
   ],
-  "version": 1610,
-  "updated": "2026-08-11T04:00:13.246224+00:00",
+  "version": 1611,
+  "updated": "2026-08-11T04:58:57.803940+00:00",
   "buckets": {
-    "SPIN_WHEEL": 45,
+    "SPIN_WHEEL": 44,
     "TASKS": 17,
     "ZONES": 8,
     "COURAGE": 3,
