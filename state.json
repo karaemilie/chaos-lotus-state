@@ -240,18 +240,6 @@
       "uid": "SPIN:323"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11877,
-      "parentRow": 318,
-      "parentLabel": "Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-07-28",
-      "label": "\ud83d\udd25 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11877:0"
-    },
-    {
       "source": "ZONES",
       "zid": 29,
       "floor": "Main Floor",
@@ -662,10 +650,21 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Eyebrows",
       "uid": "ZONES:87"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11795,
+      "stepIndex": 0,
+      "parentLabel": "Call Rhode Island for B \u26a1",
+      "aw": 2,
+      "due": null,
+      "label": "\ud83d\udd25 Call Rhode Island for B \u26a1",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11795:0"
     }
   ],
-  "version": 1602,
-  "updated": "2026-08-11T00:24:57.063743+00:00",
+  "version": 1603,
+  "updated": "2026-08-11T00:31:32.213512+00:00",
   "buckets": {
     "SPIN_WHEEL": 44,
     "TASKS": 17,
