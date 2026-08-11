@@ -8,12 +8,20 @@
       "label": "🌱 Main floor Down Low",
       "uid": "ZONES:75",
       "_ts": "2026-08-11T08:30:42.476Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11808,
+      "row": 282,
+      "label": "✨ Monthly pill box fill time",
+      "uid": "TASKS:11808",
+      "_ts": "2026-08-11T08:30:52.490Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-11T08:30:42.688Z",
+  "mirroredAt": "2026-08-11T08:30:52.760Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
