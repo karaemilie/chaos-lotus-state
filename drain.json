@@ -7,12 +7,19 @@
       "label": "✨ Grab the gold candles and charge them 🕯️",
       "uid": "TASKS:11780",
       "_ts": "2026-08-11T23:00:33.314Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 659,
+      "label": "Finish packing candle, schedule pickup",
+      "uid": "SPIN_WHEEL:659",
+      "_ts": "2026-08-11T23:00:38.550Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-11T23:00:33.542Z",
+  "mirroredAt": "2026-08-11T23:00:38.785Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
