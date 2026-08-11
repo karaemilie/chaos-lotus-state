@@ -616,15 +616,6 @@
       "uid": "TASKS:11909"
     },
     {
-      "source": "ZONES",
-      "zid": 86,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Epilate Legs",
-      "uid": "ZONES:86"
-    },
-    {
       "source": "TASKS",
       "id": 10020,
       "label": "Cut sides for in-wall cabinets",
@@ -662,10 +653,19 @@
       "cat": "Family/Education",
       "critical": false,
       "uid": "TASKS:11889"
+    },
+    {
+      "source": "ZONES",
+      "zid": 87,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Eyebrows",
+      "uid": "ZONES:87"
     }
   ],
-  "version": 1601,
-  "updated": "2026-08-11T00:24:05.671400+00:00",
+  "version": 1602,
+  "updated": "2026-08-11T00:24:57.063743+00:00",
   "buckets": {
     "SPIN_WHEEL": 44,
     "TASKS": 17,
