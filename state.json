@@ -93,13 +93,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 604,
-      "row": 31,
-      "label": "Pack / ship candles back",
-      "uid": "SPIN:604"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 486,
       "row": 13,
       "label": "Next step mirror thread",
@@ -670,10 +663,10 @@
       "uid": "SPIN_WHEEL:659"
     }
   ],
-  "version": 1604,
-  "updated": "2026-08-11T01:14:43.857389+00:00",
+  "version": 1605,
+  "updated": "2026-08-11T01:15:39.046449+00:00",
   "buckets": {
-    "SPIN_WHEEL": 45,
+    "SPIN_WHEEL": 44,
     "TASKS": 17,
     "ZONES": 8,
     "COURAGE": 3,
