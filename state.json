@@ -61,20 +61,6 @@
       "uid": "SPIN:253"
     },
     {
-      "source": "TASKS",
-      "id": 11780,
-      "row": 274,
-      "label": "\u2728 Grab the gold candles and charge them \ud83d\udd6f\ufe0f",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11780"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 651,
       "row": 39,
@@ -665,10 +651,23 @@
       "sid": 663,
       "label": "Send the three transcripts",
       "uid": "SPIN_WHEEL:663"
+    },
+    {
+      "source": "TASKS",
+      "id": 10167,
+      "label": "\u2728 Clean filters in NuWave air purifier \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10167"
     }
   ],
-  "version": 1616,
-  "updated": "2026-08-11T20:15:47.721638+00:00",
+  "version": 1617,
+  "updated": "2026-08-11T23:00:46.133764+00:00",
   "buckets": {
     "SPIN_WHEEL": 45,
     "TASKS": 17,
