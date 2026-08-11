@@ -1,8 +1,13 @@
 {
-  "lastRun": "2026-08-11T00:31:35.900554+00:00",
-  "lastRunAlaska": "2026-08-10 16:31 AKDT",
+  "lastRun": "2026-08-11T01:15:41.041090+00:00",
+  "lastRunAlaska": "2026-08-10 17:15 AKDT",
   "processedCount": 1,
-  "processed": [],
+  "processed": [
+    {
+      "uid": "SPIN:604",
+      "result": "\u2705 SPIN deleted SID 604 ('Pack / ship candles back')"
+    }
+  ],
   "remainingForClaude": {
     "completions": 0,
     "adds": 0
