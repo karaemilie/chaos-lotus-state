@@ -662,12 +662,19 @@
       "cat": "Family/Education",
       "critical": false,
       "uid": "TASKS:11889"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 659,
+      "sid": 659,
+      "label": "List Algebra set",
+      "uid": "SPIN_WHEEL:659"
     }
   ],
-  "version": 1599,
-  "updated": "2026-08-10T23:19:31.547239+00:00",
+  "version": 1600,
+  "updated": "2026-08-11T00:16:51.676375+00:00",
   "buckets": {
-    "SPIN_WHEEL": 44,
+    "SPIN_WHEEL": 45,
     "TASKS": 17,
     "ZONES": 8,
     "COURAGE": 3,
