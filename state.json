@@ -416,13 +416,6 @@
       "uid": "SPIN_WHEEL:655"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 656,
-      "sid": 656,
-      "label": "Labels for eBay sales",
-      "uid": "SPIN_WHEEL:656"
-    },
-    {
       "source": "TASKS",
       "id": 10505,
       "label": "Bank run",
@@ -660,10 +653,10 @@
       "uid": "TASKS:10023"
     }
   ],
-  "version": 1613,
-  "updated": "2026-08-11T08:31:43.230793+00:00",
+  "version": 1614,
+  "updated": "2026-08-11T08:34:02.542897+00:00",
   "buckets": {
-    "SPIN_WHEEL": 44,
+    "SPIN_WHEEL": 43,
     "TASKS": 17,
     "ZONES": 8,
     "COURAGE": 3,
