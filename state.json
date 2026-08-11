@@ -25,16 +25,6 @@
       "uid": "TASKS:11216"
     },
     {
-      "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "row": 77,
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 333,
       "row": 6,
@@ -660,10 +650,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Scrub my shower",
       "uid": "MAINTENANCE:95"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Hallway",
+      "uid": "ZONES:80"
     }
   ],
-  "version": 1611,
-  "updated": "2026-08-11T04:58:57.803940+00:00",
+  "version": 1612,
+  "updated": "2026-08-11T08:30:56.789960+00:00",
   "buckets": {
     "SPIN_WHEEL": 44,
     "TASKS": 17,
