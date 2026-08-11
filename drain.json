@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 35,
+      "label": "Cancel Drama box",
+      "uid": "SPIN:619",
+      "_ts": "2026-08-11T04:58:43.644Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-11T04:00:14.423Z",
+  "mirroredAt": "2026-08-11T04:58:43.946Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-11T04:00:15.462790+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:94"
-  ]
+  }
 }
