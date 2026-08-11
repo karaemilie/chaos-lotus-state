@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 95,
+      "label": "🏠 Vacuum the upstairs stairs",
+      "uid": "MAINTENANCE:94",
+      "_ts": "2026-08-11T03:59:58.515Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-11T01:34:24.634Z",
+  "mirroredAt": "2026-08-11T03:59:58.720Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
