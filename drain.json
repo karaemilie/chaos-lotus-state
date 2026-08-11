@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 656,
+      "label": "Labels for eBay sales",
+      "uid": "SPIN_WHEEL:656",
+      "_ts": "2026-08-11T08:33:51.038Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-11T08:31:45.629Z",
+  "mirroredAt": "2026-08-11T08:33:51.446Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-11T08:31:46.591283+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11808"
-  ]
+  }
 }
