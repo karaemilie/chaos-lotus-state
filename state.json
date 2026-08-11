@@ -308,15 +308,6 @@
       "uid": "SPIN:653"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 94,
-      "row": 95,
-      "label": "\ud83c\udfe0 Vacuum the upstairs stairs",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Vacuum the upstairs stairs",
-      "uid": "MAINTENANCE:94"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 614,
       "row": 34,
@@ -668,10 +659,18 @@
       "sid": 661,
       "label": "Find cheapest JetAlert",
       "uid": "SPIN_WHEEL:661"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 95,
+      "label": "\ud83c\udfe0 Scrub my shower",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Scrub my shower",
+      "uid": "MAINTENANCE:95"
     }
   ],
-  "version": 1609,
-  "updated": "2026-08-11T01:34:25.672728+00:00",
+  "version": 1610,
+  "updated": "2026-08-11T04:00:13.246224+00:00",
   "buckets": {
     "SPIN_WHEEL": 45,
     "TASKS": 17,
