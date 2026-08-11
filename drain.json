@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-11T01:15:40.135Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 31,
+      "label": "Pack / ship candles back",
+      "uid": "SPIN:604",
+      "_ts": "2026-08-11T01:14:29.369Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Try new drill upstairs!",
+      "_addedAt": "2026-08-11T01:16:05.001Z",
+      "_ts": "2026-08-11T01:16:05.130Z"
+    }
+  ],
+  "mirroredAt": "2026-08-11T01:16:05.384Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-11T01:15:41.040875+00:00",
-  "lastAutoProcessed": [
-    "SPIN:604"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
