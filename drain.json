@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "COURAGE",
+      "parentId": 11877,
+      "stepIndex": 0,
+      "label": "🔥 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) 🧼",
+      "uid": "COURAGE:11877:0",
+      "_ts": "2026-08-11T00:31:19.594Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-11T00:24:58.145Z",
+  "mirroredAt": "2026-08-11T00:31:20.017Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-11T00:24:59.168863+00:00",
-  "lastAutoProcessed": [
-    "ZONES:86"
-  ]
+  }
 }
