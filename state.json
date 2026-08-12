@@ -194,13 +194,6 @@
       "uid": "SPIN:647"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 655,
-      "row": 37,
-      "label": "Write Genevieve back/read her thing",
-      "uid": "SPIN:655"
-    },
-    {
       "source": "TASKS",
       "id": 11956,
       "row": 361,
@@ -697,11 +690,11 @@
       "uid": "TASKS:11795"
     }
   ],
-  "version": 1634,
-  "updated": "2026-08-12T09:10:23.659714+00:00",
+  "version": 1635,
+  "updated": "2026-08-12T09:11:22.897575+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 46,
+    "SPIN_WHEEL": 45,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3
