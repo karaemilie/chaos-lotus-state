@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-12T22:36:59.921Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "List more books",
+      "_addedAt": "2026-08-12T22:51:12.898Z",
+      "_ts": "2026-08-12T22:51:13.035Z"
+    }
+  ],
+  "mirroredAt": "2026-08-12T22:51:13.328Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
