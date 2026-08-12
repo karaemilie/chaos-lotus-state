@@ -284,16 +284,6 @@
       "uid": "SPIN:323"
     },
     {
-      "source": "ZONES",
-      "zid": 66,
-      "floor": "Digital",
-      "row": 67,
-      "label": "\ud83d\udcbb Due",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Due",
-      "uid": "ZONES:66"
-    },
-    {
       "source": "TASKS",
       "id": 11421,
       "row": 193,
@@ -681,10 +671,19 @@
       "sid": 671,
       "label": "Get roborock mower removed from Vine",
       "uid": "SPIN_WHEEL:671"
+    },
+    {
+      "source": "ZONES",
+      "zid": 68,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Photos",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Photos",
+      "uid": "ZONES:68"
     }
   ],
-  "version": 1638,
-  "updated": "2026-08-12T09:17:30.391115+00:00",
+  "version": 1639,
+  "updated": "2026-08-12T09:18:38.511086+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 44,
