@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 2,
+      "label": "Pull old weed spreader out of shed",
+      "uid": "SPIN:89",
+      "_ts": "2026-08-12T02:07:19.167Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-12T01:19:47.043Z",
+  "mirroredAt": "2026-08-12T02:07:19.500Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
