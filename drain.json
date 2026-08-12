@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-12T06:48:49.957Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Eye dr bill",
+      "_addedAt": "2026-08-12T08:16:36.427Z",
+      "_ts": "2026-08-12T08:16:36.630Z"
+    }
+  ],
+  "mirroredAt": "2026-08-12T08:16:36.895Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-12T06:48:50.798698+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:662"
-  ]
+    "adds": 1
+  }
 }
