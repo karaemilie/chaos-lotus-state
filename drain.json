@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 21,
+      "label": "Name of comedian SAT prep",
+      "uid": "SPIN:571",
+      "_ts": "2026-08-12T06:32:02.905Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-08-12T06:32:01.303Z"
     }
   ],
-  "mirroredAt": "2026-08-12T06:32:01.514Z",
+  "mirroredAt": "2026-08-12T06:32:03.130Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
