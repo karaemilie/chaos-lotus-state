@@ -1,15 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 41,
+      "label": "Find cheapest JetAlert",
+      "uid": "SPIN:661",
+      "_ts": "2026-08-12T09:14:51.972Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-12T09:11:45.586Z",
+  "mirroredAt": "2026-08-12T09:14:52.201Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-12T09:11:46.548277+00:00",
-  "lastAutoProcessed": [
-    "SPIN:588",
-    "SPIN:655",
-    "SPIN:668"
-  ]
+  }
 }
