@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-12T02:07:32.229Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Track down twins transcripts",
+      "_addedAt": "2026-08-12T05:57:16.938Z",
+      "_ts": "2026-08-12T05:57:17.057Z"
+    }
+  ],
+  "mirroredAt": "2026-08-12T05:57:17.283Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-12T02:07:32.917409+00:00",
-  "lastAutoProcessed": [
-    "SPIN:89"
-  ]
+    "adds": 1
+  }
 }
