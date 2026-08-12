@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 24,
+      "label": "Contact Brian about coaching",
+      "uid": "SPIN:588",
+      "_ts": "2026-08-12T09:10:06.663Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-12T09:09:20.836Z",
+  "mirroredAt": "2026-08-12T09:10:06.862Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-12T09:09:21.912090+00:00",
-  "lastAutoProcessed": [
-    "SPIN:664"
-  ]
+  }
 }
