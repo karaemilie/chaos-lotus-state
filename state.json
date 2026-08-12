@@ -619,13 +619,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 662,
-      "sid": 662,
-      "label": "Finish plant orde",
-      "uid": "SPIN_WHEEL:662"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 663,
       "sid": 663,
       "label": "Send the three transcripts",
@@ -680,10 +673,10 @@
       "uid": "SPIN_WHEEL:668"
     }
   ],
-  "version": 1625,
-  "updated": "2026-08-12T06:47:59.040073+00:00",
+  "version": 1626,
+  "updated": "2026-08-12T06:48:48.686535+00:00",
   "buckets": {
-    "SPIN_WHEEL": 47,
+    "SPIN_WHEEL": 46,
     "TASKS": 17,
     "ZONES": 8,
     "COURAGE": 3,
