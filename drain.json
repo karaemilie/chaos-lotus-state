@@ -1,14 +1,31 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 24,
+      "label": "Contact Brian about coaching",
+      "uid": "SPIN:588",
+      "_ts": "2026-08-12T09:10:06.663Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 37,
+      "label": "Write Genevieve back/read her thing",
+      "uid": "SPIN:655",
+      "_ts": "2026-08-12T09:11:01.442Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 46,
+      "label": "Write Mera back",
+      "uid": "SPIN:668",
+      "_ts": "2026-08-12T09:11:28.872Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-12T09:11:01.657Z",
+  "mirroredAt": "2026-08-12T09:11:29.111Z",
   "counts": {
-    "completions": 2,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-08-12T09:11:24.446830+00:00",
-  "lastAutoProcessed": [
-    "SPIN:588",
-    "SPIN:655"
-  ]
+  }
 }
