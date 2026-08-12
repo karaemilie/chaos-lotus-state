@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-11T23:18:33.609Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pay Bentley bill",
+      "_addedAt": "2026-08-12T01:19:26.548Z",
+      "_ts": "2026-08-12T01:19:26.680Z"
+    }
+  ],
+  "mirroredAt": "2026-08-12T01:19:26.937Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
