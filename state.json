@@ -708,13 +708,20 @@
       "sid": 675,
       "label": "Finish Pura order",
       "uid": "SPIN_WHEEL:675"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 676,
+      "sid": 676,
+      "label": "Finish wrapping deck chair",
+      "uid": "SPIN_WHEEL:676"
     }
   ],
-  "version": 1642,
-  "updated": "2026-08-12T18:54:05.192476+00:00",
+  "version": 1643,
+  "updated": "2026-08-12T22:37:00.944907+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 48,
+    "SPIN_WHEEL": 49,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3
