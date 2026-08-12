@@ -206,13 +206,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 89,
-      "row": 2,
-      "label": "Pull old weed spreader out of shed",
-      "uid": "SPIN:89"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 613,
       "row": 33,
       "label": "Pursteam refund",
@@ -666,10 +659,10 @@
       "uid": "SPIN_WHEEL:664"
     }
   ],
-  "version": 1619,
-  "updated": "2026-08-12T01:19:48.268497+00:00",
+  "version": 1620,
+  "updated": "2026-08-12T02:07:31.234687+00:00",
   "buckets": {
-    "SPIN_WHEEL": 45,
+    "SPIN_WHEEL": 44,
     "TASKS": 17,
     "ZONES": 8,
     "COURAGE": 3,
