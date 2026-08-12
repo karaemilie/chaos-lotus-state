@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 24,
+      "label": "Contact Brian about coaching",
+      "uid": "SPIN:588",
+      "_ts": "2026-08-12T09:10:06.663Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 37,
+      "label": "Write Genevieve back/read her thing",
+      "uid": "SPIN:655",
+      "_ts": "2026-08-12T09:11:01.442Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-12T09:10:25.247Z",
+  "mirroredAt": "2026-08-12T09:11:01.657Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-08-12T09:10:26.154580+00:00",
-  "lastAutoProcessed": [
-    "SPIN:588"
-  ]
+  }
 }
