@@ -639,13 +639,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 668,
-      "row": 46,
-      "label": "Write Mera back",
-      "uid": "SPIN:668"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 555,
       "row": 18,
       "label": "Install tile",
@@ -690,11 +683,11 @@
       "uid": "TASKS:11795"
     }
   ],
-  "version": 1635,
-  "updated": "2026-08-12T09:11:22.897575+00:00",
+  "version": 1636,
+  "updated": "2026-08-12T09:11:44.504829+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 45,
+    "SPIN_WHEEL": 44,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3
