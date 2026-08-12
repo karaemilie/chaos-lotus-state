@@ -1,9 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-12T23:08:56.049Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 42,
+      "label": "Send the three transcripts",
+      "uid": "SPIN:663",
+      "_ts": "2026-08-12T23:08:59.936Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order another pair khakis older boys",
+      "_addedAt": "2026-08-12T23:08:35.483Z",
+      "_ts": "2026-08-12T23:08:35.606Z"
+    }
+  ],
+  "mirroredAt": "2026-08-12T23:09:00.144Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
