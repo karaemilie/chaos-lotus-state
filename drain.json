@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 43,
+      "label": "Pay Bentley bill",
+      "uid": "SPIN:664",
+      "_ts": "2026-08-12T09:09:01.313Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-12T08:20:04.036Z",
+  "mirroredAt": "2026-08-12T09:09:01.605Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
