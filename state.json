@@ -674,13 +674,20 @@
       "aw": 2,
       "specialZone": "Frog",
       "uid": "TASKS:11795"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 671,
+      "sid": 671,
+      "label": "Get roborock mower removed from Vine",
+      "uid": "SPIN_WHEEL:671"
     }
   ],
-  "version": 1637,
-  "updated": "2026-08-12T09:15:05.915873+00:00",
+  "version": 1638,
+  "updated": "2026-08-12T09:17:30.391115+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 43,
+    "SPIN_WHEEL": 44,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3
