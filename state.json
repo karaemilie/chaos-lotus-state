@@ -1,716 +1,709 @@
 {
- "tasks": [
-  {
-   "source": "MAINTENANCE",
-   "mid": 95,
-   "row": 96,
-   "label": "\ud83c\udfe0 Scrub my shower",
-   "emoji": "\ud83c\udfe0",
-   "taskName": "Scrub my shower",
-   "uid": "MAINTENANCE:95"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 657,
-   "row": 38,
-   "label": "App to track kid reminders?  Hmmm",
-   "uid": "SPIN:657"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 490,
-   "row": 13,
-   "label": "Read more about paint sprayers - quickest clean??",
-   "uid": "SPIN:490"
-  },
-  {
-   "source": "TASKS",
-   "id": 10241,
-   "row": 71,
-   "label": "\u2b50 Apply for Jake's credit card \ud83d\udcdd",
-   "aw": 3,
-   "pri": "High",
-   "dur": 15,
-   "ml": "Medium",
-   "proj": "Jake Credit Card Setup",
-   "cat": "Family",
-   "critical": false,
-   "uid": "TASKS:10241"
-  },
-  {
-   "source": "MAINTENANCE",
-   "mid": 92,
-   "row": 93,
-   "label": "\ud83c\udfe0 Bleach shower curtains",
-   "emoji": "\ud83c\udfe0",
-   "taskName": "Bleach shower curtains",
-   "uid": "MAINTENANCE:92"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 534,
-   "row": 17,
-   "label": "Measure Linc for tech suit",
-   "uid": "SPIN:534"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 613,
-   "row": 29,
-   "label": "Pursteam refund",
-   "uid": "SPIN:613"
-  },
-  {
-   "source": "TASKS",
-   "id": 10202,
-   "row": 62,
-   "label": "\u2b50 Look into if life insurance policies are at end of term - convert to retain value \ud83d\udcdd",
-   "aw": 4,
-   "pri": "Soon",
-   "dur": 30,
-   "ml": "Medium",
-   "proj": null,
-   "cat": "Finance",
-   "critical": false,
-   "uid": "TASKS:10202"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 527,
-   "row": 16,
-   "label": "Inventory cursive books do we have more like Jake\u2019s \u2728",
-   "uid": "SPIN:527"
-  },
-  {
-   "source": "TASKS",
-   "id": 10788,
-   "row": 129,
-   "label": "\u2b50 Contact The Music Man about cello buybacks",
-   "aw": 3,
-   "pri": "High",
-   "dur": 5,
-   "ml": "Easy",
-   "proj": null,
-   "cat": "Family",
-   "critical": false,
-   "uid": "TASKS:10788"
-  },
-  {
-   "source": "TASKS",
-   "id": 10027,
-   "row": 8,
-   "label": "\u2b50 Design decorative door panels for wall cabinet and vanity \ud83d\udcdd",
-   "aw": 5,
-   "pri": "Soon",
-   "dur": 60,
-   "ml": "Hard",
-   "proj": "Bathroom Built-ins",
-   "cat": "Home",
-   "critical": false,
-   "uid": "TASKS:10027"
-  },
-  {
-   "source": "TASKS",
-   "id": 10089,
-   "row": 21,
-   "label": "\u2b50 Apply for Genevieve's credit card \ud83d\udcdd",
-   "aw": 3,
-   "pri": "High",
-   "dur": 15,
-   "ml": "Medium",
-   "proj": "Genevieve Credit Card Setup",
-   "cat": "Family",
-   "critical": false,
-   "uid": "TASKS:10089"
-  },
-  {
-   "source": "ZONES",
-   "zid": 29,
-   "floor": "Main Floor",
-   "row": 30,
-   "label": "\ud83e\uddfa School Room",
-   "emoji": "\ud83e\uddfa",
-   "zoneName": "School Room",
-   "uid": "ZONES:29"
-  },
-  {
-   "source": "ZONES",
-   "zid": 87,
-   "floor": "Personal",
-   "row": 89,
-   "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
-   "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-   "zoneName": "Eyebrows",
-   "uid": "ZONES:87"
-  },
-  {
-   "source": "COURAGE",
-   "parentId": 11912,
-   "parentRow": 326,
-   "parentLabel": "\ud83d\udd25 Text body shop about AC \ud83d\udcf1",
-   "stepIndex": 0,
-   "aw": 1,
-   "due": null,
-   "label": "\ud83d\udd25 \ud83d\udd25 Text body shop about AC \ud83d\udcf1",
-   "emoji": "\ud83d\udd25",
-   "uid": "COURAGE:11912:0"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 670,
-   "row": 48,
-   "label": "Research wall paper/ plan to return?",
-   "uid": "SPIN:670"
-  },
-  {
-   "source": "ZONES",
-   "zid": 49,
-   "floor": "Basement",
-   "row": 50,
-   "label": "\ud83e\uddfa Basement Foyer",
-   "emoji": "\ud83e\uddfa",
-   "zoneName": "Basement Foyer",
-   "uid": "ZONES:49"
-  },
-  {
-   "source": "TASKS",
-   "id": 10140,
-   "row": 31,
-   "label": "\u2b50 Talk to Evan about Derek Owens",
-   "aw": 4,
-   "pri": "High",
-   "dur": 10,
-   "ml": "Easy Win",
-   "proj": null,
-   "cat": "Education",
-   "critical": false,
-   "uid": "TASKS:10140"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 588,
-   "row": 24,
-   "label": "Contact Brian about coaching",
-   "uid": "SPIN:588"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 647,
-   "row": 32,
-   "label": "Tape up ceiling boards in boys room!! \ud83c\udf1f",
-   "uid": "SPIN:647"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 655,
-   "row": 37,
-   "label": "Write Genevieve back/read her thing",
-   "uid": "SPIN:655"
-  },
-  {
-   "source": "TASKS",
-   "id": 11956,
-   "row": 361,
-   "label": "\u2b50 Get canker sore supplements \ud83d\udc8a",
-   "aw": 6,
-   "pri": null,
-   "dur": null,
-   "ml": null,
-   "proj": null,
-   "cat": "Personal",
-   "critical": false,
-   "uid": "TASKS:11956"
-  },
-  {
-   "source": "ZONES",
-   "zid": 80,
-   "floor": "Plant",
-   "row": 82,
-   "label": "\ud83c\udf31 Hallway",
-   "emoji": "\ud83c\udf31",
-   "zoneName": "Hallway",
-   "uid": "ZONES:80"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 576,
-   "row": 21,
-   "label": "Pay down my AK card and transfer balance to Genevieve Embry riddle account. Pay off Gemini too somehow",
-   "uid": "SPIN:576"
-  },
-  {
-   "source": "TASKS",
-   "id": 10122,
-   "row": 28,
-   "label": "\u2b50 Get TV off school room wall",
-   "aw": 7,
-   "pri": "Soon",
-   "dur": 30,
-   "ml": "Medium",
-   "proj": "School Room Organization",
-   "cat": "Home",
-   "critical": false,
-   "uid": "TASKS:10122"
-  },
-  {
-   "source": "TASKS",
-   "id": 11769,
-   "row": 264,
-   "label": "\u2b50 Email TreeForms \u2014 verify finish + order table stain color \ud83d\udce7\ud83e\udeb5",
-   "aw": 3,
-   "pri": 3,
-   "dur": 20,
-   "ml": "Medium",
-   "proj": null,
-   "cat": "Home",
-   "critical": false,
-   "uid": "TASKS:11769"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 484,
-   "row": 11,
-   "label": "Setup email forward.net **",
-   "uid": "SPIN:484"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 572,
-   "row": 20,
-   "label": "Find/charge caulk gun",
-   "uid": "SPIN:572"
-  },
-  {
-   "source": "ZONES",
-   "zid": 79,
-   "floor": "Plant",
-   "row": 81,
-   "label": "\ud83c\udf31 Kitchen Up High",
-   "emoji": "\ud83c\udf31",
-   "zoneName": "Kitchen Up High",
-   "uid": "ZONES:79"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 323,
-   "row": 4,
-   "label": "Practice board for dominos",
-   "uid": "SPIN:323"
-  },
-  {
-   "source": "ZONES",
-   "zid": 66,
-   "floor": "Digital",
-   "row": 67,
-   "label": "\ud83d\udcbb Due",
-   "emoji": "\ud83d\udcbb",
-   "zoneName": "Due",
-   "uid": "ZONES:66"
-  },
-  {
-   "source": "TASKS",
-   "id": 11421,
-   "row": 193,
-   "label": "\u2b50 Finish fixing sand table",
-   "aw": 5,
-   "pri": null,
-   "dur": 30,
-   "ml": null,
-   "proj": null,
-   "cat": "Home",
-   "critical": false,
-   "uid": "TASKS:11421"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 667,
-   "row": 45,
-   "label": "Sign up for Prep Medians!",
-   "uid": "SPIN:667"
-  },
-  {
-   "source": "COURAGE",
-   "parentId": 10365,
-   "parentRow": 237,
-   "parentLabel": "Submit Bentley's PFD form to TCU \ud83d\udcdd",
-   "stepIndex": 0,
-   "aw": 2,
-   "due": "2026-06-24",
-   "label": "\ud83d\udd25 Submit Bentley's PFD form to TCU \ud83d\udcdd",
-   "emoji": "\ud83d\udd25",
-   "uid": "COURAGE:10365:0"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 486,
-   "row": 12,
-   "label": "Next step mirror thread",
-   "uid": "SPIN:486"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 666,
-   "row": 44,
-   "label": "Discuss commuter meal plan with Bentley",
-   "uid": "SPIN:666"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 511,
-   "row": 15,
-   "label": "Start freezer wrap!!!!",
-   "uid": "SPIN:511"
-  },
-  {
-   "source": "ZONES",
-   "zid": 67,
-   "floor": "Digital",
-   "row": 68,
-   "label": "\ud83d\udcbb Quicken",
-   "emoji": "\ud83d\udcbb",
-   "zoneName": "Quicken",
-   "uid": "ZONES:67"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 566,
-   "row": 19,
-   "label": "Run Genevieve credit cost",
-   "uid": "SPIN:566"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 669,
-   "row": 47,
-   "label": "Eye dr bill",
-   "uid": "SPIN:669"
-  },
-  {
-   "source": "TASKS",
-   "id": 11553,
-   "row": 213,
-   "label": "\u2728 Clean the icemaker \ud83d\udcdd",
-   "aw": 4,
-   "pri": "Soon",
-   "dur": 20,
-   "ml": "Easy Win",
-   "proj": null,
-   "cat": "Home",
-   "critical": false,
-   "uid": "TASKS:11553"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 609,
-   "row": 28,
-   "label": "Write Ted",
-   "uid": "SPIN:609"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 589,
-   "row": 25,
-   "label": "Swap chair and piano in music room!",
-   "uid": "SPIN:589"
-  },
-  {
-   "source": "TASKS",
-   "id": 10088,
-   "row": 20,
-   "label": "\u2b50 Research and pick credit card for Genevieve \ud83d\udcdd",
-   "aw": 4,
-   "pri": "High",
-   "dur": 20,
-   "ml": "Medium",
-   "proj": "Genevieve Credit Card Setup",
-   "cat": "Family",
-   "critical": false,
-   "uid": "TASKS:10088"
-  },
-  {
-   "source": "TASKS",
-   "id": 11946,
-   "row": 355,
-   "label": "\u2b50 Move quilt to right \ud83d\udecf\ufe0f",
-   "aw": 7,
-   "pri": null,
-   "dur": null,
-   "ml": null,
-   "proj": null,
-   "cat": "Home",
-   "critical": false,
-   "uid": "TASKS:11946"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 653,
-   "row": 35,
-   "label": "List three more items **",
-   "uid": "SPIN:653"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 651,
-   "row": 34,
-   "label": "Lands End shirt exchange",
-   "uid": "SPIN:651"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 661,
-   "row": 41,
-   "label": "Find cheapest JetAlert",
-   "uid": "SPIN:661"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 481,
-   "row": 10,
-   "label": "Vitamins for Linc and Evan",
-   "uid": "SPIN:481"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 660,
-   "row": 40,
-   "label": "Try new drill upstairs!",
-   "uid": "SPIN:660"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 614,
-   "row": 30,
-   "label": "More garage film work!",
-   "uid": "SPIN:614"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 601,
-   "row": 26,
-   "label": "Next NL box sort",
-   "uid": "SPIN:601"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 579,
-   "row": 22,
-   "label": "Try free NFC app",
-   "uid": "SPIN:579"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 603,
-   "row": 27,
-   "label": "Genevieve and Bentley sig pages PFD",
-   "uid": "SPIN:603"
-  },
-  {
-   "source": "COURAGE",
-   "parentId": 11216,
-   "parentRow": 174,
-   "parentLabel": "Check status of document gathering for PFDs \ud83d\udcdd",
-   "stepIndex": 0,
-   "aw": 2,
-   "due": "2026-06-24",
-   "label": "\ud83d\udd25 Check status of document gathering for PFDs \ud83d\udcdd",
-   "emoji": "\ud83d\udd25",
-   "uid": "COURAGE:11216:0"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 640,
-   "row": 31,
-   "label": "Blanket bag to Genevieve room",
-   "uid": "SPIN:640"
-  },
-  {
-   "source": "TASKS",
-   "id": 10376,
-   "row": 232,
-   "label": "\ud83d\udcb8 Research chat app opportunities in ChatGPT's new App Store \ud83d\udcdd",
-   "emoji": "\ud83d\udcb8",
-   "aw": 5,
-   "specialZone": "Business",
-   "uid": "TASKS:10376"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 281,
-   "row": 3,
-   "label": "WWAMI cost research",
-   "uid": "SPIN:281"
-  },
-  {
-   "source": "TASKS",
-   "id": 11708,
-   "row": 245,
-   "label": "\u2b50 Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
-   "aw": 4,
-   "pri": null,
-   "dur": null,
-   "ml": null,
-   "proj": null,
-   "cat": "Kids",
-   "critical": false,
-   "uid": "TASKS:11708"
-  },
-  {
-   "source": "ZONES",
-   "zid": 85,
-   "floor": "Personal",
-   "row": 87,
-   "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
-   "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-   "zoneName": "Face Mask",
-   "uid": "ZONES:85"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 581,
-   "row": 23,
-   "label": "Take down dress shoes in closet",
-   "uid": "SPIN:581"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 665,
-   "row": 43,
-   "label": "Track down twins transcripts",
-   "uid": "SPIN:665"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 663,
-   "row": 42,
-   "label": "Send the three transcripts",
-   "uid": "SPIN:663"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 658,
-   "row": 39,
-   "label": "Bring up black tape for deck box",
-   "uid": "SPIN:658"
-  },
-  {
-   "source": "TASKS",
-   "id": 11925,
-   "row": 335,
-   "label": "\u2b50 Check if dryland is scheduled for HS swim season yet \ud83c\udfca\u200d\u2642\ufe0f\ud83d\udcc5",
-   "aw": 4,
-   "pri": null,
-   "dur": null,
-   "ml": null,
-   "proj": null,
-   "cat": "Family/Education",
-   "critical": false,
-   "uid": "TASKS:11925"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 253,
-   "row": 2,
-   "label": "Order Bentley a bed bric",
-   "uid": "SPIN:253"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 366,
-   "row": 8,
-   "label": "Email PFD for Bentley",
-   "uid": "SPIN:366"
-  },
-  {
-   "source": "ZONES",
-   "zid": 7,
-   "floor": "Upstairs",
-   "row": 8,
-   "label": "\ud83e\uddfa Kids Bathroom",
-   "emoji": "\ud83e\uddfa",
-   "zoneName": "Kids Bathroom",
-   "uid": "ZONES:7"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 648,
-   "row": 33,
-   "label": "Rug pad for smaller rug",
-   "uid": "SPIN:648"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 505,
-   "row": 14,
-   "label": "Compare birch pieces to diagram",
-   "uid": "SPIN:505"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 654,
-   "row": 36,
-   "label": "Return for sweater",
-   "uid": "SPIN:654"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 668,
-   "row": 46,
-   "label": "Write Mera back",
-   "uid": "SPIN:668"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 555,
-   "row": 18,
-   "label": "Install tile",
-   "uid": "SPIN:555"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 333,
-   "row": 5,
-   "label": "Submit Treeforms help request",
-   "uid": "SPIN:333"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 337,
-   "row": 6,
-   "label": "Log into Higgsfield on computer**",
-   "uid": "SPIN:337"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 346,
-   "row": 7,
-   "label": "Finish last three bathroom knobs **",
-   "uid": "SPIN:346"
-  },
-  {
-   "source": "SPIN_WHEEL",
-   "sid": 465,
-   "row": 9,
-   "label": "5 minutes in Custom Cut Software \u23f1\ufe0f",
-   "uid": "SPIN:465"
-  },
-  {
-   "source": "TASKS",
-   "id": 11795,
-   "row": 268,
-   "label": "\ud83d\udc38 Call Rhode Island for B \u26a1",
-   "emoji": "\ud83d\udc38",
-   "aw": 2,
-   "specialZone": "Frog",
-   "uid": "TASKS:11795"
+  "tasks": [
+    {
+      "source": "MAINTENANCE",
+      "mid": 95,
+      "row": 96,
+      "label": "\ud83c\udfe0 Scrub my shower",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Scrub my shower",
+      "uid": "MAINTENANCE:95"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 657,
+      "row": 38,
+      "label": "App to track kid reminders?  Hmmm",
+      "uid": "SPIN:657"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 490,
+      "row": 13,
+      "label": "Read more about paint sprayers - quickest clean??",
+      "uid": "SPIN:490"
+    },
+    {
+      "source": "TASKS",
+      "id": 10241,
+      "row": 71,
+      "label": "\u2b50 Apply for Jake's credit card \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": "Jake Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10241"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 92,
+      "row": 93,
+      "label": "\ud83c\udfe0 Bleach shower curtains",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Bleach shower curtains",
+      "uid": "MAINTENANCE:92"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 534,
+      "row": 17,
+      "label": "Measure Linc for tech suit",
+      "uid": "SPIN:534"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 613,
+      "row": 29,
+      "label": "Pursteam refund",
+      "uid": "SPIN:613"
+    },
+    {
+      "source": "TASKS",
+      "id": 10202,
+      "row": 62,
+      "label": "\u2b50 Look into if life insurance policies are at end of term - convert to retain value \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10202"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 527,
+      "row": 16,
+      "label": "Inventory cursive books do we have more like Jake\u2019s \u2728",
+      "uid": "SPIN:527"
+    },
+    {
+      "source": "TASKS",
+      "id": 10788,
+      "row": 129,
+      "label": "\u2b50 Contact The Music Man about cello buybacks",
+      "aw": 3,
+      "pri": "High",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10788"
+    },
+    {
+      "source": "TASKS",
+      "id": 10027,
+      "row": 8,
+      "label": "\u2b50 Design decorative door panels for wall cabinet and vanity \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 60,
+      "ml": "Hard",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10027"
+    },
+    {
+      "source": "TASKS",
+      "id": 10089,
+      "row": 21,
+      "label": "\u2b50 Apply for Genevieve's credit card \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": "Genevieve Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10089"
+    },
+    {
+      "source": "ZONES",
+      "zid": 29,
+      "floor": "Main Floor",
+      "row": 30,
+      "label": "\ud83e\uddfa School Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "School Room",
+      "uid": "ZONES:29"
+    },
+    {
+      "source": "ZONES",
+      "zid": 87,
+      "floor": "Personal",
+      "row": 89,
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Eyebrows",
+      "uid": "ZONES:87"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11912,
+      "parentRow": 326,
+      "parentLabel": "\ud83d\udd25 Text body shop about AC \ud83d\udcf1",
+      "stepIndex": 0,
+      "aw": 1,
+      "due": null,
+      "label": "\ud83d\udd25 \ud83d\udd25 Text body shop about AC \ud83d\udcf1",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11912:0"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 670,
+      "row": 48,
+      "label": "Research wall paper/ plan to return?",
+      "uid": "SPIN:670"
+    },
+    {
+      "source": "ZONES",
+      "zid": 49,
+      "floor": "Basement",
+      "row": 50,
+      "label": "\ud83e\uddfa Basement Foyer",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Foyer",
+      "uid": "ZONES:49"
+    },
+    {
+      "source": "TASKS",
+      "id": 10140,
+      "row": 31,
+      "label": "\u2b50 Talk to Evan about Derek Owens",
+      "aw": 4,
+      "pri": "High",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10140"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 647,
+      "row": 32,
+      "label": "Tape up ceiling boards in boys room!! \ud83c\udf1f",
+      "uid": "SPIN:647"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 655,
+      "row": 37,
+      "label": "Write Genevieve back/read her thing",
+      "uid": "SPIN:655"
+    },
+    {
+      "source": "TASKS",
+      "id": 11956,
+      "row": 361,
+      "label": "\u2b50 Get canker sore supplements \ud83d\udc8a",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11956"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "row": 82,
+      "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Hallway",
+      "uid": "ZONES:80"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 576,
+      "row": 21,
+      "label": "Pay down my AK card and transfer balance to Genevieve Embry riddle account. Pay off Gemini too somehow",
+      "uid": "SPIN:576"
+    },
+    {
+      "source": "TASKS",
+      "id": 10122,
+      "row": 28,
+      "label": "\u2b50 Get TV off school room wall",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "School Room Organization",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10122"
+    },
+    {
+      "source": "TASKS",
+      "id": 11769,
+      "row": 264,
+      "label": "\u2b50 Email TreeForms \u2014 verify finish + order table stain color \ud83d\udce7\ud83e\udeb5",
+      "aw": 3,
+      "pri": 3,
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11769"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 484,
+      "row": 11,
+      "label": "Setup email forward.net **",
+      "uid": "SPIN:484"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 572,
+      "row": 20,
+      "label": "Find/charge caulk gun",
+      "uid": "SPIN:572"
+    },
+    {
+      "source": "ZONES",
+      "zid": 79,
+      "floor": "Plant",
+      "row": 81,
+      "label": "\ud83c\udf31 Kitchen Up High",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Kitchen Up High",
+      "uid": "ZONES:79"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 323,
+      "row": 4,
+      "label": "Practice board for dominos",
+      "uid": "SPIN:323"
+    },
+    {
+      "source": "ZONES",
+      "zid": 66,
+      "floor": "Digital",
+      "row": 67,
+      "label": "\ud83d\udcbb Due",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Due",
+      "uid": "ZONES:66"
+    },
+    {
+      "source": "TASKS",
+      "id": 11421,
+      "row": 193,
+      "label": "\u2b50 Finish fixing sand table",
+      "aw": 5,
+      "pri": null,
+      "dur": 30,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11421"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 667,
+      "row": 45,
+      "label": "Sign up for Prep Medians!",
+      "uid": "SPIN:667"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 10365,
+      "parentRow": 237,
+      "parentLabel": "Submit Bentley's PFD form to TCU \ud83d\udcdd",
+      "stepIndex": 0,
+      "aw": 2,
+      "due": "2026-06-24",
+      "label": "\ud83d\udd25 Submit Bentley's PFD form to TCU \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:10365:0"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 486,
+      "row": 12,
+      "label": "Next step mirror thread",
+      "uid": "SPIN:486"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 666,
+      "row": 44,
+      "label": "Discuss commuter meal plan with Bentley",
+      "uid": "SPIN:666"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 511,
+      "row": 15,
+      "label": "Start freezer wrap!!!!",
+      "uid": "SPIN:511"
+    },
+    {
+      "source": "ZONES",
+      "zid": 67,
+      "floor": "Digital",
+      "row": 68,
+      "label": "\ud83d\udcbb Quicken",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Quicken",
+      "uid": "ZONES:67"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 566,
+      "row": 19,
+      "label": "Run Genevieve credit cost",
+      "uid": "SPIN:566"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 669,
+      "row": 47,
+      "label": "Eye dr bill",
+      "uid": "SPIN:669"
+    },
+    {
+      "source": "TASKS",
+      "id": 11553,
+      "row": 213,
+      "label": "\u2728 Clean the icemaker \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11553"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 609,
+      "row": 28,
+      "label": "Write Ted",
+      "uid": "SPIN:609"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 589,
+      "row": 25,
+      "label": "Swap chair and piano in music room!",
+      "uid": "SPIN:589"
+    },
+    {
+      "source": "TASKS",
+      "id": 10088,
+      "row": 20,
+      "label": "\u2b50 Research and pick credit card for Genevieve \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": "Genevieve Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10088"
+    },
+    {
+      "source": "TASKS",
+      "id": 11946,
+      "row": 355,
+      "label": "\u2b50 Move quilt to right \ud83d\udecf\ufe0f",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11946"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 653,
+      "row": 35,
+      "label": "List three more items **",
+      "uid": "SPIN:653"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 651,
+      "row": 34,
+      "label": "Lands End shirt exchange",
+      "uid": "SPIN:651"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 661,
+      "row": 41,
+      "label": "Find cheapest JetAlert",
+      "uid": "SPIN:661"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 481,
+      "row": 10,
+      "label": "Vitamins for Linc and Evan",
+      "uid": "SPIN:481"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 660,
+      "row": 40,
+      "label": "Try new drill upstairs!",
+      "uid": "SPIN:660"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 614,
+      "row": 30,
+      "label": "More garage film work!",
+      "uid": "SPIN:614"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 601,
+      "row": 26,
+      "label": "Next NL box sort",
+      "uid": "SPIN:601"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 579,
+      "row": 22,
+      "label": "Try free NFC app",
+      "uid": "SPIN:579"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 603,
+      "row": 27,
+      "label": "Genevieve and Bentley sig pages PFD",
+      "uid": "SPIN:603"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11216,
+      "parentRow": 174,
+      "parentLabel": "Check status of document gathering for PFDs \ud83d\udcdd",
+      "stepIndex": 0,
+      "aw": 2,
+      "due": "2026-06-24",
+      "label": "\ud83d\udd25 Check status of document gathering for PFDs \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11216:0"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 640,
+      "row": 31,
+      "label": "Blanket bag to Genevieve room",
+      "uid": "SPIN:640"
+    },
+    {
+      "source": "TASKS",
+      "id": 10376,
+      "row": 232,
+      "label": "\ud83d\udcb8 Research chat app opportunities in ChatGPT's new App Store \ud83d\udcdd",
+      "emoji": "\ud83d\udcb8",
+      "aw": 5,
+      "specialZone": "Business",
+      "uid": "TASKS:10376"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 281,
+      "row": 3,
+      "label": "WWAMI cost research",
+      "uid": "SPIN:281"
+    },
+    {
+      "source": "TASKS",
+      "id": 11708,
+      "row": 245,
+      "label": "\u2b50 Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11708"
+    },
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "row": 87,
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Mask",
+      "uid": "ZONES:85"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 581,
+      "row": 23,
+      "label": "Take down dress shoes in closet",
+      "uid": "SPIN:581"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 665,
+      "row": 43,
+      "label": "Track down twins transcripts",
+      "uid": "SPIN:665"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 663,
+      "row": 42,
+      "label": "Send the three transcripts",
+      "uid": "SPIN:663"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 658,
+      "row": 39,
+      "label": "Bring up black tape for deck box",
+      "uid": "SPIN:658"
+    },
+    {
+      "source": "TASKS",
+      "id": 11925,
+      "row": 335,
+      "label": "\u2b50 Check if dryland is scheduled for HS swim season yet \ud83c\udfca\u200d\u2642\ufe0f\ud83d\udcc5",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:11925"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 253,
+      "row": 2,
+      "label": "Order Bentley a bed bric",
+      "uid": "SPIN:253"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 366,
+      "row": 8,
+      "label": "Email PFD for Bentley",
+      "uid": "SPIN:366"
+    },
+    {
+      "source": "ZONES",
+      "zid": 7,
+      "floor": "Upstairs",
+      "row": 8,
+      "label": "\ud83e\uddfa Kids Bathroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Kids Bathroom",
+      "uid": "ZONES:7"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 648,
+      "row": 33,
+      "label": "Rug pad for smaller rug",
+      "uid": "SPIN:648"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 505,
+      "row": 14,
+      "label": "Compare birch pieces to diagram",
+      "uid": "SPIN:505"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 654,
+      "row": 36,
+      "label": "Return for sweater",
+      "uid": "SPIN:654"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 668,
+      "row": 46,
+      "label": "Write Mera back",
+      "uid": "SPIN:668"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 555,
+      "row": 18,
+      "label": "Install tile",
+      "uid": "SPIN:555"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 333,
+      "row": 5,
+      "label": "Submit Treeforms help request",
+      "uid": "SPIN:333"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 337,
+      "row": 6,
+      "label": "Log into Higgsfield on computer**",
+      "uid": "SPIN:337"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 346,
+      "row": 7,
+      "label": "Finish last three bathroom knobs **",
+      "uid": "SPIN:346"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "sid": 465,
+      "row": 9,
+      "label": "5 minutes in Custom Cut Software \u23f1\ufe0f",
+      "uid": "SPIN:465"
+    },
+    {
+      "source": "TASKS",
+      "id": 11795,
+      "row": 268,
+      "label": "\ud83d\udc38 Call Rhode Island for B \u26a1",
+      "emoji": "\ud83d\udc38",
+      "aw": 2,
+      "specialZone": "Frog",
+      "uid": "TASKS:11795"
+    }
+  ],
+  "version": 1634,
+  "updated": "2026-08-12T09:10:23.659714+00:00",
+  "buckets": {
+    "MAINTENANCE": 2,
+    "SPIN_WHEEL": 46,
+    "TASKS": 17,
+    "ZONES": 9,
+    "COURAGE": 3
   }
- ],
- "version": 1633,
- "updated": "2026-08-12T09:10:17.933679+00:00",
- "buckets": {
-  "MAINTENANCE": 2,
-  "SPIN_WHEEL": 47,
-  "TASKS": 17,
-  "ZONES": 9,
-  "COURAGE": 3
- }
 }
