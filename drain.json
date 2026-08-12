@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-12T09:21:20.208Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Finish Pura order",
+      "_addedAt": "2026-08-12T18:53:47.378Z",
+      "_ts": "2026-08-12T18:53:47.502Z"
+    }
+  ],
+  "mirroredAt": "2026-08-12T18:53:47.769Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
