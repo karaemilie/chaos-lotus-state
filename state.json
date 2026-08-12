@@ -2,13 +2,6 @@
   "tasks": [
     {
       "source": "SPIN_WHEEL",
-      "sid": 571,
-      "row": 21,
-      "label": "Name of comedian SAT prep",
-      "uid": "SPIN:571"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 572,
       "row": 22,
       "label": "Find/charge caulk gun",
@@ -680,10 +673,10 @@
       "uid": "SPIN_WHEEL:667"
     }
   ],
-  "version": 1623,
-  "updated": "2026-08-12T06:32:22.373310+00:00",
+  "version": 1624,
+  "updated": "2026-08-12T06:33:02.411216+00:00",
   "buckets": {
-    "SPIN_WHEEL": 47,
+    "SPIN_WHEEL": 46,
     "TASKS": 17,
     "ZONES": 8,
     "COURAGE": 3,
