@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-12T22:51:24.540Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Jake needs a belt",
+      "_addedAt": "2026-08-12T23:05:20.041Z",
+      "_ts": "2026-08-12T23:05:20.187Z"
+    }
+  ],
+  "mirroredAt": "2026-08-12T23:05:20.461Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
