@@ -549,13 +549,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 663,
-      "row": 42,
-      "label": "Send the three transcripts",
-      "uid": "SPIN:663"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 658,
       "row": 39,
       "label": "Bring up black tape for deck box",
@@ -738,11 +731,11 @@
       "uid": "SPIN_WHEEL:679"
     }
   ],
-  "version": 1646,
-  "updated": "2026-08-12T23:08:57.458193+00:00",
+  "version": 1647,
+  "updated": "2026-08-12T23:09:46.416337+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 51,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3
