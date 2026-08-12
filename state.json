@@ -443,13 +443,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 661,
-      "row": 41,
-      "label": "Find cheapest JetAlert",
-      "uid": "SPIN:661"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 481,
       "row": 10,
       "label": "Vitamins for Linc and Evan",
@@ -683,11 +676,11 @@
       "uid": "TASKS:11795"
     }
   ],
-  "version": 1636,
-  "updated": "2026-08-12T09:11:44.504829+00:00",
+  "version": 1637,
+  "updated": "2026-08-12T09:15:05.915873+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 44,
+    "SPIN_WHEEL": 43,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3
