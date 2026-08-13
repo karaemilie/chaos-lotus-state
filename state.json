@@ -735,12 +735,19 @@
       "sid": 683,
       "label": "Send Matt his statements for card",
       "uid": "SPIN_WHEEL:683"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 684,
+      "sid": 684,
+      "label": "Call Karen back",
+      "uid": "SPIN_WHEEL:684"
     }
   ],
-  "version": 1658,
-  "updated": "2026-08-13T05:41:10.694522+00:00",
+  "version": 1659,
+  "updated": "2026-08-13T05:41:59.955693+00:00",
   "buckets": {
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 53,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
