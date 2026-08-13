@@ -109,13 +109,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 648,
-      "row": 32,
-      "label": "Rug pad for smaller rug",
-      "uid": "SPIN:648"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 658,
       "row": 37,
       "label": "Bring up black tape for deck box",
@@ -738,10 +731,10 @@
       "uid": "SPIN_WHEEL:682"
     }
   ],
-  "version": 1655,
-  "updated": "2026-08-13T02:30:50.223430+00:00",
+  "version": 1656,
+  "updated": "2026-08-13T02:31:57.866000+00:00",
   "buckets": {
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 51,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
