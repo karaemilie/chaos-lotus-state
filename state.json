@@ -253,18 +253,6 @@
       "uid": "SPIN:572"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11795,
-      "parentRow": 268,
-      "parentLabel": "Call Rhode Island for B \u26a1",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": null,
-      "label": "\ud83d\udd25 Call Rhode Island for B \u26a1",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11795:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 366,
       "row": 8,
@@ -730,10 +718,21 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Kids Bathroom",
       "uid": "ZONES:7"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11825,
+      "stepIndex": 0,
+      "parentLabel": "\ud83d\udd25 submit for AYO cost",
+      "aw": 2,
+      "due": null,
+      "label": "\ud83d\udd25 \ud83d\udd25 submit for AYO cost",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11825:0"
     }
   ],
-  "version": 1651,
-  "updated": "2026-08-13T01:16:51.752736+00:00",
+  "version": 1652,
+  "updated": "2026-08-13T01:17:49.195181+00:00",
   "buckets": {
     "SPIN_WHEEL": 51,
     "MAINTENANCE": 2,
