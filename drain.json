@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-13T05:24:33.196Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send Matt his statements for card",
+      "_addedAt": "2026-08-13T05:40:50.762Z",
+      "_ts": "2026-08-13T05:40:50.882Z"
+    }
+  ],
+  "mirroredAt": "2026-08-13T05:40:51.102Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-13T05:24:34.167157+00:00",
-  "lastAutoProcessed": [
-    "ZONES:49"
-  ]
+    "adds": 1
+  }
 }
