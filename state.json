@@ -777,12 +777,19 @@
       "sid": 689,
       "label": "Figure out Matt trip length",
       "uid": "SPIN_WHEEL:689"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 690,
+      "sid": 690,
+      "label": "Clean the glass of my vehicle",
+      "uid": "SPIN_WHEEL:690"
     }
   ],
-  "version": 1664,
-  "updated": "2026-08-13T19:39:33.085339+00:00",
+  "version": 1665,
+  "updated": "2026-08-13T23:35:45.275036+00:00",
   "buckets": {
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 59,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
