@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-13T09:59:30.051Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Try to power reset Jake computer",
+      "_addedAt": "2026-08-13T19:38:33.133Z",
+      "_ts": "2026-08-13T19:38:33.315Z"
+    }
+  ],
+  "mirroredAt": "2026-08-13T19:38:33.698Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
