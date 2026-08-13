@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-13T19:38:48.094Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Try to power reset Jake computer",
+      "_addedAt": "2026-08-13T19:38:33.133Z",
+      "_ts": "2026-08-13T19:38:33.315Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Figure out Matt trip length",
+      "_addedAt": "2026-08-13T19:38:57.110Z",
+      "_ts": "2026-08-13T19:38:57.308Z"
+    }
+  ],
+  "mirroredAt": "2026-08-13T19:38:57.623Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
