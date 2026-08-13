@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 27,
+      "label": "Write Ted",
+      "uid": "SPIN:609",
+      "_ts": "2026-08-13T01:16:37.942Z"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11795,
+      "stepIndex": 0,
+      "label": "🔥 Call Rhode Island for B ⚡",
+      "uid": "COURAGE:11795:0",
+      "_ts": "2026-08-13T01:17:32.523Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-13T01:16:52.883Z",
+  "mirroredAt": "2026-08-13T01:17:32.765Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-08-13T01:16:53.926982+00:00",
-  "lastAutoProcessed": [
-    "SPIN:609"
-  ]
+  }
 }
