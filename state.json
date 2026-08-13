@@ -729,12 +729,19 @@
       "label": "\ud83d\udd25 \ud83d\udd25 submit for AYO cost",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11825:0"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 681,
+      "sid": 681,
+      "label": "Look at schedule / discuss food with Bentley (meal plan)",
+      "uid": "SPIN_WHEEL:681"
     }
   ],
-  "version": 1652,
-  "updated": "2026-08-13T01:17:49.195181+00:00",
+  "version": 1653,
+  "updated": "2026-08-13T01:31:32.631462+00:00",
   "buckets": {
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 52,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
