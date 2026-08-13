@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-13T01:17:51.641Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Look at schedule / discuss food with Bentley (meal plan)",
+      "_addedAt": "2026-08-13T01:31:18.475Z",
+      "_ts": "2026-08-13T01:31:18.924Z"
+    }
+  ],
+  "mirroredAt": "2026-08-13T01:31:19.254Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-13T01:17:52.416331+00:00",
-  "lastAutoProcessed": [
-    "SPIN:609",
-    "COURAGE:11795:0"
-  ]
+    "adds": 1
+  }
 }
