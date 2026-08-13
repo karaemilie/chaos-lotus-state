@@ -763,12 +763,19 @@
       "sid": 687,
       "label": "Keep working on new kiddo reminders list",
       "uid": "SPIN_WHEEL:687"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 688,
+      "sid": 688,
+      "label": "Try to power reset Jake computer",
+      "uid": "SPIN_WHEEL:688"
     }
   ],
-  "version": 1662,
-  "updated": "2026-08-13T09:59:30.980610+00:00",
+  "version": 1663,
+  "updated": "2026-08-13T19:38:49.383660+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 57,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
