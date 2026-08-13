@@ -729,13 +729,20 @@
       "sid": 679,
       "label": "Order another pair khakis older boys",
       "uid": "SPIN_WHEEL:679"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 680,
+      "sid": 680,
+      "label": "Try to reset",
+      "uid": "SPIN_WHEEL:680"
     }
   ],
-  "version": 1647,
-  "updated": "2026-08-12T23:09:46.416337+00:00",
+  "version": 1648,
+  "updated": "2026-08-13T00:21:20.962784+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 52,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 3
