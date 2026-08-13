@@ -422,16 +422,6 @@
       "uid": "SPIN:481"
     },
     {
-      "source": "ZONES",
-      "zid": 49,
-      "floor": "Basement",
-      "row": 50,
-      "label": "\ud83e\uddfa Basement Foyer",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Foyer",
-      "uid": "ZONES:49"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 95,
       "row": 96,
@@ -729,10 +719,19 @@
       "sid": 682,
       "label": "Figure out next step wall fixes (assess paint?)",
       "uid": "SPIN_WHEEL:682"
+    },
+    {
+      "source": "ZONES",
+      "zid": 50,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Main Area",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Main Area",
+      "uid": "ZONES:50"
     }
   ],
-  "version": 1656,
-  "updated": "2026-08-13T02:31:57.866000+00:00",
+  "version": 1657,
+  "updated": "2026-08-13T05:24:32.079078+00:00",
   "buckets": {
     "SPIN_WHEEL": 51,
     "MAINTENANCE": 2,
