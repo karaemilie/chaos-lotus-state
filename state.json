@@ -770,12 +770,19 @@
       "sid": 688,
       "label": "Try to power reset Jake computer",
       "uid": "SPIN_WHEEL:688"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 689,
+      "sid": 689,
+      "label": "Figure out Matt trip length",
+      "uid": "SPIN_WHEEL:689"
     }
   ],
-  "version": 1663,
-  "updated": "2026-08-13T19:38:49.383660+00:00",
+  "version": 1664,
+  "updated": "2026-08-13T19:39:33.085339+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 58,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
