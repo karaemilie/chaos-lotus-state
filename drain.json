@@ -1,19 +1,6 @@
 {
   "completions": [
     {
-      "source": "PLUS_ADD",
-      "label": "Derek",
-      "uid": "PLUS_ADD:Derek:2026-08-14T10:50:22.630Z",
-      "_ts": "2026-08-14T10:50:32.282Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 50,
-      "label": "Try to reset",
-      "uid": "SPIN:680",
-      "_ts": "2026-08-14T10:50:56.187Z"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 44,
       "label": "Bentley apartment form",
@@ -29,9 +16,9 @@
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-14T10:51:18.811Z",
+  "mirroredAt": "2026-08-14T10:51:23.627Z",
   "counts": {
-    "completions": 4,
+    "completions": 2,
     "adds": 0
   }
 }
