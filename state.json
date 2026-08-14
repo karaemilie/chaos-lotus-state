@@ -805,12 +805,19 @@
       "sid": 693,
       "label": "Order new filter",
       "uid": "SPIN_WHEEL:693"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 694,
+      "sid": 694,
+      "label": "Write Lu",
+      "uid": "SPIN_WHEEL:694"
     }
   ],
-  "version": 1668,
-  "updated": "2026-08-14T03:50:16.826744+00:00",
+  "version": 1669,
+  "updated": "2026-08-14T03:57:02.202369+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 63,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
