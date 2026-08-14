@@ -6,12 +6,19 @@
       "label": "List more books",
       "uid": "SPIN:677",
       "_ts": "2026-08-14T10:51:56.376Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 58,
+      "label": "Try to power reset Jake computer",
+      "uid": "SPIN:688",
+      "_ts": "2026-08-14T10:52:11.464Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-14T10:52:07.034Z",
+  "mirroredAt": "2026-08-14T10:52:11.665Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
