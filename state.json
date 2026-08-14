@@ -105,13 +105,6 @@
       "uid": "SPIN:692"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 333,
-      "row": 5,
-      "label": "Submit Treeforms help request",
-      "uid": "SPIN:333"
-    },
-    {
       "source": "ZONES",
       "zid": 67,
       "floor": "Digital",
@@ -605,20 +598,6 @@
       "uid": "SPIN:691"
     },
     {
-      "source": "TASKS",
-      "id": 11769,
-      "row": 264,
-      "label": "\u2b50 Email TreeForms \u2014 verify finish + order table stain color \ud83d\udce7\ud83e\udeb5",
-      "aw": 3,
-      "pri": 3,
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11769"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 689,
       "row": 59,
@@ -828,12 +807,25 @@
       "sid": 697,
       "label": "Find T shirt for table wipe down",
       "uid": "SPIN_WHEEL:697"
+    },
+    {
+      "source": "TASKS",
+      "id": 11925,
+      "label": "Check if dryland is scheduled for HS swim season yet \ud83c\udfca\u200d\u2642\ufe0f\ud83d\udcc5",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:11925"
     }
   ],
-  "version": 1674,
-  "updated": "2026-08-14T06:58:58.036934+00:00",
+  "version": 1675,
+  "updated": "2026-08-14T06:59:44.788896+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 17,
