@@ -826,12 +826,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Reviews",
       "uid": "ZONES:69"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 699,
+      "sid": 699,
+      "label": "Asd to Calendar",
+      "uid": "SPIN_WHEEL:699"
     }
   ],
-  "version": 1677,
-  "updated": "2026-08-14T07:00:50.982432+00:00",
+  "version": 1678,
+  "updated": "2026-08-14T07:15:18.762330+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 17,
