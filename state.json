@@ -784,12 +784,19 @@
       "sid": 690,
       "label": "Clean the glass of my vehicle",
       "uid": "SPIN_WHEEL:690"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 691,
+      "sid": 691,
+      "label": "Morpho beta testers",
+      "uid": "SPIN_WHEEL:691"
     }
   ],
-  "version": 1665,
-  "updated": "2026-08-13T23:35:45.275036+00:00",
+  "version": 1666,
+  "updated": "2026-08-14T01:38:14.864270+00:00",
   "buckets": {
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 60,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
