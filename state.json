@@ -9,16 +9,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 68,
-      "floor": "Digital",
-      "row": 69,
-      "label": "\ud83d\udcbb Photos",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Photos",
-      "uid": "ZONES:68"
-    },
-    {
-      "source": "ZONES",
       "zid": 79,
       "floor": "Plant",
       "row": 81,
@@ -833,10 +823,19 @@
       "sid": 699,
       "label": "Asd to Calendar",
       "uid": "SPIN_WHEEL:699"
+    },
+    {
+      "source": "ZONES",
+      "zid": 71,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb MasterBrain",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "MasterBrain",
+      "uid": "ZONES:71"
     }
   ],
-  "version": 1678,
-  "updated": "2026-08-14T07:15:18.762330+00:00",
+  "version": 1679,
+  "updated": "2026-08-14T07:16:01.674486+00:00",
   "buckets": {
     "SPIN_WHEEL": 66,
     "ZONES": 9,
