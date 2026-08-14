@@ -198,20 +198,6 @@
       "uid": "TASKS:10659"
     },
     {
-      "source": "TASKS",
-      "id": 11080,
-      "row": 160,
-      "label": "\u2728 Work on kids education planning projects \ud83d\udcda",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 45,
-      "ml": "Medium",
-      "proj": "Homeschool Admin",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11080"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 14,
@@ -769,10 +755,23 @@
       "sid": 700,
       "label": "Derek",
       "uid": "SPIN_WHEEL:700"
+    },
+    {
+      "source": "TASKS",
+      "id": 10027,
+      "label": "Design decorative door panels for wall cabinet and vanity \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 60,
+      "ml": "Hard",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10027"
     }
   ],
-  "version": 1683,
-  "updated": "2026-08-14T10:52:51.972518+00:00",
+  "version": 1684,
+  "updated": "2026-08-14T10:53:30.239872+00:00",
   "buckets": {
     "SPIN_WHEEL": 57,
     "ZONES": 9,
