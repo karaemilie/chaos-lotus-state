@@ -19,19 +19,19 @@
       "label": "Bentley apartment form",
       "uid": "SPIN:674",
       "_ts": "2026-08-14T10:51:11.736Z"
-    }
-  ],
-  "adds": [
+    },
     {
-      "source": "PLUS_ADD",
-      "label": "Derek",
-      "_addedAt": "2026-08-14T10:50:22.630Z",
-      "_ts": "2026-08-14T10:50:22.740Z"
+      "source": "SPIN_WHEEL",
+      "row": 42,
+      "label": "Cloudflare for kid wedge",
+      "uid": "SPIN:672",
+      "_ts": "2026-08-14T10:51:18.595Z"
     }
   ],
-  "mirroredAt": "2026-08-14T10:51:11.947Z",
+  "adds": [],
+  "mirroredAt": "2026-08-14T10:51:18.811Z",
   "counts": {
-    "completions": 3,
-    "adds": 1
+    "completions": 4,
+    "adds": 0
   }
 }
