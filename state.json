@@ -791,12 +791,19 @@
       "sid": 691,
       "label": "Morpho beta testers",
       "uid": "SPIN_WHEEL:691"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 692,
+      "sid": 692,
+      "label": "Complain to deck guy",
+      "uid": "SPIN_WHEEL:692"
     }
   ],
-  "version": 1666,
-  "updated": "2026-08-14T01:38:14.864270+00:00",
+  "version": 1667,
+  "updated": "2026-08-14T03:49:32.484399+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 61,
     "MAINTENANCE": 2,
     "TASKS": 17,
     "ZONES": 9,
