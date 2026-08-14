@@ -820,12 +820,19 @@
       "cat": "Family/Education",
       "critical": false,
       "uid": "TASKS:11925"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 698,
+      "sid": 698,
+      "label": "Find the mineral spirits for table wipe down",
+      "uid": "SPIN_WHEEL:698"
     }
   ],
-  "version": 1675,
-  "updated": "2026-08-14T06:59:44.788896+00:00",
+  "version": 1676,
+  "updated": "2026-08-14T06:59:49.085268+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 65,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 17,
