@@ -34,12 +34,19 @@
       "label": "Try new drill upstairs!",
       "uid": "SPIN:660",
       "_ts": "2026-08-14T10:51:43.877Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 47,
+      "label": "List more books",
+      "uid": "SPIN:677",
+      "_ts": "2026-08-14T10:51:56.376Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-14T10:51:44.080Z",
+  "mirroredAt": "2026-08-14T10:51:56.610Z",
   "counts": {
-    "completions": 5,
+    "completions": 6,
     "adds": 0
   }
 }
