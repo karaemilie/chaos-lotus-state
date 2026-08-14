@@ -1,5 +1,12 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Derek",
+      "uid": "PLUS_ADD:Derek:2026-08-14T10:50:22.630Z",
+      "_ts": "2026-08-14T10:50:32.282Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +15,9 @@
       "_ts": "2026-08-14T10:50:22.740Z"
     }
   ],
-  "mirroredAt": "2026-08-14T10:50:22.992Z",
+  "mirroredAt": "2026-08-14T10:50:32.616Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
