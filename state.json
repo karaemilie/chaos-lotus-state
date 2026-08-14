@@ -475,13 +475,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 660,
-      "row": 36,
-      "label": "Try new drill upstairs!",
-      "uid": "SPIN:660"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 366,
       "row": 8,
       "label": "Email PFD for Bentley",
@@ -572,13 +565,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 691,
-      "row": 61,
-      "label": "Morpho beta testers",
-      "uid": "SPIN:691"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 689,
       "row": 59,
       "label": "Figure out Matt trip length",
@@ -604,13 +590,6 @@
       "row": 37,
       "label": "Track down twins transcripts",
       "uid": "SPIN:665"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 651,
-      "row": 31,
-      "label": "Lands End shirt exchange",
-      "uid": "SPIN:651"
     },
     {
       "source": "COURAGE",
@@ -654,20 +633,6 @@
       "aw": 5,
       "specialZone": "Business",
       "uid": "TASKS:10376"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 672,
-      "row": 42,
-      "label": "Cloudflare for kid wedge",
-      "uid": "SPIN:672"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 674,
-      "row": 44,
-      "label": "Bentley apartment form",
-      "uid": "SPIN:674"
     },
     {
       "source": "SPIN_WHEEL",
@@ -834,10 +799,10 @@
       "uid": "SPIN_WHEEL:700"
     }
   ],
-  "version": 1681,
-  "updated": "2026-08-14T10:51:22.302965+00:00",
+  "version": 1682,
+  "updated": "2026-08-14T10:52:05.834044+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 61,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 17,
