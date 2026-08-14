@@ -1,17 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-14T10:53:33.067Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Redo pansy wheel as front end to courage tasks",
+      "_addedAt": "2026-08-14T21:48:52.333Z",
+      "_ts": "2026-08-14T21:48:52.458Z"
+    }
+  ],
+  "mirroredAt": "2026-08-14T21:48:52.720Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-14T10:53:34.090537+00:00",
-  "lastAutoProcessed": [
-    "SPIN:677",
-    "SPIN:688",
-    "SPIN:687",
-    "SPIN:679",
-    "TASKS:11080"
-  ]
+    "adds": 1
+  }
 }
