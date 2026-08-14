@@ -821,12 +821,19 @@
       "row": 40,
       "label": "Research wall paper/ plan to return?",
       "uid": "SPIN:670"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 697,
+      "sid": 697,
+      "label": "Find T shirt for table wipe down",
+      "uid": "SPIN_WHEEL:697"
     }
   ],
-  "version": 1673,
-  "updated": "2026-08-14T06:35:15.991943+00:00",
+  "version": 1674,
+  "updated": "2026-08-14T06:58:58.036934+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 65,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 17,
