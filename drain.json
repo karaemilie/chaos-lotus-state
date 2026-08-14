@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-14T07:16:02.875Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Derek",
+      "_addedAt": "2026-08-14T10:50:22.630Z",
+      "_ts": "2026-08-14T10:50:22.740Z"
+    }
+  ],
+  "mirroredAt": "2026-08-14T10:50:22.992Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-14T07:16:03.915646+00:00",
-  "lastAutoProcessed": [
-    "ZONES:68"
-  ]
+    "adds": 1
+  }
 }
