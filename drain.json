@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-14T01:38:13.518Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Complain to deck guy",
+      "_addedAt": "2026-08-14T03:49:17.384Z",
+      "_ts": "2026-08-14T03:49:17.494Z"
+    }
+  ],
+  "mirroredAt": "2026-08-14T03:49:17.805Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
