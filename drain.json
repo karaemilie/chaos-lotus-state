@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-14T03:57:54.413Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add seminary to calendar",
+      "_addedAt": "2026-08-14T06:31:14.386Z",
+      "_ts": "2026-08-14T06:31:14.509Z"
+    }
+  ],
+  "mirroredAt": "2026-08-14T06:31:14.761Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
