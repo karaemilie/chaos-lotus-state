@@ -1,16 +1,46 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 47,
+      "label": "List more books",
+      "uid": "SPIN:677",
+      "_ts": "2026-08-14T10:51:56.376Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 58,
+      "label": "Try to power reset Jake computer",
+      "uid": "SPIN:688",
+      "_ts": "2026-08-14T10:52:11.464Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 57,
+      "label": "Keep working on new kiddo reminders list",
+      "uid": "SPIN:687",
+      "_ts": "2026-08-14T10:52:18.317Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 49,
+      "label": "Order another pair khakis older boys",
+      "uid": "SPIN:679",
+      "_ts": "2026-08-14T10:52:22.534Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11080,
+      "row": 160,
+      "label": "✨ Work on kids education planning projects 📚",
+      "uid": "TASKS:11080",
+      "_ts": "2026-08-14T10:53:16.162Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-14T10:52:53.169Z",
+  "mirroredAt": "2026-08-14T10:53:16.435Z",
   "counts": {
-    "completions": 0,
+    "completions": 5,
     "adds": 0
-  },
-  "processedAt": "2026-08-14T10:52:54.093575+00:00",
-  "lastAutoProcessed": [
-    "SPIN:688",
-    "SPIN:687",
-    "SPIN:679",
-    "SPIN:677"
-  ]
+  }
 }
