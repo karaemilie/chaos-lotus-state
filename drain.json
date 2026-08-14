@@ -1,9 +1,30 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-14T10:50:44.577Z",
+  "completions": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Derek",
+      "uid": "PLUS_ADD:Derek:2026-08-14T10:50:22.630Z",
+      "_ts": "2026-08-14T10:50:32.282Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 50,
+      "label": "Try to reset",
+      "uid": "SPIN:680",
+      "_ts": "2026-08-14T10:50:56.187Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Derek",
+      "_addedAt": "2026-08-14T10:50:22.630Z",
+      "_ts": "2026-08-14T10:50:22.740Z"
+    }
+  ],
+  "mirroredAt": "2026-08-14T10:50:56.450Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
