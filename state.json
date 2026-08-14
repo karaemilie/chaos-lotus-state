@@ -768,12 +768,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10027"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 701,
+      "sid": 701,
+      "label": "Redo pansy wheel as front end to courage tasks",
+      "uid": "SPIN_WHEEL:701"
     }
   ],
-  "version": 1684,
-  "updated": "2026-08-14T10:53:30.239872+00:00",
+  "version": 1685,
+  "updated": "2026-08-14T21:49:05.793205+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 58,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 17,
