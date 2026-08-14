@@ -155,31 +155,10 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 679,
-      "row": 49,
-      "label": "Order another pair khakis older boys",
-      "uid": "SPIN:679"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 684,
       "row": 54,
       "label": "Call Karen back",
       "uid": "SPIN:684"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 688,
-      "row": 58,
-      "label": "Try to power reset Jake computer",
-      "uid": "SPIN:688"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 687,
-      "row": 57,
-      "label": "Keep working on new kiddo reminders list",
-      "uid": "SPIN:687"
     },
     {
       "source": "SPIN_WHEEL",
@@ -351,13 +330,6 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10140"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 677,
-      "row": 47,
-      "label": "List more books",
-      "uid": "SPIN:677"
     },
     {
       "source": "ZONES",
@@ -799,10 +771,10 @@
       "uid": "SPIN_WHEEL:700"
     }
   ],
-  "version": 1682,
-  "updated": "2026-08-14T10:52:05.834044+00:00",
+  "version": 1683,
+  "updated": "2026-08-14T10:52:51.972518+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 57,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 17,
