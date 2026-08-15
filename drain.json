@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-15T00:15:10.952Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add 4th hr and ASD schedule to calendar",
+      "_addedAt": "2026-08-15T00:20:51.228Z",
+      "_ts": "2026-08-15T00:20:51.368Z"
+    }
+  ],
+  "mirroredAt": "2026-08-15T00:20:51.623Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
