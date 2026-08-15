@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-15T00:14:24.513Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Go through rest of pillows and put them in allergen cases (mine too?)",
+      "_addedAt": "2026-08-15T00:14:05.874Z",
+      "_ts": "2026-08-15T00:14:06.023Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Steam the new dress shirts",
+      "_addedAt": "2026-08-15T00:14:55.545Z",
+      "_ts": "2026-08-15T00:14:55.667Z"
+    }
+  ],
+  "mirroredAt": "2026-08-15T00:14:55.931Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
