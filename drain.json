@@ -1,14 +1,31 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 31,
+      "label": "App to track kid reminders?  Hmmm",
+      "uid": "SPIN:657",
+      "_ts": "2026-08-15T09:26:13.320Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 57,
+      "label": "Redo pansy wheel as front end to courage tasks",
+      "uid": "SPIN:701",
+      "_ts": "2026-08-15T09:26:53.680Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 53,
+      "label": "Find T shirt for table wipe down",
+      "uid": "SPIN:697",
+      "_ts": "2026-08-15T09:27:26.573Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-15T09:27:06.601Z",
+  "mirroredAt": "2026-08-15T09:27:26.806Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-08-15T09:27:07.453043+00:00",
-  "lastAutoProcessed": [
-    "SPIN:657",
-    "SPIN:701"
-  ]
+  }
 }
