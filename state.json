@@ -782,12 +782,19 @@
       "sid": 702,
       "label": "Go through rest of pillows and put them in allergen cases (mine too?)",
       "uid": "SPIN_WHEEL:702"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 703,
+      "sid": 703,
+      "label": "Steam the new dress shirts",
+      "uid": "SPIN_WHEEL:703"
     }
   ],
-  "version": 1686,
-  "updated": "2026-08-15T00:14:25.836217+00:00",
+  "version": 1687,
+  "updated": "2026-08-15T00:15:12.321888+00:00",
   "buckets": {
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 60,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 17,
