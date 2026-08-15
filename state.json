@@ -775,12 +775,19 @@
       "sid": 701,
       "label": "Redo pansy wheel as front end to courage tasks",
       "uid": "SPIN_WHEEL:701"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 702,
+      "sid": 702,
+      "label": "Go through rest of pillows and put them in allergen cases (mine too?)",
+      "uid": "SPIN_WHEEL:702"
     }
   ],
-  "version": 1685,
-  "updated": "2026-08-14T21:49:05.793205+00:00",
+  "version": 1686,
+  "updated": "2026-08-15T00:14:25.836217+00:00",
   "buckets": {
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 59,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 17,
