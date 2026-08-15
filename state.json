@@ -718,12 +718,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Evernote/ScannerPro",
       "uid": "ZONES:91"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 709,
+      "sid": 709,
+      "label": "More work micro task app - combine anchor?",
+      "uid": "SPIN_WHEEL:709"
     }
   ],
-  "version": 1707,
-  "updated": "2026-08-15T09:29:02.009910+00:00",
+  "version": 1708,
+  "updated": "2026-08-15T09:29:04.213156+00:00",
   "buckets": {
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 52,
     "ZONES": 8,
     "TASKS": 17,
     "MAINTENANCE": 2,
