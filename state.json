@@ -258,13 +258,6 @@
       "uid": "TASKS:10615"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 697,
-      "row": 53,
-      "label": "Find T shirt for table wipe down",
-      "uid": "SPIN:697"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 95,
       "row": 96,
@@ -749,10 +742,10 @@
       "uid": "TASKS:10122"
     }
   ],
-  "version": 1704,
-  "updated": "2026-08-15T09:27:05.604472+00:00",
+  "version": 1705,
+  "updated": "2026-08-15T09:27:37.803117+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 54,
     "ZONES": 8,
     "TASKS": 17,
     "MAINTENANCE": 2,
