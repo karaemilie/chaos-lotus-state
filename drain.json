@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 51,
+      "label": "Add a new task to empty grill grate",
+      "uid": "SPIN:695",
+      "_ts": "2026-08-15T05:36:39.518Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-15T03:50:51.589Z",
+  "mirroredAt": "2026-08-15T05:36:39.729Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-15T03:50:52.525897+00:00",
-  "lastAutoProcessed": [
-    "ZONES:87"
-  ]
+  }
 }
