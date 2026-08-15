@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-15T00:21:05.864Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "investigate WWAMI deadline",
+      "_addedAt": "2026-08-15T00:51:16.083Z",
+      "_ts": "2026-08-15T00:51:16.209Z"
+    }
+  ],
+  "mirroredAt": "2026-08-15T00:51:16.468Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
