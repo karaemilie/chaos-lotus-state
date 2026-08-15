@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-15T09:29:03.137Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Load software for Morpho",
+      "_addedAt": "2026-08-15T18:30:30.939Z",
+      "_ts": "2026-08-15T18:30:31.256Z"
+    }
+  ],
+  "mirroredAt": "2026-08-15T18:30:31.495Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
