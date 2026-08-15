@@ -1,16 +1,17 @@
 {
-  "completions": [],
-  "adds": [
+  "completions": [
     {
-      "source": "PLUS_ADD",
-      "label": "Decide about ceiling for boys room",
-      "_addedAt": "2026-08-15T07:33:51.846Z",
-      "_ts": "2026-08-15T07:33:51.938Z"
+      "source": "SPIN_WHEEL",
+      "row": 28,
+      "label": "Tape up ceiling boards in boys room!! 🌟",
+      "uid": "SPIN:647",
+      "_ts": "2026-08-15T07:33:53.289Z"
     }
   ],
-  "mirroredAt": "2026-08-15T07:33:52.208Z",
+  "adds": [],
+  "mirroredAt": "2026-08-15T07:34:06.050Z",
   "counts": {
-    "completions": 0,
-    "adds": 1
+    "completions": 1,
+    "adds": 0
   }
 }
