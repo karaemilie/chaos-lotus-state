@@ -95,13 +95,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 699,
-      "row": 55,
-      "label": "Asd to Calendar",
-      "uid": "SPIN:699"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 589,
       "row": 23,
       "label": "Swap chair and piano in music room!",
@@ -792,10 +785,10 @@
       "uid": "SPIN_WHEEL:708"
     }
   ],
-  "version": 1700,
-  "updated": "2026-08-15T07:34:46.735465+00:00",
+  "version": 1701,
+  "updated": "2026-08-15T09:00:57.780862+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 60,
     "ZONES": 8,
     "TASKS": 17,
     "MAINTENANCE": 2,
