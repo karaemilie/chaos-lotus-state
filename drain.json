@@ -13,12 +13,20 @@
       "label": "Add 4th hr and ASD schedule to calendar",
       "uid": "SPIN:704",
       "_ts": "2026-08-15T09:00:47.830Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11672,
+      "row": 230,
+      "label": "✨ Cancel Khanmigo if not using",
+      "uid": "TASKS:11672",
+      "_ts": "2026-08-15T09:00:54.440Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-15T09:00:48.047Z",
+  "mirroredAt": "2026-08-15T09:00:54.687Z",
   "counts": {
-    "completions": 2,
+    "completions": 3,
     "adds": 0
   }
 }
