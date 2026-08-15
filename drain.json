@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 25,
+      "label": "Next NL box sort",
+      "uid": "SPIN:601",
+      "_ts": "2026-08-15T01:15:23.624Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-08-15T01:15:20.408Z"
     }
   ],
-  "mirroredAt": "2026-08-15T01:15:20.655Z",
+  "mirroredAt": "2026-08-15T01:15:23.856Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
