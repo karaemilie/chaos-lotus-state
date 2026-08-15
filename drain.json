@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 55,
+      "label": "Asd to Calendar",
+      "uid": "SPIN:699",
+      "_ts": "2026-08-15T09:00:41.582Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-15T07:34:47.867Z",
+  "mirroredAt": "2026-08-15T09:00:41.858Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-15T07:34:49.094342+00:00",
-  "lastAutoProcessed": [
-    "SPIN:647"
-  ]
+  }
 }
