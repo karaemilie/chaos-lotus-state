@@ -1,17 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 31,
+      "label": "App to track kid reminders?  Hmmm",
+      "uid": "SPIN:657",
+      "_ts": "2026-08-15T09:26:13.320Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-15T09:01:48.378Z",
+  "mirroredAt": "2026-08-15T09:26:13.588Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-15T09:01:49.373314+00:00",
-  "lastAutoProcessed": [
-    "SPIN:699",
-    "SPIN_WHEEL:707",
-    "SPIN:704",
-    "SPIN:689",
-    "TASKS:11672"
-  ]
+  }
 }
