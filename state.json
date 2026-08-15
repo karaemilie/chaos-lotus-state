@@ -329,13 +329,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 601,
-      "row": 25,
-      "label": "Next NL box sort",
-      "uid": "SPIN:601"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 579,
       "row": 22,
       "label": "Try free NFC app",
@@ -812,10 +805,10 @@
       "uid": "SPIN_WHEEL:706"
     }
   ],
-  "version": 1690,
-  "updated": "2026-08-15T01:15:38.877303+00:00",
+  "version": 1691,
+  "updated": "2026-08-15T01:16:28.600603+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 17,
