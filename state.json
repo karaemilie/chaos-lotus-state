@@ -725,12 +725,19 @@
       "sid": 709,
       "label": "More work micro task app - combine anchor?",
       "uid": "SPIN_WHEEL:709"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 710,
+      "sid": 710,
+      "label": "Load software for Morpho",
+      "uid": "SPIN_WHEEL:710"
     }
   ],
-  "version": 1708,
-  "updated": "2026-08-15T09:29:04.213156+00:00",
+  "version": 1709,
+  "updated": "2026-08-15T18:30:50.063689+00:00",
   "buckets": {
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 53,
     "ZONES": 8,
     "TASKS": 17,
     "MAINTENANCE": 2,
