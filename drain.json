@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 89,
+      "zid": 87,
+      "floor": "Personal",
+      "label": "👱‍♀️ Eyebrows",
+      "uid": "ZONES:87",
+      "_ts": "2026-08-15T03:50:34.761Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-15T01:17:14.703Z",
+  "mirroredAt": "2026-08-15T03:50:35.044Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-15T01:17:15.544749+00:00",
-  "lastAutoProcessed": [
-    "SPIN:673"
-  ]
+  }
 }
