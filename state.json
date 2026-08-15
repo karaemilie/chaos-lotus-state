@@ -483,20 +483,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11672,
-      "row": 230,
-      "label": "\u2728 Cancel Khanmigo if not using",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11672"
-    },
-    {
-      "source": "TASKS",
       "id": 10089,
       "row": 21,
       "label": "\u2b50 Apply for Genevieve's credit card \ud83d\udcdd",
@@ -515,13 +501,6 @@
       "row": 48,
       "label": "Complain to deck guy",
       "uid": "SPIN:692"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 704,
-      "row": 60,
-      "label": "Add 4th hr and ASD schedule to calendar",
-      "uid": "SPIN:704"
     },
     {
       "source": "ZONES",
@@ -560,13 +539,6 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:11673"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 689,
-      "row": 46,
-      "label": "Figure out Matt trip length",
-      "uid": "SPIN:689"
     },
     {
       "source": "SPIN_WHEEL",
@@ -772,23 +744,29 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 707,
-      "sid": 707,
-      "label": "Add Matt trip to timeline tracker",
-      "uid": "SPIN_WHEEL:707"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 708,
       "sid": 708,
       "label": "Decide about ceiling for boys room",
       "uid": "SPIN_WHEEL:708"
+    },
+    {
+      "source": "TASKS",
+      "id": 10122,
+      "label": "Get TV off school room wall",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "School Room Organization",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10122"
     }
   ],
-  "version": 1701,
-  "updated": "2026-08-15T09:00:57.780862+00:00",
+  "version": 1702,
+  "updated": "2026-08-15T09:01:45.373860+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 57,
     "ZONES": 8,
     "TASKS": 17,
     "MAINTENANCE": 2,
