@@ -1,19 +1,68 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-15T09:28:30.862Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 31,
+      "label": "App to track kid reminders?  Hmmm",
+      "uid": "SPIN:657",
+      "_ts": "2026-08-15T09:26:13.320Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 57,
+      "label": "Redo pansy wheel as front end to courage tasks",
+      "uid": "SPIN:701",
+      "_ts": "2026-08-15T09:26:53.680Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 53,
+      "label": "Find T shirt for table wipe down",
+      "uid": "SPIN:697",
+      "_ts": "2026-08-15T09:27:26.573Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 32,
+      "label": "Bring up black tape for deck box",
+      "uid": "SPIN:658",
+      "_ts": "2026-08-15T09:27:33.507Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 52,
+      "label": "Add seminary to calendar",
+      "uid": "SPIN:696",
+      "_ts": "2026-08-15T09:27:42.465Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 72,
+      "zid": 71,
+      "floor": "Digital",
+      "label": "💻 MasterBrain",
+      "uid": "ZONES:71",
+      "_ts": "2026-08-15T09:28:02.348Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 15,
+      "label": "Inventory cursive books do we have more like Jake’s ✨",
+      "uid": "SPIN:527",
+      "_ts": "2026-08-15T09:28:10.621Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "More work micro task app - combine anchor?",
+      "_addedAt": "2026-08-15T09:28:44.281Z",
+      "_ts": "2026-08-15T09:28:44.405Z"
+    }
+  ],
+  "mirroredAt": "2026-08-15T09:28:44.631Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-15T09:28:31.958832+00:00",
-  "lastAutoProcessed": [
-    "ZONES:71",
-    "SPIN:657",
-    "SPIN:701",
-    "SPIN:697",
-    "SPIN:696",
-    "SPIN:658",
-    "SPIN:527"
-  ]
+    "completions": 7,
+    "adds": 1
+  }
 }
