@@ -25,23 +25,6 @@
       "uid": "SPIN:686"
     },
     {
-      "source": "ZONES",
-      "zid": 71,
-      "floor": "Digital",
-      "row": 72,
-      "label": "\ud83d\udcbb MasterBrain",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "MasterBrain",
-      "uid": "ZONES:71"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 527,
-      "row": 15,
-      "label": "Inventory cursive books do we have more like Jake\u2019s \u2728",
-      "uid": "SPIN:527"
-    },
-    {
       "source": "TASKS",
       "id": 10241,
       "row": 71,
@@ -179,13 +162,6 @@
       "uid": "SPIN:566"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 696,
-      "row": 52,
-      "label": "Add seminary to calendar",
-      "uid": "SPIN:696"
-    },
-    {
       "source": "ZONES",
       "zid": 7,
       "floor": "Upstairs",
@@ -211,13 +187,6 @@
       "row": 2,
       "label": "Order Bentley a bed bric",
       "uid": "SPIN:253"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 658,
-      "row": 32,
-      "label": "Bring up black tape for deck box",
-      "uid": "SPIN:658"
     },
     {
       "source": "ZONES",
@@ -740,12 +709,21 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10122"
+    },
+    {
+      "source": "ZONES",
+      "zid": 91,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Evernote/ScannerPro",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Evernote/ScannerPro",
+      "uid": "ZONES:91"
     }
   ],
-  "version": 1705,
-  "updated": "2026-08-15T09:27:37.803117+00:00",
+  "version": 1706,
+  "updated": "2026-08-15T09:28:29.419633+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 51,
     "ZONES": 8,
     "TASKS": 17,
     "MAINTENANCE": 2,
