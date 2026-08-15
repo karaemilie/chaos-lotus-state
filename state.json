@@ -110,13 +110,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 673,
-      "row": 43,
-      "label": "Find B transcript Roger william",
-      "uid": "SPIN:673"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 683,
       "row": 53,
       "label": "Send Matt his statements for card",
@@ -805,10 +798,10 @@
       "uid": "SPIN_WHEEL:706"
     }
   ],
-  "version": 1691,
-  "updated": "2026-08-15T01:16:28.600603+00:00",
+  "version": 1692,
+  "updated": "2026-08-15T01:17:13.712287+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 61,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 17,
