@@ -796,12 +796,19 @@
       "sid": 704,
       "label": "Add 4th hr and ASD schedule to calendar",
       "uid": "SPIN_WHEEL:704"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 705,
+      "sid": 705,
+      "label": "investigate WWAMI deadline",
+      "uid": "SPIN_WHEEL:705"
     }
   ],
-  "version": 1688,
-  "updated": "2026-08-15T00:21:07.073032+00:00",
+  "version": 1689,
+  "updated": "2026-08-15T00:51:32.058731+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 62,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 17,
