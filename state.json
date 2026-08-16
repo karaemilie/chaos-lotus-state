@@ -51,13 +51,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 669,
-      "row": 31,
-      "label": "Eye dr bill",
-      "uid": "SPIN:669"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 682,
       "row": 37,
       "label": "Figure out next step wall fixes (assess paint?)",
@@ -746,10 +739,10 @@
       "uid": "COURAGE:11825:0"
     }
   ],
-  "version": 1723,
-  "updated": "2026-08-16T02:55:04.423227+00:00",
+  "version": 1724,
+  "updated": "2026-08-16T02:55:42.415363+00:00",
   "buckets": {
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 51,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
