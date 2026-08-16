@@ -88,23 +88,6 @@
       "uid": "TASKS:10376"
     },
     {
-      "source": "ZONES",
-      "zid": 69,
-      "floor": "Digital",
-      "row": 70,
-      "label": "\ud83d\udcbb Reviews",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Reviews",
-      "uid": "ZONES:69"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 366,
-      "row": 7,
-      "label": "Email PFD for Bentley",
-      "uid": "SPIN:366"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 465,
       "row": 8,
@@ -737,12 +720,21 @@
       "label": "\ud83d\udd25 \ud83d\udd25 submit for AYO cost",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11825:0"
+    },
+    {
+      "source": "ZONES",
+      "zid": 58,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Emails",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Emails",
+      "uid": "ZONES:58"
     }
   ],
-  "version": 1724,
-  "updated": "2026-08-16T02:55:42.415363+00:00",
+  "version": 1725,
+  "updated": "2026-08-16T02:56:12.321968+00:00",
   "buckets": {
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 50,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
