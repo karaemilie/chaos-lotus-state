@@ -196,13 +196,6 @@
       "uid": "MAINTENANCE:92"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 693,
-      "row": 44,
-      "label": "Order new filter",
-      "uid": "SPIN:693"
-    },
-    {
       "source": "TASKS",
       "id": 11094,
       "row": 161,
@@ -730,10 +723,10 @@
       "uid": "SPIN_WHEEL:718"
     }
   ],
-  "version": 1734,
-  "updated": "2026-08-16T05:56:29.592105+00:00",
+  "version": 1735,
+  "updated": "2026-08-16T05:57:15.499444+00:00",
   "buckets": {
-    "SPIN_WHEEL": 50,
+    "SPIN_WHEEL": 49,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
