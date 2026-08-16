@@ -322,13 +322,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 685,
-      "row": 40,
-      "label": "Reread Genevieve paper",
-      "uid": "SPIN:685"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 13,
       "label": "Compare birch pieces to diagram",
@@ -347,20 +340,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11880"
-    },
-    {
-      "source": "TASKS",
-      "id": 11977,
-      "row": 377,
-      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11977"
     },
     {
       "source": "COURAGE",
@@ -387,20 +366,6 @@
       "row": 56,
       "label": "Write school about robotics league",
       "uid": "SPIN:712"
-    },
-    {
-      "source": "TASKS",
-      "id": 10506,
-      "row": 107,
-      "label": "\u2b50 Check out Dr Robin again",
-      "aw": 7,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:10506"
     },
     {
       "source": "ZONES",
@@ -570,13 +535,6 @@
       "row": 21,
       "label": "Take down dress shoes in closet",
       "uid": "SPIN:581"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 709,
-      "row": 53,
-      "label": "More work micro task app - combine anchor?",
-      "uid": "SPIN:709"
     },
     {
       "source": "SPIN_WHEEL",
@@ -767,12 +725,38 @@
       "label": "\ud83d\udd25 \ud83d\udd25 Text body shop about AC \ud83d\udcf1",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11912:0"
+    },
+    {
+      "source": "TASKS",
+      "id": 10089,
+      "label": "Apply for Genevieve's credit card \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": "Genevieve Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10089"
+    },
+    {
+      "source": "TASKS",
+      "id": 10202,
+      "label": "Look into if life insurance policies are at end of term - convert to retain value \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10202"
     }
   ],
-  "version": 1720,
-  "updated": "2026-08-16T02:48:51.907423+00:00",
+  "version": 1721,
+  "updated": "2026-08-16T02:49:37.227437+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 53,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
