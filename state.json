@@ -1,16 +1,6 @@
 {
   "tasks": [
     {
-      "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "row": 75,
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 716,
       "row": 45,
@@ -692,15 +682,24 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Feet Care & Pedi",
       "uid": "ZONES:90"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
     }
   ],
-  "version": 1748,
-  "updated": "2026-08-16T23:48:30.392332+00:00",
+  "version": 1749,
+  "updated": "2026-08-16T23:50:36.849610+00:00",
   "buckets": {
-    "ZONES": 8,
     "SPIN_WHEEL": 46,
     "TASKS": 17,
     "COURAGE": 4,
+    "ZONES": 8,
     "MAINTENANCE": 2
   }
 }
