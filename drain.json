@@ -1,13 +1,33 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 33,
+      "label": "Finish Pura order",
+      "uid": "SPIN:675",
+      "_ts": "2026-08-16T02:54:49.109Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 31,
+      "label": "Eye dr bill",
+      "uid": "SPIN:669",
+      "_ts": "2026-08-16T02:54:59.265Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 70,
+      "zid": 69,
+      "floor": "Digital",
+      "label": "💻 Reviews",
+      "uid": "ZONES:69",
+      "_ts": "2026-08-16T02:55:46.372Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-16T02:55:43.424Z",
+  "mirroredAt": "2026-08-16T02:55:46.580Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-08-16T02:55:44.194844+00:00",
-  "lastAutoProcessed": [
-    "SPIN:669"
-  ]
+  }
 }
