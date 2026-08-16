@@ -399,16 +399,6 @@
       "uid": "TASKS:10241"
     },
     {
-      "source": "ZONES",
-      "zid": 91,
-      "floor": "Digital",
-      "row": 73,
-      "label": "\ud83d\udcbb Evernote/ScannerPro",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Evernote/ScannerPro",
-      "uid": "ZONES:91"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 711,
       "row": 55,
@@ -729,10 +719,19 @@
       "sid": 717,
       "label": "Pack Nancy Larsen",
       "uid": "SPIN_WHEEL:717"
+    },
+    {
+      "source": "ZONES",
+      "zid": 59,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Quicken",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Quicken",
+      "uid": "ZONES:59"
     }
   ],
-  "version": 1731,
-  "updated": "2026-08-16T05:38:24.699648+00:00",
+  "version": 1732,
+  "updated": "2026-08-16T05:41:53.896067+00:00",
   "buckets": {
     "SPIN_WHEEL": 50,
     "TASKS": 17,
