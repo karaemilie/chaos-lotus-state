@@ -433,13 +433,6 @@
       "uid": "COURAGE:11825:0"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 693,
-      "row": 37,
-      "label": "Order new filter",
-      "uid": "SPIN:693"
-    },
-    {
       "source": "ZONES",
       "zid": 80,
       "floor": "Plant",
@@ -720,10 +713,10 @@
       "uid": "ZONES:85"
     }
   ],
-  "version": 1737,
-  "updated": "2026-08-16T05:58:07.246772+00:00",
+  "version": 1738,
+  "updated": "2026-08-16T05:58:49.080567+00:00",
   "buckets": {
-    "SPIN_WHEEL": 49,
+    "SPIN_WHEEL": 48,
     "TASKS": 17,
     "COURAGE": 4,
     "ZONES": 8,
