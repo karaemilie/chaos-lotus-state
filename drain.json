@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 39,
+      "label": "Call Karen back",
+      "uid": "SPIN:684",
+      "_ts": "2026-08-16T02:34:45.627Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-08-16T02:34:34.592Z"
     }
   ],
-  "mirroredAt": "2026-08-16T02:34:34.862Z",
+  "mirroredAt": "2026-08-16T02:34:45.821Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
