@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-16T05:42:27.635Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Vacuum out little shop vac",
+      "_addedAt": "2026-08-16T05:56:13.077Z",
+      "_ts": "2026-08-16T05:56:13.493Z"
+    }
+  ],
+  "mirroredAt": "2026-08-16T05:56:13.718Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-16T05:42:28.427876+00:00",
-  "lastAutoProcessed": [
-    "ZONES:91",
-    "SPIN:706"
-  ]
+    "adds": 1
+  }
 }
