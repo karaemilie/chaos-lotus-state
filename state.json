@@ -615,13 +615,6 @@
       "uid": "COURAGE:11727:0"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 675,
-      "row": 33,
-      "label": "Finish Pura order",
-      "uid": "SPIN:675"
-    },
-    {
       "source": "TASKS",
       "id": 10020,
       "row": 5,
@@ -753,10 +746,10 @@
       "uid": "COURAGE:11825:0"
     }
   ],
-  "version": 1722,
-  "updated": "2026-08-16T02:50:13.515090+00:00",
+  "version": 1723,
+  "updated": "2026-08-16T02:55:04.423227+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 52,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
