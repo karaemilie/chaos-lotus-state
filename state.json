@@ -140,13 +140,6 @@
       "uid": "SPIN:676"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 694,
-      "row": 45,
-      "label": "Write Lu",
-      "uid": "SPIN:694"
-    },
-    {
       "source": "ZONES",
       "zid": 50,
       "floor": "Basement",
@@ -778,10 +771,10 @@
       "uid": "TASKS:11421"
     }
   ],
-  "version": 1718,
-  "updated": "2026-08-16T02:45:59.800596+00:00",
+  "version": 1719,
+  "updated": "2026-08-16T02:48:03.875005+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 55,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
