@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11993,
+      "row": 384,
+      "label": "✨ Charge the red candles 🕯️❤️",
+      "uid": "TASKS:11993",
+      "_ts": "2026-08-16T23:21:11.656Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-16T08:30:55.807Z",
+  "mirroredAt": "2026-08-16T23:21:11.878Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-16T08:30:56.527664+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:96"
-  ]
+  }
 }
