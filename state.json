@@ -396,20 +396,6 @@
       "uid": "COURAGE:11825:0"
     },
     {
-      "source": "TASKS",
-      "id": 11993,
-      "row": 384,
-      "label": "\u2728 Charge the red candles \ud83d\udd6f\ufe0f\u2764\ufe0f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11993"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 654,
       "row": 26,
@@ -695,10 +681,23 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Clean library mirror",
       "uid": "MAINTENANCE:97"
+    },
+    {
+      "source": "TASKS",
+      "id": 11895,
+      "label": "Book septic \ud83d\udebd",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11895"
     }
   ],
-  "version": 1745,
-  "updated": "2026-08-16T08:30:54.574474+00:00",
+  "version": 1746,
+  "updated": "2026-08-16T23:21:23.836164+00:00",
   "buckets": {
     "ZONES": 8,
     "SPIN_WHEEL": 46,
