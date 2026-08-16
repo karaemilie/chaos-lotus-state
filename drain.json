@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11673,
+      "row": 233,
+      "label": "✨ Downgrade Hulu to ads plan if not using",
+      "uid": "TASKS:11673",
+      "_ts": "2026-08-16T02:45:47.755Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-16T02:35:29.032Z",
+  "mirroredAt": "2026-08-16T02:45:47.996Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-16T02:35:29.679657+00:00",
-  "lastAutoProcessed": [
-    "SPIN:684"
-  ]
+  }
 }
