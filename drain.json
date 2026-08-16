@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 97,
+      "label": "🏠 Mop mudroom",
+      "uid": "MAINTENANCE:96",
+      "_ts": "2026-08-16T08:30:41.090Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-16T08:25:21.870Z",
+  "mirroredAt": "2026-08-16T08:30:41.432Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-16T08:25:22.590620+00:00",
-  "lastAutoProcessed": [
-    "ZONES:50"
-  ]
+  }
 }
