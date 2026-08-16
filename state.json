@@ -51,13 +51,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 700,
-      "row": 47,
-      "label": "Derek",
-      "uid": "SPIN:700"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 670,
       "row": 32,
       "label": "Research wall paper/ plan to return?",
@@ -724,10 +717,10 @@
       "uid": "ZONES:58"
     }
   ],
-  "version": 1726,
-  "updated": "2026-08-16T02:56:41.620188+00:00",
+  "version": 1727,
+  "updated": "2026-08-16T02:57:27.977556+00:00",
   "buckets": {
-    "SPIN_WHEEL": 49,
+    "SPIN_WHEEL": 48,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
