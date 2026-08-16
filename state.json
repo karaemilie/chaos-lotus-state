@@ -124,13 +124,6 @@
       "uid": "TASKS:10023"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 715,
-      "row": 48,
-      "label": "Add new task box feature - long press and full screen current task!",
-      "uid": "SPIN:715"
-    },
-    {
       "source": "TASKS",
       "id": 10140,
       "row": 31,
@@ -705,10 +698,10 @@
       "uid": "ZONES:73"
     }
   ],
-  "version": 1740,
-  "updated": "2026-08-16T06:05:21.835526+00:00",
+  "version": 1741,
+  "updated": "2026-08-16T06:47:04.094030+00:00",
   "buckets": {
-    "SPIN_WHEEL": 47,
+    "SPIN_WHEEL": 46,
     "TASKS": 17,
     "COURAGE": 4,
     "ZONES": 8,
