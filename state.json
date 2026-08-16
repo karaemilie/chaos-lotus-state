@@ -322,13 +322,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 684,
-      "row": 39,
-      "label": "Call Karen back",
-      "uid": "SPIN:684"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 511,
       "row": 14,
       "label": "Start freezer wrap!!!!",
@@ -786,11 +779,11 @@
       "uid": "SPIN_WHEEL:714"
     }
   ],
-  "version": 1716,
-  "updated": "2026-08-16T02:34:48.214440+00:00",
+  "version": 1717,
+  "updated": "2026-08-16T02:35:28.069933+00:00",
   "buckets": {
     "TASKS": 17,
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 56,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 4
