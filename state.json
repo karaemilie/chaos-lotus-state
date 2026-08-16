@@ -192,15 +192,6 @@
       "uid": "TASKS:11941"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 95,
-      "row": 96,
-      "label": "\ud83c\udfe0 Scrub my shower",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Scrub my shower",
-      "uid": "MAINTENANCE:95"
-    },
-    {
       "source": "TASKS",
       "id": 10023,
       "row": 6,
@@ -276,18 +267,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11094"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 10365,
-      "parentRow": 235,
-      "parentLabel": "Submit Bentley's PFD form to TCU \ud83d\udcdd",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-06-24",
-      "label": "\ud83d\udd25 Submit Bentley's PFD form to TCU \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:10365:0"
     },
     {
       "source": "ZONES",
@@ -769,15 +748,34 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11421"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 96,
+      "label": "\ud83c\udfe0 Mop mudroom",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Mop mudroom",
+      "uid": "MAINTENANCE:96"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11912,
+      "stepIndex": 0,
+      "parentLabel": "\ud83d\udd25 Text body shop about AC \ud83d\udcf1",
+      "aw": 1,
+      "due": null,
+      "label": "\ud83d\udd25 \ud83d\udd25 Text body shop about AC \ud83d\udcf1",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11912:0"
     }
   ],
-  "version": 1719,
-  "updated": "2026-08-16T02:48:03.875005+00:00",
+  "version": 1720,
+  "updated": "2026-08-16T02:48:51.907423+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "TASKS": 17,
     "ZONES": 9,
-    "MAINTENANCE": 2,
-    "COURAGE": 4
+    "COURAGE": 4,
+    "MAINTENANCE": 2
   }
 }
