@@ -716,17 +716,6 @@
       "uid": "MAINTENANCE:96"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11912,
-      "stepIndex": 0,
-      "parentLabel": "\ud83d\udd25 Text body shop about AC \ud83d\udcf1",
-      "aw": 1,
-      "due": null,
-      "label": "\ud83d\udd25 \ud83d\udd25 Text body shop about AC \ud83d\udcf1",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11912:0"
-    },
-    {
       "source": "TASKS",
       "id": 10089,
       "label": "Apply for Genevieve's credit card \ud83d\udcdd",
@@ -751,10 +740,21 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10202"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11825,
+      "stepIndex": 0,
+      "parentLabel": "\ud83d\udd25 submit for AYO cost",
+      "aw": 2,
+      "due": null,
+      "label": "\ud83d\udd25 \ud83d\udd25 submit for AYO cost",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11825:0"
     }
   ],
-  "version": 1721,
-  "updated": "2026-08-16T02:49:37.227437+00:00",
+  "version": 1722,
+  "updated": "2026-08-16T02:50:13.515090+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
     "TASKS": 17,
