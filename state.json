@@ -205,16 +205,6 @@
       "uid": "SPIN:465"
     },
     {
-      "source": "ZONES",
-      "zid": 88,
-      "floor": "Personal",
-      "row": 90,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Teeth Whitening",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Teeth Whitening",
-      "uid": "ZONES:88"
-    },
-    {
       "source": "TASKS",
       "id": 11948,
       "row": 345,
@@ -693,10 +683,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Main floor Down Low",
       "uid": "ZONES:75"
+    },
+    {
+      "source": "ZONES",
+      "zid": 90,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Feet Care & Pedi",
+      "uid": "ZONES:90"
     }
   ],
-  "version": 1747,
-  "updated": "2026-08-16T23:22:16.695629+00:00",
+  "version": 1748,
+  "updated": "2026-08-16T23:48:30.392332+00:00",
   "buckets": {
     "ZONES": 8,
     "SPIN_WHEEL": 46,
