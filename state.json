@@ -110,16 +110,6 @@
       "uid": "SPIN:581"
     },
     {
-      "source": "ZONES",
-      "zid": 79,
-      "floor": "Plant",
-      "row": 81,
-      "label": "\ud83c\udf31 Kitchen Up High",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Kitchen Up High",
-      "uid": "ZONES:79"
-    },
-    {
       "source": "TASKS",
       "id": 10023,
       "row": 6,
@@ -704,10 +694,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Mask",
       "uid": "ZONES:85"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 1739,
-  "updated": "2026-08-16T06:04:37.882708+00:00",
+  "version": 1740,
+  "updated": "2026-08-16T06:05:21.835526+00:00",
   "buckets": {
     "SPIN_WHEEL": 47,
     "TASKS": 17,
