@@ -1,20 +1,6 @@
 {
   "tasks": [
     {
-      "source": "TASKS",
-      "id": 11673,
-      "row": 233,
-      "label": "\u2728 Downgrade Hulu to ads plan if not using",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11673"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 703,
       "row": 49,
@@ -777,13 +763,26 @@
       "sid": 714,
       "label": "Add a task for ten days from now to see if we have been double paying rock gym?",
       "uid": "SPIN_WHEEL:714"
+    },
+    {
+      "source": "TASKS",
+      "id": 11421,
+      "label": "Finish fixing sand table",
+      "aw": 5,
+      "pri": null,
+      "dur": 30,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11421"
     }
   ],
-  "version": 1717,
-  "updated": "2026-08-16T02:35:28.069933+00:00",
+  "version": 1718,
+  "updated": "2026-08-16T02:45:59.800596+00:00",
   "buckets": {
-    "TASKS": 17,
     "SPIN_WHEEL": 56,
+    "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 4
