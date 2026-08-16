@@ -6,12 +6,26 @@
       "label": "Order new filter",
       "uid": "SPIN:693",
       "_ts": "2026-08-16T05:56:25.761Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 714,
+      "label": "Add a task for ten days from now to see if we have been double paying rock gym?",
+      "uid": "SPIN_WHEEL:714",
+      "_ts": "2026-08-16T05:57:00.880Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-08-16T05:56:28.484Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Vacuum out little shop vac",
+      "_addedAt": "2026-08-16T05:56:13.077Z",
+      "_ts": "2026-08-16T05:56:13.493Z"
+    }
+  ],
+  "mirroredAt": "2026-08-16T05:57:01.103Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
