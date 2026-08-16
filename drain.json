@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 8,
+      "zid": 7,
+      "floor": "Upstairs",
+      "label": "🧺 Kids Bathroom",
+      "uid": "ZONES:7",
+      "_ts": "2026-08-16T23:59:50.388Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-16T23:50:38.201Z",
+  "mirroredAt": "2026-08-16T23:59:50.713Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-16T23:50:39.023118+00:00",
-  "lastAutoProcessed": [
-    "ZONES:73"
-  ]
+  }
 }
