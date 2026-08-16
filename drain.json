@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 73,
+      "zid": 91,
+      "floor": "Digital",
+      "label": "💻 Evernote/ScannerPro",
+      "uid": "ZONES:91",
+      "_ts": "2026-08-16T05:41:37.570Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 51,
+      "label": "List NL Science 5",
+      "uid": "SPIN:706",
+      "_ts": "2026-08-16T05:42:13.397Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-16T05:41:55.192Z",
+  "mirroredAt": "2026-08-16T05:42:13.600Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-08-16T05:41:56.040009+00:00",
-  "lastAutoProcessed": [
-    "ZONES:91"
-  ]
+  }
 }
