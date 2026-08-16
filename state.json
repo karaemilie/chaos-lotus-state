@@ -88,15 +88,6 @@
       "uid": "SPIN:576"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 96,
-      "row": 97,
-      "label": "\ud83c\udfe0 Mop mudroom",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Mop mudroom",
-      "uid": "MAINTENANCE:96"
-    },
-    {
       "source": "TASKS",
       "id": 11909,
       "row": 313,
@@ -696,15 +687,23 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Back Office",
       "uid": "ZONES:51"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 97,
+      "label": "\ud83c\udfe0 Clean library mirror",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Clean library mirror",
+      "uid": "MAINTENANCE:97"
     }
   ],
-  "version": 1744,
-  "updated": "2026-08-16T08:25:20.795017+00:00",
+  "version": 1745,
+  "updated": "2026-08-16T08:30:54.574474+00:00",
   "buckets": {
     "ZONES": 8,
     "SPIN_WHEEL": 46,
-    "MAINTENANCE": 2,
     "TASKS": 17,
-    "COURAGE": 4
+    "COURAGE": 4,
+    "MAINTENANCE": 2
   }
 }
