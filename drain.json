@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 33,
+      "label": "Finish Pura order",
+      "uid": "SPIN:675",
+      "_ts": "2026-08-16T02:54:49.109Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-16T02:50:15.775Z",
+  "mirroredAt": "2026-08-16T02:54:49.377Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-16T02:50:16.656071+00:00",
-  "lastAutoProcessed": [
-    "COURAGE:11912:0"
-  ]
+  }
 }
