@@ -1,50 +1,5 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 33,
-      "label": "Finish Pura order",
-      "uid": "SPIN:675",
-      "_ts": "2026-08-16T02:54:49.109Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 31,
-      "label": "Eye dr bill",
-      "uid": "SPIN:669",
-      "_ts": "2026-08-16T02:54:59.265Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 70,
-      "zid": 69,
-      "floor": "Digital",
-      "label": "💻 Reviews",
-      "uid": "ZONES:69",
-      "_ts": "2026-08-16T02:55:46.372Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 7,
-      "label": "Email PFD for Bentley",
-      "uid": "SPIN:366",
-      "_ts": "2026-08-16T02:55:49.504Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 36,
-      "label": "Look at schedule / discuss food with Bentley (meal plan)",
-      "uid": "SPIN:681",
-      "_ts": "2026-08-16T02:56:18.319Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 47,
-      "label": "Derek",
-      "uid": "SPIN:700",
-      "_ts": "2026-08-16T02:56:29.852Z"
-    }
-  ],
+  "completions": [],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -53,9 +8,9 @@
       "_ts": "2026-08-16T02:57:27.220Z"
     }
   ],
-  "mirroredAt": "2026-08-16T02:57:27.466Z",
+  "mirroredAt": "2026-08-16T02:57:29.733Z",
   "counts": {
-    "completions": 6,
+    "completions": 0,
     "adds": 1
   }
 }
