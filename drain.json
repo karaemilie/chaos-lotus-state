@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-15T20:32:30.202Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add a task for ten days from now to see if we have been double paying rock gym?",
+      "_addedAt": "2026-08-16T02:34:34.029Z",
+      "_ts": "2026-08-16T02:34:34.592Z"
+    }
+  ],
+  "mirroredAt": "2026-08-16T02:34:34.862Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
