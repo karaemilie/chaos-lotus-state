@@ -44,13 +44,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 681,
-      "row": 36,
-      "label": "Look at schedule / discuss food with Bentley (meal plan)",
-      "uid": "SPIN:681"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 682,
       "row": 37,
       "label": "Figure out next step wall fixes (assess paint?)",
@@ -731,10 +724,10 @@
       "uid": "ZONES:58"
     }
   ],
-  "version": 1725,
-  "updated": "2026-08-16T02:56:12.321968+00:00",
+  "version": 1726,
+  "updated": "2026-08-16T02:56:41.620188+00:00",
   "buckets": {
-    "SPIN_WHEEL": 50,
+    "SPIN_WHEEL": 49,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
