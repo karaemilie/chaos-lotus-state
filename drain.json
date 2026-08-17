@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 26,
+      "label": "Return for sweater",
+      "uid": "SPIN:654",
+      "_ts": "2026-08-17T05:46:12.860Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-08-17T05:46:05.951Z"
     }
   ],
-  "mirroredAt": "2026-08-17T05:46:06.177Z",
+  "mirroredAt": "2026-08-17T05:46:13.142Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
