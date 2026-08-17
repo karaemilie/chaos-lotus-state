@@ -626,15 +626,6 @@
       "uid": "SPIN:486"
     },
     {
-      "source": "ZONES",
-      "zid": 51,
-      "floor": "Basement",
-      "label": "\ud83e\uddfa Back Office",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Back Office",
-      "uid": "ZONES:51"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 97,
       "label": "\ud83c\udfe0 Clean library mirror",
@@ -690,10 +681,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "My Bedroom",
       "uid": "ZONES:8"
+    },
+    {
+      "source": "ZONES",
+      "zid": 52,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Craft Zone",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Craft Zone",
+      "uid": "ZONES:52"
     }
   ],
-  "version": 1750,
-  "updated": "2026-08-17T00:00:06.686969+00:00",
+  "version": 1751,
+  "updated": "2026-08-17T00:06:16.349339+00:00",
   "buckets": {
     "SPIN_WHEEL": 46,
     "TASKS": 17,
