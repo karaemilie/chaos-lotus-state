@@ -1,5 +1,14 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11955,
+      "row": 348,
+      "label": "⭐ Re-add Cu1 📱",
+      "uid": "TASKS:11955",
+      "_ts": "2026-08-17T00:52:05.448Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +17,9 @@
       "_ts": "2026-08-17T00:52:00.778Z"
     }
   ],
-  "mirroredAt": "2026-08-17T00:52:00.988Z",
+  "mirroredAt": "2026-08-17T00:52:05.660Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
