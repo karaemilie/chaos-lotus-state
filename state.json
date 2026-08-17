@@ -642,15 +642,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
-    },
-    {
-      "source": "ZONES",
       "zid": 8,
       "floor": "Upstairs",
       "label": "\ud83e\uddfa My Bedroom",
@@ -695,10 +686,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Quicken",
       "uid": "ZONES:59"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
     }
   ],
-  "version": 1754,
-  "updated": "2026-08-17T05:33:00.764103+00:00",
+  "version": 1755,
+  "updated": "2026-08-17T05:33:57.175255+00:00",
   "buckets": {
     "SPIN_WHEEL": 47,
     "TASKS": 17,
