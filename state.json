@@ -586,16 +586,6 @@
       "uid": "TASKS:10241"
     },
     {
-      "source": "ZONES",
-      "zid": 7,
-      "floor": "Upstairs",
-      "row": 8,
-      "label": "\ud83e\uddfa Kids Bathroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Kids Bathroom",
-      "uid": "ZONES:7"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 92,
       "row": 93,
@@ -691,10 +681,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook A",
       "uid": "ZONES:76"
+    },
+    {
+      "source": "ZONES",
+      "zid": 8,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa My Bedroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "My Bedroom",
+      "uid": "ZONES:8"
     }
   ],
-  "version": 1749,
-  "updated": "2026-08-16T23:50:36.849610+00:00",
+  "version": 1750,
+  "updated": "2026-08-17T00:00:06.686969+00:00",
   "buckets": {
     "SPIN_WHEEL": 46,
     "TASKS": 17,
