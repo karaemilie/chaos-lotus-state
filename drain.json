@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-17T00:06:17.330Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Verify the Credit Union acct in Ally",
+      "_addedAt": "2026-08-17T00:52:00.583Z",
+      "_ts": "2026-08-17T00:52:00.778Z"
+    }
+  ],
+  "mirroredAt": "2026-08-17T00:52:00.988Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-17T00:06:17.983770+00:00",
-  "lastAutoProcessed": [
-    "ZONES:51"
-  ]
+    "adds": 1
+  }
 }
