@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 59,
+      "zid": 58,
+      "floor": "Digital",
+      "label": "💻 Emails",
+      "uid": "ZONES:58",
+      "_ts": "2026-08-17T05:32:46.145Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-17T00:52:55.639Z",
+  "mirroredAt": "2026-08-17T05:32:46.475Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-17T00:52:56.304487+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11955"
-  ]
+  }
 }
