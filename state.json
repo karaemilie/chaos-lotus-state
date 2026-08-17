@@ -683,24 +683,17 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 712,
-      "row": 43,
-      "label": "Write school about robotics league",
-      "uid": "SPIN:712"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 720,
       "sid": 720,
       "label": "Check sweater is in vehicle",
       "uid": "SPIN_WHEEL:720"
     }
   ],
-  "version": 1759,
-  "updated": "2026-08-17T05:47:09.715540+00:00",
+  "version": 1760,
+  "updated": "2026-08-17T05:54:49.923429+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 47,
+    "SPIN_WHEEL": 46,
     "TASKS": 17,
     "ZONES": 7,
     "MAINTENANCE": 2
