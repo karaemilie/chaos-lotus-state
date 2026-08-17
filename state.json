@@ -560,13 +560,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 346,
-      "row": 6,
-      "label": "Finish last three bathroom knobs **",
-      "uid": "SPIN:346"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 581,
       "row": 20,
       "label": "Take down dress shoes in closet",
@@ -688,11 +681,11 @@
       "uid": "ZONES:78"
     }
   ],
-  "version": 1763,
-  "updated": "2026-08-17T22:35:47.741725+00:00",
+  "version": 1764,
+  "updated": "2026-08-17T22:36:28.521360+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 46,
+    "SPIN_WHEEL": 45,
     "TASKS": 17,
     "ZONES": 7,
     "MAINTENANCE": 2
