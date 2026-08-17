@@ -690,12 +690,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Craft Zone",
       "uid": "ZONES:52"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 719,
+      "sid": 719,
+      "label": "Verify the Credit Union acct in Ally",
+      "uid": "SPIN_WHEEL:719"
     }
   ],
-  "version": 1751,
-  "updated": "2026-08-17T00:06:16.349339+00:00",
+  "version": 1752,
+  "updated": "2026-08-17T00:52:15.115960+00:00",
   "buckets": {
-    "SPIN_WHEEL": 46,
+    "SPIN_WHEEL": 47,
     "TASKS": 17,
     "COURAGE": 4,
     "ZONES": 8,
