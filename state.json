@@ -269,13 +269,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 654,
-      "row": 26,
-      "label": "Return for sweater",
-      "uid": "SPIN:654"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 12,
       "label": "Compare birch pieces to diagram",
@@ -703,11 +696,11 @@
       "uid": "SPIN_WHEEL:720"
     }
   ],
-  "version": 1758,
-  "updated": "2026-08-17T05:46:18.472053+00:00",
+  "version": 1759,
+  "updated": "2026-08-17T05:47:09.715540+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 48,
+    "SPIN_WHEEL": 47,
     "TASKS": 17,
     "ZONES": 7,
     "MAINTENANCE": 2
