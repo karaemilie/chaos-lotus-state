@@ -1,13 +1,27 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 59,
+      "zid": 58,
+      "floor": "Digital",
+      "label": "💻 Emails",
+      "uid": "ZONES:58",
+      "_ts": "2026-08-17T05:32:46.145Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "🌱 Corner Nook A",
+      "uid": "ZONES:76",
+      "_ts": "2026-08-17T05:33:42.426Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-17T05:33:02.073Z",
+  "mirroredAt": "2026-08-17T05:33:42.674Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-08-17T05:33:03.226761+00:00",
-  "lastAutoProcessed": [
-    "ZONES:58"
-  ]
+  }
 }
