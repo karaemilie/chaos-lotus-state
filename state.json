@@ -373,20 +373,6 @@
       "uid": "TASKS:11925"
     },
     {
-      "source": "TASKS",
-      "id": 10600,
-      "row": 115,
-      "label": "\u2b50 Figure out mouth guard for Jake",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10600"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 281,
       "row": 3,
@@ -695,10 +681,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook B",
       "uid": "ZONES:77"
+    },
+    {
+      "source": "TASKS",
+      "id": 10788,
+      "label": "Contact The Music Man about cello buybacks",
+      "aw": 3,
+      "pri": "High",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10788"
     }
   ],
-  "version": 1755,
-  "updated": "2026-08-17T05:33:57.175255+00:00",
+  "version": 1756,
+  "updated": "2026-08-17T05:34:36.537274+00:00",
   "buckets": {
     "SPIN_WHEEL": 47,
     "TASKS": 17,
