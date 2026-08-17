@@ -331,13 +331,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 670,
-      "row": 29,
-      "label": "Research wall paper/ plan to return?",
-      "uid": "SPIN:670"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 683,
       "row": 33,
       "label": "Send Matt his statements for card",
@@ -681,11 +674,11 @@
       "uid": "ZONES:78"
     }
   ],
-  "version": 1764,
-  "updated": "2026-08-17T22:36:28.521360+00:00",
+  "version": 1765,
+  "updated": "2026-08-17T22:36:53.750047+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 45,
+    "SPIN_WHEEL": 44,
     "TASKS": 17,
     "ZONES": 7,
     "MAINTENANCE": 2
