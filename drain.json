@@ -6,12 +6,35 @@
       "label": "Measure Linc for tech suit",
       "uid": "SPIN:534",
       "_ts": "2026-08-17T22:34:48.878Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 46,
+      "label": "Pack Nancy Larsen",
+      "uid": "SPIN:717",
+      "_ts": "2026-08-17T22:34:59.185Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 79,
+      "zid": 77,
+      "floor": "Plant",
+      "label": "🌱 Corner Nook B",
+      "uid": "ZONES:77",
+      "_ts": "2026-08-17T22:35:17.019Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-08-17T22:34:57.978Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order tech suit",
+      "_addedAt": "2026-08-17T22:34:45.154Z",
+      "_ts": "2026-08-17T22:34:45.457Z"
+    }
+  ],
+  "mirroredAt": "2026-08-17T22:35:17.278Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 3,
+    "adds": 1
   }
 }
