@@ -687,13 +687,20 @@
       "sid": 720,
       "label": "Check sweater is in vehicle",
       "uid": "SPIN_WHEEL:720"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 721,
+      "sid": 721,
+      "label": "Add preview mode to my Wedge app",
+      "uid": "SPIN_WHEEL:721"
     }
   ],
-  "version": 1760,
-  "updated": "2026-08-17T05:54:49.923429+00:00",
+  "version": 1761,
+  "updated": "2026-08-17T19:22:11.016050+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 46,
+    "SPIN_WHEEL": 47,
     "TASKS": 17,
     "ZONES": 7,
     "MAINTENANCE": 2
