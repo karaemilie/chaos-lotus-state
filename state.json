@@ -351,23 +351,6 @@
       "uid": "SPIN:690"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 534,
-      "row": 14,
-      "label": "Measure Linc for tech suit",
-      "uid": "SPIN:534"
-    },
-    {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "row": 79,
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
       "source": "TASKS",
       "id": 11216,
       "row": 169,
@@ -509,13 +492,6 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:11154"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 717,
-      "row": 46,
-      "label": "Pack Nancy Larsen",
-      "uid": "SPIN:717"
     },
     {
       "source": "SPIN_WHEEL",
@@ -701,13 +677,22 @@
       "sid": 722,
       "label": "Order tech suit",
       "uid": "SPIN_WHEEL:722"
+    },
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Props",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Props",
+      "uid": "ZONES:78"
     }
   ],
-  "version": 1762,
-  "updated": "2026-08-17T22:34:59.242570+00:00",
+  "version": 1763,
+  "updated": "2026-08-17T22:35:47.741725+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 48,
+    "SPIN_WHEEL": 46,
     "TASKS": 17,
     "ZONES": 7,
     "MAINTENANCE": 2
