@@ -326,16 +326,6 @@
       "uid": "SPIN:511"
     },
     {
-      "source": "ZONES",
-      "zid": 58,
-      "floor": "Digital",
-      "row": 59,
-      "label": "\ud83d\udcbb Emails",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Emails",
-      "uid": "ZONES:58"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 481,
       "row": 8,
@@ -696,10 +686,19 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10132"
+    },
+    {
+      "source": "ZONES",
+      "zid": 59,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Quicken",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Quicken",
+      "uid": "ZONES:59"
     }
   ],
-  "version": 1753,
-  "updated": "2026-08-17T00:52:53.552762+00:00",
+  "version": 1754,
+  "updated": "2026-08-17T05:33:00.764103+00:00",
   "buckets": {
     "SPIN_WHEEL": 47,
     "TASKS": 17,
