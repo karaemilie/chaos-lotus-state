@@ -576,20 +576,6 @@
       "uid": "SPIN:337"
     },
     {
-      "source": "TASKS",
-      "id": 11931,
-      "row": 328,
-      "label": "\u2728 Put on new tattoo",
-      "aw": 4,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11931"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11727,
       "parentRow": 245,
@@ -672,10 +658,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Props",
       "uid": "ZONES:78"
+    },
+    {
+      "source": "TASKS",
+      "id": 10132,
+      "label": "Look through Canon logic book with Lincoln & Evan \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10132"
     }
   ],
-  "version": 1765,
-  "updated": "2026-08-17T22:36:53.750047+00:00",
+  "version": 1766,
+  "updated": "2026-08-17T22:37:41.608206+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 44,
