@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-17T05:54:51.031Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add preview mode to my Wedge app",
+      "_addedAt": "2026-08-17T19:21:49.053Z",
+      "_ts": "2026-08-17T19:21:49.288Z"
+    }
+  ],
+  "mirroredAt": "2026-08-17T19:21:49.547Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-17T05:54:51.736070+00:00",
-  "lastAutoProcessed": [
-    "SPIN:712"
-  ]
+    "adds": 1
+  }
 }
