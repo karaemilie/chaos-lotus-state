@@ -319,20 +319,6 @@
       "uid": "SPIN:346"
     },
     {
-      "source": "TASKS",
-      "id": 11955,
-      "row": 348,
-      "label": "\u2b50 Re-add Cu1 \ud83d\udcf1",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11955"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 511,
       "row": 13,
@@ -697,10 +683,23 @@
       "sid": 719,
       "label": "Verify the Credit Union acct in Ally",
       "uid": "SPIN_WHEEL:719"
+    },
+    {
+      "source": "TASKS",
+      "id": 10132,
+      "label": "Look through Canon logic book with Lincoln & Evan \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10132"
     }
   ],
-  "version": 1752,
-  "updated": "2026-08-17T00:52:15.115960+00:00",
+  "version": 1753,
+  "updated": "2026-08-17T00:52:53.552762+00:00",
   "buckets": {
     "SPIN_WHEEL": 47,
     "TASKS": 17,
