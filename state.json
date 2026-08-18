@@ -174,13 +174,6 @@
       "uid": "ZONES:85"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 698,
-      "row": 33,
-      "label": "Find the mineral spirits for table wipe down",
-      "uid": "SPIN:698"
-    },
-    {
       "source": "TASKS",
       "id": 11553,
       "row": 208,
@@ -424,35 +417,11 @@
       "uid": "TASKS:10132"
     },
     {
-      "source": "ZONES",
-      "zid": 59,
-      "floor": "Digital",
-      "row": 60,
-      "label": "\ud83d\udcbb Quicken",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Quicken",
-      "uid": "ZONES:59"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 323,
       "row": 4,
       "label": "Practice board for dominos",
       "uid": "SPIN:323"
-    },
-    {
-      "source": "TASKS",
-      "id": 11969,
-      "row": 358,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:11969"
     },
     {
       "source": "SPIN_WHEEL",
@@ -670,12 +639,34 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10089"
+    },
+    {
+      "source": "ZONES",
+      "zid": 61,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Reviews",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Reviews",
+      "uid": "ZONES:61"
+    },
+    {
+      "source": "TASKS",
+      "id": 11985,
+      "label": "Write Tim to apologize for my child \u2709\ufe0f",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:11985"
     }
   ],
-  "version": 1769,
-  "updated": "2026-08-18T07:04:44.800683+00:00",
+  "version": 1770,
+  "updated": "2026-08-18T07:05:32.384925+00:00",
   "buckets": {
-    "SPIN_WHEEL": 41,
+    "SPIN_WHEEL": 40,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
