@@ -661,12 +661,19 @@
       "cat": "Family/Education",
       "critical": false,
       "uid": "TASKS:11985"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 723,
+      "sid": 723,
+      "label": "Clean Jake fleece",
+      "uid": "SPIN_WHEEL:723"
     }
   ],
-  "version": 1770,
-  "updated": "2026-08-18T07:05:32.384925+00:00",
+  "version": 1771,
+  "updated": "2026-08-18T08:04:55.477672+00:00",
   "buckets": {
-    "SPIN_WHEEL": 40,
+    "SPIN_WHEEL": 41,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
