@@ -472,20 +472,6 @@
       "uid": "ZONES:8"
     },
     {
-      "source": "TASKS",
-      "id": 11974,
-      "row": 363,
-      "label": "\u2728 Check if Mizuno GX Sonic 6 CR is back in stock (blue, size 24)",
-      "aw": 7,
-      "pri": "Sometime",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11974"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11727,
       "parentRow": 245,
@@ -579,13 +565,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 665,
-      "row": 24,
-      "label": "Track down twins transcripts",
-      "uid": "SPIN:665"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 481,
       "row": 7,
       "label": "Vitamins for Linc and Evan",
@@ -614,22 +593,6 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Main floor Down Low",
       "uid": "ZONES:75"
-    },
-    {
-      "source": "MAINTENANCE",
-      "mid": 92,
-      "row": 93,
-      "label": "\ud83c\udfe0 Bleach shower curtains",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Bleach shower curtains",
-      "uid": "MAINTENANCE:92"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 721,
-      "row": 44,
-      "label": "Add preview mode to my Wedge app",
-      "uid": "SPIN:721"
     },
     {
       "source": "SPIN_WHEEL",
@@ -686,12 +649,33 @@
       "row": 16,
       "label": "Pay down my AK card and transfer balance to Genevieve Embry riddle account. Pay off Gemini too somehow",
       "uid": "SPIN:576"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 98,
+      "label": "\ud83c\udfe0 Wash my sheet",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Wash my sheet",
+      "uid": "MAINTENANCE:98"
+    },
+    {
+      "source": "TASKS",
+      "id": 10089,
+      "label": "Apply for Genevieve's credit card \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": "Genevieve Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10089"
     }
   ],
-  "version": 1768,
-  "updated": "2026-08-18T07:03:54.096849+00:00",
+  "version": 1769,
+  "updated": "2026-08-18T07:04:44.800683+00:00",
   "buckets": {
-    "SPIN_WHEEL": 43,
+    "SPIN_WHEEL": 41,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
