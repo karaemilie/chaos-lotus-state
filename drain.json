@@ -2,6 +2,13 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
+      "row": 43,
+      "label": "Check sweater is in vehicle",
+      "uid": "SPIN:720",
+      "_ts": "2026-08-18T07:03:37.333Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 44,
       "label": "Add preview mode to my Wedge app",
       "uid": "SPIN:721",
@@ -13,12 +20,19 @@
       "label": "🏠 Bleach shower curtains",
       "uid": "MAINTENANCE:92",
       "_ts": "2026-08-18T07:03:53.382Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 24,
+      "label": "Track down twins transcripts",
+      "uid": "SPIN:665",
+      "_ts": "2026-08-18T07:04:00.767Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-18T07:03:55.333Z",
+  "mirroredAt": "2026-08-18T07:04:01.020Z",
   "counts": {
-    "completions": 2,
+    "completions": 4,
     "adds": 0
   }
 }
