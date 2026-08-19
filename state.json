@@ -693,12 +693,19 @@
       "sid": 728,
       "label": "List cello box",
       "uid": "SPIN_WHEEL:728"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 729,
+      "sid": 729,
+      "label": "List acoustic panels",
+      "uid": "SPIN_WHEEL:729"
     }
   ],
-  "version": 1779,
-  "updated": "2026-08-19T05:25:27.562627+00:00",
+  "version": 1780,
+  "updated": "2026-08-19T05:26:03.927130+00:00",
   "buckets": {
-    "SPIN_WHEEL": 45,
+    "SPIN_WHEEL": 46,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
