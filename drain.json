@@ -1,9 +1,31 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-19T01:30:44.273Z",
+  "completions": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Call Unc Mark",
+      "uid": "PLUS_ADD:Call Unc Mark:2026-08-19T01:30:28.777Z",
+      "_ts": "2026-08-19T01:30:34.632Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11909,
+      "row": 312,
+      "label": "⭐ Try citric acid for cleaning dishwasher 🧽",
+      "uid": "TASKS:11909",
+      "_ts": "2026-08-19T01:31:09.207Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Call Unc Mark",
+      "_addedAt": "2026-08-19T01:30:28.777Z",
+      "_ts": "2026-08-19T01:30:28.915Z"
+    }
+  ],
+  "mirroredAt": "2026-08-19T01:31:09.432Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
