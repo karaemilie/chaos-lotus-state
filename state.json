@@ -519,20 +519,6 @@
       "uid": "SPIN:566"
     },
     {
-      "source": "TASKS",
-      "id": 11909,
-      "row": 312,
-      "label": "\u2b50 Try citric acid for cleaning dishwasher \ud83e\uddfd",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11909"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 481,
       "row": 7,
@@ -675,10 +661,23 @@
       "sid": 724,
       "label": "Call Unc Mark",
       "uid": "SPIN_WHEEL:724"
+    },
+    {
+      "source": "TASKS",
+      "id": 10788,
+      "label": "Contact The Music Man about cello buybacks",
+      "aw": 3,
+      "pri": "High",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10788"
     }
   ],
-  "version": 1772,
-  "updated": "2026-08-19T01:30:45.460232+00:00",
+  "version": 1773,
+  "updated": "2026-08-19T01:31:35.242723+00:00",
   "buckets": {
     "SPIN_WHEEL": 42,
     "ZONES": 9,
