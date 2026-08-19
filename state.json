@@ -674,12 +674,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10788"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 725,
+      "sid": 725,
+      "label": "8x10 rug for music room",
+      "uid": "SPIN_WHEEL:725"
     }
   ],
-  "version": 1773,
-  "updated": "2026-08-19T01:31:35.242723+00:00",
+  "version": 1774,
+  "updated": "2026-08-19T04:03:53.278307+00:00",
   "buckets": {
-    "SPIN_WHEEL": 42,
+    "SPIN_WHEEL": 43,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
