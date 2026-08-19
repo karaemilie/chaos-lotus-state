@@ -714,12 +714,19 @@
       "sid": 731,
       "label": "Move over GAlarm",
       "uid": "SPIN_WHEEL:731"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 732,
+      "sid": 732,
+      "label": "Move over Everyday",
+      "uid": "SPIN_WHEEL:732"
     }
   ],
-  "version": 1782,
-  "updated": "2026-08-19T21:52:00.203388+00:00",
+  "version": 1783,
+  "updated": "2026-08-19T21:52:44.350173+00:00",
   "buckets": {
-    "SPIN_WHEEL": 48,
+    "SPIN_WHEEL": 49,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
