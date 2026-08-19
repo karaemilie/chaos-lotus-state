@@ -1,9 +1,38 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-19T23:33:46.102Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 19,
+      "label": "Swap chair and piano in music room!",
+      "uid": "SPIN:589",
+      "_ts": "2026-08-19T23:33:14.831Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 62,
+      "floor": "Digital",
+      "label": "💻 Messages",
+      "uid": "ZONES:62",
+      "_ts": "2026-08-19T23:33:47.730Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Mop water tank",
+      "_addedAt": "2026-08-19T23:32:44.881Z",
+      "_ts": "2026-08-19T23:32:45.219Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Pack book sale",
+      "_addedAt": "2026-08-19T23:33:00.457Z",
+      "_ts": "2026-08-19T23:33:00.697Z"
+    }
+  ],
+  "mirroredAt": "2026-08-19T23:33:47.984Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 2,
+    "adds": 2
   }
 }
