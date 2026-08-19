@@ -19,20 +19,14 @@
   "adds": [
     {
       "source": "PLUS_ADD",
-      "label": "Mop water tank",
-      "_addedAt": "2026-08-19T23:32:44.881Z",
-      "_ts": "2026-08-19T23:32:45.219Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Pack book sale",
-      "_addedAt": "2026-08-19T23:33:00.457Z",
-      "_ts": "2026-08-19T23:33:00.697Z"
+      "label": "Add crawlspace filter to maintenance",
+      "_addedAt": "2026-08-19T23:34:09.483Z",
+      "_ts": "2026-08-19T23:34:09.837Z"
     }
   ],
-  "mirroredAt": "2026-08-19T23:33:47.984Z",
+  "mirroredAt": "2026-08-19T23:34:10.083Z",
   "counts": {
     "completions": 2,
-    "adds": 2
+    "adds": 1
   }
 }
