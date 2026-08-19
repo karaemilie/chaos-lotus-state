@@ -74,13 +74,6 @@
       "uid": "SPIN:581"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 589,
-      "row": 19,
-      "label": "Swap chair and piano in music room!",
-      "uid": "SPIN:589"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11825,
       "parentRow": 270,
@@ -730,10 +723,10 @@
       "uid": "SPIN_WHEEL:733"
     }
   ],
-  "version": 1784,
-  "updated": "2026-08-19T23:33:01.014410+00:00",
+  "version": 1785,
+  "updated": "2026-08-19T23:33:45.151301+00:00",
   "buckets": {
-    "SPIN_WHEEL": 50,
+    "SPIN_WHEEL": 49,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
