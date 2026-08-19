@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-19T21:52:43.070Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Mop water tank",
+      "_addedAt": "2026-08-19T23:32:44.881Z",
+      "_ts": "2026-08-19T23:32:45.219Z"
+    }
+  ],
+  "mirroredAt": "2026-08-19T23:32:45.489Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
