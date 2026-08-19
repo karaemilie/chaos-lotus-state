@@ -1,32 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 19,
-      "label": "Swap chair and piano in music room!",
-      "uid": "SPIN:589",
-      "_ts": "2026-08-19T23:33:14.831Z"
-    },
-    {
-      "source": "ZONES",
-      "zid": 62,
-      "floor": "Digital",
-      "label": "💻 Messages",
-      "uid": "ZONES:62",
-      "_ts": "2026-08-19T23:33:47.730Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Add crawlspace filter to maintenance",
-      "_addedAt": "2026-08-19T23:34:09.483Z",
-      "_ts": "2026-08-19T23:34:09.837Z"
-    }
-  ],
-  "mirroredAt": "2026-08-19T23:34:10.083Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-08-19T23:34:32.214Z",
   "counts": {
-    "completions": 2,
-    "adds": 1
+    "completions": 0,
+    "adds": 0
   }
 }
