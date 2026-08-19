@@ -668,12 +668,19 @@
       "sid": 723,
       "label": "Clean Jake fleece",
       "uid": "SPIN_WHEEL:723"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 724,
+      "sid": 724,
+      "label": "Call Unc Mark",
+      "uid": "SPIN_WHEEL:724"
     }
   ],
-  "version": 1771,
-  "updated": "2026-08-18T08:04:55.477672+00:00",
+  "version": 1772,
+  "updated": "2026-08-19T01:30:45.460232+00:00",
   "buckets": {
-    "SPIN_WHEEL": 41,
+    "SPIN_WHEEL": 42,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
