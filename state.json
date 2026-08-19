@@ -223,20 +223,6 @@
       "uid": "TASKS:10659"
     },
     {
-      "source": "TASKS",
-      "id": 11924,
-      "row": 322,
-      "label": "\u2728 Water snake plants",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11924"
-    },
-    {
       "source": "ZONES",
       "zid": 52,
       "floor": "Basement",
@@ -656,13 +642,6 @@
       "uid": "SPIN_WHEEL:723"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 724,
-      "sid": 724,
-      "label": "Call Unc Mark",
-      "uid": "SPIN_WHEEL:724"
-    },
-    {
       "source": "TASKS",
       "id": 10788,
       "label": "Contact The Music Man about cello buybacks",
@@ -688,12 +667,25 @@
       "sid": 726,
       "label": "List an item",
       "uid": "SPIN_WHEEL:726"
+    },
+    {
+      "source": "TASKS",
+      "id": 11948,
+      "label": "Clean bedroom windows \ud83e\ude9f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11948"
     }
   ],
-  "version": 1775,
-  "updated": "2026-08-19T04:09:07.446790+00:00",
+  "version": 1776,
+  "updated": "2026-08-19T04:09:44.895384+00:00",
   "buckets": {
-    "SPIN_WHEEL": 44,
+    "SPIN_WHEEL": 43,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
