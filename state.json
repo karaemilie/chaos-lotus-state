@@ -29,16 +29,6 @@
       "uid": "SPIN:484"
     },
     {
-      "source": "ZONES",
-      "zid": 60,
-      "floor": "Digital",
-      "row": 61,
-      "label": "\ud83d\udcbb Photos",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Photos",
-      "uid": "ZONES:60"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 703,
       "row": 35,
@@ -680,10 +670,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11948"
+    },
+    {
+      "source": "ZONES",
+      "zid": 62,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Messages",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Messages",
+      "uid": "ZONES:62"
     }
   ],
-  "version": 1776,
-  "updated": "2026-08-19T04:09:44.895384+00:00",
+  "version": 1777,
+  "updated": "2026-08-19T04:30:37.586113+00:00",
   "buckets": {
     "SPIN_WHEEL": 43,
     "ZONES": 9,
