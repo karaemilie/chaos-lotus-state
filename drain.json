@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-19T20:07:51.416Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Move over GAlarm",
+      "_addedAt": "2026-08-19T21:51:45.011Z",
+      "_ts": "2026-08-19T21:51:45.304Z"
+    }
+  ],
+  "mirroredAt": "2026-08-19T21:51:45.666Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
