@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-19T04:30:39.022Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Build guitar stand",
+      "_addedAt": "2026-08-19T05:18:53.080Z",
+      "_ts": "2026-08-19T05:18:53.276Z"
+    }
+  ],
+  "mirroredAt": "2026-08-19T05:18:53.505Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-19T04:30:39.990295+00:00",
-  "lastAutoProcessed": [
-    "ZONES:60"
-  ]
+    "adds": 1
+  }
 }
