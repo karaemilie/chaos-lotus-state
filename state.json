@@ -707,12 +707,19 @@
       "sid": 730,
       "label": "Write Ruth",
       "uid": "SPIN_WHEEL:730"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 731,
+      "sid": 731,
+      "label": "Move over GAlarm",
+      "uid": "SPIN_WHEEL:731"
     }
   ],
-  "version": 1781,
-  "updated": "2026-08-19T20:07:52.812501+00:00",
+  "version": 1782,
+  "updated": "2026-08-19T21:52:00.203388+00:00",
   "buckets": {
-    "SPIN_WHEEL": 47,
+    "SPIN_WHEEL": 48,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
