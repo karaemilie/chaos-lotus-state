@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-19T05:19:07.194Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "List cello box",
+      "_addedAt": "2026-08-19T05:25:14.936Z",
+      "_ts": "2026-08-19T05:25:15.145Z"
+    }
+  ],
+  "mirroredAt": "2026-08-19T05:25:15.400Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
