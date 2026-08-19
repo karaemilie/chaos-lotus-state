@@ -721,12 +721,19 @@
       "sid": 732,
       "label": "Move over Everyday",
       "uid": "SPIN_WHEEL:732"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 733,
+      "sid": 733,
+      "label": "Mop water tank",
+      "uid": "SPIN_WHEEL:733"
     }
   ],
-  "version": 1783,
-  "updated": "2026-08-19T21:52:44.350173+00:00",
+  "version": 1784,
+  "updated": "2026-08-19T23:33:01.014410+00:00",
   "buckets": {
-    "SPIN_WHEEL": 49,
+    "SPIN_WHEEL": 50,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
