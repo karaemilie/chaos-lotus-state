@@ -87,13 +87,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 678,
-      "row": 27,
-      "label": "Jake needs a belt",
-      "uid": "SPIN:678"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 281,
       "row": 3,
       "label": "WWAMI cost research",
@@ -744,10 +737,10 @@
       "uid": "SPIN_WHEEL:737"
     }
   ],
-  "version": 1791,
-  "updated": "2026-08-20T07:22:15.808234+00:00",
+  "version": 1792,
+  "updated": "2026-08-20T07:25:26.402396+00:00",
   "buckets": {
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 51,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
