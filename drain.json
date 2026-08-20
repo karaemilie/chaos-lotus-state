@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-20T07:25:27.699Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Apply to Wings program",
+      "_addedAt": "2026-08-20T15:16:12.696Z",
+      "_ts": "2026-08-20T15:16:12.911Z"
+    }
+  ],
+  "mirroredAt": "2026-08-20T15:16:13.288Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-20T07:25:28.643197+00:00",
-  "lastAutoProcessed": [
-    "SPIN:678"
-  ]
+    "adds": 1
+  }
 }
