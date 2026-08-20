@@ -707,15 +707,6 @@
       "uid": "SPIN_WHEEL:734"
     },
     {
-      "source": "ZONES",
-      "zid": 63,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Calls/Voicemail",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Calls/Voicemail",
-      "uid": "ZONES:63"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 735,
       "sid": 735,
@@ -742,10 +733,19 @@
       "sid": 740,
       "label": "Order Genevieve stuff she neexs",
       "uid": "SPIN_WHEEL:740"
+    },
+    {
+      "source": "ZONES",
+      "zid": 64,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb OneTab",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "OneTab",
+      "uid": "ZONES:64"
     }
   ],
-  "version": 1796,
-  "updated": "2026-08-20T22:53:08.776801+00:00",
+  "version": 1797,
+  "updated": "2026-08-20T22:53:46.682830+00:00",
   "buckets": {
     "SPIN_WHEEL": 52,
     "ZONES": 9,
