@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-19T23:34:32.214Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "New brown belt",
+      "_addedAt": "2026-08-20T05:12:29.950Z",
+      "_ts": "2026-08-20T05:12:30.575Z"
+    }
+  ],
+  "mirroredAt": "2026-08-20T05:12:30.817Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
