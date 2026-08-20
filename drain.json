@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 27,
+      "label": "Jake needs a belt",
+      "uid": "SPIN:678",
+      "_ts": "2026-08-20T07:25:13.791Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-20T07:22:16.798Z",
+  "mirroredAt": "2026-08-20T07:25:14.035Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-20T07:22:17.887647+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:723"
-  ]
+  }
 }
