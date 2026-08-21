@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-20T22:53:47.858Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add Mandanas dental",
+      "_addedAt": "2026-08-21T03:22:01.589Z",
+      "_ts": "2026-08-21T03:22:01.711Z"
+    }
+  ],
+  "mirroredAt": "2026-08-21T03:22:01.965Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-20T22:53:48.699034+00:00",
-  "lastAutoProcessed": [
-    "ZONES:63"
-  ]
+    "adds": 1
+  }
 }
