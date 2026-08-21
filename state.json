@@ -742,12 +742,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "OneTab",
       "uid": "ZONES:64"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 741,
+      "sid": 741,
+      "label": "Add Mandanas dental",
+      "uid": "SPIN_WHEEL:741"
     }
   ],
-  "version": 1797,
-  "updated": "2026-08-20T22:53:46.682830+00:00",
+  "version": 1798,
+  "updated": "2026-08-21T03:22:18.447560+00:00",
   "buckets": {
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 53,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
