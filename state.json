@@ -701,13 +701,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 734,
-      "sid": 734,
-      "label": "Pack book sale",
-      "uid": "SPIN_WHEEL:734"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 735,
       "sid": 735,
       "label": "Add crawlspace filter to maintenance",
@@ -779,10 +772,10 @@
       "uid": "SPIN_WHEEL:745"
     }
   ],
-  "version": 1802,
-  "updated": "2026-08-21T21:45:17.296371+00:00",
+  "version": 1803,
+  "updated": "2026-08-21T21:46:02.328448+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 56,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
