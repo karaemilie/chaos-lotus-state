@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 734,
+      "label": "Pack book sale",
+      "uid": "SPIN_WHEEL:734",
+      "_ts": "2026-08-21T21:45:02.829Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-08-21T21:44:57.407Z"
     }
   ],
-  "mirroredAt": "2026-08-21T21:44:57.716Z",
+  "mirroredAt": "2026-08-21T21:45:03.072Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
