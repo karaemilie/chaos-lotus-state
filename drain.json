@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-21T09:11:07.440Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pick daily time for business",
+      "_addedAt": "2026-08-21T19:01:22.620Z",
+      "_ts": "2026-08-21T19:01:22.757Z"
+    }
+  ],
+  "mirroredAt": "2026-08-21T19:01:23.050Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
