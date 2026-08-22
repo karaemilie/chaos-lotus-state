@@ -179,16 +179,6 @@
       "uid": "COURAGE:11216:0"
     },
     {
-      "source": "ZONES",
-      "zid": 52,
-      "floor": "Basement",
-      "row": 53,
-      "label": "\ud83e\uddfa Basement Craft Zone",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Craft Zone",
-      "uid": "ZONES:52"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 486,
       "row": 9,
@@ -753,10 +743,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10024"
+    },
+    {
+      "source": "ZONES",
+      "zid": 53,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Foyer",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Foyer",
+      "uid": "ZONES:53"
     }
   ],
-  "version": 1819,
-  "updated": "2026-08-22T08:58:41.278374+00:00",
+  "version": 1820,
+  "updated": "2026-08-22T10:06:34.866588+00:00",
   "buckets": {
     "SPIN_WHEEL": 51,
     "TASKS": 18,
