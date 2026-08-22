@@ -721,12 +721,26 @@
       "sid": 750,
       "label": "Load new errand wheel",
       "uid": "SPIN_WHEEL:750"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 751,
+      "sid": 751,
+      "label": "Fix ice maker",
+      "uid": "SPIN_WHEEL:751"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 752,
+      "sid": 752,
+      "label": "Ceiling paint samples",
+      "uid": "SPIN_WHEEL:752"
     }
   ],
-  "version": 1828,
-  "updated": "2026-08-22T10:39:27.191984+00:00",
+  "version": 1829,
+  "updated": "2026-08-22T10:40:07.060406+00:00",
   "buckets": {
-    "SPIN_WHEEL": 48,
+    "SPIN_WHEEL": 50,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
