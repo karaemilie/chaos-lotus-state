@@ -700,13 +700,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 738,
-      "sid": 738,
-      "label": "Apply to Wings program",
-      "uid": "SPIN_WHEEL:738"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 739,
       "sid": 739,
       "label": "Set up two week plan to prove I can make money?",
@@ -772,10 +765,10 @@
       "uid": "MAINTENANCE:99"
     }
   ],
-  "version": 1804,
-  "updated": "2026-08-22T00:32:07.994198+00:00",
+  "version": 1805,
+  "updated": "2026-08-22T01:26:07.658622+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 55,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
