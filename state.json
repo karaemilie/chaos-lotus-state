@@ -547,13 +547,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 708,
-      "row": 31,
-      "label": "Decide about ceiling for boys room",
-      "uid": "SPIN:708"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 465,
       "row": 6,
       "label": "5 minutes in Custom Cut Software \u23f1\ufe0f",
@@ -737,10 +730,10 @@
       "uid": "SPIN_WHEEL:752"
     }
   ],
-  "version": 1829,
-  "updated": "2026-08-22T10:40:07.060406+00:00",
+  "version": 1830,
+  "updated": "2026-08-22T10:44:58.770789+00:00",
   "buckets": {
-    "SPIN_WHEEL": 50,
+    "SPIN_WHEEL": 49,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
