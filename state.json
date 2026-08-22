@@ -763,12 +763,19 @@
       "sid": 746,
       "label": "Price watch walnut sound tiles",
       "uid": "SPIN_WHEEL:746"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 747,
+      "sid": 747,
+      "label": "Finish upgrading zones",
+      "uid": "SPIN_WHEEL:747"
     }
   ],
-  "version": 1807,
-  "updated": "2026-08-22T06:57:30.021694+00:00",
+  "version": 1808,
+  "updated": "2026-08-22T06:58:12.523692+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 56,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
