@@ -78,20 +78,6 @@
       "uid": "TASKS:11831"
     },
     {
-      "source": "TASKS",
-      "id": 11757,
-      "row": 250,
-      "label": "\u2728 Listen to part of a podcast \ud83c\udfa7",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 30,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11757"
-    },
-    {
       "source": "ZONES",
       "zid": 85,
       "floor": "Personal",
@@ -751,10 +737,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Kitchen Up High",
       "uid": "ZONES:79"
+    },
+    {
+      "source": "TASKS",
+      "id": 10140,
+      "label": "Talk to Evan about Derek Owens",
+      "aw": 4,
+      "pri": "High",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10140"
     }
   ],
-  "version": 1821,
-  "updated": "2026-08-22T10:07:32.806874+00:00",
+  "version": 1822,
+  "updated": "2026-08-22T10:09:39.076670+00:00",
   "buckets": {
     "SPIN_WHEEL": 51,
     "TASKS": 18,
