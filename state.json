@@ -749,12 +749,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Mudroom",
       "uid": "ZONES:30"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 749,
+      "sid": 749,
+      "label": "List AoPS books on eBay",
+      "uid": "SPIN_WHEEL:749"
     }
   ],
-  "version": 1815,
-  "updated": "2026-08-22T08:53:43.495405+00:00",
+  "version": 1816,
+  "updated": "2026-08-22T08:53:45.672741+00:00",
   "buckets": {
-    "SPIN_WHEEL": 50,
+    "SPIN_WHEEL": 51,
     "TASKS": 18,
     "ZONES": 9,
     "COURAGE": 4,
