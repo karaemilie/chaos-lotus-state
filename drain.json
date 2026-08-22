@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 742,
+      "label": "Order more zipper compression bags",
+      "uid": "SPIN_WHEEL:742",
+      "_ts": "2026-08-22T08:49:24.362Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-22T07:00:53.833Z",
+  "mirroredAt": "2026-08-22T08:49:24.588Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-22T07:00:54.758578+00:00",
-  "lastAutoProcessed": [
-    "ZONES:29"
-  ]
+  }
 }
