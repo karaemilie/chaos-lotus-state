@@ -457,16 +457,6 @@
       "uid": "SPIN:555"
     },
     {
-      "source": "ZONES",
-      "zid": 29,
-      "floor": "Main Floor",
-      "row": 30,
-      "label": "\ud83e\uddfa School Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "School Room",
-      "uid": "ZONES:29"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 713,
       "row": 39,
@@ -770,10 +760,19 @@
       "sid": 747,
       "label": "Finish upgrading zones",
       "uid": "SPIN_WHEEL:747"
+    },
+    {
+      "source": "ZONES",
+      "zid": 30,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Mudroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Mudroom",
+      "uid": "ZONES:30"
     }
   ],
-  "version": 1808,
-  "updated": "2026-08-22T06:58:12.523692+00:00",
+  "version": 1809,
+  "updated": "2026-08-22T07:00:52.586152+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "ZONES": 9,
