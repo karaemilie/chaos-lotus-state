@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-22T01:27:02.135Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Price watch walnut sound tiles",
+      "_addedAt": "2026-08-22T06:57:12.393Z",
+      "_ts": "2026-08-22T06:57:12.686Z"
+    }
+  ],
+  "mirroredAt": "2026-08-22T06:57:12.932Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-22T01:27:03.227485+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:743"
-  ]
+    "adds": 1
+  }
 }
