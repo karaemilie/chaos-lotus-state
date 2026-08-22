@@ -36,16 +36,6 @@
       "uid": "SPIN:702"
     },
     {
-      "source": "ZONES",
-      "zid": 30,
-      "floor": "Main Floor",
-      "row": 31,
-      "label": "\ud83e\uddfa Mudroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Mudroom",
-      "uid": "ZONES:30"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 490,
       "row": 10,
@@ -161,20 +151,6 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Clean library mirror",
       "uid": "MAINTENANCE:97"
-    },
-    {
-      "source": "TASKS",
-      "id": 11830,
-      "row": 272,
-      "label": "\u2728 Cancel IXL ($25/month)",
-      "aw": 3,
-      "pri": null,
-      "dur": 15,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11830"
     },
     {
       "source": "SPIN_WHEEL",
@@ -755,10 +731,32 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10117"
+    },
+    {
+      "source": "ZONES",
+      "zid": 31,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Tahoe",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Tahoe",
+      "uid": "ZONES:31"
+    },
+    {
+      "source": "TASKS",
+      "id": 10024,
+      "label": "Order cherry shelves on eBay",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10024"
     }
   ],
-  "version": 1818,
-  "updated": "2026-08-22T08:57:53.918851+00:00",
+  "version": 1819,
+  "updated": "2026-08-22T08:58:41.278374+00:00",
   "buckets": {
     "SPIN_WHEEL": 51,
     "TASKS": 18,
