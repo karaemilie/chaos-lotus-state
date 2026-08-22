@@ -327,27 +327,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 747,
-      "row": 50,
-      "label": "Finish upgrading zones",
-      "uid": "SPIN:747"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 676,
-      "row": 24,
-      "label": "Finish wrapping deck chair",
-      "uid": "SPIN:676"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 722,
-      "row": 39,
-      "label": "Order tech suit",
-      "uid": "SPIN:722"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 713,
       "row": 35,
       "label": "Run Genevieve cost numbers \ud83d\ude2c",
@@ -743,10 +722,10 @@
       "uid": "TASKS:11708"
     }
   ],
-  "version": 1823,
-  "updated": "2026-08-22T10:10:23.324272+00:00",
+  "version": 1824,
+  "updated": "2026-08-22T10:11:06.164754+00:00",
   "buckets": {
-    "SPIN_WHEEL": 50,
+    "SPIN_WHEEL": 47,
     "TASKS": 18,
     "ZONES": 9,
     "MAINTENANCE": 2,
