@@ -6,6 +6,13 @@
       "label": "Mop water tank",
       "uid": "SPIN_WHEEL:733",
       "_ts": "2026-08-22T08:52:45.948Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 735,
+      "label": "Add crawlspace filter to maintenance",
+      "uid": "SPIN_WHEEL:735",
+      "_ts": "2026-08-22T08:52:57.420Z"
     }
   ],
   "adds": [
@@ -16,9 +23,9 @@
       "_ts": "2026-08-22T08:50:29.107Z"
     }
   ],
-  "mirroredAt": "2026-08-22T08:52:46.160Z",
+  "mirroredAt": "2026-08-22T08:52:57.617Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 1
   }
 }
