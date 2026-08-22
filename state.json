@@ -568,14 +568,6 @@
       "uid": "SPIN:576"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 98,
-      "label": "\ud83c\udfe0 Wash my sheet",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Wash my sheet",
-      "uid": "MAINTENANCE:98"
-    },
-    {
       "source": "TASKS",
       "id": 10089,
       "label": "Apply for Genevieve's credit card \ud83d\udcdd",
@@ -770,10 +762,18 @@
       "sid": 745,
       "label": "Genevieve storage containers & shake container",
       "uid": "SPIN_WHEEL:745"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 99,
+      "label": "\ud83c\udfe0 Clean kids/family room mirror",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Clean kids/family room mirror",
+      "uid": "MAINTENANCE:99"
     }
   ],
-  "version": 1803,
-  "updated": "2026-08-21T21:46:02.328448+00:00",
+  "version": 1804,
+  "updated": "2026-08-22T00:32:07.994198+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "ZONES": 9,
