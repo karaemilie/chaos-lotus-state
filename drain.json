@@ -1,13 +1,16 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "label": "🏠 Wash my sheet",
+      "uid": "MAINTENANCE:98",
+      "_ts": "2026-08-22T00:31:55.176Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-21T21:46:03.603Z",
+  "mirroredAt": "2026-08-22T00:31:55.408Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-21T21:46:04.836420+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:734"
-  ]
+  }
 }
