@@ -737,13 +737,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 743,
-      "sid": 743,
-      "label": "Wings application include Evan",
-      "uid": "SPIN_WHEEL:743"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 744,
       "sid": 744,
       "label": "Pick daily time for business",
@@ -765,10 +758,10 @@
       "uid": "MAINTENANCE:99"
     }
   ],
-  "version": 1805,
-  "updated": "2026-08-22T01:26:07.658622+00:00",
+  "version": 1806,
+  "updated": "2026-08-22T01:27:00.748645+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 54,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 17,
