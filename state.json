@@ -223,20 +223,6 @@
       "uid": "SPIN:465"
     },
     {
-      "source": "TASKS",
-      "id": 11553,
-      "row": 208,
-      "label": "\u2728 Clean the icemaker \ud83d\udcdd",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11553"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 725,
       "row": 40,
@@ -369,20 +355,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11934,
-      "row": 328,
-      "label": "\u2728 Mow the lawn \ud83c\udf31",
-      "aw": 3,
-      "pri": 3,
-      "dur": 45,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11934"
-    },
-    {
-      "source": "TASKS",
       "id": 11094,
       "row": 157,
       "label": "\u2728 Plant pest treatment section \ud83c\udf3f (spray alcohol, Bonide, pesticide, check props)",
@@ -401,13 +373,6 @@
       "row": 42,
       "label": "List cello box",
       "uid": "SPIN:728"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 640,
-      "row": 21,
-      "label": "Blanket bag to Genevieve room",
-      "uid": "SPIN:640"
     },
     {
       "source": "TASKS",
@@ -750,12 +715,38 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10140"
+    },
+    {
+      "source": "TASKS",
+      "id": 10151,
+      "label": "Scrub ceiling of Subaru for dirt \ud83d\udcdd",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10151"
+    },
+    {
+      "source": "TASKS",
+      "id": 11708,
+      "label": "Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11708"
     }
   ],
-  "version": 1822,
-  "updated": "2026-08-22T10:09:39.076670+00:00",
+  "version": 1823,
+  "updated": "2026-08-22T10:10:23.324272+00:00",
   "buckets": {
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 50,
     "TASKS": 18,
     "ZONES": 9,
     "MAINTENANCE": 2,
