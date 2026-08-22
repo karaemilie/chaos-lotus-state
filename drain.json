@@ -2,16 +2,36 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
+      "row": 733,
+      "label": "Mop water tank",
+      "uid": "SPIN_WHEEL:733",
+      "_ts": "2026-08-22T08:52:45.948Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 735,
       "label": "Add crawlspace filter to maintenance",
       "uid": "SPIN_WHEEL:735",
       "_ts": "2026-08-22T08:52:57.420Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-08-22T08:52:59.794Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Genevieve -‘dressers, bed riser, yeti, and storage bins for dry ingredients",
+      "_addedAt": "2026-08-22T08:50:28.961Z",
+      "_ts": "2026-08-22T08:50:29.107Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "List AoPS books on eBay",
+      "_addedAt": "2026-08-22T08:53:16.191Z",
+      "_ts": "2026-08-22T08:53:16.375Z"
+    }
+  ],
+  "mirroredAt": "2026-08-22T08:53:16.597Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 2
   }
 }
