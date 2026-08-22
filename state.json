@@ -277,13 +277,6 @@
       "uid": "SPIN:486"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 490,
-      "row": 10,
-      "label": "Read more about paint sprayers - quickest clean??",
-      "uid": "SPIN:490"
-    },
-    {
       "source": "TASKS",
       "id": 10167,
       "row": 43,
@@ -744,10 +737,10 @@
       "uid": "SPIN_WHEEL:754"
     }
   ],
-  "version": 1832,
-  "updated": "2026-08-22T22:04:42.559406+00:00",
+  "version": 1833,
+  "updated": "2026-08-22T22:05:29.112759+00:00",
   "buckets": {
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 50,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
