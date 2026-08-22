@@ -1,17 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-22T08:50:28.383Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 733,
+      "label": "Mop water tank",
+      "uid": "SPIN_WHEEL:733",
+      "_ts": "2026-08-22T08:52:45.948Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Genevieve -‘dressers, bed riser, yeti, and storage bins for dry ingredients",
+      "_addedAt": "2026-08-22T08:50:28.961Z",
+      "_ts": "2026-08-22T08:50:29.107Z"
+    }
+  ],
+  "mirroredAt": "2026-08-22T08:52:46.160Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-22T08:50:29.559169+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:742",
-    "SPIN_WHEEL:745",
-    "SPIN_WHEEL:740",
-    "SPIN_WHEEL:729",
-    "SPIN_WHEEL:727"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
