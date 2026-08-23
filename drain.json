@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-23T22:32:38.531Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ask about wall holes",
+      "_addedAt": "2026-08-23T23:04:03.594Z",
+      "_ts": "2026-08-23T23:04:03.735Z"
+    }
+  ],
+  "mirroredAt": "2026-08-23T23:04:03.988Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
