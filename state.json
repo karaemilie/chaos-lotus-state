@@ -340,13 +340,6 @@
       "uid": "SPIN:719"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 741,
-      "row": 44,
-      "label": "Add Mandanas dental",
-      "uid": "SPIN:741"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11825,
       "parentRow": 268,
@@ -763,10 +756,10 @@
       "uid": "SPIN_WHEEL:758"
     }
   ],
-  "version": 1839,
-  "updated": "2026-08-23T06:36:39.871818+00:00",
+  "version": 1840,
+  "updated": "2026-08-23T06:38:33.188731+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 53,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
