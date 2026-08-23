@@ -91,16 +91,6 @@
       "uid": "ZONES:31"
     },
     {
-      "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "row": 77,
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 731,
       "row": 41,
@@ -748,10 +738,19 @@
       "sid": 756,
       "label": "Bentley resume",
       "uid": "SPIN_WHEEL:756"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Hallway",
+      "uid": "ZONES:80"
     }
   ],
-  "version": 1836,
-  "updated": "2026-08-23T04:46:29.716440+00:00",
+  "version": 1837,
+  "updated": "2026-08-23T05:10:45.766437+00:00",
   "buckets": {
     "SPIN_WHEEL": 52,
     "TASKS": 17,
