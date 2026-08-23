@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-23T03:57:31.345Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Bentley resume",
+      "_addedAt": "2026-08-23T04:46:14.334Z",
+      "_ts": "2026-08-23T04:46:14.504Z"
+    }
+  ],
+  "mirroredAt": "2026-08-23T04:46:14.718Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-23T03:57:32.206065+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10167"
-  ]
+    "adds": 1
+  }
 }
