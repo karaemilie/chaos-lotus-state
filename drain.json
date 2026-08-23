@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-22T22:05:30.112Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order more wake time non caffeine",
+      "_addedAt": "2026-08-23T02:42:36.106Z",
+      "_ts": "2026-08-23T02:42:36.260Z"
+    }
+  ],
+  "mirroredAt": "2026-08-23T02:42:36.489Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-22T22:05:31.060120+00:00",
-  "lastAutoProcessed": [
-    "SPIN:490"
-  ]
+    "adds": 1
+  }
 }
