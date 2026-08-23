@@ -277,20 +277,6 @@
       "uid": "SPIN:486"
     },
     {
-      "source": "TASKS",
-      "id": 10167,
-      "row": 43,
-      "label": "\u2728 Clean filters in NuWave air purifier \ud83d\udcdd",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10167"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 713,
       "row": 33,
@@ -742,10 +728,23 @@
       "sid": 755,
       "label": "Order more wake time non caffeine",
       "uid": "SPIN_WHEEL:755"
+    },
+    {
+      "source": "TASKS",
+      "id": 10117,
+      "label": "Look at FluentU/Netflix for foreign language learning for boys",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": "Homeschool Admin",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10117"
     }
   ],
-  "version": 1834,
-  "updated": "2026-08-23T02:42:52.732048+00:00",
+  "version": 1835,
+  "updated": "2026-08-23T03:57:29.040794+00:00",
   "buckets": {
     "SPIN_WHEEL": 51,
     "TASKS": 17,
