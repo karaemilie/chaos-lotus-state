@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-23T05:10:47.038Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send Ja",
+      "_addedAt": "2026-08-23T06:35:35.148Z",
+      "_ts": "2026-08-23T06:35:35.273Z"
+    }
+  ],
+  "mirroredAt": "2026-08-23T06:35:35.527Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-23T05:10:47.905324+00:00",
-  "lastAutoProcessed": [
-    "ZONES:75"
-  ]
+    "adds": 1
+  }
 }
