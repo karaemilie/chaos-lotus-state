@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-23T09:28:52.709Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Replace B credit card",
+      "_addedAt": "2026-08-23T22:32:24.228Z",
+      "_ts": "2026-08-23T22:32:24.375Z"
+    }
+  ],
+  "mirroredAt": "2026-08-23T22:32:24.644Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-23T09:28:53.547421+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:755"
-  ]
+    "adds": 1
+  }
 }
