@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-23T23:08:44.846Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send Genevieve primer",
+      "_addedAt": "2026-08-24T04:47:55.553Z",
+      "_ts": "2026-08-24T04:47:56.295Z"
+    }
+  ],
+  "mirroredAt": "2026-08-24T04:47:56.577Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
