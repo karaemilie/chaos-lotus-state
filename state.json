@@ -232,20 +232,6 @@
       "uid": "TASKS:10622"
     },
     {
-      "source": "TASKS",
-      "id": 11981,
-      "row": 360,
-      "label": "\u2b50 Order Bentley a portable battery backup \ud83d\udd0b",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:11981"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 337,
       "row": 5,
@@ -789,10 +775,23 @@
       "sid": 765,
       "label": "Order hydrocortisone for B, tension rods",
       "uid": "SPIN_WHEEL:765"
+    },
+    {
+      "source": "TASKS",
+      "id": 11307,
+      "label": "\u2728 Review Evan's bedtime & adjust melatonin timing \ud83d\ude34\ud83d\udc8a",
+      "aw": 6,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": null,
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11307"
     }
   ],
-  "version": 1849,
-  "updated": "2026-08-24T20:18:52.374794+00:00",
+  "version": 1850,
+  "updated": "2026-08-24T21:36:18.596488+00:00",
   "buckets": {
     "SPIN_WHEEL": 58,
     "TASKS": 17,
