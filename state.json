@@ -594,13 +594,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 746,
-      "row": 46,
-      "label": "Price watch walnut sound tiles",
-      "uid": "SPIN:746"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 716,
       "row": 34,
       "label": "List focus science books",
@@ -791,10 +784,10 @@
       "uid": "SPIN_WHEEL:764"
     }
   ],
-  "version": 1847,
-  "updated": "2026-08-24T09:03:56.181524+00:00",
+  "version": 1848,
+  "updated": "2026-08-24T09:04:46.043898+00:00",
   "buckets": {
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 57,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
