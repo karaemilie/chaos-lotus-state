@@ -775,12 +775,19 @@
       "sid": 762,
       "label": "Send B putty, containers for paint, paint brush",
       "uid": "SPIN_WHEEL:762"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 763,
+      "sid": 763,
+      "label": "Send Genevieve primer",
+      "uid": "SPIN_WHEEL:763"
     }
   ],
-  "version": 1845,
-  "updated": "2026-08-23T23:08:46.286933+00:00",
+  "version": 1846,
+  "updated": "2026-08-24T04:48:14.906553+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 57,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
