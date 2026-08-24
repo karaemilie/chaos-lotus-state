@@ -782,12 +782,19 @@
       "sid": 763,
       "label": "Send Genevieve primer",
       "uid": "SPIN_WHEEL:763"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 764,
+      "sid": 764,
+      "label": "Research AC cost and internet cost so he has Alexa",
+      "uid": "SPIN_WHEEL:764"
     }
   ],
-  "version": 1846,
-  "updated": "2026-08-24T04:48:14.906553+00:00",
+  "version": 1847,
+  "updated": "2026-08-24T09:03:56.181524+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 58,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
