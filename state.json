@@ -16,13 +16,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 713,
-      "row": 31,
-      "label": "Run Genevieve cost numbers \ud83d\ude2c",
-      "uid": "SPIN:713"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 465,
       "row": 6,
       "label": "5 minutes in Custom Cut Software \u23f1\ufe0f",
@@ -779,10 +772,10 @@
       "uid": "SPIN_WHEEL:765"
     }
   ],
-  "version": 1857,
-  "updated": "2026-08-24T22:58:36.828928+00:00",
+  "version": 1858,
+  "updated": "2026-08-24T22:59:02.486765+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 55,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 4,
