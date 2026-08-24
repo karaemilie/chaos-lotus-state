@@ -258,13 +258,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 757,
-      "row": 51,
-      "label": "Send Ja",
-      "uid": "SPIN:757"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 719,
       "row": 34,
       "label": "Verify the Credit Union acct in Ally",
@@ -786,10 +779,10 @@
       "uid": "SPIN_WHEEL:765"
     }
   ],
-  "version": 1856,
-  "updated": "2026-08-24T22:58:13.266163+00:00",
+  "version": 1857,
+  "updated": "2026-08-24T22:58:36.828928+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 56,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 4,
