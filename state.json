@@ -685,16 +685,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 80,
-      "floor": "Plant",
-      "row": 82,
-      "label": "\ud83c\udf31 Hallway",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Hallway",
-      "uid": "ZONES:80"
-    },
-    {
-      "source": "ZONES",
       "zid": 53,
       "floor": "Basement",
       "row": 54,
@@ -770,10 +760,19 @@
       "sid": 765,
       "label": "Check garage for coco husk",
       "uid": "SPIN_WHEEL:765"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 1858,
-  "updated": "2026-08-24T22:59:02.486765+00:00",
+  "version": 1859,
+  "updated": "2026-08-24T23:00:10.334986+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "ZONES": 9,
