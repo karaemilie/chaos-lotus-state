@@ -770,13 +770,6 @@
       "uid": "SPIN_WHEEL:764"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 765,
-      "sid": 765,
-      "label": "Order hydrocortisone for B, tension rods",
-      "uid": "SPIN_WHEEL:765"
-    },
-    {
       "source": "TASKS",
       "id": 11307,
       "label": "\u2728 Review Evan's bedtime & adjust melatonin timing \ud83d\ude34\ud83d\udc8a",
@@ -790,10 +783,10 @@
       "uid": "TASKS:11307"
     }
   ],
-  "version": 1850,
-  "updated": "2026-08-24T21:36:18.596488+00:00",
+  "version": 1851,
+  "updated": "2026-08-24T21:37:12.975711+00:00",
   "buckets": {
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 57,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
