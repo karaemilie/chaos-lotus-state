@@ -9,13 +9,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 763,
-      "row": 57,
-      "label": "Send Genevieve primer",
-      "uid": "SPIN:763"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 703,
       "row": 28,
       "label": "Steam the new dress shirts",
@@ -793,10 +786,10 @@
       "uid": "SPIN_WHEEL:765"
     }
   ],
-  "version": 1855,
-  "updated": "2026-08-24T22:57:07.151155+00:00",
+  "version": 1856,
+  "updated": "2026-08-24T22:58:13.266163+00:00",
   "buckets": {
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 57,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 4,
