@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-24T21:37:14.768Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Check garage for coco husk",
+      "_addedAt": "2026-08-24T22:56:50.954Z",
+      "_ts": "2026-08-24T22:56:51.010Z"
+    }
+  ],
+  "mirroredAt": "2026-08-24T22:56:51.273Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-24T21:37:15.616784+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:765"
-  ]
+    "adds": 1
+  }
 }
