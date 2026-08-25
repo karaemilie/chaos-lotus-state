@@ -424,15 +424,6 @@
       "uid": "SPIN:692"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 97,
-      "row": 98,
-      "label": "\ud83c\udfe0 Clean library mirror",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Clean library mirror",
-      "uid": "MAINTENANCE:97"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 10,
@@ -762,10 +753,18 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Bedroom",
       "uid": "ZONES:73"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 100,
+      "label": "\ud83c\udfe0 Scrub kids shower",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Scrub kids shower",
+      "uid": "MAINTENANCE:100"
     }
   ],
-  "version": 1860,
-  "updated": "2026-08-25T01:11:25.180061+00:00",
+  "version": 1861,
+  "updated": "2026-08-25T02:36:35.012820+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "ZONES": 9,
