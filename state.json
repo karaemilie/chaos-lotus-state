@@ -281,13 +281,6 @@
       "uid": "TASKS:11216"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 716,
-      "row": 32,
-      "label": "List focus science books",
-      "uid": "SPIN:716"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11825,
       "parentRow": 257,
@@ -797,10 +790,10 @@
       "uid": "SPIN_WHEEL:771"
     }
   ],
-  "version": 1869,
-  "updated": "2026-08-25T05:07:53.781767+00:00",
+  "version": 1870,
+  "updated": "2026-08-25T05:08:39.601195+00:00",
   "buckets": {
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 58,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 4,
