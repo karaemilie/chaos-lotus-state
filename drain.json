@@ -2,6 +2,14 @@
   "completions": [
     {
       "source": "ZONES",
+      "zid": 65,
+      "floor": "Digital",
+      "label": "💻 Emails",
+      "uid": "ZONES:65",
+      "_ts": "2026-08-25T22:56:30.985Z"
+    },
+    {
+      "source": "ZONES",
       "row": 87,
       "zid": 85,
       "floor": "Personal",
@@ -10,10 +18,17 @@
       "_ts": "2026-08-25T22:56:41.793Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-08-25T22:56:46.369Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Talk to Bailey about Lincoln",
+      "_addedAt": "2026-08-25T22:57:21.997Z",
+      "_ts": "2026-08-25T22:57:22.110Z"
+    }
+  ],
+  "mirroredAt": "2026-08-25T22:57:22.378Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
