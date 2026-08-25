@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-25T22:58:11.170Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pack up Genevieve bags",
+      "_addedAt": "2026-08-25T23:14:29.402Z",
+      "_ts": "2026-08-25T23:14:30.038Z"
+    }
+  ],
+  "mirroredAt": "2026-08-25T23:14:30.466Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
