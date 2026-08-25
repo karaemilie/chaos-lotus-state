@@ -563,16 +563,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 90,
-      "floor": "Personal",
-      "row": 91,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Feet Care & Pedi",
-      "uid": "ZONES:90"
-    },
-    {
-      "source": "ZONES",
       "zid": 8,
       "floor": "Upstairs",
       "row": 9,
@@ -792,10 +782,19 @@
       "sid": 773,
       "label": "Update 1/2 bath Pura",
       "uid": "SPIN_WHEEL:773"
+    },
+    {
+      "source": "ZONES",
+      "zid": 81,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Exfoliation",
+      "uid": "ZONES:81"
     }
   ],
-  "version": 1876,
-  "updated": "2026-08-25T21:04:41.019149+00:00",
+  "version": 1877,
+  "updated": "2026-08-25T21:36:58.859656+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 17,
