@@ -760,15 +760,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 65,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Emails",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Emails",
-      "uid": "ZONES:65"
-    },
-    {
-      "source": "ZONES",
       "zid": 66,
       "floor": "Digital",
       "label": "\ud83d\udcbb Due",
@@ -791,10 +782,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Exfoliation",
       "uid": "ZONES:81"
+    },
+    {
+      "source": "ZONES",
+      "zid": 67,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Quicken",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Quicken",
+      "uid": "ZONES:67"
     }
   ],
-  "version": 1877,
-  "updated": "2026-08-25T21:36:58.859656+00:00",
+  "version": 1878,
+  "updated": "2026-08-25T22:56:44.902470+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 17,
