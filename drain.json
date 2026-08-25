@@ -1,16 +1,17 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-24T23:00:13.498Z",
-  "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-24T23:00:14.714841+00:00",
-  "lastAutoProcessed": [
-    "ZONES:80"
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 52,
+      "label": "Snacks to Jake",
+      "uid": "SPIN:758",
+      "_ts": "2026-08-25T01:11:07.346Z"
+    }
   ],
-  "autoReset": [
-    "Plant"
-  ]
+  "adds": [],
+  "mirroredAt": "2026-08-25T01:11:07.601Z",
+  "counts": {
+    "completions": 1,
+    "adds": 0
+  }
 }
