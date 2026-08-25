@@ -144,18 +144,6 @@
       "uid": "SPIN:566"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11978,
-      "parentRow": 335,
-      "parentLabel": "Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-08-04",
-      "label": "\ud83d\udd25 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11978:0"
-    },
-    {
       "source": "TASKS",
       "id": 11995,
       "row": 349,
@@ -795,10 +783,21 @@
       "sid": 772,
       "label": "Call Costco about machine",
       "uid": "SPIN_WHEEL:772"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11911,
+      "stepIndex": 0,
+      "parentLabel": "Review APS requirements \u2014 Lincoln \ud83d\udccb",
+      "aw": 2,
+      "due": null,
+      "label": "\ud83d\udd25 Review APS requirements \u2014 Lincoln \ud83d\udccb",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11911:0"
     }
   ],
-  "version": 1871,
-  "updated": "2026-08-25T06:13:30.084162+00:00",
+  "version": 1872,
+  "updated": "2026-08-25T07:46:05.258531+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "ZONES": 9,
