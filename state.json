@@ -777,23 +777,16 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 768,
-      "sid": 768,
-      "label": "Pan and knives for B and kitchen utensils",
-      "uid": "SPIN_WHEEL:768"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 769,
       "sid": 769,
       "label": "Dicing knife for B",
       "uid": "SPIN_WHEEL:769"
     }
   ],
-  "version": 1866,
-  "updated": "2026-08-25T03:25:20.088326+00:00",
+  "version": 1867,
+  "updated": "2026-08-25T03:25:58.039901+00:00",
   "buckets": {
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 57,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 4,
