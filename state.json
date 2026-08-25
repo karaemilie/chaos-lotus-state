@@ -774,12 +774,19 @@
       "sid": 767,
       "label": "Find B Wild rice",
       "uid": "SPIN_WHEEL:767"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 768,
+      "sid": 768,
+      "label": "Pan and knives for B and kitchen utensils",
+      "uid": "SPIN_WHEEL:768"
     }
   ],
-  "version": 1864,
-  "updated": "2026-08-25T02:53:50.567462+00:00",
+  "version": 1865,
+  "updated": "2026-08-25T02:57:42.252268+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 57,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 4,
