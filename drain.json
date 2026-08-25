@@ -1,16 +1,18 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-25T21:37:01.166Z",
-  "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-25T21:37:02.145328+00:00",
-  "lastAutoProcessed": [
-    "ZONES:90"
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 65,
+      "floor": "Digital",
+      "label": "💻 Emails",
+      "uid": "ZONES:65",
+      "_ts": "2026-08-25T22:56:30.985Z"
+    }
   ],
-  "autoReset": [
-    "Personal"
-  ]
+  "adds": [],
+  "mirroredAt": "2026-08-25T22:56:31.236Z",
+  "counts": {
+    "completions": 1,
+    "adds": 0
+  }
 }
