@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-25T03:25:59.593Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send AYO a note about swim practice",
+      "_addedAt": "2026-08-25T03:38:45.529Z",
+      "_ts": "2026-08-25T03:38:46.043Z"
+    }
+  ],
+  "mirroredAt": "2026-08-25T03:38:46.331Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-25T03:26:00.685972+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:768"
-  ]
+    "adds": 1
+  }
 }
