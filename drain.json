@@ -1,15 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-25T07:49:55.339Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Update 1/2 bath Pura",
+      "_addedAt": "2026-08-25T21:04:25.572Z",
+      "_ts": "2026-08-25T21:04:25.776Z"
+    }
+  ],
+  "mirroredAt": "2026-08-25T21:04:26.069Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-25T07:49:56.689170+00:00",
-  "lastAutoProcessed": [
-    "ZONES:64",
-    "ZONES:61",
-    "SPIN:728"
-  ]
+    "adds": 1
+  }
 }
