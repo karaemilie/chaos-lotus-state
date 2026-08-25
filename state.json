@@ -613,16 +613,6 @@
       "uid": "TASKS:10089"
     },
     {
-      "source": "ZONES",
-      "zid": 64,
-      "floor": "Digital",
-      "row": 65,
-      "label": "\ud83d\udcbb OneTab",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "OneTab",
-      "uid": "ZONES:64"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 718,
       "row": 33,
@@ -787,10 +777,19 @@
       "label": "\ud83d\udd25 Review APS requirements \u2014 Lincoln \ud83d\udccb",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11911:0"
+    },
+    {
+      "source": "ZONES",
+      "zid": 65,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Emails",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Emails",
+      "uid": "ZONES:65"
     }
   ],
-  "version": 1873,
-  "updated": "2026-08-25T07:48:24.430546+00:00",
+  "version": 1874,
+  "updated": "2026-08-25T07:49:12.732802+00:00",
   "buckets": {
     "SPIN_WHEEL": 58,
     "ZONES": 9,
