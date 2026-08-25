@@ -671,15 +671,6 @@
       "uid": "SPIN_WHEEL:765"
     },
     {
-      "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 101,
       "label": "\ud83c\udfe0 Clean bathroom mirrors",
@@ -804,10 +795,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Photos",
       "uid": "ZONES:68"
+    },
+    {
+      "source": "ZONES",
+      "zid": 74,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Plants",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Plants",
+      "uid": "ZONES:74"
     }
   ],
-  "version": 1883,
-  "updated": "2026-08-25T23:20:02.758964+00:00",
+  "version": 1884,
+  "updated": "2026-08-25T23:22:30.795741+00:00",
   "buckets": {
     "SPIN_WHEEL": 61,
     "TASKS": 17,
