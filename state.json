@@ -741,15 +741,6 @@
       "uid": "COURAGE:11911:0"
     },
     {
-      "source": "ZONES",
-      "zid": 66,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Due",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Due",
-      "uid": "ZONES:66"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 773,
       "sid": 773,
@@ -804,10 +795,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Trim cat claws",
       "uid": "MAINTENANCE:102"
+    },
+    {
+      "source": "ZONES",
+      "zid": 68,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Photos",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Photos",
+      "uid": "ZONES:68"
     }
   ],
-  "version": 1882,
-  "updated": "2026-08-25T23:18:14.590910+00:00",
+  "version": 1883,
+  "updated": "2026-08-25T23:20:02.758964+00:00",
   "buckets": {
     "SPIN_WHEEL": 61,
     "TASKS": 17,
