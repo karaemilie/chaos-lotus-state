@@ -760,12 +760,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Clean bathroom mirrors",
       "uid": "MAINTENANCE:101"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 766,
+      "sid": 766,
+      "label": "Cancel B storage unit",
+      "uid": "SPIN_WHEEL:766"
     }
   ],
-  "version": 1862,
-  "updated": "2026-08-25T02:37:06.194611+00:00",
+  "version": 1863,
+  "updated": "2026-08-25T02:50:04.213764+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 55,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 4,
