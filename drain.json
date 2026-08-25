@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 37,
+      "label": "List cello box",
+      "uid": "SPIN:728",
+      "_ts": "2026-08-25T07:48:11.793Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 65,
+      "zid": 64,
+      "floor": "Digital",
+      "label": "💻 OneTab",
+      "uid": "ZONES:64",
+      "_ts": "2026-08-25T07:48:59.147Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-25T07:48:25.385Z",
+  "mirroredAt": "2026-08-25T07:48:59.461Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-08-25T07:48:26.237421+00:00",
-  "lastAutoProcessed": [
-    "SPIN:728"
-  ]
+  }
 }
