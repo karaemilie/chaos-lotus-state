@@ -790,12 +790,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Dermaplane",
       "uid": "ZONES:82"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 774,
+      "sid": 774,
+      "label": "Talk to Bailey about Lincoln",
+      "uid": "SPIN_WHEEL:774"
     }
   ],
-  "version": 1879,
-  "updated": "2026-08-25T22:57:33.314154+00:00",
+  "version": 1880,
+  "updated": "2026-08-25T22:58:12.278652+00:00",
   "buckets": {
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 60,
     "TASKS": 17,
     "COURAGE": 4,
     "ZONES": 9,
