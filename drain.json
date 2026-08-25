@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-25T05:08:40.709Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Call Costco about machine",
+      "_addedAt": "2026-08-25T06:13:14.348Z",
+      "_ts": "2026-08-25T06:13:14.481Z"
+    }
+  ],
+  "mirroredAt": "2026-08-25T06:13:14.733Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-25T05:08:41.852489+00:00",
-  "lastAutoProcessed": [
-    "SPIN:716"
-  ]
+    "adds": 1
+  }
 }
