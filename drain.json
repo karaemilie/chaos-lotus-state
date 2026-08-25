@@ -1,9 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 91,
+      "zid": 90,
+      "floor": "Personal",
+      "label": "👱‍♀️ Feet Care & Pedi",
+      "uid": "ZONES:90",
+      "_ts": "2026-08-25T21:36:45.971Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-25T21:04:39.465Z",
+  "mirroredAt": "2026-08-25T21:36:46.256Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
