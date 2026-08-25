@@ -767,12 +767,19 @@
       "sid": 766,
       "label": "Cancel B storage unit",
       "uid": "SPIN_WHEEL:766"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 767,
+      "sid": 767,
+      "label": "Find B Wild rice",
+      "uid": "SPIN_WHEEL:767"
     }
   ],
-  "version": 1863,
-  "updated": "2026-08-25T02:50:04.213764+00:00",
+  "version": 1864,
+  "updated": "2026-08-25T02:53:50.567462+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 56,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 4,
