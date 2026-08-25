@@ -1,11 +1,15 @@
 {
-  "lastRun": "2026-08-25T07:49:15.329749+00:00",
+  "lastRun": "2026-08-25T07:49:56.689408+00:00",
   "lastRunAlaska": "2026-08-24 23:49 AKDT",
-  "processedCount": 2,
+  "processedCount": 3,
   "processed": [
     {
       "uid": "ZONES:64",
-      "result": "\u2705 Digital/OneTab (row 65) stamped 2026-08-24"
+      "result": "\u23ed\ufe0f  Digital/OneTab (row 65) already stamped \u2014 skip"
+    },
+    {
+      "uid": "ZONES:61",
+      "result": "\u2705 Digital/Reviews (row 62) stamped 2026-08-24"
     }
   ],
   "remainingForClaude": {
