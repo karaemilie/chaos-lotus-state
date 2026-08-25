@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 98,
+      "label": "🏠 Clean library mirror",
+      "uid": "MAINTENANCE:97",
+      "_ts": "2026-08-25T02:36:21.628Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-25T01:11:26.256Z",
+  "mirroredAt": "2026-08-25T02:36:21.967Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-25T01:11:27.009442+00:00",
-  "lastAutoProcessed": [
-    "SPIN:758"
-  ]
+  }
 }
