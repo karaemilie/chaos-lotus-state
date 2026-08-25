@@ -308,13 +308,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 758,
-      "row": 52,
-      "label": "Snacks to Jake",
-      "uid": "SPIN:758"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 576,
       "row": 15,
       "label": "Pay down my AK card and transfer balance to Genevieve Embry riddle account. Pay off Gemini too somehow",
@@ -771,10 +764,10 @@
       "uid": "ZONES:73"
     }
   ],
-  "version": 1859,
-  "updated": "2026-08-24T23:00:10.334986+00:00",
+  "version": 1860,
+  "updated": "2026-08-25T01:11:25.180061+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 54,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 4,
