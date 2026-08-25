@@ -788,12 +788,19 @@
       "sid": 770,
       "label": "Send AYO a note about swim practice",
       "uid": "SPIN_WHEEL:770"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 771,
+      "sid": 771,
+      "label": "List next focus science book! \ud83d\udcab",
+      "uid": "SPIN_WHEEL:771"
     }
   ],
-  "version": 1868,
-  "updated": "2026-08-25T03:39:00.942599+00:00",
+  "version": 1869,
+  "updated": "2026-08-25T05:07:53.781767+00:00",
   "buckets": {
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 59,
     "ZONES": 9,
     "TASKS": 17,
     "COURAGE": 4,
