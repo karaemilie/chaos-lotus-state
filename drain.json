@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-25T02:37:07.559Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Cancel B storage unit",
+      "_addedAt": "2026-08-25T02:49:47.290Z",
+      "_ts": "2026-08-25T02:49:47.629Z"
+    }
+  ],
+  "mirroredAt": "2026-08-25T02:49:47.874Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-25T02:37:08.695395+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:99"
-  ]
+    "adds": 1
+  }
 }
