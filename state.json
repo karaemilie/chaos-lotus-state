@@ -162,16 +162,6 @@
       "uid": "SPIN:572"
     },
     {
-      "source": "ZONES",
-      "zid": 85,
-      "floor": "Personal",
-      "row": 87,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Mask",
-      "uid": "ZONES:85"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 614,
       "row": 19,
@@ -791,15 +781,24 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Quicken",
       "uid": "ZONES:67"
+    },
+    {
+      "source": "ZONES",
+      "zid": 82,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Dermaplane",
+      "uid": "ZONES:82"
     }
   ],
-  "version": 1878,
-  "updated": "2026-08-25T22:56:44.902470+00:00",
+  "version": 1879,
+  "updated": "2026-08-25T22:57:33.314154+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 17,
-    "ZONES": 9,
     "COURAGE": 4,
+    "ZONES": 9,
     "MAINTENANCE": 2
   }
 }
