@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 37,
+      "label": "List cello box",
+      "uid": "SPIN:728",
+      "_ts": "2026-08-25T07:48:11.793Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-25T07:46:07.890Z",
+  "mirroredAt": "2026-08-25T07:48:12.030Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-25T07:46:08.792753+00:00",
-  "lastAutoProcessed": [
-    "COURAGE:11978:0"
-  ]
+  }
 }
