@@ -681,14 +681,6 @@
     },
     {
       "source": "MAINTENANCE",
-      "mid": 100,
-      "label": "\ud83c\udfe0 Scrub kids shower",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Scrub kids shower",
-      "uid": "MAINTENANCE:100"
-    },
-    {
-      "source": "MAINTENANCE",
       "mid": 101,
       "label": "\ud83c\udfe0 Clean bathroom mirrors",
       "emoji": "\ud83c\udfe0",
@@ -804,10 +796,18 @@
       "sid": 775,
       "label": "Pack up Genevieve bags",
       "uid": "SPIN_WHEEL:775"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 102,
+      "label": "\ud83c\udfe0 Trim cat claws",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Trim cat claws",
+      "uid": "MAINTENANCE:102"
     }
   ],
-  "version": 1881,
-  "updated": "2026-08-25T23:14:50.409984+00:00",
+  "version": 1882,
+  "updated": "2026-08-25T23:18:14.590910+00:00",
   "buckets": {
     "SPIN_WHEEL": 61,
     "TASKS": 17,
