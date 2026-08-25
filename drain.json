@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-25T02:50:02.764Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find B Wild rice",
+      "_addedAt": "2026-08-25T02:53:37.315Z",
+      "_ts": "2026-08-25T02:53:37.755Z"
+    }
+  ],
+  "mirroredAt": "2026-08-25T02:53:38.010Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
