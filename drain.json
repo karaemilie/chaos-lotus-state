@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-25T02:57:41.380Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Dicing knife for B",
+      "_addedAt": "2026-08-25T03:25:07.531Z",
+      "_ts": "2026-08-25T03:25:07.704Z"
+    }
+  ],
+  "mirroredAt": "2026-08-25T03:25:07.952Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
