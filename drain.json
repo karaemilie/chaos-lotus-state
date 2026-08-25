@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 100,
+      "label": "🏠 Clean kids/family room mirror",
+      "uid": "MAINTENANCE:99",
+      "_ts": "2026-08-25T02:36:44.160Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-25T02:36:36.071Z",
+  "mirroredAt": "2026-08-25T02:36:44.384Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-25T02:36:36.980161+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:97"
-  ]
+  }
 }
