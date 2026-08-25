@@ -552,16 +552,6 @@
       "uid": "TASKS:11708"
     },
     {
-      "source": "ZONES",
-      "zid": 8,
-      "floor": "Upstairs",
-      "row": 9,
-      "label": "\ud83e\uddfa My Bedroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "My Bedroom",
-      "uid": "ZONES:8"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 752,
       "row": 47,
@@ -804,10 +794,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Plants",
       "uid": "ZONES:74"
+    },
+    {
+      "source": "ZONES",
+      "zid": 9,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Upstairs Hallway",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Upstairs Hallway",
+      "uid": "ZONES:9"
     }
   ],
-  "version": 1884,
-  "updated": "2026-08-25T23:22:30.795741+00:00",
+  "version": 1885,
+  "updated": "2026-08-25T23:26:27.629604+00:00",
   "buckets": {
     "SPIN_WHEEL": 61,
     "TASKS": 17,
