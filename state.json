@@ -23,13 +23,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 767,
-      "row": 53,
-      "label": "Find B Wild rice",
-      "uid": "SPIN:767"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 337,
       "row": 5,
       "label": "Log into Higgsfield on computer**",
@@ -822,10 +815,10 @@
       "uid": "SPIN:465"
     }
   ],
-  "version": 1898,
-  "updated": "2026-08-26T06:21:31.930138+00:00",
+  "version": 1899,
+  "updated": "2026-08-26T07:21:50.676239+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 4,
