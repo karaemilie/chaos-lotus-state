@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 784,
+      "label": "Vac living room",
+      "uid": "SPIN_WHEEL:784",
+      "_ts": "2026-08-26T23:14:59.745Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-08-26T23:14:43.967Z"
     }
   ],
-  "mirroredAt": "2026-08-26T23:14:44.224Z",
+  "mirroredAt": "2026-08-26T23:14:59.999Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
