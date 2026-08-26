@@ -527,20 +527,6 @@
       "uid": "SPIN:770"
     },
     {
-      "source": "TASKS",
-      "id": 11995,
-      "row": 347,
-      "label": "\u2728 Put on new tattoo",
-      "aw": 4,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11995"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 566,
       "row": 13,
@@ -806,10 +792,23 @@
       "sid": 787,
       "label": "Start downstairs vac",
       "uid": "SPIN_WHEEL:787"
+    },
+    {
+      "source": "TASKS",
+      "id": 10659,
+      "label": "Get Lincoln's four year plan together \ud83d\udccb\ud83c\udfaf",
+      "aw": 3,
+      "pri": "High",
+      "dur": 45,
+      "ml": null,
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10659"
     }
   ],
-  "version": 1910,
-  "updated": "2026-08-26T23:17:37.637988+00:00",
+  "version": 1911,
+  "updated": "2026-08-26T23:18:22.905559+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 17,
