@@ -813,12 +813,19 @@
       "sid": 786,
       "label": "Fix flame and set kids app to only add with top check mark and not wnter",
       "uid": "SPIN_WHEEL:786"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 787,
+      "sid": 787,
+      "label": "Start downstairs vac",
+      "uid": "SPIN_WHEEL:787"
     }
   ],
-  "version": 1907,
-  "updated": "2026-08-26T22:51:01.881660+00:00",
+  "version": 1908,
+  "updated": "2026-08-26T23:15:02.397250+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 65,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 4,
