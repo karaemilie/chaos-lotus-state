@@ -820,19 +820,12 @@
       "row": 6,
       "label": "5 minutes in Custom Cut Software \u23f1\ufe0f",
       "uid": "SPIN:465"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 782,
-      "sid": 782,
-      "label": "Test",
-      "uid": "SPIN_WHEEL:782"
     }
   ],
-  "version": 1897,
-  "updated": "2026-08-26T06:20:20.595872+00:00",
+  "version": 1898,
+  "updated": "2026-08-26T06:21:31.930138+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 4,
