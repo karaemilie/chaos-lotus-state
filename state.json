@@ -421,13 +421,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 653,
-      "row": 20,
-      "label": "List three more items **",
-      "uid": "SPIN:653"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 748,
       "row": 43,
       "label": "Genevieve -\u2018dressers, bed riser, yeti, and storage bins for dry ingredients",
@@ -826,10 +819,10 @@
       "uid": "SPIN_WHEEL:778"
     }
   ],
-  "version": 1888,
-  "updated": "2026-08-26T00:19:16.982679+00:00",
+  "version": 1889,
+  "updated": "2026-08-26T00:45:44.004470+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "COURAGE": 4,
     "ZONES": 9,
