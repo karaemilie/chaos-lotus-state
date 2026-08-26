@@ -795,13 +795,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 784,
-      "sid": 784,
-      "label": "Vac living room",
-      "uid": "SPIN_WHEEL:784"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 785,
       "sid": 785,
       "label": "Order rug grippy thinga",
@@ -822,10 +815,10 @@
       "uid": "SPIN_WHEEL:787"
     }
   ],
-  "version": 1908,
-  "updated": "2026-08-26T23:15:02.397250+00:00",
+  "version": 1909,
+  "updated": "2026-08-26T23:15:43.974425+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 4,
