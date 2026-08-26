@@ -1,29 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Groceries for B",
-      "uid": "PLUS_ADD:Groceries for B:2026-08-26T01:43:24.995Z",
-      "_ts": "2026-08-26T01:43:41.680Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "B kitchen order through target",
-      "_addedAt": "2026-08-26T01:43:16.288Z",
-      "_ts": "2026-08-26T01:43:16.451Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Groceries for B",
-      "_addedAt": "2026-08-26T01:43:24.995Z",
-      "_ts": "2026-08-26T01:43:25.167Z"
-    }
-  ],
-  "mirroredAt": "2026-08-26T01:43:41.929Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-08-26T01:44:13.820Z",
   "counts": {
-    "completions": 1,
-    "adds": 2
+    "completions": 0,
+    "adds": 0
   }
 }
