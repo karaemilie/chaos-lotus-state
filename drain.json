@@ -1,17 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-26T07:24:17.813Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add dates and external data store to my kid ping tracker",
+      "_addedAt": "2026-08-26T21:24:57.401Z",
+      "_ts": "2026-08-26T21:24:57.696Z"
+    }
+  ],
+  "mirroredAt": "2026-08-26T21:24:57.948Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-26T07:24:18.710327+00:00",
-  "lastAutoProcessed": [
-    "SPIN:731",
-    "SPIN:753",
-    "SPIN:761",
-    "SPIN:751",
-    "SPIN:749"
-  ]
+    "adds": 1
+  }
 }
