@@ -479,20 +479,6 @@
       "uid": "SPIN:253"
     },
     {
-      "source": "TASKS",
-      "id": 11998,
-      "row": 351,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:11998"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 753,
       "row": 48,
@@ -817,10 +803,23 @@
       "sid": 778,
       "label": "Get Evan a new rock gym shirt",
       "uid": "SPIN_WHEEL:778"
+    },
+    {
+      "source": "TASKS",
+      "id": 11923,
+      "label": "\u2728 Trash only to curb \ud83d\uddd1\ufe0f",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11923"
     }
   ],
-  "version": 1889,
-  "updated": "2026-08-26T00:45:44.004470+00:00",
+  "version": 1890,
+  "updated": "2026-08-26T00:46:23.952929+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 17,
