@@ -138,13 +138,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 613,
-      "row": 18,
-      "label": "Pursteam refund",
-      "uid": "SPIN:613"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 555,
       "row": 12,
       "label": "Install tile",
@@ -807,10 +800,10 @@
       "uid": "SPIN_WHEEL:788"
     }
   ],
-  "version": 1913,
-  "updated": "2026-08-26T23:19:03.970121+00:00",
+  "version": 1914,
+  "updated": "2026-08-26T23:31:02.807478+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 4,
