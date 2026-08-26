@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-26T00:53:19.756Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "B kitchen order through target",
+      "_addedAt": "2026-08-26T01:43:16.288Z",
+      "_ts": "2026-08-26T01:43:16.451Z"
+    }
+  ],
+  "mirroredAt": "2026-08-26T01:43:16.715Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-26T00:53:20.708614+00:00",
-  "lastAutoProcessed": [
-    "SPIN:762"
-  ]
+    "adds": 1
+  }
 }
