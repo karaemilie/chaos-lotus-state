@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-26T22:51:00.486Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Start downstairs vac",
+      "_addedAt": "2026-08-26T23:14:43.835Z",
+      "_ts": "2026-08-26T23:14:43.967Z"
+    }
+  ],
+  "mirroredAt": "2026-08-26T23:14:44.224Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
