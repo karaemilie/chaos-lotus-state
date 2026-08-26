@@ -1,5 +1,28 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 23,
+      "label": "Write Lindsey back",
+      "uid": "SPIN:686",
+      "_ts": "2026-08-26T23:17:22.089Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 23,
+      "label": "Write Lindsey back",
+      "uid": "SPIN:686",
+      "_ts": "2026-08-26T23:17:36.355Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11995,
+      "row": 347,
+      "label": "✨ Put on new tattoo",
+      "uid": "TASKS:11995",
+      "_ts": "2026-08-26T23:17:40.920Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +31,9 @@
       "_ts": "2026-08-26T23:17:34.151Z"
     }
   ],
-  "mirroredAt": "2026-08-26T23:17:39.062Z",
+  "mirroredAt": "2026-08-26T23:17:41.165Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 1
   }
 }
