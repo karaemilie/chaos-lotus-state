@@ -809,12 +809,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11923"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 779,
+      "sid": 779,
+      "label": "B kitchen order through target",
+      "uid": "SPIN_WHEEL:779"
     }
   ],
-  "version": 1891,
-  "updated": "2026-08-26T00:53:18.628946+00:00",
+  "version": 1892,
+  "updated": "2026-08-26T01:43:31.590257+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "COURAGE": 4,
     "ZONES": 9,
