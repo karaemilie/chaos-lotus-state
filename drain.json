@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-26T00:14:59.610Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Get Evan a new rock gym shirt",
+      "_addedAt": "2026-08-26T00:19:02.385Z",
+      "_ts": "2026-08-26T00:19:02.493Z"
+    }
+  ],
+  "mirroredAt": "2026-08-26T00:19:02.752Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
