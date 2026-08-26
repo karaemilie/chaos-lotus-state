@@ -3,20 +3,14 @@
   "adds": [
     {
       "source": "PLUS_ADD",
-      "label": "B kitchen order through target",
-      "_addedAt": "2026-08-26T01:43:16.288Z",
-      "_ts": "2026-08-26T01:43:16.451Z"
-    },
-    {
-      "source": "PLUS_ADD",
       "label": "Groceries for B",
       "_addedAt": "2026-08-26T01:43:24.995Z",
       "_ts": "2026-08-26T01:43:25.167Z"
     }
   ],
-  "mirroredAt": "2026-08-26T01:43:25.448Z",
+  "mirroredAt": "2026-08-26T01:43:30.608Z",
   "counts": {
     "completions": 0,
-    "adds": 2
+    "adds": 1
   }
 }
