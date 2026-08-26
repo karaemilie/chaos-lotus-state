@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 18,
+      "label": "Pursteam refund",
+      "uid": "SPIN:613",
+      "_ts": "2026-08-26T23:30:49.420Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-26T23:19:05.119Z",
+  "mirroredAt": "2026-08-26T23:30:49.682Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-26T23:19:06.722537+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:785"
-  ]
+  }
 }
