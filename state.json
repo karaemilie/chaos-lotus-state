@@ -556,13 +556,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 749,
-      "row": 40,
-      "label": "List AoPS books on eBay",
-      "uid": "SPIN:749"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 774,
       "row": 59,
       "label": "Talk to Bailey about Lincoln",
@@ -628,13 +621,6 @@
       "row": 64,
       "label": "B kitchen order through target",
       "uid": "SPIN:779"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 751,
-      "row": 42,
-      "label": "Fix ice maker",
-      "uid": "SPIN:751"
     },
     {
       "source": "SPIN_WHEEL",
@@ -794,10 +780,10 @@
       "uid": "SPIN:465"
     }
   ],
-  "version": 1901,
-  "updated": "2026-08-26T07:23:27.636243+00:00",
+  "version": 1902,
+  "updated": "2026-08-26T07:24:16.467655+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 59,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 4,
