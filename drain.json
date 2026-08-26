@@ -6,12 +6,20 @@
       "label": "List three more items **",
       "uid": "SPIN:653",
       "_ts": "2026-08-26T00:45:28.280Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11998,
+      "row": 351,
+      "label": "✨ Clear the upstairs trashes",
+      "uid": "TASKS:11998",
+      "_ts": "2026-08-26T00:45:39.047Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-26T00:45:28.540Z",
+  "mirroredAt": "2026-08-26T00:45:39.344Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
