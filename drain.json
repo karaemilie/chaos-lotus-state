@@ -8,10 +8,17 @@
       "_ts": "2026-08-26T23:17:22.089Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-08-26T23:17:22.461Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add pumpkins to foyer table",
+      "_addedAt": "2026-08-26T23:17:34.014Z",
+      "_ts": "2026-08-26T23:17:34.151Z"
+    }
+  ],
+  "mirroredAt": "2026-08-26T23:17:34.429Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
