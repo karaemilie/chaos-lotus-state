@@ -44,13 +44,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 762,
-      "row": 56,
-      "label": "Send B putty, containers for paint, paint brush",
-      "uid": "SPIN:762"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 764,
       "row": 58,
       "label": "Research AC cost and internet cost so he has Alexa",
@@ -818,10 +811,10 @@
       "uid": "TASKS:11923"
     }
   ],
-  "version": 1890,
-  "updated": "2026-08-26T00:46:23.952929+00:00",
+  "version": 1891,
+  "updated": "2026-08-26T00:53:18.628946+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 17,
     "COURAGE": 4,
     "ZONES": 9,
