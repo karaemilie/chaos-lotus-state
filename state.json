@@ -403,13 +403,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 731,
-      "row": 35,
-      "label": "Move over GAlarm",
-      "uid": "SPIN:731"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 683,
       "row": 22,
       "label": "Send Matt his statements for card",
@@ -815,10 +808,10 @@
       "uid": "SPIN:465"
     }
   ],
-  "version": 1899,
-  "updated": "2026-08-26T07:21:50.676239+00:00",
+  "version": 1900,
+  "updated": "2026-08-26T07:22:44.206038+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 4,
