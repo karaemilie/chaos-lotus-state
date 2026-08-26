@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 53,
+      "label": "Find B Wild rice",
+      "uid": "SPIN:767",
+      "_ts": "2026-08-26T07:21:34.883Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-26T06:21:33.319Z",
+  "mirroredAt": "2026-08-26T07:21:35.108Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-26T06:21:34.924577+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:782"
-  ]
+  }
 }
