@@ -774,13 +774,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 785,
-      "sid": 785,
-      "label": "Order rug grippy thinga",
-      "uid": "SPIN_WHEEL:785"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 786,
       "sid": 786,
       "label": "Fix flame and set kids app to only add with top check mark and not wnter",
@@ -814,10 +807,10 @@
       "uid": "SPIN_WHEEL:788"
     }
   ],
-  "version": 1912,
-  "updated": "2026-08-26T23:18:27.353986+00:00",
+  "version": 1913,
+  "updated": "2026-08-26T23:19:03.970121+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 4,
