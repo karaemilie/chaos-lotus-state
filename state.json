@@ -9,13 +9,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 686,
-      "row": 23,
-      "label": "Write Lindsey back",
-      "uid": "SPIN:686"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 710,
       "row": 29,
       "label": "Load software for Morpho",
@@ -815,10 +808,10 @@
       "uid": "SPIN_WHEEL:787"
     }
   ],
-  "version": 1909,
-  "updated": "2026-08-26T23:15:43.974425+00:00",
+  "version": 1910,
+  "updated": "2026-08-26T23:17:37.637988+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 4,
