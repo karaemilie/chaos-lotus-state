@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-26T21:29:08.388Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Vac living room",
+      "_addedAt": "2026-08-26T21:56:02.489Z",
+      "_ts": "2026-08-26T21:56:02.649Z"
+    }
+  ],
+  "mirroredAt": "2026-08-26T21:56:03.000Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
