@@ -785,12 +785,19 @@
       "sid": 782,
       "label": "Add dates and external data store to my kid ping tracker",
       "uid": "SPIN_WHEEL:782"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 783,
+      "sid": 783,
+      "label": "Project file in Claude with Tony Robbin\u2019s, DJ Marco, etc (build my own Coach)",
+      "uid": "SPIN_WHEEL:783"
     }
   ],
-  "version": 1903,
-  "updated": "2026-08-26T21:25:10.378179+00:00",
+  "version": 1904,
+  "updated": "2026-08-26T21:29:09.572997+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 61,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 4,
