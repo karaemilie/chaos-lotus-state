@@ -508,13 +508,6 @@
       "uid": "SPIN:772"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 753,
-      "row": 44,
-      "label": "Eval Rhubarb Honey",
-      "uid": "SPIN:753"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11825,
       "parentRow": 257,
@@ -616,13 +609,6 @@
       "row": 11,
       "label": "Start freezer wrap!!!!",
       "uid": "SPIN:511"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 761,
-      "row": 49,
-      "label": "Send Bentley a big cork board",
-      "uid": "SPIN:761"
     },
     {
       "source": "COURAGE",
@@ -808,10 +794,10 @@
       "uid": "SPIN:465"
     }
   ],
-  "version": 1900,
-  "updated": "2026-08-26T07:22:44.206038+00:00",
+  "version": 1901,
+  "updated": "2026-08-26T07:23:27.636243+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 61,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 4,
