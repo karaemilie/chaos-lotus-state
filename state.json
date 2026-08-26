@@ -805,12 +805,19 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10659"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 788,
+      "sid": 788,
+      "label": "Add pumpkins to foyer table",
+      "uid": "SPIN_WHEEL:788"
     }
   ],
-  "version": 1911,
-  "updated": "2026-08-26T23:18:22.905559+00:00",
+  "version": 1912,
+  "updated": "2026-08-26T23:18:27.353986+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 64,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 4,
