@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-25T23:26:28.659Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find a daily editor in chief type grammar practice",
+      "_addedAt": "2026-08-26T00:13:52.373Z",
+      "_ts": "2026-08-26T00:13:52.506Z"
+    }
+  ],
+  "mirroredAt": "2026-08-26T00:13:52.732Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-25T23:26:29.399989+00:00",
-  "lastAutoProcessed": [
-    "ZONES:8"
-  ]
+    "adds": 1
+  }
 }
