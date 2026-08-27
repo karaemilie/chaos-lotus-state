@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-27T05:28:54.495Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Cancel DramaBox",
+      "_addedAt": "2026-08-27T17:37:14.336Z",
+      "_ts": "2026-08-27T17:37:14.469Z"
+    }
+  ],
+  "mirroredAt": "2026-08-27T17:37:14.785Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-27T05:28:55.519477+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:789"
-  ]
+    "adds": 1
+  }
 }
