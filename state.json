@@ -29,13 +29,6 @@
       "uid": "SPIN:718"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 760,
-      "row": 48,
-      "label": "Ask about wall holes",
-      "uid": "SPIN:760"
-    },
-    {
       "source": "TASKS",
       "id": 11216,
       "row": 162,
@@ -806,10 +799,10 @@
       "uid": "ZONES:54"
     }
   ],
-  "version": 1916,
-  "updated": "2026-08-27T04:02:31.834768+00:00",
+  "version": 1917,
+  "updated": "2026-08-27T04:05:02.492521+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 4,
