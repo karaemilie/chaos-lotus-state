@@ -96,13 +96,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 780,
-      "row": 65,
-      "label": "Groceries for B",
-      "uid": "SPIN:780"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 730,
       "row": 34,
       "label": "Write Ruth",
@@ -799,10 +792,10 @@
       "uid": "ZONES:54"
     }
   ],
-  "version": 1917,
-  "updated": "2026-08-27T04:05:02.492521+00:00",
+  "version": 1918,
+  "updated": "2026-08-27T04:06:03.691059+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 61,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 4,
