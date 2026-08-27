@@ -769,13 +769,6 @@
       "uid": "SPIN_WHEEL:788"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 789,
-      "sid": 789,
-      "label": "Fiber paste",
-      "uid": "SPIN_WHEEL:789"
-    },
-    {
       "source": "ZONES",
       "zid": 54,
       "floor": "Basement",
@@ -806,10 +799,10 @@
       "uid": "SPIN_WHEEL:792"
     }
   ],
-  "version": 1922,
-  "updated": "2026-08-27T05:28:20.892759+00:00",
+  "version": 1923,
+  "updated": "2026-08-27T05:28:53.412181+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 4,
