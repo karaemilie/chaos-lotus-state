@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 34,
+      "label": "Write Ruth",
+      "uid": "SPIN:730",
+      "_ts": "2026-08-27T20:36:19.897Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-27T17:37:31.937Z",
+  "mirroredAt": "2026-08-27T20:36:20.267Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
