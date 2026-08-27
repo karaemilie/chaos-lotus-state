@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 59,
+      "label": "Talk to Bailey about Lincoln",
+      "uid": "SPIN:774",
+      "_ts": "2026-08-27T05:27:27.278Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-08-27T05:27:23.916Z"
     }
   ],
-  "mirroredAt": "2026-08-27T05:27:24.161Z",
+  "mirroredAt": "2026-08-27T05:27:27.540Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
