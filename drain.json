@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 48,
+      "label": "Ask about wall holes",
+      "uid": "SPIN:760",
+      "_ts": "2026-08-27T04:04:51.140Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-27T04:02:33.038Z",
+  "mirroredAt": "2026-08-27T04:04:51.410Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-27T04:02:33.962835+00:00",
-  "lastAutoProcessed": [
-    "ZONES:53"
-  ]
+  }
 }
