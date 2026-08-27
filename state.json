@@ -96,13 +96,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 730,
-      "row": 34,
-      "label": "Write Ruth",
-      "uid": "SPIN:730"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 775,
       "row": 60,
       "label": "Pack up Genevieve bags",
@@ -806,10 +799,10 @@
       "uid": "SPIN_WHEEL:793"
     }
   ],
-  "version": 1924,
-  "updated": "2026-08-27T17:37:33.394830+00:00",
+  "version": 1925,
+  "updated": "2026-08-27T20:36:35.815169+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 17,
     "MAINTENANCE": 2,
     "COURAGE": 4,
