@@ -602,16 +602,6 @@
       "uid": "SPIN:756"
     },
     {
-      "source": "ZONES",
-      "zid": 53,
-      "floor": "Basement",
-      "row": 54,
-      "label": "\ud83e\uddfa Basement Foyer",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Foyer",
-      "uid": "ZONES:53"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 725,
       "row": 32,
@@ -805,10 +795,19 @@
       "sid": 789,
       "label": "Fiber paste",
       "uid": "SPIN_WHEEL:789"
+    },
+    {
+      "source": "ZONES",
+      "zid": 54,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Crawlspace",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Crawlspace",
+      "uid": "ZONES:54"
     }
   ],
-  "version": 1915,
-  "updated": "2026-08-27T01:56:24.440839+00:00",
+  "version": 1916,
+  "updated": "2026-08-27T04:02:31.834768+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 17,
