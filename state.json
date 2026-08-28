@@ -795,13 +795,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 797,
-      "sid": 797,
-      "label": "Buy vitamin C",
-      "uid": "SPIN_WHEEL:797"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 799,
       "sid": 799,
       "label": "Request access to Derek Owens Algebra 1",
@@ -828,10 +821,10 @@
       "uid": "SPIN_WHEEL:800"
     }
   ],
-  "version": 1944,
-  "updated": "2026-08-28T08:09:58.998119+00:00",
+  "version": 1945,
+  "updated": "2026-08-28T08:20:48.554286+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
