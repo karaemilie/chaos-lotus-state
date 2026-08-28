@@ -778,13 +778,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 795,
-      "sid": 795,
-      "label": "Help Bentley figure out how to get to diving place",
-      "uid": "SPIN_WHEEL:795"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 796,
       "sid": 796,
       "label": "Look into Turo rental for B",
@@ -829,10 +822,10 @@
       "uid": "SPIN_WHEEL:797"
     }
   ],
-  "version": 1937,
-  "updated": "2026-08-28T07:33:11.142163+00:00",
+  "version": 1938,
+  "updated": "2026-08-28T07:33:54.522210+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
