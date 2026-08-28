@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-28T07:43:19.602Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Place Home Depot order!",
+      "_addedAt": "2026-08-28T08:08:57.141Z",
+      "_ts": "2026-08-28T08:08:57.283Z"
+    }
+  ],
+  "mirroredAt": "2026-08-28T08:08:57.547Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-28T07:43:20.641142+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10140"
-  ]
+    "adds": 1
+  }
 }
