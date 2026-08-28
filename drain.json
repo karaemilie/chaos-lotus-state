@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-28T08:20:49.614Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Measure garage shelf",
+      "_addedAt": "2026-08-28T23:00:55.005Z",
+      "_ts": "2026-08-28T23:00:55.136Z"
+    }
+  ],
+  "mirroredAt": "2026-08-28T23:00:55.391Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-28T08:20:50.353581+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:797"
-  ]
+    "adds": 1
+  }
 }
