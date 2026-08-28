@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 68,
+      "zid": 67,
+      "floor": "Digital",
+      "label": "💻 Quicken",
+      "uid": "ZONES:67",
+      "_ts": "2026-08-28T01:33:48.037Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-28T00:52:19.626Z",
+  "mirroredAt": "2026-08-28T01:33:48.466Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-28T00:52:20.396653+00:00",
-  "lastAutoProcessed": [
-    "SPIN:773"
-  ]
+  }
 }
