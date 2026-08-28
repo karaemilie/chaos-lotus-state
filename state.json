@@ -811,12 +811,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "AmazonCart",
       "uid": "ZONES:70"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 794,
+      "sid": 794,
+      "label": "Demo Quicken for Mac",
+      "uid": "SPIN_WHEEL:794"
     }
   ],
-  "version": 1928,
-  "updated": "2026-08-28T01:34:00.728674+00:00",
+  "version": 1929,
+  "updated": "2026-08-28T01:39:45.141726+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 62,
     "TASKS": 17,
     "ZONES": 9,
     "MAINTENANCE": 2,
