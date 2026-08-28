@@ -620,16 +620,6 @@
       "uid": "TASKS:10241"
     },
     {
-      "source": "ZONES",
-      "zid": 68,
-      "floor": "Digital",
-      "row": 69,
-      "label": "\ud83d\udcbb Photos",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Photos",
-      "uid": "ZONES:68"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 786,
       "row": 57,
@@ -818,10 +808,19 @@
       "sid": 794,
       "label": "Demo Quicken for Mac",
       "uid": "SPIN_WHEEL:794"
+    },
+    {
+      "source": "ZONES",
+      "zid": 71,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb MasterBrain",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "MasterBrain",
+      "uid": "ZONES:71"
     }
   ],
-  "version": 1929,
-  "updated": "2026-08-28T01:39:45.141726+00:00",
+  "version": 1930,
+  "updated": "2026-08-28T05:03:04.068769+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "TASKS": 17,
