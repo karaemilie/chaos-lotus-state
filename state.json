@@ -122,20 +122,6 @@
       "uid": "SPIN:705"
     },
     {
-      "source": "TASKS",
-      "id": 10140,
-      "row": 28,
-      "label": "\u2b50 Talk to Evan about Derek Owens",
-      "aw": 4,
-      "pri": "High",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10140"
-    },
-    {
       "source": "ZONES",
       "zid": 31,
       "floor": "Main Floor",
@@ -827,10 +813,23 @@
       "sid": 799,
       "label": "Request access to Derek Owens Algebra 1",
       "uid": "SPIN_WHEEL:799"
+    },
+    {
+      "source": "TASKS",
+      "id": 10615,
+      "label": "Find replacement strings for the harp (missing 2) \ud83c\udfb5 \ud83d\udcdd",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10615"
     }
   ],
-  "version": 1941,
-  "updated": "2026-08-28T07:42:38.322656+00:00",
+  "version": 1942,
+  "updated": "2026-08-28T07:43:16.226834+00:00",
   "buckets": {
     "SPIN_WHEEL": 64,
     "TASKS": 17,
