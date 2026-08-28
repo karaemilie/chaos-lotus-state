@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-28T01:34:01.932Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Demo Quicken for Mac",
+      "_addedAt": "2026-08-28T01:39:29.057Z",
+      "_ts": "2026-08-28T01:39:29.632Z"
+    }
+  ],
+  "mirroredAt": "2026-08-28T01:39:30.037Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-28T01:34:02.828126+00:00",
-  "lastAutoProcessed": [
-    "ZONES:67"
-  ]
+    "adds": 1
+  }
 }
