@@ -63,20 +63,6 @@
       "uid": "SPIN:792"
     },
     {
-      "source": "TASKS",
-      "id": 12004,
-      "row": 353,
-      "label": "\u2728 Mow the lawn \ud83c\udf31",
-      "aw": 3,
-      "pri": 3,
-      "dur": 45,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12004"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 775,
       "row": 49,
@@ -271,16 +257,6 @@
       "uid": "COURAGE:11001:0"
     },
     {
-      "source": "ZONES",
-      "zid": 82,
-      "floor": "Personal",
-      "row": 84,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Dermaplane",
-      "uid": "ZONES:82"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 465,
       "row": 6,
@@ -400,16 +376,6 @@
       "row": 43,
       "label": "Cancel B storage unit",
       "uid": "SPIN:766"
-    },
-    {
-      "source": "ZONES",
-      "zid": 81,
-      "floor": "Personal",
-      "row": 83,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Exfoliation",
-      "uid": "ZONES:81"
     },
     {
       "source": "SPIN_WHEEL",
@@ -823,10 +789,41 @@
       "sid": 796,
       "label": "Look into Turo rental for B",
       "uid": "SPIN_WHEEL:796"
+    },
+    {
+      "source": "ZONES",
+      "zid": 83,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Retainer",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Retainer",
+      "uid": "ZONES:83"
+    },
+    {
+      "source": "ZONES",
+      "zid": 84,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Hand Care & Mani",
+      "uid": "ZONES:84"
+    },
+    {
+      "source": "TASKS",
+      "id": 11822,
+      "label": "Assign IXL assessments to Lincoln & Evan \ud83d\udcda",
+      "aw": 4,
+      "pri": 3,
+      "dur": 20,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11822"
     }
   ],
-  "version": 1935,
-  "updated": "2026-08-28T07:32:25.888532+00:00",
+  "version": 1936,
+  "updated": "2026-08-28T07:33:07.248758+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 17,
