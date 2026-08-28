@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 48,
+      "label": "Update 1/2 bath Pura",
+      "uid": "SPIN:773",
+      "_ts": "2026-08-28T00:52:06.531Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-27T20:36:37.090Z",
+  "mirroredAt": "2026-08-28T00:52:06.805Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-27T20:36:38.002286+00:00",
-  "lastAutoProcessed": [
-    "SPIN:730"
-  ]
+  }
 }
