@@ -1,9 +1,37 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-28T07:33:55.646Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 795,
+      "label": "Help Bentley figure out how to get to diving place",
+      "uid": "SPIN_WHEEL:795",
+      "_ts": "2026-08-28T07:33:39.315Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 62,
+      "label": "See if paint sprayer works with small cans ✨",
+      "uid": "SPIN:792",
+      "_ts": "2026-08-28T07:33:59.865Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Buy vitamin C",
+      "_addedAt": "2026-08-28T07:32:45.585Z",
+      "_ts": "2026-08-28T07:32:45.690Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Home Depot - roller attachment?",
+      "_addedAt": "2026-08-28T07:33:10.704Z",
+      "_ts": "2026-08-28T07:33:10.874Z"
+    }
+  ],
+  "mirroredAt": "2026-08-28T07:34:00.109Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 2,
+    "adds": 2
   }
 }
