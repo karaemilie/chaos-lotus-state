@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-28T23:01:08.611Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Get Bentley miles for cello",
+      "_addedAt": "2026-08-28T23:29:35.010Z",
+      "_ts": "2026-08-28T23:29:35.149Z"
+    }
+  ],
+  "mirroredAt": "2026-08-28T23:29:35.403Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
