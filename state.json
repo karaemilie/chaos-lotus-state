@@ -785,15 +785,6 @@
       "uid": "ZONES:75"
     },
     {
-      "source": "ZONES",
-      "zid": 70,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb AmazonCart",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "AmazonCart",
-      "uid": "ZONES:70"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 794,
       "sid": 794,
@@ -816,10 +807,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Freezer lids clean",
       "uid": "MAINTENANCE:103"
+    },
+    {
+      "source": "ZONES",
+      "zid": 58,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Emails",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Emails",
+      "uid": "ZONES:58"
     }
   ],
-  "version": 1931,
-  "updated": "2026-08-28T05:03:57.083282+00:00",
+  "version": 1932,
+  "updated": "2026-08-28T05:16:33.651342+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "TASKS": 17,
