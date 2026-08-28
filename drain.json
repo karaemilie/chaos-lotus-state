@@ -34,10 +34,17 @@
       "_ts": "2026-08-28T07:32:36.773Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-08-28T07:32:37.048Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Buy vitamin C",
+      "_addedAt": "2026-08-28T07:32:45.585Z",
+      "_ts": "2026-08-28T07:32:45.690Z"
+    }
+  ],
+  "mirroredAt": "2026-08-28T07:32:45.956Z",
   "counts": {
     "completions": 4,
-    "adds": 0
+    "adds": 1
   }
 }
