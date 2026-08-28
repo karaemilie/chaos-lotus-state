@@ -57,13 +57,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 792,
-      "row": 62,
-      "label": "See if paint sprayer works with small cans \u2728",
-      "uid": "SPIN:792"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 775,
       "row": 49,
       "label": "Pack up Genevieve bags",
@@ -829,10 +822,10 @@
       "uid": "SPIN_WHEEL:798"
     }
   ],
-  "version": 1939,
-  "updated": "2026-08-28T07:33:56.751431+00:00",
+  "version": 1940,
+  "updated": "2026-08-28T07:34:37.234098+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
