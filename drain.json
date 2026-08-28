@@ -1,50 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 28,
-      "label": "Vacuum out little shop vac",
-      "uid": "SPIN:718",
-      "_ts": "2026-08-28T07:32:13.018Z"
-    },
-    {
-      "source": "TASKS",
-      "id": 12004,
-      "row": 353,
-      "label": "✨ Mow the lawn 🌱",
-      "uid": "TASKS:12004",
-      "_ts": "2026-08-28T07:32:20.287Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 84,
-      "zid": 82,
-      "floor": "Personal",
-      "label": "👱‍♀️ Dermaplane",
-      "uid": "ZONES:82",
-      "_ts": "2026-08-28T07:32:31.038Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 83,
-      "zid": 81,
-      "floor": "Personal",
-      "label": "👱‍♀️ Face Exfoliation",
-      "uid": "ZONES:81",
-      "_ts": "2026-08-28T07:32:36.773Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Buy vitamin C",
-      "_addedAt": "2026-08-28T07:32:45.585Z",
-      "_ts": "2026-08-28T07:32:45.690Z"
-    }
-  ],
-  "mirroredAt": "2026-08-28T07:32:45.956Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-08-28T07:33:10.011Z",
   "counts": {
-    "completions": 4,
-    "adds": 1
+    "completions": 0,
+    "adds": 0
   }
 }
