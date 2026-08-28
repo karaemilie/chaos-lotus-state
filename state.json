@@ -115,15 +115,6 @@
       "uid": "SPIN:692"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 102,
-      "row": 103,
-      "label": "\ud83c\udfe0 Trim cat claws",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Trim cat claws",
-      "uid": "MAINTENANCE:102"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 566,
       "row": 13,
@@ -817,15 +808,23 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "MasterBrain",
       "uid": "ZONES:71"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 103,
+      "label": "\ud83c\udfe0 Freezer lids clean",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Freezer lids clean",
+      "uid": "MAINTENANCE:103"
     }
   ],
-  "version": 1930,
-  "updated": "2026-08-28T05:03:04.068769+00:00",
+  "version": 1931,
+  "updated": "2026-08-28T05:03:57.083282+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "TASKS": 17,
     "ZONES": 9,
-    "MAINTENANCE": 2,
-    "COURAGE": 4
+    "COURAGE": 4,
+    "MAINTENANCE": 2
   }
 }
