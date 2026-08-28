@@ -427,13 +427,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 718,
-      "row": 28,
-      "label": "Vacuum out little shop vac",
-      "uid": "SPIN:718"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 486,
       "row": 9,
       "label": "Next step mirror thread",
@@ -832,10 +825,10 @@
       "uid": "SPIN_WHEEL:796"
     }
   ],
-  "version": 1934,
-  "updated": "2026-08-28T06:44:20.575754+00:00",
+  "version": 1935,
+  "updated": "2026-08-28T07:32:25.888532+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
