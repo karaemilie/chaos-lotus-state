@@ -820,12 +820,19 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:11822"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 797,
+      "sid": 797,
+      "label": "Buy vitamin C",
+      "uid": "SPIN_WHEEL:797"
     }
   ],
-  "version": 1936,
-  "updated": "2026-08-28T07:33:07.248758+00:00",
+  "version": 1937,
+  "updated": "2026-08-28T07:33:11.142163+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 64,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
