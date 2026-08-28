@@ -820,12 +820,19 @@
       "sid": 797,
       "label": "Buy vitamin C",
       "uid": "SPIN_WHEEL:797"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 798,
+      "sid": 798,
+      "label": "Home Depot - roller attachment?",
+      "uid": "SPIN_WHEEL:798"
     }
   ],
-  "version": 1938,
-  "updated": "2026-08-28T07:33:54.522210+00:00",
+  "version": 1939,
+  "updated": "2026-08-28T07:33:56.751431+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 64,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
