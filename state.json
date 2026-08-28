@@ -819,12 +819,19 @@
       "sid": 800,
       "label": "Place Home Depot order!",
       "uid": "SPIN_WHEEL:800"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 801,
+      "sid": 801,
+      "label": "Measure garage shelf",
+      "uid": "SPIN_WHEEL:801"
     }
   ],
-  "version": 1945,
-  "updated": "2026-08-28T08:20:48.554286+00:00",
+  "version": 1946,
+  "updated": "2026-08-28T23:01:09.635211+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 64,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
