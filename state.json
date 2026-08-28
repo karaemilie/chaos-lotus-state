@@ -802,13 +802,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 798,
-      "sid": 798,
-      "label": "Home Depot - roller attachment?",
-      "uid": "SPIN_WHEEL:798"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 799,
       "sid": 799,
       "label": "Request access to Derek Owens Algebra 1",
@@ -835,10 +828,10 @@
       "uid": "SPIN_WHEEL:800"
     }
   ],
-  "version": 1943,
-  "updated": "2026-08-28T08:09:13.818471+00:00",
+  "version": 1944,
+  "updated": "2026-08-28T08:09:58.998119+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
