@@ -564,20 +564,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12011,
-      "row": 360,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12011"
-    },
-    {
-      "source": "TASKS",
       "id": 12013,
       "row": 362,
       "label": "\u2728 Spend time on flower bouquet coding project",
@@ -819,10 +805,23 @@
       "sid": 807,
       "label": "Add more source docs to my coach brain project",
       "uid": "SPIN_WHEEL:807"
+    },
+    {
+      "source": "TASKS",
+      "id": 11253,
+      "label": "Pick Create&Learn class w/ Lincoln",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11253"
     }
   ],
-  "version": 1958,
-  "updated": "2026-08-29T08:26:54.956536+00:00",
+  "version": 1959,
+  "updated": "2026-08-29T08:27:37.218399+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 17,
