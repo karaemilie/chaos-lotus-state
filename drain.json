@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 56,
+      "label": "Project file in Claude with Tony Robbin’s, DJ Marco, etc (build my own Coach)",
+      "uid": "SPIN:783",
+      "_ts": "2026-08-29T08:17:29.841Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-08-29T08:17:27.698Z"
     }
   ],
-  "mirroredAt": "2026-08-29T08:17:27.974Z",
+  "mirroredAt": "2026-08-29T08:17:30.083Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
