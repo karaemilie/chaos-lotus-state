@@ -9,13 +9,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 58,
-      "label": "Start downstairs vac",
-      "uid": "SPIN:787",
-      "_ts": "2026-08-29T08:15:14.546Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 804,
       "label": "Order more zesty Italian",
       "uid": "SPIN_WHEEL:804",
@@ -23,9 +16,9 @@
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-29T08:16:07.586Z",
+  "mirroredAt": "2026-08-29T08:16:12.382Z",
   "counts": {
-    "completions": 3,
+    "completions": 2,
     "adds": 0
   }
 }
