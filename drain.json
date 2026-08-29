@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 53,
+      "label": "B kitchen order through target",
+      "uid": "SPIN:779",
+      "_ts": "2026-08-29T08:43:16.852Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-29T08:31:27.944Z",
+  "mirroredAt": "2026-08-29T08:43:17.195Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-29T08:31:28.738324+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:803"
-  ]
+  }
 }
