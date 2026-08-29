@@ -160,13 +160,6 @@
       "uid": "SPIN:505"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 771,
-      "row": 46,
-      "label": "List next focus science book! \ud83d\udcab",
-      "uid": "SPIN:771"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11826,
       "parentRow": 258,
@@ -822,10 +815,10 @@
       "uid": "TASKS:10333"
     }
   ],
-  "version": 1960,
-  "updated": "2026-08-29T08:28:17.262521+00:00",
+  "version": 1961,
+  "updated": "2026-08-29T08:29:26.382232+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
