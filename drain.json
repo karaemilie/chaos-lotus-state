@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 63,
+      "label": "Cancel DramaBox",
+      "uid": "SPIN:793",
+      "_ts": "2026-08-29T08:19:41.520Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-29T08:18:21.468Z",
+  "mirroredAt": "2026-08-29T08:19:41.883Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
