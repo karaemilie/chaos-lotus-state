@@ -478,13 +478,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 779,
-      "row": 53,
-      "label": "B kitchen order through target",
-      "uid": "SPIN:779"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 772,
       "row": 47,
       "label": "Call Costco about machine",
@@ -786,10 +779,10 @@
       "uid": "TASKS:10117"
     }
   ],
-  "version": 1964,
-  "updated": "2026-08-29T08:31:26.996510+00:00",
+  "version": 1965,
+  "updated": "2026-08-29T08:43:27.826903+00:00",
   "buckets": {
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 57,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
