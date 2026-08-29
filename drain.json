@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 61,
+      "label": "Find awaken the Giant within pdf",
+      "uid": "SPIN:791",
+      "_ts": "2026-08-29T08:26:39.227Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12011,
+      "row": 360,
+      "label": "✨ Use Claude budget on new projects or app feature development 🧠⏳ 📝",
+      "uid": "TASKS:12011",
+      "_ts": "2026-08-29T08:27:20.828Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-29T08:26:56.204Z",
+  "mirroredAt": "2026-08-29T08:27:21.038Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-08-29T08:26:57.234605+00:00",
-  "lastAutoProcessed": [
-    "SPIN:791"
-  ]
+  }
 }
