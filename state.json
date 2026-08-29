@@ -207,13 +207,6 @@
       "uid": "SPIN:770"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 787,
-      "row": 58,
-      "label": "Start downstairs vac",
-      "uid": "SPIN:787"
-    },
-    {
       "source": "ZONES",
       "zid": 74,
       "floor": "Plant",
@@ -856,10 +849,10 @@
       "uid": "SPIN_WHEEL:806"
     }
   ],
-  "version": 1952,
-  "updated": "2026-08-29T08:15:26.268670+00:00",
+  "version": 1953,
+  "updated": "2026-08-29T08:16:11.181203+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
