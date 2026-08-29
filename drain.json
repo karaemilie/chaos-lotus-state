@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-29T08:43:28.827Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find Bentley glasses",
+      "_addedAt": "2026-08-29T20:30:40.830Z",
+      "_ts": "2026-08-29T20:30:41.037Z"
+    }
+  ],
+  "mirroredAt": "2026-08-29T20:30:41.420Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-29T08:43:29.799406+00:00",
-  "lastAutoProcessed": [
-    "SPIN:779"
-  ]
+    "adds": 1
+  }
 }
