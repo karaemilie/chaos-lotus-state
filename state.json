@@ -854,12 +854,19 @@
       "sid": 805,
       "label": "Get Bentley internet / check he has unlimited",
       "uid": "SPIN_WHEEL:805"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 806,
+      "sid": 806,
+      "label": "Cyber security certifications",
+      "uid": "SPIN_WHEEL:806"
     }
   ],
-  "version": 1950,
-  "updated": "2026-08-29T06:02:37.856705+00:00",
+  "version": 1951,
+  "updated": "2026-08-29T06:09:33.674482+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 69,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
