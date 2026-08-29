@@ -557,13 +557,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 791,
-      "row": 61,
-      "label": "Find awaken the Giant within pdf",
-      "uid": "SPIN:791"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 555,
       "row": 12,
       "label": "Install tile",
@@ -828,10 +821,10 @@
       "uid": "SPIN_WHEEL:807"
     }
   ],
-  "version": 1957,
-  "updated": "2026-08-29T08:19:52.381497+00:00",
+  "version": 1958,
+  "updated": "2026-08-29T08:26:54.956536+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
