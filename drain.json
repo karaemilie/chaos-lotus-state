@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-29T06:02:36.696Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Cyber security certifications",
+      "_addedAt": "2026-08-29T06:09:18.196Z",
+      "_ts": "2026-08-29T06:09:18.337Z"
+    }
+  ],
+  "mirroredAt": "2026-08-29T06:09:18.565Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
