@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 61,
+      "label": "Find awaken the Giant within pdf",
+      "uid": "SPIN:791",
+      "_ts": "2026-08-29T08:26:39.227Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-29T08:19:53.556Z",
+  "mirroredAt": "2026-08-29T08:26:39.577Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-29T08:19:54.639545+00:00",
-  "lastAutoProcessed": [
-    "SPIN:793"
-  ]
+  }
 }
