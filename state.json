@@ -251,20 +251,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11880,
-      "row": 278,
-      "label": "\u2728 Throw cat fountain in dishwasher \ud83d\udc31\ud83e\udee7",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11880"
-    },
-    {
-      "source": "TASKS",
       "id": 11957,
       "row": 322,
       "label": "\u2b50 Look at five suit jackets with Evan \ud83e\udde5",
@@ -297,13 +283,6 @@
       "row": 42,
       "label": "Check garage for coco husk",
       "uid": "SPIN:765"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 764,
-      "row": 41,
-      "label": "Research AC cost and internet cost so he has Alexa",
-      "uid": "SPIN:764"
     },
     {
       "source": "SPIN_WHEEL",
@@ -813,12 +792,25 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10333"
+    },
+    {
+      "source": "TASKS",
+      "id": 10117,
+      "label": "Look at FluentU/Netflix for foreign language learning for boys",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": "Homeschool Admin",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10117"
     }
   ],
-  "version": 1961,
-  "updated": "2026-08-29T08:29:26.382232+00:00",
+  "version": 1962,
+  "updated": "2026-08-29T08:30:05.579655+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 61,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
