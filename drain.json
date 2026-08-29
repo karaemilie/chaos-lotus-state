@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-29T08:16:55.267Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add more source docs to my coach brain project",
+      "_addedAt": "2026-08-29T08:17:27.342Z",
+      "_ts": "2026-08-29T08:17:27.698Z"
+    }
+  ],
+  "mirroredAt": "2026-08-29T08:17:27.974Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-29T08:16:56.368268+00:00",
-  "lastAutoProcessed": [
-    "SPIN:748",
-    "SPIN_WHEEL:804"
-  ]
+    "adds": 1
+  }
 }
