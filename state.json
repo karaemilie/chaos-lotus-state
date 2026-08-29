@@ -321,20 +321,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 769,
-      "row": 44,
-      "label": "Dicing knife for B",
-      "uid": "SPIN:769"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 719,
-      "row": 29,
-      "label": "Verify the Credit Union acct in Ally",
-      "uid": "SPIN:719"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 759,
       "row": 40,
       "label": "Replace B credit card",
@@ -807,10 +793,10 @@
       "uid": "TASKS:10117"
     }
   ],
-  "version": 1962,
-  "updated": "2026-08-29T08:30:05.579655+00:00",
+  "version": 1963,
+  "updated": "2026-08-29T08:30:50.166138+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 59,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
