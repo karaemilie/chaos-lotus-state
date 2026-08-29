@@ -313,15 +313,6 @@
       "uid": "SPIN:764"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 101,
-      "row": 102,
-      "label": "\ud83c\udfe0 Clean bathroom mirrors",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Clean bathroom mirrors",
-      "uid": "MAINTENANCE:101"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 725,
       "row": 30,
@@ -598,16 +589,6 @@
       "uid": "TASKS:11937"
     },
     {
-      "source": "TASKS",
-      "id": 11032,
-      "row": 143,
-      "label": "\ud83d\udcb8 Work with sticker machine \ud83c\udfa8\u2702\ufe0f",
-      "emoji": "\ud83d\udcb8",
-      "aw": 5,
-      "specialZone": "Business",
-      "uid": "TASKS:11032"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 323,
       "row": 4,
@@ -818,10 +799,31 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:11253"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 104,
+      "label": "\ud83c\udfe0 Clean mudroom mirror",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Clean mudroom mirror",
+      "uid": "MAINTENANCE:104"
+    },
+    {
+      "source": "TASKS",
+      "id": 10333,
+      "label": "English plan for L&E",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": "Lincoln Tasks",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10333"
     }
   ],
-  "version": 1959,
-  "updated": "2026-08-29T08:27:37.218399+00:00",
+  "version": 1960,
+  "updated": "2026-08-29T08:28:17.262521+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 17,
