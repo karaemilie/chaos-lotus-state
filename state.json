@@ -337,13 +337,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 793,
-      "row": 63,
-      "label": "Cancel DramaBox",
-      "uid": "SPIN:793"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 702,
       "row": 24,
       "label": "Go through rest of pillows and put them in allergen cases (mine too?)",
@@ -835,10 +828,10 @@
       "uid": "SPIN_WHEEL:807"
     }
   ],
-  "version": 1956,
-  "updated": "2026-08-29T08:18:20.321587+00:00",
+  "version": 1957,
+  "updated": "2026-08-29T08:19:52.381497+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
