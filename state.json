@@ -777,12 +777,19 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10117"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 808,
+      "sid": 808,
+      "label": "Find Bentley glasses",
+      "uid": "SPIN_WHEEL:808"
     }
   ],
-  "version": 1965,
-  "updated": "2026-08-29T08:43:27.826903+00:00",
+  "version": 1966,
+  "updated": "2026-08-29T20:30:54.602033+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 58,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
