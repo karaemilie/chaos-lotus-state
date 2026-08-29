@@ -1,17 +1,40 @@
 {
   "completions": [
     {
+      "source": "SPIN_WHEEL",
+      "row": 61,
+      "label": "Find awaken the Giant within pdf",
+      "uid": "SPIN:791",
+      "_ts": "2026-08-29T08:26:39.227Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12011,
+      "row": 360,
+      "label": "✨ Use Claude budget on new projects or app feature development 🧠⏳ 📝",
+      "uid": "TASKS:12011",
+      "_ts": "2026-08-29T08:27:20.828Z"
+    },
+    {
       "source": "MAINTENANCE",
       "row": 102,
       "label": "🏠 Clean bathroom mirrors",
       "uid": "MAINTENANCE:101",
       "_ts": "2026-08-29T08:27:33.078Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11032,
+      "row": 143,
+      "label": "💸 Work with sticker machine 🎨✂️",
+      "uid": "TASKS:11032",
+      "_ts": "2026-08-29T08:28:01.908Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-29T08:27:40.304Z",
+  "mirroredAt": "2026-08-29T08:28:02.160Z",
   "counts": {
-    "completions": 1,
+    "completions": 4,
     "adds": 0
   }
 }
