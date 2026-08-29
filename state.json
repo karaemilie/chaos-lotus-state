@@ -147,13 +147,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 754,
-      "row": 38,
-      "label": "Price magnum roller and plastic needed for spraying",
-      "uid": "SPIN:754"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 572,
       "row": 14,
       "label": "Find/charge caulk gun",
@@ -290,13 +283,6 @@
       "cat": "Family/Education",
       "critical": false,
       "uid": "TASKS:11957"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 783,
-      "row": 56,
-      "label": "Project file in Claude with Tony Robbin\u2019s, DJ Marco, etc (build my own Coach)",
-      "uid": "SPIN:783"
     },
     {
       "source": "SPIN_WHEEL",
@@ -849,10 +835,10 @@
       "uid": "SPIN_WHEEL:807"
     }
   ],
-  "version": 1955,
-  "updated": "2026-08-29T08:17:39.465614+00:00",
+  "version": 1956,
+  "updated": "2026-08-29T08:18:20.321587+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 65,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
