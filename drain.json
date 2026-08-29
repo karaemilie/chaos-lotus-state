@@ -6,12 +6,26 @@
       "label": "Project file in Claude with Tony Robbin’s, DJ Marco, etc (build my own Coach)",
       "uid": "SPIN:783",
       "_ts": "2026-08-29T08:17:29.841Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 38,
+      "label": "Price magnum roller and plastic needed for spraying",
+      "uid": "SPIN:754",
+      "_ts": "2026-08-29T08:17:41.920Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-08-29T08:17:38.588Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add more source docs to my coach brain project",
+      "_addedAt": "2026-08-29T08:17:27.342Z",
+      "_ts": "2026-08-29T08:17:27.698Z"
+    }
+  ],
+  "mirroredAt": "2026-08-29T08:17:42.183Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
