@@ -829,13 +829,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 804,
-      "sid": 804,
-      "label": "Order more zesty Italian",
-      "uid": "SPIN_WHEEL:804"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 805,
       "sid": 805,
       "label": "Get Bentley internet / check he has unlimited",
@@ -849,10 +842,10 @@
       "uid": "SPIN_WHEEL:806"
     }
   ],
-  "version": 1953,
-  "updated": "2026-08-29T08:16:11.181203+00:00",
+  "version": 1954,
+  "updated": "2026-08-29T08:16:54.230444+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
