@@ -1,16 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 46,
+      "label": "List next focus science book! 💫",
+      "uid": "SPIN:771",
+      "_ts": "2026-08-29T08:29:13.562Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-29T08:28:19.626Z",
+  "mirroredAt": "2026-08-29T08:29:13.779Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-29T08:28:20.369704+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:101",
-    "SPIN:791",
-    "TASKS:12011",
-    "TASKS:11032"
-  ]
+  }
 }
