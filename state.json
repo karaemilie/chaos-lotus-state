@@ -760,13 +760,6 @@
       "uid": "ZONES:86"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 809,
-      "sid": 809,
-      "label": "Lemon mouthwash",
-      "uid": "SPIN_WHEEL:809"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 106,
       "label": "\ud83c\udfe0 Vacuum ceiling fan bedroom",
@@ -784,10 +777,10 @@
       "uid": "ZONES:76"
     }
   ],
-  "version": 1974,
-  "updated": "2026-08-30T07:03:22.995547+00:00",
+  "version": 1975,
+  "updated": "2026-08-30T07:23:24.826199+00:00",
   "buckets": {
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 57,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
