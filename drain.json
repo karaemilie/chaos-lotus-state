@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 60,
+      "label": "Price diving costs vehicle versus uber",
+      "uid": "SPIN:790",
+      "_ts": "2026-08-30T07:03:09.080Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-30T07:00:41.203Z",
+  "mirroredAt": "2026-08-30T07:03:09.332Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-30T07:00:41.939671+00:00",
-  "lastAutoProcessed": [
-    "ZONES:75"
-  ]
+  }
 }
