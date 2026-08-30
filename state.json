@@ -709,14 +709,6 @@
       "uid": "TASKS:11253"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 104,
-      "label": "\ud83c\udfe0 Clean mudroom mirror",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Clean mudroom mirror",
-      "uid": "MAINTENANCE:104"
-    },
-    {
       "source": "TASKS",
       "id": 10333,
       "label": "English plan for L&E",
@@ -790,10 +782,18 @@
       "sid": 809,
       "label": "Lemon mouthwash",
       "uid": "SPIN_WHEEL:809"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 106,
+      "label": "\ud83c\udfe0 Vacuum ceiling fan bedroom",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Vacuum ceiling fan bedroom",
+      "uid": "MAINTENANCE:106"
     }
   ],
-  "version": 1971,
-  "updated": "2026-08-30T06:54:09.791859+00:00",
+  "version": 1972,
+  "updated": "2026-08-30T06:57:33.250718+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 17,
