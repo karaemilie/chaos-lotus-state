@@ -615,14 +615,6 @@
       "uid": "ZONES:71"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 103,
-      "label": "\ud83c\udfe0 Freezer lids clean",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Freezer lids clean",
-      "uid": "MAINTENANCE:103"
-    },
-    {
       "source": "ZONES",
       "zid": 58,
       "floor": "Digital",
@@ -784,10 +776,18 @@
       "sid": 808,
       "label": "Find Bentley glasses",
       "uid": "SPIN_WHEEL:808"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 105,
+      "label": "\ud83c\udfe0 Clean the microwave",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Clean the microwave",
+      "uid": "MAINTENANCE:105"
     }
   ],
-  "version": 1966,
-  "updated": "2026-08-29T20:30:54.602033+00:00",
+  "version": 1967,
+  "updated": "2026-08-30T06:46:31.559066+00:00",
   "buckets": {
     "SPIN_WHEEL": 58,
     "TASKS": 17,
