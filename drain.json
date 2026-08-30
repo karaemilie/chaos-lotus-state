@@ -2,18 +2,35 @@
   "completions": [
     {
       "source": "ZONES",
+      "zid": 71,
+      "floor": "Digital",
+      "label": "💻 MasterBrain",
+      "uid": "ZONES:71",
+      "_ts": "2026-08-30T06:49:00.477Z"
+    },
+    {
+      "source": "ZONES",
       "row": 55,
       "zid": 54,
       "floor": "Basement",
       "label": "🧺 Crawlspace",
       "uid": "ZONES:54",
       "_ts": "2026-08-30T06:49:08.355Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 76,
+      "zid": 74,
+      "floor": "Plant",
+      "label": "🌱 Family Room Plants",
+      "uid": "ZONES:74",
+      "_ts": "2026-08-30T06:49:57.384Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-30T06:49:18.247Z",
+  "mirroredAt": "2026-08-30T06:49:57.635Z",
   "counts": {
-    "completions": 1,
+    "completions": 3,
     "adds": 0
   }
 }
