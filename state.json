@@ -276,13 +276,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 766,
-      "row": 43,
-      "label": "Cancel B storage unit",
-      "uid": "SPIN:766"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 702,
       "row": 24,
       "label": "Go through rest of pillows and put them in allergen cases (mine too?)",
@@ -777,10 +770,10 @@
       "uid": "ZONES:76"
     }
   ],
-  "version": 1975,
-  "updated": "2026-08-30T07:23:24.826199+00:00",
+  "version": 1976,
+  "updated": "2026-08-30T07:24:07.948570+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 56,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
