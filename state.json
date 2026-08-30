@@ -70,16 +70,6 @@
       "uid": "SPIN:781"
     },
     {
-      "source": "ZONES",
-      "zid": 54,
-      "floor": "Basement",
-      "row": 55,
-      "label": "\ud83e\uddfa Crawlspace",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Crawlspace",
-      "uid": "ZONES:54"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 484,
       "row": 8,
@@ -784,10 +774,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Quicken",
       "uid": "ZONES:59"
+    },
+    {
+      "source": "ZONES",
+      "zid": 55,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Back Annex",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Back Annex",
+      "uid": "ZONES:55"
     }
   ],
-  "version": 1968,
-  "updated": "2026-08-30T06:49:16.987819+00:00",
+  "version": 1969,
+  "updated": "2026-08-30T06:50:00.970682+00:00",
   "buckets": {
     "SPIN_WHEEL": 58,
     "TASKS": 17,
