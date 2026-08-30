@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 809,
+      "label": "Lemon mouthwash",
+      "uid": "SPIN_WHEEL:809",
+      "_ts": "2026-08-30T07:23:11.681Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-30T07:03:24.212Z",
+  "mirroredAt": "2026-08-30T07:23:11.931Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-30T07:03:24.916326+00:00",
-  "lastAutoProcessed": [
-    "SPIN:790"
-  ]
+  }
 }
