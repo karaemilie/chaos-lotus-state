@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-30T06:52:42.123Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Lemon mouthwash",
+      "_addedAt": "2026-08-30T06:53:55.485Z",
+      "_ts": "2026-08-30T06:53:56.011Z"
+    }
+  ],
+  "mirroredAt": "2026-08-30T06:53:56.511Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-30T06:52:42.891675+00:00",
-  "lastAutoProcessed": [
-    "ZONES:83"
-  ]
+    "adds": 1
+  }
 }
