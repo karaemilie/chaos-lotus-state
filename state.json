@@ -176,16 +176,6 @@
       "uid": "SPIN:770"
     },
     {
-      "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "row": 76,
-      "label": "\ud83c\udf31 Family Room Plants",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Plants",
-      "uid": "ZONES:74"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11001,
       "parentRow": 138,
@@ -775,10 +765,19 @@
       "sid": 810,
       "label": "Write apartment lady about cellular",
       "uid": "SPIN_WHEEL:810"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
     }
   ],
-  "version": 1979,
-  "updated": "2026-08-30T22:16:15.046530+00:00",
+  "version": 1980,
+  "updated": "2026-08-30T22:17:20.149831+00:00",
   "buckets": {
     "SPIN_WHEEL": 57,
     "TASKS": 17,
