@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 77,
+      "zid": 75,
+      "floor": "Plant",
+      "label": "🌱 Main floor Down Low",
+      "uid": "ZONES:75",
+      "_ts": "2026-08-30T07:00:28.178Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-30T06:57:34.441Z",
+  "mirroredAt": "2026-08-30T07:00:28.565Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-30T06:57:35.475334+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:104"
-  ]
+  }
 }
