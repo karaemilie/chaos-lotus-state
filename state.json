@@ -35,13 +35,6 @@
       "uid": "ZONES:9"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 481,
-      "row": 7,
-      "label": "Vitamins for Linc and Evan",
-      "uid": "SPIN:481"
-    },
-    {
       "source": "TASKS",
       "id": 10202,
       "row": 57,
@@ -784,10 +777,10 @@
       "uid": "SPIN_WHEEL:810"
     }
   ],
-  "version": 1978,
-  "updated": "2026-08-30T07:53:48.569563+00:00",
+  "version": 1979,
+  "updated": "2026-08-30T22:16:15.046530+00:00",
   "buckets": {
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 57,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
