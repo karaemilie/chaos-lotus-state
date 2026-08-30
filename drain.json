@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-30T07:24:08.955Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Deal with renewing cellular for B",
+      "_addedAt": "2026-08-30T07:51:47.050Z",
+      "_ts": "2026-08-30T07:51:47.238Z"
+    }
+  ],
+  "mirroredAt": "2026-08-30T07:51:47.529Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-30T07:24:09.680158+00:00",
-  "lastAutoProcessed": [
-    "SPIN:766"
-  ]
+    "adds": 1
+  }
 }
