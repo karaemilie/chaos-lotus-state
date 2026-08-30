@@ -579,16 +579,6 @@
       "uid": "SPIN:253"
     },
     {
-      "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "row": 77,
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 794,
       "sid": 794,
@@ -790,10 +780,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Vacuum ceiling fan bedroom",
       "uid": "MAINTENANCE:106"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
     }
   ],
-  "version": 1972,
-  "updated": "2026-08-30T06:57:33.250718+00:00",
+  "version": 1973,
+  "updated": "2026-08-30T07:00:40.219569+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 17,
