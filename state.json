@@ -607,15 +607,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 71,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb MasterBrain",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "MasterBrain",
-      "uid": "ZONES:71"
-    },
-    {
-      "source": "ZONES",
       "zid": 58,
       "floor": "Digital",
       "label": "\ud83d\udcbb Emails",
@@ -784,10 +775,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Clean the microwave",
       "uid": "MAINTENANCE:105"
+    },
+    {
+      "source": "ZONES",
+      "zid": 59,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Quicken",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Quicken",
+      "uid": "ZONES:59"
     }
   ],
-  "version": 1967,
-  "updated": "2026-08-30T06:46:31.559066+00:00",
+  "version": 1968,
+  "updated": "2026-08-30T06:49:16.987819+00:00",
   "buckets": {
     "SPIN_WHEEL": 58,
     "TASKS": 17,
