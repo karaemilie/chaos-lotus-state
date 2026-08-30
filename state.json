@@ -783,12 +783,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Epilate Legs",
       "uid": "ZONES:86"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 809,
+      "sid": 809,
+      "label": "Lemon mouthwash",
+      "uid": "SPIN_WHEEL:809"
     }
   ],
-  "version": 1970,
-  "updated": "2026-08-30T06:52:41.146578+00:00",
+  "version": 1971,
+  "updated": "2026-08-30T06:54:09.791859+00:00",
   "buckets": {
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 59,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
