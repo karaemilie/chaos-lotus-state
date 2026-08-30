@@ -1,9 +1,16 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "label": "🏠 Freezer lids clean",
+      "uid": "MAINTENANCE:103",
+      "_ts": "2026-08-30T06:46:18.953Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-29T20:30:53.715Z",
+  "mirroredAt": "2026-08-30T06:46:19.224Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
