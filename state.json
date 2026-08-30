@@ -613,15 +613,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 83,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Retainer",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Retainer",
-      "uid": "ZONES:83"
-    },
-    {
-      "source": "ZONES",
       "zid": 84,
       "floor": "Personal",
       "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
@@ -783,10 +774,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Back Annex",
       "uid": "ZONES:55"
+    },
+    {
+      "source": "ZONES",
+      "zid": 86,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Epilate Legs",
+      "uid": "ZONES:86"
     }
   ],
-  "version": 1969,
-  "updated": "2026-08-30T06:50:00.970682+00:00",
+  "version": 1970,
+  "updated": "2026-08-30T06:52:41.146578+00:00",
   "buckets": {
     "SPIN_WHEEL": 58,
     "TASKS": 17,
