@@ -7,12 +7,21 @@
       "label": "💻 MasterBrain",
       "uid": "ZONES:71",
       "_ts": "2026-08-30T06:49:00.477Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 55,
+      "zid": 54,
+      "floor": "Basement",
+      "label": "🧺 Crawlspace",
+      "uid": "ZONES:54",
+      "_ts": "2026-08-30T06:49:08.355Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-30T06:49:00.878Z",
+  "mirroredAt": "2026-08-30T06:49:08.583Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
