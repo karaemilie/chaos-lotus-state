@@ -1,14 +1,33 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 54,
+      "label": "Add recurring task logic / redistribution after trying it",
+      "uid": "SPIN:812",
+      "_ts": "2026-08-31T10:00:12.912Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11914,
+      "row": 294,
+      "label": "✨ Review next two-three months travel, task to buy tickets (compare one ways and round trips) - mileage tickets 📝",
+      "uid": "TASKS:11914",
+      "_ts": "2026-08-31T10:01:12.027Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11921,
+      "row": 298,
+      "label": "✨ Update school lists for Lincoln & Evan",
+      "uid": "TASKS:11921",
+      "_ts": "2026-08-31T10:01:33.488Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-31T10:01:26.246Z",
+  "mirroredAt": "2026-08-31T10:01:33.757Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-08-31T10:01:27.104100+00:00",
-  "lastAutoProcessed": [
-    "SPIN:812",
-    "TASKS:11914"
-  ]
+  }
 }
