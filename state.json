@@ -584,20 +584,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11914,
-      "row": 294,
-      "label": "\u2728 Review next two-three months travel, task to buy tickets (compare one ways and round trips) - mileage tickets \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11914"
-    },
-    {
-      "source": "TASKS",
       "id": 12012,
       "row": 355,
       "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
@@ -809,10 +795,23 @@
       "row": 10,
       "label": "Start freezer wrap!!!!",
       "uid": "SPIN:511"
+    },
+    {
+      "source": "TASKS",
+      "id": 10615,
+      "label": "Find replacement strings for the harp (missing 2) \ud83c\udfb5 \ud83d\udcdd",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10615"
     }
   ],
-  "version": 1999,
-  "updated": "2026-08-31T10:00:25.994974+00:00",
+  "version": 2000,
+  "updated": "2026-08-31T10:01:23.842558+00:00",
   "buckets": {
     "SPIN_WHEEL": 52,
     "TASKS": 22,
