@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-31T20:04:06.479Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Evan haircut schedule",
+      "_addedAt": "2026-08-31T20:58:14.616Z",
+      "_ts": "2026-08-31T20:58:14.793Z"
+    }
+  ],
+  "mirroredAt": "2026-08-31T20:58:15.071Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
