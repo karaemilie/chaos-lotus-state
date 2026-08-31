@@ -514,13 +514,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 788,
-      "row": 59,
-      "label": "Add pumpkins to foyer table",
-      "uid": "SPIN:788"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 253,
       "row": 2,
       "label": "Order Bentley a bed bric",
@@ -548,15 +541,6 @@
       "sid": 796,
       "label": "Look into Turo rental for B",
       "uid": "SPIN_WHEEL:796"
-    },
-    {
-      "source": "ZONES",
-      "zid": 84,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Hand Care & Mani",
-      "uid": "ZONES:84"
     },
     {
       "source": "TASKS",
@@ -618,13 +602,6 @@
       "sid": 805,
       "label": "Get Bentley internet / check he has unlimited",
       "uid": "SPIN_WHEEL:805"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 806,
-      "sid": 806,
-      "label": "Cyber security certifications",
-      "uid": "SPIN_WHEEL:806"
     },
     {
       "source": "SPIN_WHEEL",
@@ -773,12 +750,21 @@
       "sid": 811,
       "label": "Put away some 4th decor",
       "uid": "SPIN_WHEEL:811"
+    },
+    {
+      "source": "ZONES",
+      "zid": 87,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Eyebrows",
+      "uid": "ZONES:87"
     }
   ],
-  "version": 1984,
-  "updated": "2026-08-31T06:33:56.860519+00:00",
+  "version": 1985,
+  "updated": "2026-08-31T06:34:44.120244+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 55,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
