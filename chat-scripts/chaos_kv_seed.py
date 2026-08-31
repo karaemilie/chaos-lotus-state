@@ -45,7 +45,7 @@ from ZONE_PICKER import pick_zones
 # ─── CONFIG ──────────────────────────────────────────────────────
 DEFAULT_BEAST_PATH = "/home/claude/masterHiveBrain.xlsx"
 
-DAILY_TEN_COUNT = 15
+DAILY_TEN_COUNT = 20
 COURAGE_COUNT = 4
 DAILY_AW_RANGE = (3, 7)
 COURAGE_AW_RANGE = (1, 2)
