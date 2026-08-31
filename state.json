@@ -310,20 +310,6 @@
       "uid": "SPIN:690"
     },
     {
-      "source": "TASKS",
-      "id": 12009,
-      "row": 353,
-      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12009"
-    },
-    {
       "source": "ZONES",
       "zid": 88,
       "floor": "Personal",
@@ -806,10 +792,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11946"
+    },
+    {
+      "source": "TASKS",
+      "id": 11958,
+      "label": "Research cost of New England Conservatory \ud83c\udfbb\ud83d\udcb0",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:11958"
     }
   ],
-  "version": 2002,
-  "updated": "2026-08-31T10:02:41.997235+00:00",
+  "version": 2003,
+  "updated": "2026-08-31T10:03:12.450885+00:00",
   "buckets": {
     "SPIN_WHEEL": 52,
     "TASKS": 22,
