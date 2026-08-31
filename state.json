@@ -334,20 +334,6 @@
       "uid": "TASKS:11831"
     },
     {
-      "source": "TASKS",
-      "id": 11554,
-      "row": 197,
-      "label": "\u2728 Replace Opal Ice Filter",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11554"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 555,
       "row": 11,
@@ -497,13 +483,6 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Emails",
       "uid": "ZONES:58"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 799,
-      "row": 45,
-      "label": "Request access to Derek Owens Algebra 1",
-      "uid": "SPIN:799"
     },
     {
       "source": "TASKS",
@@ -805,12 +784,25 @@
       "cat": "Family/Education",
       "critical": false,
       "uid": "TASKS:11958"
+    },
+    {
+      "source": "TASKS",
+      "id": 11957,
+      "label": "Look at five suit jackets with Evan \ud83e\udde5",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:11957"
     }
   ],
-  "version": 2003,
-  "updated": "2026-08-31T10:03:12.450885+00:00",
+  "version": 2004,
+  "updated": "2026-08-31T10:03:42.473764+00:00",
   "buckets": {
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 51,
     "TASKS": 22,
     "ZONES": 8,
     "COURAGE": 4,
