@@ -1,19 +1,15 @@
 {
-  "lastRun": "2026-08-31T10:04:27.515142+00:00",
-  "lastRunAlaska": "2026-08-31 02:04 AKDT",
-  "processedCount": 7,
+  "lastRun": "2026-08-31T21:41:08.806166+00:00",
+  "lastRunAlaska": "2026-08-31 13:41 AKDT",
+  "processedCount": 2,
   "processed": [
     {
-      "uid": "SPIN:799",
-      "result": "\u2705 SPIN deleted SID 808 ('Find Bentley glasses')"
+      "uid": "SPIN_WHEEL:816",
+      "result": "\u2705 SPIN deleted SID 816 ('Book haircut')"
     },
     {
-      "uid": "SPIN:808",
-      "result": "\u2705 SPIN deleted SID 805 ('Get Bentley internet / check he has unlimited')"
-    },
-    {
-      "uid": "SPIN:805",
-      "result": "\u2705 SPIN deleted SID 782 ('Add dates and external data store to my kid ping tracker')"
+      "uid": "SPIN_WHEEL:815",
+      "result": "\u2705 SPIN deleted SID 815 ('Book')"
     }
   ],
   "remainingForClaude": {
@@ -24,7 +20,7 @@
     "added": [],
     "bumped": [],
     "today": "2026-08-31",
-    "stampToday": "2026-08-30",
+    "stampToday": "2026-08-31",
     "ran": true
   }
 }
