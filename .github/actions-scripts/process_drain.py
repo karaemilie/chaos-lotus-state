@@ -921,13 +921,19 @@ def apply_refills(wb, processed_completions, today, pending_uids=None):
     # over-cap, self-correcting). Runs once per cycle on the final assembled list.
     try:
         import chaos_kv_refill as _refill
-        sweep = _refill.force_due_today_recurring(wb, tasks, today)
+        # TRUE calendar date in Alaska — NOT the `today` passed in, which comes
+        # from alaska_stamp_date() and has a 3am pivot (before 3am it returns
+        # YESTERDAY, correct for completion STAMPS but wrong for the sweep, which
+        # must match tasks' real Start dates). A task dated 8/31 completed at 1am
+        # on 8/31 was invisible to the sweep because stamp-date said 8/30.
+        sweep_today = datetime.now(ZoneInfo("America/Anchorage")).date()
+        sweep = _refill.force_due_today_recurring(wb, tasks, sweep_today)
         # BREADCRUMB: stash the sweep result on the module so the receipt writer
         # can surface it in last_sync.json (Action stdout isn't fetchable). Records
         # what the sweep saw + did every cycle, so we can diagnose without logs.
         globals()["_LAST_SWEEP"] = {
             "added": sweep["added"], "bumped": sweep["bumped"],
-            "today": str(today), "ran": True,
+            "today": str(sweep_today), "stampToday": str(today), "ran": True,
         }
         if sweep["added"]:
             summary.append(
