@@ -797,26 +797,12 @@
       "sid": 814,
       "label": "Make a widget app tracker",
       "uid": "SPIN_WHEEL:814"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 815,
-      "sid": 815,
-      "label": "Book",
-      "uid": "SPIN_WHEEL:815"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 816,
-      "sid": 816,
-      "label": "Book haircut",
-      "uid": "SPIN_WHEEL:816"
     }
   ],
-  "version": 2010,
-  "updated": "2026-08-31T21:40:23.234206+00:00",
+  "version": 2011,
+  "updated": "2026-08-31T21:41:06.797967+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 51,
     "TASKS": 22,
     "ZONES": 8,
     "COURAGE": 4,
