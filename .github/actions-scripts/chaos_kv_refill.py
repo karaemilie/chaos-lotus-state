@@ -506,7 +506,7 @@ def refill_courage(wb, on_wheel_uids, today):
 
 
 # ─── DISPATCH ────────────────────────────────────────────────────
-def force_due_today_recurring(wb, wheel, today):
+def force_due_today_recurring(wb, wheel, today, exclude_ids=None):
     """Sweep: ensure EVERY recurring TASKS task whose Start <= today is on the
     wheel, so day-anchored rhythm tasks (Monday trash, Saturday redistribute,
     weekly meal planning, etc.) reliably surface on/after their day instead of
@@ -533,6 +533,12 @@ def force_due_today_recurring(wb, wheel, today):
     on the wheel is never re-added; running twice changes nothing.
     """
     ws_uids = {t.get("uid") for t in wheel if isinstance(t, dict)}
+    # IDs completed in THIS drain cycle — never re-add them, even if their
+    # regenerated next instance is dated <= today. Without this, completing a
+    # recurring task whose new instance lands on today would instantly re-surface
+    # it ("I checked off the trash and it popped right back on"). The fresh
+    # instance waits for a future cycle.
+    skip_ids = {str(i) for i in (exclude_ids or set())}
 
     # Candidates: recurring, AW 3-7, Start == today, not already on the wheel,
     # not a blocked (non-first) sequential task.
@@ -547,6 +553,8 @@ def force_due_today_recurring(wb, wheel, today):
         if _is_blocked_seq(t):
             continue
         if f"TASKS:{t['id']}" in ws_uids:
+            continue
+        if str(t["id"]) in skip_ids:      # just completed this cycle — don't re-add
             continue
         candidates.append(t)
 
