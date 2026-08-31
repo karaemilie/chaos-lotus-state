@@ -151,20 +151,6 @@
       "uid": "SPIN:776"
     },
     {
-      "source": "TASKS",
-      "id": 12016,
-      "row": 358,
-      "label": "\u2728 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12016"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 807,
       "row": 50,
@@ -807,10 +793,23 @@
       "cat": "Kids",
       "critical": false,
       "uid": "TASKS:11708"
+    },
+    {
+      "source": "TASKS",
+      "id": 11946,
+      "label": "Move quilt to right \ud83d\udecf\ufe0f",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11946"
     }
   ],
-  "version": 2001,
-  "updated": "2026-08-31T10:01:53.823901+00:00",
+  "version": 2002,
+  "updated": "2026-08-31T10:02:41.997235+00:00",
   "buckets": {
     "SPIN_WHEEL": 52,
     "TASKS": 22,
