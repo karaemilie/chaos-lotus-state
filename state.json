@@ -727,23 +727,36 @@
     },
     {
       "source": "TASKS",
-      "id": 12017,
-      "label": "\u2728 Clear the upstairs trashes",
+      "id": 11831,
+      "label": "\u2728 Next month plan: keep or change or pause AK Club membership?",
       "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
       "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:12017"
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:11831"
+    },
+    {
+      "source": "TASKS",
+      "id": 12012,
+      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12012"
     }
   ],
-  "version": 1994,
-  "updated": "2026-08-31T09:43:43.500246+00:00",
+  "version": 1995,
+  "updated": "2026-08-31T09:51:38.358118+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
-    "TASKS": 17,
+    "TASKS": 18,
     "ZONES": 9,
     "COURAGE": 4,
     "MAINTENANCE": 2
