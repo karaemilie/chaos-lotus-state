@@ -56,7 +56,7 @@ COURAGE_AW_RANGE = (1, 2)
 # Business specials (also source=TASKS). Those specials mean the steady-state TASKS
 # count is cap + (#specials). We add a small headroom so specials don't permanently
 # block legitimate refills. Headroom = max specials we expect (Frog + Business = 2).
-DAILY_TEN_CAP = 15
+DAILY_TEN_CAP = 20
 DAILY_TEN_SPECIAL_HEADROOM = 3  # Frog + Business specials (+1 safety buffer so a
                                # transient extra special can't block a legit daily-
                                # ten refill — the "41 short" bug. process_drain now
@@ -507,9 +507,11 @@ def refill_courage(wb, on_wheel_uids, today):
 
 # ─── DISPATCH ────────────────────────────────────────────────────
 def force_due_today_recurring(wb, wheel, today):
-    """Sweep: ensure EVERY recurring TASKS task whose Start == today is on the
+    """Sweep: ensure EVERY recurring TASKS task whose Start <= today is on the
     wheel, so day-anchored rhythm tasks (Monday trash, Saturday redistribute,
-    etc.) reliably surface ON their day instead of merely competing in the pool.
+    weekly meal planning, etc.) reliably surface on/after their day instead of
+    merely competing in the pool. Includes OVERDUE recurring tasks (Start in the
+    past, never surfaced) — those are even more important to show than today's.
 
     This runs ONCE per drain cycle (called from process_drain after completions
     are applied), NOT per-completion — it's a whole-wheel reconciliation, so it
@@ -540,7 +542,7 @@ def force_due_today_recurring(wb, wheel, today):
             continue
         if not _is_recurring(t):
             continue
-        if t.get("start") != today:          # strictly DUE TODAY, not just overdue
+        if t.get("start") is None or t.get("start") > today:  # due today OR overdue
             continue
         if _is_blocked_seq(t):
             continue
