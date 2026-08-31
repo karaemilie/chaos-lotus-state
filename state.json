@@ -245,13 +245,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 750,
-      "row": 36,
-      "label": "Load new errand wheel",
-      "uid": "SPIN:750"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 683,
       "row": 21,
       "label": "Send Matt his statements for card",
@@ -756,10 +749,10 @@
       "uid": "TASKS:12009"
     }
   ],
-  "version": 1991,
-  "updated": "2026-08-31T09:29:40.516070+00:00",
+  "version": 1992,
+  "updated": "2026-08-31T09:39:06.164116+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 54,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
