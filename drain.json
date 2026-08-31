@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-31T20:58:27.171Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Make a widget app tracker",
+      "_addedAt": "2026-08-31T21:31:24.891Z",
+      "_ts": "2026-08-31T21:31:25.096Z"
+    }
+  ],
+  "mirroredAt": "2026-08-31T21:31:25.396Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
