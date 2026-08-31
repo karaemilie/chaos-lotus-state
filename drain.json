@@ -37,12 +37,19 @@
       "label": "Get Bentley internet / check he has unlimited",
       "uid": "SPIN:805",
       "_ts": "2026-08-31T10:03:35.032Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 41,
+      "label": "Add dates and external data store to my kid ping tracker",
+      "uid": "SPIN:782",
+      "_ts": "2026-08-31T10:03:42.610Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-31T10:03:35.310Z",
+  "mirroredAt": "2026-08-31T10:03:42.914Z",
   "counts": {
-    "completions": 5,
+    "completions": 6,
     "adds": 0
   }
 }
