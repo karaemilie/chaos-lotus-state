@@ -35,20 +35,6 @@
       "uid": "ZONES:9"
     },
     {
-      "source": "TASKS",
-      "id": 10202,
-      "row": 57,
-      "label": "\u2b50 Look into if life insurance policies are at end of term - convert to retain value \ud83d\udcdd",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10202"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 775,
       "row": 49,
@@ -155,20 +141,6 @@
       "uid": "COURAGE:11826:0"
     },
     {
-      "source": "TASKS",
-      "id": 11902,
-      "row": 291,
-      "label": "\u2b50 Next step: Claude robotics research thread \ud83e\udd16",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11902"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 770,
       "row": 45,
@@ -210,31 +182,10 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 732,
-      "row": 32,
-      "label": "Move over Everyday",
-      "uid": "SPIN:732"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 752,
       "row": 37,
       "label": "Ceiling paint samples",
       "uid": "SPIN:752"
-    },
-    {
-      "source": "TASKS",
-      "id": 11957,
-      "row": 322,
-      "label": "\u2b50 Look at five suit jackets with Evan \ud83e\udde5",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:11957"
     },
     {
       "source": "SPIN_WHEEL",
@@ -291,20 +242,6 @@
       "row": 31,
       "label": "List an item",
       "uid": "SPIN:726"
-    },
-    {
-      "source": "TASKS",
-      "id": 10788,
-      "row": 122,
-      "label": "\u2b50 Contact The Music Man about cello buybacks",
-      "aw": 3,
-      "pri": "High",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10788"
     },
     {
       "source": "SPIN_WHEEL",
@@ -366,20 +303,6 @@
       "row": 17,
       "label": "Take down dress shoes in closet",
       "uid": "SPIN:581"
-    },
-    {
-      "source": "TASKS",
-      "id": 11946,
-      "row": 319,
-      "label": "\u2b50 Move quilt to right \ud83d\udecf\ufe0f",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11946"
     },
     {
       "source": "SPIN_WHEEL",
@@ -766,12 +689,77 @@
       "sid": 812,
       "label": "Add recurring task logic / redistribution after trying it",
       "uid": "SPIN_WHEEL:812"
+    },
+    {
+      "source": "TASKS",
+      "id": 11307,
+      "label": "\u2728 Review Evan's bedtime & adjust melatonin timing \ud83d\ude34\ud83d\udc8a",
+      "aw": 6,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": null,
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11307"
+    },
+    {
+      "source": "TASKS",
+      "id": 11980,
+      "label": "\u2728 Grab the gold candles and charge them \ud83d\udd6f\ufe0f",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11980"
+    },
+    {
+      "source": "TASKS",
+      "id": 11987,
+      "label": "\u2728 Work on kids education planning projects \ud83d\udcda",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Medium",
+      "proj": "Homeschool Admin",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11987"
+    },
+    {
+      "source": "TASKS",
+      "id": 11999,
+      "label": "\u2728 Water snake plants",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11999"
+    },
+    {
+      "source": "TASKS",
+      "id": 12009,
+      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12009"
     }
   ],
-  "version": 1990,
-  "updated": "2026-08-31T09:14:23.602572+00:00",
+  "version": 1991,
+  "updated": "2026-08-31T09:29:40.516070+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 55,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
