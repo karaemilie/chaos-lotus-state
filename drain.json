@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-31T07:07:45.146Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add recurring task logic / redistribution after trying it",
+      "_addedAt": "2026-08-31T09:14:09.759Z",
+      "_ts": "2026-08-31T09:14:09.905Z"
+    }
+  ],
+  "mirroredAt": "2026-08-31T09:14:10.132Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-31T07:07:46.091418+00:00",
-  "lastAutoProcessed": [
-    "ZONES:86",
-    "ZONES:87"
-  ]
+    "adds": 1
+  }
 }
