@@ -927,7 +927,17 @@ def apply_refills(wb, processed_completions, today, pending_uids=None):
         # must match tasks' real Start dates). A task dated 8/31 completed at 1am
         # on 8/31 was invisible to the sweep because stamp-date said 8/30.
         sweep_today = datetime.now(ZoneInfo("America/Anchorage")).date()
-        sweep = _refill.force_due_today_recurring(wb, tasks, sweep_today)
+        # IDs finalized this cycle — extract numeric task id from every completed
+        # uid shape (TASKS:123, COURAGE:123:0) so the sweep won't re-add a task
+        # you just completed even if its regenerated instance is dated today.
+        just_completed_ids = set()
+        for _u in completed_uids:
+            _parts = str(_u).split(":")
+            if _parts and _parts[0] in ("TASKS", "COURAGE") and len(_parts) > 1:
+                just_completed_ids.add(_parts[1])
+        sweep = _refill.force_due_today_recurring(
+            wb, tasks, sweep_today, exclude_ids=just_completed_ids
+        )
         # BREADCRUMB: stash the sweep result on the module so the receipt writer
         # can surface it in last_sync.json (Action stdout isn't fetchable). Records
         # what the sweep saw + did every cycle, so we can diagnose without logs.
