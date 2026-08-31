@@ -506,6 +506,87 @@ def refill_courage(wb, on_wheel_uids, today):
 
 
 # ─── DISPATCH ────────────────────────────────────────────────────
+def force_due_today_recurring(wb, wheel, today):
+    """Sweep: ensure EVERY recurring TASKS task whose Start == today is on the
+    wheel, so day-anchored rhythm tasks (Monday trash, Saturday redistribute,
+    etc.) reliably surface ON their day instead of merely competing in the pool.
+
+    This runs ONCE per drain cycle (called from process_drain after completions
+    are applied), NOT per-completion — it's a whole-wheel reconciliation, so it
+    stays clear of the delicate 1-out-1-in refill contract in refill_daily_ten.
+
+    Behavior (agreed design):
+      • For each recurring Daily-Ten task (AW 3-7) due today and not on the wheel,
+        add it.
+      • To hold the cap, bump the LEAST-URGENT one-time filler (a non-recurring
+        Daily-Ten task, chosen by furthest-out / latest Start) back to the pool.
+      • OPTION 1 — if there is NO one-time filler to bump (wheel is all recurring),
+        add the task ANYWAY and allow a temporary over-cap. It's self-correcting:
+        normal refill returns None while at/over cap, so it won't compound; the
+        wheel settles back to cap as tasks get completed. Failing "show it" beats
+        failing "hide a time-critical task."
+
+    Mutates `wheel` (the list of task dicts) in place. Returns a summary dict
+    {added: [...], bumped: [...]} for the receipt/log. Idempotent: a task already
+    on the wheel is never re-added; running twice changes nothing.
+    """
+    ws_uids = {t.get("uid") for t in wheel if isinstance(t, dict)}
+
+    # Candidates: recurring, AW 3-7, Start == today, not already on the wheel,
+    # not a blocked (non-first) sequential task.
+    candidates = []
+    for t in _available_tasks(wb, today):
+        if not (DAILY_AW_RANGE[0] <= t["aw"] <= DAILY_AW_RANGE[1]):
+            continue
+        if not _is_recurring(t):
+            continue
+        if t.get("start") != today:          # strictly DUE TODAY, not just overdue
+            continue
+        if _is_blocked_seq(t):
+            continue
+        if f"TASKS:{t['id']}" in ws_uids:
+            continue
+        candidates.append(t)
+
+    added, bumped = [], []
+    for t in candidates:
+        # Recompute the on-wheel one-time fillers each iteration (the set shrinks
+        # as we bump). A "filler" = a TASKS item on the wheel that is NOT recurring
+        # and NOT a Frog/Business special.
+        daily_ten_count = sum(
+            1 for w in wheel
+            if isinstance(w, dict) and str(w.get("uid", "")).startswith("TASKS:")
+        )
+        if daily_ten_count >= DAILY_TEN_CAP:
+            # Need room — find the least-urgent one-time filler to bump.
+            fillers = [
+                w for w in wheel
+                if isinstance(w, dict)
+                and str(w.get("uid", "")).startswith("TASKS:")
+                and not str(w.get("label", "")).startswith("✨")   # ✨ = recurring
+                and not w.get("specialZone")                        # protect Frog/Business
+            ]
+            if fillers:
+                # latest Start = least overdue = safest to displace; it returns
+                # to the wheel via normal refill on a later completion.
+                fillers.sort(key=lambda w: (w.get("start") or today), reverse=True)
+                victim = fillers[0]
+                wheel.remove(victim)
+                bumped.append(victim.get("uid"))
+            # else: OPTION 1 — no filler to bump, add anyway (temporary over-cap).
+
+        wheel.append({
+            "source": "TASKS", "id": t["id"], "label": _decorate_label(t),
+            "aw": t["aw"], "pri": t["pri"], "dur": t["dur"], "ml": t["ml"],
+            "proj": t["proj"], "cat": t["cat"], "critical": t["critical"],
+            "uid": f"TASKS:{t['id']}",
+        })
+        added.append(f"TASKS:{t['id']}")
+        ws_uids.add(f"TASKS:{t['id']}")
+
+    return {"added": added, "bumped": bumped}
+
+
 def refill_for(source, wb, completed_comp, on_wheel_uids, today, wheel_task_count=None):
     """Route a completed item's source to the right refill function.
 
