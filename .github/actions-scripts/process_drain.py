@@ -913,6 +913,23 @@ def apply_refills(wb, processed_completions, today, pending_uids=None):
         deduped.append(t)
     tasks = deduped
 
+    # 2c. DAY-ANCHORED SWEEP: force every recurring TASKS task whose Start == today
+    # onto the wheel, so day-specific rhythm tasks (Monday trash, Saturday
+    # redistribute, etc.) reliably surface ON their day instead of only competing
+    # in the refill pool. Bumps the least-urgent one-time filler to hold the cap;
+    # if the wheel is all-recurring with no filler, adds anyway (temporary
+    # over-cap, self-correcting). Runs once per cycle on the final assembled list.
+    try:
+        import chaos_kv_refill as _refill
+        sweep = _refill.force_due_today_recurring(wb, tasks, today)
+        if sweep["added"]:
+            summary.append(
+                f"📌 Day-anchored: +{len(sweep['added'])} due-today recurring"
+                + (f", -{len(sweep['bumped'])} filler bumped" if sweep["bumped"] else "")
+            )
+    except Exception as _sweep_err:  # non-fatal: never block the drain on the sweep
+        print(f"   ⚠️  day-anchored sweep skipped: {_sweep_err}")
+
     # 3. Write state.json back with bumped version
     state["tasks"] = tasks
     state["version"] = state.get("version", 0) + 1
