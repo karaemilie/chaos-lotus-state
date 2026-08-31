@@ -766,12 +766,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11094"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 811,
+      "sid": 811,
+      "label": "Put away some 4th decor",
+      "uid": "SPIN_WHEEL:811"
     }
   ],
-  "version": 1983,
-  "updated": "2026-08-31T06:33:52.536073+00:00",
+  "version": 1984,
+  "updated": "2026-08-31T06:33:56.860519+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 57,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
