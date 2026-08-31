@@ -88,20 +88,6 @@
       "uid": "ZONES:59"
     },
     {
-      "source": "TASKS",
-      "id": 11999,
-      "row": 344,
-      "label": "\u2728 Water snake plants",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11999"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 703,
       "row": 24,
@@ -803,10 +789,23 @@
       "cat": "Kids",
       "critical": false,
       "uid": "TASKS:11317"
+    },
+    {
+      "source": "TASKS",
+      "id": 11421,
+      "label": "Finish fixing sand table",
+      "aw": 5,
+      "pri": null,
+      "dur": 30,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11421"
     }
   ],
-  "version": 2013,
-  "updated": "2026-08-31T22:41:29.515995+00:00",
+  "version": 2014,
+  "updated": "2026-08-31T22:43:25.279232+00:00",
   "buckets": {
     "SPIN_WHEEL": 52,
     "TASKS": 22,
