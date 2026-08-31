@@ -389,13 +389,6 @@
       "uid": "SPIN:682"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 778,
-      "row": 52,
-      "label": "Get Evan a new rock gym shirt",
-      "uid": "SPIN:778"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11825,
       "parentRow": 257,
@@ -776,10 +769,10 @@
       "uid": "ZONES:77"
     }
   ],
-  "version": 1980,
-  "updated": "2026-08-30T22:17:20.149831+00:00",
+  "version": 1981,
+  "updated": "2026-08-31T06:31:00.978947+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 56,
     "TASKS": 17,
     "ZONES": 9,
     "COURAGE": 4,
