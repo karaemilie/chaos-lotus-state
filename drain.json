@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 809,
+      "label": "Deal with renewing cellular for B",
+      "uid": "SPIN_WHEEL:809",
+      "_ts": "2026-08-31T09:41:49.204Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-31T09:39:07.421Z",
+  "mirroredAt": "2026-08-31T09:41:49.455Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-31T09:39:08.733695+00:00",
-  "lastAutoProcessed": [
-    "SPIN:750"
-  ]
+  }
 }
