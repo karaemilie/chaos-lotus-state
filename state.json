@@ -457,20 +457,6 @@
       "uid": "SPIN:555"
     },
     {
-      "source": "TASKS",
-      "id": 12013,
-      "row": 362,
-      "label": "\u2728 Spend time on flower bouquet coding project",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": "Bouquet Tracker",
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12013"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 744,
       "row": 34,
@@ -767,10 +753,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook B",
       "uid": "ZONES:77"
+    },
+    {
+      "source": "TASKS",
+      "id": 11094,
+      "label": "\u2728 Plant pest treatment section \ud83c\udf3f (spray alcohol, Bonide, pesticide, check props)",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11094"
     }
   ],
-  "version": 1981,
-  "updated": "2026-08-31T06:31:00.978947+00:00",
+  "version": 1982,
+  "updated": "2026-08-31T06:33:23.257739+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "TASKS": 17,
