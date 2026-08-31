@@ -717,15 +717,6 @@
       "uid": "SPIN_WHEEL:811"
     },
     {
-      "source": "ZONES",
-      "zid": 87,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Eyebrows",
-      "uid": "ZONES:87"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 107,
       "label": "\ud83c\udfe0 Clean kids humidifier",
@@ -759,10 +750,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Teeth Whitening",
       "uid": "ZONES:88"
+    },
+    {
+      "source": "ZONES",
+      "zid": 90,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Feet Care & Pedi",
+      "uid": "ZONES:90"
     }
   ],
-  "version": 1988,
-  "updated": "2026-08-31T07:07:15.789481+00:00",
+  "version": 1989,
+  "updated": "2026-08-31T07:07:43.875359+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "TASKS": 17,
