@@ -261,20 +261,6 @@
       "uid": "TASKS:11307"
     },
     {
-      "source": "TASKS",
-      "id": 11921,
-      "row": 298,
-      "label": "\u2728 Update school lists for Lincoln & Evan",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11921"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 667,
       "row": 18,
@@ -808,10 +794,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10615"
+    },
+    {
+      "source": "TASKS",
+      "id": 11708,
+      "label": "Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11708"
     }
   ],
-  "version": 2000,
-  "updated": "2026-08-31T10:01:23.842558+00:00",
+  "version": 2001,
+  "updated": "2026-08-31T10:01:53.823901+00:00",
   "buckets": {
     "SPIN_WHEEL": 52,
     "TASKS": 22,
