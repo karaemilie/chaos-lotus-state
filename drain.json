@@ -5,12 +5,20 @@
       "label": "🏠 Vacuum ceiling fan bedroom",
       "uid": "MAINTENANCE:106",
       "_ts": "2026-08-31T06:45:12.238Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "🌱 Corner Nook A",
+      "uid": "ZONES:76",
+      "_ts": "2026-08-31T06:45:16.503Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-08-31T06:45:12.502Z",
+  "mirroredAt": "2026-08-31T06:45:16.759Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
