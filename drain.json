@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 52,
+      "label": "Get Evan a new rock gym shirt",
+      "uid": "SPIN:778",
+      "_ts": "2026-08-31T06:30:47.166Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-30T22:17:21.507Z",
+  "mirroredAt": "2026-08-31T06:30:47.414Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-08-30T22:17:22.633872+00:00",
-  "lastAutoProcessed": [
-    "ZONES:74"
-  ]
+  }
 }
