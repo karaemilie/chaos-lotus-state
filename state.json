@@ -692,15 +692,6 @@
       "uid": "ZONES:86"
     },
     {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 809,
       "sid": 809,
@@ -713,15 +704,6 @@
       "sid": 810,
       "label": "Write apartment lady about cellular",
       "uid": "SPIN_WHEEL:810"
-    },
-    {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
     },
     {
       "source": "TASKS",
@@ -759,10 +741,28 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Clean kids humidifier",
       "uid": "MAINTENANCE:107"
+    },
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Props",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Props",
+      "uid": "ZONES:78"
+    },
+    {
+      "source": "ZONES",
+      "zid": 79,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Kitchen Up High",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Kitchen Up High",
+      "uid": "ZONES:79"
     }
   ],
-  "version": 1986,
-  "updated": "2026-08-31T06:45:30.715813+00:00",
+  "version": 1987,
+  "updated": "2026-08-31T06:46:13.475258+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "TASKS": 17,
