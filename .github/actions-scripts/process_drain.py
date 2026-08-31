@@ -922,12 +922,20 @@ def apply_refills(wb, processed_completions, today, pending_uids=None):
     try:
         import chaos_kv_refill as _refill
         sweep = _refill.force_due_today_recurring(wb, tasks, today)
+        # BREADCRUMB: stash the sweep result on the module so the receipt writer
+        # can surface it in last_sync.json (Action stdout isn't fetchable). Records
+        # what the sweep saw + did every cycle, so we can diagnose without logs.
+        globals()["_LAST_SWEEP"] = {
+            "added": sweep["added"], "bumped": sweep["bumped"],
+            "today": str(today), "ran": True,
+        }
         if sweep["added"]:
             summary.append(
                 f"📌 Day-anchored: +{len(sweep['added'])} due-today recurring"
                 + (f", -{len(sweep['bumped'])} filler bumped" if sweep["bumped"] else "")
             )
     except Exception as _sweep_err:  # non-fatal: never block the drain on the sweep
+        globals()["_LAST_SWEEP"] = {"ran": False, "error": str(_sweep_err), "today": str(today)}
         print(f"   ⚠️  day-anchored sweep skipped: {_sweep_err}")
 
     # 3. Write state.json back with bumped version
@@ -1050,6 +1058,10 @@ def write_sync_receipt(processed_uids, processed_details, remaining_completions,
             "completions": len(remaining_completions),
             "adds": len(remaining_adds),
         },
+        # DIAGNOSTIC BREADCRUMB: what the day-anchored sweep saw/did this run.
+        # Lets chat-side Claude verify the sweep without the (unfetchable) Action
+        # logs. {ran, added, bumped, today} on success; {ran:false, error} on skip.
+        "daySweep": globals().get("_LAST_SWEEP", {"ran": None, "note": "apply_refills not reached this run"}),
     }
     with open("last_sync.json", "w") as f:
         json.dump(receipt, f, indent=2)
