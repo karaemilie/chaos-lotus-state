@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-31T22:46:47.617Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order more boxes and poly bags",
+      "_addedAt": "2026-08-31T22:58:38.810Z",
+      "_ts": "2026-08-31T22:58:38.935Z"
+    }
+  ],
+  "mirroredAt": "2026-08-31T22:58:39.195Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
