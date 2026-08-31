@@ -1,11 +1,15 @@
 {
-  "lastRun": "2026-08-31T07:07:18.136613+00:00",
+  "lastRun": "2026-08-31T07:07:46.091657+00:00",
   "lastRunAlaska": "2026-08-30 23:07 AKDT",
-  "processedCount": 1,
+  "processedCount": 2,
   "processed": [
     {
       "uid": "ZONES:86",
-      "result": "\u2705 Personal/Epilate Legs (row 88) stamped 2026-08-30"
+      "result": "\u23ed\ufe0f  Personal/Epilate Legs (row 88) already stamped \u2014 skip"
+    },
+    {
+      "uid": "ZONES:87",
+      "result": "\u2705 Personal/Eyebrows (row 89) stamped 2026-08-30"
     }
   ],
   "remainingForClaude": {
