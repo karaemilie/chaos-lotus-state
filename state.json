@@ -545,20 +545,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 805,
-      "row": 49,
-      "label": "Get Bentley internet / check he has unlimited",
-      "uid": "SPIN:805"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 782,
-      "row": 41,
-      "label": "Add dates and external data store to my kid ping tracker",
-      "uid": "SPIN:782"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 759,
       "row": 33,
       "label": "Replace B credit card",
@@ -607,13 +593,6 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Tahoe",
       "uid": "ZONES:31"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 808,
-      "row": 51,
-      "label": "Find Bentley glasses",
-      "uid": "SPIN:808"
     },
     {
       "source": "SPIN_WHEEL",
@@ -799,10 +778,10 @@
       "uid": "TASKS:11957"
     }
   ],
-  "version": 2004,
-  "updated": "2026-08-31T10:03:42.473764+00:00",
+  "version": 2005,
+  "updated": "2026-08-31T10:04:23.447612+00:00",
   "buckets": {
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 48,
     "TASKS": 22,
     "ZONES": 8,
     "COURAGE": 4,
