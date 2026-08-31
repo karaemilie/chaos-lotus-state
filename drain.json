@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 86,
+      "floor": "Personal",
+      "label": "👱‍♀️ Epilate Legs",
+      "uid": "ZONES:86",
+      "_ts": "2026-08-31T07:07:03.886Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 87,
+      "floor": "Personal",
+      "label": "👱‍♀️ Eyebrows",
+      "uid": "ZONES:87",
+      "_ts": "2026-08-31T07:07:26.511Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-31T07:07:16.848Z",
+  "mirroredAt": "2026-08-31T07:07:26.745Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-08-31T07:07:18.136409+00:00",
-  "lastAutoProcessed": [
-    "ZONES:86"
-  ]
+  }
 }
