@@ -692,14 +692,6 @@
       "uid": "ZONES:86"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 106,
-      "label": "\ud83c\udfe0 Vacuum ceiling fan bedroom",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Vacuum ceiling fan bedroom",
-      "uid": "MAINTENANCE:106"
-    },
-    {
       "source": "ZONES",
       "zid": 76,
       "floor": "Plant",
@@ -759,10 +751,18 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Eyebrows",
       "uid": "ZONES:87"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 107,
+      "label": "\ud83c\udfe0 Clean kids humidifier",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Clean kids humidifier",
+      "uid": "MAINTENANCE:107"
     }
   ],
-  "version": 1985,
-  "updated": "2026-08-31T06:34:44.120244+00:00",
+  "version": 1986,
+  "updated": "2026-08-31T06:45:30.715813+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "TASKS": 17,
