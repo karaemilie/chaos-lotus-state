@@ -198,20 +198,6 @@
       "uid": "SPIN:566"
     },
     {
-      "source": "TASKS",
-      "id": 11927,
-      "row": 301,
-      "label": "\u2728 Rotate plants on hallway wall \ud83e\udeb4\ud83d\udd04",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Plants",
-      "critical": false,
-      "uid": "TASKS:11927"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 796,
       "row": 44,
@@ -804,10 +790,23 @@
       "sid": 815,
       "label": "Another anker charger",
       "uid": "SPIN_WHEEL:815"
+    },
+    {
+      "source": "TASKS",
+      "id": 11317,
+      "label": "Schedule next Create & Learn class for Evan (based on rock climbing schedule) \ud83d\udcdd",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11317"
     }
   ],
-  "version": 2012,
-  "updated": "2026-08-31T22:01:26.216153+00:00",
+  "version": 2013,
+  "updated": "2026-08-31T22:41:29.515995+00:00",
   "buckets": {
     "SPIN_WHEEL": 52,
     "TASKS": 22,
