@@ -714,19 +714,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11717,
-      "label": "\u2728 Replace cat fountain filters \ud83d\udc31\ud83d\udca7",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11717"
-    },
-    {
-      "source": "TASKS",
       "id": 11831,
       "label": "\u2728 Next month plan: keep or change or pause AK Club membership?",
       "aw": 4,
@@ -750,10 +737,23 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:12012"
+    },
+    {
+      "source": "TASKS",
+      "id": 11985,
+      "label": "Write Tim to apologize for my child \u2709\ufe0f",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:11985"
     }
   ],
-  "version": 1995,
-  "updated": "2026-08-31T09:51:38.358118+00:00",
+  "version": 1996,
+  "updated": "2026-08-31T09:52:21.683545+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
     "TASKS": 18,
