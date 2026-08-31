@@ -417,19 +417,6 @@
       "uid": "SPIN_WHEEL:796"
     },
     {
-      "source": "TASKS",
-      "id": 11822,
-      "label": "Assign IXL assessments to Lincoln & Evan \ud83d\udcda",
-      "aw": 4,
-      "pri": 3,
-      "dur": 20,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11822"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 799,
       "sid": 799,
@@ -727,6 +714,19 @@
     },
     {
       "source": "TASKS",
+      "id": 11717,
+      "label": "\u2728 Replace cat fountain filters \ud83d\udc31\ud83d\udca7",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11717"
+    },
+    {
+      "source": "TASKS",
       "id": 12017,
       "label": "\u2728 Clear the upstairs trashes",
       "aw": 4,
@@ -739,8 +739,8 @@
       "uid": "TASKS:12017"
     }
   ],
-  "version": 1993,
-  "updated": "2026-08-31T09:42:02.320407+00:00",
+  "version": 1994,
+  "updated": "2026-08-31T09:43:43.500246+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
     "TASKS": 17,
