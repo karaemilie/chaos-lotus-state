@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-08-31T21:41:07.867Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Another anker charger",
+      "_addedAt": "2026-08-31T22:01:06.693Z",
+      "_ts": "2026-08-31T22:01:06.850Z"
+    }
+  ],
+  "mirroredAt": "2026-08-31T22:01:07.131Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-08-31T21:41:08.805947+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:816",
-    "SPIN_WHEEL:815"
-  ]
+    "adds": 1
+  }
 }
