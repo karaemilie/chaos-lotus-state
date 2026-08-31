@@ -804,12 +804,19 @@
       "sid": 815,
       "label": "Book",
       "uid": "SPIN_WHEEL:815"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 816,
+      "sid": 816,
+      "label": "Book haircut",
+      "uid": "SPIN_WHEEL:816"
     }
   ],
-  "version": 2009,
-  "updated": "2026-08-31T21:39:30.730557+00:00",
+  "version": 2010,
+  "updated": "2026-08-31T21:40:23.234206+00:00",
   "buckets": {
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 53,
     "TASKS": 22,
     "ZONES": 8,
     "COURAGE": 4,
