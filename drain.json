@@ -1,14 +1,6 @@
 {
   "completions": [
     {
-      "source": "TASKS",
-      "id": 12013,
-      "row": 362,
-      "label": "✨ Spend time on flower bouquet coding project",
-      "uid": "TASKS:12013",
-      "_ts": "2026-08-31T06:33:13.116Z"
-    },
-    {
       "source": "ZONES",
       "zid": 84,
       "floor": "Personal",
@@ -24,17 +16,10 @@
       "_ts": "2026-08-31T06:33:54.280Z"
     }
   ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Put away some 4th decor",
-      "_addedAt": "2026-08-31T06:33:39.617Z",
-      "_ts": "2026-08-31T06:33:39.745Z"
-    }
-  ],
-  "mirroredAt": "2026-08-31T06:33:54.534Z",
+  "adds": [],
+  "mirroredAt": "2026-08-31T06:33:55.458Z",
   "counts": {
-    "completions": 3,
-    "adds": 1
+    "completions": 2,
+    "adds": 0
   }
 }
