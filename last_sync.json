@@ -1,15 +1,21 @@
 {
-  "lastRun": "2026-08-31T09:29:42.345545+00:00",
-  "lastRunAlaska": "2026-08-31 01:29 AKDT",
+  "lastRun": "2026-08-31T09:39:08.733933+00:00",
+  "lastRunAlaska": "2026-08-31 01:39 AKDT",
   "processedCount": 1,
   "processed": [
     {
-      "uid": "SPIN:732",
-      "result": "\u2705 SPIN deleted SID 732 ('Move over Everyday')"
+      "uid": "SPIN:750",
+      "result": "\u2705 SPIN deleted SID 750 ('Load new errand wheel')"
     }
   ],
   "remainingForClaude": {
     "completions": 0,
     "adds": 0
+  },
+  "daySweep": {
+    "added": [],
+    "bumped": [],
+    "today": "2026-08-30",
+    "ran": true
   }
 }
