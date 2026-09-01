@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-01T08:13:26.785Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "New purse",
+      "_addedAt": "2026-09-01T08:43:50.407Z",
+      "_ts": "2026-09-01T08:43:50.556Z"
+    }
+  ],
+  "mirroredAt": "2026-09-01T08:43:50.825Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-01T08:13:27.806707+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11863"
-  ]
+    "adds": 1
+  }
 }
