@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 816,
+      "label": "eBay refund",
+      "uid": "SPIN_WHEEL:816",
+      "_ts": "2026-09-01T00:04:40.749Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-08-31T22:58:56.857Z",
+  "mirroredAt": "2026-09-01T00:04:41.002Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
