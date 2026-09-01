@@ -1,6 +1,20 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11926,
+      "label": "✨ New habit for week? Or new stacked habit? Assess!",
+      "uid": "TASKS:11926",
+      "_ts": "2026-09-01T08:44:15.955Z"
+    }
+  ],
   "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "New purse",
+      "_addedAt": "2026-09-01T08:43:50.407Z",
+      "_ts": "2026-09-01T08:43:50.556Z"
+    },
     {
       "source": "PLUS_ADD",
       "label": "Work on ride tracker",
@@ -8,9 +22,9 @@
       "_ts": "2026-09-01T08:44:01.568Z"
     }
   ],
-  "mirroredAt": "2026-09-01T08:44:13.713Z",
+  "mirroredAt": "2026-09-01T08:44:16.208Z",
   "counts": {
-    "completions": 0,
-    "adds": 1
+    "completions": 1,
+    "adds": 2
   }
 }
