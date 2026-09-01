@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-01T00:42:29.376Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Genevieve essays",
+      "_addedAt": "2026-09-01T03:19:43.862Z",
+      "_ts": "2026-09-01T03:19:44.063Z"
+    }
+  ],
+  "mirroredAt": "2026-09-01T03:19:44.421Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-01T00:42:30.128173+00:00",
-  "lastAutoProcessed": [
-    "ZONES:78"
-  ]
+    "adds": 1
+  }
 }
