@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-01T03:37:49.514Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Subaru website",
+      "_addedAt": "2026-09-01T03:52:00.682Z",
+      "_ts": "2026-09-01T03:52:01.795Z"
+    }
+  ],
+  "mirroredAt": "2026-09-01T03:52:02.069Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
