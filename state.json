@@ -801,12 +801,26 @@
       "sid": 818,
       "label": "Genevieve essays",
       "uid": "SPIN_WHEEL:818"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 819,
+      "sid": 819,
+      "label": "Bring up ladder",
+      "uid": "SPIN_WHEEL:819"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 820,
+      "sid": 820,
+      "label": "Mudroom diffuser",
+      "uid": "SPIN_WHEEL:820"
     }
   ],
-  "version": 2020,
-  "updated": "2026-09-01T03:20:52.646274+00:00",
+  "version": 2021,
+  "updated": "2026-09-01T03:20:54.903221+00:00",
   "buckets": {
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 54,
     "TASKS": 22,
     "ZONES": 8,
     "COURAGE": 4,
