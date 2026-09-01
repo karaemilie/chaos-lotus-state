@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-01T19:56:44.966Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "PB fit",
+      "_addedAt": "2026-09-01T19:58:05.554Z",
+      "_ts": "2026-09-01T19:58:05.769Z"
+    }
+  ],
+  "mirroredAt": "2026-09-01T19:58:06.016Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
