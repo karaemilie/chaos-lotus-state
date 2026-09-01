@@ -829,12 +829,19 @@
       "sid": 822,
       "label": "Subaru website",
       "uid": "SPIN_WHEEL:822"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 823,
+      "sid": 823,
+      "label": "See where ASU classes transfer",
+      "uid": "SPIN_WHEEL:823"
     }
   ],
-  "version": 2023,
-  "updated": "2026-09-01T03:52:16.230060+00:00",
+  "version": 2024,
+  "updated": "2026-09-01T04:38:30.963234+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 57,
     "TASKS": 22,
     "ZONES": 8,
     "COURAGE": 4,
