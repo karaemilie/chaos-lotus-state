@@ -662,13 +662,6 @@
       "uid": "TASKS:11421"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 817,
-      "sid": 817,
-      "label": "Order more boxes and poly bags",
-      "uid": "SPIN_WHEEL:817"
-    },
-    {
       "source": "ZONES",
       "zid": 80,
       "floor": "Plant",
@@ -847,10 +840,10 @@
       "uid": "SPIN_WHEEL:825"
     }
   ],
-  "version": 2029,
-  "updated": "2026-09-01T08:45:04.287521+00:00",
+  "version": 2030,
+  "updated": "2026-09-01T09:26:07.925919+00:00",
   "buckets": {
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 58,
     "TASKS": 22,
     "ZONES": 8,
     "COURAGE": 4,
