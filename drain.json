@@ -1,16 +1,36 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 815,
+      "label": "Another anker charger",
+      "uid": "SPIN_WHEEL:815",
+      "_ts": "2026-09-01T03:20:28.998Z"
+    }
+  ],
   "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Genevieve essays",
+      "_addedAt": "2026-09-01T03:19:43.862Z",
+      "_ts": "2026-09-01T03:19:44.063Z"
+    },
     {
       "source": "PLUS_ADD",
       "label": "Bring up ladder",
       "_addedAt": "2026-09-01T03:19:54.093Z",
       "_ts": "2026-09-01T03:19:54.400Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Mudroom diffuser",
+      "_addedAt": "2026-09-01T03:20:04.323Z",
+      "_ts": "2026-09-01T03:20:04.534Z"
     }
   ],
-  "mirroredAt": "2026-09-01T03:20:05.960Z",
+  "mirroredAt": "2026-09-01T03:20:29.268Z",
   "counts": {
-    "completions": 0,
-    "adds": 1
+    "completions": 1,
+    "adds": 3
   }
 }
