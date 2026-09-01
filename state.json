@@ -795,32 +795,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11926,
-      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11926"
-    },
-    {
-      "source": "TASKS",
-      "id": 12025,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:12025"
-    },
-    {
-      "source": "TASKS",
       "id": 12028,
       "label": "\u2728 Update school lists for Lincoln & Evan",
       "aw": 4,
@@ -838,10 +812,36 @@
       "sid": 824,
       "label": "New purse",
       "uid": "SPIN_WHEEL:824"
+    },
+    {
+      "source": "TASKS",
+      "id": 11937,
+      "label": "Project Genevieve loan requirement \ud83c\udf93\ud83d\udcb0",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:11937"
+    },
+    {
+      "source": "TASKS",
+      "id": 10020,
+      "label": "Cut sides for in-wall cabinets",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Medium",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10020"
     }
   ],
-  "version": 2027,
-  "updated": "2026-09-01T08:44:15.357562+00:00",
+  "version": 2028,
+  "updated": "2026-09-01T08:45:00.399152+00:00",
   "buckets": {
     "SPIN_WHEEL": 58,
     "TASKS": 22,
