@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-01T03:52:15.095Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "See where ASU classes transfer",
+      "_addedAt": "2026-09-01T04:38:08.896Z",
+      "_ts": "2026-09-01T04:38:09.030Z"
+    }
+  ],
+  "mirroredAt": "2026-09-01T04:38:09.292Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
