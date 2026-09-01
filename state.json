@@ -748,24 +748,10 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 813,
-      "sid": 813,
-      "label": "Evan haircut schedule",
-      "uid": "SPIN_WHEEL:813"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 814,
       "sid": 814,
       "label": "Make a widget app tracker",
       "uid": "SPIN_WHEEL:814"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 815,
-      "sid": 815,
-      "label": "Another anker charger",
-      "uid": "SPIN_WHEEL:815"
     },
     {
       "source": "TASKS",
@@ -817,10 +803,10 @@
       "uid": "SPIN_WHEEL:818"
     }
   ],
-  "version": 2019,
-  "updated": "2026-09-01T03:20:07.318386+00:00",
+  "version": 2020,
+  "updated": "2026-09-01T03:20:52.646274+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 52,
     "TASKS": 22,
     "ZONES": 8,
     "COURAGE": 4,
