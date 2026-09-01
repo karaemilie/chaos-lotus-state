@@ -282,16 +282,6 @@
       "uid": "SPIN:690"
     },
     {
-      "source": "ZONES",
-      "zid": 88,
-      "floor": "Personal",
-      "row": 90,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Teeth Whitening",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Teeth Whitening",
-      "uid": "ZONES:88"
-    },
-    {
       "source": "TASKS",
       "id": 11831,
       "row": 256,
@@ -836,10 +826,19 @@
       "sid": 823,
       "label": "See where ASU classes transfer",
       "uid": "SPIN_WHEEL:823"
+    },
+    {
+      "source": "ZONES",
+      "zid": 90,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Feet Care & Pedi",
+      "uid": "ZONES:90"
     }
   ],
-  "version": 2024,
-  "updated": "2026-09-01T04:38:30.963234+00:00",
+  "version": 2025,
+  "updated": "2026-09-01T07:24:22.228944+00:00",
   "buckets": {
     "SPIN_WHEEL": 57,
     "TASKS": 22,
