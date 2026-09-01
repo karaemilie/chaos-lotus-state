@@ -831,12 +831,19 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:12028"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 824,
+      "sid": 824,
+      "label": "New purse",
+      "uid": "SPIN_WHEEL:824"
     }
   ],
-  "version": 2026,
-  "updated": "2026-09-01T08:13:23.237959+00:00",
+  "version": 2027,
+  "updated": "2026-09-01T08:44:15.357562+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 58,
     "TASKS": 22,
     "ZONES": 8,
     "COURAGE": 4,
