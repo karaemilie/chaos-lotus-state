@@ -548,16 +548,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 78,
-      "floor": "Plant",
-      "row": 80,
-      "label": "\ud83c\udf31 Family Room Props",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Props",
-      "uid": "ZONES:78"
-    },
-    {
-      "source": "ZONES",
       "zid": 31,
       "floor": "Main Floor",
       "row": 32,
@@ -809,10 +799,19 @@
       "sid": 817,
       "label": "Order more boxes and poly bags",
       "uid": "SPIN_WHEEL:817"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Hallway",
+      "uid": "ZONES:80"
     }
   ],
-  "version": 2017,
-  "updated": "2026-09-01T00:04:54.335116+00:00",
+  "version": 2018,
+  "updated": "2026-09-01T00:42:28.330392+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
     "TASKS": 22,
