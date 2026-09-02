@@ -217,13 +217,6 @@
       "uid": "COURAGE:11825:0"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 824,
-      "row": 54,
-      "label": "New purse",
-      "uid": "SPIN:824"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 107,
       "row": 108,
@@ -870,10 +863,10 @@
       "uid": "TASKS:10333"
     }
   ],
-  "version": 2053,
-  "updated": "2026-09-02T08:42:47.131350+00:00",
+  "version": 2054,
+  "updated": "2026-09-02T08:44:43.321340+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 60,
     "TASKS": 22,
     "MAINTENANCE": 2,
     "ZONES": 8,
