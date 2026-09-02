@@ -886,12 +886,19 @@
       "sid": 834,
       "label": "Purse",
       "uid": "SPIN_WHEEL:834"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 835,
+      "sid": 835,
+      "label": "Mint into diffuser",
+      "uid": "SPIN_WHEEL:835"
     }
   ],
-  "version": 2042,
-  "updated": "2026-09-02T07:30:59.625197+00:00",
+  "version": 2043,
+  "updated": "2026-09-02T07:31:02.051750+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 66,
     "TASKS": 22,
     "COURAGE": 4,
     "MAINTENANCE": 2,
