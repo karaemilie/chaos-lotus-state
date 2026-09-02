@@ -465,13 +465,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 812,
-      "row": 49,
-      "label": "Order harness",
-      "uid": "SPIN:812"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 832,
       "row": 60,
       "label": "Clean a garage shelf",
@@ -887,10 +880,10 @@
       "uid": "TASKS:10023"
     }
   ],
-  "version": 2049,
-  "updated": "2026-09-02T08:38:23.800111+00:00",
+  "version": 2050,
+  "updated": "2026-09-02T08:39:01.051591+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 22,
     "MAINTENANCE": 2,
     "ZONES": 8,
