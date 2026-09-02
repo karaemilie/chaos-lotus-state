@@ -1,16 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 54,
+      "label": "New purse",
+      "uid": "SPIN:824",
+      "_ts": "2026-09-02T08:44:27.257Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-02T08:42:49.765Z",
+  "mirroredAt": "2026-09-02T08:44:27.508Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-02T08:42:50.807154+00:00",
-  "lastAutoProcessed": [
-    "SPIN:834",
-    "TASKS:11831",
-    "TASKS:12035",
-    "TASKS:11892"
-  ]
+  }
 }
