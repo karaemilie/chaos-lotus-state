@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-01T19:58:18.136Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Linc PB powder",
+      "_addedAt": "2026-09-02T05:13:48.477Z",
+      "_ts": "2026-09-02T05:13:48.667Z"
+    }
+  ],
+  "mirroredAt": "2026-09-02T05:13:48.935Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
