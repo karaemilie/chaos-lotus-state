@@ -13,12 +13,26 @@
       "label": "Bring up ladder",
       "uid": "SPIN_WHEEL:819",
       "_ts": "2026-09-02T08:34:49.687Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 828,
+      "label": "PB fit",
+      "uid": "SPIN_WHEEL:828",
+      "_ts": "2026-09-02T08:35:05.895Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-09-02T08:34:55.488Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Finish driving tracker",
+      "_addedAt": "2026-09-02T08:34:40.020Z",
+      "_ts": "2026-09-02T08:34:40.215Z"
+    }
+  ],
+  "mirroredAt": "2026-09-02T08:35:06.201Z",
   "counts": {
-    "completions": 2,
-    "adds": 0
+    "completions": 3,
+    "adds": 1
   }
 }
