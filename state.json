@@ -592,19 +592,6 @@
       "uid": "SPIN:511"
     },
     {
-      "source": "TASKS",
-      "id": 11957,
-      "label": "Look at five suit jackets with Evan \ud83e\udde5",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:11957"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 812,
       "sid": 812,
@@ -619,32 +606,6 @@
       "uid": "SPIN_WHEEL:814"
     },
     {
-      "source": "TASKS",
-      "id": 11317,
-      "label": "Schedule next Create & Learn class for Evan (based on rock climbing schedule) \ud83d\udcdd",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Kids",
-      "critical": false,
-      "uid": "TASKS:11317"
-    },
-    {
-      "source": "TASKS",
-      "id": 11421,
-      "label": "Finish fixing sand table",
-      "aw": 5,
-      "pri": null,
-      "dur": 30,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11421"
-    },
-    {
       "source": "ZONES",
       "zid": 80,
       "floor": "Plant",
@@ -652,20 +613,6 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Hallway",
       "uid": "ZONES:80"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 818,
-      "sid": 818,
-      "label": "Genevieve essays",
-      "uid": "SPIN_WHEEL:818"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 819,
-      "sid": 819,
-      "label": "Bring up ladder",
-      "uid": "SPIN_WHEEL:819"
     },
     {
       "source": "SPIN_WHEEL",
@@ -703,19 +650,6 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Feet Care & Pedi",
       "uid": "ZONES:90"
-    },
-    {
-      "source": "TASKS",
-      "id": 10454,
-      "label": "Investigate WWAMI eligibility",
-      "aw": 3,
-      "pri": "ASAP",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": "Bentley Med School Prep",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10454"
     },
     {
       "source": "TASKS",
@@ -790,32 +724,6 @@
       "uid": "SPIN_WHEEL:824"
     },
     {
-      "source": "TASKS",
-      "id": 11937,
-      "label": "Project Genevieve loan requirement \ud83c\udf93\ud83d\udcb0",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11937"
-    },
-    {
-      "source": "TASKS",
-      "id": 10020,
-      "label": "Cut sides for in-wall cabinets",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 45,
-      "ml": "Medium",
-      "proj": "Bathroom Built-ins",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10020"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 825,
       "sid": 825,
@@ -835,13 +743,6 @@
       "sid": 827,
       "label": "Assess protein powder",
       "uid": "SPIN_WHEEL:827"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 828,
-      "sid": 828,
-      "label": "PB fit",
-      "uid": "SPIN_WHEEL:828"
     },
     {
       "source": "SPIN_WHEEL",
@@ -900,13 +801,130 @@
       "sid": 836,
       "label": "Finish driving tracker",
       "uid": "SPIN_WHEEL:836"
+    },
+    {
+      "source": "TASKS",
+      "id": 11748,
+      "label": "\u2728 Review Apple subscriptions",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:11748"
+    },
+    {
+      "source": "TASKS",
+      "id": 11915,
+      "label": "\u2728 Deep clean cat litter \ud83d\udc31\ud83e\uddfc",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11915"
+    },
+    {
+      "source": "TASKS",
+      "id": 11933,
+      "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
+      "aw": 6,
+      "pri": "Medium",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11933"
+    },
+    {
+      "source": "TASKS",
+      "id": 11968,
+      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11968"
+    },
+    {
+      "source": "TASKS",
+      "id": 12002,
+      "label": "\u2728 Listen to part of a podcast \ud83c\udfa7",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12002"
+    },
+    {
+      "source": "TASKS",
+      "id": 12014,
+      "label": "\u2728 Check if Mizuno GX Sonic 6 CR is back in stock (blue, size 24)",
+      "aw": 7,
+      "pri": "Sometime",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12014"
+    },
+    {
+      "source": "TASKS",
+      "id": 12019,
+      "label": "\u2728 Put on new tattoo",
+      "aw": 4,
+      "pri": 3,
+      "dur": 10,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12019"
+    },
+    {
+      "source": "TASKS",
+      "id": 12021,
+      "label": "\u2728 Mow the lawn \ud83c\udf31",
+      "aw": 3,
+      "pri": 3,
+      "dur": 45,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12021"
+    },
+    {
+      "source": "TASKS",
+      "id": 12035,
+      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12035"
     }
   ],
-  "version": 2044,
-  "updated": "2026-09-02T08:34:56.978948+00:00",
+  "version": 2045,
+  "updated": "2026-09-02T08:35:43.999300+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
-    "TASKS": 22,
+    "SPIN_WHEEL": 64,
+    "TASKS": 25,
     "COURAGE": 4,
     "MAINTENANCE": 2,
     "ZONES": 8
