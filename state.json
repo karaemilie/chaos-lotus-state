@@ -37,13 +37,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 834,
-      "row": 62,
-      "label": "Purse",
-      "uid": "SPIN:834"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 511,
       "row": 10,
       "label": "Start freezer wrap!!!!",
@@ -879,10 +872,10 @@
       "uid": "TASKS:10117"
     }
   ],
-  "version": 2051,
-  "updated": "2026-09-02T08:41:24.017819+00:00",
+  "version": 2052,
+  "updated": "2026-09-02T08:41:57.908732+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 61,
     "TASKS": 22,
     "MAINTENANCE": 2,
     "ZONES": 8,
