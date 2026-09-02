@@ -316,20 +316,6 @@
       "uid": "SPIN:777"
     },
     {
-      "source": "TASKS",
-      "id": 11831,
-      "row": 255,
-      "label": "\u2728 Next month plan: keep or change or pause AK Club membership?",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11831"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 752,
       "row": 30,
@@ -878,10 +864,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10023"
+    },
+    {
+      "source": "TASKS",
+      "id": 10117,
+      "label": "Look at FluentU/Netflix for foreign language learning for boys",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": "Homeschool Admin",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10117"
     }
   ],
-  "version": 2050,
-  "updated": "2026-09-02T08:39:01.051591+00:00",
+  "version": 2051,
+  "updated": "2026-09-02T08:41:24.017819+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "TASKS": 22,
