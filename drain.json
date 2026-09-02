@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-02T06:39:36.717Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Clean a garage shelf",
+      "_addedAt": "2026-09-02T06:39:19.681Z",
+      "_ts": "2026-09-02T06:39:19.779Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Finish kitchen tile project",
+      "_addedAt": "2026-09-02T06:40:04.939Z",
+      "_ts": "2026-09-02T06:40:05.039Z"
+    }
+  ],
+  "mirroredAt": "2026-09-02T06:40:05.294Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
