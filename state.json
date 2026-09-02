@@ -351,20 +351,6 @@
       "uid": "SPIN:281"
     },
     {
-      "source": "TASKS",
-      "id": 12035,
-      "row": 363,
-      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12035"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 739,
       "row": 28,
@@ -769,20 +755,6 @@
       "uid": "SPIN:801"
     },
     {
-      "source": "TASKS",
-      "id": 11892,
-      "row": 276,
-      "label": "\u2728 Check in on Pura scents - time to refresh?",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11892"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 835,
       "row": 63,
@@ -870,10 +842,36 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10117"
+    },
+    {
+      "source": "TASKS",
+      "id": 11902,
+      "label": "Next step: Claude robotics research thread \ud83e\udd16",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11902"
+    },
+    {
+      "source": "TASKS",
+      "id": 10333,
+      "label": "English plan for L&E",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": "Lincoln Tasks",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10333"
     }
   ],
-  "version": 2052,
-  "updated": "2026-09-02T08:41:57.908732+00:00",
+  "version": 2053,
+  "updated": "2026-09-02T08:42:47.131350+00:00",
   "buckets": {
     "SPIN_WHEEL": 61,
     "TASKS": 22,
