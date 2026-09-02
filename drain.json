@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11831,
+      "row": 255,
+      "label": "✨ Next month plan: keep or change or pause AK Club membership?",
+      "uid": "TASKS:11831",
+      "_ts": "2026-09-02T08:41:14.482Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 62,
+      "label": "Purse",
+      "uid": "SPIN:834",
+      "_ts": "2026-09-02T08:41:39.090Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-02T08:41:26.442Z",
+  "mirroredAt": "2026-09-02T08:41:39.349Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-09-02T08:41:27.391855+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11831"
-  ]
+  }
 }
