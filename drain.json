@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 829,
+      "label": "Linc PB powder",
+      "uid": "SPIN_WHEEL:829",
+      "_ts": "2026-09-02T07:30:33.346Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -14,9 +22,9 @@
       "_ts": "2026-09-02T07:30:19.485Z"
     }
   ],
-  "mirroredAt": "2026-09-02T07:30:19.754Z",
+  "mirroredAt": "2026-09-02T07:30:33.622Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 2
   }
 }
