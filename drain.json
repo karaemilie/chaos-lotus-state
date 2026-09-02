@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-02T07:30:18.344Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Purse",
+      "_addedAt": "2026-09-02T07:30:04.927Z",
+      "_ts": "2026-09-02T07:30:05.054Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Mint into diffuser",
+      "_addedAt": "2026-09-02T07:30:19.346Z",
+      "_ts": "2026-09-02T07:30:19.485Z"
+    }
+  ],
+  "mirroredAt": "2026-09-02T07:30:19.754Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
