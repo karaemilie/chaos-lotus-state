@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-02T05:48:31.264Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Make snack mix for boys",
+      "_addedAt": "2026-09-02T06:37:58.628Z",
+      "_ts": "2026-09-02T06:37:58.725Z"
+    }
+  ],
+  "mirroredAt": "2026-09-02T06:37:58.988Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-02T05:48:32.240487+00:00",
-  "lastAutoProcessed": [
-    "ZONES:59",
-    "SPIN:705"
-  ]
+    "adds": 1
+  }
 }
