@@ -599,13 +599,6 @@
       "uid": "SPIN_WHEEL:812"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 814,
-      "sid": 814,
-      "label": "Make a widget app tracker",
-      "uid": "SPIN_WHEEL:814"
-    },
-    {
       "source": "ZONES",
       "zid": 80,
       "floor": "Plant",
@@ -843,19 +836,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11968,
-      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11968"
-    },
-    {
-      "source": "TASKS",
       "id": 12002,
       "label": "\u2728 Listen to part of a podcast \ud83c\udfa7",
       "aw": 5,
@@ -920,11 +900,11 @@
       "uid": "TASKS:12035"
     }
   ],
-  "version": 2045,
-  "updated": "2026-09-02T08:35:43.999300+00:00",
+  "version": 2046,
+  "updated": "2026-09-02T08:36:35.172290+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
-    "TASKS": 25,
+    "SPIN_WHEEL": 63,
+    "TASKS": 24,
     "COURAGE": 4,
     "MAINTENANCE": 2,
     "ZONES": 8
