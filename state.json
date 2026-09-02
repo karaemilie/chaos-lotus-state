@@ -64,16 +64,6 @@
       "uid": "SPIN:614"
     },
     {
-      "source": "ZONES",
-      "zid": 59,
-      "floor": "Digital",
-      "row": 60,
-      "label": "\ud83d\udcbb Quicken",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Quicken",
-      "uid": "ZONES:59"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 703,
       "row": 24,
@@ -873,15 +863,24 @@
       "sid": 830,
       "label": "One more drawer for Genevieve",
       "uid": "SPIN_WHEEL:830"
+    },
+    {
+      "source": "ZONES",
+      "zid": 60,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Photos",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Photos",
+      "uid": "ZONES:60"
     }
   ],
-  "version": 2035,
-  "updated": "2026-09-02T05:14:53.143621+00:00",
+  "version": 2036,
+  "updated": "2026-09-02T05:47:56.215040+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 22,
-    "ZONES": 8,
     "COURAGE": 4,
-    "MAINTENANCE": 2
+    "MAINTENANCE": 2,
+    "ZONES": 8
   }
 }
