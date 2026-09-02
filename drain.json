@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 60,
+      "zid": 59,
+      "floor": "Digital",
+      "label": "💻 Quicken",
+      "uid": "ZONES:59",
+      "_ts": "2026-09-02T05:47:43.496Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 25,
+      "label": "investigate WWAMI deadline",
+      "uid": "SPIN:705",
+      "_ts": "2026-09-02T05:48:04.576Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-02T05:47:57.277Z",
+  "mirroredAt": "2026-09-02T05:48:04.843Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-09-02T05:47:58.314178+00:00",
-  "lastAutoProcessed": [
-    "ZONES:59"
-  ]
+  }
 }
