@@ -1,17 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11923,
+      "row": 295,
+      "label": "✨ Trash only to curb 🗑️",
+      "uid": "TASKS:11923",
+      "_ts": "2026-09-02T08:38:12.742Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-02T08:36:38.905Z",
+  "mirroredAt": "2026-09-02T08:38:12.977Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-02T08:36:39.963778+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:818",
-    "SPIN_WHEEL:819",
-    "SPIN_WHEEL:828",
-    "SPIN_WHEEL:814",
-    "TASKS:11968"
-  ]
+  }
 }
