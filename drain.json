@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-02T06:40:18.103Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Purse",
+      "_addedAt": "2026-09-02T07:30:04.927Z",
+      "_ts": "2026-09-02T07:30:05.054Z"
+    }
+  ],
+  "mirroredAt": "2026-09-02T07:30:05.300Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
