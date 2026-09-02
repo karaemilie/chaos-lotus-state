@@ -313,13 +313,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 705,
-      "row": 25,
-      "label": "investigate WWAMI deadline",
-      "uid": "SPIN:705"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 253,
       "row": 2,
       "label": "Order Bentley a bed bric",
@@ -874,10 +867,10 @@
       "uid": "ZONES:60"
     }
   ],
-  "version": 2036,
-  "updated": "2026-09-02T05:47:56.215040+00:00",
+  "version": 2037,
+  "updated": "2026-09-02T05:48:30.291564+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 22,
     "COURAGE": 4,
     "MAINTENANCE": 2,
