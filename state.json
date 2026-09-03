@@ -823,13 +823,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 830,
-      "row": 51,
-      "label": "One more drawer for Genevieve",
-      "uid": "SPIN:830"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 775,
       "row": 33,
       "label": "Pack up Genevieve bags",
@@ -852,11 +845,11 @@
       "uid": "SPIN_WHEEL:842"
     }
   ],
-  "version": 2074,
-  "updated": "2026-09-03T20:28:37.709394+00:00",
+  "version": 2075,
+  "updated": "2026-09-03T20:29:18.908517+00:00",
   "buckets": {
     "TASKS": 22,
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 57,
     "ZONES": 8,
     "MAINTENANCE": 2,
     "COURAGE": 4
