@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-03T06:21:27.634Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Move mint diffuser",
+      "_addedAt": "2026-09-03T07:42:27.273Z",
+      "_ts": "2026-09-03T07:42:27.373Z"
+    }
+  ],
+  "mirroredAt": "2026-09-03T07:42:27.616Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-03T06:21:28.570566+00:00",
-  "lastAutoProcessed": [
-    "SPIN:837"
-  ]
+    "adds": 1
+  }
 }
