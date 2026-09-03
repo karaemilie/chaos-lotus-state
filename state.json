@@ -122,20 +122,6 @@
       "uid": "COURAGE:11825:0"
     },
     {
-      "source": "TASKS",
-      "id": 11772,
-      "row": 241,
-      "label": "\u2728 Pay rents (Matt, Bentley, Jake & Genevieve) *reminder: moved to $400 for Horrocks*",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11772"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 840,
       "row": 65,
@@ -908,10 +894,23 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Dermaplane",
       "uid": "ZONES:82"
+    },
+    {
+      "source": "TASKS",
+      "id": 10237,
+      "label": "Cancel Slate card",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10237"
     }
   ],
-  "version": 2062,
-  "updated": "2026-09-03T05:40:37.216996+00:00",
+  "version": 2063,
+  "updated": "2026-09-03T05:43:53.482762+00:00",
   "buckets": {
     "ZONES": 9,
     "SPIN_WHEEL": 63,
