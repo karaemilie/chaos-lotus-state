@@ -211,20 +211,6 @@
       "uid": "SPIN:576"
     },
     {
-      "source": "TASKS",
-      "id": 12019,
-      "row": 344,
-      "label": "\u2728 Put on new tattoo",
-      "aw": 4,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12019"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 786,
       "row": 40,
@@ -258,20 +244,6 @@
       "row": 54,
       "label": "Add Evan email to rock gum",
       "uid": "SPIN:826"
-    },
-    {
-      "source": "TASKS",
-      "id": 11412,
-      "row": 149,
-      "label": "\u2728 Air tags - check batteries",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11412"
     },
     {
       "source": "SPIN_WHEEL",
@@ -878,10 +850,36 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11426"
+    },
+    {
+      "source": "TASKS",
+      "id": 11724,
+      "label": "Find a local doctor & schedule bloodwork \ud83e\ude7a",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11724"
+    },
+    {
+      "source": "TASKS",
+      "id": 11708,
+      "label": "Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11708"
     }
   ],
-  "version": 2065,
-  "updated": "2026-09-03T05:48:29.524672+00:00",
+  "version": 2066,
+  "updated": "2026-09-03T05:49:18.752303+00:00",
   "buckets": {
     "ZONES": 9,
     "SPIN_WHEEL": 59,
