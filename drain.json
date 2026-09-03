@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-03T01:47:51.068Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "New rug",
+      "_addedAt": "2026-09-03T01:59:48.149Z",
+      "_ts": "2026-09-03T01:59:48.305Z"
+    }
+  ],
+  "mirroredAt": "2026-09-03T01:59:48.575Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
