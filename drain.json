@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 56,
+      "label": "Finish driving tracker",
+      "uid": "SPIN:836",
+      "_ts": "2026-09-03T08:08:11.856Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-03T07:42:50.454Z",
+  "mirroredAt": "2026-09-03T08:08:12.126Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
