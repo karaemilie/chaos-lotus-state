@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-03T08:16:46.868Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Five pages war of life book",
+      "_addedAt": "2026-09-03T20:28:15.877Z",
+      "_ts": "2026-09-03T20:28:16.325Z"
+    }
+  ],
+  "mirroredAt": "2026-09-03T20:28:16.627Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-03T08:16:47.833254+00:00",
-  "lastAutoProcessed": [
-    "ZONES:81"
-  ]
+    "adds": 1
+  }
 }
