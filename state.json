@@ -25,13 +25,6 @@
       "uid": "SPIN:825"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 836,
-      "row": 56,
-      "label": "Finish driving tracker",
-      "uid": "SPIN:836"
-    },
-    {
       "source": "TASKS",
       "id": 11948,
       "row": 303,
@@ -860,11 +853,11 @@
       "uid": "SPIN_WHEEL:841"
     }
   ],
-  "version": 2069,
-  "updated": "2026-09-03T07:42:51.907294+00:00",
+  "version": 2070,
+  "updated": "2026-09-03T08:08:28.593568+00:00",
   "buckets": {
     "ZONES": 8,
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 58,
     "TASKS": 22,
     "COURAGE": 4,
     "MAINTENANCE": 2
