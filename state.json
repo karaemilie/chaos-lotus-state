@@ -539,16 +539,6 @@
       "uid": "SPIN:841"
     },
     {
-      "source": "ZONES",
-      "zid": 80,
-      "floor": "Plant",
-      "row": 82,
-      "label": "\ud83c\udf31 Hallway",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Hallway",
-      "uid": "ZONES:80"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 781,
       "row": 36,
@@ -843,10 +833,19 @@
       "sid": 842,
       "label": "Five pages war of life book",
       "uid": "SPIN_WHEEL:842"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 2075,
-  "updated": "2026-09-03T20:29:18.908517+00:00",
+  "version": 2076,
+  "updated": "2026-09-03T22:42:32.690178+00:00",
   "buckets": {
     "TASKS": 22,
     "SPIN_WHEEL": 57,
