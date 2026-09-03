@@ -2,21 +2,22 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
-      "row": 60,
-      "label": "Mint into diffuser",
-      "uid": "SPIN:835",
-      "_ts": "2026-09-03T05:47:27.916Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 21,
       "label": "Clean the glass of my vehicle",
       "uid": "SPIN:690",
       "_ts": "2026-09-03T05:47:36.723Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11933,
+      "row": 296,
+      "label": "✨ Help Evan plan a game night 🎲🎮",
+      "uid": "TASKS:11933",
+      "_ts": "2026-09-03T05:47:41.833Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-09-03T05:47:36.956Z",
+  "mirroredAt": "2026-09-03T05:47:43.270Z",
   "counts": {
     "completions": 2,
     "adds": 0
