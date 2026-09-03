@@ -1,9 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 61,
+      "zid": 60,
+      "floor": "Digital",
+      "label": "💻 Photos",
+      "uid": "ZONES:60",
+      "_ts": "2026-09-03T05:39:35.137Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-03T05:25:20.132Z",
+  "mirroredAt": "2026-09-03T05:39:35.442Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
