@@ -75,13 +75,6 @@
       "uid": "TASKS:11094"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 725,
-      "row": 26,
-      "label": "8x10 rug for music room",
-      "uid": "SPIN:725"
-    },
-    {
       "source": "TASKS",
       "id": 12015,
       "row": 342,
@@ -160,13 +153,6 @@
       "row": 42,
       "label": "Look into Turo rental for B",
       "uid": "SPIN:796"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 770,
-      "row": 34,
-      "label": "Send AYO a note about swim practice",
-      "uid": "SPIN:770"
     },
     {
       "source": "SPIN_WHEEL",
@@ -342,13 +328,6 @@
       "row": 45,
       "label": "Get Bentley miles for cello",
       "uid": "SPIN:802"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 690,
-      "row": 21,
-      "label": "Clean the glass of my vehicle",
-      "uid": "SPIN:690"
     },
     {
       "source": "SPIN_WHEEL",
@@ -857,20 +836,6 @@
       "uid": "TASKS:11716"
     },
     {
-      "source": "TASKS",
-      "id": 11933,
-      "row": 296,
-      "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
-      "aw": 6,
-      "pri": "Medium",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11933"
-    },
-    {
       "source": "ZONES",
       "zid": 61,
       "floor": "Digital",
@@ -900,13 +865,26 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10237"
+    },
+    {
+      "source": "TASKS",
+      "id": 11426,
+      "label": "Flesh out bunk bed attack plan (5 min)",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Low",
+      "proj": "Bunk Beds with Lincoln & Evan",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11426"
     }
   ],
-  "version": 2064,
-  "updated": "2026-09-03T05:47:41.916122+00:00",
+  "version": 2065,
+  "updated": "2026-09-03T05:48:29.524672+00:00",
   "buckets": {
     "ZONES": 9,
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 59,
     "TASKS": 23,
     "COURAGE": 4,
     "MAINTENANCE": 2
