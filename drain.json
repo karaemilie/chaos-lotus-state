@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-02T08:44:44.624Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send Genevieve book",
+      "_addedAt": "2026-09-03T01:47:37.147Z",
+      "_ts": "2026-09-03T01:47:37.301Z"
+    }
+  ],
+  "mirroredAt": "2026-09-03T01:47:37.565Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-02T08:44:45.679471+00:00",
-  "lastAutoProcessed": [
-    "SPIN:824"
-  ]
+    "adds": 1
+  }
 }
