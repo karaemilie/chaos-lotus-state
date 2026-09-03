@@ -544,13 +544,6 @@
       "uid": "TASKS:11987"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 835,
-      "row": 60,
-      "label": "Mint into diffuser",
-      "uid": "SPIN:835"
-    },
-    {
       "source": "TASKS",
       "id": 10981,
       "row": 136,
@@ -909,11 +902,11 @@
       "uid": "TASKS:10237"
     }
   ],
-  "version": 2063,
-  "updated": "2026-09-03T05:43:53.482762+00:00",
+  "version": 2064,
+  "updated": "2026-09-03T05:47:41.916122+00:00",
   "buckets": {
     "ZONES": 9,
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 23,
     "COURAGE": 4,
     "MAINTENANCE": 2
