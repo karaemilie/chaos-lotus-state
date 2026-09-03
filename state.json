@@ -787,13 +787,6 @@
       "uid": "MAINTENANCE:107"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 837,
-      "row": 62,
-      "label": "Send Genevieve book",
-      "uid": "SPIN:837"
-    },
-    {
       "source": "TASKS",
       "id": 11716,
       "row": 229,
@@ -878,11 +871,11 @@
       "uid": "TASKS:11708"
     }
   ],
-  "version": 2066,
-  "updated": "2026-09-03T05:49:18.752303+00:00",
+  "version": 2067,
+  "updated": "2026-09-03T06:21:26.165365+00:00",
   "buckets": {
     "ZONES": 9,
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 58,
     "TASKS": 23,
     "COURAGE": 4,
     "MAINTENANCE": 2
