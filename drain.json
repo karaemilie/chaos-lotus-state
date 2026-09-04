@@ -1,14 +1,35 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11771,
+      "row": 238,
+      "label": "✨ Cancel or downgrade Claude if not using (renews on 10th)",
+      "uid": "TASKS:11771",
+      "_ts": "2026-09-04T22:32:45.134Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11953,
+      "row": 303,
+      "label": "⭐ Icon design work 🎨",
+      "uid": "TASKS:11953",
+      "_ts": "2026-09-04T22:33:24.945Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 85,
+      "zid": 83,
+      "floor": "Personal",
+      "label": "👱‍♀️ Retainer",
+      "uid": "ZONES:83",
+      "_ts": "2026-09-04T22:33:49.830Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-04T22:33:38.433Z",
+  "mirroredAt": "2026-09-04T22:33:50.091Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-09-04T22:33:39.658894+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11771",
-    "TASKS:11953"
-  ]
+  }
 }
