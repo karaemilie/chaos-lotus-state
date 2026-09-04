@@ -808,16 +808,6 @@
       "uid": "SPIN:840"
     },
     {
-      "source": "ZONES",
-      "zid": 83,
-      "floor": "Personal",
-      "row": 85,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Retainer",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Retainer",
-      "uid": "ZONES:83"
-    },
-    {
       "source": "TASKS",
       "id": 11896,
       "row": 273,
@@ -859,10 +849,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10788"
+    },
+    {
+      "source": "ZONES",
+      "zid": 84,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Hand Care & Mani",
+      "uid": "ZONES:84"
     }
   ],
-  "version": 2081,
-  "updated": "2026-09-04T22:33:35.923688+00:00",
+  "version": 2082,
+  "updated": "2026-09-04T22:34:03.448634+00:00",
   "buckets": {
     "SPIN_WHEEL": 58,
     "TASKS": 22,
