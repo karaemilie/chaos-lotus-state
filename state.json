@@ -417,20 +417,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11771,
-      "row": 238,
-      "label": "\u2728 Cancel or downgrade Claude if not using (renews on 10th)",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11771"
-    },
-    {
-      "source": "TASKS",
       "id": 11980,
       "row": 316,
       "label": "\u2728 Grab the gold candles and charge them \ud83d\udd6f\ufe0f",
@@ -861,10 +847,23 @@
       "sid": 843,
       "label": "Research tissue cultures",
       "uid": "SPIN_WHEEL:843"
+    },
+    {
+      "source": "TASKS",
+      "id": 10173,
+      "label": "Help Bentley apply for Gemini card via Jake's referral link \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10173"
     }
   ],
-  "version": 2079,
-  "updated": "2026-09-04T21:01:40.906681+00:00",
+  "version": 2080,
+  "updated": "2026-09-04T22:32:56.286890+00:00",
   "buckets": {
     "SPIN_WHEEL": 58,
     "TASKS": 22,
