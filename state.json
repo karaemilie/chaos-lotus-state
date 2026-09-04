@@ -617,20 +617,6 @@
       "uid": "SPIN:744"
     },
     {
-      "source": "TASKS",
-      "id": 12024,
-      "row": 340,
-      "label": "\u2728 Spend time on flower bouquet coding project",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": "Bouquet Tracker",
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12024"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 323,
       "row": 4,
@@ -842,10 +828,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Bedroom",
       "uid": "ZONES:73"
+    },
+    {
+      "source": "TASKS",
+      "id": 10179,
+      "label": "Create community service tracking log for Lincoln and Evan",
+      "aw": 4,
+      "pri": "High",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": "Community Service",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10179"
     }
   ],
-  "version": 2076,
-  "updated": "2026-09-03T22:42:32.690178+00:00",
+  "version": 2077,
+  "updated": "2026-09-04T04:27:56.583596+00:00",
   "buckets": {
     "TASKS": 22,
     "SPIN_WHEEL": 57,
