@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-04T04:27:59.239Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Research tissue cultures",
+      "_addedAt": "2026-09-04T21:01:23.610Z",
+      "_ts": "2026-09-04T21:01:23.745Z"
+    }
+  ],
+  "mirroredAt": "2026-09-04T21:01:24.012Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-04T04:28:00.061528+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12024"
-  ]
+    "adds": 1
+  }
 }
