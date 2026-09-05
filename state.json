@@ -36,20 +36,6 @@
       "uid": "SPIN:614"
     },
     {
-      "source": "TASKS",
-      "id": 11942,
-      "row": 297,
-      "label": "\u2b50 Register greenThumb / homeschool brain on insta \ud83d\udcf1",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11942"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 486,
       "row": 8,
@@ -64,20 +50,6 @@
       "uid": "SPIN:794"
     },
     {
-      "source": "TASKS",
-      "id": 10020,
-      "row": 5,
-      "label": "\u2b50 Cut sides for in-wall cabinets",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 45,
-      "ml": "Medium",
-      "proj": "Bathroom Built-ins",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10020"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 833,
       "row": 53,
@@ -90,20 +62,6 @@
       "row": 21,
       "label": "Complain to deck guy",
       "uid": "SPIN:692"
-    },
-    {
-      "source": "TASKS",
-      "id": 10089,
-      "row": 18,
-      "label": "\u2b50 Apply for Genevieve's credit card \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": "Genevieve Credit Card Setup",
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10089"
     },
     {
       "source": "SPIN_WHEEL",
@@ -151,20 +109,6 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Clean the microwave",
       "uid": "MAINTENANCE:105"
-    },
-    {
-      "source": "TASKS",
-      "id": 10024,
-      "row": 7,
-      "label": "\u2b50 Order cherry shelves on eBay",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": "Bathroom Built-ins",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10024"
     },
     {
       "source": "SPIN_WHEEL",
@@ -692,13 +636,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 842,
-      "row": 58,
-      "label": "Five pages war of life book",
-      "uid": "SPIN:842"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 739,
       "row": 26,
       "label": "Set up two week plan to prove I can make money?",
@@ -900,12 +837,64 @@
       "sid": 849,
       "label": "Cuff bracelet?",
       "uid": "SPIN_WHEEL:849"
+    },
+    {
+      "source": "TASKS",
+      "id": 11502,
+      "label": "\u2728 Review IXL assessments for Lincoln",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 20,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11502"
+    },
+    {
+      "source": "TASKS",
+      "id": 11867,
+      "label": "\u2728 Monthly Beast trim: archive old COMPLETED data \ud83d\uddd1\ufe0f\ud83d\udce6",
+      "aw": 4,
+      "pri": null,
+      "dur": 15,
+      "ml": null,
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11867"
+    },
+    {
+      "source": "TASKS",
+      "id": 12012,
+      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12012"
+    },
+    {
+      "source": "TASKS",
+      "id": 12048,
+      "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12048"
     }
   ],
-  "version": 2088,
-  "updated": "2026-09-05T05:45:35.258867+00:00",
+  "version": 2089,
+  "updated": "2026-09-05T08:09:29.317949+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 22,
     "ZONES": 9,
     "MAINTENANCE": 2,
