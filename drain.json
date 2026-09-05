@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-05T08:12:32.335Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Price watch mint diffuser",
+      "_addedAt": "2026-09-05T17:35:50.419Z",
+      "_ts": "2026-09-05T17:35:50.595Z"
+    }
+  ],
+  "mirroredAt": "2026-09-05T17:35:50.942Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-05T08:12:33.494105+00:00",
-  "lastAutoProcessed": [
-    "SPIN:777"
-  ]
+    "adds": 1
+  }
 }
