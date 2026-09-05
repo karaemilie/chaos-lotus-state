@@ -732,13 +732,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 810,
-      "row": 44,
-      "label": "Write apartment lady about cellular",
-      "uid": "SPIN:810"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 840,
       "row": 56,
       "label": "Load new errand app",
@@ -879,22 +872,22 @@
     },
     {
       "source": "TASKS",
-      "id": 12048,
-      "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
-      "aw": 4,
+      "id": 10241,
+      "label": "Apply for Jake's credit card \ud83d\udcdd",
+      "aw": 3,
       "pri": "High",
-      "dur": 30,
+      "dur": 15,
       "ml": "Medium",
-      "proj": null,
-      "cat": "Personal",
+      "proj": "Jake Credit Card Setup",
+      "cat": "Family",
       "critical": false,
-      "uid": "TASKS:12048"
+      "uid": "TASKS:10241"
     }
   ],
-  "version": 2089,
-  "updated": "2026-09-05T08:09:29.317949+00:00",
+  "version": 2090,
+  "updated": "2026-09-05T08:10:12.469508+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 22,
     "ZONES": 9,
     "MAINTENANCE": 2,
