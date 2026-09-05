@@ -341,16 +341,6 @@
       "uid": "SPIN:667"
     },
     {
-      "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "row": 75,
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
       "source": "TASKS",
       "id": 11980,
       "row": 316,
@@ -860,10 +850,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Vacuum kids ceiling fan",
       "uid": "MAINTENANCE:108"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Main floor Down Low",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Main floor Down Low",
+      "uid": "ZONES:75"
     }
   ],
-  "version": 2095,
-  "updated": "2026-09-05T19:15:36.684471+00:00",
+  "version": 2096,
+  "updated": "2026-09-05T22:29:06.377451+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 22,
