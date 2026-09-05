@@ -846,19 +846,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11867,
-      "label": "\u2728 Monthly Beast trim: archive old COMPLETED data \ud83d\uddd1\ufe0f\ud83d\udce6",
-      "aw": 4,
-      "pri": null,
-      "dur": 15,
-      "ml": null,
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11867"
-    },
-    {
-      "source": "TASKS",
       "id": 12012,
       "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
       "aw": 4,
@@ -882,10 +869,23 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10241"
+    },
+    {
+      "source": "TASKS",
+      "id": 11937,
+      "label": "Project Genevieve loan requirement \ud83c\udf93\ud83d\udcb0",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:11937"
     }
   ],
-  "version": 2090,
-  "updated": "2026-09-05T08:10:12.469508+00:00",
+  "version": 2091,
+  "updated": "2026-09-05T08:11:07.277927+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "TASKS": 22,
