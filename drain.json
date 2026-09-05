@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-05T01:01:24.877Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Research Voyage school",
+      "_addedAt": "2026-09-05T03:10:58.040Z",
+      "_ts": "2026-09-05T03:10:58.183Z"
+    }
+  ],
+  "mirroredAt": "2026-09-05T03:10:58.432Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
