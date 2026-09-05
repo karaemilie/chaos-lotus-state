@@ -748,13 +748,6 @@
       "uid": "TASKS:11896"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 843,
-      "sid": 843,
-      "label": "Research tissue cultures",
-      "uid": "SPIN_WHEEL:843"
-    },
-    {
       "source": "TASKS",
       "id": 10173,
       "label": "Help Bentley apply for Gemini card via Jake's referral link \ud83d\udcdd",
@@ -818,20 +811,6 @@
       "uid": "SPIN_WHEEL:847"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 848,
-      "sid": 848,
-      "label": "Add evening bracelets/teeth brush to daily routine?",
-      "uid": "SPIN_WHEEL:848"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 849,
-      "sid": 849,
-      "label": "Cuff bracelet?",
-      "uid": "SPIN_WHEEL:849"
-    },
-    {
       "source": "TASKS",
       "id": 11502,
       "label": "\u2728 Review IXL assessments for Lincoln",
@@ -884,10 +863,10 @@
       "uid": "TASKS:11937"
     }
   ],
-  "version": 2091,
-  "updated": "2026-09-05T08:11:07.277927+00:00",
+  "version": 2092,
+  "updated": "2026-09-05T08:11:49.551959+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 59,
     "TASKS": 22,
     "ZONES": 9,
     "MAINTENANCE": 2,
