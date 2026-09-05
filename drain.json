@@ -1,5 +1,15 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 62,
+      "zid": 61,
+      "floor": "Digital",
+      "label": "💻 Reviews",
+      "uid": "ZONES:61",
+      "_ts": "2026-09-05T23:32:47.607Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +18,9 @@
       "_ts": "2026-09-05T23:32:45.454Z"
     }
   ],
-  "mirroredAt": "2026-09-05T23:32:45.720Z",
+  "mirroredAt": "2026-09-05T23:32:47.844Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
