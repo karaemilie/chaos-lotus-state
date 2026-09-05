@@ -102,15 +102,6 @@
       "uid": "SPIN:776"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 105,
-      "row": 106,
-      "label": "\ud83c\udfe0 Clean the microwave",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Clean the microwave",
-      "uid": "MAINTENANCE:105"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 838,
       "row": 54,
@@ -861,10 +852,18 @@
       "sid": 848,
       "label": "Price watch mint diffuser",
       "uid": "SPIN_WHEEL:848"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 108,
+      "label": "\ud83c\udfe0 Vacuum kids ceiling fan",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Vacuum kids ceiling fan",
+      "uid": "MAINTENANCE:108"
     }
   ],
-  "version": 2094,
-  "updated": "2026-09-05T17:36:05.171328+00:00",
+  "version": 2095,
+  "updated": "2026-09-05T19:15:36.684471+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 22,
