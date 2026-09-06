@@ -306,20 +306,6 @@
       "uid": "SPIN:667"
     },
     {
-      "source": "TASKS",
-      "id": 11980,
-      "row": 316,
-      "label": "\u2728 Grab the gold candles and charge them \ud83d\udd6f\ufe0f",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11980"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 832,
       "row": 52,
@@ -875,10 +861,23 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10272"
+    },
+    {
+      "source": "TASKS",
+      "id": 10089,
+      "label": "Apply for Genevieve's credit card \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": "Genevieve Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10089"
     }
   ],
-  "version": 2105,
-  "updated": "2026-09-06T00:39:23.213731+00:00",
+  "version": 2106,
+  "updated": "2026-09-06T00:52:39.174412+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "TASKS": 22,
