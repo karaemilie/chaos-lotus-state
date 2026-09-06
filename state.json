@@ -807,13 +807,6 @@
       "uid": "TASKS:11937"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 848,
-      "sid": 848,
-      "label": "Price watch mint diffuser",
-      "uid": "SPIN_WHEEL:848"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 108,
       "label": "\ud83c\udfe0 Vacuum kids ceiling fan",
@@ -900,10 +893,10 @@
       "uid": "ZONES:56"
     }
   ],
-  "version": 2102,
-  "updated": "2026-09-06T00:31:47.377763+00:00",
+  "version": 2103,
+  "updated": "2026-09-06T00:37:46.409696+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "TASKS": 22,
     "ZONES": 9,
     "MAINTENANCE": 2,
