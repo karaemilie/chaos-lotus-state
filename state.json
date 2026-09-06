@@ -642,13 +642,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 845,
-      "sid": 845,
-      "label": "Research Voyage school",
-      "uid": "SPIN_WHEEL:845"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 847,
       "sid": 847,
       "label": "Order juggle balls",
@@ -875,10 +868,10 @@
       "uid": "TASKS:11957"
     }
   ],
-  "version": 2113,
-  "updated": "2026-09-06T01:34:43.777223+00:00",
+  "version": 2114,
+  "updated": "2026-09-06T01:35:26.863071+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 61,
     "TASKS": 22,
     "ZONES": 9,
     "MAINTENANCE": 2,
