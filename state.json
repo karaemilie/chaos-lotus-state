@@ -619,13 +619,6 @@
       "uid": "SPIN:702"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 840,
-      "row": 56,
-      "label": "Load new errand app",
-      "uid": "SPIN:840"
-    },
-    {
       "source": "TASKS",
       "id": 11896,
       "row": 273,
@@ -769,15 +762,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 62,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Messages",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Messages",
-      "uid": "ZONES:62"
-    },
-    {
-      "source": "ZONES",
       "zid": 76,
       "floor": "Plant",
       "label": "\ud83c\udf31 Corner Nook A",
@@ -888,12 +872,21 @@
       "sid": 857,
       "label": "Finalize viola plan",
       "uid": "SPIN_WHEEL:857"
+    },
+    {
+      "source": "ZONES",
+      "zid": 63,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Calls/Voicemail",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Calls/Voicemail",
+      "uid": "ZONES:63"
     }
   ],
-  "version": 2109,
-  "updated": "2026-09-06T01:28:19.623233+00:00",
+  "version": 2110,
+  "updated": "2026-09-06T01:28:59.533386+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 22,
     "ZONES": 9,
     "MAINTENANCE": 2,
