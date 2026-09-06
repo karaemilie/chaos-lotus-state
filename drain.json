@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 15,
+      "label": "Try free NFC app",
+      "uid": "SPIN:579",
+      "_ts": "2026-09-06T01:27:17.179Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-09-06T01:27:15.689Z"
     }
   ],
-  "mirroredAt": "2026-09-06T01:27:15.952Z",
+  "mirroredAt": "2026-09-06T01:27:17.431Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
