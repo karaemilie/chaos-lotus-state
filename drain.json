@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 84,
+      "floor": "Personal",
+      "label": "👱‍♀️ Hand Care & Mani",
+      "uid": "ZONES:84",
+      "_ts": "2026-09-06T01:33:43.579Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11908,
+      "row": 282,
+      "label": "⭐ Research how to style bathroom hutch 🛁",
+      "uid": "TASKS:11908",
+      "_ts": "2026-09-06T01:34:31.405Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-06T01:34:01.411Z",
+  "mirroredAt": "2026-09-06T01:34:31.664Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-09-06T01:34:02.294556+00:00",
-  "lastAutoProcessed": [
-    "ZONES:84"
-  ]
+  }
 }
