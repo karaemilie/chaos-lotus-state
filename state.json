@@ -537,20 +537,6 @@
       "uid": "SPIN:281"
     },
     {
-      "source": "TASKS",
-      "id": 11908,
-      "row": 282,
-      "label": "\u2b50 Research how to style bathroom hutch \ud83d\udec1",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11908"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 576,
       "row": 14,
@@ -874,10 +860,23 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Mask",
       "uid": "ZONES:85"
+    },
+    {
+      "source": "TASKS",
+      "id": 11957,
+      "label": "Look at five suit jackets with Evan \ud83e\udde5",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:11957"
     }
   ],
-  "version": 2112,
-  "updated": "2026-09-06T01:34:00.207935+00:00",
+  "version": 2113,
+  "updated": "2026-09-06T01:34:43.777223+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "TASKS": 22,
