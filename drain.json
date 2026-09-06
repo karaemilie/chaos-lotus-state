@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-06T04:01:45.333Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Clean out mudroom fridge crisper drawer",
+      "_addedAt": "2026-09-06T07:46:58.496Z",
+      "_ts": "2026-09-06T07:46:58.710Z"
+    }
+  ],
+  "mirroredAt": "2026-09-06T07:46:58.953Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-06T04:01:46.233098+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:850"
-  ]
+    "adds": 1
+  }
 }
