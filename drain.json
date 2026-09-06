@@ -1,9 +1,50 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-06T00:31:03.430Z",
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 56,
+      "zid": 55,
+      "floor": "Basement",
+      "label": "🧺 Back Annex",
+      "uid": "ZONES:55",
+      "_ts": "2026-09-06T00:31:12.539Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "8 reviews Set A",
+      "_addedAt": "2026-09-06T00:30:07.790Z",
+      "_ts": "2026-09-06T00:30:07.923Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "8 reviews Set B",
+      "_addedAt": "2026-09-06T00:30:17.291Z",
+      "_ts": "2026-09-06T00:30:17.422Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "8 reviews Set C",
+      "_addedAt": "2026-09-06T00:30:25.602Z",
+      "_ts": "2026-09-06T00:30:25.714Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "8 reviews Set D",
+      "_addedAt": "2026-09-06T00:30:33.767Z",
+      "_ts": "2026-09-06T00:30:33.888Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "8 reviews Set E",
+      "_addedAt": "2026-09-06T00:30:48.427Z",
+      "_ts": "2026-09-06T00:30:48.543Z"
+    }
+  ],
+  "mirroredAt": "2026-09-06T00:31:12.799Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 5
   }
 }
