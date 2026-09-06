@@ -871,12 +871,40 @@
       "sid": 850,
       "label": "8 reviews Set A",
       "uid": "SPIN_WHEEL:850"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 851,
+      "sid": 851,
+      "label": "8 reviews Set B",
+      "uid": "SPIN_WHEEL:851"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 852,
+      "sid": 852,
+      "label": "8 reviews Set C",
+      "uid": "SPIN_WHEEL:852"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 853,
+      "sid": 853,
+      "label": "8 reviews Set D",
+      "uid": "SPIN_WHEEL:853"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 854,
+      "sid": 854,
+      "label": "8 reviews Set E",
+      "uid": "SPIN_WHEEL:854"
     }
   ],
-  "version": 2100,
-  "updated": "2026-09-06T00:30:21.190443+00:00",
+  "version": 2101,
+  "updated": "2026-09-06T00:31:04.840995+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 65,
     "TASKS": 22,
     "ZONES": 9,
     "MAINTENANCE": 2,
