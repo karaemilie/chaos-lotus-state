@@ -734,13 +734,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 850,
-      "sid": 850,
-      "label": "8 reviews Set A",
-      "uid": "SPIN_WHEEL:850"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 851,
       "sid": 851,
       "label": "8 reviews Set B",
@@ -868,10 +861,10 @@
       "uid": "TASKS:11957"
     }
   ],
-  "version": 2114,
-  "updated": "2026-09-06T01:35:26.863071+00:00",
+  "version": 2115,
+  "updated": "2026-09-06T04:01:43.969735+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 60,
     "TASKS": 22,
     "ZONES": 9,
     "MAINTENANCE": 2,
