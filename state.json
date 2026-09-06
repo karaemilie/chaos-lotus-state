@@ -510,16 +510,6 @@
       "uid": "SPIN:726"
     },
     {
-      "source": "ZONES",
-      "zid": 55,
-      "floor": "Basement",
-      "row": 56,
-      "label": "\ud83e\uddfa Back Annex",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Back Annex",
-      "uid": "ZONES:55"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 484,
       "row": 7,
@@ -899,10 +889,19 @@
       "sid": 854,
       "label": "8 reviews Set E",
       "uid": "SPIN_WHEEL:854"
+    },
+    {
+      "source": "ZONES",
+      "zid": 56,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Bathroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Bathroom",
+      "uid": "ZONES:56"
     }
   ],
-  "version": 2101,
-  "updated": "2026-09-06T00:31:04.840995+00:00",
+  "version": 2102,
+  "updated": "2026-09-06T00:31:47.377763+00:00",
   "buckets": {
     "SPIN_WHEEL": 65,
     "TASKS": 22,
