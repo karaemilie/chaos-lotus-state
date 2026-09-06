@@ -874,12 +874,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10089"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 855,
+      "sid": 855,
+      "label": "Try next Alarm app",
+      "uid": "SPIN_WHEEL:855"
     }
   ],
-  "version": 2106,
-  "updated": "2026-09-06T00:52:39.174412+00:00",
+  "version": 2107,
+  "updated": "2026-09-06T01:27:31.269003+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 63,
     "TASKS": 22,
     "ZONES": 9,
     "MAINTENANCE": 2,
