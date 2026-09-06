@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-06T07:47:58.573Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Buy marketplace Hoyas",
+      "_addedAt": "2026-09-06T20:20:09.131Z",
+      "_ts": "2026-09-06T20:20:09.242Z"
+    }
+  ],
+  "mirroredAt": "2026-09-06T20:20:09.620Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
