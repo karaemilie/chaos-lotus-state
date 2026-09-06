@@ -1,17 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11980,
+      "row": 316,
+      "label": "✨ Grab the gold candles and charge them 🕯️",
+      "uid": "TASKS:11980",
+      "_ts": "2026-09-06T00:52:24.027Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-06T00:39:25.415Z",
+  "mirroredAt": "2026-09-06T00:52:24.386Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-06T00:39:26.531717+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:848",
-    "SPIN:841",
-    "SPIN_WHEEL:846",
-    "TASKS:12040",
-    "TASKS:12022"
-  ]
+  }
 }
