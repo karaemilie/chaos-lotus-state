@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-06T00:52:41.877Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Try next Alarm app",
+      "_addedAt": "2026-09-06T01:27:15.536Z",
+      "_ts": "2026-09-06T01:27:15.689Z"
+    }
+  ],
+  "mirroredAt": "2026-09-06T01:27:15.952Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-06T00:52:42.814559+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11980"
-  ]
+    "adds": 1
+  }
 }
