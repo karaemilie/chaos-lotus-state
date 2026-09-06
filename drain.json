@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-05T23:36:24.221Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "8 reviews Set A",
+      "_addedAt": "2026-09-06T00:30:07.790Z",
+      "_ts": "2026-09-06T00:30:07.923Z"
+    }
+  ],
+  "mirroredAt": "2026-09-06T00:30:08.188Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-05T23:36:25.001810+00:00",
-  "lastAutoProcessed": [
-    "ZONES:74"
-  ]
+    "adds": 1
+  }
 }
