@@ -648,15 +648,6 @@
       "uid": "TASKS:10788"
     },
     {
-      "source": "ZONES",
-      "zid": 84,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Hand Care & Mani",
-      "uid": "ZONES:84"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 844,
       "sid": 844,
@@ -874,10 +865,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Calls/Voicemail",
       "uid": "ZONES:63"
+    },
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Mask",
+      "uid": "ZONES:85"
     }
   ],
-  "version": 2111,
-  "updated": "2026-09-06T01:29:43.460649+00:00",
+  "version": 2112,
+  "updated": "2026-09-06T01:34:00.207935+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "TASKS": 22,
