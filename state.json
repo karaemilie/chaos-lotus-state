@@ -335,13 +335,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 579,
-      "row": 15,
-      "label": "Try free NFC app",
-      "uid": "SPIN:579"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 822,
       "row": 47,
       "label": "Subaru website",
@@ -883,10 +876,10 @@
       "uid": "SPIN_WHEEL:855"
     }
   ],
-  "version": 2107,
-  "updated": "2026-09-06T01:27:31.269003+00:00",
+  "version": 2108,
+  "updated": "2026-09-06T01:28:17.179604+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 22,
     "ZONES": 9,
     "MAINTENANCE": 2,
