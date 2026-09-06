@@ -373,13 +373,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 820,
-      "row": 46,
-      "label": "Mudroom diffuser",
-      "uid": "SPIN:820"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 802,
       "row": 42,
       "label": "Get Bentley miles for cello",
@@ -883,10 +876,10 @@
       "uid": "ZONES:63"
     }
   ],
-  "version": 2110,
-  "updated": "2026-09-06T01:28:59.533386+00:00",
+  "version": 2111,
+  "updated": "2026-09-06T01:29:43.460649+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 22,
     "ZONES": 9,
     "MAINTENANCE": 2,
