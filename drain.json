@@ -3,14 +3,26 @@
   "adds": [
     {
       "source": "PLUS_ADD",
+      "label": "8 reviews Set A",
+      "_addedAt": "2026-09-06T00:30:07.790Z",
+      "_ts": "2026-09-06T00:30:07.923Z"
+    },
+    {
+      "source": "PLUS_ADD",
       "label": "8 reviews Set B",
       "_addedAt": "2026-09-06T00:30:17.291Z",
       "_ts": "2026-09-06T00:30:17.422Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "8 reviews Set C",
+      "_addedAt": "2026-09-06T00:30:25.602Z",
+      "_ts": "2026-09-06T00:30:25.714Z"
     }
   ],
-  "mirroredAt": "2026-09-06T00:30:20.093Z",
+  "mirroredAt": "2026-09-06T00:30:25.952Z",
   "counts": {
     "completions": 0,
-    "adds": 1
+    "adds": 3
   }
 }
