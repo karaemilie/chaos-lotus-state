@@ -859,12 +859,19 @@
       "cat": "Family/Education",
       "critical": false,
       "uid": "TASKS:11957"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 858,
+      "sid": 858,
+      "label": "Clean out mudroom fridge crisper drawer",
+      "uid": "SPIN_WHEEL:858"
     }
   ],
-  "version": 2115,
-  "updated": "2026-09-06T04:01:43.969735+00:00",
+  "version": 2116,
+  "updated": "2026-09-06T07:47:15.567468+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 61,
     "TASKS": 22,
     "ZONES": 9,
     "MAINTENANCE": 2,
