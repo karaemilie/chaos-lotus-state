@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-06T07:47:14.094Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Clean out mudroom fridge crisper drawer",
+      "_addedAt": "2026-09-06T07:46:58.496Z",
+      "_ts": "2026-09-06T07:46:58.710Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Schedule new web Md appt",
+      "_addedAt": "2026-09-06T07:47:41.498Z",
+      "_ts": "2026-09-06T07:47:41.775Z"
+    }
+  ],
+  "mirroredAt": "2026-09-06T07:47:42.051Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
