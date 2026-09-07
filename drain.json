@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 63,
+      "floor": "Digital",
+      "label": "💻 Calls/Voicemail",
+      "uid": "ZONES:63",
+      "_ts": "2026-09-07T00:50:59.523Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-07T00:50:00.004Z",
+  "mirroredAt": "2026-09-07T00:50:59.917Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-07T00:50:01.083446+00:00",
-  "lastAutoProcessed": [
-    "ZONES:76"
-  ]
+  }
 }
