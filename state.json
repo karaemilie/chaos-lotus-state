@@ -823,13 +823,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 786,
-      "row": 35,
-      "label": "Fix flame and set kids app to only add with top check mark and not wnter",
-      "uid": "SPIN:786"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 581,
       "row": 15,
       "label": "Take down dress shoes in closet",
@@ -877,10 +870,10 @@
       "uid": "TASKS:10173"
     }
   ],
-  "version": 2127,
-  "updated": "2026-09-07T08:03:28.650770+00:00",
+  "version": 2128,
+  "updated": "2026-09-07T08:04:00.002118+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "ZONES": 7,
     "TASKS": 22,
     "COURAGE": 4,
