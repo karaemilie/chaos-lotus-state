@@ -1,27 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "ZONES",
-      "zid": 63,
-      "floor": "Digital",
-      "label": "💻 Calls/Voicemail",
-      "uid": "ZONES:63",
-      "_ts": "2026-09-07T00:50:59.523Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 10,
-      "zid": 9,
-      "floor": "Upstairs",
-      "label": "🧺 Upstairs Hallway",
-      "uid": "ZONES:9",
-      "_ts": "2026-09-07T00:51:26.899Z"
-    }
-  ],
+  "completions": [],
   "adds": [],
-  "mirroredAt": "2026-09-07T00:51:27.152Z",
+  "mirroredAt": "2026-09-07T00:51:39.046Z",
   "counts": {
-    "completions": 2,
+    "completions": 0,
     "adds": 0
   }
 }
