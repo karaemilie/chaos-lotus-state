@@ -876,12 +876,19 @@
       "sid": 862,
       "label": "Freeze wraps with Even",
       "uid": "SPIN_WHEEL:862"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 863,
+      "sid": 863,
+      "label": "Add a full page paper notebook version of pinned tasks",
+      "uid": "SPIN_WHEEL:863"
     }
   ],
-  "version": 2133,
-  "updated": "2026-09-07T19:19:02.753657+00:00",
+  "version": 2134,
+  "updated": "2026-09-07T20:04:09.714670+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 64,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
