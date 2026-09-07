@@ -204,13 +204,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 511,
-      "row": 10,
-      "label": "Start freezer wrap!!!!",
-      "uid": "SPIN:511"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 856,
       "row": 59,
       "label": "Voice competition",
@@ -885,10 +878,10 @@
       "uid": "SPIN_WHEEL:862"
     }
   ],
-  "version": 2132,
-  "updated": "2026-09-07T19:18:17.117796+00:00",
+  "version": 2133,
+  "updated": "2026-09-07T19:19:02.753657+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
