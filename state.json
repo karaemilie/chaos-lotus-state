@@ -699,15 +699,6 @@
       "uid": "SPIN_WHEEL:857"
     },
     {
-      "source": "ZONES",
-      "zid": 85,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Mask",
-      "uid": "ZONES:85"
-    },
-    {
       "source": "TASKS",
       "id": 11957,
       "label": "Look at five suit jackets with Evan \ud83e\udde5",
@@ -871,10 +862,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Boys Room",
       "uid": "ZONES:10"
+    },
+    {
+      "source": "ZONES",
+      "zid": 86,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Epilate Legs",
+      "uid": "ZONES:86"
     }
   ],
-  "version": 2121,
-  "updated": "2026-09-07T00:51:38.061005+00:00",
+  "version": 2122,
+  "updated": "2026-09-07T01:08:39.803402+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 22,
