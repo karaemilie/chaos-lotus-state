@@ -71,16 +71,6 @@
       "uid": "SPIN:800"
     },
     {
-      "source": "ZONES",
-      "zid": 9,
-      "floor": "Upstairs",
-      "row": 10,
-      "label": "\ud83e\uddfa Upstairs Hallway",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Upstairs Hallway",
-      "uid": "ZONES:9"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 759,
       "row": 30,
@@ -872,15 +862,24 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "OneTab",
       "uid": "ZONES:64"
+    },
+    {
+      "source": "ZONES",
+      "zid": 10,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Boys Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Boys Room",
+      "uid": "ZONES:10"
     }
   ],
-  "version": 2120,
-  "updated": "2026-09-07T00:51:12.872818+00:00",
+  "version": 2121,
+  "updated": "2026-09-07T00:51:38.061005+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 22,
-    "ZONES": 9,
     "MAINTENANCE": 2,
-    "COURAGE": 4
+    "COURAGE": 4,
+    "ZONES": 9
   }
 }
