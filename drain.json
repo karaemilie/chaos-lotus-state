@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 35,
+      "label": "Fix flame and set kids app to only add with top check mark and not wnter",
+      "uid": "SPIN:786",
+      "_ts": "2026-09-07T08:03:47.987Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-07T08:03:31.107Z",
+  "mirroredAt": "2026-09-07T08:03:48.304Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-07T08:03:32.014073+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12037"
-  ]
+  }
 }
