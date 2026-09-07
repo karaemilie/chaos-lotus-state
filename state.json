@@ -710,15 +710,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 63,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Calls/Voicemail",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Calls/Voicemail",
-      "uid": "ZONES:63"
-    },
-    {
-      "source": "ZONES",
       "zid": 85,
       "floor": "Personal",
       "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
@@ -872,10 +863,19 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12053"
+    },
+    {
+      "source": "ZONES",
+      "zid": 64,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb OneTab",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "OneTab",
+      "uid": "ZONES:64"
     }
   ],
-  "version": 2119,
-  "updated": "2026-09-07T00:49:58.732538+00:00",
+  "version": 2120,
+  "updated": "2026-09-07T00:51:12.872818+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 22,
