@@ -146,20 +146,6 @@
       "uid": "MAINTENANCE:107"
     },
     {
-      "source": "TASKS",
-      "id": 10191,
-      "row": 50,
-      "label": "\u2b50 Mirror Wall: Figure out how to get it hung up on tall staircase \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": "Mirror Wall",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10191"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 786,
       "row": 37,
@@ -228,20 +214,6 @@
       "row": 2,
       "label": "Order Bentley a bed bric",
       "uid": "SPIN:253"
-    },
-    {
-      "source": "TASKS",
-      "id": 10659,
-      "row": 114,
-      "label": "\u2b50 Get Lincoln's four year plan together \ud83d\udccb\ud83c\udfaf",
-      "aw": 3,
-      "pri": "High",
-      "dur": 45,
-      "ml": null,
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10659"
     },
     {
       "source": "SPIN_WHEEL",
@@ -341,20 +313,6 @@
       "uid": "SPIN:822"
     },
     {
-      "source": "TASKS",
-      "id": 10179,
-      "row": 43,
-      "label": "\u2b50 Create community service tracking log for Lincoln and Evan",
-      "aw": 4,
-      "pri": "High",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": "Community Service",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10179"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 703,
       "row": 23,
@@ -391,53 +349,11 @@
       "uid": "COURAGE:11727:0"
     },
     {
-      "source": "TASKS",
-      "id": 11535,
-      "row": 193,
-      "label": "\u2b50 Order 36\" ceiling bar for crawlspace wreath project \ud83d\uded2",
-      "aw": 7,
-      "pri": "Normal",
-      "dur": 10,
-      "ml": "Low",
-      "proj": "Home Projects",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11535"
-    },
-    {
-      "source": "TASKS",
-      "id": 11945,
-      "row": 300,
-      "label": "\u2b50 Ask Claude how to adjust door hinge \ud83d\udeaa",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11945"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 683,
       "row": 20,
       "label": "Send Matt his statements for card",
       "uid": "SPIN:683"
-    },
-    {
-      "source": "TASKS",
-      "id": 11708,
-      "row": 222,
-      "label": "\u2b50 Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Kids",
-      "critical": false,
-      "uid": "TASKS:11708"
     },
     {
       "source": "SPIN_WHEEL",
@@ -502,20 +418,6 @@
       "uid": "SPIN:765"
     },
     {
-      "source": "TASKS",
-      "id": 10023,
-      "row": 6,
-      "label": "\u2b50 Measure width for cabinet shelves",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": "Bathroom Built-ins",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10023"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 775,
       "row": 33,
@@ -568,20 +470,6 @@
       "row": 6,
       "label": "5 minutes in Custom Cut Software \u23f1\ufe0f",
       "uid": "SPIN:465"
-    },
-    {
-      "source": "TASKS",
-      "id": 11948,
-      "row": 302,
-      "label": "\u2b50 Clean bedroom windows \ud83e\ude9f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11948"
     },
     {
       "source": "SPIN_WHEEL",
@@ -722,15 +610,6 @@
       "sid": 849,
       "label": "TEN MORE REVIEWS",
       "uid": "SPIN_WHEEL:849"
-    },
-    {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
     },
     {
       "source": "SPIN_WHEEL",
@@ -880,10 +759,123 @@
       "sid": 860,
       "label": "Buy marketplace Hoyas",
       "uid": "SPIN_WHEEL:860"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
+    },
+    {
+      "source": "TASKS",
+      "id": 11307,
+      "label": "\u2728 Review Evan's bedtime & adjust melatonin timing \ud83d\ude34\ud83d\udc8a",
+      "aw": 6,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": null,
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11307"
+    },
+    {
+      "source": "TASKS",
+      "id": 11716,
+      "label": "\u2728 Measure Evan \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11716"
+    },
+    {
+      "source": "TASKS",
+      "id": 12000,
+      "label": "\u2728 Review Pura schedules, adjust/turn off where not needed",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12000"
+    },
+    {
+      "source": "TASKS",
+      "id": 12029,
+      "label": "\u2728 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12029"
+    },
+    {
+      "source": "TASKS",
+      "id": 12030,
+      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12030"
+    },
+    {
+      "source": "TASKS",
+      "id": 12034,
+      "label": "\u2728 Weekly meal planning",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12034"
+    },
+    {
+      "source": "TASKS",
+      "id": 12037,
+      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12037"
+    },
+    {
+      "source": "TASKS",
+      "id": 12053,
+      "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12053"
     }
   ],
-  "version": 2118,
-  "updated": "2026-09-06T20:20:21.851857+00:00",
+  "version": 2119,
+  "updated": "2026-09-07T00:49:58.732538+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 22,
