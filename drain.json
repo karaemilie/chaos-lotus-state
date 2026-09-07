@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-07T19:19:03.835Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add a full page paper notebook version of pinned tasks",
+      "_addedAt": "2026-09-07T20:03:54.821Z",
+      "_ts": "2026-09-07T20:03:55.102Z"
+    }
+  ],
+  "mirroredAt": "2026-09-07T20:03:55.376Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-07T19:19:04.629390+00:00",
-  "lastAutoProcessed": [
-    "SPIN:511"
-  ]
+    "adds": 1
+  }
 }
