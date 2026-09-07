@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-07T08:04:42.895Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Start mop",
+      "_addedAt": "2026-09-07T19:17:05.162Z",
+      "_ts": "2026-09-07T19:17:05.297Z"
+    }
+  ],
+  "mirroredAt": "2026-09-07T19:17:05.581Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-07T08:04:43.847205+00:00",
-  "lastAutoProcessed": [
-    "ZONES:82"
-  ]
+    "adds": 1
+  }
 }
