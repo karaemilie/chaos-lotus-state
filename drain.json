@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-07T19:17:17.913Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Start mop",
+      "_addedAt": "2026-09-07T19:17:05.162Z",
+      "_ts": "2026-09-07T19:17:05.297Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Freeze wraps with Even",
+      "_addedAt": "2026-09-07T19:17:55.348Z",
+      "_ts": "2026-09-07T19:17:55.515Z"
+    }
+  ],
+  "mirroredAt": "2026-09-07T19:17:55.840Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
