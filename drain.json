@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-08T09:12:37.654Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Reload Alaska gym receipt",
+      "_addedAt": "2026-09-08T21:44:41.761Z",
+      "_ts": "2026-09-08T21:44:41.914Z"
+    }
+  ],
+  "mirroredAt": "2026-09-08T21:44:42.155Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-08T09:12:38.715947+00:00",
-  "lastAutoProcessed": [
-    "ZONES:77"
-  ]
+    "adds": 1
+  }
 }
