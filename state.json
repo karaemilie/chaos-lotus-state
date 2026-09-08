@@ -15,20 +15,6 @@
       "uid": "SPIN:772"
     },
     {
-      "source": "TASKS",
-      "id": 10089,
-      "row": 18,
-      "label": "\u2b50 Apply for Genevieve's credit card \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": "Genevieve Credit Card Setup",
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10089"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 281,
       "row": 3,
@@ -41,20 +27,6 @@
       "row": 56,
       "label": "8 reviews Set D",
       "uid": "SPIN:853"
-    },
-    {
-      "source": "TASKS",
-      "id": 10788,
-      "row": 121,
-      "label": "\u2b50 Contact The Music Man about cello buybacks",
-      "aw": 3,
-      "pri": "High",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10788"
     },
     {
       "source": "TASKS",
@@ -467,18 +439,6 @@
       "uid": "SPIN:775"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11825,
-      "parentRow": 248,
-      "parentLabel": "\ud83d\udd25 submit for AYO cost",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-06-12",
-      "label": "\ud83d\udd25 \ud83d\udd25 submit for AYO cost",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11825:0"
-    },
-    {
       "source": "TASKS",
       "id": 12012,
       "row": 329,
@@ -869,10 +829,47 @@
       "sid": 863,
       "label": "Add a full page paper notebook version of pinned tasks",
       "uid": "SPIN_WHEEL:863"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11217,
+      "stepIndex": 0,
+      "parentLabel": "Check PFD statuses for everyone (Bentley, Jake, Genevieve)",
+      "aw": 2,
+      "due": "2026-06-24",
+      "label": "\ud83d\udd25 Check PFD statuses for everyone (Bentley, Jake, Genevieve)",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11217:0"
+    },
+    {
+      "source": "TASKS",
+      "id": 12000,
+      "label": "\u2728 Review Pura schedules, adjust/turn off where not needed",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12000"
+    },
+    {
+      "source": "TASKS",
+      "id": 12018,
+      "label": "\u2728 Trash & recycling to curb",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12018"
     }
   ],
-  "version": 2136,
-  "updated": "2026-09-08T07:52:49.499491+00:00",
+  "version": 2137,
+  "updated": "2026-09-08T08:28:16.942671+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "TASKS": 22,
