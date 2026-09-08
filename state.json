@@ -876,12 +876,19 @@
       "sid": 867,
       "label": "Find Cindy mp3 files",
       "uid": "SPIN_WHEEL:867"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 868,
+      "sid": 868,
+      "label": "Evan recital - pick date",
+      "uid": "SPIN_WHEEL:868"
     }
   ],
-  "version": 2145,
-  "updated": "2026-09-08T22:10:52.345436+00:00",
+  "version": 2146,
+  "updated": "2026-09-08T22:11:43.338422+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 65,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
