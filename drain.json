@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-08T22:11:41.581Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "3pm the 18th",
+      "_addedAt": "2026-09-08T22:59:45.282Z",
+      "_ts": "2026-09-08T22:59:45.417Z"
+    }
+  ],
+  "mirroredAt": "2026-09-08T22:59:45.703Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
