@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 63,
+      "label": "Buy marketplace Hoyas",
+      "uid": "SPIN:860",
+      "_ts": "2026-09-08T07:52:37.737Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-08T07:46:03.712Z",
+  "mirroredAt": "2026-09-08T07:52:38.022Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-08T07:46:04.798617+00:00",
-  "lastAutoProcessed": [
-    "SPIN:800"
-  ]
+  }
 }
