@@ -461,13 +461,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 849,
-      "row": 53,
-      "label": "TEN MORE REVIEWS",
-      "uid": "SPIN:849"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 752,
       "row": 27,
       "label": "Ceiling paint samples",
@@ -734,20 +727,6 @@
       "uid": "SPIN:484"
     },
     {
-      "source": "TASKS",
-      "id": 12008,
-      "row": 327,
-      "label": "\u2728 Check for South weekly schedule adjustments",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12008"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 811,
       "row": 41,
@@ -871,12 +850,25 @@
       "sid": 864,
       "label": "Five more reviews",
       "uid": "SPIN_WHEEL:864"
+    },
+    {
+      "source": "TASKS",
+      "id": 10089,
+      "label": "Apply for Genevieve's credit card \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": "Genevieve Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10089"
     }
   ],
-  "version": 2139,
-  "updated": "2026-09-08T08:31:45.309722+00:00",
+  "version": 2140,
+  "updated": "2026-09-08T08:32:28.542919+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
