@@ -256,18 +256,6 @@
       "uid": "SPIN:794"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11826,
-      "parentRow": 249,
-      "parentLabel": "\ud83d\udd25 Submit for Lincoln chamber camp",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-06-13",
-      "label": "\ud83d\udd25 \ud83d\udd25 Submit for Lincoln chamber camp",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11826:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 572,
       "row": 13,
@@ -397,18 +385,6 @@
       "row": 58,
       "label": "Try next Alarm app",
       "uid": "SPIN:855"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11727,
-      "parentRow": 229,
-      "parentLabel": "Submit rock gym to FPCS",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-06-11",
-      "label": "\ud83d\udd25 Submit rock gym to FPCS",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11727:0"
     },
     {
       "source": "TASKS",
@@ -866,10 +842,32 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12018"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11001,
+      "stepIndex": 0,
+      "parentLabel": "Book Bentley Christmas here & return tickets \u2708\ufe0f\ud83c\udf84 \ud83d\udcdd",
+      "aw": 2,
+      "due": "2026-06-29",
+      "label": "\ud83d\udd25 Book Bentley Christmas here & return tickets \u2708\ufe0f\ud83c\udf84 \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11001:0"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11911,
+      "stepIndex": 0,
+      "parentLabel": "Review APS requirements \u2014 Lincoln \ud83d\udccb",
+      "aw": 2,
+      "due": null,
+      "label": "\ud83d\udd25 Review APS requirements \u2014 Lincoln \ud83d\udccb",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11911:0"
     }
   ],
-  "version": 2137,
-  "updated": "2026-09-08T08:28:16.942671+00:00",
+  "version": 2138,
+  "updated": "2026-09-08T08:28:55.777233+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "TASKS": 22,
