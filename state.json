@@ -863,12 +863,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10089"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 865,
+      "sid": 865,
+      "label": "Test",
+      "uid": "SPIN_WHEEL:865"
     }
   ],
-  "version": 2140,
-  "updated": "2026-09-08T08:32:28.542919+00:00",
+  "version": 2141,
+  "updated": "2026-09-08T08:56:17.878517+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 63,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
