@@ -820,13 +820,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 800,
-      "row": 37,
-      "label": "Place Home Depot order!",
-      "uid": "SPIN:800"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 811,
       "row": 41,
       "label": "Put away some 4th decor",
@@ -885,10 +878,10 @@
       "uid": "SPIN_WHEEL:863"
     }
   ],
-  "version": 2134,
-  "updated": "2026-09-07T20:04:09.714670+00:00",
+  "version": 2135,
+  "updated": "2026-09-08T07:46:02.540112+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
