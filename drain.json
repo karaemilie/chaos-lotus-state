@@ -1,9 +1,31 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-08T08:56:16.534Z",
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12000,
+      "label": "✨ Review Pura schedules, adjust/turn off where not needed",
+      "uid": "TASKS:12000",
+      "_ts": "2026-09-08T08:56:16.709Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 861,
+      "label": "Start mop",
+      "uid": "SPIN_WHEEL:861",
+      "_ts": "2026-09-08T08:56:32.214Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Test",
+      "_addedAt": "2026-09-08T08:55:58.599Z",
+      "_ts": "2026-09-08T08:55:59.011Z"
+    }
+  ],
+  "mirroredAt": "2026-09-08T08:56:32.456Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
