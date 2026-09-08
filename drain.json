@@ -13,19 +13,18 @@
       "label": "Start mop",
       "uid": "SPIN_WHEEL:861",
       "_ts": "2026-09-08T08:56:32.214Z"
-    }
-  ],
-  "adds": [
+    },
     {
       "source": "PLUS_ADD",
       "label": "Test",
-      "_addedAt": "2026-09-08T08:55:58.599Z",
-      "_ts": "2026-09-08T08:55:59.011Z"
+      "uid": "PLUS_ADD:Test:2026-09-08T08:55:58.599Z",
+      "_ts": "2026-09-08T08:56:53.929Z"
     }
   ],
-  "mirroredAt": "2026-09-08T08:56:32.456Z",
+  "adds": [],
+  "mirroredAt": "2026-09-08T08:56:54.169Z",
   "counts": {
-    "completions": 2,
-    "adds": 1
+    "completions": 3,
+    "adds": 0
   }
 }
