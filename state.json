@@ -576,13 +576,6 @@
       "uid": "SPIN:796"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 860,
-      "row": 63,
-      "label": "Buy marketplace Hoyas",
-      "uid": "SPIN:860"
-    },
-    {
       "source": "TASKS",
       "id": 10241,
       "row": 65,
@@ -878,10 +871,10 @@
       "uid": "SPIN_WHEEL:863"
     }
   ],
-  "version": 2135,
-  "updated": "2026-09-08T07:46:02.540112+00:00",
+  "version": 2136,
+  "updated": "2026-09-08T07:52:49.499491+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
