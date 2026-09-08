@@ -883,12 +883,19 @@
       "sid": 868,
       "label": "Evan recital - pick date",
       "uid": "SPIN_WHEEL:868"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 869,
+      "sid": 869,
+      "label": "3pm the 18th",
+      "uid": "SPIN_WHEEL:869"
     }
   ],
-  "version": 2146,
-  "updated": "2026-09-08T22:11:43.338422+00:00",
+  "version": 2147,
+  "updated": "2026-09-08T23:00:00.265506+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 66,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
