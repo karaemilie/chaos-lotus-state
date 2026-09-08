@@ -1,9 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 79,
+      "zid": 77,
+      "floor": "Plant",
+      "label": "🌱 Corner Nook B",
+      "uid": "ZONES:77",
+      "_ts": "2026-09-08T09:12:19.006Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-08T08:57:12.280Z",
+  "mirroredAt": "2026-09-08T09:12:19.264Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
