@@ -547,16 +547,6 @@
       "uid": "TASKS:10899"
     },
     {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "row": 79,
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 337,
       "row": 5,
@@ -863,10 +853,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10788"
+    },
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Props",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Props",
+      "uid": "ZONES:78"
     }
   ],
-  "version": 2142,
-  "updated": "2026-09-08T08:57:09.214245+00:00",
+  "version": 2143,
+  "updated": "2026-09-08T09:12:36.060904+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "TASKS": 22,
