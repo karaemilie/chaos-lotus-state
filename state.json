@@ -766,13 +766,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 861,
-      "sid": 861,
-      "label": "Start mop",
-      "uid": "SPIN_WHEEL:861"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 862,
       "sid": 862,
       "label": "Freeze wraps with Even",
@@ -795,19 +788,6 @@
       "label": "\ud83d\udd25 Check PFD statuses for everyone (Bentley, Jake, Genevieve)",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11217:0"
-    },
-    {
-      "source": "TASKS",
-      "id": 12000,
-      "label": "\u2728 Review Pura schedules, adjust/turn off where not needed",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12000"
     },
     {
       "source": "TASKS",
@@ -870,12 +850,25 @@
       "sid": 865,
       "label": "Test",
       "uid": "SPIN_WHEEL:865"
+    },
+    {
+      "source": "TASKS",
+      "id": 10788,
+      "label": "Contact The Music Man about cello buybacks",
+      "aw": 3,
+      "pri": "High",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10788"
     }
   ],
-  "version": 2141,
-  "updated": "2026-09-08T08:56:17.878517+00:00",
+  "version": 2142,
+  "updated": "2026-09-08T08:57:09.214245+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
