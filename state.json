@@ -491,13 +491,6 @@
       "uid": "SPIN:852"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 827,
-      "row": 45,
-      "label": "Assess protein powder",
-      "uid": "SPIN:827"
-    },
-    {
       "source": "TASKS",
       "id": 10899,
       "row": 130,
@@ -849,10 +842,10 @@
       "uid": "TASKS:11962"
     }
   ],
-  "version": 2156,
-  "updated": "2026-09-09T06:08:59.250292+00:00",
+  "version": 2157,
+  "updated": "2026-09-09T06:10:50.395885+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 59,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
