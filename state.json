@@ -815,13 +815,6 @@
       "uid": "COURAGE:11911:0"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 864,
-      "sid": 864,
-      "label": "Five more reviews",
-      "uid": "SPIN_WHEEL:864"
-    },
-    {
       "source": "TASKS",
       "id": 10089,
       "label": "Apply for Genevieve's credit card \ud83d\udcdd",
@@ -899,10 +892,10 @@
       "uid": "SPIN_WHEEL:870"
     }
   ],
-  "version": 2148,
-  "updated": "2026-09-09T02:21:39.092017+00:00",
+  "version": 2149,
+  "updated": "2026-09-09T02:35:01.517603+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
