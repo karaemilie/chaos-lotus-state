@@ -571,13 +571,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 667,
-      "row": 17,
-      "label": "Sign up for Prep Medians!",
-      "uid": "SPIN:667"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 692,
       "row": 20,
       "label": "Complain to deck guy",
@@ -798,10 +791,10 @@
       "uid": "SPIN_WHEEL:872"
     }
   ],
-  "version": 2166,
-  "updated": "2026-09-09T07:43:19.757401+00:00",
+  "version": 2167,
+  "updated": "2026-09-09T07:44:02.522360+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 52,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
