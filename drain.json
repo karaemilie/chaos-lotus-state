@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 17,
+      "label": "Sign up for Prep Medians!",
+      "uid": "SPIN:667",
+      "_ts": "2026-09-09T07:43:06.881Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-09-09T07:43:02.531Z"
     }
   ],
-  "mirroredAt": "2026-09-09T07:43:02.777Z",
+  "mirroredAt": "2026-09-09T07:43:07.110Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
