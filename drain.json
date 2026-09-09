@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 45,
+      "label": "Assess protein powder",
+      "uid": "SPIN:827",
+      "_ts": "2026-09-09T06:10:34.676Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11307,
+      "row": 170,
+      "label": "✨ Review Evan's bedtime & adjust melatonin timing 😴💊",
+      "uid": "TASKS:11307",
+      "_ts": "2026-09-09T06:11:10.129Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-09T06:10:51.728Z",
+  "mirroredAt": "2026-09-09T06:11:10.390Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-09-09T06:10:52.735050+00:00",
-  "lastAutoProcessed": [
-    "SPIN:827"
-  ]
+  }
 }
