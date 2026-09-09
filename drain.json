@@ -2,16 +2,38 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
+      "row": 28,
+      "label": "Bentley resume",
+      "uid": "SPIN:756",
+      "_ts": "2026-09-09T06:06:54.039Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12028,
+      "row": 335,
+      "label": "✨ Update school lists for Lincoln & Evan",
+      "uid": "TASKS:12028",
+      "_ts": "2026-09-09T06:07:24.178Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 42,
       "label": "Subaru website",
       "uid": "SPIN:822",
       "_ts": "2026-09-09T06:07:38.042Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 36,
+      "label": "Look into Turo rental for B",
+      "uid": "SPIN:796",
+      "_ts": "2026-09-09T06:08:20.911Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-09-09T06:07:40.796Z",
+  "mirroredAt": "2026-09-09T06:08:21.182Z",
   "counts": {
-    "completions": 1,
+    "completions": 4,
     "adds": 0
   }
 }
