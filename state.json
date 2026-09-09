@@ -379,20 +379,6 @@
       "uid": "TASKS:11716"
     },
     {
-      "source": "TASKS",
-      "id": 12047,
-      "row": 340,
-      "label": "\u2728 Put on new tattoo",
-      "aw": 4,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12047"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 775,
       "row": 26,
@@ -808,10 +794,23 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Teeth Whitening",
       "uid": "ZONES:88"
+    },
+    {
+      "source": "TASKS",
+      "id": 10027,
+      "label": "Design decorative door panels for wall cabinet and vanity \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 60,
+      "ml": "Hard",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10027"
     }
   ],
-  "version": 2175,
-  "updated": "2026-09-09T19:36:02.990341+00:00",
+  "version": 2176,
+  "updated": "2026-09-09T19:37:59.395588+00:00",
   "buckets": {
     "SPIN_WHEEL": 52,
     "TASKS": 22,
