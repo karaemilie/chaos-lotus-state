@@ -685,13 +685,6 @@
       "uid": "SPIN_WHEEL:862"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 863,
-      "sid": 863,
-      "label": "Add a full page paper notebook version of pinned tasks",
-      "uid": "SPIN_WHEEL:863"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11217,
       "stepIndex": 0,
@@ -701,19 +694,6 @@
       "label": "\ud83d\udd25 Check PFD statuses for everyone (Bentley, Jake, Genevieve)",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11217:0"
-    },
-    {
-      "source": "TASKS",
-      "id": 12018,
-      "label": "\u2728 Trash & recycling to curb",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12018"
     },
     {
       "source": "COURAGE",
@@ -751,13 +731,6 @@
       "uid": "TASKS:10089"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 865,
-      "sid": 865,
-      "label": "Test",
-      "uid": "SPIN_WHEEL:865"
-    },
-    {
       "source": "TASKS",
       "id": 10788,
       "label": "Contact The Music Man about cello buybacks",
@@ -778,13 +751,6 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Props",
       "uid": "ZONES:78"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 866,
-      "sid": 866,
-      "label": "Reload Alaska gym receipt",
-      "uid": "SPIN_WHEEL:866"
     },
     {
       "source": "SPIN_WHEEL",
@@ -839,12 +805,25 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:11963"
+    },
+    {
+      "source": "TASKS",
+      "id": 10020,
+      "label": "Cut sides for in-wall cabinets",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Medium",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10020"
     }
   ],
-  "version": 2158,
-  "updated": "2026-09-09T06:11:21.473697+00:00",
+  "version": 2159,
+  "updated": "2026-09-09T06:12:06.203521+00:00",
   "buckets": {
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 56,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
