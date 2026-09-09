@@ -802,12 +802,26 @@
       "sid": 873,
       "label": "Pick ceiling paint",
       "uid": "SPIN_WHEEL:873"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 874,
+      "sid": 874,
+      "label": "Set up minima list",
+      "uid": "SPIN_WHEEL:874"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 875,
+      "sid": 875,
+      "label": "Transfer Ally money",
+      "uid": "SPIN_WHEEL:875"
     }
   ],
-  "version": 2172,
-  "updated": "2026-09-09T19:33:59.622397+00:00",
+  "version": 2173,
+  "updated": "2026-09-09T19:34:49.163018+00:00",
   "buckets": {
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 53,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2,
