@@ -23,13 +23,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 822,
-      "row": 42,
-      "label": "Subaru website",
-      "uid": "SPIN:822"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 465,
       "row": 6,
       "label": "5 minutes in Custom Cut Software \u23f1\ufe0f",
@@ -863,10 +856,10 @@
       "uid": "TASKS:11962"
     }
   ],
-  "version": 2154,
-  "updated": "2026-09-09T06:07:37.951869+00:00",
+  "version": 2155,
+  "updated": "2026-09-09T06:08:20.397430+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 61,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
