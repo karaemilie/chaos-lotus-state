@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 29,
+      "label": "Replace B credit card",
+      "uid": "SPIN:759",
+      "_ts": "2026-09-09T05:40:46.730Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-09T04:32:43.363Z",
+  "mirroredAt": "2026-09-09T05:40:46.961Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-09T04:32:44.187973+00:00",
-  "lastAutoProcessed": [
-    "SPIN:744"
-  ]
+  }
 }
