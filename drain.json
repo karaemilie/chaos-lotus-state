@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 44,
+      "label": "Add Evan email to rock gum",
+      "uid": "SPIN:826",
+      "_ts": "2026-09-09T06:21:32.936Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-09T06:13:59.983Z",
+  "mirroredAt": "2026-09-09T06:21:33.198Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-09T06:14:00.784714+00:00",
-  "lastAutoProcessed": [
-    "SPIN:833"
-  ]
+  }
 }
