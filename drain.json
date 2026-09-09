@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-09T07:00:03.705Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ask Lynneta if I can submit for prep median",
+      "_addedAt": "2026-09-09T07:43:02.241Z",
+      "_ts": "2026-09-09T07:43:02.531Z"
+    }
+  ],
+  "mirroredAt": "2026-09-09T07:43:02.777Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
