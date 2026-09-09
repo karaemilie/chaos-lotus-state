@@ -548,13 +548,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 756,
-      "row": 28,
-      "label": "Bentley resume",
-      "uid": "SPIN:756"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 703,
       "row": 22,
       "label": "Steam the new dress shirts",
@@ -871,10 +864,10 @@
       "uid": "SPIN_WHEEL:870"
     }
   ],
-  "version": 2152,
-  "updated": "2026-09-09T06:05:51.895107+00:00",
+  "version": 2153,
+  "updated": "2026-09-09T06:07:05.636668+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
