@@ -353,27 +353,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 855,
-      "row": 58,
-      "label": "Try next Alarm app",
-      "uid": "SPIN:855"
-    },
-    {
-      "source": "TASKS",
-      "id": 12036,
-      "row": 340,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:12036"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 781,
       "row": 34,
       "label": "Schedule windshield glass repair for Tahoe",
@@ -818,12 +797,25 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10020"
+    },
+    {
+      "source": "TASKS",
+      "id": 10622,
+      "label": "List both small cellos on Marketplace \ud83c\udfbb",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:10622"
     }
   ],
-  "version": 2159,
-  "updated": "2026-09-09T06:12:06.203521+00:00",
+  "version": 2160,
+  "updated": "2026-09-09T06:13:11.777334+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 55,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
