@@ -668,20 +668,6 @@
       "uid": "SPIN:811"
     },
     {
-      "source": "TASKS",
-      "id": 11307,
-      "row": 170,
-      "label": "\u2728 Review Evan's bedtime & adjust melatonin timing \ud83d\ude34\ud83d\udc8a",
-      "aw": 6,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": null,
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11307"
-    },
-    {
       "source": "ZONES",
       "zid": 31,
       "floor": "Main Floor",
@@ -840,10 +826,23 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:11962"
+    },
+    {
+      "source": "TASKS",
+      "id": 11963,
+      "label": "Put 30-day channel launch timeline on physical calendar + pull stickers \ud83d\udcc5",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11963"
     }
   ],
-  "version": 2157,
-  "updated": "2026-09-09T06:10:50.395885+00:00",
+  "version": 2158,
+  "updated": "2026-09-09T06:11:21.473697+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 22,
