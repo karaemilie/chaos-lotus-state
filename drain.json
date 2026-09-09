@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-09T20:16:36.213Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find best price on Samsung",
+      "_addedAt": "2026-09-09T22:44:47.171Z",
+      "_ts": "2026-09-09T22:44:47.296Z"
+    }
+  ],
+  "mirroredAt": "2026-09-09T22:44:47.639Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
