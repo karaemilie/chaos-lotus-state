@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-09T08:36:51.248Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pick ceiling paint",
+      "_addedAt": "2026-09-09T19:33:44.616Z",
+      "_ts": "2026-09-09T19:33:44.775Z"
+    }
+  ],
+  "mirroredAt": "2026-09-09T19:33:45.068Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-09T08:36:52.580771+00:00",
-  "lastAutoProcessed": [
-    "ZONES:86"
-  ]
+    "adds": 1
+  }
 }
