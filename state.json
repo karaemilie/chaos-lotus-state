@@ -22,20 +22,6 @@
       "uid": "SPIN:853"
     },
     {
-      "source": "TASKS",
-      "id": 12028,
-      "row": 335,
-      "label": "\u2728 Update school lists for Lincoln & Evan",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12028"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 822,
       "row": 42,
@@ -862,10 +848,23 @@
       "sid": 870,
       "label": "Figure out Genevieve test fee \ud83d\ude2c",
       "uid": "SPIN_WHEEL:870"
+    },
+    {
+      "source": "TASKS",
+      "id": 11962,
+      "label": "Pair phone to test app \ud83d\udcf1",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11962"
     }
   ],
-  "version": 2153,
-  "updated": "2026-09-09T06:07:05.636668+00:00",
+  "version": 2154,
+  "updated": "2026-09-09T06:07:37.951869+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "TASKS": 22,
