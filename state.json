@@ -814,12 +814,19 @@
       "sid": 876,
       "label": "Load new dropbox",
       "uid": "SPIN_WHEEL:876"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 877,
+      "sid": 877,
+      "label": "Add task to scrub fiesta",
+      "uid": "SPIN_WHEEL:877"
     }
   ],
-  "version": 2177,
-  "updated": "2026-09-09T20:15:49.470874+00:00",
+  "version": 2178,
+  "updated": "2026-09-09T20:16:37.417340+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 54,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2,
