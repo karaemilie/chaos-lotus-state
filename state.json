@@ -593,13 +593,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 759,
-      "row": 29,
-      "label": "Replace B credit card",
-      "uid": "SPIN:759"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 857,
       "row": 60,
       "label": "Finalize viola plan",
@@ -885,10 +878,10 @@
       "uid": "SPIN_WHEEL:870"
     }
   ],
-  "version": 2150,
-  "updated": "2026-09-09T04:32:42.307288+00:00",
+  "version": 2151,
+  "updated": "2026-09-09T05:41:00.423300+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
