@@ -1,15 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 45,
+      "label": "Assess protein powder",
+      "uid": "SPIN:827",
+      "_ts": "2026-09-09T06:10:34.676Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-09T06:09:01.926Z",
+  "mirroredAt": "2026-09-09T06:10:34.937Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-09T06:09:02.832989+00:00",
-  "lastAutoProcessed": [
-    "SPIN:756",
-    "SPIN:796",
-    "TASKS:12028"
-  ]
+  }
 }
