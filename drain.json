@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 39,
+      "label": "Order juggle balls",
+      "uid": "SPIN:847",
+      "_ts": "2026-09-09T19:35:46.004Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-09T19:35:32.023Z",
+  "mirroredAt": "2026-09-09T19:35:46.254Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-09T19:35:33.160958+00:00",
-  "lastAutoProcessed": [
-    "ZONES:87"
-  ]
+  }
 }
