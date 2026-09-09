@@ -411,13 +411,6 @@
       "uid": "SPIN:614"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 838,
-      "row": 49,
-      "label": "New rug",
-      "uid": "SPIN:838"
-    },
-    {
       "source": "ZONES",
       "zid": 56,
       "floor": "Basement",
@@ -791,10 +784,10 @@
       "uid": "TASKS:10622"
     }
   ],
-  "version": 2163,
-  "updated": "2026-09-09T06:34:23.184793+00:00",
+  "version": 2164,
+  "updated": "2026-09-09T06:46:36.625346+00:00",
   "buckets": {
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 51,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
