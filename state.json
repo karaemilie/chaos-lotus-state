@@ -30,20 +30,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11708,
-      "row": 222,
-      "label": "\u2b50 Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Kids",
-      "critical": false,
-      "uid": "TASKS:11708"
-    },
-    {
-      "source": "TASKS",
       "id": 11083,
       "row": 215,
       "label": "\ud83d\udc38 Line item the Amazon Vine tax file \ud83d\udcdd",
@@ -86,20 +72,6 @@
       "row": 15,
       "label": "Take down dress shoes in closet",
       "uid": "SPIN:581"
-    },
-    {
-      "source": "TASKS",
-      "id": 10659,
-      "row": 114,
-      "label": "\u2b50 Get Lincoln's four year plan together \ud83d\udccb\ud83c\udfaf",
-      "aw": 3,
-      "pri": "High",
-      "dur": 45,
-      "ml": null,
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10659"
     },
     {
       "source": "ZONES",
@@ -172,39 +144,11 @@
       "uid": "MAINTENANCE:108"
     },
     {
-      "source": "TASKS",
-      "id": 10173,
-      "row": 41,
-      "label": "\u2b50 Help Bentley apply for Gemini card via Jake's referral link \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 20,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10173"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 739,
       "row": 25,
       "label": "Set up two week plan to prove I can make money?",
       "uid": "SPIN:739"
-    },
-    {
-      "source": "TASKS",
-      "id": 10333,
-      "row": 82,
-      "label": "\u2b50 English plan for L&E",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": "Lincoln Tasks",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10333"
     },
     {
       "source": "SPIN_WHEEL",
@@ -254,20 +198,6 @@
       "row": 39,
       "label": "Get Bentley miles for cello",
       "uid": "SPIN:802"
-    },
-    {
-      "source": "TASKS",
-      "id": 11948,
-      "row": 299,
-      "label": "\u2b50 Clean bedroom windows \ud83e\ude9f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11948"
     },
     {
       "source": "SPIN_WHEEL",
@@ -705,13 +635,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 867,
-      "sid": 867,
-      "label": "Find Cindy mp3 files",
-      "uid": "SPIN_WHEEL:867"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 868,
       "sid": 868,
       "label": "Evan recital - pick date",
@@ -789,12 +712,77 @@
       "sid": 872,
       "label": "Ask Lynneta if I can submit for prep median",
       "uid": "SPIN_WHEEL:872"
+    },
+    {
+      "source": "TASKS",
+      "id": 11907,
+      "label": "\u2728 List 3-5 plants for sale on marketplace \ud83e\udeb4\ud83d\udcb0 \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Normal",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11907"
+    },
+    {
+      "source": "TASKS",
+      "id": 11915,
+      "label": "\u2728 Deep clean cat litter \ud83d\udc31\ud83e\uddfc",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11915"
+    },
+    {
+      "source": "TASKS",
+      "id": 11987,
+      "label": "\u2728 Work on kids education planning projects \ud83d\udcda",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Medium",
+      "proj": "Homeschool Admin",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11987"
+    },
+    {
+      "source": "TASKS",
+      "id": 12047,
+      "label": "\u2728 Put on new tattoo",
+      "aw": 4,
+      "pri": 3,
+      "dur": 10,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12047"
+    },
+    {
+      "source": "TASKS",
+      "id": 12055,
+      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12055"
     }
   ],
-  "version": 2167,
-  "updated": "2026-09-09T07:44:02.522360+00:00",
+  "version": 2168,
+  "updated": "2026-09-09T08:10:00.851312+00:00",
   "buckets": {
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 51,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
