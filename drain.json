@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 2,
+      "label": "Order Bentley a bed bric",
+      "uid": "SPIN:253",
+      "_ts": "2026-09-09T06:05:38.461Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-09T05:41:01.790Z",
+  "mirroredAt": "2026-09-09T06:05:38.708Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-09T05:41:02.682765+00:00",
-  "lastAutoProcessed": [
-    "SPIN:759"
-  ]
+  }
 }
