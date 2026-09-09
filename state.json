@@ -379,16 +379,6 @@
       "uid": "TASKS:11716"
     },
     {
-      "source": "ZONES",
-      "zid": 87,
-      "floor": "Personal",
-      "row": 89,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Eyebrows",
-      "uid": "ZONES:87"
-    },
-    {
       "source": "TASKS",
       "id": 12047,
       "row": 340,
@@ -816,10 +806,19 @@
       "sid": 875,
       "label": "Transfer Ally money",
       "uid": "SPIN_WHEEL:875"
+    },
+    {
+      "source": "ZONES",
+      "zid": 88,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Teeth Whitening",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Teeth Whitening",
+      "uid": "ZONES:88"
     }
   ],
-  "version": 2173,
-  "updated": "2026-09-09T19:34:49.163018+00:00",
+  "version": 2174,
+  "updated": "2026-09-09T19:35:30.581058+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
     "TASKS": 22,
