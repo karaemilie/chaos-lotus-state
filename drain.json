@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 869,
+      "label": "3pm the 18th",
+      "uid": "SPIN_WHEEL:869",
+      "_ts": "2026-09-09T06:34:10.421Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-09T06:21:46.176Z",
+  "mirroredAt": "2026-09-09T06:34:10.862Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-09T06:21:46.933135+00:00",
-  "lastAutoProcessed": [
-    "SPIN:826"
-  ]
+  }
 }
