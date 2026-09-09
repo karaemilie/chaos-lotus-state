@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 28,
+      "label": "Bentley resume",
+      "uid": "SPIN:756",
+      "_ts": "2026-09-09T06:06:54.039Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12028,
+      "row": 335,
+      "label": "✨ Update school lists for Lincoln & Evan",
+      "uid": "TASKS:12028",
+      "_ts": "2026-09-09T06:07:24.178Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-09T06:07:06.630Z",
+  "mirroredAt": "2026-09-09T06:07:24.475Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-09-09T06:07:07.409278+00:00",
-  "lastAutoProcessed": [
-    "SPIN:756"
-  ]
+  }
 }
