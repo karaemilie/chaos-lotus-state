@@ -103,13 +103,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 833,
-      "row": 48,
-      "label": "Finish kitchen tile project",
-      "uid": "SPIN:833"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 826,
       "row": 44,
       "label": "Add Evan email to rock gum",
@@ -812,10 +805,10 @@
       "uid": "TASKS:10622"
     }
   ],
-  "version": 2160,
-  "updated": "2026-09-09T06:13:11.777334+00:00",
+  "version": 2161,
+  "updated": "2026-09-09T06:13:58.812603+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 54,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
