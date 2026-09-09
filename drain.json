@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 28,
+      "label": "Bentley resume",
+      "uid": "SPIN:756",
+      "_ts": "2026-09-09T06:06:54.039Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-09T06:05:53.121Z",
+  "mirroredAt": "2026-09-09T06:06:54.401Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-09T06:05:54.067323+00:00",
-  "lastAutoProcessed": [
-    "SPIN:253"
-  ]
+  }
 }
