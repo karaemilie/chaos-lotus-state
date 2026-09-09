@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-09T19:38:02.509Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Load new dropbox",
+      "_addedAt": "2026-09-09T20:15:28.874Z",
+      "_ts": "2026-09-09T20:15:29.103Z"
+    }
+  ],
+  "mirroredAt": "2026-09-09T20:15:29.368Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-09T19:38:03.579436+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12047"
-  ]
+    "adds": 1
+  }
 }
