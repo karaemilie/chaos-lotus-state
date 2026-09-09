@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-09T06:46:37.866Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Check for book charges on B account",
+      "_addedAt": "2026-09-09T06:59:50.405Z",
+      "_ts": "2026-09-09T06:59:50.563Z"
+    }
+  ],
+  "mirroredAt": "2026-09-09T06:59:50.815Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-09T06:46:38.917273+00:00",
-  "lastAutoProcessed": [
-    "SPIN:838"
-  ]
+    "adds": 1
+  }
 }
