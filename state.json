@@ -92,13 +92,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 851,
-      "row": 54,
-      "label": "8 reviews Set B",
-      "uid": "SPIN:851"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 702,
       "row": 21,
       "label": "Go through rest of pillows and put them in allergen cases (mine too?)",
@@ -779,10 +772,10 @@
       "uid": "TASKS:12055"
     }
   ],
-  "version": 2168,
-  "updated": "2026-09-09T08:10:00.851312+00:00",
+  "version": 2169,
+  "updated": "2026-09-09T08:26:49.586789+00:00",
   "buckets": {
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 50,
     "TASKS": 22,
     "ZONES": 7,
     "MAINTENANCE": 2,
