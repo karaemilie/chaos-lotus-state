@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 45,
+      "label": "Schedule new web Md appt",
+      "uid": "SPIN:859",
+      "_ts": "2026-09-10T02:11:11.368Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-10T01:45:03.404Z",
+  "mirroredAt": "2026-09-10T02:11:11.634Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-10T01:45:04.407581+00:00",
-  "lastAutoProcessed": [
-    "ZONES:88"
-  ]
+  }
 }
