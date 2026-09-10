@@ -234,13 +234,6 @@
       "uid": "SPIN:876"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 775,
-      "row": 26,
-      "label": "Pack up Genevieve bags",
-      "uid": "SPIN:775"
-    },
-    {
       "source": "TASKS",
       "id": 10089,
       "row": 18,
@@ -820,10 +813,10 @@
       "uid": "ZONES:65"
     }
   ],
-  "version": 2190,
-  "updated": "2026-09-10T07:46:13.355487+00:00",
+  "version": 2191,
+  "updated": "2026-09-10T07:48:33.118591+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 54,
     "ZONES": 7,
     "TASKS": 22,
     "COURAGE": 4,
