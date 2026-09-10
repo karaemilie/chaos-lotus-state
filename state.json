@@ -719,26 +719,10 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 692,
-      "row": 17,
-      "label": "Complain to deck guy",
-      "uid": "SPIN:692"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 879,
       "sid": 879,
       "label": "Deal with pianist for cello recital",
       "uid": "SPIN_WHEEL:879"
-    },
-    {
-      "source": "ZONES",
-      "zid": 79,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Kitchen Up High",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Kitchen Up High",
-      "uid": "ZONES:79"
     },
     {
       "source": "SPIN_WHEEL",
@@ -815,12 +799,21 @@
       "sid": 883,
       "label": "Make more rice",
       "uid": "SPIN_WHEEL:883"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Hallway",
+      "uid": "ZONES:80"
     }
   ],
-  "version": 2196,
-  "updated": "2026-09-10T08:03:15.246078+00:00",
+  "version": 2197,
+  "updated": "2026-09-10T08:04:00.407940+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 54,
     "ZONES": 7,
     "TASKS": 22,
     "COURAGE": 4,
