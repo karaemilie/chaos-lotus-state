@@ -144,13 +144,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 868,
-      "row": 47,
-      "label": "Evan recital - pick date",
-      "uid": "SPIN:868"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 576,
       "row": 12,
       "label": "Pay down my AK card and transfer balance to Genevieve Embry riddle account. Pay off Gemini too somehow",
@@ -815,10 +808,10 @@
       "uid": "SPIN_WHEEL:879"
     }
   ],
-  "version": 2185,
-  "updated": "2026-09-10T06:46:58.539080+00:00",
+  "version": 2186,
+  "updated": "2026-09-10T06:47:40.839617+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 53,
     "ZONES": 7,
     "TASKS": 22,
     "COURAGE": 4,
