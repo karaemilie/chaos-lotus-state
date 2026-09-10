@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 47,
+      "label": "Evan recital - pick date",
+      "uid": "SPIN:868",
+      "_ts": "2026-09-10T06:46:52.548Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-09-10T06:46:43.180Z"
     }
   ],
-  "mirroredAt": "2026-09-10T06:46:43.440Z",
+  "mirroredAt": "2026-09-10T06:46:52.845Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
