@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-10T20:33:00.208Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Eval new rug",
+      "_addedAt": "2026-09-10T20:32:46.808Z",
+      "_ts": "2026-09-10T20:32:46.993Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Alcohol mix, fuzzy socks, microfiber to vehicle",
+      "_addedAt": "2026-09-10T20:33:25.060Z",
+      "_ts": "2026-09-10T20:33:25.262Z"
+    }
+  ],
+  "mirroredAt": "2026-09-10T20:33:25.525Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
