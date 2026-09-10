@@ -460,13 +460,6 @@
       "uid": "TASKS:10317"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 877,
-      "row": 54,
-      "label": "Add task to scrub fiesta",
-      "uid": "SPIN:877"
-    },
-    {
       "source": "TASKS",
       "id": 11083,
       "row": 214,
@@ -819,10 +812,10 @@
       "uid": "TASKS:10027"
     }
   ],
-  "version": 2193,
-  "updated": "2026-09-10T08:01:11.972066+00:00",
+  "version": 2194,
+  "updated": "2026-09-10T08:02:12.293505+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 54,
     "ZONES": 7,
     "TASKS": 22,
     "COURAGE": 4,
