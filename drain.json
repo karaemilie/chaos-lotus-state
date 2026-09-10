@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 26,
+      "label": "Pack up Genevieve bags",
+      "uid": "SPIN:775",
+      "_ts": "2026-09-10T07:48:20.327Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-10T07:46:14.682Z",
+  "mirroredAt": "2026-09-10T07:48:20.582Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-10T07:46:15.709124+00:00",
-  "lastAutoProcessed": [
-    "ZONES:64"
-  ]
+  }
 }
