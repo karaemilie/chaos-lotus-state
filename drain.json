@@ -31,19 +31,19 @@
       "label": "🌱 Kitchen Up High",
       "uid": "ZONES:79",
       "_ts": "2026-09-10T08:02:44.623Z"
-    }
-  ],
-  "adds": [
+    },
     {
-      "source": "PLUS_ADD",
-      "label": "Make more rice",
-      "_addedAt": "2026-09-10T08:02:04.716Z",
-      "_ts": "2026-09-10T08:02:05.103Z"
+      "source": "SPIN_WHEEL",
+      "row": 17,
+      "label": "Complain to deck guy",
+      "uid": "SPIN:692",
+      "_ts": "2026-09-10T08:03:32.891Z"
     }
   ],
-  "mirroredAt": "2026-09-10T08:02:44.887Z",
+  "adds": [],
+  "mirroredAt": "2026-09-10T08:03:33.154Z",
   "counts": {
-    "completions": 4,
-    "adds": 1
+    "completions": 5,
+    "adds": 0
   }
 }
