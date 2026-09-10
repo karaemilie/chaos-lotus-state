@@ -770,15 +770,6 @@
       "uid": "SPIN_WHEEL:875"
     },
     {
-      "source": "ZONES",
-      "zid": 88,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Teeth Whitening",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Teeth Whitening",
-      "uid": "ZONES:88"
-    },
-    {
       "source": "TASKS",
       "id": 10027,
       "label": "Design decorative door panels for wall cabinet and vanity \ud83d\udcdd",
@@ -820,10 +811,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Emails",
       "uid": "ZONES:65"
+    },
+    {
+      "source": "ZONES",
+      "zid": 90,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Feet Care & Pedi",
+      "uid": "ZONES:90"
     }
   ],
-  "version": 2181,
-  "updated": "2026-09-10T01:41:28.573872+00:00",
+  "version": 2182,
+  "updated": "2026-09-10T01:45:01.867570+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "TASKS": 22,
