@@ -1,9 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 65,
+      "zid": 64,
+      "floor": "Digital",
+      "label": "💻 OneTab",
+      "uid": "ZONES:64",
+      "_ts": "2026-09-10T07:45:56.597Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-10T07:28:45.955Z",
+  "mirroredAt": "2026-09-10T07:45:57.001Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
