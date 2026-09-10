@@ -808,12 +808,19 @@
       "sid": 884,
       "label": "Evan robot",
       "uid": "SPIN_WHEEL:884"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 885,
+      "sid": 885,
+      "label": "Raspberry bed\u2026",
+      "uid": "SPIN_WHEEL:885"
     }
   ],
-  "version": 2199,
-  "updated": "2026-09-10T08:07:43.151852+00:00",
+  "version": 2200,
+  "updated": "2026-09-10T08:08:30.873023+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 55,
     "ZONES": 7,
     "TASKS": 22,
     "COURAGE": 4,
