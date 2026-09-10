@@ -854,12 +854,19 @@
       "sid": 890,
       "label": "Play with Meta Muse more",
       "uid": "SPIN_WHEEL:890"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 891,
+      "sid": 891,
+      "label": "Remap Mudroom vac",
+      "uid": "SPIN_WHEEL:891"
     }
   ],
-  "version": 2207,
-  "updated": "2026-09-10T21:44:29.267221+00:00",
+  "version": 2208,
+  "updated": "2026-09-10T23:22:12.058761+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 61,
     "ZONES": 7,
     "TASKS": 22,
     "MAINTENANCE": 2,
