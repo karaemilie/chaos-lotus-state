@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-10T08:08:29.891Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Smoothie take 1",
+      "_addedAt": "2026-09-10T08:13:42.269Z",
+      "_ts": "2026-09-10T08:13:42.656Z"
+    }
+  ],
+  "mirroredAt": "2026-09-10T08:13:42.926Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
