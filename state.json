@@ -571,20 +571,6 @@
       "uid": "SPIN:572"
     },
     {
-      "source": "TASKS",
-      "id": 12070,
-      "row": 360,
-      "label": "\u2728 Select Amazon Music audiobook \ud83c\udfa7\ud83d\udcda",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12070"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 862,
       "row": 46,
@@ -648,20 +634,6 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:11987"
-    },
-    {
-      "source": "TASKS",
-      "id": 12056,
-      "row": 346,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12056"
     },
     {
       "source": "SPIN_WHEEL",
@@ -783,15 +755,6 @@
       "uid": "SPIN_WHEEL:881"
     },
     {
-      "source": "ZONES",
-      "zid": 65,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Emails",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Emails",
-      "uid": "ZONES:65"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 882,
       "sid": 882,
@@ -810,10 +773,45 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10027"
+    },
+    {
+      "source": "ZONES",
+      "zid": 66,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Due",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Due",
+      "uid": "ZONES:66"
+    },
+    {
+      "source": "TASKS",
+      "id": 10020,
+      "label": "Cut sides for in-wall cabinets",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Medium",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10020"
+    },
+    {
+      "source": "TASKS",
+      "id": 11946,
+      "label": "Move quilt to right \ud83d\udecf\ufe0f",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11946"
     }
   ],
-  "version": 2194,
-  "updated": "2026-09-10T08:02:12.293505+00:00",
+  "version": 2195,
+  "updated": "2026-09-10T08:02:57.054823+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "ZONES": 7,
