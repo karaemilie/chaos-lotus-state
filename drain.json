@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-10T07:48:34.306Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Five minutes on icon set!",
+      "_addedAt": "2026-09-10T08:00:18.361Z",
+      "_ts": "2026-09-10T08:00:18.724Z"
+    }
+  ],
+  "mirroredAt": "2026-09-10T08:00:18.980Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-10T07:48:35.445295+00:00",
-  "lastAutoProcessed": [
-    "SPIN:775"
-  ]
+    "adds": 1
+  }
 }
