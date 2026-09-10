@@ -46,16 +46,6 @@
       "uid": "SPIN:807"
     },
     {
-      "source": "ZONES",
-      "zid": 78,
-      "floor": "Plant",
-      "row": 80,
-      "label": "\ud83c\udf31 Family Room Props",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Props",
-      "uid": "ZONES:78"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 781,
       "row": 28,
@@ -806,10 +796,19 @@
       "sid": 879,
       "label": "Deal with pianist for cello recital",
       "uid": "SPIN_WHEEL:879"
+    },
+    {
+      "source": "ZONES",
+      "zid": 79,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Kitchen Up High",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Kitchen Up High",
+      "uid": "ZONES:79"
     }
   ],
-  "version": 2186,
-  "updated": "2026-09-10T06:47:40.839617+00:00",
+  "version": 2187,
+  "updated": "2026-09-10T07:13:15.738891+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
     "ZONES": 7,
