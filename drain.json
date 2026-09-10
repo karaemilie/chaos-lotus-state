@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-10T02:11:28.155Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Deal with pianist for cello recital",
+      "_addedAt": "2026-09-10T06:46:43.049Z",
+      "_ts": "2026-09-10T06:46:43.180Z"
+    }
+  ],
+  "mirroredAt": "2026-09-10T06:46:43.440Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-10T02:11:29.175455+00:00",
-  "lastAutoProcessed": [
-    "SPIN:859"
-  ]
+    "adds": 1
+  }
 }
