@@ -648,16 +648,6 @@
       "uid": "TASKS:10899"
     },
     {
-      "source": "ZONES",
-      "zid": 64,
-      "floor": "Digital",
-      "row": 65,
-      "label": "\ud83d\udcbb OneTab",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "OneTab",
-      "uid": "ZONES:64"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 107,
       "row": 108,
@@ -819,10 +809,19 @@
       "sid": 881,
       "label": "Finish AE order",
       "uid": "SPIN_WHEEL:881"
+    },
+    {
+      "source": "ZONES",
+      "zid": 65,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Emails",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Emails",
+      "uid": "ZONES:65"
     }
   ],
-  "version": 2189,
-  "updated": "2026-09-10T07:28:47.515504+00:00",
+  "version": 2190,
+  "updated": "2026-09-10T07:46:13.355487+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "ZONES": 7,
