@@ -1,16 +1,6 @@
 {
   "tasks": [
     {
-      "source": "ZONES",
-      "zid": 90,
-      "floor": "Personal",
-      "row": 91,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Feet Care & Pedi",
-      "uid": "ZONES:90"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 486,
       "row": 7,
@@ -827,13 +817,22 @@
       "sid": 886,
       "label": "Smoothie take 1",
       "uid": "SPIN_WHEEL:886"
+    },
+    {
+      "source": "ZONES",
+      "zid": 81,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Exfoliation",
+      "uid": "ZONES:81"
     }
   ],
-  "version": 2202,
-  "updated": "2026-09-10T08:13:57.400762+00:00",
+  "version": 2203,
+  "updated": "2026-09-10T09:01:43.780333+00:00",
   "buckets": {
-    "ZONES": 7,
     "SPIN_WHEEL": 56,
+    "ZONES": 7,
     "TASKS": 22,
     "MAINTENANCE": 2,
     "COURAGE": 4
