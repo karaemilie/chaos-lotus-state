@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-10T21:44:28.050Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Remap Mudroom vac",
+      "_addedAt": "2026-09-10T23:21:58.856Z",
+      "_ts": "2026-09-10T23:21:58.966Z"
+    }
+  ],
+  "mirroredAt": "2026-09-10T23:21:59.227Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
