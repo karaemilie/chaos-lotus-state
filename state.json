@@ -767,13 +767,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 873,
-      "sid": 873,
-      "label": "Pick ceiling paint",
-      "uid": "SPIN_WHEEL:873"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 874,
       "sid": 874,
       "label": "Set up minima list",
@@ -830,10 +823,10 @@
       "uid": "SPIN_WHEEL:878"
     }
   ],
-  "version": 2179,
-  "updated": "2026-09-09T22:45:00.810662+00:00",
+  "version": 2180,
+  "updated": "2026-09-10T00:03:04.407003+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 54,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2,
