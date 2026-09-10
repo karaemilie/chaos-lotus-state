@@ -1,16 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-10T09:01:46.602Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Spray my boots",
+      "_addedAt": "2026-09-10T20:30:11.669Z",
+      "_ts": "2026-09-10T20:30:11.859Z"
+    }
+  ],
+  "mirroredAt": "2026-09-10T20:30:12.114Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-10T09:01:47.732327+00:00",
-  "lastAutoProcessed": [
-    "ZONES:90"
-  ],
-  "autoReset": [
-    "Personal"
-  ]
+    "adds": 1
+  }
 }
