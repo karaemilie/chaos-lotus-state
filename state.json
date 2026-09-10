@@ -651,13 +651,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 765,
-      "row": 24,
-      "label": "Check garage for coco husk",
-      "uid": "SPIN:765"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 811,
       "row": 33,
       "label": "Put away some 4th decor",
@@ -817,10 +810,10 @@
       "uid": "SPIN_WHEEL:884"
     }
   ],
-  "version": 2198,
-  "updated": "2026-09-10T08:07:01.256301+00:00",
+  "version": 2199,
+  "updated": "2026-09-10T08:07:43.151852+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 54,
     "ZONES": 7,
     "TASKS": 22,
     "COURAGE": 4,
