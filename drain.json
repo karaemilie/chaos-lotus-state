@@ -1,9 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 32,
+      "zid": 31,
+      "floor": "Main Floor",
+      "label": "🧺 Tahoe",
+      "uid": "ZONES:31",
+      "_ts": "2026-09-11T00:51:53.759Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-10T23:22:11.074Z",
+  "mirroredAt": "2026-09-11T00:51:54.031Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
