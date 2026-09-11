@@ -290,16 +290,6 @@
       "uid": "SPIN:871"
     },
     {
-      "source": "ZONES",
-      "zid": 31,
-      "floor": "Main Floor",
-      "row": 32,
-      "label": "\ud83e\uddfa Tahoe",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Tahoe",
-      "uid": "ZONES:31"
-    },
-    {
       "source": "TASKS",
       "id": 12012,
       "row": 323,
@@ -861,10 +851,19 @@
       "sid": 891,
       "label": "Remap Mudroom vac",
       "uid": "SPIN_WHEEL:891"
+    },
+    {
+      "source": "ZONES",
+      "zid": 32,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Music Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Music Room",
+      "uid": "ZONES:32"
     }
   ],
-  "version": 2208,
-  "updated": "2026-09-10T23:22:12.058761+00:00",
+  "version": 2209,
+  "updated": "2026-09-11T00:52:07.183375+00:00",
   "buckets": {
     "SPIN_WHEEL": 61,
     "ZONES": 7,
