@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-11T05:41:47.633Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find the perfect fit /ship to Ruth",
+      "_addedAt": "2026-09-11T20:36:30.202Z",
+      "_ts": "2026-09-11T20:36:30.386Z"
+    }
+  ],
+  "mirroredAt": "2026-09-11T20:36:30.649Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-11T05:41:48.361832+00:00",
-  "lastAutoProcessed": [
-    "ZONES:56"
-  ]
+    "adds": 1
+  }
 }
