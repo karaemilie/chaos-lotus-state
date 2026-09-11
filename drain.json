@@ -1,18 +1,19 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-11T00:52:57.073Z",
-  "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-11T00:52:58.090388+00:00",
-  "lastAutoProcessed": [
-    "ZONES:31",
-    "ZONES:75",
-    "SPIN:883"
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 57,
+      "zid": 56,
+      "floor": "Basement",
+      "label": "🧺 Basement Bathroom",
+      "uid": "ZONES:56",
+      "_ts": "2026-09-11T05:41:14.852Z"
+    }
   ],
-  "autoReset": [
-    "Plant"
-  ]
+  "adds": [],
+  "mirroredAt": "2026-09-11T05:41:15.228Z",
+  "counts": {
+    "completions": 1,
+    "adds": 0
+  }
 }
