@@ -15,16 +15,6 @@
       "uid": "SPIN:682"
     },
     {
-      "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "row": 77,
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 879,
       "row": 50,
@@ -44,13 +34,6 @@
       "row": 40,
       "label": "Finalize viola plan",
       "uid": "SPIN:857"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 883,
-      "row": 54,
-      "label": "Make more rice",
-      "uid": "SPIN:883"
     },
     {
       "source": "TASKS",
@@ -860,15 +843,24 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Music Room",
       "uid": "ZONES:32"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 2209,
-  "updated": "2026-09-11T00:52:07.183375+00:00",
+  "version": 2210,
+  "updated": "2026-09-11T00:52:54.043843+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
-    "ZONES": 7,
+    "SPIN_WHEEL": 60,
     "TASKS": 22,
     "MAINTENANCE": 2,
-    "COURAGE": 4
+    "COURAGE": 4,
+    "ZONES": 7
   }
 }
