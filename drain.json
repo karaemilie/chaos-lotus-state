@@ -1,35 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "ZONES",
-      "row": 32,
-      "zid": 31,
-      "floor": "Main Floor",
-      "label": "🧺 Tahoe",
-      "uid": "ZONES:31",
-      "_ts": "2026-09-11T00:51:53.759Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 77,
-      "zid": 75,
-      "floor": "Plant",
-      "label": "🌱 Main floor Down Low",
-      "uid": "ZONES:75",
-      "_ts": "2026-09-11T00:52:05.988Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 54,
-      "label": "Make more rice",
-      "uid": "SPIN:883",
-      "_ts": "2026-09-11T00:52:13.445Z"
-    }
-  ],
+  "completions": [],
   "adds": [],
-  "mirroredAt": "2026-09-11T00:52:13.704Z",
+  "mirroredAt": "2026-09-11T00:52:57.073Z",
   "counts": {
-    "completions": 3,
+    "completions": 0,
     "adds": 0
   }
 }
