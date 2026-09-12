@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-12T22:38:35.179Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "B internet -text lady",
+      "_addedAt": "2026-09-12T23:22:35.983Z",
+      "_ts": "2026-09-12T23:22:36.097Z"
+    }
+  ],
+  "mirroredAt": "2026-09-12T23:22:36.341Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-12T22:38:36.038947+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:894"
-  ]
+    "adds": 1
+  }
 }
