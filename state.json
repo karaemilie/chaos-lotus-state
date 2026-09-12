@@ -799,19 +799,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12033,
-      "label": "\u2728 Water snake plants",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12033"
-    },
-    {
-      "source": "TASKS",
       "id": 12061,
       "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
       "aw": 4,
@@ -849,10 +836,23 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:11937"
+    },
+    {
+      "source": "TASKS",
+      "id": 11941,
+      "label": "Test prep plan for Lincoln \ud83d\udcda",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:11941"
     }
   ],
-  "version": 2220,
-  "updated": "2026-09-12T22:05:56.645684+00:00",
+  "version": 2221,
+  "updated": "2026-09-12T22:15:49.988582+00:00",
   "buckets": {
     "SPIN_WHEEL": 61,
     "TASKS": 22,
