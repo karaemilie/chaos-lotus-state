@@ -411,20 +411,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10533,
-      "row": 224,
-      "label": "\u2b50 Lymow - circle back on blades and antenna",
-      "aw": 7,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10533"
-    },
-    {
-      "source": "TASKS",
       "id": 11716,
       "row": 226,
       "label": "\u2728 Measure Evan \ud83d\udcdd",
@@ -443,48 +429,6 @@
       "row": 5,
       "label": "5 minutes in Custom Cut Software \u23f1\ufe0f",
       "uid": "SPIN:465"
-    },
-    {
-      "source": "TASKS",
-      "id": 10615,
-      "row": 112,
-      "label": "\u2b50 Find replacement strings for the harp (missing 2) \ud83c\udfb5 \ud83d\udcdd",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10615"
-    },
-    {
-      "source": "TASKS",
-      "id": 11937,
-      "row": 285,
-      "label": "\u2b50 Project Genevieve loan requirement \ud83c\udf93\ud83d\udcb0",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11937"
-    },
-    {
-      "source": "TASKS",
-      "id": 11941,
-      "row": 289,
-      "label": "\u2b50 Test prep plan for Lincoln \ud83d\udcda",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:11941"
     },
     {
       "source": "SPIN_WHEEL",
@@ -691,13 +635,6 @@
       "uid": "TASKS:10173"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 886,
-      "sid": 886,
-      "label": "Smoothie take 1",
-      "uid": "SPIN_WHEEL:886"
-    },
-    {
       "source": "ZONES",
       "zid": 81,
       "floor": "Personal",
@@ -846,12 +783,64 @@
       "sid": 894,
       "label": "Morning smoothie!",
       "uid": "SPIN_WHEEL:894"
+    },
+    {
+      "source": "TASKS",
+      "id": 11710,
+      "label": "\u2728 Review IXL assessments for Evan",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 20,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11710"
+    },
+    {
+      "source": "TASKS",
+      "id": 11932,
+      "label": "\u2728 Send text update to mother-in-law \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11932"
+    },
+    {
+      "source": "TASKS",
+      "id": 12033,
+      "label": "\u2728 Water snake plants",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12033"
+    },
+    {
+      "source": "TASKS",
+      "id": 12061,
+      "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12061"
     }
   ],
-  "version": 2216,
-  "updated": "2026-09-12T21:58:22.897293+00:00",
+  "version": 2217,
+  "updated": "2026-09-12T21:59:00.237864+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 59,
     "TASKS": 22,
     "MAINTENANCE": 2,
     "COURAGE": 4,
