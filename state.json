@@ -835,12 +835,19 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12061"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 895,
+      "sid": 895,
+      "label": "Refund Galatea",
+      "uid": "SPIN_WHEEL:895"
     }
   ],
-  "version": 2217,
-  "updated": "2026-09-12T21:59:00.237864+00:00",
+  "version": 2218,
+  "updated": "2026-09-12T22:01:59.460992+00:00",
   "buckets": {
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 60,
     "TASKS": 22,
     "MAINTENANCE": 2,
     "COURAGE": 4,
