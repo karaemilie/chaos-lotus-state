@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 886,
+      "label": "Smoothie take 1",
+      "uid": "SPIN_WHEEL:886",
+      "_ts": "2026-09-12T21:58:10.997Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-09-12T21:58:06.946Z"
     }
   ],
-  "mirroredAt": "2026-09-12T21:58:07.160Z",
+  "mirroredAt": "2026-09-12T21:58:11.282Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
