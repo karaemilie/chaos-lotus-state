@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-12T07:58:59.126Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Morning smoothie!",
+      "_addedAt": "2026-09-12T21:58:06.632Z",
+      "_ts": "2026-09-12T21:58:06.946Z"
+    }
+  ],
+  "mirroredAt": "2026-09-12T21:58:07.160Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
