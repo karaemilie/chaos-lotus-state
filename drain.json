@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-12T07:54:30.745Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Do a micro courage task AM, afternoon, PM",
+      "_addedAt": "2026-09-12T07:58:45.770Z",
+      "_ts": "2026-09-12T07:58:45.918Z"
+    }
+  ],
+  "mirroredAt": "2026-09-12T07:58:46.162Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-12T07:54:31.903063+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:889",
-    "SPIN:881"
-  ]
+    "adds": 1
+  }
 }
