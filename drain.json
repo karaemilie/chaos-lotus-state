@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-12T21:59:01.404Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Refund Galatea",
+      "_addedAt": "2026-09-12T22:01:45.919Z",
+      "_ts": "2026-09-12T22:01:46.190Z"
+    }
+  ],
+  "mirroredAt": "2026-09-12T22:01:46.438Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-12T21:59:02.371482+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:886"
-  ]
+    "adds": 1
+  }
 }
