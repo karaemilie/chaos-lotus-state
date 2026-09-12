@@ -57,15 +57,6 @@
       "uid": "SPIN:832"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 107,
-      "row": 108,
-      "label": "\ud83c\udfe0 Clean kids humidifier",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Clean kids humidifier",
-      "uid": "MAINTENANCE:107"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11216,
       "parentRow": 159,
@@ -849,15 +840,23 @@
       "cat": "Family/Education",
       "critical": false,
       "uid": "TASKS:11941"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 109,
+      "label": "\ud83c\udfe0 Washing machine seal",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Washing machine seal",
+      "uid": "MAINTENANCE:109"
     }
   ],
-  "version": 2221,
-  "updated": "2026-09-12T22:15:49.988582+00:00",
+  "version": 2222,
+  "updated": "2026-09-12T22:19:22.673596+00:00",
   "buckets": {
     "SPIN_WHEEL": 61,
     "TASKS": 22,
-    "MAINTENANCE": 2,
     "COURAGE": 4,
-    "ZONES": 7
+    "ZONES": 7,
+    "MAINTENANCE": 2
   }
 }
