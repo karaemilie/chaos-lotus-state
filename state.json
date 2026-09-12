@@ -799,19 +799,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11932,
-      "label": "\u2728 Send text update to mother-in-law \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11932"
-    },
-    {
-      "source": "TASKS",
       "id": 12033,
       "label": "\u2728 Water snake plants",
       "aw": 4,
@@ -849,10 +836,23 @@
       "sid": 896,
       "label": "Assess coat rack space in crawl space",
       "uid": "SPIN_WHEEL:896"
+    },
+    {
+      "source": "TASKS",
+      "id": 11937,
+      "label": "Project Genevieve loan requirement \ud83c\udf93\ud83d\udcb0",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:11937"
     }
   ],
-  "version": 2219,
-  "updated": "2026-09-12T22:03:33.922980+00:00",
+  "version": 2220,
+  "updated": "2026-09-12T22:05:56.645684+00:00",
   "buckets": {
     "SPIN_WHEEL": 61,
     "TASKS": 22,
