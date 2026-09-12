@@ -138,34 +138,6 @@
       "uid": "SPIN:505"
     },
     {
-      "source": "TASKS",
-      "id": 10381,
-      "row": 90,
-      "label": "\u2b50 Submit Genevieve contacts to VSP for reimbursement",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10381"
-    },
-    {
-      "source": "TASKS",
-      "id": 10023,
-      "row": 6,
-      "label": "\u2b50 Measure width for cabinet shelves",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": "Bathroom Built-ins",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10023"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 576,
       "row": 12,
@@ -210,39 +182,11 @@
       "uid": "SPIN:794"
     },
     {
-      "source": "TASKS",
-      "id": 11946,
-      "row": 294,
-      "label": "\u2b50 Move quilt to right \ud83d\udecf\ufe0f",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11946"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 844,
       "row": 35,
       "label": "More work grammar app",
       "uid": "SPIN:844"
-    },
-    {
-      "source": "TASKS",
-      "id": 11942,
-      "row": 290,
-      "label": "\u2b50 Register greenThumb / homeschool brain on insta \ud83d\udcf1",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11942"
     },
     {
       "source": "SPIN_WHEEL",
@@ -344,13 +288,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 876,
-      "row": 48,
-      "label": "Load new dropbox",
-      "uid": "SPIN:876"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 853,
       "row": 37,
       "label": "8 reviews Set D",
@@ -409,20 +346,6 @@
       "row": 51,
       "label": "Refill kids flossers",
       "uid": "SPIN:880"
-    },
-    {
-      "source": "TASKS",
-      "id": 10333,
-      "row": 82,
-      "label": "\u2b50 English plan for L&E",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": "Lincoln Tasks",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10333"
     },
     {
       "source": "SPIN_WHEEL",
@@ -858,12 +781,77 @@
       "sid": 892,
       "label": "Find the perfect fit /ship to Ruth",
       "uid": "SPIN_WHEEL:892"
+    },
+    {
+      "source": "TASKS",
+      "id": 10981,
+      "label": "\u2728 Check balance on Matt's work card (1-800-344-5696) \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10981"
+    },
+    {
+      "source": "TASKS",
+      "id": 12041,
+      "label": "\u2728 Check in on Pura scents - time to refresh?",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12041"
+    },
+    {
+      "source": "TASKS",
+      "id": 12043,
+      "label": "\u2728 Mow the lawn \ud83c\udf31",
+      "aw": 3,
+      "pri": 3,
+      "dur": 45,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12043"
+    },
+    {
+      "source": "TASKS",
+      "id": 12073,
+      "label": "\u2728 Spend time on flower bouquet coding project",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": "Bouquet Tracker",
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12073"
+    },
+    {
+      "source": "TASKS",
+      "id": 12075,
+      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12075"
     }
   ],
-  "version": 2212,
-  "updated": "2026-09-11T20:36:44.657294+00:00",
+  "version": 2213,
+  "updated": "2026-09-12T07:53:47.585430+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 60,
     "TASKS": 22,
     "MAINTENANCE": 2,
     "COURAGE": 4,
