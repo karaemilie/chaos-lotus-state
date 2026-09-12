@@ -591,13 +591,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 881,
-      "row": 52,
-      "label": "Finish AE order",
-      "uid": "SPIN:881"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 882,
       "row": 53,
       "label": "Five minutes on icon set!",
@@ -729,13 +722,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 889,
-      "sid": 889,
-      "label": "Alcohol mix, fuzzy socks, microfiber to vehicle",
-      "uid": "SPIN_WHEEL:889"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 890,
       "sid": 890,
       "label": "Play with Meta Muse more",
@@ -848,10 +834,10 @@
       "uid": "TASKS:12075"
     }
   ],
-  "version": 2213,
-  "updated": "2026-09-12T07:53:47.585430+00:00",
+  "version": 2214,
+  "updated": "2026-09-12T07:54:29.741080+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 58,
     "TASKS": 22,
     "MAINTENANCE": 2,
     "COURAGE": 4,
