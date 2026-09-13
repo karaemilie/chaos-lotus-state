@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 37,
+      "label": "8 reviews Set D",
+      "uid": "SPIN:853",
+      "_ts": "2026-09-13T02:19:18.935Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-13T02:04:08.061Z",
+  "mirroredAt": "2026-09-13T02:19:19.315Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-13T02:04:09.508688+00:00",
-  "lastAutoProcessed": [
-    "SPIN:880"
-  ]
+  }
 }
