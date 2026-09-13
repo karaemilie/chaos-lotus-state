@@ -29,10 +29,17 @@
       "_ts": "2026-09-13T02:28:09.103Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-09-13T02:28:09.404Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Photograph Sun mirrors",
+      "_addedAt": "2026-09-13T02:30:08.492Z",
+      "_ts": "2026-09-13T02:30:08.733Z"
+    }
+  ],
+  "mirroredAt": "2026-09-13T02:30:09.140Z",
   "counts": {
     "completions": 4,
-    "adds": 0
+    "adds": 1
   }
 }
