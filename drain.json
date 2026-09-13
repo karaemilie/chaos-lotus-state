@@ -58,6 +58,15 @@
       "label": "💻 Due",
       "uid": "ZONES:66",
       "_ts": "2026-09-13T08:53:31.628Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 11,
+      "zid": 10,
+      "floor": "Upstairs",
+      "label": "🧺 Boys Room",
+      "uid": "ZONES:10",
+      "_ts": "2026-09-13T08:53:42.540Z"
     }
   ],
   "adds": [
@@ -92,9 +101,9 @@
       "_ts": "2026-09-13T08:42:19.236Z"
     }
   ],
-  "mirroredAt": "2026-09-13T08:53:31.833Z",
+  "mirroredAt": "2026-09-13T08:53:42.760Z",
   "counts": {
-    "completions": 8,
+    "completions": 9,
     "adds": 5
   }
 }
