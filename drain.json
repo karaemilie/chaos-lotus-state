@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 51,
+      "label": "Refill kids flossers",
+      "uid": "SPIN:880",
+      "_ts": "2026-09-13T02:03:53.737Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-13T01:14:28.016Z",
+  "mirroredAt": "2026-09-13T02:03:53.958Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-13T01:14:28.961283+00:00",
-  "lastAutoProcessed": [
-    "SPIN:862"
-  ]
+  }
 }
