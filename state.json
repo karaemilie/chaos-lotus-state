@@ -86,13 +86,6 @@
       "uid": "TASKS:10622"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 862,
-      "row": 42,
-      "label": "Freeze wraps with Even",
-      "uid": "SPIN:862"
-    },
-    {
       "source": "ZONES",
       "zid": 66,
       "floor": "Digital",
@@ -857,10 +850,10 @@
       "uid": "SPIN_WHEEL:898"
     }
   ],
-  "version": 2225,
-  "updated": "2026-09-13T01:13:45.902397+00:00",
+  "version": 2226,
+  "updated": "2026-09-13T01:14:26.721980+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 61,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 7,
