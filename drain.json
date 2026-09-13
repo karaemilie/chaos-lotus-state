@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-12T23:22:50.849Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pack up burritos",
+      "_addedAt": "2026-09-13T01:13:31.233Z",
+      "_ts": "2026-09-13T01:13:31.365Z"
+    }
+  ],
+  "mirroredAt": "2026-09-13T01:13:31.592Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
