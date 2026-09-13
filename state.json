@@ -326,13 +326,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 880,
-      "row": 51,
-      "label": "Refill kids flossers",
-      "uid": "SPIN:880"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 581,
       "row": 13,
       "label": "Take down dress shoes in closet",
@@ -850,10 +843,10 @@
       "uid": "SPIN_WHEEL:898"
     }
   ],
-  "version": 2226,
-  "updated": "2026-09-13T01:14:26.721980+00:00",
+  "version": 2227,
+  "updated": "2026-09-13T02:04:07.035454+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 60,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 7,
