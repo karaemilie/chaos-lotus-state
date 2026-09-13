@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 42,
+      "label": "Freeze wraps with Even",
+      "uid": "SPIN:862",
+      "_ts": "2026-09-13T01:13:40.049Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-09-13T01:13:31.365Z"
     }
   ],
-  "mirroredAt": "2026-09-13T01:13:31.592Z",
+  "mirroredAt": "2026-09-13T01:13:40.324Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
