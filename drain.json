@@ -49,6 +49,15 @@
       "label": "Clean out mudroom fridge crisper drawer",
       "uid": "SPIN:858",
       "_ts": "2026-09-13T08:53:02.716Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 67,
+      "zid": 66,
+      "floor": "Digital",
+      "label": "💻 Due",
+      "uid": "ZONES:66",
+      "_ts": "2026-09-13T08:53:31.628Z"
     }
   ],
   "adds": [
@@ -83,9 +92,9 @@
       "_ts": "2026-09-13T08:42:19.236Z"
     }
   ],
-  "mirroredAt": "2026-09-13T08:53:02.934Z",
+  "mirroredAt": "2026-09-13T08:53:31.833Z",
   "counts": {
-    "completions": 7,
+    "completions": 8,
     "adds": 5
   }
 }
