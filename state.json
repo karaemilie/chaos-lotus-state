@@ -392,20 +392,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12078,
-      "row": 355,
-      "label": "\u2728 Rotate out corduroy & winter clothes \ud83e\udde5\u2744\ufe0f",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12078"
-    },
-    {
-      "source": "TASKS",
       "id": 12059,
       "row": 339,
       "label": "\u2728 Weekly meal planning",
@@ -759,10 +745,23 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10173"
+    },
+    {
+      "source": "TASKS",
+      "id": 11963,
+      "label": "Put 30-day channel launch timeline on physical calendar + pull stickers \ud83d\udcc5",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11963"
     }
   ],
-  "version": 2248,
-  "updated": "2026-09-14T21:19:30.012619+00:00",
+  "version": 2249,
+  "updated": "2026-09-14T21:20:03.610422+00:00",
   "buckets": {
     "TASKS": 22,
     "ZONES": 8,
