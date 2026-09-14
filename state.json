@@ -713,13 +713,6 @@
       "uid": "SPIN_WHEEL:909"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 910,
-      "sid": 910,
-      "label": "Microfibers to vehicle",
-      "uid": "SPIN_WHEEL:910"
-    },
-    {
       "source": "TASKS",
       "id": 10173,
       "label": "Help Bentley apply for Gemini card via Jake's referral link \ud83d\udcdd",
@@ -766,12 +759,12 @@
       "uid": "SPIN_WHEEL:911"
     }
   ],
-  "version": 2251,
-  "updated": "2026-09-14T21:31:45.275148+00:00",
+  "version": 2252,
+  "updated": "2026-09-14T22:26:31.734319+00:00",
   "buckets": {
     "TASKS": 22,
     "ZONES": 8,
-    "SPIN_WHEEL": 46,
+    "SPIN_WHEEL": 45,
     "COURAGE": 4,
     "MAINTENANCE": 2
   }
