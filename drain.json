@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-14T22:26:33.186Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Test",
+      "_addedAt": "2026-09-14T23:09:52.286Z",
+      "_ts": "2026-09-14T23:09:52.420Z"
+    }
+  ],
+  "mirroredAt": "2026-09-14T23:09:52.685Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-14T22:26:34.046247+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:910"
-  ]
+    "adds": 1
+  }
 }
