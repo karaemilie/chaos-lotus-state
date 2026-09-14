@@ -767,14 +767,21 @@
       "sid": 909,
       "label": "Repack vehicle wipes",
       "uid": "SPIN_WHEEL:909"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 910,
+      "sid": 910,
+      "label": "Microfibers to vehicle",
+      "uid": "SPIN_WHEEL:910"
     }
   ],
-  "version": 2244,
-  "updated": "2026-09-14T21:14:57.721343+00:00",
+  "version": 2245,
+  "updated": "2026-09-14T21:15:54.406501+00:00",
   "buckets": {
     "TASKS": 22,
     "ZONES": 8,
-    "SPIN_WHEEL": 46,
+    "SPIN_WHEEL": 47,
     "COURAGE": 4,
     "MAINTENANCE": 2
   }
