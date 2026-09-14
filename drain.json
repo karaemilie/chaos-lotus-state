@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-14T21:22:44.588Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set up a cloud flare address for new habit tracker",
+      "_addedAt": "2026-09-14T21:31:28.483Z",
+      "_ts": "2026-09-14T21:31:28.647Z"
+    }
+  ],
+  "mirroredAt": "2026-09-14T21:31:28.981Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-14T21:22:45.599584+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12059"
-  ]
+    "adds": 1
+  }
 }
