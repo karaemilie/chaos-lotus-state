@@ -624,20 +624,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12060,
-      "row": 340,
-      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12060"
-    },
-    {
-      "source": "TASKS",
       "id": 10533,
       "row": 224,
       "label": "\u2b50 Lymow - circle back on blades and antenna",
@@ -760,10 +746,23 @@
       "sid": 910,
       "label": "Microfibers to vehicle",
       "uid": "SPIN_WHEEL:910"
+    },
+    {
+      "source": "TASKS",
+      "id": 10173,
+      "label": "Help Bentley apply for Gemini card via Jake's referral link \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10173"
     }
   ],
-  "version": 2247,
-  "updated": "2026-09-14T21:18:48.447795+00:00",
+  "version": 2248,
+  "updated": "2026-09-14T21:19:30.012619+00:00",
   "buckets": {
     "TASKS": 22,
     "ZONES": 8,
