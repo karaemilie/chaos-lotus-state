@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-14T20:20:14.231Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Try new nfc tags",
+      "_addedAt": "2026-09-14T21:14:01.069Z",
+      "_ts": "2026-09-14T21:14:01.215Z"
+    }
+  ],
+  "mirroredAt": "2026-09-14T21:14:01.461Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
