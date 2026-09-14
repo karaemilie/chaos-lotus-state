@@ -145,16 +145,6 @@
       "uid": "TASKS:12064"
     },
     {
-      "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "row": 76,
-      "label": "\ud83c\udf31 Family Room Plants",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Plants",
-      "uid": "ZONES:74"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 576,
       "row": 9,
@@ -761,10 +751,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Vacuum air filters",
       "uid": "MAINTENANCE:110"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
     }
   ],
-  "version": 2258,
-  "updated": "2026-09-14T23:30:04.461875+00:00",
+  "version": 2259,
+  "updated": "2026-09-14T23:52:02.492029+00:00",
   "buckets": {
     "TASKS": 22,
     "ZONES": 8,
