@@ -746,14 +746,21 @@
       "sid": 906,
       "label": "Adhesive for basket",
       "uid": "SPIN_WHEEL:906"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 907,
+      "sid": 907,
+      "label": "Figure out moleskin size needed",
+      "uid": "SPIN_WHEEL:907"
     }
   ],
-  "version": 2241,
-  "updated": "2026-09-14T19:26:41.372129+00:00",
+  "version": 2242,
+  "updated": "2026-09-14T20:20:15.625128+00:00",
   "buckets": {
     "TASKS": 22,
     "ZONES": 8,
-    "SPIN_WHEEL": 43,
+    "SPIN_WHEEL": 44,
     "COURAGE": 4,
     "MAINTENANCE": 2
   }
