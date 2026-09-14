@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-14T21:14:56.623Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Microfibers to vehicle",
+      "_addedAt": "2026-09-14T21:15:40.857Z",
+      "_ts": "2026-09-14T21:15:40.994Z"
+    }
+  ],
+  "mirroredAt": "2026-09-14T21:15:41.401Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
