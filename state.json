@@ -391,20 +391,6 @@
       "uid": "SPIN:878"
     },
     {
-      "source": "TASKS",
-      "id": 12059,
-      "row": 339,
-      "label": "\u2728 Weekly meal planning",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12059"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 109,
       "row": 110,
@@ -758,10 +744,23 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:11963"
+    },
+    {
+      "source": "TASKS",
+      "id": 12100,
+      "label": "Play with Meta Muse more \ud83c\udfa8",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12100"
     }
   ],
-  "version": 2249,
-  "updated": "2026-09-14T21:20:03.610422+00:00",
+  "version": 2250,
+  "updated": "2026-09-14T21:22:41.905386+00:00",
   "buckets": {
     "TASKS": 22,
     "ZONES": 8,
