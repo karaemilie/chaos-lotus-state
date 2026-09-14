@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 110,
+      "label": "🏠 Washing machine seal",
+      "uid": "MAINTENANCE:109",
+      "_ts": "2026-09-14T23:29:51.754Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-14T23:26:05.498Z",
+  "mirroredAt": "2026-09-14T23:29:52.069Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-14T23:26:06.546934+00:00",
-  "lastAutoProcessed": [
-    "ZONES:11"
-  ]
+  }
 }
