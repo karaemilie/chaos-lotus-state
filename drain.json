@@ -1,9 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-14T23:10:07.546Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 912,
+      "label": "Test",
+      "uid": "SPIN_WHEEL:912",
+      "_ts": "2026-09-14T23:10:22.184Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Test",
+      "_addedAt": "2026-09-14T23:09:52.286Z",
+      "_ts": "2026-09-14T23:09:52.420Z"
+    }
+  ],
+  "mirroredAt": "2026-09-14T23:10:22.452Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
