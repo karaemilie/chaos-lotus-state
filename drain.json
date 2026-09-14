@@ -2,16 +2,31 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
+      "row": 906,
+      "label": "Adhesive for basket",
+      "uid": "SPIN_WHEEL:906",
+      "_ts": "2026-09-14T21:17:44.755Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 907,
       "label": "Figure out moleskin size needed",
       "uid": "SPIN_WHEEL:907",
       "_ts": "2026-09-14T21:17:49.962Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12060,
+      "row": 340,
+      "label": "✨ Clip & pot new Hoya starts 🪴🌱",
+      "uid": "TASKS:12060",
+      "_ts": "2026-09-14T21:18:38.074Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-09-14T21:18:02.783Z",
+  "mirroredAt": "2026-09-14T21:18:38.398Z",
   "counts": {
-    "completions": 1,
+    "completions": 3,
     "adds": 0
   }
 }
