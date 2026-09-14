@@ -760,14 +760,21 @@
       "sid": 908,
       "label": "Try new nfc tags",
       "uid": "SPIN_WHEEL:908"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 909,
+      "sid": 909,
+      "label": "Repack vehicle wipes",
+      "uid": "SPIN_WHEEL:909"
     }
   ],
-  "version": 2243,
-  "updated": "2026-09-14T21:14:17.947219+00:00",
+  "version": 2244,
+  "updated": "2026-09-14T21:14:57.721343+00:00",
   "buckets": {
     "TASKS": 22,
     "ZONES": 8,
-    "SPIN_WHEEL": 45,
+    "SPIN_WHEEL": 46,
     "COURAGE": 4,
     "MAINTENANCE": 2
   }
