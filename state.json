@@ -371,15 +371,6 @@
       "uid": "SPIN:878"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 109,
-      "row": 110,
-      "label": "\ud83c\udfe0 Washing machine seal",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Washing machine seal",
-      "uid": "MAINTENANCE:109"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 844,
       "row": 21,
@@ -762,10 +753,18 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Upstairs Family Room",
       "uid": "ZONES:12"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 110,
+      "label": "\ud83c\udfe0 Vacuum air filters",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Vacuum air filters",
+      "uid": "MAINTENANCE:110"
     }
   ],
-  "version": 2257,
-  "updated": "2026-09-14T23:26:04.191222+00:00",
+  "version": 2258,
+  "updated": "2026-09-14T23:30:04.461875+00:00",
   "buckets": {
     "TASKS": 22,
     "ZONES": 8,
