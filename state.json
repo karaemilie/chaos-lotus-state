@@ -742,13 +742,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 907,
-      "sid": 907,
-      "label": "Figure out moleskin size needed",
-      "uid": "SPIN_WHEEL:907"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 908,
       "sid": 908,
       "label": "Try new nfc tags",
@@ -769,12 +762,12 @@
       "uid": "SPIN_WHEEL:910"
     }
   ],
-  "version": 2246,
-  "updated": "2026-09-14T21:18:00.749203+00:00",
+  "version": 2247,
+  "updated": "2026-09-14T21:18:48.447795+00:00",
   "buckets": {
     "TASKS": 22,
     "ZONES": 8,
-    "SPIN_WHEEL": 46,
+    "SPIN_WHEEL": 45,
     "COURAGE": 4,
     "MAINTENANCE": 2
   }
