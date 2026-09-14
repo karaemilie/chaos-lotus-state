@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-14T02:19:48.623Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Adhesive for basket",
+      "_addedAt": "2026-09-14T19:26:25.145Z",
+      "_ts": "2026-09-14T19:26:25.478Z"
+    }
+  ],
+  "mirroredAt": "2026-09-14T19:26:25.772Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
