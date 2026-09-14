@@ -169,16 +169,6 @@
       "uid": "SPIN:811"
     },
     {
-      "source": "ZONES",
-      "zid": 11,
-      "floor": "Upstairs",
-      "row": 12,
-      "label": "\ud83e\uddfa My Bathroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "My Bathroom",
-      "uid": "ZONES:11"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 904,
       "row": 42,
@@ -763,10 +753,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Main floor Down Low",
       "uid": "ZONES:75"
+    },
+    {
+      "source": "ZONES",
+      "zid": 12,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Upstairs Family Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Upstairs Family Room",
+      "uid": "ZONES:12"
     }
   ],
-  "version": 2256,
-  "updated": "2026-09-14T23:24:28.946951+00:00",
+  "version": 2257,
+  "updated": "2026-09-14T23:26:04.191222+00:00",
   "buckets": {
     "TASKS": 22,
     "ZONES": 8,
