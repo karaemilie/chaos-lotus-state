@@ -757,14 +757,21 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10020"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 914,
+      "sid": 914,
+      "label": "Topcoat my red NFC chip card",
+      "uid": "SPIN_WHEEL:914"
     }
   ],
-  "version": 2263,
-  "updated": "2026-09-15T03:12:40.655822+00:00",
+  "version": 2264,
+  "updated": "2026-09-15T03:54:50.926102+00:00",
   "buckets": {
     "TASKS": 22,
     "ZONES": 8,
-    "SPIN_WHEEL": 46,
+    "SPIN_WHEEL": 47,
     "COURAGE": 4,
     "MAINTENANCE": 2
   }
