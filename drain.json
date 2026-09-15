@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-15T04:33:52.168Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Plan for all state recording",
+      "_addedAt": "2026-09-15T04:49:20.048Z",
+      "_ts": "2026-09-15T04:49:20.180Z"
+    }
+  ],
+  "mirroredAt": "2026-09-15T04:49:20.440Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
