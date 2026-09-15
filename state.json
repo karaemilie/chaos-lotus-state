@@ -805,12 +805,19 @@
       "sid": 917,
       "label": "Adjust Morpho order",
       "uid": "SPIN_WHEEL:917"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 918,
+      "sid": 918,
+      "label": "Get sheet from Miriam",
+      "uid": "SPIN_WHEEL:918"
     }
   ],
-  "version": 2268,
-  "updated": "2026-09-15T07:56:32.874526+00:00",
+  "version": 2269,
+  "updated": "2026-09-15T22:04:31.350420+00:00",
   "buckets": {
-    "SPIN_WHEEL": 50,
+    "SPIN_WHEEL": 51,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 22,
