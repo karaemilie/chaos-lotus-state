@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-15T07:56:31.144Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Get sheet from Miriam",
+      "_addedAt": "2026-09-15T22:04:15.216Z",
+      "_ts": "2026-09-15T22:04:15.420Z"
+    }
+  ],
+  "mirroredAt": "2026-09-15T22:04:15.678Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
