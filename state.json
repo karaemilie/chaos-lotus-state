@@ -759,14 +759,21 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Wood polish on cabinets",
       "uid": "MAINTENANCE:111"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 913,
+      "sid": 913,
+      "label": "Fix my toenail",
+      "uid": "SPIN_WHEEL:913"
     }
   ],
-  "version": 2260,
-  "updated": "2026-09-15T00:03:56.815406+00:00",
+  "version": 2261,
+  "updated": "2026-09-15T00:17:09.280122+00:00",
   "buckets": {
     "TASKS": 22,
     "ZONES": 8,
-    "SPIN_WHEEL": 46,
+    "SPIN_WHEEL": 47,
     "COURAGE": 4,
     "MAINTENANCE": 2
   }
