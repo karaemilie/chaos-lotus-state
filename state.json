@@ -812,12 +812,19 @@
       "sid": 918,
       "label": "Get sheet from Miriam",
       "uid": "SPIN_WHEEL:918"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 919,
+      "sid": 919,
+      "label": "Replace Linc $20",
+      "uid": "SPIN_WHEEL:919"
     }
   ],
-  "version": 2269,
-  "updated": "2026-09-15T22:04:31.350420+00:00",
+  "version": 2270,
+  "updated": "2026-09-15T22:28:28.957492+00:00",
   "buckets": {
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 52,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 22,
