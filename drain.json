@@ -1,15 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-15T03:12:43.886Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Topcoat my red NFC chip card",
+      "_addedAt": "2026-09-15T03:54:34.124Z",
+      "_ts": "2026-09-15T03:54:34.225Z"
+    }
+  ],
+  "mirroredAt": "2026-09-15T03:54:34.482Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-15T03:12:44.814086+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:909",
-    "TASKS:12069",
-    "TASKS:12064"
-  ]
+    "adds": 1
+  }
 }
