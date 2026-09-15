@@ -89,20 +89,6 @@
       "uid": "SPIN:882"
     },
     {
-      "source": "TASKS",
-      "id": 12069,
-      "row": 348,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:12069"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 832,
       "row": 19,
@@ -129,20 +115,6 @@
       "row": 37,
       "label": "Compare Monarch and Simplifi \ud83d\udcb0\ud83d\udcca",
       "uid": "SPIN:899"
-    },
-    {
-      "source": "TASKS",
-      "id": 12064,
-      "row": 343,
-      "label": "\u2728 Check for South weekly schedule adjustments",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12064"
     },
     {
       "source": "SPIN_WHEEL",
@@ -759,10 +731,36 @@
       "sid": 913,
       "label": "Fix my toenail",
       "uid": "SPIN_WHEEL:913"
+    },
+    {
+      "source": "TASKS",
+      "id": 10113,
+      "label": "Price out benefit of switching to Premera with dual oral surgery benefits \ud83d\udcdd",
+      "aw": 3,
+      "pri": "ASAP",
+      "dur": 45,
+      "ml": "Hard",
+      "proj": "Insurance Admin",
+      "cat": "Finance",
+      "critical": true,
+      "uid": "TASKS:10113"
+    },
+    {
+      "source": "TASKS",
+      "id": 10020,
+      "label": "Cut sides for in-wall cabinets",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Medium",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10020"
     }
   ],
-  "version": 2262,
-  "updated": "2026-09-15T03:11:58.948363+00:00",
+  "version": 2263,
+  "updated": "2026-09-15T03:12:40.655822+00:00",
   "buckets": {
     "TASKS": 22,
     "ZONES": 8,
