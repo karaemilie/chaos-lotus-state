@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-15T22:04:30.430Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Replace Linc $20",
+      "_addedAt": "2026-09-15T22:28:12.637Z",
+      "_ts": "2026-09-15T22:28:12.856Z"
+    }
+  ],
+  "mirroredAt": "2026-09-15T22:28:13.085Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
