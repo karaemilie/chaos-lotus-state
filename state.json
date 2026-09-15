@@ -293,15 +293,6 @@
       "uid": "SPIN:901"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 108,
-      "row": 109,
-      "label": "\ud83c\udfe0 Vacuum kids ceiling fan",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Vacuum kids ceiling fan",
-      "uid": "MAINTENANCE:108"
-    },
-    {
       "source": "TASKS",
       "id": 11894,
       "row": 262,
@@ -760,10 +751,18 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook A",
       "uid": "ZONES:76"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 111,
+      "label": "\ud83c\udfe0 Wood polish on cabinets",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Wood polish on cabinets",
+      "uid": "MAINTENANCE:111"
     }
   ],
-  "version": 2259,
-  "updated": "2026-09-14T23:52:02.492029+00:00",
+  "version": 2260,
+  "updated": "2026-09-15T00:03:56.815406+00:00",
   "buckets": {
     "TASKS": 22,
     "ZONES": 8,
