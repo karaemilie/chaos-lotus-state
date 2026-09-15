@@ -1,18 +1,33 @@
 {
   "completions": [
     {
+      "source": "SPIN_WHEEL",
+      "row": 909,
+      "label": "Repack vehicle wipes",
+      "uid": "SPIN_WHEEL:909",
+      "_ts": "2026-09-15T03:11:43.473Z"
+    },
+    {
       "source": "TASKS",
       "id": 12069,
       "row": 348,
       "label": "✨ Clear the upstairs trashes",
       "uid": "TASKS:12069",
       "_ts": "2026-09-15T03:11:52.350Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12064,
+      "row": 343,
+      "label": "✨ Check for South weekly schedule adjustments",
+      "uid": "TASKS:12064",
+      "_ts": "2026-09-15T03:12:08.284Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-09-15T03:12:00.198Z",
+  "mirroredAt": "2026-09-15T03:12:08.502Z",
   "counts": {
-    "completions": 1,
+    "completions": 3,
     "adds": 0
   }
 }
