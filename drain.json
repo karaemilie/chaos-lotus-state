@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-16T23:09:54.137Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find the tag gun",
+      "_addedAt": "2026-09-16T23:59:02.469Z",
+      "_ts": "2026-09-16T23:59:02.592Z"
+    }
+  ],
+  "mirroredAt": "2026-09-16T23:59:02.851Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-16T23:09:55.461861+00:00",
-  "lastAutoProcessed": [
-    "ZONES:84"
-  ]
+    "adds": 1
+  }
 }
