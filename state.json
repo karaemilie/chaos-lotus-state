@@ -677,15 +677,6 @@
       "uid": "SPIN_WHEEL:921"
     },
     {
-      "source": "ZONES",
-      "zid": 78,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Family Room Props",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Props",
-      "uid": "ZONES:78"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 112,
       "label": "\ud83c\udfe0 Vacuum my bathroom ceiling fan",
@@ -827,10 +818,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Kitchen Up High",
       "uid": "ZONES:79"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Hallway",
+      "uid": "ZONES:80"
     }
   ],
-  "version": 2284,
-  "updated": "2026-09-16T22:13:58.180694+00:00",
+  "version": 2285,
+  "updated": "2026-09-16T22:14:39.623364+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "TASKS": 22,
