@@ -678,15 +678,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
-      "source": "ZONES",
       "zid": 78,
       "floor": "Plant",
       "label": "\ud83c\udf31 Family Room Props",
@@ -827,10 +818,19 @@
       "sid": 924,
       "label": "Finalize cello recital",
       "uid": "SPIN_WHEEL:924"
+    },
+    {
+      "source": "ZONES",
+      "zid": 79,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Kitchen Up High",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Kitchen Up High",
+      "uid": "ZONES:79"
     }
   ],
-  "version": 2283,
-  "updated": "2026-09-16T08:42:10.480536+00:00",
+  "version": 2284,
+  "updated": "2026-09-16T22:13:58.180694+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "TASKS": 22,
