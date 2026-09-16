@@ -826,13 +826,20 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Hand Care & Mani",
       "uid": "ZONES:84"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 922,
+      "sid": 922,
+      "label": "Check PayPal for ReelShort cancellation",
+      "uid": "SPIN_WHEEL:922"
     }
   ],
-  "version": 2278,
-  "updated": "2026-09-16T06:58:23.920061+00:00",
+  "version": 2279,
+  "updated": "2026-09-16T07:43:50.204647+00:00",
   "buckets": {
     "TASKS": 22,
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 55,
     "COURAGE": 4,
     "ZONES": 9,
     "MAINTENANCE": 2
