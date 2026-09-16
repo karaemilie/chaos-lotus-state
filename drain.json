@@ -8,12 +8,21 @@
       "label": "🌱 Corner Nook A",
       "uid": "ZONES:76",
       "_ts": "2026-09-16T06:27:57.621Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 77,
+      "zid": 75,
+      "floor": "Plant",
+      "label": "🌱 Main floor Down Low",
+      "uid": "ZONES:75",
+      "_ts": "2026-09-16T06:28:08.685Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-09-16T06:27:57.867Z",
+  "mirroredAt": "2026-09-16T06:28:08.917Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
