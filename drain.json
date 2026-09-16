@@ -21,19 +21,20 @@
       "label": "Topcoat my red NFC chip card",
       "uid": "SPIN:914",
       "_ts": "2026-09-16T08:39:38.502Z"
-    }
-  ],
-  "adds": [
+    },
     {
-      "source": "PLUS_ADD",
-      "label": "Try mineral spirits on grey table",
-      "_addedAt": "2026-09-16T08:39:04.191Z",
-      "_ts": "2026-09-16T08:39:04.321Z"
+      "source": "TASKS",
+      "id": 12030,
+      "row": 323,
+      "label": "✨ Create Kahn assignments for Lincoln & Evan",
+      "uid": "TASKS:12030",
+      "_ts": "2026-09-16T08:40:09.342Z"
     }
   ],
-  "mirroredAt": "2026-09-16T08:39:38.771Z",
+  "adds": [],
+  "mirroredAt": "2026-09-16T08:40:09.585Z",
   "counts": {
-    "completions": 3,
-    "adds": 1
+    "completions": 4,
+    "adds": 0
   }
 }
