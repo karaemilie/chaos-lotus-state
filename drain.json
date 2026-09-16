@@ -1,15 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-16T06:58:25.167Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Check PayPal for ReelShort cancellation",
+      "_addedAt": "2026-09-16T07:43:37.237Z",
+      "_ts": "2026-09-16T07:43:37.342Z"
+    }
+  ],
+  "mirroredAt": "2026-09-16T07:43:37.609Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-16T06:58:26.011430+00:00",
-  "lastAutoProcessed": [
-    "ZONES:68",
-    "ZONES:81",
-    "ZONES:82"
-  ]
+    "adds": 1
+  }
 }
