@@ -336,20 +336,6 @@
       "uid": "SPIN:337"
     },
     {
-      "source": "TASKS",
-      "id": 12030,
-      "row": 323,
-      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12030"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 918,
       "row": 52,
@@ -526,20 +512,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12105"
-    },
-    {
-      "source": "TASKS",
-      "id": 11894,
-      "row": 262,
-      "label": "\u2728 Evaluate placing Alaska Club membership on hold \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11894"
     },
     {
       "source": "SPIN_WHEEL",
@@ -822,10 +794,36 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12089"
+    },
+    {
+      "source": "TASKS",
+      "id": 10089,
+      "label": "Apply for Genevieve's credit card \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": "Genevieve Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10089"
+    },
+    {
+      "source": "TASKS",
+      "id": 10173,
+      "label": "Help Bentley apply for Gemini card via Jake's referral link \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10173"
     }
   ],
-  "version": 2281,
-  "updated": "2026-09-16T08:40:06.544308+00:00",
+  "version": 2282,
+  "updated": "2026-09-16T08:41:01.931293+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "TASKS": 22,
