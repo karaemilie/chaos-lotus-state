@@ -825,12 +825,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Mask",
       "uid": "ZONES:85"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 925,
+      "sid": 925,
+      "label": "Find the tag gun",
+      "uid": "SPIN_WHEEL:925"
     }
   ],
-  "version": 2288,
-  "updated": "2026-09-16T23:09:52.838055+00:00",
+  "version": 2289,
+  "updated": "2026-09-16T23:59:18.308823+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 56,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 9,
