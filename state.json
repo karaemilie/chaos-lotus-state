@@ -175,15 +175,6 @@
       "uid": "TASKS:11903"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 111,
-      "row": 112,
-      "label": "\ud83c\udfe0 Wood polish on cabinets",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Wood polish on cabinets",
-      "uid": "MAINTENANCE:111"
-    },
-    {
       "source": "TASKS",
       "id": 11987,
       "row": 306,
@@ -766,16 +757,6 @@
       "uid": "SPIN:832"
     },
     {
-      "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "row": 77,
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
-    },
-    {
       "source": "TASKS",
       "id": 12012,
       "row": 318,
@@ -831,15 +812,32 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook B",
       "uid": "ZONES:77"
+    },
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Props",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Props",
+      "uid": "ZONES:78"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 112,
+      "label": "\ud83c\udfe0 Vacuum my bathroom ceiling fan",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Vacuum my bathroom ceiling fan",
+      "uid": "MAINTENANCE:112"
     }
   ],
-  "version": 2275,
-  "updated": "2026-09-16T06:28:12.692467+00:00",
+  "version": 2276,
+  "updated": "2026-09-16T06:28:57.880960+00:00",
   "buckets": {
     "TASKS": 22,
     "SPIN_WHEEL": 54,
     "ZONES": 9,
-    "MAINTENANCE": 2,
-    "COURAGE": 4
+    "COURAGE": 4,
+    "MAINTENANCE": 2
   }
 }
