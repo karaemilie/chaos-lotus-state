@@ -619,20 +619,6 @@
       "uid": "SPIN:874"
     },
     {
-      "source": "TASKS",
-      "id": 12038,
-      "row": 326,
-      "label": "\u2728 Trash only to curb \ud83d\uddd1\ufe0f",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12038"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 879,
       "row": 28,
@@ -826,10 +812,23 @@
       "sid": 920,
       "label": "Paint ceiling",
       "uid": "SPIN_WHEEL:920"
+    },
+    {
+      "source": "TASKS",
+      "id": 12100,
+      "label": "Play with Meta Muse more \ud83c\udfa8",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12100"
     }
   ],
-  "version": 2272,
-  "updated": "2026-09-16T02:56:29.153793+00:00",
+  "version": 2273,
+  "updated": "2026-09-16T04:49:57.799516+00:00",
   "buckets": {
     "TASKS": 22,
     "SPIN_WHEEL": 53,
