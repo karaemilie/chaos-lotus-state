@@ -1,15 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 69,
+      "zid": 68,
+      "floor": "Digital",
+      "label": "💻 Photos",
+      "uid": "ZONES:68",
+      "_ts": "2026-09-16T06:57:21.052Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-16T06:28:59.095Z",
+  "mirroredAt": "2026-09-16T06:57:21.284Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-16T06:29:00.165978+00:00",
-  "lastAutoProcessed": [
-    "ZONES:76",
-    "ZONES:75",
-    "MAINTENANCE:111"
-  ]
+  }
 }
