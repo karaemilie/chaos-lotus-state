@@ -57,16 +57,6 @@
       "uid": "SPIN:856"
     },
     {
-      "source": "ZONES",
-      "zid": 82,
-      "floor": "Personal",
-      "row": 84,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Dermaplane",
-      "uid": "ZONES:82"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 566,
       "row": 8,
@@ -309,16 +299,6 @@
       "row": 39,
       "label": "Research internships for Jake",
       "uid": "SPIN:901"
-    },
-    {
-      "source": "ZONES",
-      "zid": 81,
-      "floor": "Personal",
-      "row": 83,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Exfoliation",
-      "uid": "ZONES:81"
     },
     {
       "source": "SPIN_WHEEL",
@@ -828,15 +808,33 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Reviews",
       "uid": "ZONES:69"
+    },
+    {
+      "source": "ZONES",
+      "zid": 83,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Retainer",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Retainer",
+      "uid": "ZONES:83"
+    },
+    {
+      "source": "ZONES",
+      "zid": 84,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Hand Care & Mani",
+      "uid": "ZONES:84"
     }
   ],
-  "version": 2277,
-  "updated": "2026-09-16T06:57:34.273548+00:00",
+  "version": 2278,
+  "updated": "2026-09-16T06:58:23.920061+00:00",
   "buckets": {
     "TASKS": 22,
     "SPIN_WHEEL": 54,
-    "ZONES": 9,
     "COURAGE": 4,
+    "ZONES": 9,
     "MAINTENANCE": 2
   }
 }
