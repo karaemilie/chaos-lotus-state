@@ -165,16 +165,6 @@
       "uid": "SPIN:912"
     },
     {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "row": 78,
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
-    },
-    {
       "source": "TASKS",
       "id": 11903,
       "row": 271,
@@ -832,10 +822,19 @@
       "sid": 921,
       "label": "Find algebra 1 S1 book**",
       "uid": "SPIN_WHEEL:921"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
     }
   ],
-  "version": 2274,
-  "updated": "2026-09-16T04:50:02.319700+00:00",
+  "version": 2275,
+  "updated": "2026-09-16T06:28:12.692467+00:00",
   "buckets": {
     "TASKS": 22,
     "SPIN_WHEEL": 54,
