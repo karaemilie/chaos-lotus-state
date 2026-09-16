@@ -2,18 +2,34 @@
   "completions": [
     {
       "source": "ZONES",
+      "row": 78,
+      "zid": 76,
+      "floor": "Plant",
+      "label": "🌱 Corner Nook A",
+      "uid": "ZONES:76",
+      "_ts": "2026-09-16T06:27:57.621Z"
+    },
+    {
+      "source": "ZONES",
       "row": 77,
       "zid": 75,
       "floor": "Plant",
       "label": "🌱 Main floor Down Low",
       "uid": "ZONES:75",
       "_ts": "2026-09-16T06:28:08.685Z"
+    },
+    {
+      "source": "MAINTENANCE",
+      "row": 112,
+      "label": "🏠 Wood polish on cabinets",
+      "uid": "MAINTENANCE:111",
+      "_ts": "2026-09-16T06:28:16.465Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-09-16T06:28:13.910Z",
+  "mirroredAt": "2026-09-16T06:28:16.677Z",
   "counts": {
-    "completions": 1,
+    "completions": 3,
     "adds": 0
   }
 }
