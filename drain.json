@@ -1,17 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-16T08:41:05.646Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Finalize cello recital",
+      "_addedAt": "2026-09-16T08:41:52.812Z",
+      "_ts": "2026-09-16T08:41:53.027Z"
+    }
+  ],
+  "mirroredAt": "2026-09-16T08:41:53.321Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-16T08:41:06.756469+00:00",
-  "lastAutoProcessed": [
-    "SPIN:913",
-    "SPIN:914",
-    "TASKS:11990",
-    "TASKS:12030",
-    "TASKS:11894"
-  ]
+    "adds": 1
+  }
 }
