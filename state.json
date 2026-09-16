@@ -683,15 +683,6 @@
       "uid": "ZONES:83"
     },
     {
-      "source": "ZONES",
-      "zid": 84,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Hand Care & Mani",
-      "uid": "ZONES:84"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 922,
       "sid": 922,
@@ -825,10 +816,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Stair Basket",
       "uid": "ZONES:13"
+    },
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Mask",
+      "uid": "ZONES:85"
     }
   ],
-  "version": 2287,
-  "updated": "2026-09-16T22:32:52.166895+00:00",
+  "version": 2288,
+  "updated": "2026-09-16T23:09:52.838055+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "TASKS": 22,
