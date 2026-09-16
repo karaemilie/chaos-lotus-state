@@ -521,16 +521,6 @@
       "uid": "SPIN:885"
     },
     {
-      "source": "ZONES",
-      "zid": 67,
-      "floor": "Digital",
-      "row": 68,
-      "label": "\ud83d\udcbb Quicken",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Quicken",
-      "uid": "ZONES:67"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 919,
       "row": 53,
@@ -827,10 +817,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Hallway",
       "uid": "ZONES:80"
+    },
+    {
+      "source": "ZONES",
+      "zid": 70,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb AmazonCart",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "AmazonCart",
+      "uid": "ZONES:70"
     }
   ],
-  "version": 2285,
-  "updated": "2026-09-16T22:14:39.623364+00:00",
+  "version": 2286,
+  "updated": "2026-09-16T22:16:56.604889+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "TASKS": 22,
