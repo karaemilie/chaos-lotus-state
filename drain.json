@@ -6,6 +6,13 @@
       "label": "✨ Put on new tattoo",
       "uid": "TASKS:12072",
       "_ts": "2026-09-16T23:59:18.076Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 925,
+      "label": "Find the tag gun",
+      "uid": "SPIN_WHEEL:925",
+      "_ts": "2026-09-16T23:59:49.063Z"
     }
   ],
   "adds": [
@@ -22,9 +29,9 @@
       "_ts": "2026-09-16T23:59:43.997Z"
     }
   ],
-  "mirroredAt": "2026-09-16T23:59:44.238Z",
+  "mirroredAt": "2026-09-16T23:59:49.300Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 2
   }
 }
