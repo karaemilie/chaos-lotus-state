@@ -434,16 +434,6 @@
       "uid": "SPIN:884"
     },
     {
-      "source": "ZONES",
-      "zid": 12,
-      "floor": "Upstairs",
-      "row": 13,
-      "label": "\ud83e\uddfa Upstairs Family Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Upstairs Family Room",
-      "uid": "ZONES:12"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 888,
       "row": 33,
@@ -826,10 +816,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "AmazonCart",
       "uid": "ZONES:70"
+    },
+    {
+      "source": "ZONES",
+      "zid": 13,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Stair Basket",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Stair Basket",
+      "uid": "ZONES:13"
     }
   ],
-  "version": 2286,
-  "updated": "2026-09-16T22:16:56.604889+00:00",
+  "version": 2287,
+  "updated": "2026-09-16T22:32:52.166895+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "TASKS": 22,
