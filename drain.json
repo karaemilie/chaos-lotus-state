@@ -2,18 +2,36 @@
   "completions": [
     {
       "source": "ZONES",
+      "row": 69,
+      "zid": 68,
+      "floor": "Digital",
+      "label": "💻 Photos",
+      "uid": "ZONES:68",
+      "_ts": "2026-09-16T06:57:21.052Z"
+    },
+    {
+      "source": "ZONES",
       "row": 83,
       "zid": 81,
       "floor": "Personal",
       "label": "👱‍♀️ Face Exfoliation",
       "uid": "ZONES:81",
       "_ts": "2026-09-16T06:57:31.811Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 84,
+      "zid": 82,
+      "floor": "Personal",
+      "label": "👱‍♀️ Dermaplane",
+      "uid": "ZONES:82",
+      "_ts": "2026-09-16T06:57:38.625Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-09-16T06:57:35.448Z",
+  "mirroredAt": "2026-09-16T06:57:38.839Z",
   "counts": {
-    "completions": 1,
+    "completions": 3,
     "adds": 0
   }
 }
