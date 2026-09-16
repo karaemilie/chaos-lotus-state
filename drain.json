@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 84,
+      "floor": "Personal",
+      "label": "👱‍♀️ Hand Care & Mani",
+      "uid": "ZONES:84",
+      "_ts": "2026-09-16T23:09:30.806Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-16T22:32:53.200Z",
+  "mirroredAt": "2026-09-16T23:09:31.099Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-16T22:32:53.982018+00:00",
-  "lastAutoProcessed": [
-    "ZONES:12"
-  ]
+  }
 }
