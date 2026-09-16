@@ -1,9 +1,25 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-16T08:39:16.058Z",
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11990,
+      "row": 309,
+      "label": "✨ Downgrade Hulu to ads plan if not using",
+      "uid": "TASKS:11990",
+      "_ts": "2026-09-16T08:39:20.085Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Try mineral spirits on grey table",
+      "_addedAt": "2026-09-16T08:39:04.191Z",
+      "_ts": "2026-09-16T08:39:04.321Z"
+    }
+  ],
+  "mirroredAt": "2026-09-16T08:39:20.296Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
