@@ -1,27 +1,6 @@
 {
   "tasks": [
     {
-      "source": "TASKS",
-      "id": 10913,
-      "row": 132,
-      "label": "\u2b50 Set up light box on a timer for boys 9-11am \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10913"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 913,
-      "row": 47,
-      "label": "Fix my toenail",
-      "uid": "SPIN:913"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 895,
       "row": 36,
@@ -34,20 +13,6 @@
       "row": 37,
       "label": "Compare Monarch and Simplifi \ud83d\udcb0\ud83d\udcca",
       "uid": "SPIN:899"
-    },
-    {
-      "source": "TASKS",
-      "id": 11990,
-      "row": 309,
-      "label": "\u2728 Downgrade Hulu to ads plan if not using",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11990"
     },
     {
       "source": "SPIN_WHEEL",
@@ -99,32 +64,11 @@
       "uid": "SPIN:802"
     },
     {
-      "source": "TASKS",
-      "id": 10173,
-      "row": 41,
-      "label": "\u2b50 Help Bentley apply for Gemini card via Jake's referral link \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 20,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10173"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 882,
       "row": 29,
       "label": "Five minutes on icon set!",
       "uid": "SPIN:882"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 914,
-      "row": 48,
-      "label": "Topcoat my red NFC chip card",
-      "uid": "SPIN:914"
     },
     {
       "source": "SPIN_WHEEL",
@@ -189,20 +133,6 @@
       "label": "\ud83d\udd25 Talk to Genevieve about her PFD",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:10187:0"
-    },
-    {
-      "source": "TASKS",
-      "id": 11765,
-      "row": 234,
-      "label": "\u2b50 Search for velvet bar stools \ud83e\ude91",
-      "aw": 3,
-      "pri": 3,
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11765"
     },
     {
       "source": "SPIN_WHEEL",
@@ -840,13 +770,65 @@
       "sid": 923,
       "label": "Try mineral spirits on grey table",
       "uid": "SPIN_WHEEL:923"
+    },
+    {
+      "source": "TASKS",
+      "id": 11708,
+      "label": "Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11708"
+    },
+    {
+      "source": "TASKS",
+      "id": 10981,
+      "label": "\u2728 Check balance on Matt's work card (1-800-344-5696) \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10981"
+    },
+    {
+      "source": "TASKS",
+      "id": 12072,
+      "label": "\u2728 Put on new tattoo",
+      "aw": 4,
+      "pri": 3,
+      "dur": 10,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12072"
+    },
+    {
+      "source": "TASKS",
+      "id": 12089,
+      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12089"
     }
   ],
-  "version": 2280,
-  "updated": "2026-09-16T08:39:16.986923+00:00",
+  "version": 2281,
+  "updated": "2026-09-16T08:40:06.544308+00:00",
   "buckets": {
+    "SPIN_WHEEL": 54,
     "TASKS": 22,
-    "SPIN_WHEEL": 56,
     "COURAGE": 4,
     "ZONES": 9,
     "MAINTENANCE": 2
