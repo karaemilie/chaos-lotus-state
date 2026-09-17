@@ -218,20 +218,6 @@
       "uid": "SPIN:484"
     },
     {
-      "source": "TASKS",
-      "id": 11989,
-      "row": 308,
-      "label": "\u2728 Cancel Khanmigo if not using",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11989"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 831,
       "row": 18,
@@ -630,14 +616,6 @@
       "uid": "SPIN_WHEEL:921"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 112,
-      "label": "\ud83c\udfe0 Vacuum my bathroom ceiling fan",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Vacuum my bathroom ceiling fan",
-      "uid": "MAINTENANCE:112"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 922,
       "sid": 922,
@@ -823,10 +801,31 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Garage",
       "uid": "ZONES:33"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 113,
+      "label": "\ud83c\udfe0 Clean library humidifier",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Clean library humidifier",
+      "uid": "MAINTENANCE:113"
+    },
+    {
+      "source": "TASKS",
+      "id": 10113,
+      "label": "Price out benefit of switching to Premera with dual oral surgery benefits \ud83d\udcdd",
+      "aw": 3,
+      "pri": "ASAP",
+      "dur": 45,
+      "ml": "Hard",
+      "proj": "Insurance Admin",
+      "cat": "Finance",
+      "critical": true,
+      "uid": "TASKS:10113"
     }
   ],
-  "version": 2295,
-  "updated": "2026-09-17T07:24:59.134369+00:00",
+  "version": 2296,
+  "updated": "2026-09-17T07:25:45.517006+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "TASKS": 22,
