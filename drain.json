@@ -31,6 +31,12 @@
       "label": "🧺 Music Room",
       "uid": "ZONES:32",
       "_ts": "2026-09-17T07:24:34.701Z"
+    },
+    {
+      "source": "MAINTENANCE",
+      "label": "🏠 Vacuum my bathroom ceiling fan",
+      "uid": "MAINTENANCE:112",
+      "_ts": "2026-09-17T07:24:57.476Z"
     }
   ],
   "adds": [
@@ -41,9 +47,9 @@
       "_ts": "2026-09-17T07:24:53.036Z"
     }
   ],
-  "mirroredAt": "2026-09-17T07:24:53.260Z",
+  "mirroredAt": "2026-09-17T07:24:57.708Z",
   "counts": {
-    "completions": 4,
+    "completions": 5,
     "adds": 1
   }
 }
