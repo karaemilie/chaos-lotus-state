@@ -657,15 +657,6 @@
       "uid": "ZONES:69"
     },
     {
-      "source": "ZONES",
-      "zid": 83,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Retainer",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Retainer",
-      "uid": "ZONES:83"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 922,
       "sid": 922,
@@ -824,10 +815,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Foyer",
       "uid": "ZONES:42"
+    },
+    {
+      "source": "ZONES",
+      "zid": 86,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Epilate Legs",
+      "uid": "ZONES:86"
     }
   ],
-  "version": 2293,
-  "updated": "2026-09-17T07:23:38.286796+00:00",
+  "version": 2294,
+  "updated": "2026-09-17T07:24:18.289897+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "TASKS": 22,
