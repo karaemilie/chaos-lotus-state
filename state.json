@@ -822,12 +822,19 @@
       "cat": "Finance",
       "critical": true,
       "uid": "TASKS:10113"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 926,
+      "sid": 926,
+      "label": "Bring vac hose upstairs",
+      "uid": "SPIN_WHEEL:926"
     }
   ],
-  "version": 2296,
-  "updated": "2026-09-17T07:25:45.517006+00:00",
+  "version": 2297,
+  "updated": "2026-09-17T07:25:49.507418+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 56,
     "TASKS": 22,
     "COURAGE": 4,
     "MAINTENANCE": 2,
