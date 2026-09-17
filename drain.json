@@ -1,16 +1,17 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-17T06:06:17.906Z",
-  "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-17T06:06:18.942681+00:00",
-  "lastAutoProcessed": [
-    "ZONES:57"
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 51,
+      "label": "Adjust Morpho order",
+      "uid": "SPIN:917",
+      "_ts": "2026-09-17T07:23:23.932Z"
+    }
   ],
-  "autoReset": [
-    "Basement"
-  ]
+  "adds": [],
+  "mirroredAt": "2026-09-17T07:23:24.159Z",
+  "counts": {
+    "completions": 1,
+    "adds": 0
+  }
 }
