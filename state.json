@@ -175,16 +175,6 @@
       "uid": "TASKS:12083"
     },
     {
-      "source": "ZONES",
-      "zid": 32,
-      "floor": "Main Floor",
-      "row": 33,
-      "label": "\ud83e\uddfa Music Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Music Room",
-      "uid": "ZONES:32"
-    },
-    {
       "source": "TASKS",
       "id": 11216,
       "row": 159,
@@ -648,15 +638,6 @@
       "uid": "MAINTENANCE:112"
     },
     {
-      "source": "ZONES",
-      "zid": 69,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Reviews",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Reviews",
-      "uid": "ZONES:69"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 922,
       "sid": 922,
@@ -824,15 +805,33 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Epilate Legs",
       "uid": "ZONES:86"
+    },
+    {
+      "source": "ZONES",
+      "zid": 91,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Evernote/ScannerPro",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Evernote/ScannerPro",
+      "uid": "ZONES:91"
+    },
+    {
+      "source": "ZONES",
+      "zid": 33,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Garage",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Garage",
+      "uid": "ZONES:33"
     }
   ],
-  "version": 2294,
-  "updated": "2026-09-17T07:24:18.289897+00:00",
+  "version": 2295,
+  "updated": "2026-09-17T07:24:59.134369+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "TASKS": 22,
     "COURAGE": 4,
-    "ZONES": 9,
-    "MAINTENANCE": 2
+    "MAINTENANCE": 2,
+    "ZONES": 9
   }
 }
