@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 51,
+      "label": "Adjust Morpho order",
+      "uid": "SPIN:917",
+      "_ts": "2026-09-17T07:23:23.932Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 83,
+      "floor": "Personal",
+      "label": "👱‍♀️ Retainer",
+      "uid": "ZONES:83",
+      "_ts": "2026-09-17T07:24:06.572Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-17T07:23:39.663Z",
+  "mirroredAt": "2026-09-17T07:24:06.886Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-09-17T07:23:40.584339+00:00",
-  "lastAutoProcessed": [
-    "SPIN:917"
-  ]
+  }
 }
