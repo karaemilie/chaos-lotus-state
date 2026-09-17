@@ -1,10 +1,50 @@
 {
   "completions": [
     {
+      "source": "SPIN_WHEEL",
+      "row": 51,
+      "label": "Adjust Morpho order",
+      "uid": "SPIN:917",
+      "_ts": "2026-09-17T07:23:23.932Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 83,
+      "floor": "Personal",
+      "label": "👱‍♀️ Retainer",
+      "uid": "ZONES:83",
+      "_ts": "2026-09-17T07:24:06.572Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 69,
+      "floor": "Digital",
+      "label": "💻 Reviews",
+      "uid": "ZONES:69",
+      "_ts": "2026-09-17T07:24:10.814Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 33,
+      "zid": 32,
+      "floor": "Main Floor",
+      "label": "🧺 Music Room",
+      "uid": "ZONES:32",
+      "_ts": "2026-09-17T07:24:34.701Z"
+    },
+    {
       "source": "MAINTENANCE",
       "label": "🏠 Vacuum my bathroom ceiling fan",
       "uid": "MAINTENANCE:112",
       "_ts": "2026-09-17T07:24:57.476Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11989,
+      "row": 308,
+      "label": "✨ Cancel Khanmigo if not using",
+      "uid": "TASKS:11989",
+      "_ts": "2026-09-17T07:25:11.894Z"
     }
   ],
   "adds": [
@@ -15,9 +55,9 @@
       "_ts": "2026-09-17T07:24:53.036Z"
     }
   ],
-  "mirroredAt": "2026-09-17T07:25:00.328Z",
+  "mirroredAt": "2026-09-17T07:25:12.124Z",
   "counts": {
-    "completions": 1,
+    "completions": 6,
     "adds": 1
   }
 }
