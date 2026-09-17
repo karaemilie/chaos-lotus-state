@@ -51,13 +51,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 917,
-      "row": 51,
-      "label": "Adjust Morpho order",
-      "uid": "SPIN:917"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 802,
       "row": 15,
       "label": "Get Bentley miles for cello",
@@ -833,10 +826,10 @@
       "uid": "ZONES:42"
     }
   ],
-  "version": 2292,
-  "updated": "2026-09-17T06:06:14.529090+00:00",
+  "version": 2293,
+  "updated": "2026-09-17T07:23:38.286796+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 55,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 9,
