@@ -825,12 +825,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:11194"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 925,
+      "sid": 925,
+      "label": "Find the tag gun",
+      "uid": "SPIN_WHEEL:925"
     }
   ],
-  "version": 2290,
-  "updated": "2026-09-17T00:00:04.403628+00:00",
+  "version": 2291,
+  "updated": "2026-09-17T00:00:09.062303+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 56,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 9,
