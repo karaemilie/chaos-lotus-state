@@ -214,16 +214,6 @@
       "uid": "COURAGE:11001:0"
     },
     {
-      "source": "ZONES",
-      "zid": 57,
-      "floor": "Basement",
-      "row": 58,
-      "label": "\ud83e\uddfa Basement Bar",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Bar",
-      "uid": "ZONES:57"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 901,
       "row": 39,
@@ -832,10 +822,19 @@
       "sid": 925,
       "label": "Find the tag gun",
       "uid": "SPIN_WHEEL:925"
+    },
+    {
+      "source": "ZONES",
+      "zid": 42,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Foyer",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Foyer",
+      "uid": "ZONES:42"
     }
   ],
-  "version": 2291,
-  "updated": "2026-09-17T00:00:09.062303+00:00",
+  "version": 2292,
+  "updated": "2026-09-17T06:06:14.529090+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "TASKS": 22,
