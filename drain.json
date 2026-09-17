@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-17T08:32:01.776Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Bentley passport schtuff",
+      "_addedAt": "2026-09-17T18:51:43.936Z",
+      "_ts": "2026-09-17T18:51:44.140Z"
+    }
+  ],
+  "mirroredAt": "2026-09-17T18:51:44.377Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
