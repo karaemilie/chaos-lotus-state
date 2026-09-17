@@ -724,19 +724,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12072,
-      "label": "\u2728 Put on new tattoo",
-      "aw": 4,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12072"
-    },
-    {
-      "source": "TASKS",
       "id": 12089,
       "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
       "aw": 4,
@@ -827,17 +814,23 @@
       "uid": "ZONES:85"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 925,
-      "sid": 925,
-      "label": "Find the tag gun",
-      "uid": "SPIN_WHEEL:925"
+      "source": "TASKS",
+      "id": 11194,
+      "label": "Write review for Gutierrez and post twin photos on FB",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11194"
     }
   ],
-  "version": 2289,
-  "updated": "2026-09-16T23:59:18.308823+00:00",
+  "version": 2290,
+  "updated": "2026-09-17T00:00:04.403628+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 55,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 9,
