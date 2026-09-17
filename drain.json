@@ -33,10 +33,17 @@
       "_ts": "2026-09-17T07:24:34.701Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-09-17T07:24:34.936Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Bring vac hose upstairs",
+      "_addedAt": "2026-09-17T07:24:52.938Z",
+      "_ts": "2026-09-17T07:24:53.036Z"
+    }
+  ],
+  "mirroredAt": "2026-09-17T07:24:53.260Z",
   "counts": {
     "completions": 4,
-    "adds": 0
+    "adds": 1
   }
 }
