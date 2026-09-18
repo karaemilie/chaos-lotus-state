@@ -1,5 +1,12 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Confetti",
+      "uid": "PLUS_ADD:Confetti:2026-09-18T09:39:01.895Z",
+      "_ts": "2026-09-18T09:39:28.735Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +15,9 @@
       "_ts": "2026-09-18T09:39:02.109Z"
     }
   ],
-  "mirroredAt": "2026-09-18T09:39:02.340Z",
+  "mirroredAt": "2026-09-18T09:39:28.952Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
