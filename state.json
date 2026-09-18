@@ -370,13 +370,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 852,
-      "row": 22,
-      "label": "five more reviews *",
-      "uid": "SPIN:852"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 928,
       "row": 57,
       "label": "Bentley WWAMI app",
@@ -867,10 +860,10 @@
       "uid": "SPIN_WHEEL:939"
     }
   ],
-  "version": 2325,
-  "updated": "2026-09-18T09:23:37.309834+00:00",
+  "version": 2326,
+  "updated": "2026-09-18T09:32:13.623522+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 61,
     "TASKS": 22,
     "ZONES": 7,
     "COURAGE": 4,
