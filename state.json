@@ -637,16 +637,6 @@
       "uid": "SPIN:726"
     },
     {
-      "source": "ZONES",
-      "zid": 42,
-      "floor": "Basement",
-      "row": 43,
-      "label": "\ud83e\uddfa Basement Foyer",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Foyer",
-      "uid": "ZONES:42"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 900,
       "row": 37,
@@ -883,10 +873,19 @@
       "sid": 937,
       "label": "Add growth vitamins to Evan\u2019s box",
       "uid": "SPIN_WHEEL:937"
+    },
+    {
+      "source": "ZONES",
+      "zid": 43,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Craft Zone",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Craft Zone",
+      "uid": "ZONES:43"
     }
   ],
-  "version": 2316,
-  "updated": "2026-09-18T05:57:48.778501+00:00",
+  "version": 2317,
+  "updated": "2026-09-18T06:15:49.972818+00:00",
   "buckets": {
     "SPIN_WHEEL": 64,
     "TASKS": 22,
