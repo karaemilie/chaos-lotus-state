@@ -1,16 +1,18 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-18T01:50:00.700Z",
-  "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-18T01:50:01.911862+00:00",
-  "lastAutoProcessed": [
-    "ZONES:70"
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "🌱 Hallway",
+      "uid": "ZONES:80",
+      "_ts": "2026-09-18T01:55:34.965Z"
+    }
   ],
-  "autoReset": [
-    "Digital"
-  ]
+  "adds": [],
+  "mirroredAt": "2026-09-18T01:55:35.337Z",
+  "counts": {
+    "completions": 1,
+    "adds": 0
+  }
 }
