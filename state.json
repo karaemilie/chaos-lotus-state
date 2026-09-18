@@ -281,13 +281,6 @@
       "uid": "SPIN:337"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 918,
-      "row": 52,
-      "label": "Get sheet from Miriam",
-      "uid": "SPIN:918"
-    },
-    {
       "source": "TASKS",
       "id": 12043,
       "row": 329,
@@ -851,10 +844,10 @@
       "uid": "ZONES:59"
     }
   ],
-  "version": 2305,
-  "updated": "2026-09-18T02:19:12.157251+00:00",
+  "version": 2306,
+  "updated": "2026-09-18T02:19:43.717391+00:00",
   "buckets": {
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 58,
     "TASKS": 22,
     "COURAGE": 4,
     "MAINTENANCE": 2,
