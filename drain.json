@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-18T09:36:49.836Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 939,
+      "label": "New test",
+      "uid": "SPIN_WHEEL:939",
+      "_ts": "2026-09-18T09:36:37.088Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "New newtest",
+      "_addedAt": "2026-09-18T09:37:09.262Z",
+      "_ts": "2026-09-18T09:37:09.476Z"
+    }
+  ],
+  "mirroredAt": "2026-09-18T09:37:09.704Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-18T09:36:50.560339+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:939"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
