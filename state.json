@@ -141,16 +141,6 @@
       "uid": "SPIN:844"
     },
     {
-      "source": "ZONES",
-      "zid": 85,
-      "floor": "Personal",
-      "row": 87,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Mask",
-      "uid": "ZONES:85"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 888,
       "row": 32,
@@ -226,20 +216,6 @@
       "row": 59,
       "label": "Schedule weekly Viola lessons",
       "uid": "SPIN:930"
-    },
-    {
-      "source": "TASKS",
-      "id": 12091,
-      "row": 356,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12091"
     },
     {
       "source": "TASKS",
@@ -882,10 +858,32 @@
       "sid": 938,
       "label": "First flight for Jake",
       "uid": "SPIN_WHEEL:938"
+    },
+    {
+      "source": "ZONES",
+      "zid": 87,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Eyebrows",
+      "uid": "ZONES:87"
+    },
+    {
+      "source": "TASKS",
+      "id": 10237,
+      "label": "Cancel Slate card",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10237"
     }
   ],
-  "version": 2319,
-  "updated": "2026-09-18T09:16:47.081894+00:00",
+  "version": 2320,
+  "updated": "2026-09-18T09:17:24.160757+00:00",
   "buckets": {
     "SPIN_WHEEL": 64,
     "TASKS": 22,
