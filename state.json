@@ -274,20 +274,6 @@
       "uid": "SPIN:870"
     },
     {
-      "source": "TASKS",
-      "id": 10020,
-      "row": 5,
-      "label": "\u2b50 Cut sides for in-wall cabinets",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 45,
-      "ml": "Medium",
-      "proj": "Bathroom Built-ins",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10020"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 337,
       "row": 4,
@@ -794,15 +780,6 @@
       "uid": "ZONES:91"
     },
     {
-      "source": "ZONES",
-      "zid": 33,
-      "floor": "Main Floor",
-      "label": "\ud83e\uddfa Garage",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Garage",
-      "uid": "ZONES:33"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 113,
       "label": "\ud83c\udfe0 Clean library humidifier",
@@ -850,10 +827,32 @@
       "sid": 929,
       "label": "Bentley passport schtuff",
       "uid": "SPIN_WHEEL:929"
+    },
+    {
+      "source": "ZONES",
+      "zid": 34,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Kitchen",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Kitchen",
+      "uid": "ZONES:34"
+    },
+    {
+      "source": "TASKS",
+      "id": 12091,
+      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12091"
     }
   ],
-  "version": 2300,
-  "updated": "2026-09-17T18:51:57.765469+00:00",
+  "version": 2301,
+  "updated": "2026-09-18T01:39:58.430462+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 22,
