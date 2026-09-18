@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 45,
+      "label": "Test",
+      "uid": "SPIN:912",
+      "_ts": "2026-09-18T09:23:25.518Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-18T09:19:04.394Z",
+  "mirroredAt": "2026-09-18T09:23:25.856Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
