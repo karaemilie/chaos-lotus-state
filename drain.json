@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 91,
+      "floor": "Digital",
+      "label": "💻 Evernote/ScannerPro",
+      "uid": "ZONES:91",
+      "_ts": "2026-09-18T02:18:56.728Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 52,
+      "label": "Get sheet from Miriam",
+      "uid": "SPIN:918",
+      "_ts": "2026-09-18T02:19:32.614Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-18T02:19:13.441Z",
+  "mirroredAt": "2026-09-18T02:19:32.895Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-09-18T02:19:14.451311+00:00",
-  "lastAutoProcessed": [
-    "ZONES:91"
-  ]
+  }
 }
