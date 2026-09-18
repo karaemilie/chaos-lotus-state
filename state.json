@@ -858,12 +858,19 @@
       "sid": 939,
       "label": "New newtest",
       "uid": "SPIN_WHEEL:939"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 940,
+      "sid": 940,
+      "label": "Confetti",
+      "uid": "SPIN_WHEEL:940"
     }
   ],
-  "version": 2330,
-  "updated": "2026-09-18T09:38:05.987832+00:00",
+  "version": 2331,
+  "updated": "2026-09-18T09:39:34.107347+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 62,
     "TASKS": 22,
     "ZONES": 7,
     "COURAGE": 4,
