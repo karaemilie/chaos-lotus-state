@@ -2,16 +2,55 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
+      "row": 39,
+      "label": "Fix up living room light strip",
+      "uid": "SPIN:902",
+      "_ts": "2026-09-18T09:16:34.012Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 87,
+      "zid": 85,
+      "floor": "Personal",
+      "label": "👱‍♀️ Face Mask",
+      "uid": "ZONES:85",
+      "_ts": "2026-09-18T09:16:48.994Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12091,
+      "row": 356,
+      "label": "✨ Use Claude budget on new projects or app feature development 🧠⏳ 📝",
+      "uid": "TASKS:12091",
+      "_ts": "2026-09-18T09:17:10.972Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12089,
+      "row": 354,
+      "label": "✨ New habit for week? Or new stacked habit? Assess!",
+      "uid": "TASKS:12089",
+      "_ts": "2026-09-18T09:17:35.943Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 55,
       "label": "Bring vac hose upstairs",
       "uid": "SPIN:926",
       "_ts": "2026-09-18T09:17:50.711Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 60,
+      "label": "Tessssy",
+      "uid": "SPIN:931",
+      "_ts": "2026-09-18T09:18:03.187Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-09-18T09:17:56.222Z",
+  "mirroredAt": "2026-09-18T09:18:03.414Z",
   "counts": {
-    "completions": 1,
+    "completions": 6,
     "adds": 0
   }
 }
