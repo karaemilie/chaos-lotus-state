@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-18T03:39:19.434Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Make more smoothie mix",
+      "_addedAt": "2026-09-18T05:56:01.441Z",
+      "_ts": "2026-09-18T05:56:01.869Z"
+    }
+  ],
+  "mirroredAt": "2026-09-18T05:56:02.090Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
