@@ -1,15 +1,42 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 39,
+      "label": "Fix up living room light strip",
+      "uid": "SPIN:902",
+      "_ts": "2026-09-18T09:16:34.012Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 87,
+      "zid": 85,
+      "floor": "Personal",
+      "label": "👱‍♀️ Face Mask",
+      "uid": "ZONES:85",
+      "_ts": "2026-09-18T09:16:48.994Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12091,
+      "row": 356,
+      "label": "✨ Use Claude budget on new projects or app feature development 🧠⏳ 📝",
+      "uid": "TASKS:12091",
+      "_ts": "2026-09-18T09:17:10.972Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12089,
+      "row": 354,
+      "label": "✨ New habit for week? Or new stacked habit? Assess!",
+      "uid": "TASKS:12089",
+      "_ts": "2026-09-18T09:17:35.943Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-18T09:17:27.222Z",
+  "mirroredAt": "2026-09-18T09:17:36.171Z",
   "counts": {
-    "completions": 0,
+    "completions": 4,
     "adds": 0
-  },
-  "processedAt": "2026-09-18T09:17:28.214240+00:00",
-  "lastAutoProcessed": [
-    "ZONES:85",
-    "SPIN:902",
-    "TASKS:12091"
-  ]
+  }
 }
