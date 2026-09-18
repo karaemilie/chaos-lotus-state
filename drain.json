@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-18T03:34:45.685Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Bentley ticket for fall break",
+      "_addedAt": "2026-09-18T03:38:29.469Z",
+      "_ts": "2026-09-18T03:38:29.599Z"
+    }
+  ],
+  "mirroredAt": "2026-09-18T03:38:29.850Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
