@@ -1,9 +1,23 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-18T09:48:58.033Z",
+  "completions": [
+    {
+      "source": "PLUS_ADD",
+      "label": "No one has been",
+      "uid": "PLUS_ADD:No one has been:2026-09-18T09:48:42.924Z",
+      "_ts": "2026-09-18T09:49:15.506Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "No one has been",
+      "_addedAt": "2026-09-18T09:48:42.924Z",
+      "_ts": "2026-09-18T09:48:43.118Z"
+    }
+  ],
+  "mirroredAt": "2026-09-18T09:49:15.747Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
