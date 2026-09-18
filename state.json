@@ -745,15 +745,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 86,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Epilate Legs",
-      "uid": "ZONES:86"
-    },
-    {
-      "source": "ZONES",
       "zid": 91,
       "floor": "Digital",
       "label": "\ud83d\udcbb Evernote/ScannerPro",
@@ -849,10 +840,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Bedroom",
       "uid": "ZONES:73"
+    },
+    {
+      "source": "ZONES",
+      "zid": 87,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Eyebrows",
+      "uid": "ZONES:87"
     }
   ],
-  "version": 2303,
-  "updated": "2026-09-18T01:55:47.402723+00:00",
+  "version": 2304,
+  "updated": "2026-09-18T02:16:36.712561+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 22,
