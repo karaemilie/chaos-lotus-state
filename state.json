@@ -882,12 +882,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Craft Zone",
       "uid": "ZONES:43"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 938,
+      "sid": 938,
+      "label": "First flight for Jake",
+      "uid": "SPIN_WHEEL:938"
     }
   ],
-  "version": 2317,
-  "updated": "2026-09-18T06:15:49.972818+00:00",
+  "version": 2318,
+  "updated": "2026-09-18T07:13:50.670257+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 65,
     "TASKS": 22,
     "ZONES": 7,
     "COURAGE": 4,
