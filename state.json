@@ -744,15 +744,6 @@
       "uid": "ZONES:42"
     },
     {
-      "source": "ZONES",
-      "zid": 91,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Evernote/ScannerPro",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Evernote/ScannerPro",
-      "uid": "ZONES:91"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 113,
       "label": "\ud83c\udfe0 Clean library humidifier",
@@ -849,10 +840,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Eyebrows",
       "uid": "ZONES:87"
+    },
+    {
+      "source": "ZONES",
+      "zid": 59,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Quicken",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Quicken",
+      "uid": "ZONES:59"
     }
   ],
-  "version": 2304,
-  "updated": "2026-09-18T02:16:36.712561+00:00",
+  "version": 2305,
+  "updated": "2026-09-18T02:19:12.157251+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 22,
