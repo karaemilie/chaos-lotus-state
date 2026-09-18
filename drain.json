@@ -1,9 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 33,
+      "floor": "Main Floor",
+      "label": "🧺 Garage",
+      "uid": "ZONES:33",
+      "_ts": "2026-09-18T01:39:45.975Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-17T18:51:56.721Z",
+  "mirroredAt": "2026-09-18T01:39:46.219Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
