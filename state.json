@@ -698,15 +698,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 80,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Hallway",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Hallway",
-      "uid": "ZONES:80"
-    },
-    {
-      "source": "ZONES",
       "zid": 13,
       "floor": "Upstairs",
       "label": "\ud83e\uddfa Stair Basket",
@@ -849,10 +840,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Emails",
       "uid": "ZONES:58"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 2302,
-  "updated": "2026-09-18T01:49:57.999455+00:00",
+  "version": 2303,
+  "updated": "2026-09-18T01:55:47.402723+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 22,
