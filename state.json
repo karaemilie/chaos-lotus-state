@@ -865,12 +865,19 @@
       "sid": 940,
       "label": "Confetti",
       "uid": "SPIN_WHEEL:940"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 941,
+      "sid": 941,
+      "label": "No one has been",
+      "uid": "SPIN_WHEEL:941"
     }
   ],
-  "version": 2331,
-  "updated": "2026-09-18T09:39:34.107347+00:00",
+  "version": 2332,
+  "updated": "2026-09-18T09:48:59.118038+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 63,
     "TASKS": 22,
     "ZONES": 7,
     "COURAGE": 4,
