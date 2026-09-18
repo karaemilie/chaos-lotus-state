@@ -384,13 +384,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 926,
-      "row": 55,
-      "label": "Bring vac hose upstairs",
-      "uid": "SPIN:926"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 811,
       "row": 16,
       "label": "Put away some 4th decor",
@@ -562,13 +555,6 @@
       "row": 4,
       "label": "Log into Higgsfield on computer**",
       "uid": "SPIN:337"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 931,
-      "row": 60,
-      "label": "Tessssy",
-      "uid": "SPIN:931"
     },
     {
       "source": "SPIN_WHEEL",
@@ -881,10 +867,10 @@
       "uid": "TASKS:10113"
     }
   ],
-  "version": 2321,
-  "updated": "2026-09-18T09:17:53.363432+00:00",
+  "version": 2322,
+  "updated": "2026-09-18T09:18:33.203786+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 62,
     "TASKS": 22,
     "ZONES": 7,
     "COURAGE": 4,
