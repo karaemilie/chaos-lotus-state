@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-18T06:15:51.029Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "First flight for Jake",
+      "_addedAt": "2026-09-18T07:13:37.695Z",
+      "_ts": "2026-09-18T07:13:37.835Z"
+    }
+  ],
+  "mirroredAt": "2026-09-18T07:13:38.117Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-18T06:15:51.852520+00:00",
-  "lastAutoProcessed": [
-    "ZONES:42"
-  ]
+    "adds": 1
+  }
 }
