@@ -707,15 +707,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 70,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb AmazonCart",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "AmazonCart",
-      "uid": "ZONES:70"
-    },
-    {
-      "source": "ZONES",
       "zid": 13,
       "floor": "Upstairs",
       "label": "\ud83e\uddfa Stair Basket",
@@ -849,10 +840,19 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12091"
+    },
+    {
+      "source": "ZONES",
+      "zid": 58,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Emails",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Emails",
+      "uid": "ZONES:58"
     }
   ],
-  "version": 2301,
-  "updated": "2026-09-18T01:39:58.430462+00:00",
+  "version": 2302,
+  "updated": "2026-09-18T01:49:57.999455+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 22,
