@@ -44,13 +44,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 902,
-      "row": 39,
-      "label": "Fix up living room light strip",
-      "uid": "SPIN:902"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 614,
       "row": 10,
       "label": "More garage film work!",
@@ -891,10 +884,10 @@
       "uid": "SPIN_WHEEL:938"
     }
   ],
-  "version": 2318,
-  "updated": "2026-09-18T07:13:50.670257+00:00",
+  "version": 2319,
+  "updated": "2026-09-18T09:16:47.081894+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "TASKS": 22,
     "ZONES": 7,
     "COURAGE": 4,
