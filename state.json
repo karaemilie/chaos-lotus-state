@@ -782,15 +782,6 @@
       "uid": "SPIN_WHEEL:938"
     },
     {
-      "source": "ZONES",
-      "zid": 87,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Eyebrows",
-      "uid": "ZONES:87"
-    },
-    {
       "source": "TASKS",
       "id": 10237,
       "label": "Cancel Slate card",
@@ -869,10 +860,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Quicken",
       "uid": "ZONES:59"
+    },
+    {
+      "source": "ZONES",
+      "zid": 88,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Teeth Whitening",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Teeth Whitening",
+      "uid": "ZONES:88"
     }
   ],
-  "version": 2338,
-  "updated": "2026-09-19T04:35:59.279343+00:00",
+  "version": 2339,
+  "updated": "2026-09-19T05:28:55.349779+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 22,
