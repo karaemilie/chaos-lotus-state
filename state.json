@@ -875,13 +875,20 @@
       "sid": 945,
       "label": "Set up Monarch",
       "uid": "SPIN_WHEEL:945"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 946,
+      "sid": 946,
+      "label": "Evan bday gifts",
+      "uid": "SPIN_WHEEL:946"
     }
   ],
-  "version": 2347,
-  "updated": "2026-09-19T06:47:24.870071+00:00",
+  "version": 2348,
+  "updated": "2026-09-19T06:47:26.832279+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 64,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 22
