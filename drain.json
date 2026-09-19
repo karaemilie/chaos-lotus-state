@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 111,
+      "label": "🏠 Vacuum air filters",
+      "uid": "MAINTENANCE:110",
+      "_ts": "2026-09-19T02:39:16.482Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-19T01:54:12.958Z",
+  "mirroredAt": "2026-09-19T02:39:16.845Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-19T01:54:13.751923+00:00",
-  "lastAutoProcessed": [
-    "SPIN:891"
-  ]
+  }
 }
