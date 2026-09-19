@@ -1,13 +1,26 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-19T06:42:56.218Z",
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 75,
+      "zid": 73,
+      "floor": "Plant",
+      "label": "🌱 Bedroom",
+      "uid": "ZONES:73",
+      "_ts": "2026-09-19T06:42:39.684Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Label & send All State files to Mr Levi",
+      "_addedAt": "2026-09-19T06:43:17.371Z",
+      "_ts": "2026-09-19T06:43:17.496Z"
+    }
+  ],
+  "mirroredAt": "2026-09-19T06:43:17.741Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-19T06:42:57.126492+00:00",
-  "lastAutoProcessed": [
-    "ZONES:73"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
