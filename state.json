@@ -493,15 +493,6 @@
       "uid": "TASKS:10659"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 110,
-      "row": 111,
-      "label": "\ud83c\udfe0 Vacuum air filters",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Vacuum air filters",
-      "uid": "MAINTENANCE:110"
-    },
-    {
       "source": "TASKS",
       "id": 12066,
       "row": 337,
@@ -865,10 +856,18 @@
       "sid": 941,
       "label": "No one has been",
       "uid": "SPIN_WHEEL:941"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 114,
+      "label": "\ud83c\udfe0 Vacuum kids bathroom ceiling fan",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Vacuum kids bathroom ceiling fan",
+      "uid": "MAINTENANCE:114"
     }
   ],
-  "version": 2334,
-  "updated": "2026-09-19T01:54:11.753766+00:00",
+  "version": 2335,
+  "updated": "2026-09-19T02:39:29.948176+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "TASKS": 22,
