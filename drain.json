@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-19T20:25:26.040Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Write apartment lady again",
+      "_addedAt": "2026-09-19T20:49:51.946Z",
+      "_ts": "2026-09-19T20:49:52.116Z"
+    }
+  ],
+  "mirroredAt": "2026-09-19T20:49:52.399Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
