@@ -53,13 +53,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 933,
-      "row": 56,
-      "label": "Bentley ticket for fall break",
-      "uid": "SPIN:933"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 887,
       "row": 30,
       "label": "Get down waterproofing spray \ud83e\udd7e",
@@ -891,11 +884,11 @@
       "uid": "SPIN_WHEEL:949"
     }
   ],
-  "version": 2352,
-  "updated": "2026-09-19T08:23:19.261191+00:00",
+  "version": 2353,
+  "updated": "2026-09-19T08:32:20.722987+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 22
