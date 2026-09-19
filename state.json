@@ -508,16 +508,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 34,
-      "floor": "Main Floor",
-      "row": 35,
-      "label": "\ud83e\uddfa Kitchen",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Kitchen",
-      "uid": "ZONES:34"
-    },
-    {
-      "source": "ZONES",
       "zid": 58,
       "floor": "Digital",
       "row": 59,
@@ -864,10 +854,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Vacuum kids bathroom ceiling fan",
       "uid": "MAINTENANCE:114"
+    },
+    {
+      "source": "ZONES",
+      "zid": 35,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa School Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "School Room",
+      "uid": "ZONES:35"
     }
   ],
-  "version": 2335,
-  "updated": "2026-09-19T02:39:29.948176+00:00",
+  "version": 2336,
+  "updated": "2026-09-19T02:40:17.679122+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "TASKS": 22,
