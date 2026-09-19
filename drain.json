@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 34,
+      "label": "Compare Monarch and Simplifi 💰📊",
+      "uid": "SPIN:899",
+      "_ts": "2026-09-19T06:46:27.768Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -14,9 +22,9 @@
       "_ts": "2026-09-19T06:46:22.282Z"
     }
   ],
-  "mirroredAt": "2026-09-19T06:46:22.558Z",
+  "mirroredAt": "2026-09-19T06:46:27.977Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 2
   }
 }
