@@ -296,13 +296,6 @@
       "uid": "COURAGE:10187:0"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 891,
-      "row": 33,
-      "label": "Remap Mudroom vac",
-      "uid": "SPIN:891"
-    },
-    {
       "source": "TASKS",
       "id": 12099,
       "row": 364,
@@ -874,10 +867,10 @@
       "uid": "SPIN_WHEEL:941"
     }
   ],
-  "version": 2333,
-  "updated": "2026-09-18T09:49:44.110408+00:00",
+  "version": 2334,
+  "updated": "2026-09-19T01:54:11.753766+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 22,
     "ZONES": 7,
     "COURAGE": 4,
