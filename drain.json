@@ -1,37 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 65,
-      "label": "Ask Evan what he thinks of ceiling options",
-      "uid": "SPIN:942",
-      "_ts": "2026-09-19T08:22:23.720Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 45,
-      "label": "Paint ceiling",
-      "uid": "SPIN:920",
-      "_ts": "2026-09-19T08:22:29.382Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "More ceiling samples",
-      "_addedAt": "2026-09-19T08:22:42.325Z",
-      "_ts": "2026-09-19T08:22:42.441Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Cover green on wall with white",
-      "_addedAt": "2026-09-19T08:22:56.836Z",
-      "_ts": "2026-09-19T08:22:56.950Z"
-    }
-  ],
-  "mirroredAt": "2026-09-19T08:22:57.175Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-09-19T08:23:17.992Z",
   "counts": {
-    "completions": 2,
-    "adds": 2
+    "completions": 0,
+    "adds": 0
   }
 }
