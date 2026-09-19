@@ -13,12 +13,32 @@
       "label": "Bentley passport schtuff",
       "uid": "SPIN:929",
       "_ts": "2026-09-19T06:46:33.743Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 51,
+      "label": "Send retainer, credit card,and Unbed bric",
+      "uid": "SPIN:927",
+      "_ts": "2026-09-19T06:46:44.491Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-09-19T06:46:38.918Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Retainer, credit card, passport, and BRIC TO Bentley",
+      "_addedAt": "2026-09-19T06:45:48.736Z",
+      "_ts": "2026-09-19T06:45:48.858Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Set up Monarch",
+      "_addedAt": "2026-09-19T06:46:22.159Z",
+      "_ts": "2026-09-19T06:46:22.282Z"
+    }
+  ],
+  "mirroredAt": "2026-09-19T06:46:44.686Z",
   "counts": {
-    "completions": 2,
-    "adds": 0
+    "completions": 3,
+    "adds": 2
   }
 }
