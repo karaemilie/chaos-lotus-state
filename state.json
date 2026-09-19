@@ -507,16 +507,6 @@
       "uid": "TASKS:12066"
     },
     {
-      "source": "ZONES",
-      "zid": 58,
-      "floor": "Digital",
-      "row": 59,
-      "label": "\ud83d\udcbb Emails",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Emails",
-      "uid": "ZONES:58"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 337,
       "row": 4,
@@ -870,10 +860,19 @@
       "sid": 942,
       "label": "Ask Evan what he thinks of ceiling options",
       "uid": "SPIN_WHEEL:942"
+    },
+    {
+      "source": "ZONES",
+      "zid": 59,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Quicken",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Quicken",
+      "uid": "ZONES:59"
     }
   ],
-  "version": 2337,
-  "updated": "2026-09-19T03:44:09.246214+00:00",
+  "version": 2338,
+  "updated": "2026-09-19T04:35:59.279343+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "TASKS": 22,
