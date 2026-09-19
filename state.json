@@ -520,13 +520,6 @@
       "uid": "SPIN:870"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 916,
-      "row": 43,
-      "label": "Plan for all state recording",
-      "uid": "SPIN:916"
-    },
-    {
       "source": "TASKS",
       "id": 11502,
       "row": 184,
@@ -891,11 +884,11 @@
       "uid": "SPIN_WHEEL:943"
     }
   ],
-  "version": 2343,
-  "updated": "2026-09-19T06:43:31.240511+00:00",
+  "version": 2344,
+  "updated": "2026-09-19T06:44:08.999406+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 22
