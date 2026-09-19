@@ -25,13 +25,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 899,
-      "row": 34,
-      "label": "Compare Monarch and Simplifi \ud83d\udcb0\ud83d\udcca",
-      "uid": "SPIN:899"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 337,
       "row": 4,
       "label": "Log into Higgsfield on computer**",
@@ -797,20 +790,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 927,
-      "row": 51,
-      "label": "Send retainer, credit card,and Unbed bric",
-      "uid": "SPIN:927"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 929,
-      "row": 53,
-      "label": "Bentley passport schtuff",
-      "uid": "SPIN:929"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 811,
       "row": 16,
       "label": "Put away some 4th decor",
@@ -898,11 +877,11 @@
       "uid": "SPIN_WHEEL:945"
     }
   ],
-  "version": 2346,
-  "updated": "2026-09-19T06:46:40.137259+00:00",
+  "version": 2347,
+  "updated": "2026-09-19T06:47:24.870071+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 63,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 22
