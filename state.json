@@ -458,13 +458,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 920,
-      "row": 45,
-      "label": "Paint ceiling",
-      "uid": "SPIN:920"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 832,
       "row": 19,
       "label": "Make room on workbench for garage cleanup",
@@ -884,11 +877,11 @@
       "uid": "SPIN_WHEEL:947"
     }
   ],
-  "version": 2350,
-  "updated": "2026-09-19T08:22:35.920494+00:00",
+  "version": 2351,
+  "updated": "2026-09-19T08:23:16.659415+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 22
