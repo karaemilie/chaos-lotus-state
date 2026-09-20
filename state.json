@@ -247,13 +247,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 878,
-      "row": 25,
-      "label": "Find best price on Samsung",
-      "uid": "SPIN:878"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 879,
       "row": 26,
       "label": "Deal with pianist for cello recital",
@@ -905,11 +898,11 @@
       "uid": "SPIN_WHEEL:952"
     }
   ],
-  "version": 2356,
-  "updated": "2026-09-20T07:03:15.081854+00:00",
+  "version": 2357,
+  "updated": "2026-09-20T07:09:40.122500+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 22
