@@ -864,13 +864,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 949,
-      "sid": 949,
-      "label": "Cover green on wall with white",
-      "uid": "SPIN_WHEEL:949"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 950,
       "sid": 950,
       "label": "Sign B social security photo",
@@ -898,11 +891,11 @@
       "uid": "SPIN_WHEEL:953"
     }
   ],
-  "version": 2360,
-  "updated": "2026-09-20T07:11:34.013201+00:00",
+  "version": 2361,
+  "updated": "2026-09-20T07:12:20.503577+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 22
