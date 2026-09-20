@@ -2,16 +2,30 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
+      "row": 948,
+      "label": "More ceiling samples",
+      "uid": "SPIN_WHEEL:948",
+      "_ts": "2026-09-20T07:11:20.487Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 949,
       "label": "Cover green on wall with white",
       "uid": "SPIN_WHEEL:949",
       "_ts": "2026-09-20T07:11:26.336Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-09-20T07:11:35.163Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Boys Paint Project!!",
+      "_addedAt": "2026-09-20T07:11:54.899Z",
+      "_ts": "2026-09-20T07:11:55.439Z"
+    }
+  ],
+  "mirroredAt": "2026-09-20T07:11:55.692Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
