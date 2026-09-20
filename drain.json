@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-20T07:09:41.221Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 25,
+      "label": "Find best price on Samsung",
+      "uid": "SPIN:878",
+      "_ts": "2026-09-20T07:09:27.022Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add top check to add to my kid wedge tool",
+      "_addedAt": "2026-09-20T07:10:21.208Z",
+      "_ts": "2026-09-20T07:10:21.356Z"
+    }
+  ],
+  "mirroredAt": "2026-09-20T07:10:21.614Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-20T07:09:42.047015+00:00",
-  "lastAutoProcessed": [
-    "SPIN:878"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
