@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-20T08:31:30.518Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Next step internship research for Jake",
+      "_addedAt": "2026-09-20T08:55:40.516Z",
+      "_ts": "2026-09-20T08:55:40.992Z"
+    }
+  ],
+  "mirroredAt": "2026-09-20T08:55:41.265Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-20T08:31:31.406439+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:950"
-  ]
+    "adds": 1
+  }
 }
