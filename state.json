@@ -471,20 +471,6 @@
       "uid": "SPIN:938"
     },
     {
-      "source": "TASKS",
-      "id": 10089,
-      "row": 18,
-      "label": "\u2b50 Apply for Genevieve's credit card \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": "Genevieve Credit Card Setup",
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10089"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 870,
       "row": 23,
@@ -556,20 +542,6 @@
       "row": 55,
       "label": "Bentley fall break ticket",
       "uid": "SPIN:932"
-    },
-    {
-      "source": "TASKS",
-      "id": 10237,
-      "row": 217,
-      "label": "\u2b50 Cancel Slate card",
-      "aw": 3,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10237"
     },
     {
       "source": "SPIN_WHEEL",
@@ -678,20 +650,6 @@
       "row": 44,
       "label": "Replace Linc $20",
       "uid": "SPIN:919"
-    },
-    {
-      "source": "TASKS",
-      "id": 11988,
-      "row": 306,
-      "label": "\u2b50 Follow up with body shop if I haven't heard back \ud83d\udcde\ud83d\udd27",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11988"
     },
     {
       "source": "ZONES",
@@ -864,13 +822,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 950,
-      "sid": 950,
-      "label": "Sign B social security photo",
-      "uid": "SPIN_WHEEL:950"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 951,
       "sid": 951,
       "label": "Write apartment lady again",
@@ -896,15 +847,80 @@
       "sid": 954,
       "label": "Boys Paint Project!!",
       "uid": "SPIN_WHEEL:954"
+    },
+    {
+      "source": "TASKS",
+      "id": 11976,
+      "label": "\u2728 Update Pura subscriptions",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11976"
+    },
+    {
+      "source": "TASKS",
+      "id": 12067,
+      "label": "\u2728 Review Evan's bedtime & adjust melatonin timing \ud83d\ude34\ud83d\udc8a",
+      "aw": 6,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": null,
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12067"
+    },
+    {
+      "source": "TASKS",
+      "id": 12108,
+      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12108"
+    },
+    {
+      "source": "TASKS",
+      "id": 12110,
+      "label": "\u2728 Weekly meal planning",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12110"
+    },
+    {
+      "source": "TASKS",
+      "id": 12116,
+      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12116"
     }
   ],
-  "version": 2362,
-  "updated": "2026-09-20T07:12:22.741301+00:00",
+  "version": 2363,
+  "updated": "2026-09-20T08:31:29.408089+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "COURAGE": 4,
     "ZONES": 7,
-    "TASKS": 22
+    "TASKS": 24
   }
 }
