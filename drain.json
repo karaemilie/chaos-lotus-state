@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 950,
+      "label": "Sign B social security photo",
+      "uid": "SPIN_WHEEL:950",
+      "_ts": "2026-09-20T08:31:10.485Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-20T07:12:21.647Z",
+  "mirroredAt": "2026-09-20T08:31:10.717Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
