@@ -260,13 +260,6 @@
       "uid": "SPIN:888"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 901,
-      "row": 36,
-      "label": "Research internships for Jake",
-      "uid": "SPIN:901"
-    },
-    {
       "source": "ZONES",
       "zid": 88,
       "floor": "Personal",
@@ -921,11 +914,11 @@
       "uid": "SPIN_WHEEL:955"
     }
   ],
-  "version": 2364,
-  "updated": "2026-09-20T08:55:56.948990+00:00",
+  "version": 2365,
+  "updated": "2026-09-20T08:56:38.590619+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 24
