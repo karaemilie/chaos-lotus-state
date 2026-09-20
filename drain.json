@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 25,
+      "label": "Find best price on Samsung",
+      "uid": "SPIN:878",
+      "_ts": "2026-09-20T07:09:27.022Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-20T07:03:14.118Z",
+  "mirroredAt": "2026-09-20T07:09:27.302Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
