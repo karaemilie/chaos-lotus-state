@@ -845,13 +845,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 959,
-      "sid": 959,
-      "label": "Cat litter",
-      "uid": "SPIN_WHEEL:959"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 960,
       "sid": 960,
       "label": "Bring up sticky tape for light bar",
@@ -865,11 +858,11 @@
       "uid": "SPIN_WHEEL:961"
     }
   ],
-  "version": 2380,
-  "updated": "2026-09-21T01:25:39.203371+00:00",
+  "version": 2381,
+  "updated": "2026-09-21T03:07:28.227574+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 59,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
