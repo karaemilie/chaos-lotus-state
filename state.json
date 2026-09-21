@@ -534,13 +534,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 941,
-      "row": 64,
-      "label": "No one has been",
-      "uid": "SPIN:941"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 683,
       "row": 11,
       "label": "Send Matt his statements for card",
@@ -886,11 +879,11 @@
       "uid": "TASKS:11937"
     }
   ],
-  "version": 2373,
-  "updated": "2026-09-21T01:08:46.835259+00:00",
+  "version": 2374,
+  "updated": "2026-09-21T01:09:14.580690+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
