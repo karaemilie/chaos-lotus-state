@@ -1,9 +1,28 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-21T01:11:55.499Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Cat litter",
+      "_addedAt": "2026-09-21T01:11:43.406Z",
+      "_ts": "2026-09-21T01:11:43.571Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Bring up sticky tape for light bar",
+      "_addedAt": "2026-09-21T01:11:55.034Z",
+      "_ts": "2026-09-21T01:11:55.384Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Upload fixed kid/errand apps with fixed enter key",
+      "_addedAt": "2026-09-21T01:12:18.701Z",
+      "_ts": "2026-09-21T01:12:18.942Z"
+    }
+  ],
+  "mirroredAt": "2026-09-21T01:12:19.174Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 3
   }
 }
