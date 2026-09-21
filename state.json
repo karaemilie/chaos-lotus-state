@@ -163,13 +163,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 937,
-      "row": 60,
-      "label": "Add growth vitamins to Evan\u2019s box",
-      "uid": "SPIN:937"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 6,
       "label": "Compare birch pieces to diagram",
@@ -865,11 +858,11 @@
       "uid": "SPIN_WHEEL:963"
     }
   ],
-  "version": 2384,
-  "updated": "2026-09-21T04:59:58.496091+00:00",
+  "version": 2385,
+  "updated": "2026-09-21T06:00:27.324920+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 59,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
