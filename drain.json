@@ -1,14 +1,34 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 90,
+      "zid": 88,
+      "floor": "Personal",
+      "label": "👱‍♀️ Teeth Whitening",
+      "uid": "ZONES:88",
+      "_ts": "2026-09-21T08:40:48.297Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12111,
+      "label": "✨ Clear the upstairs trashes",
+      "uid": "TASKS:12111",
+      "_ts": "2026-09-21T08:41:06.765Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11502,
+      "row": 184,
+      "label": "✨ Review IXL assessments for Lincoln",
+      "uid": "TASKS:11502",
+      "_ts": "2026-09-21T08:41:34.952Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-21T08:41:26.279Z",
+  "mirroredAt": "2026-09-21T08:41:35.161Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-09-21T08:41:27.162669+00:00",
-  "lastAutoProcessed": [
-    "ZONES:88",
-    "TASKS:12111"
-  ]
+  }
 }
