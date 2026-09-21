@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 959,
+      "label": "Cat litter",
+      "uid": "SPIN_WHEEL:959",
+      "_ts": "2026-09-21T03:07:12.927Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-21T01:25:40.213Z",
+  "mirroredAt": "2026-09-21T03:07:13.170Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-21T01:25:41.147391+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:953"
-  ]
+  }
 }
