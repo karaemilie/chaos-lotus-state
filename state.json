@@ -680,13 +680,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 908,
-      "row": 40,
-      "label": "Try new nfc tags",
-      "uid": "SPIN:908"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 930,
       "row": 54,
       "label": "Schedule weekly Viola lessons",
@@ -735,13 +728,6 @@
       "sid": 946,
       "label": "Evan bday gifts",
       "uid": "SPIN_WHEEL:946"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 947,
-      "sid": 947,
-      "label": "Make my own NFC app",
-      "uid": "SPIN_WHEEL:947"
     },
     {
       "source": "SPIN_WHEEL",
@@ -858,11 +844,11 @@
       "uid": "TASKS:11937"
     }
   ],
-  "version": 2375,
-  "updated": "2026-09-21T01:09:58.312515+00:00",
+  "version": 2376,
+  "updated": "2026-09-21T01:10:44.993822+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 57,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
