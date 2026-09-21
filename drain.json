@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 90,
+      "zid": 88,
+      "floor": "Personal",
+      "label": "👱‍♀️ Teeth Whitening",
+      "uid": "ZONES:88",
+      "_ts": "2026-09-21T08:40:48.297Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12111,
+      "label": "✨ Clear the upstairs trashes",
+      "uid": "TASKS:12111",
+      "_ts": "2026-09-21T08:41:06.765Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-21T08:41:01.315Z",
+  "mirroredAt": "2026-09-21T08:41:06.981Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-09-21T08:41:02.217366+00:00",
-  "lastAutoProcessed": [
-    "ZONES:88"
-  ]
+  }
 }
