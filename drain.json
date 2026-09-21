@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-21T03:07:29.266Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pick a double hang curtain rod?",
+      "_addedAt": "2026-09-21T03:12:13.056Z",
+      "_ts": "2026-09-21T03:12:13.310Z"
+    }
+  ],
+  "mirroredAt": "2026-09-21T03:12:13.658Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-21T03:07:30.042490+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:959"
-  ]
+    "adds": 1
+  }
 }
