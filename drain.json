@@ -1,15 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 943,
+      "label": "Label & send All State files to Mr Levi",
+      "uid": "SPIN_WHEEL:943",
+      "_ts": "2026-09-21T22:02:55.598Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-21T22:02:28.963Z",
+  "mirroredAt": "2026-09-21T22:02:55.835Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-21T22:02:30.592242+00:00",
-  "lastAutoProcessed": [
-    "ZONES:59",
-    "TASKS:12112",
-    "TASKS:12001"
-  ]
+  }
 }
