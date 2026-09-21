@@ -2,16 +2,30 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
+      "row": 64,
+      "label": "No one has been",
+      "uid": "SPIN:941",
+      "_ts": "2026-09-21T01:08:57.991Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 58,
       "label": "Make more smoothie mix",
       "uid": "SPIN:935",
       "_ts": "2026-09-21T01:09:09.434Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 44,
+      "label": "Replace Linc $20",
+      "uid": "SPIN:919",
+      "_ts": "2026-09-21T01:09:26.082Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-09-21T01:09:15.676Z",
+  "mirroredAt": "2026-09-21T01:09:26.363Z",
   "counts": {
-    "completions": 1,
+    "completions": 3,
     "adds": 0
   }
 }
