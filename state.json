@@ -845,13 +845,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 960,
-      "sid": 960,
-      "label": "Bring up sticky tape for light bar",
-      "uid": "SPIN_WHEEL:960"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 961,
       "sid": 961,
       "label": "Upload fixed kid/errand apps with fixed enter key",
@@ -872,11 +865,11 @@
       "uid": "SPIN_WHEEL:963"
     }
   ],
-  "version": 2383,
-  "updated": "2026-09-21T03:30:21.528708+00:00",
+  "version": 2384,
+  "updated": "2026-09-21T04:59:58.496091+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 60,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
