@@ -669,13 +669,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 944,
-      "sid": 944,
-      "label": "Retainer, credit card, passport, and BRIC TO Bentley",
-      "uid": "SPIN_WHEEL:944"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 945,
       "sid": 945,
       "label": "Set up Monarch",
@@ -855,11 +848,11 @@
       "uid": "TASKS:11253"
     }
   ],
-  "version": 2387,
-  "updated": "2026-09-21T06:10:33.273843+00:00",
+  "version": 2388,
+  "updated": "2026-09-21T07:56:57.383626+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 58,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
