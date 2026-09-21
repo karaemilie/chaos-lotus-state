@@ -239,20 +239,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12001,
-      "row": 309,
-      "label": "\u2728 Cancel IXL ($25/month)",
-      "aw": 3,
-      "pri": null,
-      "dur": 15,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12001"
-    },
-    {
-      "source": "TASKS",
       "id": 12058,
       "row": 333,
       "label": "\u2728 Set up teeth cleanings \ud83e\uddb7\ud83e\udea5",
@@ -854,10 +840,23 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10283"
+    },
+    {
+      "source": "TASKS",
+      "id": 10200,
+      "label": "Build shelves into front coat closet - use high space \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Someday",
+      "dur": 90,
+      "ml": "Hard",
+      "proj": "Coat Closet Shelves",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10200"
     }
   ],
-  "version": 2402,
-  "updated": "2026-09-21T22:01:45.446343+00:00",
+  "version": 2403,
+  "updated": "2026-09-21T22:02:25.426465+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 60,
