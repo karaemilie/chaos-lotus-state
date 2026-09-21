@@ -841,13 +841,20 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Upstairs Hallway",
       "uid": "ZONES:14"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 965,
+      "sid": 965,
+      "label": "Order curtain rods",
+      "uid": "SPIN_WHEEL:965"
     }
   ],
-  "version": 2398,
-  "updated": "2026-09-21T09:52:11.473580+00:00",
+  "version": 2399,
+  "updated": "2026-09-21T10:06:02.392897+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 59,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
