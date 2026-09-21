@@ -548,13 +548,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 935,
-      "row": 58,
-      "label": "Make more smoothie mix",
-      "uid": "SPIN:935"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 885,
       "row": 29,
       "label": "Take drill outside and work on raspberry bed edging \ud83e\uded0",
@@ -587,13 +580,6 @@
       "row": 41,
       "label": "Set up a cloud flare address for new habit tracker",
       "uid": "SPIN:911"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 919,
-      "row": 44,
-      "label": "Replace Linc $20",
-      "uid": "SPIN:919"
     },
     {
       "source": "ZONES",
@@ -675,13 +661,6 @@
       "row": 2,
       "label": "Pull up WWAMI site and research cost",
       "uid": "SPIN:281"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 905,
-      "row": 39,
-      "label": "Next step capacitor!!!",
-      "uid": "SPIN:905"
     },
     {
       "source": "SPIN_WHEEL",
@@ -879,11 +858,11 @@
       "uid": "TASKS:11937"
     }
   ],
-  "version": 2374,
-  "updated": "2026-09-21T01:09:14.580690+00:00",
+  "version": 2375,
+  "updated": "2026-09-21T01:09:58.312515+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 59,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
