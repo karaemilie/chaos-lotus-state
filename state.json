@@ -846,13 +846,20 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10200"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 967,
+      "sid": 967,
+      "label": "Hang new panels",
+      "uid": "SPIN_WHEEL:967"
     }
   ],
-  "version": 2404,
-  "updated": "2026-09-21T22:03:06.590476+00:00",
+  "version": 2405,
+  "updated": "2026-09-21T22:06:23.766059+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 60,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
