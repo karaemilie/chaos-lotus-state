@@ -107,16 +107,6 @@
       "uid": "ZONES:35"
     },
     {
-      "source": "ZONES",
-      "zid": 43,
-      "floor": "Basement",
-      "row": 44,
-      "label": "\ud83e\uddfa Basement Craft Zone",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Craft Zone",
-      "uid": "ZONES:43"
-    },
-    {
       "source": "TASKS",
       "id": 11716,
       "row": 226,
@@ -856,10 +846,19 @@
       "sid": 963,
       "label": "Vacumn kids fan, put hose away",
       "uid": "SPIN_WHEEL:963"
+    },
+    {
+      "source": "ZONES",
+      "zid": 44,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Main Area",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Main Area",
+      "uid": "ZONES:44"
     }
   ],
-  "version": 2385,
-  "updated": "2026-09-21T06:00:27.324920+00:00",
+  "version": 2386,
+  "updated": "2026-09-21T06:09:55.976908+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 59,
