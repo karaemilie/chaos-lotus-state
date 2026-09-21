@@ -280,20 +280,6 @@
       "uid": "SPIN:555"
     },
     {
-      "source": "TASKS",
-      "id": 12090,
-      "row": 354,
-      "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12090"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 928,
       "row": 52,
@@ -836,10 +822,23 @@
       "cat": "Kids",
       "critical": false,
       "uid": "TASKS:11317"
+    },
+    {
+      "source": "TASKS",
+      "id": 10113,
+      "label": "Price out benefit of switching to Premera with dual oral surgery benefits \ud83d\udcdd",
+      "aw": 3,
+      "pri": "ASAP",
+      "dur": 45,
+      "ml": "Hard",
+      "proj": "Insurance Admin",
+      "cat": "Finance",
+      "critical": true,
+      "uid": "TASKS:10113"
     }
   ],
-  "version": 2393,
-  "updated": "2026-09-21T08:57:53.669584+00:00",
+  "version": 2394,
+  "updated": "2026-09-21T09:04:27.119651+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 57,
