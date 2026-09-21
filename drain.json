@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 60,
+      "label": "Add growth vitamins to Evan’s box",
+      "uid": "SPIN:937",
+      "_ts": "2026-09-21T06:00:15.690Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-21T05:00:00.117Z",
+  "mirroredAt": "2026-09-21T06:00:16.064Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-21T05:00:01.257877+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:960"
-  ]
+  }
 }
