@@ -842,13 +842,20 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:11937"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 958,
+      "sid": 958,
+      "label": "Ask Evan how much I owe him",
+      "uid": "SPIN_WHEEL:958"
     }
   ],
-  "version": 2376,
-  "updated": "2026-09-21T01:10:44.993822+00:00",
+  "version": 2377,
+  "updated": "2026-09-21T01:10:46.904279+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 58,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
