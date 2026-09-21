@@ -433,20 +433,6 @@
       "uid": "TASKS:11216"
     },
     {
-      "source": "TASKS",
-      "id": 12083,
-      "row": 349,
-      "label": "\u2728 Put away the cats\u2019 window seat \ud83d\udc31\ud83d\udce6",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12083"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 932,
       "row": 55,
@@ -743,50 +729,11 @@
       "uid": "SPIN_WHEEL:956"
     },
     {
-      "source": "TASKS",
-      "id": 10533,
-      "label": "Lymow - circle back on blades and antenna",
-      "aw": 7,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10533"
-    },
-    {
-      "source": "TASKS",
-      "id": 11765,
-      "label": "Search for velvet bar stools \ud83e\ude91",
-      "aw": 3,
-      "pri": 3,
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11765"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 957,
       "sid": 957,
       "label": "Cash Jake\u2019s check",
       "uid": "SPIN_WHEEL:957"
-    },
-    {
-      "source": "TASKS",
-      "id": 11937,
-      "label": "Project Genevieve loan requirement \ud83c\udf93\ud83d\udcb0",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11937"
     },
     {
       "source": "SPIN_WHEEL",
@@ -836,20 +783,72 @@
     },
     {
       "source": "TASKS",
-      "id": 11253,
-      "label": "Pick Create&Learn class w/ Lincoln",
+      "id": 11119,
+      "label": "\u2728 Schedule tire change overs \ud83d\ude97\ud83d\udd27",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11119"
+    },
+    {
+      "source": "TASKS",
+      "id": 11907,
+      "label": "\u2728 List 3-5 plants for sale on marketplace \ud83e\udeb4\ud83d\udcb0 \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Normal",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11907"
+    },
+    {
+      "source": "TASKS",
+      "id": 12062,
+      "label": "\u2728 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12062"
+    },
+    {
+      "source": "TASKS",
+      "id": 12111,
+      "label": "\u2728 Clear the upstairs trashes",
+      "aw": 4,
+      "pri": null,
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": true,
+      "uid": "TASKS:12111"
+    },
+    {
+      "source": "TASKS",
+      "id": 12112,
+      "label": "\u2728 Check for South weekly schedule adjustments",
       "aw": 3,
       "pri": "Soon",
       "dur": 5,
       "ml": "Easy Win",
       "proj": null,
-      "cat": "Family",
+      "cat": "Education",
       "critical": false,
-      "uid": "TASKS:11253"
+      "uid": "TASKS:12112"
     }
   ],
-  "version": 2388,
-  "updated": "2026-09-21T07:56:57.383626+00:00",
+  "version": 2389,
+  "updated": "2026-09-21T08:39:21.860751+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 58,
