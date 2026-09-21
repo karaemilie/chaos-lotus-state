@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 60,
+      "zid": 59,
+      "floor": "Digital",
+      "label": "💻 Quicken",
+      "uid": "ZONES:59",
+      "_ts": "2026-09-21T22:01:07.640Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12112,
+      "label": "✨ Check for South weekly schedule adjustments",
+      "uid": "TASKS:12112",
+      "_ts": "2026-09-21T22:01:26.022Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-21T22:01:22.118Z",
+  "mirroredAt": "2026-09-21T22:01:26.241Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-09-21T22:01:23.568711+00:00",
-  "lastAutoProcessed": [
-    "ZONES:59"
-  ]
+  }
 }
