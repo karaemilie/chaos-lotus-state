@@ -219,27 +219,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 939,
-      "row": 62,
-      "label": "New newtest",
-      "uid": "SPIN:939"
-    },
-    {
-      "source": "TASKS",
-      "id": 12073,
-      "row": 341,
-      "label": "\u2728 Spend time on flower bouquet coding project",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": "Bouquet Tracker",
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12073"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 879,
       "row": 26,
       "label": "Deal with pianist for cello recital",
@@ -906,13 +885,26 @@
       "sid": 957,
       "label": "Cash Jake\u2019s check",
       "uid": "SPIN_WHEEL:957"
+    },
+    {
+      "source": "TASKS",
+      "id": 11937,
+      "label": "Project Genevieve loan requirement \ud83c\udf93\ud83d\udcb0",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:11937"
     }
   ],
-  "version": 2371,
-  "updated": "2026-09-21T01:07:45.888099+00:00",
+  "version": 2372,
+  "updated": "2026-09-21T01:08:13.856545+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
