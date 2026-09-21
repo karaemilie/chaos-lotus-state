@@ -756,19 +756,6 @@
       "uid": "TASKS:12062"
     },
     {
-      "source": "TASKS",
-      "id": 12112,
-      "label": "\u2728 Check for South weekly schedule adjustments",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12112"
-    },
-    {
       "source": "ZONES",
       "zid": 90,
       "floor": "Personal",
@@ -854,10 +841,23 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Photos",
       "uid": "ZONES:60"
+    },
+    {
+      "source": "TASKS",
+      "id": 10283,
+      "label": "Help Bentley set up LinkedIn \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10283"
     }
   ],
-  "version": 2401,
-  "updated": "2026-09-21T22:01:20.893125+00:00",
+  "version": 2402,
+  "updated": "2026-09-21T22:01:45.446343+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 60,
