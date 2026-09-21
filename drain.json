@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12090,
+      "row": 354,
+      "label": "✨ Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead 📋⚖️",
+      "uid": "TASKS:12090",
+      "_ts": "2026-09-21T09:04:12.944Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-21T08:57:54.805Z",
+  "mirroredAt": "2026-09-21T09:04:13.173Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-21T08:57:55.813579+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:956"
-  ]
+  }
 }
