@@ -142,16 +142,6 @@
       "uid": "SPIN:882"
     },
     {
-      "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "row": 76,
-      "label": "\ud83c\udf31 Family Room Plants",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Plants",
-      "uid": "ZONES:74"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 6,
@@ -185,20 +175,6 @@
       "row": 57,
       "label": "Evan sign up for prep median",
       "uid": "SPIN:934"
-    },
-    {
-      "source": "TASKS",
-      "id": 11915,
-      "row": 275,
-      "label": "\u2728 Deep clean cat litter \ud83d\udc31\ud83e\uddfc",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11915"
     },
     {
       "source": "SPIN_WHEEL",
@@ -855,10 +831,32 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Main Area",
       "uid": "ZONES:44"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
+    },
+    {
+      "source": "TASKS",
+      "id": 11253,
+      "label": "Pick Create&Learn class w/ Lincoln",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11253"
     }
   ],
-  "version": 2386,
-  "updated": "2026-09-21T06:09:55.976908+00:00",
+  "version": 2387,
+  "updated": "2026-09-21T06:10:33.273843+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 59,
