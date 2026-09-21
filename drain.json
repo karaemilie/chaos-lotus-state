@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12110,
+      "label": "✨ Weekly meal planning",
+      "uid": "TASKS:12110",
+      "_ts": "2026-09-21T00:39:15.591Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-21T00:04:31.430Z",
+  "mirroredAt": "2026-09-21T00:39:15.812Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-21T00:04:32.290934+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12108"
-  ]
+  }
 }
