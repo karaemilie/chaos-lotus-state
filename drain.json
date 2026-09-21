@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11976,
+      "label": "✨ Update Pura subscriptions",
+      "uid": "TASKS:11976",
+      "_ts": "2026-09-21T00:53:45.323Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-21T00:39:27.030Z",
+  "mirroredAt": "2026-09-21T00:53:45.710Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-21T00:39:27.851356+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12110"
-  ]
+  }
 }
