@@ -576,13 +576,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 943,
-      "sid": 943,
-      "label": "Label & send All State files to Mr Levi",
-      "uid": "SPIN_WHEEL:943"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 945,
       "sid": 945,
       "label": "Set up Monarch",
@@ -855,11 +848,11 @@
       "uid": "TASKS:10200"
     }
   ],
-  "version": 2403,
-  "updated": "2026-09-21T22:02:25.426465+00:00",
+  "version": 2404,
+  "updated": "2026-09-21T22:03:06.590476+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 59,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
