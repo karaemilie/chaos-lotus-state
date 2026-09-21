@@ -1,15 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 944,
+      "label": "Retainer, credit card, passport, and BRIC TO Bentley",
+      "uid": "SPIN_WHEEL:944",
+      "_ts": "2026-09-21T07:56:38.427Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-21T06:10:35.696Z",
+  "mirroredAt": "2026-09-21T07:56:38.636Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-21T06:10:36.469325+00:00",
-  "lastAutoProcessed": [
-    "ZONES:43",
-    "ZONES:74",
-    "TASKS:11915"
-  ]
+  }
 }
