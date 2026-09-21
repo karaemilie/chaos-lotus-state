@@ -1,9 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 14,
+      "zid": 13,
+      "floor": "Upstairs",
+      "label": "🧺 Stair Basket",
+      "uid": "ZONES:13",
+      "_ts": "2026-09-21T09:51:22.875Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-21T09:21:42.249Z",
+  "mirroredAt": "2026-09-21T09:51:23.115Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
