@@ -536,16 +536,6 @@
       "uid": "TASKS:11987"
     },
     {
-      "source": "ZONES",
-      "zid": 59,
-      "floor": "Digital",
-      "row": 60,
-      "label": "\ud83d\udcbb Quicken",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Quicken",
-      "uid": "ZONES:59"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 811,
       "row": 16,
@@ -855,10 +845,19 @@
       "sid": 966,
       "label": "Measure Evan inseam **",
       "uid": "SPIN_WHEEL:966"
+    },
+    {
+      "source": "ZONES",
+      "zid": 60,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Photos",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Photos",
+      "uid": "ZONES:60"
     }
   ],
-  "version": 2400,
-  "updated": "2026-09-21T18:13:38.621584+00:00",
+  "version": 2401,
+  "updated": "2026-09-21T22:01:20.893125+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 60,
