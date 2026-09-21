@@ -378,20 +378,6 @@
       "uid": "SPIN:870"
     },
     {
-      "source": "TASKS",
-      "id": 11502,
-      "row": 184,
-      "label": "\u2728 Review IXL assessments for Lincoln",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 20,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11502"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 576,
       "row": 9,
@@ -844,10 +830,23 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10089"
+    },
+    {
+      "source": "TASKS",
+      "id": 11317,
+      "label": "Schedule next Create & Learn class for Evan (based on rock climbing schedule) \ud83d\udcdd",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11317"
     }
   ],
-  "version": 2391,
-  "updated": "2026-09-21T08:41:24.018122+00:00",
+  "version": 2392,
+  "updated": "2026-09-21T08:41:52.438698+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 58,
