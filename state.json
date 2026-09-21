@@ -353,13 +353,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 940,
-      "row": 63,
-      "label": "Confetti",
-      "uid": "SPIN:940"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 884,
       "row": 28,
       "label": "Ask Lynneta about robot approval \ud83e\udd16",
@@ -406,13 +399,6 @@
       "row": 42,
       "label": "Take chip off Taha affair",
       "uid": "SPIN:915"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 832,
-      "row": 19,
-      "label": "Make room on workbench for garage cleanup",
-      "uid": "SPIN:832"
     },
     {
       "source": "TASKS",
@@ -900,11 +886,11 @@
       "uid": "TASKS:11937"
     }
   ],
-  "version": 2372,
-  "updated": "2026-09-21T01:08:13.856545+00:00",
+  "version": 2373,
+  "updated": "2026-09-21T01:08:46.835259+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 63,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
