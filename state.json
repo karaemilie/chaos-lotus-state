@@ -906,13 +906,20 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11765"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 957,
+      "sid": 957,
+      "label": "Cash Jake\u2019s check",
+      "uid": "SPIN_WHEEL:957"
     }
   ],
-  "version": 2369,
-  "updated": "2026-09-21T00:53:55.662525+00:00",
+  "version": 2370,
+  "updated": "2026-09-21T01:00:32.502578+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 67,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
