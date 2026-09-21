@@ -812,19 +812,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12111,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:12111"
-    },
-    {
-      "source": "TASKS",
       "id": 12112,
       "label": "\u2728 Check for South weekly schedule adjustments",
       "aw": 3,
@@ -844,10 +831,23 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Feet Care & Pedi",
       "uid": "ZONES:90"
+    },
+    {
+      "source": "TASKS",
+      "id": 10089,
+      "label": "Apply for Genevieve's credit card \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": "Genevieve Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10089"
     }
   ],
-  "version": 2390,
-  "updated": "2026-09-21T08:41:00.294184+00:00",
+  "version": 2391,
+  "updated": "2026-09-21T08:41:24.018122+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 58,
