@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-21T09:52:12.825Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order curtain rods",
+      "_addedAt": "2026-09-21T10:05:48.651Z",
+      "_ts": "2026-09-21T10:05:48.871Z"
+    }
+  ],
+  "mirroredAt": "2026-09-21T10:05:49.117Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
