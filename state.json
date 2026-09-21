@@ -835,13 +835,20 @@
       "cat": "Finance",
       "critical": true,
       "uid": "TASKS:10113"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 964,
+      "sid": 964,
+      "label": "Bentley WWAMI APP",
+      "uid": "SPIN_WHEEL:964"
     }
   ],
-  "version": 2395,
-  "updated": "2026-09-21T09:21:40.996435+00:00",
+  "version": 2396,
+  "updated": "2026-09-21T09:21:43.629647+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 58,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
