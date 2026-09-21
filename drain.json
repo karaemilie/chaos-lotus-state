@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12083,
+      "row": 349,
+      "label": "✨ Put away the cats’ window seat 🐱📦",
+      "uid": "TASKS:12083",
+      "_ts": "2026-09-21T08:39:09.376Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-21T07:56:58.860Z",
+  "mirroredAt": "2026-09-21T08:39:09.735Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-21T07:56:59.852486+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:944"
-  ]
+  }
 }
