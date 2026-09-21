@@ -489,16 +489,6 @@
       "uid": "SPIN:911"
     },
     {
-      "source": "ZONES",
-      "zid": 13,
-      "floor": "Upstairs",
-      "row": 14,
-      "label": "\ud83e\uddfa Stair Basket",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Stair Basket",
-      "uid": "ZONES:13"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 703,
       "row": 13,
@@ -842,10 +832,19 @@
       "sid": 964,
       "label": "Bentley WWAMI APP",
       "uid": "SPIN_WHEEL:964"
+    },
+    {
+      "source": "ZONES",
+      "zid": 14,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Upstairs Hallway",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Upstairs Hallway",
+      "uid": "ZONES:14"
     }
   ],
-  "version": 2396,
-  "updated": "2026-09-21T09:21:43.629647+00:00",
+  "version": 2397,
+  "updated": "2026-09-21T09:51:35.158338+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 58,
