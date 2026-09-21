@@ -198,13 +198,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 924,
-      "row": 49,
-      "label": "Finalize cello recital",
-      "uid": "SPIN:924"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 934,
       "row": 57,
       "label": "Evan sign up for prep median",
@@ -915,11 +908,11 @@
       "uid": "SPIN_WHEEL:957"
     }
   ],
-  "version": 2370,
-  "updated": "2026-09-21T01:00:32.502578+00:00",
+  "version": 2371,
+  "updated": "2026-09-21T01:07:45.888099+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
