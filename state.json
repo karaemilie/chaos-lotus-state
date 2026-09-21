@@ -869,19 +869,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12110,
-      "label": "\u2728 Weekly meal planning",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12110"
-    },
-    {
-      "source": "TASKS",
       "id": 12116,
       "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
       "aw": 3,
@@ -906,10 +893,23 @@
       "sid": 956,
       "label": "Set up tech suit pickup",
       "uid": "SPIN_WHEEL:956"
+    },
+    {
+      "source": "TASKS",
+      "id": 10533,
+      "label": "Lymow - circle back on blades and antenna",
+      "aw": 7,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10533"
     }
   ],
-  "version": 2367,
-  "updated": "2026-09-21T00:04:28.852114+00:00",
+  "version": 2368,
+  "updated": "2026-09-21T00:39:24.438672+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 66,
