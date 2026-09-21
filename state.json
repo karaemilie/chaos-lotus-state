@@ -699,13 +699,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 956,
-      "sid": 956,
-      "label": "Set up tech suit pickup",
-      "uid": "SPIN_WHEEL:956"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 957,
       "sid": 957,
       "label": "Cash Jake\u2019s check",
@@ -845,11 +838,11 @@
       "uid": "TASKS:11317"
     }
   ],
-  "version": 2392,
-  "updated": "2026-09-21T08:41:52.438698+00:00",
+  "version": 2393,
+  "updated": "2026-09-21T08:57:53.669584+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 57,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
