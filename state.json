@@ -64,13 +64,6 @@
       "uid": "COURAGE:11212:0"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 895,
-      "row": 33,
-      "label": "Refund Galatea",
-      "uid": "SPIN:895"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11217,
       "parentRow": 160,
@@ -840,11 +833,11 @@
       "uid": "TASKS:10122"
     }
   ],
-  "version": 2416,
-  "updated": "2026-09-22T07:27:08.177883+00:00",
+  "version": 2417,
+  "updated": "2026-09-22T07:38:43.566078+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 57,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
