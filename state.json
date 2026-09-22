@@ -851,13 +851,20 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Messages",
       "uid": "ZONES:62"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 975,
+      "sid": 975,
+      "label": "Look at how to choose assignments in Prep Median",
+      "uid": "SPIN_WHEEL:975"
     }
   ],
-  "version": 2430,
-  "updated": "2026-09-22T21:07:50.129732+00:00",
+  "version": 2431,
+  "updated": "2026-09-22T21:44:17.741246+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 61,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
