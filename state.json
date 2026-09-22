@@ -143,13 +143,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 934,
-      "row": 57,
-      "label": "Evan sign up for prep median",
-      "uid": "SPIN:934"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 879,
       "row": 26,
       "label": "Deal with pianist for cello recital",
@@ -860,11 +853,11 @@
       "uid": "SPIN_WHEEL:975"
     }
   ],
-  "version": 2431,
-  "updated": "2026-09-22T21:44:17.741246+00:00",
+  "version": 2432,
+  "updated": "2026-09-22T21:45:04.846425+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 60,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
