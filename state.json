@@ -790,15 +790,6 @@
       "uid": "SPIN_WHEEL:964"
     },
     {
-      "source": "ZONES",
-      "zid": 14,
-      "floor": "Upstairs",
-      "label": "\ud83e\uddfa Upstairs Hallway",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Upstairs Hallway",
-      "uid": "ZONES:14"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 965,
       "sid": 965,
@@ -853,10 +844,19 @@
       "sid": 967,
       "label": "Hang new panels",
       "uid": "SPIN_WHEEL:967"
+    },
+    {
+      "source": "ZONES",
+      "zid": 15,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa My Closet",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "My Closet",
+      "uid": "ZONES:15"
     }
   ],
-  "version": 2405,
-  "updated": "2026-09-21T22:06:23.766059+00:00",
+  "version": 2406,
+  "updated": "2026-09-22T00:24:10.228401+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 60,
