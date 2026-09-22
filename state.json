@@ -543,15 +543,6 @@
       "uid": "SPIN:903"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 114,
-      "row": 115,
-      "label": "\ud83c\udfe0 Vacuum kids bathroom ceiling fan",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Vacuum kids bathroom ceiling fan",
-      "uid": "MAINTENANCE:114"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 930,
       "row": 54,
@@ -735,15 +726,6 @@
       "uid": "TASKS:12062"
     },
     {
-      "source": "ZONES",
-      "zid": 90,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Feet Care & Pedi",
-      "uid": "ZONES:90"
-    },
-    {
       "source": "TASKS",
       "id": 10089,
       "label": "Apply for Genevieve's credit card \ud83d\udcdd",
@@ -853,10 +835,27 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "My Closet",
       "uid": "ZONES:15"
+    },
+    {
+      "source": "ZONES",
+      "zid": 81,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Exfoliation",
+      "uid": "ZONES:81"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 115,
+      "label": "\ud83c\udfe0 Window tracks family room",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Window tracks family room",
+      "uid": "MAINTENANCE:115"
     }
   ],
-  "version": 2406,
-  "updated": "2026-09-22T00:24:10.228401+00:00",
+  "version": 2407,
+  "updated": "2026-09-22T00:24:49.991611+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 60,
