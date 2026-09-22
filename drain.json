@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-22T02:57:59.769Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Genevieve socks",
+      "_addedAt": "2026-09-22T04:49:15.247Z",
+      "_ts": "2026-09-22T04:49:15.505Z"
+    }
+  ],
+  "mirroredAt": "2026-09-22T04:49:15.784Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
