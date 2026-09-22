@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-22T02:44:38.220Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order rug!!!",
+      "_addedAt": "2026-09-22T02:57:09.665Z",
+      "_ts": "2026-09-22T02:57:09.818Z"
+    }
+  ],
+  "mirroredAt": "2026-09-22T02:57:10.096Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-22T02:44:39.218653+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:963"
-  ]
+    "adds": 1
+  }
 }
