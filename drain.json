@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 968,
+      "label": "Order rug!!!",
+      "uid": "SPIN_WHEEL:968",
+      "_ts": "2026-09-22T07:55:09.719Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-22T07:53:23.147Z",
+  "mirroredAt": "2026-09-22T07:55:10.048Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-22T07:53:24.256453+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:962"
-  ]
+  }
 }
