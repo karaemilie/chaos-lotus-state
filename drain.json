@@ -1,9 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 14,
+      "floor": "Upstairs",
+      "label": "🧺 Upstairs Hallway",
+      "uid": "ZONES:14",
+      "_ts": "2026-09-22T00:23:52.650Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-21T22:06:22.410Z",
+  "mirroredAt": "2026-09-22T00:23:52.962Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
