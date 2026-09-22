@@ -419,13 +419,6 @@
       "uid": "SPIN:885"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 925,
-      "row": 50,
-      "label": "Find the tag gun",
-      "uid": "SPIN:925"
-    },
-    {
       "source": "TASKS",
       "id": 11710,
       "row": 223,
@@ -832,11 +825,11 @@
       "uid": "TASKS:10132"
     }
   ],
-  "version": 2418,
-  "updated": "2026-09-22T07:39:16.476532+00:00",
+  "version": 2419,
+  "updated": "2026-09-22T07:44:09.882527+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 56,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
