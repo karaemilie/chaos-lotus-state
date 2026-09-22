@@ -135,20 +135,6 @@
       "uid": "SPIN:505"
     },
     {
-      "source": "TASKS",
-      "id": 12103,
-      "row": 366,
-      "label": "\u2728 Recharge my twinkle stars \u2728\ud83d\udd0b",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12103"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 702,
       "row": 12,
@@ -831,10 +817,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10122"
+    },
+    {
+      "source": "TASKS",
+      "id": 10132,
+      "label": "Look through Canon logic book with Lincoln & Evan \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10132"
     }
   ],
-  "version": 2417,
-  "updated": "2026-09-22T07:38:43.566078+00:00",
+  "version": 2418,
+  "updated": "2026-09-22T07:39:16.476532+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 57,
