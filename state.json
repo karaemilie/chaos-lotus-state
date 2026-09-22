@@ -678,15 +678,6 @@
       "uid": "ZONES:44"
     },
     {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
-    },
-    {
       "source": "TASKS",
       "id": 11119,
       "label": "\u2728 Schedule tire change overs \ud83d\ude97\ud83d\udd27",
@@ -852,10 +843,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Reviews",
       "uid": "ZONES:61"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
     }
   ],
-  "version": 2408,
-  "updated": "2026-09-22T02:15:02.132098+00:00",
+  "version": 2409,
+  "updated": "2026-09-22T02:32:02.188653+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 60,
