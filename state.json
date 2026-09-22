@@ -704,19 +704,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10089,
-      "label": "Apply for Genevieve's credit card \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": "Genevieve Credit Card Setup",
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10089"
-    },
-    {
-      "source": "TASKS",
       "id": 11317,
       "label": "Schedule next Create & Learn class for Evan (based on rock climbing schedule) \ud83d\udcdd",
       "aw": 3,
@@ -838,10 +825,23 @@
       "sid": 968,
       "label": "Order rug!!!",
       "uid": "SPIN_WHEEL:968"
+    },
+    {
+      "source": "TASKS",
+      "id": 10122,
+      "label": "Get TV off school room wall",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "School Room Organization",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10122"
     }
   ],
-  "version": 2415,
-  "updated": "2026-09-22T07:24:27.624939+00:00",
+  "version": 2416,
+  "updated": "2026-09-22T07:27:08.177883+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 58,
