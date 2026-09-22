@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 50,
+      "label": "Find the tag gun",
+      "uid": "SPIN:925",
+      "_ts": "2026-09-22T07:43:56.053Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-22T07:39:19.607Z",
+  "mirroredAt": "2026-09-22T07:43:56.388Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-22T07:39:20.617372+00:00",
-  "lastAutoProcessed": [
-    "SPIN:895",
-    "TASKS:12103"
-  ]
+  }
 }
