@@ -785,13 +785,6 @@
       "uid": "ZONES:77"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 968,
-      "sid": 968,
-      "label": "Order rug!!!",
-      "uid": "SPIN_WHEEL:968"
-    },
-    {
       "source": "TASKS",
       "id": 10122,
       "label": "Get TV off school room wall",
@@ -839,11 +832,11 @@
       "uid": "SPIN_WHEEL:971"
     }
   ],
-  "version": 2423,
-  "updated": "2026-09-22T07:53:21.934642+00:00",
+  "version": 2424,
+  "updated": "2026-09-22T07:55:27.123118+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 57,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
