@@ -694,15 +694,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 61,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Reviews",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Reviews",
-      "uid": "ZONES:61"
-    },
-    {
-      "source": "ZONES",
       "zid": 77,
       "floor": "Plant",
       "label": "\ud83c\udf31 Corner Nook B",
@@ -851,10 +842,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Genevieve's Room",
       "uid": "ZONES:16"
+    },
+    {
+      "source": "ZONES",
+      "zid": 62,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Messages",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Messages",
+      "uid": "ZONES:62"
     }
   ],
-  "version": 2429,
-  "updated": "2026-09-22T19:51:31.101766+00:00",
+  "version": 2430,
+  "updated": "2026-09-22T21:07:50.129732+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 60,
