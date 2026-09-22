@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-22T18:55:41.809Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Make pancakes",
+      "_addedAt": "2026-09-22T19:39:11.743Z",
+      "_ts": "2026-09-22T19:39:11.939Z"
+    }
+  ],
+  "mirroredAt": "2026-09-22T19:39:12.191Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
