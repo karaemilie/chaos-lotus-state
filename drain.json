@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 33,
+      "label": "Refund Galatea",
+      "uid": "SPIN:895",
+      "_ts": "2026-09-22T07:38:30.451Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12103,
+      "row": 366,
+      "label": "✨ Recharge my twinkle stars ✨🔋",
+      "uid": "TASKS:12103",
+      "_ts": "2026-09-22T07:39:02.433Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-22T07:38:44.782Z",
+  "mirroredAt": "2026-09-22T07:39:02.664Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-09-22T07:38:45.654049+00:00",
-  "lastAutoProcessed": [
-    "SPIN:895"
-  ]
+  }
 }
