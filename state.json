@@ -579,19 +579,6 @@
       "uid": "TASKS:12067"
     },
     {
-      "source": "TASKS",
-      "id": 12116,
-      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12116"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 955,
       "sid": 955,
@@ -668,32 +655,6 @@
       "uid": "TASKS:12062"
     },
     {
-      "source": "TASKS",
-      "id": 11317,
-      "label": "Schedule next Create & Learn class for Evan (based on rock climbing schedule) \ud83d\udcdd",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Kids",
-      "critical": false,
-      "uid": "TASKS:11317"
-    },
-    {
-      "source": "TASKS",
-      "id": 10113,
-      "label": "Price out benefit of switching to Premera with dual oral surgery benefits \ud83d\udcdd",
-      "aw": 3,
-      "pri": "ASAP",
-      "dur": 45,
-      "ml": "Hard",
-      "proj": "Insurance Admin",
-      "cat": "Finance",
-      "critical": true,
-      "uid": "TASKS:10113"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 964,
       "sid": 964,
@@ -706,32 +667,6 @@
       "sid": 965,
       "label": "Order curtain rods",
       "uid": "SPIN_WHEEL:965"
-    },
-    {
-      "source": "TASKS",
-      "id": 10283,
-      "label": "Help Bentley set up LinkedIn \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10283"
-    },
-    {
-      "source": "TASKS",
-      "id": 10200,
-      "label": "Build shelves into front coat closet - use high space \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Someday",
-      "dur": 90,
-      "ml": "Hard",
-      "proj": "Coat Closet Shelves",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10200"
     },
     {
       "source": "SPIN_WHEEL",
@@ -830,10 +765,75 @@
       "sid": 971,
       "label": "Update this app!!",
       "uid": "SPIN_WHEEL:971"
+    },
+    {
+      "source": "TASKS",
+      "id": 10173,
+      "label": "Help Bentley apply for Gemini card via Jake's referral link \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10173"
+    },
+    {
+      "source": "TASKS",
+      "id": 12068,
+      "label": "\u2728 Trash & recycling to curb",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12068"
+    },
+    {
+      "source": "TASKS",
+      "id": 12076,
+      "label": "\u2728 Send text update to mother-in-law \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12076"
+    },
+    {
+      "source": "TASKS",
+      "id": 12088,
+      "label": "\u2728 Check in on Pura scents - time to refresh?",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12088"
+    },
+    {
+      "source": "TASKS",
+      "id": 12130,
+      "label": "\u2728 Clear the upstairs trashes",
+      "aw": 4,
+      "pri": null,
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": true,
+      "uid": "TASKS:12130"
     }
   ],
-  "version": 2424,
-  "updated": "2026-09-22T07:55:27.123118+00:00",
+  "version": 2425,
+  "updated": "2026-09-22T08:52:30.438583+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 57,
