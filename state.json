@@ -830,13 +830,20 @@
       "cat": "Home",
       "critical": true,
       "uid": "TASKS:12130"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 972,
+      "sid": 972,
+      "label": "Fix GitHub and deploy chaos box to it",
+      "uid": "SPIN_WHEEL:972"
     }
   ],
-  "version": 2425,
-  "updated": "2026-09-22T08:52:30.438583+00:00",
+  "version": 2426,
+  "updated": "2026-09-22T08:52:34.769338+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 58,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
