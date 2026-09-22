@@ -52,13 +52,6 @@
       "uid": "SPIN:936"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 887,
-      "row": 30,
-      "label": "Get down waterproofing spray \ud83e\udd7e",
-      "uid": "SPIN:887"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11212,
       "parentRow": 158,
@@ -847,11 +840,11 @@
       "uid": "SPIN_WHEEL:968"
     }
   ],
-  "version": 2414,
-  "updated": "2026-09-22T05:42:04.131926+00:00",
+  "version": 2415,
+  "updated": "2026-09-22T07:24:27.624939+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 58,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
