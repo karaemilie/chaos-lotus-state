@@ -786,15 +786,6 @@
       "uid": "SPIN_WHEEL:966"
     },
     {
-      "source": "ZONES",
-      "zid": 60,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Photos",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Photos",
-      "uid": "ZONES:60"
-    },
-    {
       "source": "TASKS",
       "id": 10283,
       "label": "Help Bentley set up LinkedIn \ud83d\udcdd",
@@ -852,10 +843,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Window tracks family room",
       "uid": "MAINTENANCE:115"
+    },
+    {
+      "source": "ZONES",
+      "zid": 61,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Reviews",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Reviews",
+      "uid": "ZONES:61"
     }
   ],
-  "version": 2407,
-  "updated": "2026-09-22T00:24:49.991611+00:00",
+  "version": 2408,
+  "updated": "2026-09-22T02:15:02.132098+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 60,
