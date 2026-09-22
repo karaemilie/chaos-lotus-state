@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-22T08:52:33.363Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order reachy mini",
+      "_addedAt": "2026-09-22T18:55:27.868Z",
+      "_ts": "2026-09-22T18:55:28.061Z"
+    }
+  ],
+  "mirroredAt": "2026-09-22T18:55:28.321Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
