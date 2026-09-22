@@ -823,13 +823,20 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10132"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 969,
+      "sid": 969,
+      "label": "Pack 3x5 rug",
+      "uid": "SPIN_WHEEL:969"
     }
   ],
-  "version": 2419,
-  "updated": "2026-09-22T07:44:09.882527+00:00",
+  "version": 2420,
+  "updated": "2026-09-22T07:46:35.735307+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 57,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
