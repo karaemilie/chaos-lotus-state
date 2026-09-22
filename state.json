@@ -620,13 +620,6 @@
       "uid": "SPIN_WHEEL:961"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 962,
-      "sid": 962,
-      "label": "Pick a double hang curtain rod?",
-      "uid": "SPIN_WHEEL:962"
-    },
-    {
       "source": "ZONES",
       "zid": 44,
       "floor": "Basement",
@@ -846,11 +839,11 @@
       "uid": "SPIN_WHEEL:971"
     }
   ],
-  "version": 2422,
-  "updated": "2026-09-22T07:52:41.093969+00:00",
+  "version": 2423,
+  "updated": "2026-09-22T07:53:21.934642+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 58,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
