@@ -838,13 +838,20 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook B",
       "uid": "ZONES:77"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 968,
+      "sid": 968,
+      "label": "Order rug!!!",
+      "uid": "SPIN_WHEEL:968"
     }
   ],
-  "version": 2411,
-  "updated": "2026-09-22T02:44:36.955732+00:00",
+  "version": 2412,
+  "updated": "2026-09-22T02:58:00.742303+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 59,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
