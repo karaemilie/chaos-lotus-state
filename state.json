@@ -844,13 +844,20 @@
       "sid": 973,
       "label": "Order reachy mini",
       "uid": "SPIN_WHEEL:973"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 974,
+      "sid": 974,
+      "label": "Make pancakes",
+      "uid": "SPIN_WHEEL:974"
     }
   ],
-  "version": 2427,
-  "updated": "2026-09-22T18:55:43.090509+00:00",
+  "version": 2428,
+  "updated": "2026-09-22T19:39:31.580680+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 60,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
