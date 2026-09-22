@@ -662,13 +662,6 @@
       "uid": "SPIN_WHEEL:962"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 963,
-      "sid": 963,
-      "label": "Vacumn kids fan, put hose away",
-      "uid": "SPIN_WHEEL:963"
-    },
-    {
       "source": "ZONES",
       "zid": 44,
       "floor": "Basement",
@@ -847,11 +840,11 @@
       "uid": "ZONES:77"
     }
   ],
-  "version": 2410,
-  "updated": "2026-09-22T02:43:54.353232+00:00",
+  "version": 2411,
+  "updated": "2026-09-22T02:44:36.955732+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 58,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
