@@ -830,13 +830,20 @@
       "sid": 969,
       "label": "Pack 3x5 rug",
       "uid": "SPIN_WHEEL:969"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 970,
+      "sid": 970,
+      "label": "Order boys bed frames",
+      "uid": "SPIN_WHEEL:970"
     }
   ],
-  "version": 2420,
-  "updated": "2026-09-22T07:46:35.735307+00:00",
+  "version": 2421,
+  "updated": "2026-09-22T07:51:56.691338+00:00",
   "buckets": {
     "MAINTENANCE": 2,
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 58,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23
