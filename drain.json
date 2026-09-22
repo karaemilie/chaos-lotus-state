@@ -7,12 +7,20 @@
       "label": "🧺 Upstairs Hallway",
       "uid": "ZONES:14",
       "_ts": "2026-09-22T00:23:52.650Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 90,
+      "floor": "Personal",
+      "label": "👱‍♀️ Feet Care & Pedi",
+      "uid": "ZONES:90",
+      "_ts": "2026-09-22T00:24:02.893Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-09-22T00:23:52.962Z",
+  "mirroredAt": "2026-09-22T00:24:03.157Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
