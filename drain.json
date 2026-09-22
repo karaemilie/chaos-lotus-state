@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-22T07:44:11.322Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pack 3x5 rug",
+      "_addedAt": "2026-09-22T07:46:17.249Z",
+      "_ts": "2026-09-22T07:46:17.653Z"
+    }
+  ],
+  "mirroredAt": "2026-09-22T07:46:18.127Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-22T07:44:12.237853+00:00",
-  "lastAutoProcessed": [
-    "SPIN:925"
-  ]
+    "adds": 1
+  }
 }
