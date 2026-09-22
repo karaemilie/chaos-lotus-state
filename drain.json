@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-22T21:07:51.496Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Look at how to choose assignments in Prep Median",
+      "_addedAt": "2026-09-22T21:44:00.184Z",
+      "_ts": "2026-09-22T21:44:00.378Z"
+    }
+  ],
+  "mirroredAt": "2026-09-22T21:44:00.624Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-22T21:07:52.620074+00:00",
-  "lastAutoProcessed": [
-    "ZONES:61"
-  ]
+    "adds": 1
+  }
 }
