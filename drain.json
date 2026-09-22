@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 30,
+      "label": "Get down waterproofing spray 🥾",
+      "uid": "SPIN:887",
+      "_ts": "2026-09-22T07:24:09.624Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-22T05:42:05.306Z",
+  "mirroredAt": "2026-09-22T07:24:09.861Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-22T05:42:06.486995+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:969"
-  ]
+  }
 }
