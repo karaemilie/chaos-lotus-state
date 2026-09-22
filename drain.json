@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 61,
+      "floor": "Digital",
+      "label": "💻 Reviews",
+      "uid": "ZONES:61",
+      "_ts": "2026-09-22T21:07:36.662Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-22T19:51:32.429Z",
+  "mirroredAt": "2026-09-22T21:07:36.918Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-22T19:51:33.716062+00:00",
-  "lastAutoProcessed": [
-    "ZONES:15"
-  ]
+  }
 }
