@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 33,
+      "label": "Refund Galatea",
+      "uid": "SPIN:895",
+      "_ts": "2026-09-22T07:38:30.451Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-22T07:27:10.850Z",
+  "mirroredAt": "2026-09-22T07:38:30.673Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-22T07:27:11.794616+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10089"
-  ]
+  }
 }
