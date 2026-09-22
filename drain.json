@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 10089,
+      "label": "Apply for Genevieve's credit card 📝",
+      "uid": "TASKS:10089",
+      "_ts": "2026-09-22T07:26:46.751Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-22T07:24:29.362Z",
+  "mirroredAt": "2026-09-22T07:26:47.072Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-22T07:24:30.553710+00:00",
-  "lastAutoProcessed": [
-    "SPIN:887"
-  ]
+  }
 }
