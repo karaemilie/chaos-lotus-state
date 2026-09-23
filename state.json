@@ -98,20 +98,6 @@
       "uid": "TASKS:11716"
     },
     {
-      "source": "TASKS",
-      "id": 12066,
-      "row": 337,
-      "label": "\u2728 Update school lists for Lincoln & Evan",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12066"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 882,
       "row": 27,
@@ -849,10 +835,23 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Clean floor vents",
       "uid": "MAINTENANCE:116"
+    },
+    {
+      "source": "TASKS",
+      "id": 10150,
+      "label": "Clean up all shoes in the mudroom \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10150"
     }
   ],
-  "version": 2435,
-  "updated": "2026-09-23T05:31:25.474182+00:00",
+  "version": 2436,
+  "updated": "2026-09-23T05:32:01.593567+00:00",
   "buckets": {
     "SPIN_WHEEL": 60,
     "COURAGE": 4,
