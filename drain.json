@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-23T05:34:38.086Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "See if Freya is vendor with school",
+      "_addedAt": "2026-09-23T06:04:01.949Z",
+      "_ts": "2026-09-23T06:04:02.063Z"
+    }
+  ],
+  "mirroredAt": "2026-09-23T06:04:02.343Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-23T05:34:39.135146+00:00",
-  "lastAutoProcessed": [
-    "ZONES:16"
-  ]
+    "adds": 1
+  }
 }
