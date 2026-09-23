@@ -673,19 +673,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12068,
-      "label": "\u2728 Trash & recycling to curb",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12068"
-    },
-    {
-      "source": "TASKS",
       "id": 12076,
       "label": "\u2728 Send text update to mother-in-law \ud83d\udcdd",
       "aw": 3,
@@ -834,10 +821,23 @@
       "sid": 977,
       "label": "Lincoln Minima list update",
       "uid": "SPIN_WHEEL:977"
+    },
+    {
+      "source": "TASKS",
+      "id": 11948,
+      "label": "Clean bedroom windows \ud83e\ude9f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11948"
     }
   ],
-  "version": 2445,
-  "updated": "2026-09-23T06:31:07.384787+00:00",
+  "version": 2446,
+  "updated": "2026-09-23T06:31:52.869600+00:00",
   "buckets": {
     "SPIN_WHEEL": 58,
     "COURAGE": 4,
