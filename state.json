@@ -559,19 +559,6 @@
       "uid": "TASKS:11907"
     },
     {
-      "source": "TASKS",
-      "id": 12062,
-      "label": "\u2728 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12062"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 964,
       "sid": 964,
@@ -820,10 +807,23 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10181"
+    },
+    {
+      "source": "TASKS",
+      "id": 12094,
+      "label": "Take down dress shoes in closet \ud83d\udc5e",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12094"
     }
   ],
-  "version": 2449,
-  "updated": "2026-09-23T06:38:04.945165+00:00",
+  "version": 2450,
+  "updated": "2026-09-23T07:40:17.734280+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "COURAGE": 4,
