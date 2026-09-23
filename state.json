@@ -60,13 +60,6 @@
       "uid": "COURAGE:11217:0"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 323,
-      "row": 3,
-      "label": "Grab a board to make a domino frame",
-      "uid": "SPIN:323"
-    },
-    {
       "source": "ZONES",
       "zid": 35,
       "floor": "Main Floor",
@@ -850,10 +843,10 @@
       "uid": "SPIN_WHEEL:977"
     }
   ],
-  "version": 2443,
-  "updated": "2026-09-23T06:26:56.677222+00:00",
+  "version": 2444,
+  "updated": "2026-09-23T06:28:22.125306+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 59,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
