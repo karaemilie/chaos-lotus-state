@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-23T07:40:20.260Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Measure total height space garage",
+      "_addedAt": "2026-09-23T08:23:39.765Z",
+      "_ts": "2026-09-23T08:23:39.879Z"
+    }
+  ],
+  "mirroredAt": "2026-09-23T08:23:40.092Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-23T07:40:21.346142+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12062"
-  ]
+    "adds": 1
+  }
 }
