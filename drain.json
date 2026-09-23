@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 44,
+      "floor": "Basement",
+      "label": "🧺 Basement Main Area",
+      "uid": "ZONES:44",
+      "_ts": "2026-09-23T02:25:23.509Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-22T21:45:06.492Z",
+  "mirroredAt": "2026-09-23T02:25:23.947Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-22T21:45:07.552491+00:00",
-  "lastAutoProcessed": [
-    "SPIN:934"
-  ]
+  }
 }
