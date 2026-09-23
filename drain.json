@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-23T06:24:34.598Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 24,
+      "label": "Review Linc Minima list *",
+      "uid": "SPIN:874",
+      "_ts": "2026-09-23T06:24:21.141Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Lincoln Minima list update",
+      "_addedAt": "2026-09-23T06:24:46.014Z",
+      "_ts": "2026-09-23T06:24:46.134Z"
+    }
+  ],
+  "mirroredAt": "2026-09-23T06:24:46.346Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-23T06:24:35.446460+00:00",
-  "lastAutoProcessed": [
-    "SPIN:874"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
