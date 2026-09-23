@@ -848,12 +848,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Kids Bathroom",
       "uid": "ZONES:17"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 976,
+      "sid": 976,
+      "label": "See if Freya is vendor with school",
+      "uid": "SPIN_WHEEL:976"
     }
   ],
-  "version": 2438,
-  "updated": "2026-09-23T05:34:37.018350+00:00",
+  "version": 2439,
+  "updated": "2026-09-23T06:04:18.907987+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 61,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
