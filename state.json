@@ -848,12 +848,19 @@
       "sid": 976,
       "label": "See if Freya is vendor with school",
       "uid": "SPIN_WHEEL:976"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 977,
+      "sid": 977,
+      "label": "Lincoln Minima list update",
+      "uid": "SPIN_WHEEL:977"
     }
   ],
-  "version": 2441,
-  "updated": "2026-09-23T06:25:02.047065+00:00",
+  "version": 2442,
+  "updated": "2026-09-23T06:25:04.818898+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 61,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
