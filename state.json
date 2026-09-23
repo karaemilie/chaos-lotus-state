@@ -2,13 +2,6 @@
   "tasks": [
     {
       "source": "SPIN_WHEEL",
-      "sid": 874,
-      "row": 24,
-      "label": "Review Linc Minima list *",
-      "uid": "SPIN:874"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 856,
       "row": 22,
       "label": "Sign up for voice comp \ud83c\udfa4",
@@ -857,10 +850,10 @@
       "uid": "SPIN_WHEEL:976"
     }
   ],
-  "version": 2439,
-  "updated": "2026-09-23T06:04:18.907987+00:00",
+  "version": 2440,
+  "updated": "2026-09-23T06:24:33.319751+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 60,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
