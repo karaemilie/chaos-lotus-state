@@ -1,15 +1,6 @@
 {
   "tasks": [
     {
-      "source": "MAINTENANCE",
-      "mid": 113,
-      "row": 114,
-      "label": "\ud83c\udfe0 Clean library humidifier",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Clean library humidifier",
-      "uid": "MAINTENANCE:113"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 874,
       "row": 24,
@@ -850,15 +841,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12099"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 116,
+      "label": "\ud83c\udfe0 Clean floor vents",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Clean floor vents",
+      "uid": "MAINTENANCE:116"
     }
   ],
-  "version": 2434,
-  "updated": "2026-09-23T04:55:39.712364+00:00",
+  "version": 2435,
+  "updated": "2026-09-23T05:31:25.474182+00:00",
   "buckets": {
-    "MAINTENANCE": 2,
     "SPIN_WHEEL": 60,
     "COURAGE": 4,
     "ZONES": 7,
-    "TASKS": 23
+    "TASKS": 23,
+    "MAINTENANCE": 2
   }
 }
