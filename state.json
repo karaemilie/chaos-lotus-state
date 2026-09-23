@@ -361,20 +361,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12012,
-      "row": 315,
-      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12012"
-    },
-    {
-      "source": "TASKS",
       "id": 11902,
       "row": 269,
       "label": "\ud83d\udcb8 Next step: Claude robotics research thread \ud83e\udd16",
@@ -851,10 +837,23 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Crawlspace",
       "uid": "ZONES:45"
+    },
+    {
+      "source": "TASKS",
+      "id": 12099,
+      "label": "Schedule windshield glass repair for Tahoe \ud83d\ude97\ud83d\udd27",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12099"
     }
   ],
-  "version": 2433,
-  "updated": "2026-09-23T02:25:40.158287+00:00",
+  "version": 2434,
+  "updated": "2026-09-23T04:55:39.712364+00:00",
   "buckets": {
     "MAINTENANCE": 2,
     "SPIN_WHEEL": 60,
