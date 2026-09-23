@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 114,
+      "label": "🏠 Clean library humidifier",
+      "uid": "MAINTENANCE:113",
+      "_ts": "2026-09-23T05:31:13.291Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-23T04:55:42.870Z",
+  "mirroredAt": "2026-09-23T05:31:13.550Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-23T04:55:43.913147+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12012"
-  ]
+  }
 }
