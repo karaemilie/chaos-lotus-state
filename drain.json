@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 18,
+      "label": "Make snack mix for boys",
+      "uid": "SPIN:831",
+      "_ts": "2026-09-23T06:30:54.434Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12068,
+      "label": "✨ Trash & recycling to curb",
+      "uid": "TASKS:12068",
+      "_ts": "2026-09-23T06:31:37.376Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-23T06:31:08.613Z",
+  "mirroredAt": "2026-09-23T06:31:37.660Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-09-23T06:31:09.615370+00:00",
-  "lastAutoProcessed": [
-    "SPIN:831"
-  ]
+  }
 }
