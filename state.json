@@ -334,13 +334,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 831,
-      "row": 18,
-      "label": "Make snack mix for boys",
-      "uid": "SPIN:831"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 683,
       "row": 11,
       "label": "Send Matt his statements for card",
@@ -843,10 +836,10 @@
       "uid": "SPIN_WHEEL:977"
     }
   ],
-  "version": 2444,
-  "updated": "2026-09-23T06:28:22.125306+00:00",
+  "version": 2445,
+  "updated": "2026-09-23T06:31:07.384787+00:00",
   "buckets": {
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 58,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
