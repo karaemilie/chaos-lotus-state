@@ -660,15 +660,6 @@
       "uid": "SPIN_WHEEL:975"
     },
     {
-      "source": "ZONES",
-      "zid": 45,
-      "floor": "Basement",
-      "label": "\ud83e\uddfa Crawlspace",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Crawlspace",
-      "uid": "ZONES:45"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 116,
       "label": "\ud83c\udfe0 Clean floor vents",
@@ -827,10 +818,19 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12122"
+    },
+    {
+      "source": "ZONES",
+      "zid": 46,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Foyer",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Foyer",
+      "uid": "ZONES:46"
     }
   ],
-  "version": 2452,
-  "updated": "2026-09-24T03:13:17.529332+00:00",
+  "version": 2453,
+  "updated": "2026-09-24T03:17:34.382304+00:00",
   "buckets": {
     "SPIN_WHEEL": 57,
     "COURAGE": 4,
