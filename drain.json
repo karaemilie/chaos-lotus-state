@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 45,
+      "floor": "Basement",
+      "label": "🧺 Crawlspace",
+      "uid": "ZONES:45",
+      "_ts": "2026-09-24T03:17:21.131Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-24T03:13:18.495Z",
+  "mirroredAt": "2026-09-24T03:17:21.367Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-24T03:13:19.427730+00:00",
-  "lastAutoProcessed": [
-    "ZONES:62"
-  ]
+  }
 }
