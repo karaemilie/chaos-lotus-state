@@ -580,15 +580,6 @@
       "uid": "SPIN_WHEEL:967"
     },
     {
-      "source": "ZONES",
-      "zid": 81,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Exfoliation",
-      "uid": "ZONES:81"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 115,
       "label": "\ud83c\udfe0 Window tracks family room",
@@ -827,10 +818,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Foyer",
       "uid": "ZONES:46"
+    },
+    {
+      "source": "ZONES",
+      "zid": 82,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Dermaplane",
+      "uid": "ZONES:82"
     }
   ],
-  "version": 2453,
-  "updated": "2026-09-24T03:17:34.382304+00:00",
+  "version": 2454,
+  "updated": "2026-09-24T03:18:51.088851+00:00",
   "buckets": {
     "SPIN_WHEEL": 57,
     "COURAGE": 4,
