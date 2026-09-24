@@ -606,32 +606,6 @@
       "uid": "ZONES:77"
     },
     {
-      "source": "TASKS",
-      "id": 10122,
-      "label": "Get TV off school room wall",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": "School Room Organization",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10122"
-    },
-    {
-      "source": "TASKS",
-      "id": 10132,
-      "label": "Look through Canon logic book with Lincoln & Evan \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 20,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10132"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 969,
       "sid": 969,
@@ -644,19 +618,6 @@
       "sid": 970,
       "label": "Order boys bed frames",
       "uid": "SPIN_WHEEL:970"
-    },
-    {
-      "source": "TASKS",
-      "id": 10173,
-      "label": "Help Bentley apply for Gemini card via Jake's referral link \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 20,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10173"
     },
     {
       "source": "TASKS",
@@ -692,15 +653,6 @@
       "uid": "SPIN_WHEEL:973"
     },
     {
-      "source": "ZONES",
-      "zid": 62,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Messages",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Messages",
-      "uid": "ZONES:62"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 975,
       "sid": 975,
@@ -717,38 +669,12 @@
       "uid": "ZONES:45"
     },
     {
-      "source": "TASKS",
-      "id": 12099,
-      "label": "Schedule windshield glass repair for Tahoe \ud83d\ude97\ud83d\udd27",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12099"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 116,
       "label": "\ud83c\udfe0 Clean floor vents",
       "emoji": "\ud83c\udfe0",
       "taskName": "Clean floor vents",
       "uid": "MAINTENANCE:116"
-    },
-    {
-      "source": "TASKS",
-      "id": 10150,
-      "label": "Clean up all shoes in the mudroom \ud83d\udcdd",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10150"
     },
     {
       "source": "ZONES",
@@ -827,10 +753,84 @@
       "sid": 978,
       "label": "Measure total height space garage",
       "uid": "SPIN_WHEEL:978"
+    },
+    {
+      "source": "ZONES",
+      "zid": 63,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Calls/Voicemail",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Calls/Voicemail",
+      "uid": "ZONES:63"
+    },
+    {
+      "source": "TASKS",
+      "id": 12045,
+      "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
+      "aw": 6,
+      "pri": "Medium",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12045"
+    },
+    {
+      "source": "TASKS",
+      "id": 12102,
+      "label": "\u2728 Audit spin wheel tasks (keep / edit / convert / delete) \ud83c\udfa1\ud83d\udccb",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12102"
+    },
+    {
+      "source": "TASKS",
+      "id": 12118,
+      "label": "\u2728 Put on new tattoo",
+      "aw": 4,
+      "pri": 3,
+      "dur": 10,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12118"
+    },
+    {
+      "source": "TASKS",
+      "id": 12120,
+      "label": "\u2728 Refill vitamin boxes for Lincoln & Evan \ud83d\udc8a",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:12120"
+    },
+    {
+      "source": "TASKS",
+      "id": 12122,
+      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12122"
     }
   ],
-  "version": 2451,
-  "updated": "2026-09-23T08:23:55.278287+00:00",
+  "version": 2452,
+  "updated": "2026-09-24T03:13:17.529332+00:00",
   "buckets": {
     "SPIN_WHEEL": 57,
     "COURAGE": 4,
