@@ -588,15 +588,6 @@
       "uid": "MAINTENANCE:115"
     },
     {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 969,
       "sid": 969,
@@ -847,10 +838,19 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:12127"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Hallway",
+      "uid": "ZONES:80"
     }
   ],
-  "version": 2456,
-  "updated": "2026-09-25T00:52:08.825909+00:00",
+  "version": 2457,
+  "updated": "2026-09-25T00:52:52.981249+00:00",
   "buckets": {
     "SPIN_WHEEL": 58,
     "COURAGE": 4,
