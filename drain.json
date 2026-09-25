@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12122,
+      "label": "✨ New habit for week? Or new stacked habit? Assess!",
+      "uid": "TASKS:12122",
+      "_ts": "2026-09-25T03:26:06.592Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12127,
+      "label": "✨ Spend time on flower bouquet coding project",
+      "uid": "TASKS:12127",
+      "_ts": "2026-09-25T03:26:31.394Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-25T03:26:21.175Z",
+  "mirroredAt": "2026-09-25T03:26:31.667Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-09-25T03:26:22.093477+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12122"
-  ]
+  }
 }
