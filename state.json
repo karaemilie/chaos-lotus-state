@@ -589,19 +589,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12088,
-      "label": "\u2728 Check in on Pura scents - time to refresh?",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12088"
-    },
-    {
-      "source": "TASKS",
       "id": 12130,
       "label": "\u2728 Clear the upstairs trashes",
       "aw": 4,
@@ -856,13 +843,13 @@
       "uid": "SPIN_WHEEL:982"
     }
   ],
-  "version": 2464,
-  "updated": "2026-09-25T01:11:52.337634+00:00",
+  "version": 2465,
+  "updated": "2026-09-25T01:12:24.168471+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "COURAGE": 4,
     "ZONES": 7,
-    "TASKS": 24,
+    "TASKS": 23,
     "MAINTENANCE": 2
   }
 }
