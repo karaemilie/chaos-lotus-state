@@ -660,15 +660,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 78,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Family Room Props",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Props",
-      "uid": "ZONES:78"
-    },
-    {
-      "source": "ZONES",
       "zid": 17,
       "floor": "Upstairs",
       "label": "\ud83e\uddfa Kids Bathroom",
@@ -689,45 +680,6 @@
       "sid": 977,
       "label": "Lincoln Minima list update",
       "uid": "SPIN_WHEEL:977"
-    },
-    {
-      "source": "TASKS",
-      "id": 11948,
-      "label": "Clean bedroom windows \ud83e\ude9f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11948"
-    },
-    {
-      "source": "TASKS",
-      "id": 10181,
-      "label": "Brainstorm good community service focuses for ALL kids \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": "Community Service",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10181"
-    },
-    {
-      "source": "TASKS",
-      "id": 12094,
-      "label": "Take down dress shoes in closet \ud83d\udc5e",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12094"
     },
     {
       "source": "SPIN_WHEEL",
@@ -834,15 +786,76 @@
       "sid": 979,
       "label": "Figure out why shower is not draining",
       "uid": "SPIN_WHEEL:979"
+    },
+    {
+      "source": "ZONES",
+      "zid": 79,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Kitchen Up High",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Kitchen Up High",
+      "uid": "ZONES:79"
+    },
+    {
+      "source": "TASKS",
+      "id": 12057,
+      "label": "\u2728 Grab the gold candles and charge them \ud83d\udd6f\ufe0f",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12057"
+    },
+    {
+      "source": "TASKS",
+      "id": 12077,
+      "label": "\u2728 Water snake plants",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12077"
+    },
+    {
+      "source": "TASKS",
+      "id": 12121,
+      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12121"
+    },
+    {
+      "source": "TASKS",
+      "id": 12127,
+      "label": "\u2728 Spend time on flower bouquet coding project",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": "Bouquet Tracker",
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12127"
     }
   ],
-  "version": 2455,
-  "updated": "2026-09-24T04:50:28.259469+00:00",
+  "version": 2456,
+  "updated": "2026-09-25T00:52:08.825909+00:00",
   "buckets": {
     "SPIN_WHEEL": 58,
     "COURAGE": 4,
     "ZONES": 7,
-    "TASKS": 23,
+    "TASKS": 24,
     "MAINTENANCE": 2
   }
 }
