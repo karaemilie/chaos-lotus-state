@@ -1,21 +1,6 @@
 {
-  "completions": [
-    {
-      "source": "ZONES",
-      "zid": 78,
-      "floor": "Plant",
-      "label": "🌱 Family Room Props",
-      "uid": "ZONES:78",
-      "_ts": "2026-09-25T00:51:52.596Z"
-    }
-  ],
+  "completions": [],
   "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Order contacts",
-      "_addedAt": "2026-09-25T00:53:23.103Z",
-      "_ts": "2026-09-25T00:53:23.310Z"
-    },
     {
       "source": "PLUS_ADD",
       "label": "Call Katie",
@@ -23,9 +8,9 @@
       "_ts": "2026-09-25T00:53:29.764Z"
     }
   ],
-  "mirroredAt": "2026-09-25T00:53:29.990Z",
+  "mirroredAt": "2026-09-25T00:53:42.050Z",
   "counts": {
-    "completions": 1,
-    "adds": 2
+    "completions": 0,
+    "adds": 1
   }
 }
