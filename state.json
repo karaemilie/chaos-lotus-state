@@ -85,13 +85,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 882,
-      "row": 27,
-      "label": "Five minutes on icon set!",
-      "uid": "SPIN:882"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 6,
       "label": "Compare birch pieces to diagram",
@@ -870,10 +863,10 @@
       "uid": "SPIN_WHEEL:982"
     }
   ],
-  "version": 2462,
-  "updated": "2026-09-25T01:07:20.938102+00:00",
+  "version": 2463,
+  "updated": "2026-09-25T01:08:03.070501+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 60,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 24,
