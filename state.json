@@ -854,12 +854,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "OneTab",
       "uid": "ZONES:64"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 981,
+      "sid": 981,
+      "label": "Call Katie",
+      "uid": "SPIN_WHEEL:981"
     }
   ],
-  "version": 2460,
-  "updated": "2026-09-25T00:54:26.958651+00:00",
+  "version": 2461,
+  "updated": "2026-09-25T00:54:29.837296+00:00",
   "buckets": {
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 60,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 24,
