@@ -855,12 +855,19 @@
       "sid": 984,
       "label": "Figure out GitHub integration",
       "uid": "SPIN_WHEEL:984"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 985,
+      "sid": 985,
+      "label": "Write Miriam again",
+      "uid": "SPIN_WHEEL:985"
     }
   ],
-  "version": 2472,
-  "updated": "2026-09-25T03:30:40.208063+00:00",
+  "version": 2473,
+  "updated": "2026-09-25T16:09:39.635935+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 62,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
