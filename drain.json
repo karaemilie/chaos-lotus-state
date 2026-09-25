@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 42,
+      "label": "Take chip off Taha affair",
+      "uid": "SPIN:915",
+      "_ts": "2026-09-25T01:11:40.447Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12088,
+      "label": "✨ Check in on Pura scents - time to refresh?",
+      "uid": "TASKS:12088",
+      "_ts": "2026-09-25T01:12:12.710Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-25T01:11:53.550Z",
+  "mirroredAt": "2026-09-25T01:12:12.945Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-09-25T01:11:54.315161+00:00",
-  "lastAutoProcessed": [
-    "SPIN:915"
-  ]
+  }
 }
