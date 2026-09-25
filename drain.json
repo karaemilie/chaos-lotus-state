@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-25T03:27:52.026Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Figure out GitHub integration",
+      "_addedAt": "2026-09-25T03:30:28.232Z",
+      "_ts": "2026-09-25T03:30:28.443Z"
+    }
+  ],
+  "mirroredAt": "2026-09-25T03:30:28.682Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-25T03:27:52.922404+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:984"
-  ]
+    "adds": 1
+  }
 }
