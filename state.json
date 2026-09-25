@@ -680,15 +680,6 @@
       "uid": "SPIN_WHEEL:978"
     },
     {
-      "source": "ZONES",
-      "zid": 63,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Calls/Voicemail",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Calls/Voicemail",
-      "uid": "ZONES:63"
-    },
-    {
       "source": "TASKS",
       "id": 12045,
       "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
@@ -854,10 +845,19 @@
       "sid": 980,
       "label": "Order contacts",
       "uid": "SPIN_WHEEL:980"
+    },
+    {
+      "source": "ZONES",
+      "zid": 64,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb OneTab",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "OneTab",
+      "uid": "ZONES:64"
     }
   ],
-  "version": 2459,
-  "updated": "2026-09-25T00:53:43.832744+00:00",
+  "version": 2460,
+  "updated": "2026-09-25T00:54:26.958651+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "COURAGE": 4,
