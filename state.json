@@ -848,12 +848,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11988"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 984,
+      "sid": 984,
+      "label": "Figure out GitHub integration",
+      "uid": "SPIN_WHEEL:984"
     }
   ],
-  "version": 2471,
-  "updated": "2026-09-25T03:27:50.702407+00:00",
+  "version": 2472,
+  "updated": "2026-09-25T03:30:40.208063+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 61,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
