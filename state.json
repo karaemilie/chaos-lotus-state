@@ -588,19 +588,6 @@
       "uid": "SPIN_WHEEL:970"
     },
     {
-      "source": "TASKS",
-      "id": 12130,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:12130"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 973,
       "sid": 973,
@@ -677,19 +664,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12102"
-    },
-    {
-      "source": "TASKS",
-      "id": 12118,
-      "label": "\u2728 Put on new tattoo",
-      "aw": 4,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12118"
     },
     {
       "source": "TASKS",
@@ -841,10 +815,36 @@
       "sid": 982,
       "label": "Next step habit app?",
       "uid": "SPIN_WHEEL:982"
+    },
+    {
+      "source": "TASKS",
+      "id": 11962,
+      "label": "Pair phone to test app \ud83d\udcf1",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11962"
+    },
+    {
+      "source": "TASKS",
+      "id": 10122,
+      "label": "Get TV off school room wall",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "School Room Organization",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10122"
     }
   ],
-  "version": 2465,
-  "updated": "2026-09-25T01:12:24.168471+00:00",
+  "version": 2466,
+  "updated": "2026-09-25T01:13:08.722849+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "COURAGE": 4,
