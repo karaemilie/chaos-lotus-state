@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-25T00:54:28.325Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Next step habit app?",
+      "_addedAt": "2026-09-25T01:07:07.085Z",
+      "_ts": "2026-09-25T01:07:07.286Z"
+    }
+  ],
+  "mirroredAt": "2026-09-25T01:07:07.558Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
