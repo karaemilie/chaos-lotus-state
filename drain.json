@@ -1,9 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-26T04:17:01.234Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 985,
+      "label": "Write Miriam again",
+      "uid": "SPIN_WHEEL:985",
+      "_ts": "2026-09-26T04:17:35.744Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Contaxt RoboMow support",
+      "_addedAt": "2026-09-26T04:16:49.819Z",
+      "_ts": "2026-09-26T04:16:50.008Z"
+    }
+  ],
+  "mirroredAt": "2026-09-26T04:17:35.982Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
