@@ -715,15 +715,6 @@
       "uid": "TASKS:12121"
     },
     {
-      "source": "ZONES",
-      "zid": 80,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Hallway",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Hallway",
-      "uid": "ZONES:80"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 980,
       "sid": 980,
@@ -855,10 +846,19 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:11526"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 2476,
-  "updated": "2026-09-26T00:57:02.233077+00:00",
+  "version": 2477,
+  "updated": "2026-09-26T02:34:51.716585+00:00",
   "buckets": {
     "SPIN_WHEEL": 61,
     "COURAGE": 4,
