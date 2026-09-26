@@ -616,13 +616,6 @@
       "uid": "SPIN_WHEEL:977"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 978,
-      "sid": 978,
-      "label": "Measure total height space garage",
-      "uid": "SPIN_WHEEL:978"
-    },
-    {
       "source": "TASKS",
       "id": 12045,
       "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
@@ -647,19 +640,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12102"
-    },
-    {
-      "source": "TASKS",
-      "id": 12120,
-      "label": "\u2728 Refill vitamin boxes for Lincoln & Evan \ud83d\udc8a",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:12120"
     },
     {
       "source": "ZONES",
@@ -862,12 +842,25 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "My Bedroom",
       "uid": "ZONES:18"
+    },
+    {
+      "source": "TASKS",
+      "id": 11526,
+      "label": "Check if Affinity for iPad is out \ud83d\udcf1\u270f\ufe0f \ud83d\udcdd",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11526"
     }
   ],
-  "version": 2475,
-  "updated": "2026-09-26T00:56:33.614283+00:00",
+  "version": 2476,
+  "updated": "2026-09-26T00:57:02.233077+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 61,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
