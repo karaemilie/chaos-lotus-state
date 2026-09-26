@@ -1,16 +1,16 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-26T02:34:54.343Z",
-  "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-26T02:34:55.269697+00:00",
-  "lastAutoProcessed": [
-    "ZONES:80"
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "label": "🏠 Window tracks hallway",
+      "uid": "MAINTENANCE:117",
+      "_ts": "2026-09-26T03:53:28.000Z"
+    }
   ],
-  "autoReset": [
-    "Plant"
-  ]
+  "adds": [],
+  "mirroredAt": "2026-09-26T03:53:28.274Z",
+  "counts": {
+    "completions": 1,
+    "adds": 0
+  }
 }
