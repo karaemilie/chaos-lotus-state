@@ -805,14 +805,6 @@
       "uid": "SPIN_WHEEL:985"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 117,
-      "label": "\ud83c\udfe0 Window tracks hallway",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Window tracks hallway",
-      "uid": "MAINTENANCE:117"
-    },
-    {
       "source": "TASKS",
       "id": 12027,
       "label": "\u2728 Review next two-three months travel, task to buy tickets (compare one ways and round trips) - mileage tickets \ud83d\udcdd",
@@ -855,10 +847,18 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Bedroom",
       "uid": "ZONES:73"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 118,
+      "label": "\ud83c\udfe0 Wash towels",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Wash towels",
+      "uid": "MAINTENANCE:118"
     }
   ],
-  "version": 2477,
-  "updated": "2026-09-26T02:34:51.716585+00:00",
+  "version": 2478,
+  "updated": "2026-09-26T03:53:43.139780+00:00",
   "buckets": {
     "SPIN_WHEEL": 61,
     "COURAGE": 4,
