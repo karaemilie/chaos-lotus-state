@@ -566,14 +566,6 @@
       "uid": "SPIN_WHEEL:967"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 115,
-      "label": "\ud83c\udfe0 Window tracks family room",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Window tracks family room",
-      "uid": "MAINTENANCE:115"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 969,
       "sid": 969,
@@ -792,19 +784,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11962,
-      "label": "Pair phone to test app \ud83d\udcf1",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11962"
-    },
-    {
-      "source": "TASKS",
       "id": 10122,
       "label": "Get TV off school room wall",
       "aw": 7,
@@ -862,10 +841,31 @@
       "sid": 985,
       "label": "Write Miriam again",
       "uid": "SPIN_WHEEL:985"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 117,
+      "label": "\ud83c\udfe0 Window tracks hallway",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Window tracks hallway",
+      "uid": "MAINTENANCE:117"
+    },
+    {
+      "source": "TASKS",
+      "id": 12027,
+      "label": "\u2728 Review next two-three months travel, task to buy tickets (compare one ways and round trips) - mileage tickets \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12027"
     }
   ],
-  "version": 2473,
-  "updated": "2026-09-25T16:09:39.635935+00:00",
+  "version": 2474,
+  "updated": "2026-09-26T00:08:00.274196+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "COURAGE": 4,
