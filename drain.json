@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-26T04:12:50.630Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Contaxt RoboMow support",
+      "_addedAt": "2026-09-26T04:16:49.819Z",
+      "_ts": "2026-09-26T04:16:50.008Z"
+    }
+  ],
+  "mirroredAt": "2026-09-26T04:16:50.276Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-26T04:12:51.631791+00:00",
-  "lastAutoProcessed": [
-    "ZONES:46"
-  ]
+    "adds": 1
+  }
 }
