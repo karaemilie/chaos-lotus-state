@@ -643,15 +643,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 46,
-      "floor": "Basement",
-      "label": "\ud83e\uddfa Basement Foyer",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Foyer",
-      "uid": "ZONES:46"
-    },
-    {
-      "source": "ZONES",
       "zid": 82,
       "floor": "Personal",
       "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
@@ -855,10 +846,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Wash towels",
       "uid": "MAINTENANCE:118"
+    },
+    {
+      "source": "ZONES",
+      "zid": 47,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Back Annex",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Back Annex",
+      "uid": "ZONES:47"
     }
   ],
-  "version": 2478,
-  "updated": "2026-09-26T03:53:43.139780+00:00",
+  "version": 2479,
+  "updated": "2026-09-26T04:12:49.442444+00:00",
   "buckets": {
     "SPIN_WHEEL": 61,
     "COURAGE": 4,
