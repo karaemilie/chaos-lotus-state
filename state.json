@@ -668,19 +668,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12057,
-      "label": "\u2728 Grab the gold candles and charge them \ud83d\udd6f\ufe0f",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12057"
-    },
-    {
-      "source": "TASKS",
       "id": 12121,
       "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
       "aw": 4,
@@ -855,10 +842,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11946"
+    },
+    {
+      "source": "TASKS",
+      "id": 11948,
+      "label": "Clean bedroom windows \ud83e\ude9f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11948"
     }
   ],
-  "version": 2482,
-  "updated": "2026-09-26T04:20:11.643328+00:00",
+  "version": 2483,
+  "updated": "2026-09-26T04:24:10.028440+00:00",
   "buckets": {
     "SPIN_WHEEL": 61,
     "COURAGE": 4,
