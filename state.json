@@ -789,13 +789,6 @@
       "uid": "SPIN_WHEEL:984"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 985,
-      "sid": 985,
-      "label": "Write Miriam again",
-      "uid": "SPIN_WHEEL:985"
-    },
-    {
       "source": "TASKS",
       "id": 12027,
       "label": "\u2728 Review next two-three months travel, task to buy tickets (compare one ways and round trips) - mileage tickets \ud83d\udcdd",
@@ -864,10 +857,10 @@
       "uid": "SPIN_WHEEL:986"
     }
   ],
-  "version": 2480,
-  "updated": "2026-09-26T04:17:02.321409+00:00",
+  "version": 2481,
+  "updated": "2026-09-26T04:17:48.044479+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 61,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
