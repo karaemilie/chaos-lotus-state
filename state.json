@@ -862,12 +862,19 @@
       "sid": 987,
       "label": "Add tire changer to calendar",
       "uid": "SPIN_WHEEL:987"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 988,
+      "sid": 988,
+      "label": "Contact RoboRock about reset",
+      "uid": "SPIN_WHEEL:988"
     }
   ],
-  "version": 2484,
-  "updated": "2026-09-27T00:46:58.700966+00:00",
+  "version": 2485,
+  "updated": "2026-09-27T00:47:37.181292+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 63,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
