@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-27T00:47:35.793Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add Tim dinner to calendar",
+      "_addedAt": "2026-09-27T03:27:53.200Z",
+      "_ts": "2026-09-27T03:27:53.382Z"
+    }
+  ],
+  "mirroredAt": "2026-09-27T03:27:53.681Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
