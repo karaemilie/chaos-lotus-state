@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-27T03:28:06.511Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Spray my plant shelf",
+      "_addedAt": "2026-09-27T05:38:53.854Z",
+      "_ts": "2026-09-27T05:38:54.170Z"
+    }
+  ],
+  "mirroredAt": "2026-09-27T05:38:54.397Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
