@@ -113,13 +113,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 922,
-      "row": 47,
-      "label": "Check PayPal for ReelShort cancellation",
-      "uid": "SPIN:922"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 923,
       "row": 48,
       "label": "Try mineral spirits on grey table",
@@ -843,10 +836,10 @@
       "uid": "TASKS:12136"
     }
   ],
-  "version": 2496,
-  "updated": "2026-09-28T06:39:29.387445+00:00",
+  "version": 2497,
+  "updated": "2026-09-28T07:25:52.456239+00:00",
   "buckets": {
-    "SPIN_WHEEL": 59,
+    "SPIN_WHEEL": 58,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
