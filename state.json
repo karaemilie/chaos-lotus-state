@@ -230,13 +230,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 938,
-      "row": 61,
-      "label": "First flight for Jake",
-      "uid": "SPIN:938"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 870,
       "row": 23,
       "label": "Transfer money to reimburse Genevieve for test fee, log in .xls too \ud83d\udcb0",
@@ -834,10 +827,10 @@
       "uid": "TASKS:12143"
     }
   ],
-  "version": 2502,
-  "updated": "2026-09-28T08:17:03.762952+00:00",
+  "version": 2503,
+  "updated": "2026-09-28T08:17:48.059705+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 55,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 24,
