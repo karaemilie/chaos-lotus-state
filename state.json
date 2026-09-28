@@ -710,15 +710,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 18,
-      "floor": "Upstairs",
-      "label": "\ud83e\uddfa My Bedroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "My Bedroom",
-      "uid": "ZONES:18"
-    },
-    {
-      "source": "ZONES",
       "zid": 47,
       "floor": "Basement",
       "label": "\ud83e\uddfa Back Annex",
@@ -827,15 +818,50 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Plants",
       "uid": "ZONES:74"
+    },
+    {
+      "source": "ZONES",
+      "zid": 19,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa My Bathroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "My Bathroom",
+      "uid": "ZONES:19"
+    },
+    {
+      "source": "TASKS",
+      "id": 12133,
+      "label": "\u2728 Check for South weekly schedule adjustments",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12133"
+    },
+    {
+      "source": "TASKS",
+      "id": 12143,
+      "label": "\u2728 Clear the upstairs trashes",
+      "aw": 4,
+      "pri": null,
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": true,
+      "uid": "TASKS:12143"
     }
   ],
-  "version": 2499,
-  "updated": "2026-09-28T07:30:15.047319+00:00",
+  "version": 2500,
+  "updated": "2026-09-28T08:07:52.762850+00:00",
   "buckets": {
     "SPIN_WHEEL": 57,
     "COURAGE": 4,
     "ZONES": 7,
-    "TASKS": 23,
+    "TASKS": 25,
     "MAINTENANCE": 2
   }
 }
