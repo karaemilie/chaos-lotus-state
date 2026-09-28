@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 986,
+      "label": "Contaxt RoboMow support",
+      "uid": "SPIN_WHEEL:986",
+      "_ts": "2026-09-28T02:37:13.398Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-28T02:30:03.398Z",
+  "mirroredAt": "2026-09-28T02:37:13.813Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-28T02:30:04.336800+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12065",
-    "TASKS:12137"
-  ]
+  }
 }
