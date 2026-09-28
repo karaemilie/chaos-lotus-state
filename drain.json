@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12065,
+      "label": "✨ Review Pura schedules, adjust/turn off where not needed",
+      "uid": "TASKS:12065",
+      "_ts": "2026-09-28T02:29:22.810Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-28T01:06:32.771Z",
+  "mirroredAt": "2026-09-28T02:29:23.043Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-28T01:06:33.732171+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:989"
-  ]
+  }
 }
