@@ -483,19 +483,6 @@
       "uid": "TASKS:11119"
     },
     {
-      "source": "TASKS",
-      "id": 11907,
-      "label": "\u2728 List 3-5 plants for sale on marketplace \ud83e\udeb4\ud83d\udcb0 \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Normal",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11907"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 964,
       "sid": 964,
@@ -827,13 +814,13 @@
       "uid": "TASKS:12143"
     }
   ],
-  "version": 2503,
-  "updated": "2026-09-28T08:17:48.059705+00:00",
+  "version": 2504,
+  "updated": "2026-09-28T08:18:40.632599+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "COURAGE": 4,
     "ZONES": 7,
-    "TASKS": 24,
+    "TASKS": 23,
     "MAINTENANCE": 2
   }
 }
