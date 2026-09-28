@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 41,
+      "label": "Set up a cloud flare address for new habit tracker",
+      "uid": "SPIN:911",
+      "_ts": "2026-09-28T08:16:49.834Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 61,
+      "label": "First flight for Jake",
+      "uid": "SPIN:938",
+      "_ts": "2026-09-28T08:17:35.210Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-28T08:17:05.225Z",
+  "mirroredAt": "2026-09-28T08:17:35.595Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-09-28T08:17:06.533870+00:00",
-  "lastAutoProcessed": [
-    "SPIN:911"
-  ]
+  }
 }
