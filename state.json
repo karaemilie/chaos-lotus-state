@@ -734,14 +734,6 @@
       "uid": "ZONES:73"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 118,
-      "label": "\ud83c\udfe0 Wash towels",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Wash towels",
-      "uid": "MAINTENANCE:118"
-    },
-    {
       "source": "ZONES",
       "zid": 47,
       "floor": "Basement",
@@ -834,10 +826,18 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:12136"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 119,
+      "label": "\ud83c\udfe0 Trim cat claws",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Trim cat claws",
+      "uid": "MAINTENANCE:119"
     }
   ],
-  "version": 2497,
-  "updated": "2026-09-28T07:25:52.456239+00:00",
+  "version": 2498,
+  "updated": "2026-09-28T07:29:39.356624+00:00",
   "buckets": {
     "SPIN_WHEEL": 58,
     "COURAGE": 4,
