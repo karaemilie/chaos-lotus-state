@@ -773,13 +773,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 988,
-      "sid": 988,
-      "label": "Contact RoboRock about reset",
-      "uid": "SPIN_WHEEL:988"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 990,
       "sid": 990,
       "label": "Spray my plant shelf",
@@ -864,10 +857,10 @@
       "uid": "TASKS:12136"
     }
   ],
-  "version": 2493,
-  "updated": "2026-09-28T02:50:33.787764+00:00",
+  "version": 2494,
+  "updated": "2026-09-28T04:47:28.175352+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 61,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
