@@ -766,13 +766,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 987,
-      "sid": 987,
-      "label": "Add tire changer to calendar",
-      "uid": "SPIN_WHEEL:987"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 990,
       "sid": 990,
       "label": "Spray my plant shelf",
@@ -857,10 +850,10 @@
       "uid": "TASKS:12136"
     }
   ],
-  "version": 2494,
-  "updated": "2026-09-28T04:47:28.175352+00:00",
+  "version": 2495,
+  "updated": "2026-09-28T04:48:13.944911+00:00",
   "buckets": {
-    "SPIN_WHEEL": 61,
+    "SPIN_WHEEL": 60,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
