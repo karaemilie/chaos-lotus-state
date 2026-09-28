@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 54,
+      "label": "Schedule weekly Viola lessons",
+      "uid": "SPIN:930",
+      "_ts": "2026-09-28T06:39:16.139Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-28T04:48:15.420Z",
+  "mirroredAt": "2026-09-28T06:39:16.364Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-28T04:48:16.341765+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:988",
-    "SPIN_WHEEL:987"
-  ]
+  }
 }
