@@ -70,20 +70,6 @@
       "uid": "ZONES:35"
     },
     {
-      "source": "TASKS",
-      "id": 11716,
-      "row": 226,
-      "label": "\u2728 Measure Evan \ud83d\udcdd",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11716"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 6,
@@ -855,13 +841,13 @@
       "uid": "TASKS:12143"
     }
   ],
-  "version": 2500,
-  "updated": "2026-09-28T08:07:52.762850+00:00",
+  "version": 2501,
+  "updated": "2026-09-28T08:08:28.196212+00:00",
   "buckets": {
     "SPIN_WHEEL": 57,
     "COURAGE": 4,
     "ZONES": 7,
-    "TASKS": 25,
+    "TASKS": 24,
     "MAINTENANCE": 2
   }
 }
