@@ -320,13 +320,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 614,
-      "row": 10,
-      "label": "More garage film work!",
-      "uid": "SPIN:614"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 885,
       "row": 29,
       "label": "Take drill outside and work on raspberry bed edging \ud83e\uded0",
@@ -726,15 +719,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
-      "source": "ZONES",
       "zid": 47,
       "floor": "Basement",
       "label": "\ud83e\uddfa Back Annex",
@@ -834,12 +818,21 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Trim cat claws",
       "uid": "MAINTENANCE:119"
+    },
+    {
+      "source": "ZONES",
+      "zid": 74,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Plants",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Plants",
+      "uid": "ZONES:74"
     }
   ],
-  "version": 2498,
-  "updated": "2026-09-28T07:29:39.356624+00:00",
+  "version": 2499,
+  "updated": "2026-09-28T07:30:15.047319+00:00",
   "buckets": {
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 57,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
