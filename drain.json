@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 18,
+      "floor": "Upstairs",
+      "label": "🧺 My Bedroom",
+      "uid": "ZONES:18",
+      "_ts": "2026-09-28T08:07:37.498Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11716,
+      "row": 226,
+      "label": "✨ Measure Evan 📝",
+      "uid": "TASKS:11716",
+      "_ts": "2026-09-28T08:08:13.217Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-28T08:07:54.150Z",
+  "mirroredAt": "2026-09-28T08:08:13.455Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-09-28T08:07:55.263938+00:00",
-  "lastAutoProcessed": [
-    "ZONES:18"
-  ]
+  }
 }
