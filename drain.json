@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 989,
+      "label": "Add Tim dinner to calendar",
+      "uid": "SPIN_WHEEL:989",
+      "_ts": "2026-09-28T01:06:20.436Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-28T01:05:40.161Z",
+  "mirroredAt": "2026-09-28T01:06:20.683Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-28T01:05:41.136094+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:980"
-  ]
+  }
 }
