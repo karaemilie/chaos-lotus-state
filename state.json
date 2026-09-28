@@ -787,13 +787,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 989,
-      "sid": 989,
-      "label": "Add Tim dinner to calendar",
-      "uid": "SPIN_WHEEL:989"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 990,
       "sid": 990,
       "label": "Spray my plant shelf",
@@ -917,10 +910,10 @@
       "uid": "TASKS:12137"
     }
   ],
-  "version": 2488,
-  "updated": "2026-09-28T01:05:38.697651+00:00",
+  "version": 2489,
+  "updated": "2026-09-28T01:06:31.522550+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 26,
