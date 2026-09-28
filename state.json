@@ -327,13 +327,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 911,
-      "row": 41,
-      "label": "Set up a cloud flare address for new habit tracker",
-      "uid": "SPIN:911"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 703,
       "row": 13,
       "label": "Steam the new dress shirts",
@@ -841,10 +834,10 @@
       "uid": "TASKS:12143"
     }
   ],
-  "version": 2501,
-  "updated": "2026-09-28T08:08:28.196212+00:00",
+  "version": 2502,
+  "updated": "2026-09-28T08:17:03.762952+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 56,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 24,
