@@ -882,28 +882,15 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:12136"
-    },
-    {
-      "source": "TASKS",
-      "id": 12137,
-      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12137"
     }
   ],
-  "version": 2490,
-  "updated": "2026-09-28T02:29:33.380695+00:00",
+  "version": 2491,
+  "updated": "2026-09-28T02:30:00.443647+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "COURAGE": 4,
     "ZONES": 7,
-    "TASKS": 25,
+    "TASKS": 24,
     "MAINTENANCE": 2
   }
 }
