@@ -680,13 +680,6 @@
       "uid": "TASKS:12121"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 980,
-      "sid": 980,
-      "label": "Order contacts",
-      "uid": "SPIN_WHEEL:980"
-    },
-    {
       "source": "ZONES",
       "zid": 64,
       "floor": "Digital",
@@ -710,50 +703,11 @@
       "uid": "SPIN_WHEEL:982"
     },
     {
-      "source": "TASKS",
-      "id": 10122,
-      "label": "Get TV off school room wall",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": "School Room Organization",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10122"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 983,
       "sid": 983,
       "label": "Extension cord for family room temp plant setup",
       "uid": "SPIN_WHEEL:983"
-    },
-    {
-      "source": "TASKS",
-      "id": 11944,
-      "label": "Work on Evan diet plan \ud83e\udd57",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:11944"
-    },
-    {
-      "source": "TASKS",
-      "id": 11988,
-      "label": "Follow up with body shop if I haven't heard back \ud83d\udcde\ud83d\udd27",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11988"
     },
     {
       "source": "SPIN_WHEEL",
@@ -783,19 +737,6 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "My Bedroom",
       "uid": "ZONES:18"
-    },
-    {
-      "source": "TASKS",
-      "id": 11526,
-      "label": "Check if Affinity for iPad is out \ud83d\udcf1\u270f\ufe0f \ud83d\udcdd",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11526"
     },
     {
       "source": "ZONES",
@@ -831,32 +772,6 @@
       "uid": "SPIN_WHEEL:986"
     },
     {
-      "source": "TASKS",
-      "id": 11946,
-      "label": "Move quilt to right \ud83d\udecf\ufe0f",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11946"
-    },
-    {
-      "source": "TASKS",
-      "id": 11948,
-      "label": "Clean bedroom windows \ud83e\ude9f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11948"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 987,
       "sid": 987,
@@ -883,15 +798,132 @@
       "sid": 990,
       "label": "Spray my plant shelf",
       "uid": "SPIN_WHEEL:990"
+    },
+    {
+      "source": "TASKS",
+      "id": 11866,
+      "label": "\u2728 Eval check in: kids income, file status, AOTC and Lifetime Learning Credit \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:11866"
+    },
+    {
+      "source": "TASKS",
+      "id": 12023,
+      "label": "\u2728 Throw cat fountain in dishwasher \ud83d\udc31\ud83e\udee7",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12023"
+    },
+    {
+      "source": "TASKS",
+      "id": 12065,
+      "label": "\u2728 Review Pura schedules, adjust/turn off where not needed",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12065"
+    },
+    {
+      "source": "TASKS",
+      "id": 12124,
+      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12124"
+    },
+    {
+      "source": "TASKS",
+      "id": 12125,
+      "label": "\u2728 Weekly meal planning",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12125"
+    },
+    {
+      "source": "TASKS",
+      "id": 12132,
+      "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12132"
+    },
+    {
+      "source": "TASKS",
+      "id": 12135,
+      "label": "\u2728 Recharge my twinkle stars \u2728\ud83d\udd0b",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12135"
+    },
+    {
+      "source": "TASKS",
+      "id": 12136,
+      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12136"
+    },
+    {
+      "source": "TASKS",
+      "id": 12137,
+      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12137"
     }
   ],
-  "version": 2487,
-  "updated": "2026-09-27T05:39:07.670943+00:00",
+  "version": 2488,
+  "updated": "2026-09-28T01:05:38.697651+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "COURAGE": 4,
     "ZONES": 7,
-    "TASKS": 23,
+    "TASKS": 26,
     "MAINTENANCE": 2
   }
 }
