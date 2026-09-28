@@ -820,19 +820,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12065,
-      "label": "\u2728 Review Pura schedules, adjust/turn off where not needed",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12065"
-    },
-    {
-      "source": "TASKS",
       "id": 12124,
       "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
       "aw": 7,
@@ -910,13 +897,13 @@
       "uid": "TASKS:12137"
     }
   ],
-  "version": 2489,
-  "updated": "2026-09-28T01:06:31.522550+00:00",
+  "version": 2490,
+  "updated": "2026-09-28T02:29:33.380695+00:00",
   "buckets": {
     "SPIN_WHEEL": 63,
     "COURAGE": 4,
     "ZONES": 7,
-    "TASKS": 26,
+    "TASKS": 25,
     "MAINTENANCE": 2
   }
 }
