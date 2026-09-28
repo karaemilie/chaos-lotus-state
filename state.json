@@ -470,19 +470,6 @@
       "uid": "SPIN_WHEEL:961"
     },
     {
-      "source": "TASKS",
-      "id": 11119,
-      "label": "\u2728 Schedule tire change overs \ud83d\ude97\ud83d\udd27",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11119"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 964,
       "sid": 964,
@@ -677,13 +664,6 @@
       "uid": "ZONES:47"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 990,
-      "sid": 990,
-      "label": "Spray my plant shelf",
-      "uid": "SPIN_WHEEL:990"
-    },
-    {
       "source": "TASKS",
       "id": 12023,
       "label": "\u2728 Throw cat fountain in dishwasher \ud83d\udc31\ud83e\udee7",
@@ -812,12 +792,25 @@
       "cat": "Home",
       "critical": true,
       "uid": "TASKS:12143"
+    },
+    {
+      "source": "TASKS",
+      "id": 11941,
+      "label": "Test prep plan for Lincoln \ud83d\udcda",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:11941"
     }
   ],
-  "version": 2504,
-  "updated": "2026-09-28T08:18:40.632599+00:00",
+  "version": 2505,
+  "updated": "2026-09-28T08:35:10.432038+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 54,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
