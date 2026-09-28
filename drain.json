@@ -1,14 +1,31 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 41,
+      "label": "Set up a cloud flare address for new habit tracker",
+      "uid": "SPIN:911",
+      "_ts": "2026-09-28T08:16:49.834Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 61,
+      "label": "First flight for Jake",
+      "uid": "SPIN:938",
+      "_ts": "2026-09-28T08:17:35.210Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11907,
+      "label": "✨ List 3-5 plants for sale on marketplace 🪴💰 📝",
+      "uid": "TASKS:11907",
+      "_ts": "2026-09-28T08:18:26.080Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-28T08:17:49.298Z",
+  "mirroredAt": "2026-09-28T08:18:26.360Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-09-28T08:17:50.378248+00:00",
-  "lastAutoProcessed": [
-    "SPIN:911",
-    "SPIN:938"
-  ]
+  }
 }
