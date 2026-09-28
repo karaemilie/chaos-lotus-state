@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 47,
+      "label": "Check PayPal for ReelShort cancellation",
+      "uid": "SPIN:922",
+      "_ts": "2026-09-28T07:25:38.737Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-28T06:39:30.530Z",
+  "mirroredAt": "2026-09-28T07:25:38.956Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-28T06:39:31.654330+00:00",
-  "lastAutoProcessed": [
-    "SPIN:930"
-  ]
+  }
 }
