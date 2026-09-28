@@ -1,13 +1,31 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "label": "🏠 Wash towels",
+      "uid": "MAINTENANCE:118",
+      "_ts": "2026-09-28T07:29:27.660Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 10,
+      "label": "More garage film work!",
+      "uid": "SPIN:614",
+      "_ts": "2026-09-28T07:29:40.471Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "🌱 Bedroom",
+      "uid": "ZONES:73",
+      "_ts": "2026-09-28T07:29:59.237Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-28T07:29:40.487Z",
+  "mirroredAt": "2026-09-28T07:29:59.508Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-09-28T07:29:41.306345+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:118"
-  ]
+  }
 }
