@@ -1,13 +1,16 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "label": "🏠 Clean floor vents",
+      "uid": "MAINTENANCE:116",
+      "_ts": "2026-09-29T02:42:53.539Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-29T02:35:16.625Z",
+  "mirroredAt": "2026-09-29T02:42:53.780Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-29T02:35:17.710306+00:00",
-  "lastAutoProcessed": [
-    "ZONES:19"
-  ]
+  }
 }
