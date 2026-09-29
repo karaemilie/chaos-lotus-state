@@ -567,15 +567,6 @@
       "uid": "TASKS:12102"
     },
     {
-      "source": "ZONES",
-      "zid": 82,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Dermaplane",
-      "uid": "ZONES:82"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 979,
       "sid": 979,
@@ -805,10 +796,19 @@
       "cat": "Family/Education",
       "critical": false,
       "uid": "TASKS:11941"
+    },
+    {
+      "source": "ZONES",
+      "zid": 83,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Retainer",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Retainer",
+      "uid": "ZONES:83"
     }
   ],
-  "version": 2505,
-  "updated": "2026-09-28T08:35:10.432038+00:00",
+  "version": 2506,
+  "updated": "2026-09-29T00:09:19.022651+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "COURAGE": 4,
