@@ -319,20 +319,6 @@
       "uid": "SPIN:703"
     },
     {
-      "source": "TASKS",
-      "id": 12105,
-      "row": 368,
-      "label": "\u2728 Swap out seasonal sweaters & dresses \ud83e\uddf6\ud83d\udc57",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12105"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10187,
       "parentRow": 49,
@@ -812,10 +798,23 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Hand Care & Mani",
       "uid": "ZONES:84"
+    },
+    {
+      "source": "TASKS",
+      "id": 10085,
+      "label": "Create music folder \"zone\" \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": "Music Room Organization",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10085"
     }
   ],
-  "version": 2516,
-  "updated": "2026-09-29T06:52:13.683198+00:00",
+  "version": 2517,
+  "updated": "2026-09-29T06:59:09.756731+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "COURAGE": 4,
