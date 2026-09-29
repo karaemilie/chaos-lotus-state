@@ -716,14 +716,6 @@
       "uid": "TASKS:12136"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 119,
-      "label": "\ud83c\udfe0 Trim cat claws",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Trim cat claws",
-      "uid": "MAINTENANCE:119"
-    },
-    {
       "source": "TASKS",
       "id": 12133,
       "label": "\u2728 Check for South weekly schedule adjustments",
@@ -819,10 +811,18 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Emails",
       "uid": "ZONES:65"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 121,
+      "label": "\ud83c\udfe0 Vacuum the upstairs",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Vacuum the upstairs",
+      "uid": "MAINTENANCE:121"
     }
   ],
-  "version": 2512,
-  "updated": "2026-09-29T05:45:25.055483+00:00",
+  "version": 2513,
+  "updated": "2026-09-29T05:45:52.854398+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "COURAGE": 4,
