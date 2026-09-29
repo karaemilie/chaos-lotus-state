@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 984,
+      "label": "Figure out GitHub integration",
+      "uid": "SPIN_WHEEL:984",
+      "_ts": "2026-09-29T09:23:40.467Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-29T09:02:03.477Z",
+  "mirroredAt": "2026-09-29T09:23:40.704Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-29T09:02:04.334447+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:983"
-  ]
+  }
 }
