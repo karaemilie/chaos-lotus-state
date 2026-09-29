@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12105,
+      "row": 368,
+      "label": "✨ Swap out seasonal sweaters & dresses 🧶👗",
+      "uid": "TASKS:12105",
+      "_ts": "2026-09-29T06:58:59.271Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 961,
+      "label": "Upload fixed kid/errand apps with fixed enter key",
+      "uid": "SPIN_WHEEL:961",
+      "_ts": "2026-09-29T06:59:55.960Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-29T06:59:12.398Z",
+  "mirroredAt": "2026-09-29T06:59:56.191Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-09-29T06:59:13.856762+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12105"
-  ]
+  }
 }
