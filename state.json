@@ -634,19 +634,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12133,
-      "label": "\u2728 Check for South weekly schedule adjustments",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12133"
-    },
-    {
-      "source": "TASKS",
       "id": 12143,
       "label": "\u2728 Clear the upstairs trashes",
       "aw": 4,
@@ -797,10 +784,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10014"
+    },
+    {
+      "source": "TASKS",
+      "id": 10020,
+      "label": "Cut sides for in-wall cabinets",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Medium",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10020"
     }
   ],
-  "version": 2519,
-  "updated": "2026-09-29T07:00:53.283984+00:00",
+  "version": 2520,
+  "updated": "2026-09-29T07:01:34.771875+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
     "COURAGE": 4,
