@@ -1,17 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 82,
+      "floor": "Personal",
+      "label": "👱‍♀️ Dermaplane",
+      "uid": "ZONES:82",
+      "_ts": "2026-09-29T00:09:03.332Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-28T08:35:13.636Z",
+  "mirroredAt": "2026-09-29T00:09:03.679Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-28T08:35:14.896650+00:00",
-  "lastAutoProcessed": [
-    "SPIN:911",
-    "SPIN:938",
-    "SPIN_WHEEL:990",
-    "TASKS:11907",
-    "TASKS:11119"
-  ]
+  }
 }
