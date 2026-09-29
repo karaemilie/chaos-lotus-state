@@ -506,19 +506,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12045,
-      "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
-      "aw": 6,
-      "pri": "Medium",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:12045"
-    },
-    {
-      "source": "TASKS",
       "id": 12102,
       "label": "\u2728 Audit spin wheel tasks (keep / edit / convert / delete) \ud83c\udfa1\ud83d\udccb",
       "aw": 4,
@@ -529,26 +516,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12102"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 979,
-      "sid": 979,
-      "label": "Figure out why shower is not draining",
-      "uid": "SPIN_WHEEL:979"
-    },
-    {
-      "source": "TASKS",
-      "id": 12121,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12121"
     },
     {
       "source": "SPIN_WHEEL",
@@ -612,19 +579,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12023"
-    },
-    {
-      "source": "TASKS",
-      "id": 12124,
-      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12124"
     },
     {
       "source": "TASKS",
@@ -804,12 +758,51 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10085"
+    },
+    {
+      "source": "TASKS",
+      "id": 11963,
+      "label": "Put 30-day channel launch timeline on physical calendar + pull stickers \ud83d\udcc5",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11963"
+    },
+    {
+      "source": "TASKS",
+      "id": 10132,
+      "label": "Look through Canon logic book with Lincoln & Evan \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10132"
+    },
+    {
+      "source": "TASKS",
+      "id": 10014,
+      "label": "Troubleshoot laser alignment issue",
+      "aw": 6,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": "Laser Repair",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10014"
     }
   ],
-  "version": 2518,
-  "updated": "2026-09-29T07:00:11.678308+00:00",
+  "version": 2519,
+  "updated": "2026-09-29T07:00:53.283984+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 53,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
