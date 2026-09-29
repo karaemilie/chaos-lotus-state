@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-29T07:04:41.220Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Request more spiro",
+      "_addedAt": "2026-09-29T07:29:24.505Z",
+      "_ts": "2026-09-29T07:29:24.711Z"
+    }
+  ],
+  "mirroredAt": "2026-09-29T07:29:24.946Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-29T07:04:42.315179+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:986"
-  ]
+    "adds": 1
+  }
 }
