@@ -166,20 +166,6 @@
       "uid": "SPIN:726"
     },
     {
-      "source": "TASKS",
-      "id": 11688,
-      "row": 215,
-      "label": "\u2728 \ud83d\udd6f\ufe0f Replace batteries in all wax LED candles",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11688"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 921,
       "row": 46,
@@ -789,10 +775,23 @@
       "cat": "Finance",
       "critical": true,
       "uid": "TASKS:10113"
+    },
+    {
+      "source": "TASKS",
+      "id": 11708,
+      "label": "Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11708"
     }
   ],
-  "version": 2532,
-  "updated": "2026-09-29T18:34:22.015964+00:00",
+  "version": 2533,
+  "updated": "2026-09-29T18:39:54.960186+00:00",
   "buckets": {
     "SPIN_WHEEL": 52,
     "COURAGE": 4,
