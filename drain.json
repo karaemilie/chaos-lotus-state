@@ -1,16 +1,32 @@
 {
   "completions": [
     {
+      "source": "ZONES",
+      "zid": 79,
+      "floor": "Plant",
+      "label": "🌱 Kitchen Up High",
+      "uid": "ZONES:79",
+      "_ts": "2026-09-29T06:50:29.936Z"
+    },
+    {
       "source": "MAINTENANCE",
       "label": "🏠 Vacuum the upstairs",
       "uid": "MAINTENANCE:121",
       "_ts": "2026-09-29T06:50:42.255Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "🌱 Main floor Down Low",
+      "uid": "ZONES:75",
+      "_ts": "2026-09-29T06:51:05.068Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-09-29T06:50:43.504Z",
+  "mirroredAt": "2026-09-29T06:51:05.285Z",
   "counts": {
-    "completions": 1,
+    "completions": 3,
     "adds": 0
   }
 }
