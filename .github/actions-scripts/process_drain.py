@@ -705,9 +705,12 @@ def process_promote(wb, add):
                 if isinstance(v, (int, float)) and int(v) == int(sid):
                     hit = rr; break
         if hit is None:
+            # label fallback matches the ORIGINAL spin label (v28e lets the Box
+            # rename the task on promote; the sheet still has the old text)
+            orig = (pr.get("origLabel") or label).strip().lower()
             for rr in range(2, sw.max_row + 1):
                 v = sw.cell(rr, task_col).value
-                if v and str(v).strip().lower() == label.lower():
+                if v and str(v).strip().lower() == orig:
                     hit = rr
                     if sid is None and sid_col and isinstance(sw.cell(rr, sid_col).value, (int, float)):
                         sid = int(sw.cell(rr, sid_col).value)
