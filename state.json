@@ -519,14 +519,6 @@
       "uid": "SPIN_WHEEL:975"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 116,
-      "label": "\ud83c\udfe0 Clean floor vents",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Clean floor vents",
-      "uid": "MAINTENANCE:116"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 976,
       "sid": 976,
@@ -812,10 +804,18 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Boys Room",
       "uid": "ZONES:20"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 120,
+      "label": "\ud83c\udfe0 Window tracks school room",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Window tracks school room",
+      "uid": "MAINTENANCE:120"
     }
   ],
-  "version": 2509,
-  "updated": "2026-09-29T02:35:15.400792+00:00",
+  "version": 2510,
+  "updated": "2026-09-29T02:43:04.674681+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "COURAGE": 4,
