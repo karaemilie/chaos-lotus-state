@@ -1,9 +1,24 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-29T18:18:40.071Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Run Genevieve credit cost",
+      "_addedAt": "2026-09-29T18:34:03.720Z",
+      "promote": {
+        "fromUid": "SPIN:566",
+        "sid": 566,
+        "label": "Run Genevieve credit cost",
+        "start": "2026-09-30",
+        "category": "Home",
+        "aw": 1
+      },
+      "_ts": "2026-09-29T18:34:04.068Z"
+    }
+  ],
+  "mirroredAt": "2026-09-29T18:34:04.625Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
