@@ -741,15 +741,6 @@
       "uid": "MAINTENANCE:119"
     },
     {
-      "source": "ZONES",
-      "zid": 19,
-      "floor": "Upstairs",
-      "label": "\ud83e\uddfa My Bathroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "My Bathroom",
-      "uid": "ZONES:19"
-    },
-    {
       "source": "TASKS",
       "id": 12133,
       "label": "\u2728 Check for South weekly schedule adjustments",
@@ -812,10 +803,19 @@
       "sid": 985,
       "label": "Add an add a date feature to Dropbox",
       "uid": "SPIN_WHEEL:985"
+    },
+    {
+      "source": "ZONES",
+      "zid": 20,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Boys Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Boys Room",
+      "uid": "ZONES:20"
     }
   ],
-  "version": 2508,
-  "updated": "2026-09-29T00:10:40.026251+00:00",
+  "version": 2509,
+  "updated": "2026-09-29T02:35:15.400792+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "COURAGE": 4,
