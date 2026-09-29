@@ -117,13 +117,6 @@
       "uid": "TASKS:12043"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 566,
-      "row": 8,
-      "label": "Run Genevieve credit cost",
-      "uid": "SPIN:566"
-    },
-    {
       "source": "TASKS",
       "id": 12058,
       "row": 333,
@@ -798,10 +791,10 @@
       "uid": "TASKS:10113"
     }
   ],
-  "version": 2531,
-  "updated": "2026-09-29T18:18:38.499437+00:00",
+  "version": 2532,
+  "updated": "2026-09-29T18:34:22.015964+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 52,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
