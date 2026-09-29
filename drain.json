@@ -1,18 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12105,
+      "row": 368,
+      "label": "✨ Swap out seasonal sweaters & dresses 🧶👗",
+      "uid": "TASKS:12105",
+      "_ts": "2026-09-29T06:58:59.271Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-29T06:52:15.152Z",
+  "mirroredAt": "2026-09-29T06:58:59.602Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-29T06:52:16.002898+00:00",
-  "lastAutoProcessed": [
-    "ZONES:79",
-    "ZONES:75",
-    "ZONES:76",
-    "ZONES:83",
-    "MAINTENANCE:121",
-    "SPIN:856"
-  ]
+  }
 }
