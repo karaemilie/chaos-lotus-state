@@ -582,19 +582,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12125,
-      "label": "\u2728 Weekly meal planning",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12125"
-    },
-    {
-      "source": "TASKS",
       "id": 12132,
       "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
       "aw": 4,
@@ -631,19 +618,6 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:12136"
-    },
-    {
-      "source": "TASKS",
-      "id": 11941,
-      "label": "Test prep plan for Lincoln \ud83d\udcda",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:11941"
     },
     {
       "source": "SPIN_WHEEL",
@@ -712,32 +686,6 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Hand Care & Mani",
       "uid": "ZONES:84"
-    },
-    {
-      "source": "TASKS",
-      "id": 10085,
-      "label": "Create music folder \"zone\" \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": "Music Room Organization",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10085"
-    },
-    {
-      "source": "TASKS",
-      "id": 11963,
-      "label": "Put 30-day channel launch timeline on physical calendar + pull stickers \ud83d\udcc5",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11963"
     },
     {
       "source": "TASKS",
@@ -818,10 +766,62 @@
       "sid": 989,
       "label": "1800exam",
       "uid": "SPIN_WHEEL:989"
+    },
+    {
+      "source": "TASKS",
+      "id": 10211,
+      "label": "Research zoning for assisted living home - end of street property",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": "Neighborhood Zoning Research",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10211"
+    },
+    {
+      "source": "TASKS",
+      "id": 12114,
+      "label": "\u2728 Trash only to curb \ud83d\uddd1\ufe0f",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12114"
+    },
+    {
+      "source": "TASKS",
+      "id": 12138,
+      "label": "\u2728 Update school lists for Lincoln & Evan",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12138"
+    },
+    {
+      "source": "TASKS",
+      "id": 12141,
+      "label": "\u2728 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12141"
     }
   ],
-  "version": 2526,
-  "updated": "2026-09-29T08:13:45.105631+00:00",
+  "version": 2527,
+  "updated": "2026-09-29T08:56:04.986428+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "COURAGE": 4,
