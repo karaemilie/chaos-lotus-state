@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-29T02:43:05.886Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Haribo gummy bears for Jake",
+      "_addedAt": "2026-09-29T04:01:22.999Z",
+      "_ts": "2026-09-29T04:01:23.113Z"
+    }
+  ],
+  "mirroredAt": "2026-09-29T04:01:23.480Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-29T02:43:06.922958+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:116"
-  ]
+    "adds": 1
+  }
 }
