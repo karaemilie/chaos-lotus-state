@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-29T07:30:23.871Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Jake package",
+      "_addedAt": "2026-09-29T08:12:32.079Z",
+      "_ts": "2026-09-29T08:12:32.261Z"
+    }
+  ],
+  "mirroredAt": "2026-09-29T08:12:32.524Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
