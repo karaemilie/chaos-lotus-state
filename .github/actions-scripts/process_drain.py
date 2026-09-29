@@ -614,6 +614,117 @@ def process_spin_wheel_completions(wb, comps, stamp=None):
     return processed, msgs
 
 
+def _promote_key(add):
+    """Drain identity key — same shape as a plain add so the drain rewrite
+    (which keys on PLUS_ADD:{label}:{_addedAt}) drops it once handled."""
+    return f"PLUS_ADD:{(add.get('label') or '').strip()}:{add.get('_addedAt', '')}"
+
+
+def process_promote(wb, add):
+    """📅 PROMOTE (Box v28): a spin task becomes a REAL Beast task.
+
+    The Box POSTs a normal /add payload with an extra `promote` block:
+      {"fromUid": "SPIN:337", "sid": 337, "label": ..., "start": "YYYY-MM-DD",
+       "category": "Home", "aw": 4}
+    We append a TASKS row (ID = max+1, Task, Anchor Weight, Category, Start
+    Date, Recurring Type=None, Notes breadcrumb) and delete the SPIN WHEEL row
+    (by SID, label fallback). NO spin row is created, NO wheel item seeded.
+
+    Returns (ok, synthetic_completion_or_None, messages). The synthetic
+    completion ({"source":"SPIN_WHEEL","uid":"SPIN_WHEEL:{sid}"}) rides the
+    normal refill + /clear-uids path so the wheel slot is removed and refilled
+    exactly as if the task had been completed — without touching COMPLETED.
+    Idempotent: if the label already sits on TASKS, the spin row is still
+    deleted (if present) and the op is treated as done.
+    """
+    pr = add.get("promote") or {}
+    label = (pr.get("label") or add.get("label") or "").strip()
+    msgs = []
+    if not label:
+        return True, None, ["  ⏭️  promote with empty label — clearing"]
+    if "TASKS" not in wb.sheetnames:
+        return False, None, ["  ❌ TASKS sheet not found — cannot promote"]
+
+    # --- parse fields ---
+    try:
+        y, m, d = [int(x) for x in str(pr.get("start", "")).split("-")]
+        start_dt = datetime(y, m, d)
+    except Exception:
+        start_dt = alaska_stamp_date()
+        msgs.append(f"  ⚠️  promote '{label}': bad start {pr.get('start')!r} → using today")
+    try:
+        aw = int(pr.get("aw"))
+        if not 1 <= aw <= 8:
+            raise ValueError
+    except Exception:
+        aw = 4
+        msgs.append(f"  ⚠️  promote '{label}': bad AW {pr.get('aw')!r} → 4")
+    category = (pr.get("category") or "").strip() or "Personal"
+    sid = pr.get("sid")
+    if sid is None:
+        tail = _uid_tail_int(pr.get("fromUid") or "", "SPIN")
+        if tail is None:
+            tail = _uid_tail_int(pr.get("fromUid") or "", "SPIN_WHEEL")
+        sid = tail
+
+    # --- TASKS row (skip if the label is already a real task) ---
+    ws = wb["TASKS"]
+    H = {c.value: i + 1 for i, c in enumerate(ws[1])}
+    need = ["ID", "Task", "Anchor Weight", "Category", "Start Date"]
+    if any(k not in H for k in need):
+        return False, None, [f"  ❌ TASKS missing one of {need} — cannot promote"]
+    existing = {str(ws.cell(r, H["Task"]).value).strip().lower()
+                for r in range(2, ws.max_row + 1) if ws.cell(r, H["Task"]).value}
+    if label.lower() in existing:
+        msgs.append(f"  ⏭️  promote '{label}': already on TASKS — not duplicating")
+    else:
+        ids = [ws.cell(r, H["ID"]).value for r in range(2, ws.max_row + 1)]
+        ids = [int(v) for v in ids if isinstance(v, (int, float))]
+        new_id = (max(ids) + 1) if ids else 10001
+        r = ws.max_row + 1
+        ws.cell(r, H["ID"]).value = new_id
+        ws.cell(r, H["Task"]).value = label
+        ws.cell(r, H["Anchor Weight"]).value = aw
+        ws.cell(r, H["Category"]).value = category
+        ws.cell(r, H["Start Date"]).value = start_dt
+        if "Recurring Type" in H:
+            ws.cell(r, H["Recurring Type"]).value = "None"
+        if "Notes" in H:
+            ws.cell(r, H["Notes"]).value = f"📅 Promoted from spin wheel {alaska_stamp_date().date().isoformat()}"
+        msgs.append(f"  ✅ PROMOTE '{label}' → TASKS ID {new_id} · AW{aw} · {category} · starts {start_dt.date().isoformat()}")
+
+    # --- delete the SPIN WHEEL row (by SID, else label) ---
+    if "SPIN WHEEL" in wb.sheetnames:
+        sw = wb["SPIN WHEEL"]
+        SH = {c.value: i + 1 for i, c in enumerate(sw[1])}
+        task_col, sid_col = SH.get("Task", 1), SH.get("SID")
+        hit = None
+        if sid is not None and sid_col:
+            for rr in range(2, sw.max_row + 1):
+                v = sw.cell(rr, sid_col).value
+                if isinstance(v, (int, float)) and int(v) == int(sid):
+                    hit = rr; break
+        if hit is None:
+            for rr in range(2, sw.max_row + 1):
+                v = sw.cell(rr, task_col).value
+                if v and str(v).strip().lower() == label.lower():
+                    hit = rr
+                    if sid is None and sid_col and isinstance(sw.cell(rr, sid_col).value, (int, float)):
+                        sid = int(sw.cell(rr, sid_col).value)
+                    break
+        if hit is not None:
+            sw.delete_rows(hit, 1)
+            msgs.append(f"  🗑️  SPIN WHEEL row {hit} (SID {sid}) removed")
+        else:
+            msgs.append(f"  ⏭️  no SPIN WHEEL row for SID {sid} / '{label}' (already gone)")
+
+    synth = None
+    if sid is not None:
+        synth = {"source": "SPIN_WHEEL", "sid": int(sid), "row": int(sid),
+                 "label": label, "uid": f"SPIN_WHEEL:{int(sid)}", "_promoted": True}
+    return True, synth, msgs
+
+
 def process_adds(wb, adds):
     """Append each PLUS_ADD from the front end to the SPIN WHEEL sheet as a new
     one-off spin row. Per the 2026-06-14 design decision: everything added from
@@ -627,10 +738,11 @@ def process_adds(wb, adds):
         new item shows on the wheel immediately: {source,row(SID),label,uid,...}
       • messages = human-readable log lines
     """
+    promoted = []   # synthetic SPIN completions for refill + clear-uids
     if not adds:
-        return [], [], []
+        return [], [], [], promoted
     if "SPIN WHEEL" not in wb.sheetnames:
-        return [], [], ["  ❌ SPIN WHEEL sheet not found — cannot file adds"]
+        return [], [], ["  ❌ SPIN WHEEL sheet not found — cannot file adds"], promoted
 
     ws = wb["SPIN WHEEL"]
     header = {c.value: i + 1 for i, c in enumerate(ws[1])}
@@ -638,7 +750,7 @@ def process_adds(wb, adds):
     src_col = header.get("Source")
     sid_col = header.get("SID")
     if sid_col is None:
-        return [], [], ["  ❌ SPIN WHEEL missing SID column — cannot file adds"]
+        return [], [], ["  ❌ SPIN WHEEL missing SID column — cannot file adds"], promoted
 
     # Next SID = max existing + 1
     existing_sids = [ws.cell(r, sid_col).value for r in range(2, ws.max_row + 1)
@@ -659,6 +771,17 @@ def process_adds(wb, adds):
         added_at = add.get("_addedAt", "")
         # identity key matches how the front-end/worker keys a PLUS_ADD uid
         key = f"PLUS_ADD:{label}:{added_at}"
+        # 📅 PROMOTE rides the /add rail but is NOT a spin add — handle it
+        # BEFORE the SPIN-WHEEL dedup guard (the label is, by definition,
+        # already on the SPIN WHEEL sheet).
+        if isinstance(add.get("promote"), dict):
+            ok, synth, pmsgs = process_promote(wb, add)
+            msgs.extend(pmsgs)
+            if ok:
+                processed_keys.append(key)
+                if synth:
+                    promoted.append(synth)
+            continue
         if not label:
             msgs.append("  ⏭️  add with empty label — skipping")
             processed_keys.append(key)  # drop it from drain regardless
@@ -688,7 +811,7 @@ def process_adds(wb, adds):
         processed_keys.append(key)
         msgs.append(f"  ✅ ADD filed → SPIN WHEEL SID {sid}: '{label}'")
 
-    return processed_keys, new_items, msgs
+    return processed_keys, new_items, msgs, promoted
 
 
 def load_state_json():
@@ -1214,9 +1337,17 @@ def main():
     processed_add_keys = []
     if adds and wb:
         print(f"\n➕ Processing {len(adds)} ADD(s) → SPIN WHEEL:")
-        processed_add_keys, new_spin_items, add_msgs = process_adds(wb, adds)
+        processed_add_keys, new_spin_items, add_msgs, promoted_comps = process_adds(wb, adds)
         for m in add_msgs:
             print(m)
+        # 📅 promoted spin tasks: their wheel slot is removed + refilled and
+        # their SPIN uid cleared from KV, exactly like a completed spin item.
+        for pc in promoted_comps:
+            processed_comps.append(pc)
+            if pc.get("uid") not in processed_uids:
+                processed_uids.append(pc["uid"])
+            processed_details.append({"uid": pc.get("uid"),
+                                      "result": f"PROMOTED '{pc.get('label')}' → TASKS"})
 
     beast_dirty = bool(processed_uids) or bool(processed_add_keys)
     if not beast_dirty:
