@@ -201,20 +201,6 @@
       "uid": "SPIN:844"
     },
     {
-      "source": "TASKS",
-      "id": 10981,
-      "row": 136,
-      "label": "\u2728 Check balance on Matt's work card (1-800-344-5696) \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10981"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 870,
       "row": 23,
@@ -797,10 +783,23 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12141"
+    },
+    {
+      "source": "TASKS",
+      "id": 10113,
+      "label": "Price out benefit of switching to Premera with dual oral surgery benefits \ud83d\udcdd",
+      "aw": 3,
+      "pri": "ASAP",
+      "dur": 45,
+      "ml": "Hard",
+      "proj": "Insurance Admin",
+      "cat": "Finance",
+      "critical": true,
+      "uid": "TASKS:10113"
     }
   ],
-  "version": 2530,
-  "updated": "2026-09-29T18:17:54.585294+00:00",
+  "version": 2531,
+  "updated": "2026-09-29T18:18:38.499437+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
     "COURAGE": 4,
