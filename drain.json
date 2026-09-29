@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-29T21:18:47.712Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add Tuesday orchestra rehearsal to calendar",
+      "_addedAt": "2026-09-29T21:53:32.067Z",
+      "_ts": "2026-09-29T21:53:32.259Z"
+    }
+  ],
+  "mirroredAt": "2026-09-29T21:53:32.497Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
