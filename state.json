@@ -443,13 +443,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 961,
-      "sid": 961,
-      "label": "Upload fixed kid/errand apps with fixed enter key",
-      "uid": "SPIN_WHEEL:961"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 964,
       "sid": 964,
       "label": "Bentley WWAMI APP",
@@ -813,10 +806,10 @@
       "uid": "TASKS:10085"
     }
   ],
-  "version": 2517,
-  "updated": "2026-09-29T06:59:09.756731+00:00",
+  "version": 2518,
+  "updated": "2026-09-29T07:00:11.678308+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 54,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
