@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-29T08:12:45.242Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Jake package",
+      "_addedAt": "2026-09-29T08:12:32.079Z",
+      "_ts": "2026-09-29T08:12:32.261Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "1800exam",
+      "_addedAt": "2026-09-29T08:13:16.141Z",
+      "_ts": "2026-09-29T08:13:16.325Z"
+    }
+  ],
+  "mirroredAt": "2026-09-29T08:13:16.616Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
