@@ -588,15 +588,6 @@
       "uid": "TASKS:12121"
     },
     {
-      "source": "ZONES",
-      "zid": 64,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb OneTab",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "OneTab",
-      "uid": "ZONES:64"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 981,
       "sid": 981,
@@ -819,10 +810,19 @@
       "sid": 986,
       "label": "Haribo gummy bears for Jake",
       "uid": "SPIN_WHEEL:986"
+    },
+    {
+      "source": "ZONES",
+      "zid": 65,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Emails",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Emails",
+      "uid": "ZONES:65"
     }
   ],
-  "version": 2511,
-  "updated": "2026-09-29T04:01:39.032637+00:00",
+  "version": 2512,
+  "updated": "2026-09-29T05:45:25.055483+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "COURAGE": 4,
