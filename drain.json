@@ -1,9 +1,36 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-29T18:17:55.980Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Go through rest of pillows and put them in allergen cases (mine too?)",
+      "_addedAt": "2026-09-29T18:17:38.671Z",
+      "promote": {
+        "fromUid": "SPIN:702",
+        "sid": 702,
+        "label": "Go through rest of pillows and put them in allergen cases (mine too?)",
+        "start": "2026-10-06",
+        "category": "Home",
+        "aw": 6
+      },
+      "_ts": "2026-09-29T18:17:39.057Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Check balance on Matt's work card (1-800-344-5696) 📝",
+      "_addedAt": "2026-09-29T18:18:07.763Z",
+      "reschedule": {
+        "uid": "TASKS:10981",
+        "id": 10981,
+        "label": "✨ Check balance on Matt's work card (1-800-344-5696) 📝",
+        "start": "2026-10-02"
+      },
+      "_ts": "2026-09-29T18:18:08.168Z"
+    }
+  ],
+  "mirroredAt": "2026-09-29T18:18:08.236Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
