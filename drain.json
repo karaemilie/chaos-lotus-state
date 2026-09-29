@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-29T00:10:09.100Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add an add a date feature to Dropbox",
+      "_addedAt": "2026-09-29T00:10:20.219Z",
+      "_ts": "2026-09-29T00:10:20.336Z"
+    }
+  ],
+  "mirroredAt": "2026-09-29T00:10:20.668Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-29T00:10:10.076155+00:00",
-  "lastAutoProcessed": [
-    "ZONES:74"
-  ]
+    "adds": 1
+  }
 }
