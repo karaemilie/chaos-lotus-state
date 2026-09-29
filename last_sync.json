@@ -1,21 +1,24 @@
 {
-  "lastRun": "2026-09-29T07:04:42.315295+00:00",
-  "lastRunAlaska": "2026-09-28 23:04 AKDT",
+  "lastRun": "2026-09-29T08:56:08.565830+00:00",
+  "lastRunAlaska": "2026-09-29 00:56 AKDT",
   "processedCount": 1,
-  "processed": [
-    {
-      "uid": "SPIN_WHEEL:986",
-      "result": "\u2705 SPIN deleted SID 986 ('Haribo gummy bears for Jake')"
-    }
-  ],
+  "processed": [],
   "remainingForClaude": {
     "completions": 0,
     "adds": 0
   },
   "daySweep": {
-    "added": [],
-    "bumped": [],
-    "today": "2026-09-28",
+    "added": [
+      "TASKS:12114",
+      "TASKS:12138",
+      "TASKS:12141"
+    ],
+    "bumped": [
+      "TASKS:11941",
+      "TASKS:10085",
+      "TASKS:11963"
+    ],
+    "today": "2026-09-29",
     "stampToday": "2026-09-28",
     "ran": true
   }
