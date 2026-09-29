@@ -725,6 +725,73 @@ def process_promote(wb, add):
     return True, synth, msgs
 
 
+def process_reschedule(wb, add):
+    """📅 RESCHEDULE (Box v28b): move a REAL task's Start Date from the Box.
+
+    Payload rides /add with a `reschedule` block:
+      {"uid": "TASKS:11762" | "COURAGE:11762:0", "id": 11762, "label": ...,
+       "start": "YYYY-MM-DD"}
+    Overwrites Start Date on the TASKS row (by ID, label fallback). Due Date is
+    never touched (financial-only). Returns (ok, synthetic_completion, msgs);
+    the synthetic completion pulls the item off the wheel + refills its slot
+    via the normal rail. Idempotent: rewriting the same date is a no-op.
+    """
+    rs = add.get("reschedule") or {}
+    label = (rs.get("label") or add.get("label") or "").strip()
+    uid = str(rs.get("uid") or "")
+    if "TASKS" not in wb.sheetnames:
+        return False, None, ["  ❌ TASKS sheet not found — cannot reschedule"]
+    try:
+        y, m, d = [int(x) for x in str(rs.get("start", "")).split("-")]
+        start_dt = datetime(y, m, d)
+    except Exception:
+        return True, None, [f"  ⏭️  reschedule '{label}': bad start {rs.get('start')!r} — clearing"]
+    tid = rs.get("id")
+    if tid is None:
+        for pfx in ("TASKS", "COURAGE"):
+            t = _uid_tail_int(uid, pfx) if not uid.startswith("COURAGE:") else None
+            if t is not None:
+                tid = t; break
+        if tid is None and uid.startswith("COURAGE:"):
+            try:
+                tid = int(uid.split(":")[1])
+            except Exception:
+                tid = None
+
+    ws = wb["TASKS"]
+    H = {c.value: i + 1 for i, c in enumerate(ws[1])}
+    if "ID" not in H or "Start Date" not in H or "Task" not in H:
+        return False, None, ["  ❌ TASKS missing ID/Task/Start Date — cannot reschedule"]
+    hit = None
+    if tid is not None:
+        for r in range(2, ws.max_row + 1):
+            v = ws.cell(r, H["ID"]).value
+            if isinstance(v, (int, float)) and int(v) == int(tid):
+                hit = r; break
+    if hit is None and label:
+        for r in range(2, ws.max_row + 1):
+            v = ws.cell(r, H["Task"]).value
+            if v and str(v).strip().lower() == label.lower():
+                hit = r
+                v2 = ws.cell(r, H["ID"]).value
+                if isinstance(v2, (int, float)):
+                    tid = int(v2)
+                break
+    if hit is None:
+        return True, None, [f"  ⏭️  reschedule: no TASKS row for id {tid} / '{label}' — clearing"]
+    old = ws.cell(hit, H["Start Date"]).value
+    ws.cell(hit, H["Start Date"]).value = start_dt
+    msgs = [f"  📅 RESCHEDULE ID {tid} '{ws.cell(hit, H['Task']).value}': start {getattr(old, 'date', lambda: old)()} → {start_dt.date().isoformat()}"]
+    synth = None
+    if tid is not None:
+        import re as _re
+        su = uid if _re.match(r"^(TASKS|COURAGE):\d+", uid) else f"TASKS:{int(tid)}"
+        synth = {"source": "COURAGE" if su.startswith("COURAGE:") else "TASKS",
+                 "id": int(tid), "parentId": int(tid), "label": label,
+                 "uid": su, "_rescheduled": True}
+    return True, synth, msgs
+
+
 def process_adds(wb, adds):
     """Append each PLUS_ADD from the front end to the SPIN WHEEL sheet as a new
     one-off spin row. Per the 2026-06-14 design decision: everything added from
@@ -777,6 +844,15 @@ def process_adds(wb, adds):
         if isinstance(add.get("promote"), dict):
             ok, synth, pmsgs = process_promote(wb, add)
             msgs.extend(pmsgs)
+            if ok:
+                processed_keys.append(key)
+                if synth:
+                    promoted.append(synth)
+            continue
+        # 📅 RESCHEDULE: real task, new Start Date — same rail, same guard order
+        if isinstance(add.get("reschedule"), dict):
+            ok, synth, rmsgs = process_reschedule(wb, add)
+            msgs.extend(rmsgs)
             if ok:
                 processed_keys.append(key)
                 if synth:
@@ -1347,7 +1423,8 @@ def main():
             if pc.get("uid") not in processed_uids:
                 processed_uids.append(pc["uid"])
             processed_details.append({"uid": pc.get("uid"),
-                                      "result": f"PROMOTED '{pc.get('label')}' → TASKS"})
+                                      "result": (f"RESCHEDULED '{pc.get('label')}'" if pc.get("_rescheduled")
+                                                 else f"PROMOTED '{pc.get('label')}' → TASKS")})
 
     beast_dirty = bool(processed_uids) or bool(processed_add_keys)
     if not beast_dirty:
