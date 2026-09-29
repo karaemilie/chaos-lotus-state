@@ -634,19 +634,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12143,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:12143"
-    },
-    {
-      "source": "TASKS",
       "id": 11941,
       "label": "Test prep plan for Lincoln \ud83d\udcda",
       "aw": 4,
@@ -797,10 +784,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10020"
+    },
+    {
+      "source": "TASKS",
+      "id": 10464,
+      "label": "Help Jake write private lesson email \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10464"
     }
   ],
-  "version": 2520,
-  "updated": "2026-09-29T07:01:34.771875+00:00",
+  "version": 2521,
+  "updated": "2026-09-29T07:02:15.580847+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
     "COURAGE": 4,
