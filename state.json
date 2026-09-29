@@ -566,15 +566,6 @@
       "uid": "SPIN_WHEEL:979"
     },
     {
-      "source": "ZONES",
-      "zid": 79,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Kitchen Up High",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Kitchen Up High",
-      "uid": "ZONES:79"
-    },
-    {
       "source": "TASKS",
       "id": 12121,
       "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
@@ -819,10 +810,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Vacuum the upstairs",
       "uid": "MAINTENANCE:121"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
     }
   ],
-  "version": 2513,
-  "updated": "2026-09-29T05:45:52.854398+00:00",
+  "version": 2514,
+  "updated": "2026-09-29T06:50:42.205769+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "COURAGE": 4,
