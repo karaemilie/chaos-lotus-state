@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-29T21:53:50.503Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Freeze bananas",
+      "_addedAt": "2026-09-29T22:02:08.813Z",
+      "_ts": "2026-09-29T22:02:09.006Z"
+    }
+  ],
+  "mirroredAt": "2026-09-29T22:02:09.288Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
