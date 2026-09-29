@@ -797,12 +797,19 @@
       "sid": 986,
       "label": "Request more spiro",
       "uid": "SPIN_WHEEL:986"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 987,
+      "sid": 987,
+      "label": "Activate cycle track in Whoop",
+      "uid": "SPIN_WHEEL:987"
     }
   ],
-  "version": 2523,
-  "updated": "2026-09-29T07:29:41.682981+00:00",
+  "version": 2524,
+  "updated": "2026-09-29T07:30:25.062491+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 54,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
