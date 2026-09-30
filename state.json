@@ -795,12 +795,19 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10176"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 996,
+      "sid": 996,
+      "label": "Set up bank acct and monarch synch for Jake Venmo card",
+      "uid": "SPIN_WHEEL:996"
     }
   ],
-  "version": 2551,
-  "updated": "2026-09-30T06:32:37.271368+00:00",
+  "version": 2552,
+  "updated": "2026-09-30T06:32:41.653547+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 54,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
