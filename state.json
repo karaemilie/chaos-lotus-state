@@ -470,15 +470,6 @@
       "uid": "SPIN_WHEEL:982"
     },
     {
-      "source": "ZONES",
-      "zid": 47,
-      "floor": "Basement",
-      "label": "\ud83e\uddfa Back Annex",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Back Annex",
-      "uid": "ZONES:47"
-    },
-    {
       "source": "TASKS",
       "id": 12135,
       "label": "\u2728 Recharge my twinkle stars \u2728\ud83d\udd0b",
@@ -816,10 +807,19 @@
       "sid": 998,
       "label": "Start a loan doc for Genevieve",
       "uid": "SPIN_WHEEL:998"
+    },
+    {
+      "source": "ZONES",
+      "zid": 48,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Craft Zone",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Craft Zone",
+      "uid": "ZONES:48"
     }
   ],
-  "version": 2555,
-  "updated": "2026-09-30T06:43:46.815856+00:00",
+  "version": 2556,
+  "updated": "2026-09-30T07:16:16.048192+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "COURAGE": 4,
