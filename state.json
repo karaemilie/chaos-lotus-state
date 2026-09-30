@@ -470,19 +470,6 @@
       "uid": "SPIN_WHEEL:982"
     },
     {
-      "source": "TASKS",
-      "id": 12027,
-      "label": "\u2728 Review next two-three months travel, task to buy tickets (compare one ways and round trips) - mileage tickets \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:12027"
-    },
-    {
       "source": "ZONES",
       "zid": 47,
       "floor": "Basement",
@@ -795,10 +782,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11946"
+    },
+    {
+      "source": "TASKS",
+      "id": 11948,
+      "label": "Clean bedroom windows \ud83e\ude9f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11948"
     }
   ],
-  "version": 2547,
-  "updated": "2026-09-30T06:27:28.007057+00:00",
+  "version": 2548,
+  "updated": "2026-09-30T06:30:15.983373+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
     "COURAGE": 4,
