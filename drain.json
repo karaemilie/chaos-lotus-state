@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12102,
+      "label": "✨ Audit spin wheel tasks (keep / edit / convert / delete) 🎡📋",
+      "uid": "TASKS:12102",
+      "_ts": "2026-09-30T06:27:16.309Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-30T06:23:50.325Z",
+  "mirroredAt": "2026-09-30T06:27:16.517Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-30T06:23:51.440684+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:970"
-  ]
+  }
 }
