@@ -598,15 +598,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
-      "source": "ZONES",
       "zid": 78,
       "floor": "Plant",
       "label": "\ud83c\udf31 Family Room Props",
@@ -791,13 +782,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 990,
-      "sid": 990,
-      "label": "Charge toothbrush",
-      "uid": "SPIN_WHEEL:990"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 991,
       "sid": 991,
       "label": "Update project file in Xmind - window panel, cedar chest, bar stools, kitchen tile, \u2026! Need official sequence to home projects",
@@ -812,23 +796,25 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 993,
-      "sid": 993,
-      "label": "Freeze bananas",
-      "uid": "SPIN_WHEEL:993"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 994,
       "sid": 994,
       "label": "Review repeat task logic",
       "uid": "SPIN_WHEEL:994"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Hallway",
+      "uid": "ZONES:80"
     }
   ],
-  "version": 2538,
-  "updated": "2026-09-30T00:13:45.943574+00:00",
+  "version": 2539,
+  "updated": "2026-09-30T00:14:30.491469+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 55,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
