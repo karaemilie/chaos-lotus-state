@@ -1,37 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "TASKS",
-      "id": 12132,
-      "label": "✨ Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead 📋⚖️",
-      "uid": "TASKS:12132",
-      "_ts": "2026-09-30T06:30:21.171Z"
-    },
-    {
-      "source": "TASKS",
-      "id": 12114,
-      "label": "✨ Trash only to curb 🗑️",
-      "uid": "TASKS:12114",
-      "_ts": "2026-09-30T06:30:44.602Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "✨ Review next two-three months travel, task to buy tickets (compare one ways and round trips) - mileage tickets 📝",
-      "_addedAt": "2026-09-30T06:30:02.559Z",
-      "reschedule": {
-        "uid": "TASKS:12027",
-        "id": 12027,
-        "label": "✨ Review next two-three months travel, task to buy tickets (compare one ways and round trips) - mileage tickets 📝",
-        "start": "2026-10-04"
-      },
-      "_ts": "2026-09-30T06:30:02.731Z"
-    }
-  ],
-  "mirroredAt": "2026-09-30T06:30:44.830Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-09-30T06:31:02.311Z",
   "counts": {
-    "completions": 2,
-    "adds": 1
+    "completions": 0,
+    "adds": 0
   }
 }
