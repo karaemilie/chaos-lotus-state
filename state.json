@@ -456,19 +456,6 @@
       "uid": "SPIN_WHEEL:977"
     },
     {
-      "source": "TASKS",
-      "id": 12102,
-      "label": "\u2728 Audit spin wheel tasks (keep / edit / convert / delete) \ud83c\udfa1\ud83d\udccb",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12102"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 981,
       "sid": 981,
@@ -795,10 +782,23 @@
       "sid": 995,
       "label": "Bring Evan new sweatshirt inside!",
       "uid": "SPIN_WHEEL:995"
+    },
+    {
+      "source": "TASKS",
+      "id": 11946,
+      "label": "Move quilt to right \ud83d\udecf\ufe0f",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11946"
     }
   ],
-  "version": 2546,
-  "updated": "2026-09-30T06:23:49.027409+00:00",
+  "version": 2547,
+  "updated": "2026-09-30T06:27:28.007057+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
     "COURAGE": 4,
