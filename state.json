@@ -584,15 +584,6 @@
       "uid": "ZONES:65"
     },
     {
-      "source": "ZONES",
-      "zid": 78,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Family Room Props",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Props",
-      "uid": "ZONES:78"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 122,
       "label": "\ud83c\udfe0 Scrub some light switches",
@@ -809,10 +800,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Mask",
       "uid": "ZONES:85"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 2541,
-  "updated": "2026-09-30T01:01:14.175876+00:00",
+  "version": 2542,
+  "updated": "2026-09-30T01:01:53.403546+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "COURAGE": 4,
