@@ -1,9 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 47,
+      "floor": "Basement",
+      "label": "🧺 Back Annex",
+      "uid": "ZONES:47",
+      "_ts": "2026-09-30T07:15:58.783Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-30T06:43:45.579Z",
+  "mirroredAt": "2026-09-30T07:15:59.043Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
