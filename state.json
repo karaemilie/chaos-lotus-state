@@ -513,19 +513,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12023,
-      "label": "\u2728 Throw cat fountain in dishwasher \ud83d\udc31\ud83e\udee7",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12023"
-    },
-    {
-      "source": "TASKS",
       "id": 12132,
       "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
       "aw": 4,
@@ -809,10 +796,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Hallway",
       "uid": "ZONES:80"
+    },
+    {
+      "source": "TASKS",
+      "id": 10241,
+      "label": "Apply for Jake's credit card \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": "Jake Credit Card Setup",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10241"
     }
   ],
-  "version": 2539,
-  "updated": "2026-09-30T00:14:30.491469+00:00",
+  "version": 2540,
+  "updated": "2026-09-30T00:41:36.398724+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "COURAGE": 4,
