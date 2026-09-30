@@ -633,19 +633,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12138,
-      "label": "\u2728 Update school lists for Lincoln & Evan",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12138"
-    },
-    {
-      "source": "TASKS",
       "id": 12141,
       "label": "\u2728 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
       "aw": 5,
@@ -705,19 +692,6 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Hallway",
       "uid": "ZONES:80"
-    },
-    {
-      "source": "TASKS",
-      "id": 10241,
-      "label": "Apply for Jake's credit card \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": "Jake Credit Card Setup",
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10241"
     },
     {
       "source": "ZONES",
@@ -795,10 +769,36 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:12098"
+    },
+    {
+      "source": "TASKS",
+      "id": 12099,
+      "label": "Schedule windshield glass repair for Tahoe \ud83d\ude97\ud83d\udd27",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12099"
+    },
+    {
+      "source": "TASKS",
+      "id": 10176,
+      "label": "Research scholarships for Bentley \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 45,
+      "ml": "Medium",
+      "proj": "Bentley Scholarships",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10176"
     }
   ],
-  "version": 2549,
-  "updated": "2026-09-30T06:30:59.536688+00:00",
+  "version": 2550,
+  "updated": "2026-09-30T06:31:57.524113+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
     "COURAGE": 4,
