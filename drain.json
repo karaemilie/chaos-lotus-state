@@ -1,16 +1,45 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-30T06:32:00.870Z",
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12132,
+      "label": "✨ Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead 📋⚖️",
+      "uid": "TASKS:12132",
+      "_ts": "2026-09-30T06:30:21.171Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12114,
+      "label": "✨ Trash only to curb 🗑️",
+      "uid": "TASKS:12114",
+      "_ts": "2026-09-30T06:30:44.602Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12138,
+      "label": "✨ Update school lists for Lincoln & Evan",
+      "uid": "TASKS:12138",
+      "_ts": "2026-09-30T06:31:02.637Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 10241,
+      "label": "Apply for Jake's credit card 📝",
+      "uid": "TASKS:10241",
+      "_ts": "2026-09-30T06:31:39.283Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set up bank acct and monarch synch for Jake Venmo card",
+      "_addedAt": "2026-09-30T06:32:23.094Z",
+      "_ts": "2026-09-30T06:32:23.575Z"
+    }
+  ],
+  "mirroredAt": "2026-09-30T06:32:23.809Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-30T06:32:01.978942+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12132",
-    "TASKS:12114",
-    "TASKS:12138",
-    "TASKS:10241"
-  ]
+    "completions": 4,
+    "adds": 1
+  }
 }
