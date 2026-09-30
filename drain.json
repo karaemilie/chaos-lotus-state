@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 993,
+      "label": "Freeze bananas",
+      "uid": "SPIN_WHEEL:993",
+      "_ts": "2026-09-30T00:13:36.335Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-09-30T00:13:30.498Z"
     }
   ],
-  "mirroredAt": "2026-09-30T00:13:30.773Z",
+  "mirroredAt": "2026-09-30T00:13:36.671Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
