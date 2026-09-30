@@ -1,39 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 993,
-      "label": "Freeze bananas",
-      "uid": "SPIN_WHEEL:993",
-      "_ts": "2026-09-30T00:13:36.335Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 990,
-      "label": "Charge toothbrush",
-      "uid": "SPIN_WHEEL:990",
-      "_ts": "2026-09-30T00:13:40.295Z"
-    },
-    {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "label": "🌱 Corner Nook B",
-      "uid": "ZONES:77",
-      "_ts": "2026-09-30T00:13:50.881Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Review repeat task logic",
-      "_addedAt": "2026-09-30T00:13:30.290Z",
-      "_ts": "2026-09-30T00:13:30.498Z"
-    }
-  ],
-  "mirroredAt": "2026-09-30T00:13:51.120Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-09-30T00:14:32.021Z",
   "counts": {
-    "completions": 3,
-    "adds": 1
+    "completions": 0,
+    "adds": 0
   }
 }
