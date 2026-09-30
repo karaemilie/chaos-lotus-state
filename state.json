@@ -633,19 +633,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12141,
-      "label": "\u2728 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12141"
-    },
-    {
-      "source": "TASKS",
       "id": 10113,
       "label": "Price out benefit of switching to Premera with dual oral surgery benefits \ud83d\udcdd",
       "aw": 3,
@@ -802,10 +789,23 @@
       "sid": 996,
       "label": "Set up bank acct and monarch synch for Jake Venmo card",
       "uid": "SPIN_WHEEL:996"
+    },
+    {
+      "source": "TASKS",
+      "id": 10117,
+      "label": "Look at FluentU/Netflix for foreign language learning for boys",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": "Homeschool Admin",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10117"
     }
   ],
-  "version": 2552,
-  "updated": "2026-09-30T06:32:41.653547+00:00",
+  "version": 2553,
+  "updated": "2026-09-30T06:35:21.181666+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "COURAGE": 4,
