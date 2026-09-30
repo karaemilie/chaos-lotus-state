@@ -318,13 +318,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 892,
-      "row": 32,
-      "label": "Find the perfect fit /ship to Ruth",
-      "uid": "SPIN:892"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 945,
       "sid": 945,
       "label": "Set up Monarch",
@@ -825,10 +818,10 @@
       "uid": "TASKS:12147"
     }
   ],
-  "version": 2561,
-  "updated": "2026-09-30T08:28:17.130723+00:00",
+  "version": 2562,
+  "updated": "2026-09-30T08:29:08.771704+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 56,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
