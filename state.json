@@ -657,19 +657,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12099,
-      "label": "Schedule windshield glass repair for Tahoe \ud83d\ude97\ud83d\udd27",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12099"
-    },
-    {
-      "source": "TASKS",
       "id": 10176,
       "label": "Research scholarships for Bentley \ud83d\udcdd",
       "aw": 4,
@@ -802,10 +789,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10150"
+    },
+    {
+      "source": "TASKS",
+      "id": 10336,
+      "label": "Miriam re: chamber group for Lincoln?",
+      "aw": 6,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": "Lincoln Tasks",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10336"
     }
   ],
-  "version": 2565,
-  "updated": "2026-09-30T08:31:24.579124+00:00",
+  "version": 2566,
+  "updated": "2026-09-30T08:32:13.728938+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "COURAGE": 4,
