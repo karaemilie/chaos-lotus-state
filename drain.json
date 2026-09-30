@@ -13,12 +13,27 @@
       "label": "Charge toothbrush",
       "uid": "SPIN_WHEEL:990",
       "_ts": "2026-09-30T00:13:40.295Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "🌱 Corner Nook B",
+      "uid": "ZONES:77",
+      "_ts": "2026-09-30T00:13:50.881Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-09-30T00:13:44.555Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Review repeat task logic",
+      "_addedAt": "2026-09-30T00:13:30.290Z",
+      "_ts": "2026-09-30T00:13:30.498Z"
+    }
+  ],
+  "mirroredAt": "2026-09-30T00:13:51.120Z",
   "counts": {
-    "completions": 2,
-    "adds": 0
+    "completions": 3,
+    "adds": 1
   }
 }
