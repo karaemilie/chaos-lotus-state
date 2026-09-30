@@ -436,13 +436,6 @@
       "uid": "SPIN_WHEEL:981"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 982,
-      "sid": 982,
-      "label": "Next step habit app?",
-      "uid": "SPIN_WHEEL:982"
-    },
-    {
       "source": "TASKS",
       "id": 12135,
       "label": "\u2728 Recharge my twinkle stars \u2728\ud83d\udd0b",
@@ -542,19 +535,6 @@
       "sid": 989,
       "label": "1800exam",
       "uid": "SPIN_WHEEL:989"
-    },
-    {
-      "source": "TASKS",
-      "id": 10211,
-      "label": "Research zoning for assisted living home - end of street property",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": "Neighborhood Zoning Research",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10211"
     },
     {
       "source": "TASKS",
@@ -816,12 +796,25 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11964"
+    },
+    {
+      "source": "TASKS",
+      "id": 10150,
+      "label": "Clean up all shoes in the mudroom \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10150"
     }
   ],
-  "version": 2563,
-  "updated": "2026-09-30T08:29:58.131013+00:00",
+  "version": 2564,
+  "updated": "2026-09-30T08:30:42.711169+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 55,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
