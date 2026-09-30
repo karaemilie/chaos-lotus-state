@@ -601,15 +601,6 @@
       "uid": "MAINTENANCE:122"
     },
     {
-      "source": "ZONES",
-      "zid": 84,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Hand Care & Mani",
-      "uid": "ZONES:84"
-    },
-    {
       "source": "TASKS",
       "id": 10132,
       "label": "Look through Canon logic book with Lincoln & Evan \ud83d\udcdd",
@@ -809,10 +800,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10241"
+    },
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Mask",
+      "uid": "ZONES:85"
     }
   ],
-  "version": 2540,
-  "updated": "2026-09-30T00:41:36.398724+00:00",
+  "version": 2541,
+  "updated": "2026-09-30T01:01:14.175876+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "COURAGE": 4,
