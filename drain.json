@@ -1,13 +1,33 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-30T08:27:23.904Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1001,
+      "label": "order screen protectors",
+      "uid": "SPIN_WHEEL:1001",
+      "_ts": "2026-09-30T08:27:06.567Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Get Bentley miles for cello",
+      "_addedAt": "2026-09-30T08:28:03.997Z",
+      "promote": {
+        "fromUid": "SPIN:802",
+        "sid": 802,
+        "label": "Get Bentley miles for cello",
+        "origLabel": "Get Bentley miles for cello",
+        "start": "2026-10-07",
+        "category": "Finance",
+        "aw": 5
+      },
+      "_ts": "2026-09-30T08:28:04.185Z"
+    }
+  ],
+  "mirroredAt": "2026-09-30T08:28:04.436Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-30T08:27:25.040076+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1001"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
