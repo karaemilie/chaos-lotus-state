@@ -1,9 +1,40 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-30T08:28:18.442Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Get Bentley miles for cello",
+      "_addedAt": "2026-09-30T08:28:03.997Z",
+      "promote": {
+        "fromUid": "SPIN:802",
+        "sid": 802,
+        "label": "Get Bentley miles for cello",
+        "origLabel": "Get Bentley miles for cello",
+        "start": "2026-10-07",
+        "category": "Finance",
+        "aw": 5
+      },
+      "_ts": "2026-09-30T08:28:04.185Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Find the perfect fit /ship to Ruth",
+      "_addedAt": "2026-09-30T08:28:47.944Z",
+      "promote": {
+        "fromUid": "SPIN:892",
+        "sid": 892,
+        "label": "Find the perfect fit /ship to Ruth",
+        "origLabel": "Find the perfect fit /ship to Ruth",
+        "start": "2026-10-03",
+        "category": "Family",
+        "aw": 5
+      },
+      "_ts": "2026-09-30T08:28:48.092Z"
+    }
+  ],
+  "mirroredAt": "2026-09-30T08:28:48.381Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
