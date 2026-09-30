@@ -823,12 +823,19 @@
       "sid": 999,
       "label": "Backup Quicken and cancel auto renew",
       "uid": "SPIN_WHEEL:999"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1000,
+      "sid": 1000,
+      "label": "Compare Monarch monthly / annual pricing after I get to know it",
+      "uid": "SPIN_WHEEL:1000"
     }
   ],
-  "version": 2557,
-  "updated": "2026-09-30T08:18:57.260789+00:00",
+  "version": 2558,
+  "updated": "2026-09-30T08:19:36.393184+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 58,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
