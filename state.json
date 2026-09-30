@@ -480,19 +480,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12132,
-      "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12132"
-    },
-    {
-      "source": "TASKS",
       "id": 12135,
       "label": "\u2728 Recharge my twinkle stars \u2728\ud83d\udd0b",
       "aw": 6,
@@ -646,19 +633,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12114,
-      "label": "\u2728 Trash only to curb \ud83d\uddd1\ufe0f",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12114"
-    },
-    {
-      "source": "TASKS",
       "id": 12138,
       "label": "\u2728 Update school lists for Lincoln & Evan",
       "aw": 4,
@@ -795,10 +769,36 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11948"
+    },
+    {
+      "source": "TASKS",
+      "id": 11988,
+      "label": "Follow up with body shop if I haven't heard back \ud83d\udcde\ud83d\udd27",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11988"
+    },
+    {
+      "source": "TASKS",
+      "id": 12098,
+      "label": "Create a daily editor in chief type grammar practice \u270f\ufe0f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12098"
     }
   ],
-  "version": 2548,
-  "updated": "2026-09-30T06:30:15.983373+00:00",
+  "version": 2549,
+  "updated": "2026-09-30T06:30:59.536688+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
     "COURAGE": 4,
