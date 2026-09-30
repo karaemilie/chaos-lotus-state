@@ -352,19 +352,6 @@
       "uid": "SPIN_WHEEL:954"
     },
     {
-      "source": "TASKS",
-      "id": 12067,
-      "label": "\u2728 Review Evan's bedtime & adjust melatonin timing \ud83d\ude34\ud83d\udc8a",
-      "aw": 6,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": null,
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:12067"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 955,
       "sid": 955,
@@ -816,10 +803,23 @@
       "cat": "Family/Education",
       "critical": false,
       "uid": "TASKS:12147"
+    },
+    {
+      "source": "TASKS",
+      "id": 11964,
+      "label": "Review my clock design options \ud83d\udd50",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11964"
     }
   ],
-  "version": 2562,
-  "updated": "2026-09-30T08:29:08.771704+00:00",
+  "version": 2563,
+  "updated": "2026-09-30T08:29:58.131013+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "COURAGE": 4,
