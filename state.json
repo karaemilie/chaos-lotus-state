@@ -225,13 +225,6 @@
       "uid": "SPIN:932"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 802,
-      "row": 15,
-      "label": "Get Bentley miles for cello",
-      "uid": "SPIN:802"
-    },
-    {
       "source": "TASKS",
       "id": 11902,
       "row": 269,
@@ -832,10 +825,10 @@
       "uid": "TASKS:12147"
     }
   ],
-  "version": 2560,
-  "updated": "2026-09-30T08:27:22.559893+00:00",
+  "version": 2561,
+  "updated": "2026-09-30T08:28:17.130723+00:00",
   "buckets": {
-    "SPIN_WHEEL": 58,
+    "SPIN_WHEEL": 57,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
