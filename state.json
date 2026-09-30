@@ -218,13 +218,6 @@
       "uid": "TASKS:11216"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 932,
-      "row": 55,
-      "label": "Bentley fall break ticket",
-      "uid": "SPIN:932"
-    },
-    {
       "source": "TASKS",
       "id": 11902,
       "row": 269,
@@ -804,10 +797,10 @@
       "uid": "TASKS:10336"
     }
   ],
-  "version": 2566,
-  "updated": "2026-09-30T08:32:13.728938+00:00",
+  "version": 2567,
+  "updated": "2026-09-30T09:32:20.079840+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 53,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
