@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 970,
+      "label": "Order boys bed frames",
+      "uid": "SPIN_WHEEL:970",
+      "_ts": "2026-09-30T06:23:34.721Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-30T02:33:02.766Z",
+  "mirroredAt": "2026-09-30T06:23:34.943Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-30T02:33:03.986876+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:994"
-  ]
+  }
 }
