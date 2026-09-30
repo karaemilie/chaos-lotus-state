@@ -3,6 +3,75 @@
   "adds": [
     {
       "source": "PLUS_ADD",
+      "label": "Get Bentley miles for cello",
+      "_addedAt": "2026-09-30T08:28:03.997Z",
+      "promote": {
+        "fromUid": "SPIN:802",
+        "sid": 802,
+        "label": "Get Bentley miles for cello",
+        "origLabel": "Get Bentley miles for cello",
+        "start": "2026-10-07",
+        "category": "Finance",
+        "aw": 5
+      },
+      "_ts": "2026-09-30T08:28:04.185Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Find the perfect fit /ship to Ruth",
+      "_addedAt": "2026-09-30T08:28:47.944Z",
+      "promote": {
+        "fromUid": "SPIN:892",
+        "sid": 892,
+        "label": "Find the perfect fit /ship to Ruth",
+        "origLabel": "Find the perfect fit /ship to Ruth",
+        "start": "2026-10-03",
+        "category": "Family",
+        "aw": 5
+      },
+      "_ts": "2026-09-30T08:28:48.092Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Review Evan's bedtime & adjust melatonin timing 😴💊",
+      "_addedAt": "2026-09-30T08:29:08.188Z",
+      "reschedule": {
+        "uid": "TASKS:12067",
+        "id": 12067,
+        "label": "✨ Review Evan's bedtime & adjust melatonin timing 😴💊",
+        "start": "2026-10-04"
+      },
+      "_ts": "2026-09-30T08:29:08.340Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Next step habit app?",
+      "_addedAt": "2026-09-30T08:29:53.105Z",
+      "promote": {
+        "fromUid": "SPIN_WHEEL:982",
+        "sid": 982,
+        "label": "Next step habit app?",
+        "origLabel": "Next step habit app?",
+        "start": "2026-10-03",
+        "category": "Personal",
+        "aw": 6
+      },
+      "_ts": "2026-09-30T08:29:53.278Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Research zoning for assisted living home - end of street property",
+      "_addedAt": "2026-09-30T08:30:13.446Z",
+      "reschedule": {
+        "uid": "TASKS:10211",
+        "id": 10211,
+        "label": "Research zoning for assisted living home - end of street property",
+        "start": "2026-10-09"
+      },
+      "_ts": "2026-09-30T08:30:13.603Z"
+    },
+    {
+      "source": "PLUS_ADD",
       "label": "Update project file in Xmind - window panel, cedar chest, bar stools, kitchen tile, …! Need official sequence to home projects",
       "_addedAt": "2026-09-30T08:30:35.193Z",
       "promote": {
@@ -15,11 +84,23 @@
         "aw": 6
       },
       "_ts": "2026-09-30T08:30:35.432Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Schedule windshield glass repair for Tahoe 🚗🔧",
+      "_addedAt": "2026-09-30T08:31:17.163Z",
+      "reschedule": {
+        "uid": "TASKS:12099",
+        "id": 12099,
+        "label": "Schedule windshield glass repair for Tahoe 🚗🔧",
+        "start": "2027-04-19"
+      },
+      "_ts": "2026-09-30T08:31:17.318Z"
     }
   ],
-  "mirroredAt": "2026-09-30T08:30:44.342Z",
+  "mirroredAt": "2026-09-30T08:31:17.600Z",
   "counts": {
     "completions": 0,
-    "adds": 1
+    "adds": 7
   }
 }
