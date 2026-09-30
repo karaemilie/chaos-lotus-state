@@ -802,12 +802,19 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10117"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 997,
+      "sid": 997,
+      "label": "Genevieve routing info to Dad",
+      "uid": "SPIN_WHEEL:997"
     }
   ],
-  "version": 2553,
-  "updated": "2026-09-30T06:35:21.181666+00:00",
+  "version": 2554,
+  "updated": "2026-09-30T06:43:01.812093+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 55,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
