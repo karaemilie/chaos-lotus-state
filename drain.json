@@ -3,6 +3,36 @@
   "adds": [
     {
       "source": "PLUS_ADD",
+      "label": "Get Bentley miles for cello",
+      "_addedAt": "2026-09-30T08:28:03.997Z",
+      "promote": {
+        "fromUid": "SPIN:802",
+        "sid": 802,
+        "label": "Get Bentley miles for cello",
+        "origLabel": "Get Bentley miles for cello",
+        "start": "2026-10-07",
+        "category": "Finance",
+        "aw": 5
+      },
+      "_ts": "2026-09-30T08:28:04.185Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Find the perfect fit /ship to Ruth",
+      "_addedAt": "2026-09-30T08:28:47.944Z",
+      "promote": {
+        "fromUid": "SPIN:892",
+        "sid": 892,
+        "label": "Find the perfect fit /ship to Ruth",
+        "origLabel": "Find the perfect fit /ship to Ruth",
+        "start": "2026-10-03",
+        "category": "Family",
+        "aw": 5
+      },
+      "_ts": "2026-09-30T08:28:48.092Z"
+    },
+    {
+      "source": "PLUS_ADD",
       "label": "✨ Review Evan's bedtime & adjust melatonin timing 😴💊",
       "_addedAt": "2026-09-30T08:29:08.188Z",
       "reschedule": {
@@ -12,11 +42,26 @@
         "start": "2026-10-04"
       },
       "_ts": "2026-09-30T08:29:08.340Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Next step habit app?",
+      "_addedAt": "2026-09-30T08:29:53.105Z",
+      "promote": {
+        "fromUid": "SPIN_WHEEL:982",
+        "sid": 982,
+        "label": "Next step habit app?",
+        "origLabel": "Next step habit app?",
+        "start": "2026-10-03",
+        "category": "Personal",
+        "aw": 6
+      },
+      "_ts": "2026-09-30T08:29:53.278Z"
     }
   ],
-  "mirroredAt": "2026-09-30T08:29:12.637Z",
+  "mirroredAt": "2026-09-30T08:29:53.531Z",
   "counts": {
     "completions": 0,
-    "adds": 1
+    "adds": 4
   }
 }
