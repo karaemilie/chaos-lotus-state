@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-30T07:16:17.323Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Backup Quicken and cancel auto renew",
+      "_addedAt": "2026-09-30T08:18:42.192Z",
+      "_ts": "2026-09-30T08:18:42.340Z"
+    }
+  ],
+  "mirroredAt": "2026-09-30T08:18:42.623Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-30T07:16:18.573321+00:00",
-  "lastAutoProcessed": [
-    "ZONES:47"
-  ]
+    "adds": 1
+  }
 }
