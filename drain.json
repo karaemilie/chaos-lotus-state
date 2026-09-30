@@ -1,16 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-30T01:01:56.480Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Bring Evan new sweatshirt inside!",
+      "_addedAt": "2026-09-30T02:27:01.900Z",
+      "_ts": "2026-09-30T02:27:02.406Z"
+    }
+  ],
+  "mirroredAt": "2026-09-30T02:27:02.723Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-30T01:01:57.775837+00:00",
-  "lastAutoProcessed": [
-    "ZONES:78"
-  ],
-  "autoReset": [
-    "Plant"
-  ]
+    "adds": 1
+  }
 }
