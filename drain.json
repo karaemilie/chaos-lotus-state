@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 994,
+      "label": "Review repeat task logic",
+      "uid": "SPIN_WHEEL:994",
+      "_ts": "2026-09-30T02:32:46.960Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-09-30T02:28:04.627Z",
+  "mirroredAt": "2026-09-30T02:32:48.049Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-09-30T02:28:05.697639+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:985"
-  ]
+  }
 }
