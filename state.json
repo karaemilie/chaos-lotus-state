@@ -68,13 +68,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 888,
-      "row": 31,
-      "label": "Eval new rug",
-      "uid": "SPIN:888"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 923,
       "row": 48,
       "label": "Try mineral spirits on grey table",
@@ -824,10 +817,10 @@
       "uid": "SPIN_WHEEL:1006"
     }
   ],
-  "version": 2578,
-  "updated": "2026-10-01T08:17:42.254005+00:00",
+  "version": 2579,
+  "updated": "2026-10-01T09:20:02.721438+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 56,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
