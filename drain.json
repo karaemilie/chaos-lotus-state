@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-01T09:22:37.115Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Trade my Kalshi bonus before Monday",
+      "_addedAt": "2026-10-01T09:35:57.270Z",
+      "_ts": "2026-10-01T09:35:57.548Z"
+    }
+  ],
+  "mirroredAt": "2026-10-01T09:35:57.799Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-01T09:22:38.311616+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:957",
-    "SPIN_WHEEL:997"
-  ]
+    "adds": 1
+  }
 }
