@@ -808,12 +808,19 @@
       "sid": 1004,
       "label": "Bring up clear bags",
       "uid": "SPIN_WHEEL:1004"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1005,
+      "sid": 1005,
+      "label": "Send Matt his insurance card",
+      "uid": "SPIN_WHEEL:1005"
     }
   ],
-  "version": 2575,
-  "updated": "2026-10-01T07:33:31.928271+00:00",
+  "version": 2576,
+  "updated": "2026-10-01T07:35:20.342927+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 56,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
