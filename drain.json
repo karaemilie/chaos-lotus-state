@@ -1,13 +1,5 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1001,
-      "label": "Order B webcam",
-      "uid": "SPIN_WHEEL:1001",
-      "_ts": "2026-10-01T05:25:37.064Z"
-    }
-  ],
+  "completions": [],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -16,9 +8,9 @@
       "_ts": "2026-10-01T05:25:46.896Z"
     }
   ],
-  "mirroredAt": "2026-10-01T05:25:47.148Z",
+  "mirroredAt": "2026-10-01T05:25:51.498Z",
   "counts": {
-    "completions": 1,
+    "completions": 0,
     "adds": 1
   }
 }
