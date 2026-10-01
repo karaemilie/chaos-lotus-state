@@ -1,5 +1,20 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1001,
+      "label": "Order B webcam",
+      "uid": "SPIN_WHEEL:1001",
+      "_ts": "2026-10-01T05:25:37.064Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 946,
+      "label": "Evan bday gifts",
+      "uid": "SPIN_WHEEL:946",
+      "_ts": "2026-10-01T05:25:54.783Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +23,9 @@
       "_ts": "2026-10-01T05:25:46.896Z"
     }
   ],
-  "mirroredAt": "2026-10-01T05:25:51.498Z",
+  "mirroredAt": "2026-10-01T05:25:55.019Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 1
   }
 }
