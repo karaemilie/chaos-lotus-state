@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-09-30T09:32:21.700Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order B webcam",
+      "_addedAt": "2026-10-01T00:31:16.398Z",
+      "_ts": "2026-10-01T00:31:16.535Z"
+    }
+  ],
+  "mirroredAt": "2026-10-01T00:31:16.807Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-09-30T09:32:23.097857+00:00",
-  "lastAutoProcessed": [
-    "SPIN:932"
-  ]
+    "adds": 1
+  }
 }
