@@ -398,19 +398,6 @@
       "uid": "SPIN_WHEEL:981"
     },
     {
-      "source": "TASKS",
-      "id": 12136,
-      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12136"
-    },
-    {
       "source": "ZONES",
       "zid": 20,
       "floor": "Upstairs",
@@ -801,10 +788,23 @@
       "cat": "Kids",
       "critical": false,
       "uid": "TASKS:11317"
+    },
+    {
+      "source": "TASKS",
+      "id": 11619,
+      "label": "Find kids a cool physics simulator game / way to learn mass & density \u269b\ufe0f\ud83c\udfae \ud83c\udfaf First step: search 'mass density simulation game kids'",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11619"
     }
   ],
-  "version": 2584,
-  "updated": "2026-10-01T23:14:57.390144+00:00",
+  "version": 2585,
+  "updated": "2026-10-01T23:15:40.903712+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "COURAGE": 4,
