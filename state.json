@@ -795,12 +795,19 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10336"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1001,
+      "sid": 1001,
+      "label": "Order B webcam",
+      "uid": "SPIN_WHEEL:1001"
     }
   ],
-  "version": 2567,
-  "updated": "2026-09-30T09:32:20.079840+00:00",
+  "version": 2568,
+  "updated": "2026-10-01T00:31:32.588470+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 54,
     "COURAGE": 4,
     "ZONES": 7,
     "TASKS": 23,
