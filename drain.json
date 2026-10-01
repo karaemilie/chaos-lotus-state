@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 957,
+      "label": "Cash Jake’s check",
+      "uid": "SPIN_WHEEL:957",
+      "_ts": "2026-10-01T09:21:42.551Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-01T09:20:03.981Z",
+  "mirroredAt": "2026-10-01T09:21:42.864Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-01T09:20:05.129931+00:00",
-  "lastAutoProcessed": [
-    "SPIN:888"
-  ]
+  }
 }
