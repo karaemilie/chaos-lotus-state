@@ -329,13 +329,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 957,
-      "sid": 957,
-      "label": "Cash Jake\u2019s check",
-      "uid": "SPIN_WHEEL:957"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 958,
       "sid": 958,
       "label": "Ask Evan how much I owe him",
@@ -817,10 +810,10 @@
       "uid": "SPIN_WHEEL:1006"
     }
   ],
-  "version": 2579,
-  "updated": "2026-10-01T09:20:02.721438+00:00",
+  "version": 2580,
+  "updated": "2026-10-01T09:21:55.880731+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 55,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
