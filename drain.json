@@ -1,9 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "🌱 Hallway",
+      "uid": "ZONES:80",
+      "_ts": "2026-10-01T08:06:44.919Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-01T07:35:19.071Z",
+  "mirroredAt": "2026-10-01T08:06:45.168Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
