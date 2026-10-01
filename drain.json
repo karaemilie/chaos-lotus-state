@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-01T07:33:30.857Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send Matt his insurance card",
+      "_addedAt": "2026-10-01T07:35:01.670Z",
+      "_ts": "2026-10-01T07:35:01.824Z"
+    }
+  ],
+  "mirroredAt": "2026-10-01T07:35:02.064Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
