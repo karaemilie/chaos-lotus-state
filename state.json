@@ -787,13 +787,6 @@
       "uid": "TASKS:10336"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1001,
-      "sid": 1001,
-      "label": "Order B webcam",
-      "uid": "SPIN_WHEEL:1001"
-    },
-    {
       "source": "ZONES",
       "zid": 36,
       "floor": "Main Floor",
@@ -803,10 +796,10 @@
       "uid": "ZONES:36"
     }
   ],
-  "version": 2569,
-  "updated": "2026-10-01T01:01:58.631219+00:00",
+  "version": 2570,
+  "updated": "2026-10-01T05:25:50.289933+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 53,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
