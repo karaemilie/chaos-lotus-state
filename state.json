@@ -399,19 +399,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12135,
-      "label": "\u2728 Recharge my twinkle stars \u2728\ud83d\udd0b",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12135"
-    },
-    {
-      "source": "TASKS",
       "id": 12136,
       "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
       "aw": 3,
@@ -801,10 +788,23 @@
       "sid": 1007,
       "label": "Trade my Kalshi bonus before Monday",
       "uid": "SPIN_WHEEL:1007"
+    },
+    {
+      "source": "TASKS",
+      "id": 11317,
+      "label": "Schedule next Create & Learn class for Evan (based on rock climbing schedule) \ud83d\udcdd",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11317"
     }
   ],
-  "version": 2583,
-  "updated": "2026-10-01T23:12:53.476943+00:00",
+  "version": 2584,
+  "updated": "2026-10-01T23:14:57.390144+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "COURAGE": 4,
