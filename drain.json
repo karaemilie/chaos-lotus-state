@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 31,
+      "label": "Eval new rug",
+      "uid": "SPIN:888",
+      "_ts": "2026-10-01T09:19:42.731Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-01T08:17:39.760Z",
+  "mirroredAt": "2026-10-01T09:19:42.955Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
