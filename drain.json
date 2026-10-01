@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1006,
+      "label": "Put auto buy on new flannel",
+      "uid": "SPIN_WHEEL:1006",
+      "_ts": "2026-10-01T23:12:39.385Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-01T09:36:14.631Z",
+  "mirroredAt": "2026-10-01T23:12:39.650Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
