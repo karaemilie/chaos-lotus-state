@@ -801,12 +801,19 @@
       "sid": 1006,
       "label": "Put auto buy on new flannel",
       "uid": "SPIN_WHEEL:1006"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1007,
+      "sid": 1007,
+      "label": "Trade my Kalshi bonus before Monday",
+      "uid": "SPIN_WHEEL:1007"
     }
   ],
-  "version": 2581,
-  "updated": "2026-10-01T09:22:35.794929+00:00",
+  "version": 2582,
+  "updated": "2026-10-01T09:36:16.209131+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 55,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
