@@ -53,16 +53,6 @@
       "uid": "COURAGE:11217:0"
     },
     {
-      "source": "ZONES",
-      "zid": 35,
-      "floor": "Main Floor",
-      "row": 36,
-      "label": "\ud83e\uddfa School Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "School Room",
-      "uid": "ZONES:35"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 6,
@@ -802,15 +792,24 @@
       "sid": 1001,
       "label": "Order B webcam",
       "uid": "SPIN_WHEEL:1001"
+    },
+    {
+      "source": "ZONES",
+      "zid": 36,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Mudroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Mudroom",
+      "uid": "ZONES:36"
     }
   ],
-  "version": 2568,
-  "updated": "2026-10-01T00:31:32.588470+00:00",
+  "version": 2569,
+  "updated": "2026-10-01T01:01:58.631219+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "COURAGE": 4,
-    "ZONES": 7,
     "TASKS": 23,
+    "ZONES": 7,
     "MAINTENANCE": 2
   }
 }
