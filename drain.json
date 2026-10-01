@@ -1,13 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-01T23:12:54.825Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Recharge my twinkle stars ✨🔋",
+      "_addedAt": "2026-10-01T23:14:45.458Z",
+      "reschedule": {
+        "uid": "TASKS:12135",
+        "id": 12135,
+        "label": "✨ Recharge my twinkle stars ✨🔋",
+        "start": "2026-10-03"
+      },
+      "_ts": "2026-10-01T23:14:45.593Z"
+    }
+  ],
+  "mirroredAt": "2026-10-01T23:14:45.850Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-01T23:12:55.790683+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1006"
-  ]
+    "adds": 1
+  }
 }
