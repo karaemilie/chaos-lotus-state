@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-01T01:02:01.090979+00:00",
-  "lastRunAlaska": "2026-09-30 17:02 AKDT",
+  "lastRun": "2026-10-01T08:07:01.401786+00:00",
+  "lastRunAlaska": "2026-10-01 00:07 AKDT",
   "processedCount": 1,
   "processed": [
     {
-      "uid": "ZONES:35",
-      "result": "\u2705 Main Floor/School Room (row 36) stamped 2026-09-30"
+      "uid": "ZONES:80",
+      "result": "\u2705 Plant/Hallway (row 82) stamped 2026-09-30"
     }
   ],
   "remainingForClaude": {
@@ -13,9 +13,29 @@
     "adds": 0
   },
   "daySweep": {
-    "added": [],
-    "bumped": [],
-    "today": "2026-09-30",
+    "added": [
+      "TASKS:10529",
+      "TASKS:11712",
+      "TASKS:11928",
+      "TASKS:12032",
+      "TASKS:12044",
+      "TASKS:12080",
+      "TASKS:12144",
+      "TASKS:12146",
+      "TASKS:12158"
+    ],
+    "bumped": [
+      "TASKS:10464",
+      "TASKS:10113",
+      "TASKS:11708",
+      "TASKS:11946",
+      "TASKS:11948",
+      "TASKS:11988",
+      "TASKS:12098",
+      "TASKS:10176",
+      "TASKS:10117"
+    ],
+    "today": "2026-10-01",
     "stampToday": "2026-09-30",
     "ran": true
   }
