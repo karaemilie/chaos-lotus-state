@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 992,
+      "label": "Add Tuesday orchestra rehearsal to calendar",
+      "uid": "SPIN_WHEEL:992",
+      "_ts": "2026-10-01T23:17:14.894Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-01T23:15:42.229Z",
+  "mirroredAt": "2026-10-01T23:17:15.291Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
