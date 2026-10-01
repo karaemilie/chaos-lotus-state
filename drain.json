@@ -12,11 +12,23 @@
         "start": "2026-10-03"
       },
       "_ts": "2026-10-01T23:14:45.593Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Create Kahn assignments for Lincoln & Evan",
+      "_addedAt": "2026-10-01T23:14:58.298Z",
+      "reschedule": {
+        "uid": "TASKS:12136",
+        "id": 12136,
+        "label": "✨ Create Kahn assignments for Lincoln & Evan",
+        "start": "2026-10-04"
+      },
+      "_ts": "2026-10-01T23:14:58.441Z"
     }
   ],
-  "mirroredAt": "2026-10-01T23:14:45.850Z",
+  "mirroredAt": "2026-10-01T23:14:58.607Z",
   "counts": {
     "completions": 0,
-    "adds": 1
+    "adds": 2
   }
 }
