@@ -460,13 +460,6 @@
       "uid": "SPIN_WHEEL:989"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 992,
-      "sid": 992,
-      "label": "Add Tuesday orchestra rehearsal to calendar",
-      "uid": "SPIN_WHEEL:992"
-    },
-    {
       "source": "ZONES",
       "zid": 85,
       "floor": "Personal",
@@ -803,10 +796,10 @@
       "uid": "TASKS:11619"
     }
   ],
-  "version": 2585,
-  "updated": "2026-10-01T23:15:40.903712+00:00",
+  "version": 2586,
+  "updated": "2026-10-01T23:17:29.222205+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 53,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
