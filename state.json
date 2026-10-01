@@ -573,13 +573,6 @@
       "uid": "ZONES:73"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 995,
-      "sid": 995,
-      "label": "Bring Evan new sweatshirt inside!",
-      "uid": "SPIN_WHEEL:995"
-    },
-    {
       "source": "TASKS",
       "id": 11946,
       "label": "Move quilt to right \ud83d\udecf\ufe0f",
@@ -803,10 +796,10 @@
       "uid": "SPIN_WHEEL:1002"
     }
   ],
-  "version": 2573,
-  "updated": "2026-10-01T07:15:02.247171+00:00",
+  "version": 2574,
+  "updated": "2026-10-01T07:32:48.408720+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 53,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
