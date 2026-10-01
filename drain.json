@@ -1,13 +1,16 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "label": "🏠 Scrub some light switches",
+      "uid": "MAINTENANCE:122",
+      "_ts": "2026-10-01T23:28:44.242Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-01T23:23:45.023Z",
+  "mirroredAt": "2026-10-01T23:28:44.630Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-01T23:23:46.136328+00:00",
-  "lastAutoProcessed": [
-    "ZONES:73"
-  ]
+  }
 }
