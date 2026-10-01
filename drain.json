@@ -1,13 +1,5 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 995,
-      "label": "Bring Evan new sweatshirt inside!",
-      "uid": "SPIN_WHEEL:995",
-      "_ts": "2026-10-01T07:32:33.798Z"
-    }
-  ],
+  "completions": [],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -16,9 +8,9 @@
       "_ts": "2026-10-01T07:32:45.937Z"
     }
   ],
-  "mirroredAt": "2026-10-01T07:32:46.288Z",
+  "mirroredAt": "2026-10-01T07:32:49.813Z",
   "counts": {
-    "completions": 1,
+    "completions": 0,
     "adds": 1
   }
 }
