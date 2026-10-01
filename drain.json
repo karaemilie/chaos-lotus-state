@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-01T08:07:00.316Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Put auto buy on new flannel",
+      "_addedAt": "2026-10-01T08:17:24.984Z",
+      "_ts": "2026-10-01T08:17:25.182Z"
+    }
+  ],
+  "mirroredAt": "2026-10-01T08:17:25.445Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-01T08:07:01.401511+00:00",
-  "lastAutoProcessed": [
-    "ZONES:80"
-  ]
+    "adds": 1
+  }
 }
