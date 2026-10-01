@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 957,
+      "label": "Cash Jake’s check",
+      "uid": "SPIN_WHEEL:957",
+      "_ts": "2026-10-01T09:21:42.551Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 997,
+      "label": "Genevieve routing info to Dad",
+      "uid": "SPIN_WHEEL:997",
+      "_ts": "2026-10-01T09:22:05.070Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-01T09:21:57.185Z",
+  "mirroredAt": "2026-10-01T09:22:05.331Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-10-01T09:21:58.025161+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:957"
-  ]
+  }
 }
