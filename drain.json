@@ -1,9 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 36,
+      "zid": 35,
+      "floor": "Main Floor",
+      "label": "🧺 School Room",
+      "uid": "ZONES:35",
+      "_ts": "2026-10-01T01:01:45.786Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-01T00:31:31.406Z",
+  "mirroredAt": "2026-10-01T01:01:46.114Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
