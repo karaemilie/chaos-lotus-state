@@ -8,10 +8,17 @@
       "_ts": "2026-10-01T07:32:33.798Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-10-01T07:32:34.083Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Bring up wrapping paper",
+      "_addedAt": "2026-10-01T07:32:45.668Z",
+      "_ts": "2026-10-01T07:32:45.937Z"
+    }
+  ],
+  "mirroredAt": "2026-10-01T07:32:46.288Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
