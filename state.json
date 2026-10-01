@@ -424,14 +424,6 @@
       "uid": "ZONES:65"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 122,
-      "label": "\ud83c\udfe0 Scrub some light switches",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Scrub some light switches",
-      "uid": "MAINTENANCE:122"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 986,
       "sid": 986,
@@ -794,10 +786,18 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Main floor Down Low",
       "uid": "ZONES:75"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 123,
+      "label": "\ud83c\udfe0 Window tracks bedroom",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Window tracks bedroom",
+      "uid": "MAINTENANCE:123"
     }
   ],
-  "version": 2587,
-  "updated": "2026-10-01T23:23:43.526926+00:00",
+  "version": 2588,
+  "updated": "2026-10-01T23:28:56.519083+00:00",
   "buckets": {
     "SPIN_WHEEL": 53,
     "COURAGE": 4,
