@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-01T23:28:57.759Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Verify Ally MC was closed",
+      "_addedAt": "2026-10-02T00:34:04.357Z",
+      "_ts": "2026-10-02T00:34:04.471Z"
+    }
+  ],
+  "mirroredAt": "2026-10-02T00:34:04.781Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-01T23:28:58.822239+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:122"
-  ]
+    "adds": 1
+  }
 }
