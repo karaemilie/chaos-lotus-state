@@ -1,9 +1,25 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-02T00:38:28.088Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ask Evan how much I owe him",
+      "_addedAt": "2026-10-02T00:46:49.937Z",
+      "promote": {
+        "fromUid": "SPIN_WHEEL:958",
+        "sid": 958,
+        "label": "Ask Evan how much I owe him",
+        "origLabel": "Ask Evan how much I owe him",
+        "start": "2026-10-05",
+        "category": "Home",
+        "aw": 3
+      },
+      "_ts": "2026-10-02T00:46:50.042Z"
+    }
+  ],
+  "mirroredAt": "2026-10-02T00:46:50.301Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
