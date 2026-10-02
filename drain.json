@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-02T00:34:19.918Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order Evan credit card",
+      "_addedAt": "2026-10-02T00:38:15.887Z",
+      "_ts": "2026-10-02T00:38:16.006Z"
+    }
+  ],
+  "mirroredAt": "2026-10-02T00:38:16.274Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
