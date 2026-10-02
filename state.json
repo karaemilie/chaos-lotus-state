@@ -329,13 +329,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 958,
-      "sid": 958,
-      "label": "Ask Evan how much I owe him",
-      "uid": "SPIN_WHEEL:958"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 964,
       "sid": 964,
       "label": "Bentley WWAMI APP",
@@ -810,10 +803,10 @@
       "uid": "SPIN_WHEEL:1009"
     }
   ],
-  "version": 2590,
-  "updated": "2026-10-02T00:38:29.123988+00:00",
+  "version": 2591,
+  "updated": "2026-10-02T00:47:06.540018+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 54,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
