@@ -792,12 +792,19 @@
       "sid": 1015,
       "label": "Bentley birthday plane ticket",
       "uid": "SPIN_WHEEL:1015"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1016,
+      "sid": 1016,
+      "label": "Pay off B&G rent",
+      "uid": "SPIN_WHEEL:1016"
     }
   ],
-  "version": 2615,
-  "updated": "2026-10-02T09:04:31.058713+00:00",
+  "version": 2616,
+  "updated": "2026-10-02T09:07:35.001527+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 54,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
