@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1001,
+      "label": "Order speedo paddle",
+      "uid": "SPIN_WHEEL:1001",
+      "_ts": "2026-10-02T02:20:35.959Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-02T02:06:30.276Z",
+  "mirroredAt": "2026-10-02T02:20:36.220Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-02T02:06:31.333683+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:989"
-  ]
+  }
 }
