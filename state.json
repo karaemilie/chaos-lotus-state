@@ -561,13 +561,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1004,
-      "sid": 1004,
-      "label": "Bring up clear bags",
-      "uid": "SPIN_WHEEL:1004"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1005,
       "sid": 1005,
       "label": "Send Matt his insurance card",
@@ -782,10 +775,10 @@
       "uid": "ZONES:49"
     }
   ],
-  "version": 2596,
-  "updated": "2026-10-02T02:21:17.561564+00:00",
+  "version": 2597,
+  "updated": "2026-10-02T03:14:40.447306+00:00",
   "buckets": {
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 50,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
