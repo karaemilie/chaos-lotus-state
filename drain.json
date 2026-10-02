@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-02T08:55:36.262Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Write Bentley back about concert",
+      "_addedAt": "2026-10-02T08:55:21.161Z",
+      "_ts": "2026-10-02T08:55:21.316Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "MSG for Jake re: trumpet!! B",
+      "_addedAt": "2026-10-02T08:56:01.667Z",
+      "_ts": "2026-10-02T08:56:01.832Z"
+    }
+  ],
+  "mirroredAt": "2026-10-02T08:56:02.149Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
