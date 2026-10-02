@@ -1,9 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 65,
+      "floor": "Digital",
+      "label": "💻 Emails",
+      "uid": "ZONES:65",
+      "_ts": "2026-10-02T01:03:31.870Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-02T00:47:07.962Z",
+  "mirroredAt": "2026-10-02T01:03:32.264Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
