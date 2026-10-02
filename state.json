@@ -556,13 +556,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1001,
-      "sid": 1001,
-      "label": "Order speedo paddle",
-      "uid": "SPIN_WHEEL:1001"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1002,
       "sid": 1002,
       "label": "List Math U See",
@@ -789,10 +782,10 @@
       "uid": "ZONES:66"
     }
   ],
-  "version": 2594,
-  "updated": "2026-10-02T02:06:28.894197+00:00",
+  "version": 2595,
+  "updated": "2026-10-02T02:20:49.250240+00:00",
   "buckets": {
-    "SPIN_WHEEL": 52,
+    "SPIN_WHEEL": 51,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
