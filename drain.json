@@ -1,9 +1,34 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-02T06:56:23.790Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Work on kids education planning projects 📚",
+      "_addedAt": "2026-10-02T06:56:10.419Z",
+      "reschedule": {
+        "uid": "TASKS:11987",
+        "id": 11987,
+        "label": "✨ Work on kids education planning projects 📚",
+        "start": "2026-10-03"
+      },
+      "_ts": "2026-10-02T06:56:10.610Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "🔥 Track down education tax forms from kids schools (1098-T etc) 📝",
+      "_addedAt": "2026-10-02T06:56:29.738Z",
+      "reschedule": {
+        "uid": "COURAGE:11212:0",
+        "id": 11212,
+        "label": "🔥 Track down education tax forms from kids schools (1098-T etc) 📝",
+        "start": "2026-10-05"
+      },
+      "_ts": "2026-10-02T06:56:29.903Z"
+    }
+  ],
+  "mirroredAt": "2026-10-02T06:56:30.132Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
