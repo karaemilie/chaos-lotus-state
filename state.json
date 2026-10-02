@@ -517,19 +517,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12044,
-      "label": "\u2728 Pay rents (Matt, Bentley, Jake & Genevieve) *reminder: moved to $400 for Horrocks*",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12044"
-    },
-    {
-      "source": "TASKS",
       "id": 12080,
       "label": "\u2728 Get out heated cat beds \ud83d\udc31\ud83d\udd25",
       "aw": 6,
@@ -799,10 +786,23 @@
       "sid": 1016,
       "label": "Pay off B&G rent",
       "uid": "SPIN_WHEEL:1016"
+    },
+    {
+      "source": "TASKS",
+      "id": 11325,
+      "label": "Text Glen and ask about Alaska-specific internship opportunities \ud83d\udcf1",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11325"
     }
   ],
-  "version": 2616,
-  "updated": "2026-10-02T09:07:35.001527+00:00",
+  "version": 2617,
+  "updated": "2026-10-02T09:12:21.026403+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "COURAGE": 4,
