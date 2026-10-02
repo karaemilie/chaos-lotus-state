@@ -1,13 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-02T07:18:06.722Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Use Claude budget on new projects or app feature development 🧠⏳ 📝",
+      "_addedAt": "2026-10-02T07:23:04.507Z",
+      "reschedule": {
+        "uid": "TASKS:12158",
+        "id": 12158,
+        "label": "✨ Use Claude budget on new projects or app feature development 🧠⏳ 📝",
+        "start": "2026-10-03"
+      },
+      "_ts": "2026-10-02T07:23:04.933Z"
+    }
+  ],
+  "mirroredAt": "2026-10-02T07:23:05.259Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-02T07:18:07.759375+00:00",
-  "lastAutoProcessed": [
-    "SPIN:884"
-  ]
+    "adds": 1
+  }
 }
