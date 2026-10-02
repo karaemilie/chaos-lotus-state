@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1001,
+      "label": "Order speedo paddle",
+      "uid": "SPIN_WHEEL:1001",
+      "_ts": "2026-10-02T02:20:35.959Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 48,
+      "floor": "Basement",
+      "label": "🧺 Basement Craft Zone",
+      "uid": "ZONES:48",
+      "_ts": "2026-10-02T02:21:03.961Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-02T02:20:50.751Z",
+  "mirroredAt": "2026-10-02T02:21:04.231Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-10-02T02:20:51.873088+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1001"
-  ]
+  }
 }
