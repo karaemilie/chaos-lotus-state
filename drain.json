@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-02T09:12:23.443Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Upgrade B cellular, cancel wireless? Call them?",
+      "_addedAt": "2026-10-02T09:37:54.663Z",
+      "_ts": "2026-10-02T09:37:54.818Z"
+    }
+  ],
+  "mirroredAt": "2026-10-02T09:37:55.057Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-02T09:12:24.303228+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12044"
-  ]
+    "adds": 1
+  }
 }
