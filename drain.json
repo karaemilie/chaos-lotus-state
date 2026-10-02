@@ -1,15 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-02T08:25:21.667Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Write Bentley back about concert",
+      "_addedAt": "2026-10-02T08:55:21.161Z",
+      "_ts": "2026-10-02T08:55:21.316Z"
+    }
+  ],
+  "mirroredAt": "2026-10-02T08:55:21.563Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-02T08:25:22.479108+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1002",
-    "SPIN_WHEEL:973",
-    "TASKS:12147"
-  ]
+    "adds": 1
+  }
 }
