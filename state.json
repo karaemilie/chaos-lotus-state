@@ -416,13 +416,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 987,
-      "sid": 987,
-      "label": "Activate cycle track in Whoop",
-      "uid": "SPIN_WHEEL:987"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 988,
       "sid": 988,
       "label": "Jake package",
@@ -803,10 +796,10 @@
       "uid": "ZONES:66"
     }
   ],
-  "version": 2592,
-  "updated": "2026-10-02T01:03:46.166668+00:00",
+  "version": 2593,
+  "updated": "2026-10-02T01:59:51.343478+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 53,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
