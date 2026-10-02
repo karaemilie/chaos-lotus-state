@@ -806,12 +806,19 @@
       "sid": 1017,
       "label": "Upgrade B cellular, cancel wireless? Call them?",
       "uid": "SPIN_WHEEL:1017"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1018,
+      "sid": 1018,
+      "label": "Send tics to Flight",
+      "uid": "SPIN_WHEEL:1018"
     }
   ],
-  "version": 2618,
-  "updated": "2026-10-02T09:38:12.616669+00:00",
+  "version": 2619,
+  "updated": "2026-10-02T09:57:19.070772+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 56,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
