@@ -801,12 +801,19 @@
       "sid": 1008,
       "label": "Verify Ally MC was closed",
       "uid": "SPIN_WHEEL:1008"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1009,
+      "sid": 1009,
+      "label": "Order Evan credit card",
+      "uid": "SPIN_WHEEL:1009"
     }
   ],
-  "version": 2589,
-  "updated": "2026-10-02T00:34:21.776750+00:00",
+  "version": 2590,
+  "updated": "2026-10-02T00:38:29.123988+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 55,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
