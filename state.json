@@ -771,12 +771,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Quicken",
       "uid": "ZONES:67"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1011,
+      "sid": 1011,
+      "label": "Figure out how to share Xmind with Claude",
+      "uid": "SPIN_WHEEL:1011"
     }
   ],
-  "version": 2606,
-  "updated": "2026-10-02T07:48:05.453232+00:00",
+  "version": 2607,
+  "updated": "2026-10-02T08:07:47.742047+00:00",
   "buckets": {
-    "SPIN_WHEEL": 50,
+    "SPIN_WHEEL": 51,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
