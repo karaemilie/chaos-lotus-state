@@ -634,19 +634,6 @@
       "uid": "TASKS:12146"
     },
     {
-      "source": "TASKS",
-      "id": 12158,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12158"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1007,
       "sid": 1007,
@@ -764,10 +751,23 @@
       "sid": 1009,
       "label": "Research current available robots",
       "uid": "SPIN_WHEEL:1009"
+    },
+    {
+      "source": "TASKS",
+      "id": 10080,
+      "label": "Fix humidity sensor tag for music room",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": "Home Maintenance",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10080"
     }
   ],
-  "version": 2603,
-  "updated": "2026-10-02T07:18:05.176550+00:00",
+  "version": 2604,
+  "updated": "2026-10-02T07:23:17.078113+00:00",
   "buckets": {
     "SPIN_WHEEL": 49,
     "COURAGE": 4,
