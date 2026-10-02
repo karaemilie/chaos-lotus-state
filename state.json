@@ -30,18 +30,6 @@
     },
     {
       "source": "COURAGE",
-      "parentId": 11212,
-      "parentRow": 158,
-      "parentLabel": "Track down education tax forms from kids schools (1098-T etc) \ud83d\udcdd",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-06-25",
-      "label": "\ud83d\udd25 Track down education tax forms from kids schools (1098-T etc) \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11212:0"
-    },
-    {
-      "source": "COURAGE",
       "parentId": 11217,
       "parentRow": 160,
       "parentLabel": "Check PFD statuses for everyone (Bentley, Jake, Genevieve)",
@@ -765,10 +753,21 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10071"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11083,
+      "stepIndex": 0,
+      "parentLabel": "Line item the Amazon Vine tax file \ud83d\udcdd",
+      "aw": 2,
+      "due": "2026-03-28",
+      "label": "\ud83d\udd25 Line item the Amazon Vine tax file \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11083:0"
     }
   ],
-  "version": 2599,
-  "updated": "2026-10-02T06:56:22.594970+00:00",
+  "version": 2600,
+  "updated": "2026-10-02T06:57:01.227441+00:00",
   "buckets": {
     "SPIN_WHEEL": 49,
     "COURAGE": 4,
