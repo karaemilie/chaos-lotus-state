@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1009,
+      "label": "Order Evan credit card",
+      "uid": "SPIN_WHEEL:1009",
+      "_ts": "2026-10-02T06:54:12.566Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-02T03:14:41.698Z",
+  "mirroredAt": "2026-10-02T06:54:12.823Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-02T03:14:42.610786+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1004"
-  ]
+  }
 }
