@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-02T07:48:06.710Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Figure out how to share Xmind with Claude",
+      "_addedAt": "2026-10-02T08:07:26.936Z",
+      "_ts": "2026-10-02T08:07:27.413Z"
+    }
+  ],
+  "mirroredAt": "2026-10-02T08:07:27.792Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-02T07:48:07.696909+00:00",
-  "lastAutoProcessed": [
-    "ZONES:66"
-  ]
+    "adds": 1
+  }
 }
