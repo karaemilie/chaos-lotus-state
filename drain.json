@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-02T07:23:18.203Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Trade $25 to get $25!",
+      "_addedAt": "2026-10-02T07:36:11.939Z",
+      "_ts": "2026-10-02T07:36:12.092Z"
+    }
+  ],
+  "mirroredAt": "2026-10-02T07:36:12.334Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
