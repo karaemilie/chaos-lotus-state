@@ -764,12 +764,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10080"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1010,
+      "sid": 1010,
+      "label": "Trade $25 to get $25!",
+      "uid": "SPIN_WHEEL:1010"
     }
   ],
-  "version": 2604,
-  "updated": "2026-10-02T07:23:17.078113+00:00",
+  "version": 2605,
+  "updated": "2026-10-02T07:36:26.155284+00:00",
   "buckets": {
-    "SPIN_WHEEL": 49,
+    "SPIN_WHEEL": 50,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
