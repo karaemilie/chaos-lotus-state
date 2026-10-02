@@ -1,17 +1,14 @@
 {
-  "lastRun": "2026-10-02T09:12:24.303463+00:00",
-  "lastRunAlaska": "2026-10-02 01:12 AKDT",
-  "processedCount": 1,
+  "lastRun": "2026-10-02T09:38:13.497406+00:00",
+  "lastRunAlaska": "2026-10-02 01:38 AKDT",
+  "processedCount": 0,
   "processed": [],
   "remainingForClaude": {
     "completions": 0,
     "adds": 0
   },
   "daySweep": {
-    "added": [],
-    "bumped": [],
-    "today": "2026-10-02",
-    "stampToday": "2026-10-01",
-    "ran": true
+    "ran": null,
+    "note": "apply_refills not reached this run"
   }
 }
