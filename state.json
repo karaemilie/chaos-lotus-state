@@ -258,20 +258,6 @@
       "uid": "COURAGE:10187:0"
     },
     {
-      "source": "TASKS",
-      "id": 11987,
-      "row": 305,
-      "label": "\u2728 Work on kids education planning projects \ud83d\udcda",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 45,
-      "ml": "Medium",
-      "proj": "Homeschool Admin",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11987"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 811,
       "row": 16,
@@ -766,10 +752,23 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Foyer",
       "uid": "ZONES:49"
+    },
+    {
+      "source": "TASKS",
+      "id": 10071,
+      "label": "Remind Jake to pick up pianist \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": "Jake - Trumpet Competition",
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10071"
     }
   ],
-  "version": 2598,
-  "updated": "2026-10-02T06:54:24.633517+00:00",
+  "version": 2599,
+  "updated": "2026-10-02T06:56:22.594970+00:00",
   "buckets": {
     "SPIN_WHEEL": 49,
     "COURAGE": 4,
