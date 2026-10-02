@@ -449,13 +449,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1002,
-      "sid": 1002,
-      "label": "List Math U See",
-      "uid": "SPIN_WHEEL:1002"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1003,
       "sid": 1003,
       "label": "Bring up wrapping paper",
@@ -780,10 +773,10 @@
       "uid": "TASKS:11124"
     }
   ],
-  "version": 2609,
-  "updated": "2026-10-02T08:24:17.862992+00:00",
+  "version": 2610,
+  "updated": "2026-10-02T08:24:48.186333+00:00",
   "buckets": {
-    "SPIN_WHEEL": 51,
+    "SPIN_WHEEL": 50,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
