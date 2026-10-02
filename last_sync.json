@@ -1,21 +1,28 @@
 {
-  "lastRun": "2026-10-02T07:48:07.697126+00:00",
-  "lastRunAlaska": "2026-10-01 23:48 AKDT",
+  "lastRun": "2026-10-02T08:08:36.355559+00:00",
+  "lastRunAlaska": "2026-10-02 00:08 AKDT",
   "processedCount": 1,
-  "processed": [
-    {
-      "uid": "ZONES:66",
-      "result": "\u2705 Digital/Due (row 67) stamped 2026-10-01"
-    }
-  ],
+  "processed": [],
   "remainingForClaude": {
     "completions": 0,
     "adds": 0
   },
   "daySweep": {
-    "added": [],
-    "bumped": [],
-    "today": "2026-10-01",
+    "added": [
+      "TASKS:10981",
+      "TASKS:11688",
+      "TASKS:12052",
+      "TASKS:12128",
+      "TASKS:12140"
+    ],
+    "bumped": [
+      "TASKS:10150",
+      "TASKS:10336",
+      "TASKS:11317",
+      "TASKS:11619",
+      "TASKS:10071"
+    ],
+    "today": "2026-10-02",
     "stampToday": "2026-10-01",
     "ran": true
   }
