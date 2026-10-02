@@ -1,10 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-02T09:37:55.057Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Upgrade B cellular, cancel wireless? Call them?",
+      "_addedAt": "2026-10-02T09:37:54.663Z",
+      "_ts": "2026-10-02T09:37:54.818Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Send tics to Flight",
+      "_addedAt": "2026-10-02T09:57:05.020Z",
+      "_ts": "2026-10-02T09:57:05.181Z"
+    }
+  ],
+  "mirroredAt": "2026-10-02T09:57:05.413Z",
   "counts": {
     "completions": 0,
-    "adds": 1
-  },
-  "processedAt": "2026-10-02T09:38:12.313346+00:00"
+    "adds": 2
+  }
 }
