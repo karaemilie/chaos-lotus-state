@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 987,
+      "label": "Activate cycle track in Whoop",
+      "uid": "SPIN_WHEEL:987",
+      "_ts": "2026-10-02T01:59:37.762Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-02T01:03:47.428Z",
+  "mirroredAt": "2026-10-02T01:59:38.013Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-02T01:03:48.885997+00:00",
-  "lastAutoProcessed": [
-    "ZONES:65"
-  ]
+  }
 }
