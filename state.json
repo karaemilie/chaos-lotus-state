@@ -422,13 +422,6 @@
       "uid": "SPIN_WHEEL:988"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 989,
-      "sid": 989,
-      "label": "1800exam",
-      "uid": "SPIN_WHEEL:989"
-    },
-    {
       "source": "ZONES",
       "zid": 85,
       "floor": "Personal",
@@ -796,10 +789,10 @@
       "uid": "ZONES:66"
     }
   ],
-  "version": 2593,
-  "updated": "2026-10-02T01:59:51.343478+00:00",
+  "version": 2594,
+  "updated": "2026-10-02T02:06:28.894197+00:00",
   "buckets": {
-    "SPIN_WHEEL": 53,
+    "SPIN_WHEEL": 52,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
