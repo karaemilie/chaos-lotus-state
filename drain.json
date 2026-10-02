@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1004,
+      "label": "Bring up clear bags",
+      "uid": "SPIN_WHEEL:1004",
+      "_ts": "2026-10-02T03:14:27.806Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-02T02:21:18.957Z",
+  "mirroredAt": "2026-10-02T03:14:28.024Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-02T02:21:19.871084+00:00",
-  "lastAutoProcessed": [
-    "ZONES:48",
-    "SPIN_WHEEL:1001"
-  ]
+  }
 }
