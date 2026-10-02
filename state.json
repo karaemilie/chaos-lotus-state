@@ -434,19 +434,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11994,
-      "label": "\u2728 Charge the red candles \ud83d\udd6f\ufe0f\u2764\ufe0f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11994"
-    },
-    {
-      "source": "TASKS",
       "id": 12145,
       "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
       "aw": 4,
@@ -764,10 +751,23 @@
       "label": "\ud83d\udd25 Line item the Amazon Vine tax file \ud83d\udcdd",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11083:0"
+    },
+    {
+      "source": "TASKS",
+      "id": 10073,
+      "label": "Figure out what to invest $18k ROTH in \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 45,
+      "ml": "Hard",
+      "proj": "Financial Admin",
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10073"
     }
   ],
-  "version": 2600,
-  "updated": "2026-10-02T06:57:01.227441+00:00",
+  "version": 2601,
+  "updated": "2026-10-02T06:58:13.168273+00:00",
   "buckets": {
     "SPIN_WHEEL": 49,
     "COURAGE": 4,
