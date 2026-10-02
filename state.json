@@ -445,15 +445,6 @@
       "uid": "SPIN_WHEEL:998"
     },
     {
-      "source": "ZONES",
-      "zid": 48,
-      "floor": "Basement",
-      "label": "\ud83e\uddfa Basement Craft Zone",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Craft Zone",
-      "uid": "ZONES:48"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 999,
       "sid": 999,
@@ -780,10 +771,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Due",
       "uid": "ZONES:66"
+    },
+    {
+      "source": "ZONES",
+      "zid": 49,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Foyer",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Foyer",
+      "uid": "ZONES:49"
     }
   ],
-  "version": 2595,
-  "updated": "2026-10-02T02:20:49.250240+00:00",
+  "version": 2596,
+  "updated": "2026-10-02T02:21:17.561564+00:00",
   "buckets": {
     "SPIN_WHEEL": 51,
     "COURAGE": 4,
