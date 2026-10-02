@@ -750,13 +750,6 @@
       "uid": "SPIN_WHEEL:1008"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1009,
-      "sid": 1009,
-      "label": "Order Evan credit card",
-      "uid": "SPIN_WHEEL:1009"
-    },
-    {
       "source": "ZONES",
       "zid": 66,
       "floor": "Digital",
@@ -775,10 +768,10 @@
       "uid": "ZONES:49"
     }
   ],
-  "version": 2597,
-  "updated": "2026-10-02T03:14:40.447306+00:00",
+  "version": 2598,
+  "updated": "2026-10-02T06:54:24.633517+00:00",
   "buckets": {
-    "SPIN_WHEEL": 50,
+    "SPIN_WHEEL": 49,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
