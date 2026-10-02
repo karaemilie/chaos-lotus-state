@@ -408,15 +408,6 @@
       "uid": "MAINTENANCE:120"
     },
     {
-      "source": "ZONES",
-      "zid": 65,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Emails",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Emails",
-      "uid": "ZONES:65"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 986,
       "sid": 986,
@@ -801,10 +792,19 @@
       "sid": 1009,
       "label": "Order Evan credit card",
       "uid": "SPIN_WHEEL:1009"
+    },
+    {
+      "source": "ZONES",
+      "zid": 66,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Due",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Due",
+      "uid": "ZONES:66"
     }
   ],
-  "version": 2591,
-  "updated": "2026-10-02T00:47:06.540018+00:00",
+  "version": 2592,
+  "updated": "2026-10-02T01:03:46.166668+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "COURAGE": 4,
