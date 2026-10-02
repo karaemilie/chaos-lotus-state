@@ -324,13 +324,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 973,
-      "sid": 973,
-      "label": "Order reachy mini",
-      "uid": "SPIN_WHEEL:973"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 975,
       "sid": 975,
       "label": "Look at how to choose assignments in Prep Median",
@@ -773,10 +766,10 @@
       "uid": "TASKS:11124"
     }
   ],
-  "version": 2610,
-  "updated": "2026-10-02T08:24:48.186333+00:00",
+  "version": 2611,
+  "updated": "2026-10-02T08:25:19.040998+00:00",
   "buckets": {
-    "SPIN_WHEEL": 50,
+    "SPIN_WHEEL": 49,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
