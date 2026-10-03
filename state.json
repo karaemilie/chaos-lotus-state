@@ -455,15 +455,6 @@
       "uid": "SPIN_WHEEL:1005"
     },
     {
-      "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Family Room Plants",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Plants",
-      "uid": "ZONES:74"
-    },
-    {
       "source": "TASKS",
       "id": 10529,
       "label": "\u2728 Jujitsu? Try again??",
@@ -768,13 +759,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1014,
-      "sid": 1014,
-      "label": "Figure out how to incorporate glasses",
-      "uid": "SPIN_WHEEL:1014"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1015,
       "sid": 1015,
       "label": "Bentley birthday plane ticket",
@@ -820,12 +804,21 @@
       "sid": 1019,
       "label": "Order Linc a black belt!",
       "uid": "SPIN_WHEEL:1019"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
     }
   ],
-  "version": 2620,
-  "updated": "2026-10-03T00:00:37.756934+00:00",
+  "version": 2621,
+  "updated": "2026-10-03T00:01:21.865065+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 56,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
