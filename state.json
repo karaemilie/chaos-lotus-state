@@ -351,15 +351,6 @@
       "uid": "SPIN_WHEEL:981"
     },
     {
-      "source": "ZONES",
-      "zid": 20,
-      "floor": "Upstairs",
-      "label": "\ud83e\uddfa Boys Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Boys Room",
-      "uid": "ZONES:20"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 120,
       "label": "\ud83c\udfe0 Window tracks school room",
@@ -426,13 +417,6 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Mudroom",
       "uid": "ZONES:36"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1003,
-      "sid": 1003,
-      "label": "Bring up wrapping paper",
-      "uid": "SPIN_WHEEL:1003"
     },
     {
       "source": "SPIN_WHEEL",
@@ -820,15 +804,24 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:11896"
+    },
+    {
+      "source": "ZONES",
+      "zid": 21,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Laundry Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Laundry Room",
+      "uid": "ZONES:21"
     }
   ],
-  "version": 2623,
-  "updated": "2026-10-03T01:02:06.432194+00:00",
+  "version": 2624,
+  "updated": "2026-10-03T01:02:44.627448+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 56,
     "COURAGE": 4,
     "TASKS": 23,
-    "ZONES": 7,
-    "MAINTENANCE": 2
+    "MAINTENANCE": 2,
+    "ZONES": 7
   }
 }
