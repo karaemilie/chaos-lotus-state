@@ -813,12 +813,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Clean piano keys",
       "uid": "MAINTENANCE:124"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1021,
+      "sid": 1021,
+      "label": "SET UP MUSIAH!",
+      "uid": "SPIN_WHEEL:1021"
     }
   ],
-  "version": 2625,
-  "updated": "2026-10-03T01:04:42.204607+00:00",
+  "version": 2626,
+  "updated": "2026-10-03T06:24:22.237510+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 57,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
