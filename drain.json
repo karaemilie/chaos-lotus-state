@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1014,
+      "label": "Figure out how to incorporate glasses",
+      "uid": "SPIN_WHEEL:1014",
+      "_ts": "2026-10-03T00:00:30.025Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-10-03T00:00:23.476Z"
     }
   ],
-  "mirroredAt": "2026-10-03T00:00:23.841Z",
+  "mirroredAt": "2026-10-03T00:00:30.326Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
