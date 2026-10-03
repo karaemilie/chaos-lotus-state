@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-02T09:57:18.058Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order Linc a black belt!",
+      "_addedAt": "2026-10-03T00:00:23.341Z",
+      "_ts": "2026-10-03T00:00:23.476Z"
+    }
+  ],
+  "mirroredAt": "2026-10-03T00:00:23.841Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
