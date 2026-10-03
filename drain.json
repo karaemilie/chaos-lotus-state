@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-03T00:01:23.026Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pay Lindsey",
+      "_addedAt": "2026-10-03T00:18:12.458Z",
+      "_ts": "2026-10-03T00:18:12.571Z"
+    }
+  ],
+  "mirroredAt": "2026-10-03T00:18:12.915Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
