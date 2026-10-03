@@ -351,14 +351,6 @@
       "uid": "SPIN_WHEEL:981"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 120,
-      "label": "\ud83c\udfe0 Window tracks school room",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Window tracks school room",
-      "uid": "MAINTENANCE:120"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 986,
       "sid": 986,
@@ -813,15 +805,23 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Laundry Room",
       "uid": "ZONES:21"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 124,
+      "label": "\ud83c\udfe0 Clean piano keys",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Clean piano keys",
+      "uid": "MAINTENANCE:124"
     }
   ],
-  "version": 2624,
-  "updated": "2026-10-03T01:02:44.627448+00:00",
+  "version": 2625,
+  "updated": "2026-10-03T01:04:42.204607+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "COURAGE": 4,
     "TASKS": 23,
-    "MAINTENANCE": 2,
-    "ZONES": 7
+    "ZONES": 7,
+    "MAINTENANCE": 2
   }
 }
