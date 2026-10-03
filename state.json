@@ -813,12 +813,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook A",
       "uid": "ZONES:76"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1020,
+      "sid": 1020,
+      "label": "Pay Lindsey",
+      "uid": "SPIN_WHEEL:1020"
     }
   ],
-  "version": 2621,
-  "updated": "2026-10-03T00:01:21.865065+00:00",
+  "version": 2622,
+  "updated": "2026-10-03T00:18:28.587205+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 57,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
