@@ -6,12 +6,27 @@
       "label": "Figure out how to incorporate glasses",
       "uid": "SPIN_WHEEL:1014",
       "_ts": "2026-10-03T00:00:30.025Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 74,
+      "floor": "Plant",
+      "label": "🌱 Family Room Plants",
+      "uid": "ZONES:74",
+      "_ts": "2026-10-03T00:01:01.160Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-10-03T00:00:36.588Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order Linc a black belt!",
+      "_addedAt": "2026-10-03T00:00:23.341Z",
+      "_ts": "2026-10-03T00:00:23.476Z"
+    }
+  ],
+  "mirroredAt": "2026-10-03T00:01:01.492Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
