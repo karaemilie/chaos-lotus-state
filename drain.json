@@ -1,15 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 125,
+      "label": "🏠 Clean piano keys",
+      "uid": "MAINTENANCE:124",
+      "_ts": "2026-10-04T23:42:01.857Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-04T22:55:53.648Z",
+  "mirroredAt": "2026-10-04T23:42:02.083Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-04T22:55:54.615764+00:00",
-  "lastAutoProcessed": [
-    "ZONES:76",
-    "SPIN:986",
-    "TASKS:12135"
-  ]
+  }
 }
