@@ -206,13 +206,6 @@
       "uid": "TASKS:11710"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 703,
-      "row": 13,
-      "label": "Steam the new dress shirts",
-      "uid": "SPIN:703"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10187,
       "parentRow": 49,
@@ -821,10 +814,10 @@
       "uid": "SPIN_WHEEL:1025"
     }
   ],
-  "version": 2637,
-  "updated": "2026-10-04T01:57:14.787260+00:00",
+  "version": 2638,
+  "updated": "2026-10-04T01:57:58.634988+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 56,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
