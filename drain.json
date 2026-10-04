@@ -1,86 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1018,
-      "label": "Send tics to Flight",
-      "uid": "SPIN_WHEEL:1018",
-      "_ts": "2026-10-04T00:24:47.238Z"
-    },
-    {
-      "source": "TASKS",
-      "id": 12140,
-      "label": "✨ Send text update to mother-in-law 📝",
-      "uid": "TASKS:12140",
-      "_ts": "2026-10-04T00:25:40.850Z"
-    },
-    {
-      "source": "ZONES",
-      "zid": 67,
-      "floor": "Digital",
-      "label": "💻 Quicken",
-      "uid": "ZONES:67",
-      "_ts": "2026-10-04T00:26:19.020Z"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11083,
-      "stepIndex": 0,
-      "label": "🔥 Line item the Amazon Vine tax file 📝",
-      "uid": "COURAGE:11083:0",
-      "_ts": "2026-10-04T00:26:58.535Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Set up credit card pay tracker with Monarch",
-      "_addedAt": "2026-10-04T00:26:12.740Z",
-      "_ts": "2026-10-04T00:26:13.007Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "File Bentley taxes",
-      "_addedAt": "2026-10-04T00:26:39.362Z",
-      "_ts": "2026-10-04T00:26:39.474Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "File our taxes",
-      "_addedAt": "2026-10-04T00:26:53.023Z",
-      "_ts": "2026-10-04T00:26:53.152Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Call Katie",
-      "_addedAt": "2026-10-04T00:27:34.139Z",
-      "promote": {
-        "fromUid": "SPIN_WHEEL:981",
-        "sid": 981,
-        "label": "Call Katie",
-        "origLabel": "Call Katie",
-        "start": "2026-10-09",
-        "category": "Family",
-        "aw": 5
-      },
-      "_ts": "2026-10-04T00:27:34.250Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "✨ Set up teeth cleanings 🦷🪥",
-      "_addedAt": "2026-10-04T00:27:51.685Z",
-      "reschedule": {
-        "uid": "TASKS:12058",
-        "id": 12058,
-        "label": "✨ Set up teeth cleanings 🦷🪥",
-        "start": "2026-10-05"
-      },
-      "_ts": "2026-10-04T00:27:51.803Z"
-    }
-  ],
-  "mirroredAt": "2026-10-04T00:27:52.100Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-10-04T00:30:18.226Z",
   "counts": {
-    "completions": 4,
-    "adds": 5
+    "completions": 0,
+    "adds": 0
   }
 }
