@@ -665,16 +665,6 @@
       "uid": "ZONES:21"
     },
     {
-      "source": "ZONES",
-      "zid": 36,
-      "floor": "Main Floor",
-      "row": 37,
-      "label": "\ud83e\uddfa Mudroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Mudroom",
-      "uid": "ZONES:36"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1013,
       "row": 46,
@@ -844,10 +834,19 @@
       "sid": 1028,
       "label": "Plan to visit Genevieve",
       "uid": "SPIN_WHEEL:1028"
+    },
+    {
+      "source": "ZONES",
+      "zid": 37,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Main Floor Living",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Main Floor Living",
+      "uid": "ZONES:37"
     }
   ],
-  "version": 2650,
-  "updated": "2026-10-04T07:03:01.946253+00:00",
+  "version": 2651,
+  "updated": "2026-10-04T07:30:34.341972+00:00",
   "buckets": {
     "TASKS": 22,
     "SPIN_WHEEL": 57,
