@@ -15,10 +15,17 @@
       "_ts": "2026-10-04T00:25:40.850Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-10-04T00:25:41.161Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set up credit card pay tracker with Monarch",
+      "_addedAt": "2026-10-04T00:26:12.740Z",
+      "_ts": "2026-10-04T00:26:13.007Z"
+    }
+  ],
+  "mirroredAt": "2026-10-04T00:26:13.253Z",
   "counts": {
     "completions": 2,
-    "adds": 0
+    "adds": 1
   }
 }
