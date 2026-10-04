@@ -437,19 +437,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12032,
-      "label": "\u2728 Rotate plants on hallway wall \ud83e\udeb4\ud83d\udd04",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Plants",
-      "critical": false,
-      "uid": "TASKS:12032"
-    },
-    {
-      "source": "TASKS",
       "id": 12080,
       "label": "\u2728 Get out heated cat beds \ud83d\udc31\ud83d\udd25",
       "aw": 6,
@@ -819,10 +806,23 @@
       "sid": 1024,
       "label": "File our taxes",
       "uid": "SPIN_WHEEL:1024"
+    },
+    {
+      "source": "TASKS",
+      "id": 10454,
+      "label": "Investigate WWAMI eligibility",
+      "aw": 3,
+      "pri": "ASAP",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "Bentley Med School Prep",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10454"
     }
   ],
-  "version": 2634,
-  "updated": "2026-10-04T00:35:51.861101+00:00",
+  "version": 2635,
+  "updated": "2026-10-04T01:21:49.312601+00:00",
   "buckets": {
     "SPIN_WHEEL": 57,
     "COURAGE": 4,
