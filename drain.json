@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1010,
+      "label": "Trade $25 to get $25!",
+      "uid": "SPIN_WHEEL:1010",
+      "_ts": "2026-10-04T05:16:39.705Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-04T02:44:49.362Z",
+  "mirroredAt": "2026-10-04T05:16:40.005Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-04T02:44:50.547192+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12080"
-  ]
+  }
 }
