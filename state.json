@@ -81,16 +81,6 @@
       "uid": "SPIN:555"
     },
     {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "row": 78,
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 952,
       "row": 26,
@@ -278,13 +268,6 @@
       "row": 54,
       "label": "File our taxes",
       "uid": "SPIN:1024"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 986,
-      "row": 36,
-      "label": "Request more spiro",
-      "uid": "SPIN:986"
     },
     {
       "source": "SPIN_WHEEL",
@@ -819,15 +802,24 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10020"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
     }
   ],
-  "version": 2657,
-  "updated": "2026-10-04T22:40:04.434572+00:00",
+  "version": 2658,
+  "updated": "2026-10-04T22:55:51.078674+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 54,
     "TASKS": 22,
-    "ZONES": 8,
     "COURAGE": 4,
+    "ZONES": 8,
     "MAINTENANCE": 2
   }
 }
