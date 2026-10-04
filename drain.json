@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1020,
+      "label": "Pay Lindsey",
+      "uid": "SPIN_WHEEL:1020",
+      "_ts": "2026-10-04T00:35:39.379Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-04T00:30:18.226Z",
+  "mirroredAt": "2026-10-04T00:35:39.741Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
