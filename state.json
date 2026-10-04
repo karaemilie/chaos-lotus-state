@@ -549,17 +549,6 @@
       "uid": "ZONES:49"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11083,
-      "stepIndex": 0,
-      "parentLabel": "Line item the Amazon Vine tax file \ud83d\udcdd",
-      "aw": 2,
-      "due": "2026-03-28",
-      "label": "\ud83d\udd25 Line item the Amazon Vine tax file \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11083:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1009,
       "sid": 1009,
@@ -827,10 +816,21 @@
       "sid": 1023,
       "label": "File Bentley taxes",
       "uid": "SPIN_WHEEL:1023"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11001,
+      "stepIndex": 0,
+      "parentLabel": "Book Bentley Christmas here & return tickets \u2708\ufe0f\ud83c\udf84 \ud83d\udcdd",
+      "aw": 2,
+      "due": "2026-06-29",
+      "label": "\ud83d\udd25 Book Bentley Christmas here & return tickets \u2708\ufe0f\ud83c\udf84 \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11001:0"
     }
   ],
-  "version": 2630,
-  "updated": "2026-10-04T00:27:03.019920+00:00",
+  "version": 2631,
+  "updated": "2026-10-04T00:27:45.506237+00:00",
   "buckets": {
     "SPIN_WHEEL": 58,
     "COURAGE": 4,
