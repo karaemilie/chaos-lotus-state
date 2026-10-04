@@ -8,20 +8,6 @@
       "uid": "SPIN:1017"
     },
     {
-      "source": "TASKS",
-      "id": 12135,
-      "row": 313,
-      "label": "\u2728 Recharge my twinkle stars \u2728\ud83d\udd0b",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12135"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1016,
       "row": 48,
@@ -820,10 +806,23 @@
       "label": "\ud83d\udd25 Track down education tax forms from kids schools (1098-T etc) \ud83d\udcdd",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11212:0"
+    },
+    {
+      "source": "TASKS",
+      "id": 10020,
+      "label": "Cut sides for in-wall cabinets",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Medium",
+      "proj": "Bathroom Built-ins",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10020"
     }
   ],
-  "version": 2656,
-  "updated": "2026-10-04T09:12:01.535735+00:00",
+  "version": 2657,
+  "updated": "2026-10-04T22:40:04.434572+00:00",
   "buckets": {
     "SPIN_WHEEL": 55,
     "TASKS": 22,
