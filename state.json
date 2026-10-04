@@ -197,16 +197,6 @@
       "uid": "ZONES:86"
     },
     {
-      "source": "ZONES",
-      "zid": 85,
-      "floor": "Personal",
-      "row": 87,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Mask",
-      "uid": "ZONES:85"
-    },
-    {
       "source": "TASKS",
       "id": 10615,
       "row": 103,
@@ -810,10 +800,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Mop main floor",
       "uid": "MAINTENANCE:126"
+    },
+    {
+      "source": "ZONES",
+      "zid": 87,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Eyebrows",
+      "uid": "ZONES:87"
     }
   ],
-  "version": 2659,
-  "updated": "2026-10-04T23:42:14.039638+00:00",
+  "version": 2660,
+  "updated": "2026-10-04T23:59:09.168026+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "TASKS": 22,
