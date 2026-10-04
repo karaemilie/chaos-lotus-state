@@ -1,34 +1,6 @@
 {
   "tasks": [
     {
-      "source": "TASKS",
-      "id": 10020,
-      "row": 5,
-      "label": "\u2b50 Cut sides for in-wall cabinets",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 45,
-      "ml": "Medium",
-      "proj": "Bathroom Built-ins",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10020"
-    },
-    {
-      "source": "TASKS",
-      "id": 11962,
-      "row": 260,
-      "label": "\u2b50 Pair phone to test app \ud83d\udcf1",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11962"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1017,
       "row": 49,
@@ -48,20 +20,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12135"
-    },
-    {
-      "source": "TASKS",
-      "id": 10198,
-      "row": 50,
-      "label": "\u2b50 Review notes from convo with Linai's Dad about WWAMI",
-      "aw": 4,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": "Bentley Med School",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10198"
     },
     {
       "source": "SPIN_WHEEL",
@@ -109,20 +67,6 @@
       "uid": "SPIN:726"
     },
     {
-      "source": "TASKS",
-      "id": 11901,
-      "row": 239,
-      "label": "\u2b50 Work on painting stair iron \ud83c\udfa8",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11901"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1027,
       "row": 57,
@@ -142,20 +86,6 @@
       "row": 24,
       "label": "Set up Monarch",
       "uid": "SPIN:945"
-    },
-    {
-      "source": "TASKS",
-      "id": 11710,
-      "row": 202,
-      "label": "\u2728 Review IXL assessments for Evan",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 20,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11710"
     },
     {
       "source": "SPIN_WHEEL",
@@ -189,20 +119,6 @@
       "uid": "SPIN:952"
     },
     {
-      "source": "TASKS",
-      "id": 10150,
-      "row": 30,
-      "label": "\u2b50 Clean up all shoes in the mudroom \ud83d\udcdd",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10150"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1005,
       "row": 41,
@@ -222,20 +138,6 @@
       "row": 5,
       "label": "Compare birch pieces to diagram",
       "uid": "SPIN:505"
-    },
-    {
-      "source": "TASKS",
-      "id": 12177,
-      "row": 341,
-      "label": "\u2b50 Update project file in Xmind - window panel, cedar chest, bar stools, kitchen tile, \u2026! Need official sequence to home projects",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12177"
     },
     {
       "source": "SPIN_WHEEL",
@@ -842,13 +744,104 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Window tracks living room",
       "uid": "MAINTENANCE:125"
+    },
+    {
+      "source": "TASKS",
+      "id": 11317,
+      "label": "Schedule next Create & Learn class for Evan (based on rock climbing schedule) \ud83d\udcdd",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11317"
+    },
+    {
+      "source": "TASKS",
+      "id": 12027,
+      "label": "\u2728 Review next two-three months travel, task to buy tickets (compare one ways and round trips) - mileage tickets \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12027"
+    },
+    {
+      "source": "TASKS",
+      "id": 12067,
+      "label": "\u2728 Review Evan's bedtime & adjust melatonin timing \ud83d\ude34\ud83d\udc8a",
+      "aw": 6,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": null,
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12067"
+    },
+    {
+      "source": "TASKS",
+      "id": 12131,
+      "label": "\u2728 Review IXL assessments for Lincoln",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 20,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12131"
+    },
+    {
+      "source": "TASKS",
+      "id": 12136,
+      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12136"
+    },
+    {
+      "source": "TASKS",
+      "id": 12142,
+      "label": "\u2728 Check in on Pura scents - time to refresh?",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12142"
+    },
+    {
+      "source": "TASKS",
+      "id": 12162,
+      "label": "\u2728 Weekly meal planning",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12162"
     }
   ],
-  "version": 2652,
-  "updated": "2026-10-04T07:31:15.099956+00:00",
+  "version": 2653,
+  "updated": "2026-10-04T08:52:05.105881+00:00",
   "buckets": {
-    "TASKS": 22,
     "SPIN_WHEEL": 57,
+    "TASKS": 22,
     "ZONES": 8,
     "COURAGE": 4,
     "MAINTENANCE": 2
