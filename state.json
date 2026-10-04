@@ -742,15 +742,6 @@
       "uid": "SPIN:965"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 123,
-      "row": 124,
-      "label": "\ud83c\udfe0 Window tracks bedroom",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Window tracks bedroom",
-      "uid": "MAINTENANCE:123"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 576,
       "row": 7,
@@ -843,10 +834,18 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Main Floor Living",
       "uid": "ZONES:37"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 125,
+      "label": "\ud83c\udfe0 Window tracks living room",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Window tracks living room",
+      "uid": "MAINTENANCE:125"
     }
   ],
-  "version": 2651,
-  "updated": "2026-10-04T07:30:34.341972+00:00",
+  "version": 2652,
+  "updated": "2026-10-04T07:31:15.099956+00:00",
   "buckets": {
     "TASKS": 22,
     "SPIN_WHEEL": 57,
