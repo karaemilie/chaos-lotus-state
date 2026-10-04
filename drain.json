@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 50,
+      "label": "Order Linc a black belt!",
+      "uid": "SPIN:1019",
+      "_ts": "2026-10-04T09:11:19.441Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 42,
+      "label": "Trade my Kalshi bonus before Monday",
+      "uid": "SPIN:1007",
+      "_ts": "2026-10-04T09:11:44.343Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-04T09:11:36.088Z",
+  "mirroredAt": "2026-10-04T09:11:44.583Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-10-04T09:11:36.954845+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1019"
-  ]
+  }
 }
