@@ -560,37 +560,11 @@
       "uid": "COURAGE:11083:0"
     },
     {
-      "source": "TASKS",
-      "id": 10073,
-      "label": "Figure out what to invest $18k ROTH in \ud83d\udcdd",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 45,
-      "ml": "Hard",
-      "proj": "Financial Admin",
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10073"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1009,
       "sid": 1009,
       "label": "Research current available robots",
       "uid": "SPIN_WHEEL:1009"
-    },
-    {
-      "source": "TASKS",
-      "id": 10080,
-      "label": "Fix humidity sensor tag for music room",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": "Home Maintenance",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10080"
     },
     {
       "source": "SPIN_WHEEL",
@@ -614,19 +588,6 @@
       "sid": 1011,
       "label": "Figure out how to share Xmind with Claude",
       "uid": "SPIN_WHEEL:1011"
-    },
-    {
-      "source": "TASKS",
-      "id": 11253,
-      "label": "Pick Create&Learn class w/ Lincoln",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:11253"
     },
     {
       "source": "TASKS",
@@ -694,19 +655,6 @@
       "uid": "TASKS:12140"
     },
     {
-      "source": "TASKS",
-      "id": 11124,
-      "label": "Look into Jake study abroad for a semester",
-      "aw": 5,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11124"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1012,
       "sid": 1012,
@@ -735,31 +683,11 @@
       "uid": "SPIN_WHEEL:1016"
     },
     {
-      "source": "TASKS",
-      "id": 11325,
-      "label": "Text Glen and ask about Alaska-specific internship opportunities \ud83d\udcf1",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11325"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1017,
       "sid": 1017,
       "label": "Upgrade B cellular, cancel wireless? Call them?",
       "uid": "SPIN_WHEEL:1017"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1018,
-      "sid": 1018,
-      "label": "Send tics to Flight",
-      "uid": "SPIN_WHEEL:1018"
     },
     {
       "source": "SPIN_WHEEL",
@@ -785,19 +713,6 @@
       "uid": "SPIN_WHEEL:1020"
     },
     {
-      "source": "TASKS",
-      "id": 11896,
-      "label": "posykin handle \ud83d\udcb8",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11896"
-    },
-    {
       "source": "ZONES",
       "zid": 21,
       "floor": "Upstairs",
@@ -820,12 +735,90 @@
       "sid": 1021,
       "label": "SET UP MUSIAH!",
       "uid": "SPIN_WHEEL:1021"
+    },
+    {
+      "source": "TASKS",
+      "id": 11987,
+      "label": "\u2728 Work on kids education planning projects \ud83d\udcda",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Medium",
+      "proj": "Homeschool Admin",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11987"
+    },
+    {
+      "source": "TASKS",
+      "id": 12042,
+      "label": "\u2728 Monthly pill box fill time",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12042"
+    },
+    {
+      "source": "TASKS",
+      "id": 12135,
+      "label": "\u2728 Recharge my twinkle stars \u2728\ud83d\udd0b",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12135"
+    },
+    {
+      "source": "TASKS",
+      "id": 12151,
+      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12151"
+    },
+    {
+      "source": "TASKS",
+      "id": 12158,
+      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12158"
+    },
+    {
+      "source": "TASKS",
+      "id": 12170,
+      "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12170"
     }
   ],
-  "version": 2626,
-  "updated": "2026-10-03T06:24:22.237510+00:00",
+  "version": 2627,
+  "updated": "2026-10-04T00:24:59.732678+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 56,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
