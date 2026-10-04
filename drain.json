@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1008,
+      "label": "Verify Ally MC was closed",
+      "uid": "SPIN_WHEEL:1008",
+      "_ts": "2026-10-04T05:19:16.465Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-04T05:16:55.202Z",
+  "mirroredAt": "2026-10-04T05:19:16.820Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-04T05:16:56.216642+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1010"
-  ]
+  }
 }
