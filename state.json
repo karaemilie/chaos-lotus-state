@@ -347,13 +347,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1007,
-      "row": 42,
-      "label": "Trade my Kalshi bonus before Monday",
-      "uid": "SPIN:1007"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 969,
       "row": 32,
       "label": "Pack 3x5 rug",
@@ -829,10 +822,10 @@
       "uid": "COURAGE:11212:0"
     }
   ],
-  "version": 2655,
-  "updated": "2026-10-04T09:11:34.953193+00:00",
+  "version": 2656,
+  "updated": "2026-10-04T09:12:01.535735+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 55,
     "TASKS": 22,
     "ZONES": 8,
     "COURAGE": 4,
