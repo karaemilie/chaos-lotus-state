@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-04T05:37:50.700Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Plan to visit Genevieve",
+      "_addedAt": "2026-10-04T07:02:47.018Z",
+      "_ts": "2026-10-04T07:02:47.288Z"
+    }
+  ],
+  "mirroredAt": "2026-10-04T07:02:47.553Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
