@@ -423,15 +423,6 @@
       "uid": "SPIN:870"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 124,
-      "row": 125,
-      "label": "\ud83c\udfe0 Clean piano keys",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Clean piano keys",
-      "uid": "MAINTENANCE:124"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11920,
       "parentRow": 246,
@@ -811,10 +802,18 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook B",
       "uid": "ZONES:77"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 126,
+      "label": "\ud83c\udfe0 Mop main floor",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Mop main floor",
+      "uid": "MAINTENANCE:126"
     }
   ],
-  "version": 2658,
-  "updated": "2026-10-04T22:55:51.078674+00:00",
+  "version": 2659,
+  "updated": "2026-10-04T23:42:14.039638+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "TASKS": 22,
