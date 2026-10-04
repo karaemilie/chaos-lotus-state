@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 50,
+      "label": "Order Linc a black belt!",
+      "uid": "SPIN:1019",
+      "_ts": "2026-10-04T09:11:19.441Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-04T09:03:26.983Z",
+  "mirroredAt": "2026-10-04T09:11:19.661Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
