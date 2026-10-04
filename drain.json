@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1018,
+      "label": "Send tics to Flight",
+      "uid": "SPIN_WHEEL:1018",
+      "_ts": "2026-10-04T00:24:47.238Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12140,
+      "label": "✨ Send text update to mother-in-law 📝",
+      "uid": "TASKS:12140",
+      "_ts": "2026-10-04T00:25:40.850Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-04T00:25:00.884Z",
+  "mirroredAt": "2026-10-04T00:25:41.161Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-10-04T00:25:01.790495+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1018"
-  ]
+  }
 }
