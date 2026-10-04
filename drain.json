@@ -1,13 +1,34 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12135,
+      "row": 313,
+      "label": "✨ Recharge my twinkle stars ✨🔋",
+      "uid": "TASKS:12135",
+      "_ts": "2026-10-04T22:39:51.395Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 78,
+      "zid": 76,
+      "floor": "Plant",
+      "label": "🌱 Corner Nook A",
+      "uid": "ZONES:76",
+      "_ts": "2026-10-04T22:40:07.935Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 36,
+      "label": "Request more spiro",
+      "uid": "SPIN:986",
+      "_ts": "2026-10-04T22:55:39.446Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-04T22:40:07.614Z",
+  "mirroredAt": "2026-10-04T22:55:39.767Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-10-04T22:40:08.769631+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12135"
-  ]
+  }
 }
