@@ -812,12 +812,19 @@
       "label": "\ud83d\udd25 FlexPlan Reimbursements",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11079:0"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1026,
+      "sid": 1026,
+      "label": "Pull out mini mason jars for fruit powders",
+      "uid": "SPIN_WHEEL:1026"
     }
   ],
-  "version": 2640,
-  "updated": "2026-10-04T02:06:22.846988+00:00",
+  "version": 2641,
+  "updated": "2026-10-04T02:17:43.900490+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 57,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
