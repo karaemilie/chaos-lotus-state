@@ -89,13 +89,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1019,
-      "row": 50,
-      "label": "Order Linc a black belt!",
-      "uid": "SPIN:1019"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 555,
       "row": 6,
       "label": "Install tile",
@@ -836,10 +829,10 @@
       "uid": "COURAGE:11212:0"
     }
   ],
-  "version": 2654,
-  "updated": "2026-10-04T09:03:25.845201+00:00",
+  "version": 2655,
+  "updated": "2026-10-04T09:11:34.953193+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 56,
     "TASKS": 22,
     "ZONES": 8,
     "COURAGE": 4,
