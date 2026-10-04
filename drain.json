@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 13,
+      "label": "Steam the new dress shirts",
+      "uid": "SPIN:703",
+      "_ts": "2026-10-04T01:57:02.784Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-10-04T01:57:00.003Z"
     }
   ],
-  "mirroredAt": "2026-10-04T01:57:00.246Z",
+  "mirroredAt": "2026-10-04T01:57:03.042Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
