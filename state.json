@@ -750,17 +750,6 @@
       "uid": "SPIN_WHEEL:1023"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11001,
-      "stepIndex": 0,
-      "parentLabel": "Book Bentley Christmas here & return tickets \u2708\ufe0f\ud83c\udf84 \ud83d\udcdd",
-      "aw": 2,
-      "due": "2026-06-29",
-      "label": "\ud83d\udd25 Book Bentley Christmas here & return tickets \u2708\ufe0f\ud83c\udf84 \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11001:0"
-    },
-    {
       "source": "TASKS",
       "id": 10023,
       "label": "Measure width for cabinet shelves",
@@ -812,10 +801,21 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10179"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11079,
+      "stepIndex": 0,
+      "parentLabel": "FlexPlan Reimbursements",
+      "aw": 2,
+      "due": "2026-06-30",
+      "label": "\ud83d\udd25 FlexPlan Reimbursements",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11079:0"
     }
   ],
-  "version": 2639,
-  "updated": "2026-10-04T02:03:59.931846+00:00",
+  "version": 2640,
+  "updated": "2026-10-04T02:06:22.846988+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "COURAGE": 4,
