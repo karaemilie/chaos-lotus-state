@@ -1,36 +1,5 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1018,
-      "label": "Send tics to Flight",
-      "uid": "SPIN_WHEEL:1018",
-      "_ts": "2026-10-04T00:24:47.238Z"
-    },
-    {
-      "source": "TASKS",
-      "id": 12140,
-      "label": "✨ Send text update to mother-in-law 📝",
-      "uid": "TASKS:12140",
-      "_ts": "2026-10-04T00:25:40.850Z"
-    },
-    {
-      "source": "ZONES",
-      "zid": 67,
-      "floor": "Digital",
-      "label": "💻 Quicken",
-      "uid": "ZONES:67",
-      "_ts": "2026-10-04T00:26:19.020Z"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11083,
-      "stepIndex": 0,
-      "label": "🔥 Line item the Amazon Vine tax file 📝",
-      "uid": "COURAGE:11083:0",
-      "_ts": "2026-10-04T00:26:58.535Z"
-    }
-  ],
+  "completions": [],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -66,9 +35,9 @@
       "_ts": "2026-10-04T00:27:34.250Z"
     }
   ],
-  "mirroredAt": "2026-10-04T00:27:34.479Z",
+  "mirroredAt": "2026-10-04T00:27:48.705Z",
   "counts": {
-    "completions": 4,
+    "completions": 0,
     "adds": 4
   }
 }
