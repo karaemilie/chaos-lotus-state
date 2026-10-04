@@ -819,12 +819,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10023"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1024,
+      "sid": 1024,
+      "label": "File our taxes",
+      "uid": "SPIN_WHEEL:1024"
     }
   ],
-  "version": 2632,
-  "updated": "2026-10-04T00:30:15.716885+00:00",
+  "version": 2633,
+  "updated": "2026-10-04T00:30:19.280819+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 58,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
