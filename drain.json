@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12032,
+      "label": "✨ Rotate plants on hallway wall 🪴🔄",
+      "uid": "TASKS:12032",
+      "_ts": "2026-10-04T01:21:37.846Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-04T00:35:52.915Z",
+  "mirroredAt": "2026-10-04T01:21:38.215Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-04T00:35:53.826682+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1020"
-  ]
+  }
 }
