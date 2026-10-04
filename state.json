@@ -459,13 +459,6 @@
       "uid": "MAINTENANCE:123"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1008,
-      "sid": 1008,
-      "label": "Verify Ally MC was closed",
-      "uid": "SPIN_WHEEL:1008"
-    },
-    {
       "source": "ZONES",
       "zid": 49,
       "floor": "Basement",
@@ -814,10 +807,10 @@
       "uid": "TASKS:10505"
     }
   ],
-  "version": 2643,
-  "updated": "2026-10-04T05:16:53.861452+00:00",
+  "version": 2644,
+  "updated": "2026-10-04T05:19:29.990818+00:00",
   "buckets": {
-    "SPIN_WHEEL": 56,
+    "SPIN_WHEEL": 55,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
