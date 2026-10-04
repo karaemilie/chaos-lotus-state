@@ -483,13 +483,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1010,
-      "sid": 1010,
-      "label": "Trade $25 to get $25!",
-      "uid": "SPIN_WHEEL:1010"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1011,
       "sid": 1011,
       "label": "Figure out how to share Xmind with Claude",
@@ -821,10 +814,10 @@
       "uid": "TASKS:10505"
     }
   ],
-  "version": 2642,
-  "updated": "2026-10-04T02:44:46.346558+00:00",
+  "version": 2643,
+  "updated": "2026-10-04T05:16:53.861452+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 56,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 7,
