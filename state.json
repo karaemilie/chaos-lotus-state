@@ -423,19 +423,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12080,
-      "label": "\u2728 Get out heated cat beds \ud83d\udc31\ud83d\udd25",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12080"
-    },
-    {
-      "source": "TASKS",
       "id": 12144,
       "label": "\u2728 Put on new tattoo",
       "aw": 4,
@@ -819,10 +806,23 @@
       "sid": 1026,
       "label": "Pull out mini mason jars for fruit powders",
       "uid": "SPIN_WHEEL:1026"
+    },
+    {
+      "source": "TASKS",
+      "id": 10505,
+      "label": "Bank run",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10505"
     }
   ],
-  "version": 2641,
-  "updated": "2026-10-04T02:17:43.900490+00:00",
+  "version": 2642,
+  "updated": "2026-10-04T02:44:46.346558+00:00",
   "buckets": {
     "SPIN_WHEEL": 57,
     "COURAGE": 4,
