@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-04T05:19:31.115Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Contact state FLL coordinator",
+      "_addedAt": "2026-10-04T05:37:36.059Z",
+      "_ts": "2026-10-04T05:37:36.889Z"
+    }
+  ],
+  "mirroredAt": "2026-10-04T05:37:37.233Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-04T05:19:31.981172+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1008"
-  ]
+    "adds": 1
+  }
 }
