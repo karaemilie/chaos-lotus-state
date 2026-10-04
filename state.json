@@ -642,19 +642,6 @@
       "uid": "TASKS:12128"
     },
     {
-      "source": "TASKS",
-      "id": 12140,
-      "label": "\u2728 Send text update to mother-in-law \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:12140"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1012,
       "sid": 1012,
@@ -813,10 +800,23 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12170"
+    },
+    {
+      "source": "TASKS",
+      "id": 10414,
+      "label": "Ponder student gov for Lincoln (start going this semester so can run for office in fall) \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10414"
     }
   ],
-  "version": 2627,
-  "updated": "2026-10-04T00:24:59.732678+00:00",
+  "version": 2628,
+  "updated": "2026-10-04T00:26:13.799700+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "COURAGE": 4,
