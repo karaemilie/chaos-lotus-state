@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-04T01:29:46.744Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Rewash dress shirts, put in boys room…",
+      "_addedAt": "2026-10-04T01:56:59.811Z",
+      "_ts": "2026-10-04T01:57:00.003Z"
+    }
+  ],
+  "mirroredAt": "2026-10-04T01:57:00.246Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-04T01:29:47.749950+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:999"
-  ]
+    "adds": 1
+  }
 }
