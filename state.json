@@ -574,15 +574,6 @@
       "uid": "SPIN_WHEEL:1010"
     },
     {
-      "source": "ZONES",
-      "zid": 67,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Quicken",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Quicken",
-      "uid": "ZONES:67"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1011,
       "sid": 1011,
@@ -813,10 +804,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10414"
+    },
+    {
+      "source": "ZONES",
+      "zid": 68,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Photos",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Photos",
+      "uid": "ZONES:68"
     }
   ],
-  "version": 2628,
-  "updated": "2026-10-04T00:26:13.799700+00:00",
+  "version": 2629,
+  "updated": "2026-10-04T00:26:58.562270+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "COURAGE": 4,
