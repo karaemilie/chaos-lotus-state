@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "COURAGE",
+      "parentId": 11001,
+      "stepIndex": 0,
+      "label": "🔥 Book Bentley Christmas here & return tickets ✈️🎄 📝",
+      "uid": "COURAGE:11001:0",
+      "_ts": "2026-10-04T02:06:12.019Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-04T02:04:02.557Z",
+  "mirroredAt": "2026-10-04T02:06:12.417Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-04T02:04:03.574035+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12146"
-  ]
+  }
 }
