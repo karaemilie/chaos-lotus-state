@@ -448,19 +448,6 @@
       "uid": "TASKS:12144"
     },
     {
-      "source": "TASKS",
-      "id": 12146,
-      "label": "\u2728 Spend time on flower bouquet coding project",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": "Bouquet Tracker",
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12146"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1007,
       "sid": 1007,
@@ -812,10 +799,23 @@
       "sid": 1025,
       "label": "Rewash dress shirts, put in boys room\u2026",
       "uid": "SPIN_WHEEL:1025"
+    },
+    {
+      "source": "TASKS",
+      "id": 10179,
+      "label": "Create community service tracking log for Lincoln and Evan",
+      "aw": 4,
+      "pri": "High",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": "Community Service",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10179"
     }
   ],
-  "version": 2638,
-  "updated": "2026-10-04T01:57:58.634988+00:00",
+  "version": 2639,
+  "updated": "2026-10-04T02:03:59.931846+00:00",
   "buckets": {
     "SPIN_WHEEL": 56,
     "COURAGE": 4,
