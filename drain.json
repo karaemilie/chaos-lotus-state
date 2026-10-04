@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-04T02:06:25.105Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pull out mini mason jars for fruit powders",
+      "_addedAt": "2026-10-04T02:17:27.942Z",
+      "_ts": "2026-10-04T02:17:28.631Z"
+    }
+  ],
+  "mirroredAt": "2026-10-04T02:17:29.011Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-04T02:06:26.111098+00:00",
-  "lastAutoProcessed": [
-    "COURAGE:11001:0"
-  ]
+    "adds": 1
+  }
 }
