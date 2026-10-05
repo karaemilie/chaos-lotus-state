@@ -187,16 +187,6 @@
       "uid": "SPIN:923"
     },
     {
-      "source": "ZONES",
-      "zid": 86,
-      "floor": "Personal",
-      "row": 88,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Epilate Legs",
-      "uid": "ZONES:86"
-    },
-    {
       "source": "TASKS",
       "id": 10615,
       "row": 103,
@@ -809,10 +799,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Eyebrows",
       "uid": "ZONES:87"
+    },
+    {
+      "source": "ZONES",
+      "zid": 88,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Teeth Whitening",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Teeth Whitening",
+      "uid": "ZONES:88"
     }
   ],
-  "version": 2660,
-  "updated": "2026-10-04T23:59:09.168026+00:00",
+  "version": 2661,
+  "updated": "2026-10-05T00:09:25.053183+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "TASKS": 22,
