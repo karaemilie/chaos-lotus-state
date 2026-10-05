@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11868,
+      "row": 227,
+      "label": "⭐ Measure Evan + check his height on my chart 📏",
+      "uid": "TASKS:11868",
+      "_ts": "2026-10-05T03:08:53.334Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-05T01:49:15.925Z",
+  "mirroredAt": "2026-10-05T03:08:54.037Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-05T01:49:17.028829+00:00",
-  "lastAutoProcessed": [
-    "ZONES:1"
-  ]
+  }
 }
