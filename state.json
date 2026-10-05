@@ -471,16 +471,6 @@
       "uid": "SPIN:823"
     },
     {
-      "source": "ZONES",
-      "zid": 21,
-      "floor": "Upstairs",
-      "row": 22,
-      "label": "\ud83e\uddfa Laundry Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Laundry Room",
-      "uid": "ZONES:21"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1013,
       "row": 46,
@@ -808,10 +798,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Window tracks kitchen nook",
       "uid": "MAINTENANCE:127"
+    },
+    {
+      "source": "ZONES",
+      "zid": 1,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Boys Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Boys Room",
+      "uid": "ZONES:1"
     }
   ],
-  "version": 2662,
-  "updated": "2026-10-05T00:10:06.797969+00:00",
+  "version": 2663,
+  "updated": "2026-10-05T00:27:58.517481+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "TASKS": 22,
