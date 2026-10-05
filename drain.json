@@ -1,16 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-05T00:28:01.367Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "⭐ Find replacement strings for the harp (missing 2) 🎵 📝",
+      "_addedAt": "2026-10-05T00:39:46.739Z",
+      "reschedule": {
+        "uid": "TASKS:10615",
+        "id": 10615,
+        "label": "⭐ Find replacement strings for the harp (missing 2) 🎵 📝",
+        "start": "2026-10-07"
+      },
+      "_ts": "2026-10-05T00:39:46.997Z"
+    }
+  ],
+  "mirroredAt": "2026-10-05T00:39:47.261Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-05T00:28:02.544913+00:00",
-  "lastAutoProcessed": [
-    "ZONES:21"
-  ],
-  "autoReset": [
-    "Upstairs"
-  ]
+    "adds": 1
+  }
 }
