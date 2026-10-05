@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 88,
+      "zid": 86,
+      "floor": "Personal",
+      "label": "👱‍♀️ Epilate Legs",
+      "uid": "ZONES:86",
+      "_ts": "2026-10-05T00:09:13.094Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-04T23:59:10.557Z",
+  "mirroredAt": "2026-10-05T00:09:13.354Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-04T23:59:11.599121+00:00",
-  "lastAutoProcessed": [
-    "ZONES:85"
-  ]
+  }
 }
