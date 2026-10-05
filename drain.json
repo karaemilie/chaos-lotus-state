@@ -1,5 +1,14 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "COURAGE",
+      "parentId": 11807,
+      "stepIndex": 0,
+      "label": "🔥 Set monthly auto-pay amount on US Bank card to pay it off 💳🔁 🎯 First step: log in, open autopay settings, check current amount",
+      "uid": "COURAGE:11807:0",
+      "_ts": "2026-10-05T04:48:58.926Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -20,9 +29,9 @@
       "_ts": "2026-10-05T04:48:55.855Z"
     }
   ],
-  "mirroredAt": "2026-10-05T04:48:56.148Z",
+  "mirroredAt": "2026-10-05T04:48:59.134Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 3
   }
 }
