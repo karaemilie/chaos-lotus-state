@@ -812,12 +812,19 @@
       "sid": 1031,
       "label": "Review Bio class progress with Linc",
       "uid": "SPIN_WHEEL:1031"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1032,
+      "sid": 1032,
+      "label": "Next class into Minima w/L **",
+      "uid": "SPIN_WHEEL:1032"
     }
   ],
-  "version": 2674,
-  "updated": "2026-10-05T04:40:30.102148+00:00",
+  "version": 2675,
+  "updated": "2026-10-05T04:40:32.620447+00:00",
   "buckets": {
-    "SPIN_WHEEL": 55,
+    "SPIN_WHEEL": 56,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
