@@ -826,12 +826,19 @@
       "sid": 1033,
       "label": "Set monthly amt to pay off",
       "uid": "SPIN_WHEEL:1033"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1034,
+      "sid": 1034,
+      "label": "Set monthly amt to pay off Citi card by next August",
+      "uid": "SPIN_WHEEL:1034"
     }
   ],
-  "version": 2676,
-  "updated": "2026-10-05T04:47:51.845920+00:00",
+  "version": 2677,
+  "updated": "2026-10-05T04:48:53.432152+00:00",
   "buckets": {
-    "SPIN_WHEEL": 57,
+    "SPIN_WHEEL": 58,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
