@@ -776,23 +776,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
-      "source": "MAINTENANCE",
-      "mid": 126,
-      "label": "\ud83c\udfe0 Mop main floor",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Mop main floor",
-      "uid": "MAINTENANCE:126"
-    },
-    {
-      "source": "ZONES",
       "zid": 87,
       "floor": "Personal",
       "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
@@ -808,10 +791,27 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Teeth Whitening",
       "uid": "ZONES:88"
+    },
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Props",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Props",
+      "uid": "ZONES:78"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 127,
+      "label": "\ud83c\udfe0 Window tracks kitchen nook",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Window tracks kitchen nook",
+      "uid": "MAINTENANCE:127"
     }
   ],
-  "version": 2661,
-  "updated": "2026-10-05T00:09:25.053183+00:00",
+  "version": 2662,
+  "updated": "2026-10-05T00:10:06.797969+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "TASKS": 22,
