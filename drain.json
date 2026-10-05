@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12131,
+      "label": "✨ Review IXL assessments for Lincoln",
+      "uid": "TASKS:12131",
+      "_ts": "2026-10-05T00:39:51.998Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -14,9 +22,9 @@
       "_ts": "2026-10-05T00:39:46.997Z"
     }
   ],
-  "mirroredAt": "2026-10-05T00:39:47.261Z",
+  "mirroredAt": "2026-10-05T00:39:52.300Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
