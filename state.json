@@ -243,16 +243,6 @@
       "uid": "SPIN:683"
     },
     {
-      "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "row": 77,
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 988,
       "row": 37,
@@ -839,10 +829,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Wash kids bathroom rugs",
       "uid": "MAINTENANCE:128"
+    },
+    {
+      "source": "ZONES",
+      "zid": 79,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Kitchen Up High",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Kitchen Up High",
+      "uid": "ZONES:79"
     }
   ],
-  "version": 2680,
-  "updated": "2026-10-05T07:56:12.471782+00:00",
+  "version": 2681,
+  "updated": "2026-10-05T07:56:59.411635+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 22,
