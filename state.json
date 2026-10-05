@@ -766,15 +766,6 @@
       "uid": "MAINTENANCE:127"
     },
     {
-      "source": "ZONES",
-      "zid": 1,
-      "floor": "Upstairs",
-      "label": "\ud83e\uddfa Boys Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Boys Room",
-      "uid": "ZONES:1"
-    },
-    {
       "source": "TASKS",
       "id": 11962,
       "label": "Pair phone to test app \ud83d\udcf1",
@@ -806,10 +797,19 @@
       "sid": 1029,
       "label": "Five minutes boys room!",
       "uid": "SPIN_WHEEL:1029"
+    },
+    {
+      "source": "ZONES",
+      "zid": 2,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Upstairs Family Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Upstairs Family Room",
+      "uid": "ZONES:2"
     }
   ],
-  "version": 2668,
-  "updated": "2026-10-05T01:48:29.033121+00:00",
+  "version": 2669,
+  "updated": "2026-10-05T01:49:14.616988+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "TASKS": 22,
