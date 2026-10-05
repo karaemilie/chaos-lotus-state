@@ -725,14 +725,6 @@
       "uid": "ZONES:78"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 127,
-      "label": "\ud83c\udfe0 Window tracks kitchen nook",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Window tracks kitchen nook",
-      "uid": "MAINTENANCE:127"
-    },
-    {
       "source": "TASKS",
       "id": 11962,
       "label": "Pair phone to test app \ud83d\udcf1",
@@ -839,10 +831,18 @@
       "sid": 1035,
       "label": "Check status of Discover card payoff b4 Nov",
       "uid": "SPIN_WHEEL:1035"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 128,
+      "label": "\ud83c\udfe0 Wash kids bathroom rugs",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Wash kids bathroom rugs",
+      "uid": "MAINTENANCE:128"
     }
   ],
-  "version": 2679,
-  "updated": "2026-10-05T04:49:40.351195+00:00",
+  "version": 2680,
+  "updated": "2026-10-05T07:56:12.471782+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 22,
