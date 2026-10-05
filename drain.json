@@ -16,12 +16,18 @@
       "label": "🌱 Corner Nook B",
       "uid": "ZONES:77",
       "_ts": "2026-10-05T00:09:25.462Z"
+    },
+    {
+      "source": "MAINTENANCE",
+      "label": "🏠 Mop main floor",
+      "uid": "MAINTENANCE:126",
+      "_ts": "2026-10-05T00:09:35.713Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-10-05T00:09:25.698Z",
+  "mirroredAt": "2026-10-05T00:09:35.948Z",
   "counts": {
-    "completions": 2,
+    "completions": 3,
     "adds": 0
   }
 }
