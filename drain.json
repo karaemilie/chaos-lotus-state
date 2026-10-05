@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-05T00:42:04.373Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Five minutes boys room!",
+      "_addedAt": "2026-10-05T01:47:29.304Z",
+      "_ts": "2026-10-05T01:47:29.598Z"
+    }
+  ],
+  "mirroredAt": "2026-10-05T01:47:29.840Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
