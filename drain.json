@@ -1,17 +1,37 @@
 {
-  "completions": [
+  "completions": [],
+  "adds": [
     {
-      "source": "TASKS",
-      "id": 12131,
-      "label": "✨ Review IXL assessments for Lincoln",
-      "uid": "TASKS:12131",
-      "_ts": "2026-10-05T00:39:51.998Z"
+      "source": "PLUS_ADD",
+      "label": "⭐ Find replacement strings for the harp (missing 2) 🎵 📝",
+      "_addedAt": "2026-10-05T00:39:46.739Z",
+      "reschedule": {
+        "uid": "TASKS:10615",
+        "id": 10615,
+        "label": "⭐ Find replacement strings for the harp (missing 2) 🎵 📝",
+        "start": "2026-10-07"
+      },
+      "_ts": "2026-10-05T00:39:46.997Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Look at how to choose assignments in Prep Median",
+      "_addedAt": "2026-10-05T00:40:03.309Z",
+      "promote": {
+        "fromUid": "SPIN:975",
+        "sid": 975,
+        "label": "Look at how to choose assignments in Prep Median",
+        "origLabel": "Look at how to choose assignments in Prep Median",
+        "start": "2026-10-06",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-05T00:40:03.579Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-10-05T00:40:03.592Z",
+  "mirroredAt": "2026-10-05T00:41:22.840Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 0,
+    "adds": 2
   }
 }
