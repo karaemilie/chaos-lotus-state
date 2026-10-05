@@ -572,18 +572,6 @@
       "uid": "SPIN:904"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11807,
-      "parentRow": 213,
-      "parentLabel": "Set monthly auto-pay amount on US Bank card to pay it off \ud83d\udcb3\ud83d\udd01 \ud83c\udfaf First step: log in, open autopay settings, check current amount",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": null,
-      "label": "\ud83d\udd25 Set monthly auto-pay amount on US Bank card to pay it off \ud83d\udcb3\ud83d\udd01 \ud83c\udfaf First step: log in, open autopay settings, check current amount",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11807:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1028,
       "sid": 1028,
@@ -833,10 +821,21 @@
       "sid": 1034,
       "label": "Set monthly amt to pay off Citi card by next August",
       "uid": "SPIN_WHEEL:1034"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11210,
+      "stepIndex": 0,
+      "parentLabel": "Audit kids 529 statements + add to Google tax drive \ud83d\udcdd",
+      "aw": 2,
+      "due": null,
+      "label": "\ud83d\udd25 Audit kids 529 statements + add to Google tax drive \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11210:0"
     }
   ],
-  "version": 2677,
-  "updated": "2026-10-05T04:48:53.432152+00:00",
+  "version": 2678,
+  "updated": "2026-10-05T04:49:35.797930+00:00",
   "buckets": {
     "SPIN_WHEEL": 58,
     "TASKS": 22,
