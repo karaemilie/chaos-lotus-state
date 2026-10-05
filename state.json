@@ -464,13 +464,6 @@
       "uid": "SPIN:1013"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 975,
-      "row": 33,
-      "label": "Look at how to choose assignments in Prep Median",
-      "uid": "SPIN:975"
-    },
-    {
       "source": "TASKS",
       "id": 10659,
       "row": 105,
@@ -808,10 +801,10 @@
       "uid": "TASKS:11901"
     }
   ],
-  "version": 2665,
-  "updated": "2026-10-05T00:41:20.143970+00:00",
+  "version": 2666,
+  "updated": "2026-10-05T00:42:03.171222+00:00",
   "buckets": {
-    "SPIN_WHEEL": 54,
+    "SPIN_WHEEL": 53,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
