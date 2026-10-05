@@ -5,12 +5,21 @@
       "label": "🏠 Window tracks kitchen nook",
       "uid": "MAINTENANCE:127",
       "_ts": "2026-10-05T07:55:58.587Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 77,
+      "zid": 75,
+      "floor": "Plant",
+      "label": "🌱 Main floor Down Low",
+      "uid": "ZONES:75",
+      "_ts": "2026-10-05T07:56:03.394Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-10-05T07:55:58.813Z",
+  "mirroredAt": "2026-10-05T07:56:03.619Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
