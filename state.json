@@ -187,20 +187,6 @@
       "uid": "SPIN:923"
     },
     {
-      "source": "TASKS",
-      "id": 10615,
-      "row": 103,
-      "label": "\u2b50 Find replacement strings for the harp (missing 2) \ud83c\udfb5 \ud83d\udcdd",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10615"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 954,
       "row": 27,
@@ -807,10 +793,23 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Boys Room",
       "uid": "ZONES:1"
+    },
+    {
+      "source": "TASKS",
+      "id": 11962,
+      "label": "Pair phone to test app \ud83d\udcf1",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11962"
     }
   ],
-  "version": 2663,
-  "updated": "2026-10-05T00:27:58.517481+00:00",
+  "version": 2664,
+  "updated": "2026-10-05T00:40:02.006838+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "TASKS": 22,
