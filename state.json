@@ -676,19 +676,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12131,
-      "label": "\u2728 Review IXL assessments for Lincoln",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 20,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12131"
-    },
-    {
-      "source": "TASKS",
       "id": 12136,
       "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
       "aw": 3,
@@ -806,10 +793,23 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:11962"
+    },
+    {
+      "source": "TASKS",
+      "id": 11901,
+      "label": "Work on painting stair iron \ud83c\udfa8",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11901"
     }
   ],
-  "version": 2664,
-  "updated": "2026-10-05T00:40:02.006838+00:00",
+  "version": 2665,
+  "updated": "2026-10-05T00:41:20.143970+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "TASKS": 22,
