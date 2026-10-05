@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-05T04:47:50.384Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set monthly amt to pay off",
+      "_addedAt": "2026-10-05T04:47:35.129Z",
+      "_ts": "2026-10-05T04:47:35.393Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Set monthly amt to pay off Citi card by next August",
+      "_addedAt": "2026-10-05T04:48:32.517Z",
+      "_ts": "2026-10-05T04:48:33.024Z"
+    }
+  ],
+  "mirroredAt": "2026-10-05T04:48:33.380Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
