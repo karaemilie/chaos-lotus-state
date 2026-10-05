@@ -572,20 +572,6 @@
       "uid": "TASKS:10023"
     },
     {
-      "source": "TASKS",
-      "id": 11868,
-      "row": 227,
-      "label": "\u2b50 Measure Evan + check his height on my chart \ud83d\udccf",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:11868"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 904,
       "row": 19,
@@ -806,10 +792,23 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Upstairs Family Room",
       "uid": "ZONES:2"
+    },
+    {
+      "source": "TASKS",
+      "id": 10198,
+      "label": "Review notes from convo with Linai's Dad about WWAMI",
+      "aw": 4,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": "Bentley Med School",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10198"
     }
   ],
-  "version": 2669,
-  "updated": "2026-10-05T01:49:14.616988+00:00",
+  "version": 2670,
+  "updated": "2026-10-05T03:09:08.050849+00:00",
   "buckets": {
     "SPIN_WHEEL": 54,
     "TASKS": 22,
