@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-06T02:47:04.013Z",
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12161,
+      "label": "✨ Clear the upstairs trashes",
+      "uid": "TASKS:12161",
+      "_ts": "2026-10-06T03:29:49.079Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Mound leaves on my new planting area",
+      "_addedAt": "2026-10-06T02:47:06.072Z",
+      "_ts": "2026-10-06T02:47:06.314Z"
+    }
+  ],
+  "mirroredAt": "2026-10-06T03:29:49.312Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-06T02:47:05.083715+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1038"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
