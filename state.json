@@ -412,20 +412,6 @@
       "uid": "SPIN:576"
     },
     {
-      "source": "TASKS",
-      "id": 10464,
-      "row": 192,
-      "label": "\u2b50 Help Jake write private lesson email \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10464"
-    },
-    {
       "source": "ZONES",
       "zid": 68,
       "floor": "Digital",
@@ -434,20 +420,6 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Photos",
       "uid": "ZONES:68"
-    },
-    {
-      "source": "TASKS",
-      "id": 10023,
-      "row": 6,
-      "label": "\u2b50 Measure width for cabinet shelves",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": "Bathroom Built-ins",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10023"
     },
     {
       "source": "SPIN_WHEEL",
@@ -479,19 +451,6 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Window tracks living room",
       "uid": "MAINTENANCE:125"
-    },
-    {
-      "source": "TASKS",
-      "id": 11317,
-      "label": "Schedule next Create & Learn class for Evan (based on rock climbing schedule) \ud83d\udcdd",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Kids",
-      "critical": false,
-      "uid": "TASKS:11317"
     },
     {
       "source": "TASKS",
@@ -557,19 +516,6 @@
       "uid": "COURAGE:11212:0"
     },
     {
-      "source": "TASKS",
-      "id": 10020,
-      "label": "Cut sides for in-wall cabinets",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 45,
-      "ml": "Medium",
-      "proj": "Bathroom Built-ins",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10020"
-    },
-    {
       "source": "ZONES",
       "zid": 87,
       "floor": "Personal",
@@ -577,15 +523,6 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Eyebrows",
       "uid": "ZONES:87"
-    },
-    {
-      "source": "ZONES",
-      "zid": 88,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Teeth Whitening",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Teeth Whitening",
-      "uid": "ZONES:88"
     },
     {
       "source": "ZONES",
@@ -852,10 +789,71 @@
       "sid": 1040,
       "label": "Order iron curtains!",
       "uid": "SPIN_WHEEL:1040"
+    },
+    {
+      "source": "ZONES",
+      "zid": 90,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Feet Care & Pedi",
+      "uid": "ZONES:90"
+    },
+    {
+      "source": "TASKS",
+      "id": 10981,
+      "label": "\u2728 Check balance on Matt's work card (1-800-344-5696) \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10981"
+    },
+    {
+      "source": "TASKS",
+      "id": 12139,
+      "label": "\u2728 Trash & recycling to curb",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12139"
+    },
+    {
+      "source": "TASKS",
+      "id": 12172,
+      "label": "\u2728 Update school lists for Lincoln & Evan",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12172"
+    },
+    {
+      "source": "TASKS",
+      "id": 12173,
+      "label": "\u2728 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12173"
     }
   ],
-  "version": 2695,
-  "updated": "2026-10-06T08:01:41.829711+00:00",
+  "version": 2696,
+  "updated": "2026-10-06T23:16:04.288694+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "TASKS": 22,
