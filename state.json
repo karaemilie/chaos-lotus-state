@@ -412,16 +412,6 @@
       "uid": "SPIN:576"
     },
     {
-      "source": "ZONES",
-      "zid": 68,
-      "floor": "Digital",
-      "row": 69,
-      "label": "\ud83d\udcbb Photos",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Photos",
-      "uid": "ZONES:68"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 904,
       "row": 19,
@@ -514,15 +504,6 @@
       "label": "\ud83d\udd25 Track down education tax forms from kids schools (1098-T etc) \ud83d\udcdd",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11212:0"
-    },
-    {
-      "source": "ZONES",
-      "zid": 87,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Eyebrows",
-      "uid": "ZONES:87"
     },
     {
       "source": "ZONES",
@@ -633,14 +614,6 @@
       "sid": 1035,
       "label": "Check status of Discover card payoff b4 Nov",
       "uid": "SPIN_WHEEL:1035"
-    },
-    {
-      "source": "MAINTENANCE",
-      "mid": 128,
-      "label": "\ud83c\udfe0 Wash kids bathroom rugs",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Wash kids bathroom rugs",
-      "uid": "MAINTENANCE:128"
     },
     {
       "source": "ZONES",
@@ -791,15 +764,6 @@
       "uid": "SPIN_WHEEL:1040"
     },
     {
-      "source": "ZONES",
-      "zid": 90,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Feet Care & Pedi",
-      "uid": "ZONES:90"
-    },
-    {
       "source": "TASKS",
       "id": 10981,
       "label": "\u2728 Check balance on Matt's work card (1-800-344-5696) \ud83d\udcdd",
@@ -850,10 +814,45 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12173"
+    },
+    {
+      "source": "ZONES",
+      "zid": 81,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Exfoliation",
+      "uid": "ZONES:81"
+    },
+    {
+      "source": "ZONES",
+      "zid": 69,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Reviews",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Reviews",
+      "uid": "ZONES:69"
+    },
+    {
+      "source": "ZONES",
+      "zid": 82,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Dermaplane",
+      "uid": "ZONES:82"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 129,
+      "label": "\ud83c\udfe0 Clean a fridge shelf",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Clean a fridge shelf",
+      "uid": "MAINTENANCE:129"
     }
   ],
-  "version": 2696,
-  "updated": "2026-10-06T23:16:04.288694+00:00",
+  "version": 2697,
+  "updated": "2026-10-06T23:16:48.261417+00:00",
   "buckets": {
     "SPIN_WHEEL": 62,
     "TASKS": 22,
