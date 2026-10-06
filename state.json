@@ -795,19 +795,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12160,
-      "label": "\u2728 Check for South weekly schedule adjustments",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12160"
-    },
-    {
-      "source": "TASKS",
       "id": 12161,
       "label": "\u2728 Clear the upstairs trashes",
       "aw": 4,
@@ -838,10 +825,23 @@
       "sid": 1037,
       "label": "Music Room Panels",
       "uid": "SPIN_WHEEL:1037"
+    },
+    {
+      "source": "TASKS",
+      "id": 11903,
+      "label": "Look at Pet insta idea \ud83d\udc3e\ud83d\udcf1",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11903"
     }
   ],
-  "version": 2685,
-  "updated": "2026-10-06T00:51:24.705301+00:00",
+  "version": 2686,
+  "updated": "2026-10-06T01:13:37.181633+00:00",
   "buckets": {
     "SPIN_WHEEL": 60,
     "TASKS": 22,
