@@ -849,12 +849,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Clean a fridge shelf",
       "uid": "MAINTENANCE:129"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1041,
+      "sid": 1041,
+      "label": "Send card to email",
+      "uid": "SPIN_WHEEL:1041"
     }
   ],
-  "version": 2697,
-  "updated": "2026-10-06T23:16:48.261417+00:00",
+  "version": 2698,
+  "updated": "2026-10-06T23:47:23.493434+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 63,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
