@@ -123,20 +123,6 @@
       "uid": "SPIN:921"
     },
     {
-      "source": "TASKS",
-      "id": 11903,
-      "row": 241,
-      "label": "\u2b50 Look at Pet insta idea \ud83d\udc3e\ud83d\udcf1",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11903"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1026,
       "row": 56,
@@ -215,20 +201,6 @@
       "uid": "SPIN:337"
     },
     {
-      "source": "TASKS",
-      "id": 11708,
-      "row": 200,
-      "label": "\u2b50 Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Kids",
-      "critical": false,
-      "uid": "TASKS:11708"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1024,
       "row": 54,
@@ -279,31 +251,10 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 967,
-      "row": 31,
-      "label": "Hang new panels",
-      "uid": "SPIN:967"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 844,
       "row": 13,
       "label": "More work grammar app",
       "uid": "SPIN:844"
-    },
-    {
-      "source": "TASKS",
-      "id": 11765,
-      "row": 210,
-      "label": "\u2b50 Search for velvet bar stools \ud83e\ude91",
-      "aw": 3,
-      "pri": 3,
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11765"
     },
     {
       "source": "SPIN_WHEEL",
@@ -328,20 +279,6 @@
       "row": 51,
       "label": "SET UP MUSIAH!",
       "uid": "SPIN:1021"
-    },
-    {
-      "source": "TASKS",
-      "id": 12178,
-      "row": 342,
-      "label": "\u2b50 Ask Evan how much I owe him",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12178"
     },
     {
       "source": "TASKS",
@@ -419,20 +356,6 @@
       "uid": "SPIN:964"
     },
     {
-      "source": "TASKS",
-      "id": 10454,
-      "row": 87,
-      "label": "\u2b50 Investigate WWAMI eligibility",
-      "aw": 3,
-      "pri": "ASAP",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": "Bentley Med School Prep",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10454"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 823,
       "row": 11,
@@ -445,20 +368,6 @@
       "row": 46,
       "label": "MSG for Jake re: trumpet!! B",
       "uid": "SPIN:1013"
-    },
-    {
-      "source": "TASKS",
-      "id": 10659,
-      "row": 105,
-      "label": "\u2b50 Get Lincoln's four year plan together \ud83d\udccb\ud83c\udfaf",
-      "aw": 3,
-      "pri": "High",
-      "dur": 45,
-      "ml": null,
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10659"
     },
     {
       "source": "SPIN_WHEEL",
@@ -487,20 +396,6 @@
       "row": 4,
       "label": "Setup email forward.net **",
       "uid": "SPIN:484"
-    },
-    {
-      "source": "TASKS",
-      "id": 10820,
-      "row": 114,
-      "label": "\u2b50 Research how many ASU classes have a proctored final \ud83d\udcdd",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10820"
     },
     {
       "source": "SPIN_WHEEL",
@@ -845,12 +740,103 @@
       "sid": 1036,
       "label": "Revise Saturday mode in habit tracker",
       "uid": "SPIN_WHEEL:1036"
+    },
+    {
+      "source": "TASKS",
+      "id": 11994,
+      "label": "\u2728 Charge the red candles \ud83d\udd6f\ufe0f\u2764\ufe0f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11994"
+    },
+    {
+      "source": "TASKS",
+      "id": 12043,
+      "label": "\u2728 Mow the lawn \ud83c\udf31",
+      "aw": 3,
+      "pri": 3,
+      "dur": 45,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12043"
+    },
+    {
+      "source": "TASKS",
+      "id": 12058,
+      "label": "\u2728 Set up teeth cleanings \ud83e\uddb7\ud83e\udea5",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:12058"
+    },
+    {
+      "source": "TASKS",
+      "id": 12104,
+      "label": "\u2728 Clean makeup brushes \ud83d\udd8c\ufe0f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12104"
+    },
+    {
+      "source": "TASKS",
+      "id": 12160,
+      "label": "\u2728 Check for South weekly schedule adjustments",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12160"
+    },
+    {
+      "source": "TASKS",
+      "id": 12161,
+      "label": "\u2728 Clear the upstairs trashes",
+      "aw": 4,
+      "pri": null,
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": true,
+      "uid": "TASKS:12161"
+    },
+    {
+      "source": "TASKS",
+      "id": 12201,
+      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12201"
     }
   ],
-  "version": 2682,
-  "updated": "2026-10-05T07:57:02.828269+00:00",
+  "version": 2683,
+  "updated": "2026-10-06T00:50:30.939962+00:00",
   "buckets": {
-    "SPIN_WHEEL": 60,
+    "SPIN_WHEEL": 59,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
