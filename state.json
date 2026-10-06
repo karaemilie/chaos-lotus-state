@@ -521,19 +521,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12136,
-      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12136"
-    },
-    {
-      "source": "TASKS",
       "id": 12142,
       "label": "\u2728 Check in on Pura scents - time to refresh?",
       "aw": 4,
@@ -800,19 +787,6 @@
       "uid": "TASKS:12161"
     },
     {
-      "source": "TASKS",
-      "id": 12201,
-      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12201"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1037,
       "sid": 1037,
@@ -831,10 +805,36 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:11903"
+    },
+    {
+      "source": "TASKS",
+      "id": 10820,
+      "label": "Research how many ASU classes have a proctored final \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10820"
+    },
+    {
+      "source": "TASKS",
+      "id": 10454,
+      "label": "Investigate WWAMI eligibility",
+      "aw": 3,
+      "pri": "ASAP",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "Bentley Med School Prep",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10454"
     }
   ],
-  "version": 2687,
-  "updated": "2026-10-06T01:14:07.721768+00:00",
+  "version": 2688,
+  "updated": "2026-10-06T01:14:57.303694+00:00",
   "buckets": {
     "SPIN_WHEEL": 59,
     "TASKS": 22,
