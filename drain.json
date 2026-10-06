@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12160,
+      "label": "✨ Check for South weekly schedule adjustments",
+      "uid": "TASKS:12160",
+      "_ts": "2026-10-06T01:13:26.190Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1033,
+      "label": "Set monthly amt to pay off",
+      "uid": "SPIN_WHEEL:1033",
+      "_ts": "2026-10-06T01:13:49.964Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-06T01:13:40.223Z",
+  "mirroredAt": "2026-10-06T01:13:50.248Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-10-06T01:13:41.278430+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12160"
-  ]
+  }
 }
