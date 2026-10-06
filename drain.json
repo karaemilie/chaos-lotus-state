@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-06T23:47:22.270Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send card to email",
+      "_addedAt": "2026-10-06T23:47:09.059Z",
+      "_ts": "2026-10-06T23:47:09.265Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Send credit cards to Patricia",
+      "_addedAt": "2026-10-06T23:47:29.181Z",
+      "_ts": "2026-10-06T23:47:29.353Z"
+    }
+  ],
+  "mirroredAt": "2026-10-06T23:47:29.621Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
