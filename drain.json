@@ -1,9 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 88,
+      "floor": "Personal",
+      "label": "👱‍♀️ Teeth Whitening",
+      "uid": "ZONES:88",
+      "_ts": "2026-10-06T23:15:50.226Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-06T08:01:40.814Z",
+  "mirroredAt": "2026-10-06T23:15:50.487Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
