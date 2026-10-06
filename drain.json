@@ -1,20 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-06T23:16:52.175Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send card to email",
+      "_addedAt": "2026-10-06T23:47:09.059Z",
+      "_ts": "2026-10-06T23:47:09.265Z"
+    }
+  ],
+  "mirroredAt": "2026-10-06T23:47:09.621Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-06T23:16:53.285475+00:00",
-  "lastAutoProcessed": [
-    "ZONES:88",
-    "ZONES:87",
-    "ZONES:68",
-    "ZONES:90",
-    "MAINTENANCE:128"
-  ],
-  "autoReset": [
-    "Personal"
-  ]
+    "adds": 1
+  }
 }
