@@ -848,12 +848,19 @@
       "sid": 1047,
       "label": "Try tightening Bia from the front",
       "uid": "SPIN_WHEEL:1047"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1048,
+      "sid": 1048,
+      "label": "Find Genevieve black dress",
+      "uid": "SPIN_WHEEL:1048"
     }
   ],
-  "version": 2713,
-  "updated": "2026-10-07T20:15:51.826256+00:00",
+  "version": 2714,
+  "updated": "2026-10-07T20:25:46.921773+00:00",
   "buckets": {
-    "SPIN_WHEEL": 62,
+    "SPIN_WHEEL": 63,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
