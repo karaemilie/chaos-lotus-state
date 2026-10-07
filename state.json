@@ -504,13 +504,6 @@
       "uid": "TASKS:11901"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1029,
-      "sid": 1029,
-      "label": "Five minutes boys room!",
-      "uid": "SPIN_WHEEL:1029"
-    },
-    {
       "source": "ZONES",
       "zid": 2,
       "floor": "Upstairs",
@@ -586,13 +579,6 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Kitchen Up High",
       "uid": "ZONES:79"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1036,
-      "sid": 1036,
-      "label": "Revise Saturday mode in habit tracker",
-      "uid": "SPIN_WHEEL:1036"
     },
     {
       "source": "TASKS",
@@ -857,10 +843,10 @@
       "uid": "TASKS:12178"
     }
   ],
-  "version": 2710,
-  "updated": "2026-10-07T03:21:26.104527+00:00",
+  "version": 2711,
+  "updated": "2026-10-07T03:22:12.348648+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 61,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
