@@ -757,13 +757,6 @@
       "uid": "SPIN_WHEEL:1039"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1040,
-      "sid": 1040,
-      "label": "Order iron curtains!",
-      "uid": "SPIN_WHEEL:1040"
-    },
-    {
       "source": "TASKS",
       "id": 10981,
       "label": "\u2728 Check balance on Matt's work card (1-800-344-5696) \ud83d\udcdd",
@@ -872,10 +865,10 @@
       "uid": "ZONES:83"
     }
   ],
-  "version": 2701,
-  "updated": "2026-10-07T01:25:18.104377+00:00",
+  "version": 2702,
+  "updated": "2026-10-07T01:47:38.786886+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
