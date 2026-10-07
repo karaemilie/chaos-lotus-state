@@ -1,19 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12173,
+      "label": "✨ Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) 🧼",
+      "uid": "TASKS:12173",
+      "_ts": "2026-10-07T03:22:36.778Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-07T03:22:15.695Z",
+  "mirroredAt": "2026-10-07T03:22:37.077Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-07T03:22:16.688854+00:00",
-  "lastAutoProcessed": [
-    "ZONES:49",
-    "SPIN_WHEEL:1047",
-    "SPIN:964",
-    "SPIN:965",
-    "SPIN_WHEEL:1036",
-    "SPIN_WHEEL:1029",
-    "TASKS:12162"
-  ]
+  }
 }
