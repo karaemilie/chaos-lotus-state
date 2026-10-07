@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-06T23:48:05.437Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Move my floral curtains to downstairs office!",
+      "_addedAt": "2026-10-07T00:51:36.600Z",
+      "_ts": "2026-10-07T00:51:36.730Z"
+    }
+  ],
+  "mirroredAt": "2026-10-07T00:51:36.976Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
