@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-07T21:23:48.926Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1045,
+      "label": "Migrate phone",
+      "uid": "SPIN_WHEEL:1045",
+      "_ts": "2026-10-07T21:23:28.518Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Install screen protector",
+      "_addedAt": "2026-10-07T21:24:27.680Z",
+      "_ts": "2026-10-07T21:24:27.891Z"
+    }
+  ],
+  "mirroredAt": "2026-10-07T21:24:28.125Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-07T21:23:50.508336+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1045"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
