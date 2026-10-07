@@ -745,19 +745,6 @@
       "uid": "TASKS:12172"
     },
     {
-      "source": "TASKS",
-      "id": 12173,
-      "label": "\u2728 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12173"
-    },
-    {
       "source": "ZONES",
       "zid": 69,
       "floor": "Digital",
@@ -841,10 +828,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12178"
+    },
+    {
+      "source": "TASKS",
+      "id": 11948,
+      "label": "Clean bedroom windows \ud83e\ude9f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11948"
     }
   ],
-  "version": 2711,
-  "updated": "2026-10-07T03:22:12.348648+00:00",
+  "version": 2712,
+  "updated": "2026-10-07T03:22:49.062832+00:00",
   "buckets": {
     "SPIN_WHEEL": 61,
     "TASKS": 22,
