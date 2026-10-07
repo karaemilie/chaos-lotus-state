@@ -836,13 +836,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1042,
-      "sid": 1042,
-      "label": "Send credit cards to Patricia",
-      "uid": "SPIN_WHEEL:1042"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1043,
       "sid": 1043,
       "label": "Move my floral curtains to downstairs office!",
@@ -879,10 +872,10 @@
       "uid": "SPIN_WHEEL:1046"
     }
   ],
-  "version": 2705,
-  "updated": "2026-10-07T01:57:57.589940+00:00",
+  "version": 2706,
+  "updated": "2026-10-07T03:03:45.804187+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
