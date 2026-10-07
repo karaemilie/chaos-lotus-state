@@ -6,12 +6,19 @@
       "label": "Order iron curtains!",
       "uid": "SPIN_WHEEL:1040",
       "_ts": "2026-10-07T01:47:26.310Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1041,
+      "label": "Send card to email",
+      "uid": "SPIN_WHEEL:1041",
+      "_ts": "2026-10-07T01:47:27.808Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-10-07T01:47:26.540Z",
+  "mirroredAt": "2026-10-07T01:47:28.110Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
