@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-07T01:57:13.383Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add visual progress tracker to this app!",
+      "_addedAt": "2026-10-07T01:56:59.633Z",
+      "_ts": "2026-10-07T01:57:00.192Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Migrate phone",
+      "_addedAt": "2026-10-07T01:57:16.680Z",
+      "_ts": "2026-10-07T01:57:16.889Z"
+    }
+  ],
+  "mirroredAt": "2026-10-07T01:57:17.146Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
