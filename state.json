@@ -340,13 +340,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 964,
-      "row": 29,
-      "label": "Black curtain rod",
-      "uid": "SPIN:964"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 823,
       "row": 11,
       "label": "See where ASU classes transfer",
@@ -386,13 +379,6 @@
       "row": 4,
       "label": "Setup email forward.net **",
       "uid": "SPIN:484"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 965,
-      "row": 30,
-      "label": "Order curtain rods",
-      "uid": "SPIN:965"
     },
     {
       "source": "SPIN_WHEEL",
@@ -470,19 +456,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12142"
-    },
-    {
-      "source": "TASKS",
-      "id": 12162,
-      "label": "\u2728 Weekly meal planning",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12162"
     },
     {
       "source": "COURAGE",
@@ -869,12 +842,25 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Main Area",
       "uid": "ZONES:50"
+    },
+    {
+      "source": "TASKS",
+      "id": 12178,
+      "label": "Ask Evan how much I owe him",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12178"
     }
   ],
-  "version": 2709,
-  "updated": "2026-10-07T03:20:53.807174+00:00",
+  "version": 2710,
+  "updated": "2026-10-07T03:21:26.104527+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 63,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
