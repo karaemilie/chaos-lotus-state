@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1045,
+      "label": "Migrate phone",
+      "uid": "SPIN_WHEEL:1045",
+      "_ts": "2026-10-07T21:23:28.518Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-07T20:25:45.497Z",
+  "mirroredAt": "2026-10-07T21:23:28.877Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
