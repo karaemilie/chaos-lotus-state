@@ -817,15 +817,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 81,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Exfoliation",
-      "uid": "ZONES:81"
-    },
-    {
-      "source": "ZONES",
       "zid": 69,
       "floor": "Digital",
       "label": "\ud83d\udcbb Reviews",
@@ -870,10 +861,19 @@
       "sid": 1043,
       "label": "Move my floral curtains to downstairs office!",
       "uid": "SPIN_WHEEL:1043"
+    },
+    {
+      "source": "ZONES",
+      "zid": 83,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Retainer",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Retainer",
+      "uid": "ZONES:83"
     }
   ],
-  "version": 2700,
-  "updated": "2026-10-07T00:51:56.651443+00:00",
+  "version": 2701,
+  "updated": "2026-10-07T01:25:18.104377+00:00",
   "buckets": {
     "SPIN_WHEEL": 65,
     "TASKS": 22,
