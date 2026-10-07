@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1040,
+      "label": "Order iron curtains!",
+      "uid": "SPIN_WHEEL:1040",
+      "_ts": "2026-10-07T01:47:26.310Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-07T01:25:19.468Z",
+  "mirroredAt": "2026-10-07T01:47:26.540Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-07T01:25:20.366641+00:00",
-  "lastAutoProcessed": [
-    "ZONES:81"
-  ]
+  }
 }
