@@ -1,6 +1,13 @@
 {
   "completions": [
     {
+      "source": "SPIN_WHEEL",
+      "row": 1047,
+      "label": "Next up",
+      "uid": "SPIN_WHEEL:1047",
+      "_ts": "2026-10-07T03:19:56.445Z"
+    },
+    {
       "source": "ZONES",
       "row": 50,
       "zid": 49,
@@ -8,12 +15,19 @@
       "label": "🧺 Basement Foyer",
       "uid": "ZONES:49",
       "_ts": "2026-10-07T03:20:04.209Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 29,
+      "label": "Black curtain rod",
+      "uid": "SPIN:964",
+      "_ts": "2026-10-07T03:20:48.035Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-10-07T03:20:09.947Z",
+  "mirroredAt": "2026-10-07T03:20:48.319Z",
   "counts": {
-    "completions": 1,
+    "completions": 3,
     "adds": 0
   }
 }
