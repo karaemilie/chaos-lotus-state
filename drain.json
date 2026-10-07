@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-07T20:15:50.374Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find Genevieve black dress",
+      "_addedAt": "2026-10-07T20:24:55.694Z",
+      "_ts": "2026-10-07T20:24:55.911Z"
+    }
+  ],
+  "mirroredAt": "2026-10-07T20:24:56.190Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
