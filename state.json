@@ -836,13 +836,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1041,
-      "sid": 1041,
-      "label": "Send card to email",
-      "uid": "SPIN_WHEEL:1041"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1042,
       "sid": 1042,
       "label": "Send credit cards to Patricia",
@@ -865,10 +858,10 @@
       "uid": "ZONES:83"
     }
   ],
-  "version": 2702,
-  "updated": "2026-10-07T01:47:38.786886+00:00",
+  "version": 2703,
+  "updated": "2026-10-07T01:48:25.019467+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 63,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
