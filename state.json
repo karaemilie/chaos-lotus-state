@@ -156,16 +156,6 @@
       "uid": "SPIN:1009"
     },
     {
-      "source": "ZONES",
-      "zid": 49,
-      "floor": "Basement",
-      "row": 50,
-      "label": "\ud83e\uddfa Basement Foyer",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Foyer",
-      "uid": "ZONES:49"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 923,
       "row": 21,
@@ -870,10 +860,19 @@
       "sid": 1046,
       "label": "Get Xmind connected",
       "uid": "SPIN_WHEEL:1046"
+    },
+    {
+      "source": "ZONES",
+      "zid": 50,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Main Area",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Main Area",
+      "uid": "ZONES:50"
     }
   ],
-  "version": 2708,
-  "updated": "2026-10-07T03:20:08.720450+00:00",
+  "version": 2709,
+  "updated": "2026-10-07T03:20:53.807174+00:00",
   "buckets": {
     "SPIN_WHEEL": 65,
     "TASKS": 22,
