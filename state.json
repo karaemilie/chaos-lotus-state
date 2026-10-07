@@ -478,32 +478,6 @@
       "uid": "ZONES:78"
     },
     {
-      "source": "TASKS",
-      "id": 11962,
-      "label": "Pair phone to test app \ud83d\udcf1",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11962"
-    },
-    {
-      "source": "TASKS",
-      "id": 11901,
-      "label": "Work on painting stair iron \ud83c\udfa8",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11901"
-    },
-    {
       "source": "ZONES",
       "zid": 2,
       "floor": "Upstairs",
@@ -511,19 +485,6 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Upstairs Family Room",
       "uid": "ZONES:2"
-    },
-    {
-      "source": "TASKS",
-      "id": 10198,
-      "label": "Review notes from convo with Linai's Dad about WWAMI",
-      "aw": 4,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": "Bentley Med School",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10198"
     },
     {
       "source": "SPIN_WHEEL",
@@ -795,13 +756,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1045,
-      "sid": 1045,
-      "label": "Migrate phone",
-      "uid": "SPIN_WHEEL:1045"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1046,
       "sid": 1046,
       "label": "Get Xmind connected",
@@ -855,12 +809,51 @@
       "sid": 1048,
       "label": "Find Genevieve black dress",
       "uid": "SPIN_WHEEL:1048"
+    },
+    {
+      "source": "TASKS",
+      "id": 12148,
+      "label": "\u2728 Water snake plants",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12148"
+    },
+    {
+      "source": "TASKS",
+      "id": 12182,
+      "label": "\u2728 Refill vitamin boxes for Lincoln & Evan \ud83d\udc8a",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:12182"
+    },
+    {
+      "source": "TASKS",
+      "id": 12184,
+      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12184"
     }
   ],
-  "version": 2714,
-  "updated": "2026-10-07T20:25:46.921773+00:00",
+  "version": 2715,
+  "updated": "2026-10-07T21:23:47.425150+00:00",
   "buckets": {
-    "SPIN_WHEEL": 63,
+    "SPIN_WHEEL": 62,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
