@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1042,
+      "label": "Send credit cards to Patricia",
+      "uid": "SPIN_WHEEL:1042",
+      "_ts": "2026-10-07T03:03:32.061Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-07T01:57:56.516Z",
+  "mirroredAt": "2026-10-07T03:03:32.271Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
