@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-07T03:22:52.437Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Try tightening Bia from the front",
+      "_addedAt": "2026-10-07T20:15:31.756Z",
+      "_ts": "2026-10-07T20:15:32.372Z"
+    }
+  ],
+  "mirroredAt": "2026-10-07T20:15:32.651Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-07T03:22:53.550267+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12173"
-  ]
+    "adds": 1
+  }
 }
