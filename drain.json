@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-08T06:10:42.778Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send Jake the other few internship listings **",
+      "_addedAt": "2026-10-08T06:50:59.570Z",
+      "_ts": "2026-10-08T06:50:59.738Z"
+    }
+  ],
+  "mirroredAt": "2026-10-08T06:51:00.007Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
