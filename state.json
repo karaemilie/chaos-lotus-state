@@ -597,15 +597,6 @@
       "uid": "SPIN_WHEEL:1051"
     },
     {
-      "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1054,
       "sid": 1054,
@@ -804,15 +795,6 @@
       "uid": "TASKS:10198"
     },
     {
-      "source": "ZONES",
-      "zid": 84,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Hand Care & Mani",
-      "uid": "ZONES:84"
-    },
-    {
       "source": "TASKS",
       "id": 11283,
       "label": "Build image-based task system for the boys",
@@ -881,10 +863,28 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "MasterBrain",
       "uid": "ZONES:71"
+    },
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Mask",
+      "uid": "ZONES:85"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Main floor Down Low",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Main floor Down Low",
+      "uid": "ZONES:75"
     }
   ],
-  "version": 2770,
-  "updated": "2026-10-08T23:47:28.042308+00:00",
+  "version": 2771,
+  "updated": "2026-10-08T23:47:55.880951+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "TASKS": 22,
