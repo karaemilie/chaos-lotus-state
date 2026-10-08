@@ -6,6 +6,12 @@
       "label": "Tally protein for the day with Linc!",
       "uid": "SPIN_WHEEL:1061",
       "_ts": "2026-10-08T09:03:43.177Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Fix Whoop",
+      "uid": "PLUS_ADD:Fix Whoop:2026-10-08T09:03:14.850Z",
+      "_ts": "2026-10-08T09:03:57.508Z"
     }
   ],
   "adds": [
@@ -16,9 +22,9 @@
       "_ts": "2026-10-08T09:03:15.002Z"
     }
   ],
-  "mirroredAt": "2026-10-08T09:03:43.405Z",
+  "mirroredAt": "2026-10-08T09:03:57.735Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 1
   }
 }
