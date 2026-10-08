@@ -1,40 +1,9 @@
 {
   "completions": [],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Compare Monarch monthly / annual pricing after I get to know it",
-      "_addedAt": "2026-10-08T08:36:30.362Z",
-      "promote": {
-        "fromUid": "SPIN:1000",
-        "sid": 1000,
-        "label": "Compare Monarch monthly / annual pricing after I get to know it",
-        "origLabel": "Compare Monarch monthly / annual pricing after I get to know it",
-        "start": "2026-10-19",
-        "category": "Home",
-        "aw": 2
-      },
-      "_ts": "2026-10-08T08:36:30.485Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "More work grammar app",
-      "_addedAt": "2026-10-08T08:37:10.364Z",
-      "promote": {
-        "fromUid": "SPIN:844",
-        "sid": 844,
-        "label": "More work grammar app",
-        "origLabel": "More work grammar app",
-        "start": "2026-10-23",
-        "category": "Home",
-        "aw": 6
-      },
-      "_ts": "2026-10-08T08:37:10.490Z"
-    }
-  ],
-  "mirroredAt": "2026-10-08T08:37:10.801Z",
+  "adds": [],
+  "mirroredAt": "2026-10-08T08:38:01.493Z",
   "counts": {
     "completions": 0,
-    "adds": 2
+    "adds": 0
   }
 }
