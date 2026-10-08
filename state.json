@@ -213,13 +213,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 969,
-      "row": 32,
-      "label": "Pack 3x5 rug",
-      "uid": "SPIN:969"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 844,
       "row": 13,
       "label": "More work grammar app",
@@ -476,45 +469,6 @@
       "sid": 1037,
       "label": "Music Room Panels",
       "uid": "SPIN_WHEEL:1037"
-    },
-    {
-      "source": "TASKS",
-      "id": 11903,
-      "label": "Look at Pet insta idea \ud83d\udc3e\ud83d\udcf1",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11903"
-    },
-    {
-      "source": "TASKS",
-      "id": 10820,
-      "label": "Research how many ASU classes have a proctored final \ud83d\udcdd",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10820"
-    },
-    {
-      "source": "TASKS",
-      "id": 10454,
-      "label": "Investigate WWAMI eligibility",
-      "aw": 3,
-      "pri": "ASAP",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": "Bentley Med School Prep",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10454"
     },
     {
       "source": "TASKS",
@@ -916,12 +870,51 @@
       "sid": 1067,
       "label": "Help Dad move the tractor",
       "uid": "SPIN_WHEEL:1067"
+    },
+    {
+      "source": "TASKS",
+      "id": 11688,
+      "label": "\u2728 \ud83d\udd6f\ufe0f Replace batteries in all wax LED candles",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11688"
+    },
+    {
+      "source": "TASKS",
+      "id": 12188,
+      "label": "\u2728 Spend time on flower bouquet coding project",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": "Bouquet Tracker",
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12188"
+    },
+    {
+      "source": "TASKS",
+      "id": 12198,
+      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12198"
     }
   ],
-  "version": 2751,
-  "updated": "2026-10-08T08:26:01.064201+00:00",
+  "version": 2752,
+  "updated": "2026-10-08T08:34:18.317935+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 71,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
