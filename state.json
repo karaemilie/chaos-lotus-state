@@ -874,12 +874,19 @@
       "sid": 1070,
       "label": "Submit for Evan voice lessons Sept!",
       "uid": "SPIN_WHEEL:1070"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1071,
+      "sid": 1071,
+      "label": "Recharge blue candles **",
+      "uid": "SPIN_WHEEL:1071"
     }
   ],
-  "version": 2766,
-  "updated": "2026-10-08T10:04:45.513378+00:00",
+  "version": 2767,
+  "updated": "2026-10-08T10:33:35.709390+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 67,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
