@@ -206,13 +206,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 936,
-      "row": 23,
-      "label": "Have boys review their daily protein need",
-      "uid": "SPIN:936"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1023,
       "row": 53,
       "label": "File Bentley taxes",
@@ -911,10 +904,10 @@
       "uid": "SPIN_WHEEL:1061"
     }
   ],
-  "version": 2739,
-  "updated": "2026-10-08T06:52:52.038286+00:00",
+  "version": 2740,
+  "updated": "2026-10-08T06:54:23.585893+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 70,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
