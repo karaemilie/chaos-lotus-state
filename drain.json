@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 70,
+      "floor": "Digital",
+      "label": "💻 AmazonCart",
+      "uid": "ZONES:70",
+      "_ts": "2026-10-08T23:47:16.124Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 84,
+      "floor": "Personal",
+      "label": "👱‍♀️ Hand Care & Mani",
+      "uid": "ZONES:84",
+      "_ts": "2026-10-08T23:47:32.657Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-08T23:47:29.245Z",
+  "mirroredAt": "2026-10-08T23:47:32.894Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-10-08T23:47:30.146836+00:00",
-  "lastAutoProcessed": [
-    "ZONES:70"
-  ]
+  }
 }
