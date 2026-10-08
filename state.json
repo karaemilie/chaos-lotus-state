@@ -828,19 +828,6 @@
       "uid": "TASKS:12182"
     },
     {
-      "source": "TASKS",
-      "id": 12184,
-      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12184"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1049,
       "sid": 1049,
@@ -904,10 +891,23 @@
       "sid": 1056,
       "label": "Deposit check from Dad",
       "uid": "SPIN_WHEEL:1056"
+    },
+    {
+      "source": "TASKS",
+      "id": 10464,
+      "label": "Help Jake write private lesson email \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10464"
     }
   ],
-  "version": 2724,
-  "updated": "2026-10-08T03:21:40.805302+00:00",
+  "version": 2725,
+  "updated": "2026-10-08T03:55:28.770086+00:00",
   "buckets": {
     "SPIN_WHEEL": 70,
     "TASKS": 22,
