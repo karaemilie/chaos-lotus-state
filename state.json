@@ -733,13 +733,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1061,
-      "sid": 1061,
-      "label": "Tally protein for the day with Linc!",
-      "uid": "SPIN_WHEEL:1061"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1062,
       "sid": 1062,
       "label": "Next step ASU research with Muse!",
@@ -897,10 +890,10 @@
       "uid": "SPIN_WHEEL:1068"
     }
   ],
-  "version": 2759,
-  "updated": "2026-10-08T08:38:00.295345+00:00",
+  "version": 2760,
+  "updated": "2026-10-08T09:04:11.925562+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 68,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
