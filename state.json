@@ -648,19 +648,6 @@
       "uid": "SPIN_WHEEL:1047"
     },
     {
-      "source": "TASKS",
-      "id": 12182,
-      "label": "\u2728 Refill vitamin boxes for Lincoln & Evan \ud83d\udc8a",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:12182"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1049,
       "sid": 1049,
@@ -762,19 +749,6 @@
       "uid": "ZONES:38"
     },
     {
-      "source": "TASKS",
-      "id": 11765,
-      "label": "Search for velvet bar stools \ud83e\ude91",
-      "aw": 3,
-      "pri": 3,
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11765"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1057,
       "sid": 1057,
@@ -807,13 +781,6 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Plants",
       "uid": "ZONES:74"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1059,
-      "sid": 1059,
-      "label": "Research AWS certs / their usefulness for Jake",
-      "uid": "SPIN_WHEEL:1059"
     },
     {
       "source": "SPIN_WHEEL",
@@ -911,17 +878,36 @@
       "uid": "TASKS:12198"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1068,
-      "sid": 1068,
-      "label": "Finish boxing 3x5 rug",
-      "uid": "SPIN_WHEEL:1068"
+      "source": "TASKS",
+      "id": 10615,
+      "label": "Find replacement strings for the harp (missing 2) \ud83c\udfb5 \ud83d\udcdd",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10615"
+    },
+    {
+      "source": "TASKS",
+      "id": 10198,
+      "label": "Review notes from convo with Linai's Dad about WWAMI",
+      "aw": 4,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": "Bentley Med School",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10198"
     }
   ],
-  "version": 2754,
-  "updated": "2026-10-08T08:34:57.859171+00:00",
+  "version": 2755,
+  "updated": "2026-10-08T08:35:43.451549+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 70,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
