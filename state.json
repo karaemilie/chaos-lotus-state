@@ -813,15 +813,6 @@
       "uid": "ZONES:84"
     },
     {
-      "source": "ZONES",
-      "zid": 70,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb AmazonCart",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "AmazonCart",
-      "uid": "ZONES:70"
-    },
-    {
       "source": "TASKS",
       "id": 11283,
       "label": "Build image-based task system for the boys",
@@ -881,10 +872,19 @@
       "sid": 1072,
       "label": "Talk to kids about performing at Christmas",
       "uid": "SPIN_WHEEL:1072"
+    },
+    {
+      "source": "ZONES",
+      "zid": 71,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb MasterBrain",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "MasterBrain",
+      "uid": "ZONES:71"
     }
   ],
-  "version": 2769,
-  "updated": "2026-10-08T21:34:10.279254+00:00",
+  "version": 2770,
+  "updated": "2026-10-08T23:47:28.042308+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "TASKS": 22,
