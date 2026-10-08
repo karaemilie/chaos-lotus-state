@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 37,
+      "floor": "Main Floor",
+      "label": "🧺 Main Floor Living",
+      "uid": "ZONES:37",
+      "_ts": "2026-10-08T04:06:36.767Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-08T03:57:30.437Z",
+  "mirroredAt": "2026-10-08T04:06:37.034Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-08T03:57:31.420421+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:125"
-  ]
+  }
 }
