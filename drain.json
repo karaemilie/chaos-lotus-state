@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-08T00:17:53.156Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send home Ins docs to Christina",
+      "_addedAt": "2026-10-08T01:12:02.557Z",
+      "_ts": "2026-10-08T01:12:02.731Z"
+    }
+  ],
+  "mirroredAt": "2026-10-08T01:12:02.976Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
