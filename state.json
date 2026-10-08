@@ -402,15 +402,6 @@
       "uid": "SPIN_WHEEL:1028"
     },
     {
-      "source": "ZONES",
-      "zid": 37,
-      "floor": "Main Floor",
-      "label": "\ud83e\uddfa Main Floor Living",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Main Floor Living",
-      "uid": "ZONES:37"
-    },
-    {
       "source": "TASKS",
       "id": 12027,
       "label": "\u2728 Review next two-three months travel, task to buy tickets (compare one ways and round trips) - mileage tickets \ud83d\udcdd",
@@ -904,10 +895,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Clean the cat fountain",
       "uid": "MAINTENANCE:130"
+    },
+    {
+      "source": "ZONES",
+      "zid": 38,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Garage",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Garage",
+      "uid": "ZONES:38"
     }
   ],
-  "version": 2727,
-  "updated": "2026-10-08T03:57:29.147025+00:00",
+  "version": 2728,
+  "updated": "2026-10-08T04:06:48.507382+00:00",
   "buckets": {
     "SPIN_WHEEL": 70,
     "TASKS": 22,
