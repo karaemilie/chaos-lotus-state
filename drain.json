@@ -15,11 +15,26 @@
         "aw": 2
       },
       "_ts": "2026-10-08T08:36:30.485Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "More work grammar app",
+      "_addedAt": "2026-10-08T08:37:10.364Z",
+      "promote": {
+        "fromUid": "SPIN:844",
+        "sid": 844,
+        "label": "More work grammar app",
+        "origLabel": "More work grammar app",
+        "start": "2026-10-23",
+        "category": "Home",
+        "aw": 6
+      },
+      "_ts": "2026-10-08T08:37:10.490Z"
     }
   ],
-  "mirroredAt": "2026-10-08T08:37:06.715Z",
+  "mirroredAt": "2026-10-08T08:37:10.801Z",
   "counts": {
     "completions": 0,
-    "adds": 1
+    "adds": 2
   }
 }
