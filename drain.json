@@ -8,26 +8,10 @@
       "_ts": "2026-10-08T09:26:15.044Z"
     }
   ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Plan to get money back from Genevieve",
-      "_addedAt": "2026-10-08T09:26:07.218Z",
-      "promote": {
-        "fromUid": "SPIN_WHEEL:1055",
-        "sid": 1055,
-        "label": "Plan to get money back from Genevieve",
-        "origLabel": "Plan to get money back from Genevieve",
-        "start": "2026-10-09",
-        "category": "Finance",
-        "aw": 1
-      },
-      "_ts": "2026-10-08T09:26:07.508Z"
-    }
-  ],
-  "mirroredAt": "2026-10-08T09:26:15.280Z",
+  "adds": [],
+  "mirroredAt": "2026-10-08T09:26:25.089Z",
   "counts": {
     "completions": 1,
-    "adds": 1
+    "adds": 0
   }
 }
