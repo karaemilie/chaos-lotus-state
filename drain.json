@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-08T08:38:01.493Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Fix Whoop",
+      "_addedAt": "2026-10-08T09:03:14.850Z",
+      "_ts": "2026-10-08T09:03:15.002Z"
+    }
+  ],
+  "mirroredAt": "2026-10-08T09:03:15.390Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
