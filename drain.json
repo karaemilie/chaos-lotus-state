@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-07T22:23:44.055Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Deal with downstairs ceiling bulbs",
+      "_addedAt": "2026-10-08T00:17:39.826Z",
+      "_ts": "2026-10-08T00:17:39.969Z"
+    }
+  ],
+  "mirroredAt": "2026-10-08T00:17:40.331Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
