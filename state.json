@@ -883,12 +883,19 @@
       "sid": 1053,
       "label": "Send email about Wi-Fi",
       "uid": "SPIN_WHEEL:1053"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1054,
+      "sid": 1054,
+      "label": "Send Genevieve piggy bank app",
+      "uid": "SPIN_WHEEL:1054"
     }
   ],
-  "version": 2722,
-  "updated": "2026-10-08T03:16:51.133943+00:00",
+  "version": 2723,
+  "updated": "2026-10-08T03:20:50.846359+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 68,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
