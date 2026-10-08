@@ -474,15 +474,6 @@
       "uid": "SPIN_WHEEL:1035"
     },
     {
-      "source": "ZONES",
-      "zid": 79,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Kitchen Up High",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Kitchen Up High",
-      "uid": "ZONES:79"
-    },
-    {
       "source": "TASKS",
       "id": 11994,
       "label": "\u2728 Charge the red candles \ud83d\udd6f\ufe0f\u2764\ufe0f",
@@ -796,13 +787,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1053,
-      "sid": 1053,
-      "label": "Send email about Wi-Fi",
-      "uid": "SPIN_WHEEL:1053"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1054,
       "sid": 1054,
       "label": "Send Genevieve piggy bank app",
@@ -902,12 +886,21 @@
       "sid": 1058,
       "label": "Figure out Embry Riddle costs",
       "uid": "SPIN_WHEEL:1058"
+    },
+    {
+      "source": "ZONES",
+      "zid": 74,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Plants",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Plants",
+      "uid": "ZONES:74"
     }
   ],
-  "version": 2734,
-  "updated": "2026-10-08T06:08:14.324561+00:00",
+  "version": 2735,
+  "updated": "2026-10-08T06:08:59.648547+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 69,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
