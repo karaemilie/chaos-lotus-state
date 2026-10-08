@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-08T10:43:13.520Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Talk to kids about performing at Christmas",
+      "_addedAt": "2026-10-08T21:33:53.460Z",
+      "_ts": "2026-10-08T21:33:53.679Z"
+    }
+  ],
+  "mirroredAt": "2026-10-08T21:33:53.940Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-08T10:43:14.701427+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1052"
-  ]
+    "adds": 1
+  }
 }
