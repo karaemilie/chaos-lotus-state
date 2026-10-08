@@ -285,18 +285,6 @@
       "uid": "SPIN:870"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11920,
-      "parentRow": 246,
-      "parentLabel": "Review August Gemini costs + transfer twins money for them \ud83d\udcb3\ud83d\udd0d",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": null,
-      "label": "\ud83d\udd25 Review August Gemini costs + transfer twins money for them \ud83d\udcb3\ud83d\udd0d",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11920:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1000,
       "row": 40,
@@ -903,10 +891,21 @@
       "sid": 1057,
       "label": "\ud83d\udd25 Review Sept Gemini and transfer funds to twins",
       "uid": "SPIN_WHEEL:1057"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11221,
+      "stepIndex": 0,
+      "parentLabel": "Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
+      "aw": 2,
+      "due": "2026-06-25",
+      "label": "\ud83d\udd25 Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11221:0"
     }
   ],
-  "version": 2731,
-  "updated": "2026-10-08T06:04:27.491350+00:00",
+  "version": 2732,
+  "updated": "2026-10-08T06:05:05.540243+00:00",
   "buckets": {
     "SPIN_WHEEL": 70,
     "TASKS": 22,
