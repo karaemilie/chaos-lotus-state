@@ -286,13 +286,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1025,
-      "row": 55,
-      "label": "Rewash dress shirts, put in boys room\u2026",
-      "uid": "SPIN:1025"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1012,
       "row": 45,
       "label": "Write Bentley back about concert",
@@ -904,10 +897,10 @@
       "uid": "SPIN_WHEEL:1061"
     }
   ],
-  "version": 2740,
-  "updated": "2026-10-08T06:54:23.585893+00:00",
+  "version": 2741,
+  "updated": "2026-10-08T07:10:45.229496+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 69,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
