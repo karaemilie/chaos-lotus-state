@@ -1,9 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-08T09:03:29.604Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1061,
+      "label": "Tally protein for the day with Linc!",
+      "uid": "SPIN_WHEEL:1061",
+      "_ts": "2026-10-08T09:03:43.177Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Fix Whoop",
+      "_addedAt": "2026-10-08T09:03:14.850Z",
+      "_ts": "2026-10-08T09:03:15.002Z"
+    }
+  ],
+  "mirroredAt": "2026-10-08T09:03:43.405Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
