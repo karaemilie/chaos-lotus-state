@@ -411,14 +411,6 @@
       "uid": "ZONES:37"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 125,
-      "label": "\ud83c\udfe0 Window tracks living room",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Window tracks living room",
-      "uid": "MAINTENANCE:125"
-    },
-    {
       "source": "TASKS",
       "id": 12027,
       "label": "\u2728 Review next two-three months travel, task to buy tickets (compare one ways and round trips) - mileage tickets \ud83d\udcdd",
@@ -904,10 +896,18 @@
       "cat": "Kids",
       "critical": false,
       "uid": "TASKS:11708"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 130,
+      "label": "\ud83c\udfe0 Clean the cat fountain",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Clean the cat fountain",
+      "uid": "MAINTENANCE:130"
     }
   ],
-  "version": 2726,
-  "updated": "2026-10-08T03:56:42.700497+00:00",
+  "version": 2727,
+  "updated": "2026-10-08T03:57:29.147025+00:00",
   "buckets": {
     "SPIN_WHEEL": 70,
     "TASKS": 22,
