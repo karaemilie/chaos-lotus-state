@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 28,
+      "label": "Next step internship research for Jake",
+      "uid": "SPIN:955",
+      "_ts": "2026-10-08T06:51:03.414Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-10-08T06:50:59.738Z"
     }
   ],
-  "mirroredAt": "2026-10-08T06:51:00.007Z",
+  "mirroredAt": "2026-10-08T06:51:03.640Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
