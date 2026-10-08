@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-08T07:10:46.425Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Next step ASU research with Muse!",
+      "_addedAt": "2026-10-08T07:12:47.291Z",
+      "_ts": "2026-10-08T07:12:47.776Z"
+    }
+  ],
+  "mirroredAt": "2026-10-08T07:12:48.158Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-08T07:10:47.285972+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1025"
-  ]
+    "adds": 1
+  }
 }
