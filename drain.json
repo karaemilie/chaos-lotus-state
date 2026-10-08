@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-08T06:51:55.982Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Tally protein for the day with Linc!",
+      "_addedAt": "2026-10-08T06:52:36.127Z",
+      "_ts": "2026-10-08T06:52:36.522Z"
+    }
+  ],
+  "mirroredAt": "2026-10-08T06:52:36.923Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-08T06:51:57.262565+00:00",
-  "lastAutoProcessed": [
-    "SPIN:955"
-  ]
+    "adds": 1
+  }
 }
