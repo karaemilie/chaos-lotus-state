@@ -116,13 +116,6 @@
       "uid": "SPIN:921"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1026,
-      "row": 56,
-      "label": "Pull out mini mason jars for fruit powders",
-      "uid": "SPIN:1026"
-    },
-    {
       "source": "COURAGE",
       "parentId": 12166,
       "parentRow": 331,
@@ -883,10 +876,10 @@
       "uid": "SPIN_WHEEL:1068"
     }
   ],
-  "version": 2761,
-  "updated": "2026-10-08T09:26:23.624360+00:00",
+  "version": 2762,
+  "updated": "2026-10-08T09:27:18.845080+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
