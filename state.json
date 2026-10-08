@@ -271,20 +271,6 @@
       "uid": "SPIN:1021"
     },
     {
-      "source": "TASKS",
-      "id": 11928,
-      "row": 247,
-      "label": "\u2728 Swap out entryway rug \u2014 fall/winter \ud83c\udf42\ud83d\udeaa",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11928"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 839,
       "row": 12,
@@ -904,10 +890,23 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Garage",
       "uid": "ZONES:38"
+    },
+    {
+      "source": "TASKS",
+      "id": 11765,
+      "label": "Search for velvet bar stools \ud83e\ude91",
+      "aw": 3,
+      "pri": 3,
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11765"
     }
   ],
-  "version": 2728,
-  "updated": "2026-10-08T04:06:48.507382+00:00",
+  "version": 2729,
+  "updated": "2026-10-08T05:42:37.149284+00:00",
   "buckets": {
     "SPIN_WHEEL": 70,
     "TASKS": 22,
