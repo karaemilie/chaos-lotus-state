@@ -909,12 +909,19 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12198"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1068,
+      "sid": 1068,
+      "label": "Finish boxing 3x5 rug",
+      "uid": "SPIN_WHEEL:1068"
     }
   ],
-  "version": 2753,
-  "updated": "2026-10-08T08:34:55.229330+00:00",
+  "version": 2754,
+  "updated": "2026-10-08T08:34:57.859171+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 72,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
