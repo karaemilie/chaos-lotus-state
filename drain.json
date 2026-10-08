@@ -1,13 +1,39 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-08T08:34:19.726Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 32,
+      "label": "Pack 3x5 rug",
+      "uid": "SPIN:969",
+      "_ts": "2026-10-08T08:34:02.004Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Finish boxing 3x5 rug",
+      "_addedAt": "2026-10-08T08:34:19.883Z",
+      "_ts": "2026-10-08T08:34:20.016Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Finish boxing 3x5 rug",
+      "_addedAt": "2026-10-08T08:34:39.540Z",
+      "promote": {
+        "fromUid": "PLUS_ADD:Finish boxing 3x5 rug:2026-10-08T08:34:19.883Z",
+        "sid": null,
+        "label": "Finish boxing 3x5 rug",
+        "origLabel": "Finish boxing 3x5 rug",
+        "start": "2026-10-09",
+        "category": "Home",
+        "aw": 2
+      },
+      "_ts": "2026-10-08T08:34:39.698Z"
+    }
+  ],
+  "mirroredAt": "2026-10-08T08:34:39.998Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-08T08:34:20.989734+00:00",
-  "lastAutoProcessed": [
-    "SPIN:969"
-  ]
+    "completions": 1,
+    "adds": 2
+  }
 }
