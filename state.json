@@ -874,12 +874,19 @@
       "sid": 1071,
       "label": "Recharge blue candles **",
       "uid": "SPIN_WHEEL:1071"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1072,
+      "sid": 1072,
+      "label": "Talk to kids about performing at Christmas",
+      "uid": "SPIN_WHEEL:1072"
     }
   ],
-  "version": 2768,
-  "updated": "2026-10-08T10:43:12.064000+00:00",
+  "version": 2769,
+  "updated": "2026-10-08T21:34:10.279254+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 67,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
