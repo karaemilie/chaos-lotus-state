@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1048,
+      "label": "Find Genevieve black dress",
+      "uid": "SPIN_WHEEL:1048",
+      "_ts": "2026-10-08T05:59:19.745Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-08T05:42:39.885Z",
+  "mirroredAt": "2026-10-08T05:59:20.104Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-08T05:42:40.754038+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11928"
-  ]
+  }
 }
