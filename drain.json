@@ -1,9 +1,25 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-08T09:04:13.175Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Plan to get money back from Genevieve",
+      "_addedAt": "2026-10-08T09:26:07.218Z",
+      "promote": {
+        "fromUid": "SPIN_WHEEL:1055",
+        "sid": 1055,
+        "label": "Plan to get money back from Genevieve",
+        "origLabel": "Plan to get money back from Genevieve",
+        "start": "2026-10-09",
+        "category": "Finance",
+        "aw": 1
+      },
+      "_ts": "2026-10-08T09:26:07.508Z"
+    }
+  ],
+  "mirroredAt": "2026-10-08T09:26:07.855Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
