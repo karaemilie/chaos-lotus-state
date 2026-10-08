@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-08T05:59:44.789Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "🔥 Review Sept Gemini and transfer funds to twins",
+      "_addedAt": "2026-10-08T06:04:10.708Z",
+      "_ts": "2026-10-08T06:04:10.984Z"
+    }
+  ],
+  "mirroredAt": "2026-10-08T06:04:11.230Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-08T05:59:45.791524+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1048"
-  ]
+    "adds": 1
+  }
 }
