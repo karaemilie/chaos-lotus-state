@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1056,
+      "label": "Deposit check from Dad",
+      "uid": "SPIN_WHEEL:1056",
+      "_ts": "2026-10-08T09:33:18.256Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-08T09:27:20.271Z",
+  "mirroredAt": "2026-10-08T09:33:18.484Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-08T09:27:21.400426+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1026"
-  ]
+  }
 }
