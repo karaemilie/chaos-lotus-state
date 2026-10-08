@@ -635,13 +635,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1055,
-      "sid": 1055,
-      "label": "Plan to get money back from Genevieve",
-      "uid": "SPIN_WHEEL:1055"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1056,
       "sid": 1056,
       "label": "Deposit check from Dad",
@@ -890,10 +883,10 @@
       "uid": "SPIN_WHEEL:1068"
     }
   ],
-  "version": 2760,
-  "updated": "2026-10-08T09:04:11.925562+00:00",
+  "version": 2761,
+  "updated": "2026-10-08T09:26:23.624360+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
