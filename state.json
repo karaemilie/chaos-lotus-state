@@ -862,12 +862,19 @@
       "sid": 1050,
       "label": "Watch for sale on snap stand",
       "uid": "SPIN_WHEEL:1050"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1051,
+      "sid": 1051,
+      "label": "Deal with downstairs ceiling bulbs",
+      "uid": "SPIN_WHEEL:1051"
     }
   ],
-  "version": 2718,
-  "updated": "2026-10-07T22:23:45.607088+00:00",
+  "version": 2719,
+  "updated": "2026-10-08T00:17:54.461139+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 65,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
