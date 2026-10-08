@@ -470,15 +470,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 78,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Family Room Props",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Props",
-      "uid": "ZONES:78"
-    },
-    {
-      "source": "ZONES",
       "zid": 2,
       "floor": "Upstairs",
       "label": "\ud83e\uddfa Upstairs Family Room",
@@ -876,10 +867,19 @@
       "sid": 1052,
       "label": "Send home Ins docs to Christina",
       "uid": "SPIN_WHEEL:1052"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 2720,
-  "updated": "2026-10-08T01:12:18.924367+00:00",
+  "version": 2721,
+  "updated": "2026-10-08T02:27:27.595174+00:00",
   "buckets": {
     "SPIN_WHEEL": 66,
     "TASKS": 22,
