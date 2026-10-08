@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-08T07:37:35.538Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pull up Musiah app",
+      "_addedAt": "2026-10-08T07:40:55.989Z",
+      "_ts": "2026-10-08T07:40:56.173Z"
+    }
+  ],
+  "mirroredAt": "2026-10-08T07:40:56.423Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
