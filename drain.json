@@ -1,16 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-08T02:27:31.237Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send email about Wi-Fi",
+      "_addedAt": "2026-10-08T03:16:35.695Z",
+      "_ts": "2026-10-08T03:16:35.890Z"
+    }
+  ],
+  "mirroredAt": "2026-10-08T03:16:36.162Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-08T02:27:32.229207+00:00",
-  "lastAutoProcessed": [
-    "ZONES:78"
-  ],
-  "autoReset": [
-    "Plant"
-  ]
+    "adds": 1
+  }
 }
