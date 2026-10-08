@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 34,
+      "label": "See if Freya is vendor with school",
+      "uid": "SPIN:976",
+      "_ts": "2026-10-08T09:40:46.470Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-08T09:33:32.434Z",
+  "mirroredAt": "2026-10-08T09:40:46.764Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-08T09:33:33.278819+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1056"
-  ]
+  }
 }
