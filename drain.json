@@ -1,13 +1,25 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-08T07:13:48.231Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set up bank acct and monarch synch for Jake Venmo card",
+      "_addedAt": "2026-10-08T07:19:51.360Z",
+      "promote": {
+        "fromUid": "SPIN:996",
+        "sid": 996,
+        "label": "Set up bank acct and monarch synch for Jake Venmo card",
+        "origLabel": "Set up bank acct and monarch synch for Jake Venmo card",
+        "start": "2026-10-12",
+        "category": "Home",
+        "aw": 2
+      },
+      "_ts": "2026-10-08T07:19:51.861Z"
+    }
+  ],
+  "mirroredAt": "2026-10-08T07:19:52.199Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-08T07:13:49.209193+00:00",
-  "lastAutoProcessed": [
-    "SPIN:823"
-  ]
+    "adds": 1
+  }
 }
