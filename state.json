@@ -888,12 +888,19 @@
       "sid": 1063,
       "label": "Plug in iPad",
       "uid": "SPIN_WHEEL:1063"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1064,
+      "sid": 1064,
+      "label": "Tidy up cords by piano",
+      "uid": "SPIN_WHEEL:1064"
     }
   ],
-  "version": 2747,
-  "updated": "2026-10-08T07:37:34.263030+00:00",
+  "version": 2748,
+  "updated": "2026-10-08T07:37:36.809141+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 69,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
