@@ -346,19 +346,6 @@
       "uid": "TASKS:12067"
     },
     {
-      "source": "TASKS",
-      "id": 12142,
-      "label": "\u2728 Check in on Pura scents - time to refresh?",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12142"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11212,
       "stepIndex": 0,
@@ -525,19 +512,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12139,
-      "label": "\u2728 Trash & recycling to curb",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12139"
-    },
-    {
-      "source": "TASKS",
       "id": 12172,
       "label": "\u2728 Update school lists for Lincoln & Evan",
       "aw": 4,
@@ -548,15 +522,6 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:12172"
-    },
-    {
-      "source": "ZONES",
-      "zid": 69,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Reviews",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Reviews",
-      "uid": "ZONES:69"
     },
     {
       "source": "ZONES",
@@ -581,15 +546,6 @@
       "sid": 1043,
       "label": "Move my floral curtains to downstairs office!",
       "uid": "SPIN_WHEEL:1043"
-    },
-    {
-      "source": "ZONES",
-      "zid": 83,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Retainer",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Retainer",
-      "uid": "ZONES:83"
     },
     {
       "source": "SPIN_WHEEL",
@@ -904,17 +860,54 @@
       "uid": "TASKS:10198"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1068,
-      "sid": 1068,
-      "label": "Finish boxing 3x5 rug",
-      "uid": "SPIN_WHEEL:1068"
+      "source": "ZONES",
+      "zid": 84,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Hand Care & Mani",
+      "uid": "ZONES:84"
+    },
+    {
+      "source": "ZONES",
+      "zid": 70,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb AmazonCart",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "AmazonCart",
+      "uid": "ZONES:70"
+    },
+    {
+      "source": "TASKS",
+      "id": 11283,
+      "label": "Build image-based task system for the boys",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11283"
+    },
+    {
+      "source": "TASKS",
+      "id": 11421,
+      "label": "Finish fixing sand table",
+      "aw": 5,
+      "pri": null,
+      "dur": 30,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11421"
     }
   ],
-  "version": 2756,
-  "updated": "2026-10-08T08:35:48.042918+00:00",
+  "version": 2757,
+  "updated": "2026-10-08T08:37:03.976316+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 70,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
