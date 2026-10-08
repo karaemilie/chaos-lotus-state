@@ -597,13 +597,6 @@
       "uid": "SPIN_WHEEL:1051"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1052,
-      "sid": 1052,
-      "label": "Send home Ins docs to Christina",
-      "uid": "SPIN_WHEEL:1052"
-    },
-    {
       "source": "ZONES",
       "zid": 73,
       "floor": "Plant",
@@ -883,10 +876,10 @@
       "uid": "SPIN_WHEEL:1071"
     }
   ],
-  "version": 2767,
-  "updated": "2026-10-08T10:33:35.709390+00:00",
+  "version": 2768,
+  "updated": "2026-10-08T10:43:12.064000+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
