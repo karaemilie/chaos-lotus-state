@@ -356,13 +356,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 576,
-      "row": 7,
-      "label": "Pay down my AK card and transfer balance to Genevieve Embry riddle account. Pay off Gemini too somehow",
-      "uid": "SPIN:576"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 904,
       "row": 19,
       "label": "Tagdawn refund doesn\u2019t work right",
@@ -911,10 +904,10 @@
       "uid": "SPIN_WHEEL:1058"
     }
   ],
-  "version": 2733,
-  "updated": "2026-10-08T06:05:10.095638+00:00",
+  "version": 2734,
+  "updated": "2026-10-08T06:08:14.324561+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 70,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
