@@ -902,12 +902,19 @@
       "sid": 1065,
       "label": "Pull up Musiah app",
       "uid": "SPIN_WHEEL:1065"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1066,
+      "sid": 1066,
+      "label": "Put family room desk Hoyas on timer",
+      "uid": "SPIN_WHEEL:1066"
     }
   ],
-  "version": 2749,
-  "updated": "2026-10-08T07:41:13.681278+00:00",
+  "version": 2750,
+  "updated": "2026-10-08T08:25:17.585807+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 71,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
