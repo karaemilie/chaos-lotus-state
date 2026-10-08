@@ -888,12 +888,19 @@
       "sid": 1062,
       "label": "Next step ASU research with Muse!",
       "uid": "SPIN_WHEEL:1062"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1063,
+      "sid": 1063,
+      "label": "Plug in iPad",
+      "uid": "SPIN_WHEEL:1063"
     }
   ],
-  "version": 2744,
-  "updated": "2026-10-08T07:20:06.611433+00:00",
+  "version": 2745,
+  "updated": "2026-10-08T07:21:52.103431+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 69,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
