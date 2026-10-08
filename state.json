@@ -244,13 +244,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1021,
-      "row": 51,
-      "label": "SET UP MUSIAH!",
-      "uid": "SPIN:1021"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 839,
       "row": 12,
       "label": "Fill a grout & caulk bin in garage, and a drywall & mud one",
@@ -897,10 +890,10 @@
       "uid": "SPIN_WHEEL:1063"
     }
   ],
-  "version": 2745,
-  "updated": "2026-10-08T07:21:52.103431+00:00",
+  "version": 2746,
+  "updated": "2026-10-08T07:37:02.297167+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 68,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
