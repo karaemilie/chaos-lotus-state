@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1063,
+      "label": "Plug in iPad",
+      "uid": "SPIN_WHEEL:1063",
+      "_ts": "2026-10-09T07:51:53.230Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-09T07:12:37.452Z",
+  "mirroredAt": "2026-10-09T07:51:53.585Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
