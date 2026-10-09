@@ -775,19 +775,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11283,
-      "label": "Build image-based task system for the boys",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Kids",
-      "critical": false,
-      "uid": "TASKS:11283"
-    },
-    {
-      "source": "TASKS",
       "id": 11421,
       "label": "Finish fixing sand table",
       "aw": 5,
@@ -881,10 +868,23 @@
       "sid": 1075,
       "label": "Order new shoulder rest",
       "uid": "SPIN_WHEEL:1075"
+    },
+    {
+      "source": "TASKS",
+      "id": 12165,
+      "label": "Go through rest of pillows and put them in allergen cases (mine too?)",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12165"
     }
   ],
-  "version": 2779,
-  "updated": "2026-10-09T07:52:05.223723+00:00",
+  "version": 2780,
+  "updated": "2026-10-09T07:52:29.344528+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "TASKS": 22,
