@@ -716,13 +716,6 @@
       "uid": "SPIN_WHEEL:1066"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1067,
-      "sid": 1067,
-      "label": "Help Dad move the tractor",
-      "uid": "SPIN_WHEEL:1067"
-    },
-    {
       "source": "TASKS",
       "id": 11688,
       "label": "\u2728 \ud83d\udd6f\ufe0f Replace batteries in all wax LED candles",
@@ -890,10 +883,10 @@
       "uid": "SPIN_WHEEL:1074"
     }
   ],
-  "version": 2774,
-  "updated": "2026-10-09T02:38:59.533046+00:00",
+  "version": 2775,
+  "updated": "2026-10-09T02:39:42.933417+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
