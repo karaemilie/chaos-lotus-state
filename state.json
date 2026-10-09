@@ -631,15 +631,6 @@
       "uid": "MAINTENANCE:130"
     },
     {
-      "source": "ZONES",
-      "zid": 38,
-      "floor": "Main Floor",
-      "label": "\ud83e\uddfa Garage",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Garage",
-      "uid": "ZONES:38"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1057,
       "sid": 1057,
@@ -881,10 +872,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12165"
+    },
+    {
+      "source": "ZONES",
+      "zid": 39,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Main Floor Family",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Main Floor Family",
+      "uid": "ZONES:39"
     }
   ],
-  "version": 2780,
-  "updated": "2026-10-09T07:52:29.344528+00:00",
+  "version": 2781,
+  "updated": "2026-10-09T08:10:23.072876+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "TASKS": 22,
