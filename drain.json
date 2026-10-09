@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1067,
+      "label": "Help Dad move the tractor",
+      "uid": "SPIN_WHEEL:1067",
+      "_ts": "2026-10-09T02:38:53.908Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-10-09T02:38:44.443Z"
     }
   ],
-  "mirroredAt": "2026-10-09T02:38:44.705Z",
+  "mirroredAt": "2026-10-09T02:38:54.156Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
