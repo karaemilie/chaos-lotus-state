@@ -689,13 +689,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1063,
-      "sid": 1063,
-      "label": "Plug in iPad",
-      "uid": "SPIN_WHEEL:1063"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1064,
       "sid": 1064,
       "label": "Tidy up cords by piano",
@@ -890,10 +883,10 @@
       "uid": "SPIN_WHEEL:1075"
     }
   ],
-  "version": 2778,
-  "updated": "2026-10-09T07:12:38.512325+00:00",
+  "version": 2779,
+  "updated": "2026-10-09T07:52:05.223723+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
