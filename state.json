@@ -895,12 +895,19 @@
       "sid": 1078,
       "label": "Give Genevieve form to submit",
       "uid": "SPIN_WHEEL:1078"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1079,
+      "sid": 1079,
+      "label": "Work sample list",
+      "uid": "SPIN_WHEEL:1079"
     }
   ],
-  "version": 2785,
-  "updated": "2026-10-09T08:37:45.047161+00:00",
+  "version": 2786,
+  "updated": "2026-10-09T08:40:00.453026+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 70,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
