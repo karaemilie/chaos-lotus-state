@@ -1,13 +1,30 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-09T07:52:06.825Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1063,
+      "label": "Plug in iPad",
+      "uid": "SPIN_WHEEL:1063",
+      "_ts": "2026-10-09T07:51:53.230Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Build image-based task system for the boys",
+      "_addedAt": "2026-10-09T07:52:13.416Z",
+      "reschedule": {
+        "uid": "TASKS:11283",
+        "id": 11283,
+        "label": "Build image-based task system for the boys",
+        "start": "2026-10-18"
+      },
+      "_ts": "2026-10-09T07:52:13.622Z"
+    }
+  ],
+  "mirroredAt": "2026-10-09T07:52:13.842Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-09T07:52:07.885705+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1063"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
