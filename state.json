@@ -2,13 +2,6 @@
   "tasks": [
     {
       "source": "SPIN_WHEEL",
-      "sid": 1017,
-      "row": 49,
-      "label": "Upgrade B cellular, cancel wireless? Call them?",
-      "uid": "SPIN:1017"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1016,
       "row": 48,
       "label": "Pay off B&G rent",
@@ -890,10 +883,10 @@
       "uid": "SPIN_WHEEL:1076"
     }
   ],
-  "version": 2782,
-  "updated": "2026-10-09T08:10:25.952769+00:00",
+  "version": 2783,
+  "updated": "2026-10-09T08:11:00.454610+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
