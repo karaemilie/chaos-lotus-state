@@ -1,15 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-08T23:47:57.339Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Talk to kids about Christmas song",
+      "_addedAt": "2026-10-09T01:38:21.319Z",
+      "_ts": "2026-10-09T01:38:21.461Z"
+    }
+  ],
+  "mirroredAt": "2026-10-09T01:38:21.710Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-08T23:47:58.496164+00:00",
-  "lastAutoProcessed": [
-    "ZONES:70",
-    "ZONES:84",
-    "ZONES:73"
-  ]
+    "adds": 1
+  }
 }
