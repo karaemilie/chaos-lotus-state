@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-09T01:43:44.868Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Look at parents budget :/",
+      "_addedAt": "2026-10-09T02:38:44.211Z",
+      "_ts": "2026-10-09T02:38:44.443Z"
+    }
+  ],
+  "mirroredAt": "2026-10-09T02:38:44.705Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-09T01:43:46.053555+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1038"
-  ]
+    "adds": 1
+  }
 }
