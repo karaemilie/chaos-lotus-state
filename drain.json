@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-09T08:11:01.772Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Check Bentley email for PFD",
+      "_addedAt": "2026-10-09T08:35:51.871Z",
+      "_ts": "2026-10-09T08:35:52.049Z"
+    }
+  ],
+  "mirroredAt": "2026-10-09T08:35:52.327Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-09T08:11:02.812955+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1017"
-  ]
+    "adds": 1
+  }
 }
