@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-09T02:39:44.451Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Patch shoulder rest",
+      "_addedAt": "2026-10-09T05:28:57.169Z",
+      "_ts": "2026-10-09T05:28:57.328Z"
+    }
+  ],
+  "mirroredAt": "2026-10-09T05:28:57.581Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-09T02:39:45.529210+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1067"
-  ]
+    "adds": 1
+  }
 }
