@@ -2,38 +2,16 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
-      "row": 1063,
-      "label": "Plug in iPad",
-      "uid": "SPIN_WHEEL:1063",
-      "_ts": "2026-10-09T07:51:53.230Z"
-    },
-    {
-      "source": "ZONES",
-      "zid": 38,
-      "floor": "Main Floor",
-      "label": "🧺 Garage",
-      "uid": "ZONES:38",
-      "_ts": "2026-10-09T07:52:30.753Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 49,
       "label": "Upgrade B cellular, cancel wireless? Call them?",
       "uid": "SPIN:1017",
       "_ts": "2026-10-09T08:10:05.919Z"
     }
   ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Research wireless internet for B apartment or upgrade cell",
-      "_addedAt": "2026-10-09T08:10:02.637Z",
-      "_ts": "2026-10-09T08:10:03.388Z"
-    }
-  ],
-  "mirroredAt": "2026-10-09T08:10:06.153Z",
+  "adds": [],
+  "mirroredAt": "2026-10-09T08:10:24.551Z",
   "counts": {
-    "completions": 3,
-    "adds": 1
+    "completions": 1,
+    "adds": 0
   }
 }
