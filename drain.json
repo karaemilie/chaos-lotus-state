@@ -1,9 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-09T05:29:10.851Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1075,
+      "label": "Patch shoulder rest",
+      "uid": "SPIN_WHEEL:1075",
+      "_ts": "2026-10-09T07:12:20.951Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order new shoulder rest",
+      "_addedAt": "2026-10-09T05:29:11.155Z",
+      "_ts": "2026-10-09T05:29:11.365Z"
+    }
+  ],
+  "mirroredAt": "2026-10-09T07:12:21.406Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
