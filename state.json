@@ -784,15 +784,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 71,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb MasterBrain",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "MasterBrain",
-      "uid": "ZONES:71"
-    },
-    {
-      "source": "ZONES",
       "zid": 85,
       "floor": "Personal",
       "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
@@ -909,10 +900,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Epilate Legs",
       "uid": "ZONES:86"
+    },
+    {
+      "source": "ZONES",
+      "zid": 58,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Emails",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Emails",
+      "uid": "ZONES:58"
     }
   ],
-  "version": 2792,
-  "updated": "2026-10-10T01:55:42.539656+00:00",
+  "version": 2793,
+  "updated": "2026-10-10T01:57:12.467085+00:00",
   "buckets": {
     "SPIN_WHEEL": 71,
     "TASKS": 22,
