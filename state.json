@@ -475,15 +475,6 @@
       "uid": "TASKS:12172"
     },
     {
-      "source": "ZONES",
-      "zid": 82,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Dermaplane",
-      "uid": "ZONES:82"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 129,
       "label": "\ud83c\udfe0 Clean a fridge shelf",
@@ -909,10 +900,19 @@
       "sid": 1083,
       "label": "Empty furnace room",
       "uid": "SPIN_WHEEL:1083"
+    },
+    {
+      "source": "ZONES",
+      "zid": 86,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Epilate Legs",
+      "uid": "ZONES:86"
     }
   ],
-  "version": 2791,
-  "updated": "2026-10-10T01:32:35.329220+00:00",
+  "version": 2792,
+  "updated": "2026-10-10T01:55:42.539656+00:00",
   "buckets": {
     "SPIN_WHEEL": 71,
     "TASKS": 22,
