@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-10T04:10:53.755Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "DINING TABLE",
+      "_addedAt": "2026-10-10T22:53:46.683Z",
+      "_ts": "2026-10-10T22:53:46.864Z"
+    }
+  ],
+  "mirroredAt": "2026-10-10T22:53:47.118Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
