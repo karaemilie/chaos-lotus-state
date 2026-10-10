@@ -916,12 +916,19 @@
       "sid": 1084,
       "label": "Micro chain - start",
       "uid": "SPIN_WHEEL:1084"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1085,
+      "sid": 1085,
+      "label": "DINING TABLE",
+      "uid": "SPIN_WHEEL:1085"
     }
   ],
-  "version": 2794,
-  "updated": "2026-10-10T04:10:54.768771+00:00",
+  "version": 2795,
+  "updated": "2026-10-10T22:53:59.581930+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 73,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
