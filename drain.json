@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-10T01:05:25.119Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Empty furnace room",
+      "_addedAt": "2026-10-10T01:32:19.818Z",
+      "_ts": "2026-10-10T01:32:20.000Z"
+    }
+  ],
+  "mirroredAt": "2026-10-10T01:32:20.246Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-10T01:05:26.126385+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1081",
-    "SPIN:951"
-  ]
+    "adds": 1
+  }
 }
