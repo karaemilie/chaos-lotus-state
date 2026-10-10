@@ -9,13 +9,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 951,
-      "row": 25,
-      "label": "Write apartment lady again",
-      "uid": "SPIN:951"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 998,
       "row": 39,
       "label": "Start a loan doc for Genevieve",
@@ -905,23 +898,16 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1081,
-      "sid": 1081,
-      "label": "Pop this into list view!!!",
-      "uid": "SPIN_WHEEL:1081"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1082,
       "sid": 1082,
       "label": "Deal with B WWAMI app???",
       "uid": "SPIN_WHEEL:1082"
     }
   ],
-  "version": 2789,
-  "updated": "2026-10-10T01:04:40.699996+00:00",
+  "version": 2790,
+  "updated": "2026-10-10T01:05:23.911916+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 70,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
