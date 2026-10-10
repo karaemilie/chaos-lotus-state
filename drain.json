@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 25,
+      "label": "Write apartment lady again",
+      "uid": "SPIN:951",
+      "_ts": "2026-10-10T01:04:36.909Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-10-10T01:04:24.771Z"
     }
   ],
-  "mirroredAt": "2026-10-10T01:04:25.025Z",
+  "mirroredAt": "2026-10-10T01:04:37.338Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
