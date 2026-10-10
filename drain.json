@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 71,
+      "floor": "Digital",
+      "label": "💻 MasterBrain",
+      "uid": "ZONES:71",
+      "_ts": "2026-10-10T01:57:00.053Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-10T01:55:43.711Z",
+  "mirroredAt": "2026-10-10T01:57:00.320Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-10T01:55:44.610155+00:00",
-  "lastAutoProcessed": [
-    "ZONES:82"
-  ]
+  }
 }
