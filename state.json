@@ -44,13 +44,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1050,
-      "row": 48,
-      "label": "Watch for sale on snap stand",
-      "uid": "SPIN:1050"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1072,
       "row": 61,
       "label": "Talk to kids about performing at Christmas",
@@ -248,20 +241,6 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Main Floor Family",
       "uid": "ZONES:39"
-    },
-    {
-      "source": "TASKS",
-      "id": 12092,
-      "row": 290,
-      "label": "\u2b50 5 minutes in Custom Cut Software \u23f1\ufe0f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12092"
     },
     {
       "source": "SPIN_WHEEL",
@@ -498,20 +477,6 @@
       "uid": "TASKS:12043"
     },
     {
-      "source": "TASKS",
-      "id": 11421,
-      "row": 163,
-      "label": "\u2b50 Finish fixing sand table",
-      "aw": 5,
-      "pri": null,
-      "dur": 30,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11421"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1027,
       "row": 35,
@@ -691,20 +656,6 @@
       "uid": "SPIN:928"
     },
     {
-      "source": "TASKS",
-      "id": 10659,
-      "row": 105,
-      "label": "\u2b50 Get Lincoln's four year plan together \ud83d\udccb\ud83c\udfaf",
-      "aw": 3,
-      "pri": "High",
-      "dur": 45,
-      "ml": null,
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10659"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1022,
       "row": 32,
@@ -816,34 +767,6 @@
       "uid": "ZONES:50"
     },
     {
-      "source": "TASKS",
-      "id": 12165,
-      "row": 315,
-      "label": "\u2b50 Go through rest of pillows and put them in allergen cases (mine too?)",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12165"
-    },
-    {
-      "source": "TASKS",
-      "id": 11948,
-      "row": 251,
-      "label": "\u2b50 Clean bedroom windows \ud83e\ude9f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11948"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1060,
       "row": 53,
@@ -948,12 +871,77 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Upstairs Hallway",
       "uid": "ZONES:3"
+    },
+    {
+      "source": "TASKS",
+      "id": 12150,
+      "label": "\u2728 Review Pura schedules, adjust/turn off where not needed",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12150"
+    },
+    {
+      "source": "TASKS",
+      "id": 12154,
+      "label": "\u2728 List 3-5 plants for sale on marketplace \ud83e\udeb4\ud83d\udcb0 \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Normal",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12154"
+    },
+    {
+      "source": "TASKS",
+      "id": 12211,
+      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12211"
+    },
+    {
+      "source": "TASKS",
+      "id": 12212,
+      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12212"
+    },
+    {
+      "source": "TASKS",
+      "id": 12215,
+      "label": "\u2728 Weekly meal planning",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12215"
     }
   ],
-  "version": 2799,
-  "updated": "2026-10-11T01:28:55.291510+00:00",
+  "version": 2800,
+  "updated": "2026-10-11T23:27:55.097071+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 71,
     "COURAGE": 4,
     "TASKS": 22,
     "ZONES": 8,
