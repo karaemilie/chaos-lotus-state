@@ -853,19 +853,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12150,
-      "label": "\u2728 Review Pura schedules, adjust/turn off where not needed",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12150"
-    },
-    {
-      "source": "TASKS",
       "id": 12154,
       "label": "\u2728 List 3-5 plants for sale on marketplace \ud83e\udeb4\ud83d\udcb0 \ud83d\udcdd",
       "aw": 5,
@@ -922,10 +909,23 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10354"
+    },
+    {
+      "source": "TASKS",
+      "id": 10417,
+      "label": "Plan to implement new bedtime!",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10417"
     }
   ],
-  "version": 2804,
-  "updated": "2026-10-11T23:42:59.388103+00:00",
+  "version": 2805,
+  "updated": "2026-10-11T23:43:40.167590+00:00",
   "buckets": {
     "SPIN_WHEEL": 69,
     "COURAGE": 4,
