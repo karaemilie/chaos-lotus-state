@@ -166,13 +166,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 945,
-      "row": 20,
-      "label": "Set up Monarch",
-      "uid": "SPIN:945"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1080,
       "row": 69,
       "label": "Clear out Courage Flame",
@@ -924,10 +917,10 @@
       "uid": "TASKS:12215"
     }
   ],
-  "version": 2801,
-  "updated": "2026-10-11T23:28:35.911088+00:00",
+  "version": 2802,
+  "updated": "2026-10-11T23:29:14.041377+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 68,
     "COURAGE": 4,
     "TASKS": 22,
     "ZONES": 8,
