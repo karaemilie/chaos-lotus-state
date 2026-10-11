@@ -20,12 +20,19 @@
       "label": "List an item",
       "uid": "SPIN:726",
       "_ts": "2026-10-11T23:28:06.342Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 20,
+      "label": "Set up Monarch",
+      "uid": "SPIN:945",
+      "_ts": "2026-10-11T23:28:30.377Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-10-11T23:28:06.584Z",
+  "mirroredAt": "2026-10-11T23:28:30.623Z",
   "counts": {
-    "completions": 3,
+    "completions": 4,
     "adds": 0
   }
 }
