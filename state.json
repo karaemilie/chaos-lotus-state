@@ -659,20 +659,6 @@
       "uid": "SPIN:1073"
     },
     {
-      "source": "TASKS",
-      "id": 12196,
-      "row": 342,
-      "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12196"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1075,
       "row": 64,
@@ -922,10 +908,23 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10417"
+    },
+    {
+      "source": "TASKS",
+      "id": 10211,
+      "label": "Research zoning for assisted living home - end of street property",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": "Neighborhood Zoning Research",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10211"
     }
   ],
-  "version": 2805,
-  "updated": "2026-10-11T23:43:40.167590+00:00",
+  "version": 2806,
+  "updated": "2026-10-11T23:44:06.171929+00:00",
   "buckets": {
     "SPIN_WHEEL": 69,
     "COURAGE": 4,
