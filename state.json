@@ -904,28 +904,28 @@
       "uid": "TASKS:12212"
     },
     {
-      "source": "TASKS",
-      "id": 12215,
-      "label": "\u2728 Weekly meal planning",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12215"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1087,
       "sid": 1087,
       "label": "Monarch work",
       "uid": "SPIN_WHEEL:1087"
+    },
+    {
+      "source": "TASKS",
+      "id": 10354,
+      "label": "Make Christmas present shopping plan \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10354"
     }
   ],
-  "version": 2803,
-  "updated": "2026-10-11T23:29:17.178688+00:00",
+  "version": 2804,
+  "updated": "2026-10-11T23:42:59.388103+00:00",
   "buckets": {
     "SPIN_WHEEL": 69,
     "COURAGE": 4,
