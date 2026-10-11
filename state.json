@@ -487,20 +487,6 @@
       "uid": "TASKS:12195"
     },
     {
-      "source": "TASKS",
-      "id": 12188,
-      "row": 334,
-      "label": "\u2728 Spend time on flower bouquet coding project",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": "Bouquet Tracker",
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12188"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1030,
       "row": 37,
@@ -546,13 +532,6 @@
       "row": 10,
       "label": "Fill a grout & caulk bin in garage, and a drywall & mud one",
       "uid": "SPIN:839"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1047,
-      "row": 46,
-      "label": "Try tightening Bia from the front",
-      "uid": "SPIN:1047"
     },
     {
       "source": "SPIN_WHEEL",
@@ -633,13 +612,6 @@
       "row": 19,
       "label": "Bentley WWAMI app",
       "uid": "SPIN:928"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1022,
-      "row": 32,
-      "label": "Set up credit card pay tracker with Monarch",
-      "uid": "SPIN:1022"
     },
     {
       "source": "ZONES",
@@ -921,12 +893,25 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10211"
+    },
+    {
+      "source": "TASKS",
+      "id": 11988,
+      "label": "Follow up with body shop if I haven't heard back \ud83d\udcde\ud83d\udd27",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11988"
     }
   ],
-  "version": 2806,
-  "updated": "2026-10-11T23:44:06.171929+00:00",
+  "version": 2807,
+  "updated": "2026-10-11T23:44:53.300752+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 67,
     "COURAGE": 4,
     "TASKS": 22,
     "ZONES": 8,
