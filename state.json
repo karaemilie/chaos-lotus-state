@@ -694,16 +694,6 @@
       "uid": "SPIN:1034"
     },
     {
-      "source": "ZONES",
-      "zid": 50,
-      "floor": "Basement",
-      "row": 51,
-      "label": "\ud83e\uddfa Basement Main Area",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Main Area",
-      "uid": "ZONES:50"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1060,
       "row": 53,
@@ -913,10 +903,19 @@
       "sid": 1088,
       "label": "Reset Robomow",
       "uid": "SPIN_WHEEL:1088"
+    },
+    {
+      "source": "ZONES",
+      "zid": 51,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Back Office",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Back Office",
+      "uid": "ZONES:51"
     }
   ],
-  "version": 2809,
-  "updated": "2026-10-11T23:45:23.624657+00:00",
+  "version": 2810,
+  "updated": "2026-10-11T23:50:11.325714+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "COURAGE": 4,
