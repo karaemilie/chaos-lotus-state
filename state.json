@@ -656,16 +656,6 @@
       "uid": "ZONES:74"
     },
     {
-      "source": "ZONES",
-      "zid": 2,
-      "floor": "Upstairs",
-      "row": 3,
-      "label": "\ud83e\uddfa Upstairs Family Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Upstairs Family Room",
-      "uid": "ZONES:2"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1057,
       "row": 51,
@@ -949,10 +939,19 @@
       "sid": 1086,
       "label": "Fill up atomizer with vinegar",
       "uid": "SPIN_WHEEL:1086"
+    },
+    {
+      "source": "ZONES",
+      "zid": 3,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Upstairs Hallway",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Upstairs Hallway",
+      "uid": "ZONES:3"
     }
   ],
-  "version": 2798,
-  "updated": "2026-10-11T01:28:11.785786+00:00",
+  "version": 2799,
+  "updated": "2026-10-11T01:28:55.291510+00:00",
   "buckets": {
     "SPIN_WHEEL": 72,
     "COURAGE": 4,
