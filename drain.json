@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-10T22:53:58.458Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Fill up atomizer with vinegar",
+      "_addedAt": "2026-10-11T00:44:03.935Z",
+      "_ts": "2026-10-11T00:44:04.050Z"
+    }
+  ],
+  "mirroredAt": "2026-10-11T00:44:04.283Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
