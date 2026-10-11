@@ -915,12 +915,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12215"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1087,
+      "sid": 1087,
+      "label": "Monarch work",
+      "uid": "SPIN_WHEEL:1087"
     }
   ],
-  "version": 2802,
-  "updated": "2026-10-11T23:29:14.041377+00:00",
+  "version": 2803,
+  "updated": "2026-10-11T23:29:17.178688+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 69,
     "COURAGE": 4,
     "TASKS": 22,
     "ZONES": 8,
