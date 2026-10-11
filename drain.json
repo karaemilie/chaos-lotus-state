@@ -1,13 +1,32 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12215,
+      "label": "✨ Weekly meal planning",
+      "uid": "TASKS:12215",
+      "_ts": "2026-10-11T23:42:46.160Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12150,
+      "label": "✨ Review Pura schedules, adjust/turn off where not needed",
+      "uid": "TASKS:12150",
+      "_ts": "2026-10-11T23:42:56.871Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12196,
+      "row": 342,
+      "label": "✨ Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead 📋⚖️",
+      "uid": "TASKS:12196",
+      "_ts": "2026-10-11T23:43:54.211Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-11T23:43:42.817Z",
+  "mirroredAt": "2026-10-11T23:43:54.527Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-10-11T23:43:43.853507+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12150"
-  ]
+  }
 }
