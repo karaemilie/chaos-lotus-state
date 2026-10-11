@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 48,
+      "label": "Watch for sale on snap stand",
+      "uid": "SPIN:1050",
+      "_ts": "2026-10-11T23:27:40.128Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-11T01:28:56.657Z",
+  "mirroredAt": "2026-10-11T23:27:40.392Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-11T01:28:57.606044+00:00",
-  "lastAutoProcessed": [
-    "ZONES:2",
-    "SPIN:1066"
-  ]
+  }
 }
