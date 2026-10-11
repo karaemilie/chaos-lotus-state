@@ -51,13 +51,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1068,
-      "row": 58,
-      "label": "Fix Whoop",
-      "uid": "SPIN:1068"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 988,
       "row": 23,
       "label": "Jake package",
@@ -163,13 +156,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11994"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 726,
-      "row": 8,
-      "label": "List an item",
-      "uid": "SPIN:726"
     },
     {
       "source": "SPIN_WHEEL",
@@ -938,10 +924,10 @@
       "uid": "TASKS:12215"
     }
   ],
-  "version": 2800,
-  "updated": "2026-10-11T23:27:55.097071+00:00",
+  "version": 2801,
+  "updated": "2026-10-11T23:28:35.911088+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 69,
     "COURAGE": 4,
     "TASKS": 22,
     "ZONES": 8,
