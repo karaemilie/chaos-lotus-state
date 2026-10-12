@@ -321,13 +321,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 885,
-      "row": 12,
-      "label": "Take drill outside and work on raspberry bed edging \ud83e\uded0",
-      "uid": "SPIN:885"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1076,
       "row": 58,
       "label": "Research wireless internet for B apartment or upgrade cell",
@@ -913,10 +906,10 @@
       "uid": "TASKS:11817"
     }
   ],
-  "version": 2839,
-  "updated": "2026-10-12T10:21:29.685194+00:00",
+  "version": 2840,
+  "updated": "2026-10-12T10:23:19.496986+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
