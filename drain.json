@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T09:16:53.807Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Clear space or upgrade Google storage (b4 11/1)",
+      "_addedAt": "2026-10-12T09:16:37.896Z",
+      "_ts": "2026-10-12T09:16:38.121Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Repair Hue hub",
+      "_addedAt": "2026-10-12T09:17:18.059Z",
+      "_ts": "2026-10-12T09:17:18.446Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T09:17:18.714Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
