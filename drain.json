@@ -1,9 +1,29 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T10:15:32.449Z",
+  "completions": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find Red Rising book for Matt",
+      "uid": "PLUS_ADD:Find Red Rising book for Matt:2026-10-12T10:15:18.396Z",
+      "_ts": "2026-10-12T10:15:32.616Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find Red Rising book for Matt",
+      "_addedAt": "2026-10-12T10:15:18.396Z",
+      "_ts": "2026-10-12T10:15:18.600Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Find Red Rising for Lincoln!!",
+      "_addedAt": "2026-10-12T10:15:45.248Z",
+      "_ts": "2026-10-12T10:15:45.440Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T10:15:45.706Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 2
   }
 }
