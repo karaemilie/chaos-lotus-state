@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T09:17:40.701Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Oct Gemini - verify amt, ping twins (Genevieve owes me $550)",
+      "_addedAt": "2026-10-12T09:24:00.823Z",
+      "_ts": "2026-10-12T09:24:01.238Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T09:24:01.483Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
