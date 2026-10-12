@@ -955,12 +955,19 @@
       "sid": 1100,
       "label": "Find Red Rising book for Matt",
       "uid": "SPIN_WHEEL:1100"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1101,
+      "sid": 1101,
+      "label": "Find Red Rising for Lincoln!!",
+      "uid": "SPIN_WHEEL:1101"
     }
   ],
-  "version": 2834,
-  "updated": "2026-10-12T10:16:15.461719+00:00",
+  "version": 2835,
+  "updated": "2026-10-12T10:16:18.814803+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 73,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
