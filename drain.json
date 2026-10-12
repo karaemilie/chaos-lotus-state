@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 57,
+      "label": "Order new shoulder rest",
+      "uid": "SPIN:1075",
+      "_ts": "2026-10-12T09:26:32.991Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-12T09:26:13.894Z",
+  "mirroredAt": "2026-10-12T09:26:33.218Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-12T09:26:15.101362+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1085",
-    "SPIN:1057"
-  ]
+  }
 }
