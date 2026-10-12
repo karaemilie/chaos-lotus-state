@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 18,
+      "label": "Bentley WWAMI app",
+      "uid": "SPIN:928",
+      "_ts": "2026-10-12T09:28:25.643Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -23,9 +31,9 @@
       "_ts": "2026-10-12T09:28:12.172Z"
     }
   ],
-  "mirroredAt": "2026-10-12T09:28:12.485Z",
+  "mirroredAt": "2026-10-12T09:28:25.925Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 2
   }
 }
