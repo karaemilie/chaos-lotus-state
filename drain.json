@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T09:39:59.450Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Reimburse $1604 Oct rent B 529",
+      "_addedAt": "2026-10-12T09:47:33.648Z",
+      "_ts": "2026-10-12T09:47:33.807Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T09:47:34.043Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
