@@ -1,13 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T00:32:29.034Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "⭐ Make Christmas present shopping plan 📝",
+      "_addedAt": "2026-10-12T03:49:06.458Z",
+      "reschedule": {
+        "uid": "TASKS:10354",
+        "id": 10354,
+        "label": "⭐ Make Christmas present shopping plan 📝",
+        "start": "2026-10-20"
+      },
+      "_ts": "2026-10-12T03:49:06.621Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T03:49:06.861Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-12T00:32:29.884427+00:00",
-  "lastAutoProcessed": [
-    "ZONES:75"
-  ]
+    "adds": 1
+  }
 }
