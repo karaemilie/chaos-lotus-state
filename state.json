@@ -25,13 +25,6 @@
       "uid": "SPIN:988"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1073,
-      "row": 55,
-      "label": "Talk to kids about Christmas song",
-      "uid": "SPIN:1073"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 129,
       "row": 130,
@@ -60,13 +53,6 @@
       "row": 50,
       "label": "Tidy up cords by piano",
       "uid": "SPIN:1064"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 998,
-      "row": 22,
-      "label": "Start a loan doc for Genevieve",
-      "uid": "SPIN:998"
     },
     {
       "source": "SPIN_WHEEL",
@@ -683,13 +669,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 281,
-      "row": 2,
-      "label": "Pull up WWAMI site and research cost",
-      "uid": "SPIN:281"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1043,
       "row": 41,
       "label": "Move my floral curtains to downstairs office!",
@@ -950,10 +929,10 @@
       "uid": "SPIN_WHEEL:1101"
     }
   ],
-  "version": 2837,
-  "updated": "2026-10-12T10:19:49.457563+00:00",
+  "version": 2838,
+  "updated": "2026-10-12T10:20:38.057501+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 68,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
