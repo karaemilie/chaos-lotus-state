@@ -2,13 +2,6 @@
   "tasks": [
     {
       "source": "SPIN_WHEEL",
-      "sid": 1011,
-      "row": 25,
-      "label": "Figure out how to share Xmind with Claude",
-      "uid": "SPIN:1011"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1082,
       "row": 63,
       "label": "Deal with B WWAMI app???",
@@ -957,10 +950,10 @@
       "uid": "SPIN_WHEEL:1101"
     }
   ],
-  "version": 2836,
-  "updated": "2026-10-12T10:19:11.934922+00:00",
+  "version": 2837,
+  "updated": "2026-10-12T10:19:49.457563+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 71,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
