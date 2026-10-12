@@ -766,20 +766,6 @@
       "uid": "TASKS:12067"
     },
     {
-      "source": "TASKS",
-      "id": 10354,
-      "row": 79,
-      "label": "\u2b50 Make Christmas present shopping plan \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10354"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 281,
       "row": 2,
@@ -930,10 +916,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook A",
       "uid": "ZONES:76"
+    },
+    {
+      "source": "TASKS",
+      "id": 10468,
+      "label": "Ponder frames for my new posters",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10468"
     }
   ],
-  "version": 2812,
-  "updated": "2026-10-12T00:32:27.924254+00:00",
+  "version": 2813,
+  "updated": "2026-10-12T03:49:19.850806+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "ZONES": 9,
