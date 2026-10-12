@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T22:35:19.680Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "List the Protein Pop",
+      "_addedAt": "2026-10-12T22:35:07.416Z",
+      "_ts": "2026-10-12T22:35:07.671Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Research the water heater options",
+      "_addedAt": "2026-10-12T22:35:41.462Z",
+      "_ts": "2026-10-12T22:35:41.754Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T22:35:42.051Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
