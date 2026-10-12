@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T22:21:13.470Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "List the Protein Pop",
+      "_addedAt": "2026-10-12T22:35:07.416Z",
+      "_ts": "2026-10-12T22:35:07.671Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T22:35:07.955Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-12T22:21:14.544292+00:00",
-  "lastAutoProcessed": [
-    "ZONES:51"
-  ]
+    "adds": 1
+  }
 }
