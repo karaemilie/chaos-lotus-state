@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T09:38:41.989Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Calendar the orchestra trip & this week!",
+      "_addedAt": "2026-10-12T09:39:43.860Z",
+      "_ts": "2026-10-12T09:39:44.423Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T09:39:44.806Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
