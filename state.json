@@ -240,13 +240,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1039,
-      "row": 40,
-      "label": "Jake Baltimore leave Wed afternoon go back Sunday",
-      "uid": "SPIN:1039"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 5,
       "label": "Compare birch pieces to diagram",
@@ -915,10 +908,10 @@
       "uid": "SPIN_WHEEL:1092"
     }
   ],
-  "version": 2823,
-  "updated": "2026-10-12T09:29:16.664056+00:00",
+  "version": 2824,
+  "updated": "2026-10-12T09:29:49.233271+00:00",
   "buckets": {
-    "SPIN_WHEEL": 66,
+    "SPIN_WHEEL": 65,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
