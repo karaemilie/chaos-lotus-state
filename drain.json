@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T22:44:55.319Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1102,
+      "label": "List the Protein Pop",
+      "uid": "SPIN_WHEEL:1102",
+      "_ts": "2026-10-12T22:44:42.906Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Make cookies!",
+      "_addedAt": "2026-10-12T22:45:00.038Z",
+      "_ts": "2026-10-12T22:45:00.437Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T22:45:00.475Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-12T22:44:56.465586+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1102"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
