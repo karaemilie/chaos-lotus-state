@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T10:04:25.759Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find Red Rising book for Matt",
+      "_addedAt": "2026-10-12T10:15:18.396Z",
+      "_ts": "2026-10-12T10:15:18.600Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T10:15:18.831Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
