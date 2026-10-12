@@ -916,13 +916,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1095,
-      "sid": 1095,
-      "label": "Transfer $ from Genevieve ERAU deposit back to my acct",
-      "uid": "SPIN_WHEEL:1095"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1096,
       "sid": 1096,
       "label": "Calendar the orchestra trip & this week!",
@@ -964,10 +957,10 @@
       "uid": "SPIN_WHEEL:1101"
     }
   ],
-  "version": 2835,
-  "updated": "2026-10-12T10:16:18.814803+00:00",
+  "version": 2836,
+  "updated": "2026-10-12T10:19:11.934922+00:00",
   "buckets": {
-    "SPIN_WHEEL": 73,
+    "SPIN_WHEEL": 72,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
