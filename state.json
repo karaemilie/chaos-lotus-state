@@ -119,13 +119,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1016,
-      "row": 29,
-      "label": "Pay off B&G rent",
-      "uid": "SPIN:1016"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1087,
       "row": 68,
       "label": "Monarch work",
@@ -147,13 +140,6 @@
       "row": 14,
       "label": "prep median or sign Evan up use $25 off and code SCHOLARSHIPSAAAA",
       "uid": "SPIN:903"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 870,
-      "row": 10,
-      "label": "Transfer money to reimburse Genevieve for test fee, log in .xls too \ud83d\udcb0",
-      "uid": "SPIN:870"
     },
     {
       "source": "SPIN_WHEEL",
@@ -204,20 +190,6 @@
       "uid": "SPIN:1086"
     },
     {
-      "source": "TASKS",
-      "id": 12198,
-      "row": 340,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12198"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 5,
@@ -230,20 +202,6 @@
       "row": 11,
       "label": "Deal with pianist for cello recital",
       "uid": "SPIN:879"
-    },
-    {
-      "source": "TASKS",
-      "id": 12211,
-      "row": 353,
-      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12211"
     },
     {
       "source": "SPIN_WHEEL",
@@ -927,12 +885,38 @@
       "sid": 1101,
       "label": "Find Red Rising for Lincoln!!",
       "uid": "SPIN_WHEEL:1101"
+    },
+    {
+      "source": "TASKS",
+      "id": 10369,
+      "label": "The 99-ers: Sign up for membership and eval scholarship due dates",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10369"
+    },
+    {
+      "source": "TASKS",
+      "id": 11817,
+      "label": "Look at Wittner geared pegs for cello \u2014 see what I think \ud83c\udfbb\ud83d\udd27",
+      "aw": 4,
+      "pri": 3,
+      "dur": 20,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11817"
     }
   ],
-  "version": 2838,
-  "updated": "2026-10-12T10:20:38.057501+00:00",
+  "version": 2839,
+  "updated": "2026-10-12T10:21:29.685194+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
