@@ -466,13 +466,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1024,
-      "row": 31,
-      "label": "File our taxes",
-      "uid": "SPIN:1024"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 839,
       "row": 9,
       "label": "Fill a grout & caulk bin in garage, and a drywall & mud one",
@@ -908,10 +901,10 @@
       "uid": "SPIN_WHEEL:1092"
     }
   ],
-  "version": 2824,
-  "updated": "2026-10-12T09:29:49.233271+00:00",
+  "version": 2825,
+  "updated": "2026-10-12T09:30:38.112206+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 64,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
