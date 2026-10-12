@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 52,
+      "zid": 51,
+      "floor": "Basement",
+      "label": "🧺 Back Office",
+      "uid": "ZONES:51",
+      "_ts": "2026-10-12T22:20:58.802Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-12T10:23:20.797Z",
+  "mirroredAt": "2026-10-12T22:20:59.015Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-12T10:23:21.928558+00:00",
-  "lastAutoProcessed": [
-    "SPIN:885"
-  ]
+  }
 }
