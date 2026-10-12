@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T09:47:45.916Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Reimburse $1604 Oct rent B 529",
+      "_addedAt": "2026-10-12T09:47:33.648Z",
+      "_ts": "2026-10-12T09:47:33.807Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Reimburse $900 Oct rent Genevieve (or pull against ERAU refund to Cu1? Hmmm)",
+      "_addedAt": "2026-10-12T09:48:05.516Z",
+      "_ts": "2026-10-12T09:48:05.926Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T09:48:06.143Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
