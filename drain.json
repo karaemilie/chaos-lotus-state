@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T03:49:21.141Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Clear space or upgrade Google storage (b4 11/1)",
+      "_addedAt": "2026-10-12T09:16:37.896Z",
+      "_ts": "2026-10-12T09:16:38.121Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T09:16:38.501Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
