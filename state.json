@@ -633,13 +633,6 @@
       "uid": "ZONES:85"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1075,
-      "row": 57,
-      "label": "Order new shoulder rest",
-      "uid": "SPIN:1075"
-    },
-    {
       "source": "TASKS",
       "id": 12186,
       "row": 330,
@@ -929,10 +922,10 @@
       "uid": "TASKS:12213"
     }
   ],
-  "version": 2818,
-  "updated": "2026-10-12T09:26:12.363127+00:00",
+  "version": 2819,
+  "updated": "2026-10-12T09:26:48.335743+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
