@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T09:26:49.706Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 57,
+      "label": "Order new shoulder rest",
+      "uid": "SPIN:1075",
+      "_ts": "2026-10-12T09:26:32.991Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ping AYO re leaving early",
+      "_addedAt": "2026-10-12T09:27:24.523Z",
+      "_ts": "2026-10-12T09:27:24.736Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T09:27:25.003Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-12T09:26:50.920124+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1075"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
