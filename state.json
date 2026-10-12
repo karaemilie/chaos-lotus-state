@@ -33,13 +33,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1084,
-      "row": 65,
-      "label": "Micro chain - start",
-      "uid": "SPIN:1084"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1073,
       "row": 55,
       "label": "Talk to kids about Christmas song",
@@ -337,20 +330,6 @@
       "uid": "SPIN:683"
     },
     {
-      "source": "TASKS",
-      "id": 10913,
-      "row": 122,
-      "label": "\u2b50 Set up light box on a timer for boys 9-11am \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10913"
-    },
-    {
       "source": "ZONES",
       "zid": 51,
       "floor": "Basement",
@@ -512,20 +491,6 @@
       "row": 31,
       "label": "File our taxes",
       "uid": "SPIN:1024"
-    },
-    {
-      "source": "TASKS",
-      "id": 10417,
-      "row": 85,
-      "label": "\u2b50 Plan to implement new bedtime!",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10417"
     },
     {
       "source": "SPIN_WHEEL",
@@ -950,12 +915,38 @@
       "sid": 1091,
       "label": "Oct Gemini - verify amt, ping twins (Genevieve owes me $550)",
       "uid": "SPIN_WHEEL:1091"
+    },
+    {
+      "source": "TASKS",
+      "id": 12210,
+      "label": "\u2728 Check for South weekly schedule adjustments",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12210"
+    },
+    {
+      "source": "TASKS",
+      "id": 12213,
+      "label": "\u2728 Clear the upstairs trashes",
+      "aw": 4,
+      "pri": null,
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": true,
+      "uid": "TASKS:12213"
     }
   ],
-  "version": 2816,
-  "updated": "2026-10-12T09:24:15.139694+00:00",
+  "version": 2817,
+  "updated": "2026-10-12T09:25:28.218760+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 70,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
