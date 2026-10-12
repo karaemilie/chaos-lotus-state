@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1102,
+      "label": "List the Protein Pop",
+      "uid": "SPIN_WHEEL:1102",
+      "_ts": "2026-10-12T22:44:42.906Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-12T22:36:04.061Z",
+  "mirroredAt": "2026-10-12T22:44:42.993Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
