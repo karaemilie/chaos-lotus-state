@@ -934,12 +934,19 @@
       "sid": 1097,
       "label": "Reimburse $1604 Oct rent B 529",
       "uid": "SPIN_WHEEL:1097"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1098,
+      "sid": 1098,
+      "label": "Reimburse $900 Oct rent Genevieve (or pull against ERAU refund to Cu1? Hmmm)",
+      "uid": "SPIN_WHEEL:1098"
     }
   ],
-  "version": 2830,
-  "updated": "2026-10-12T09:47:47.221882+00:00",
+  "version": 2831,
+  "updated": "2026-10-12T09:48:32.135625+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 70,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
