@@ -906,23 +906,16 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1102,
-      "sid": 1102,
-      "label": "List the Protein Pop",
-      "uid": "SPIN_WHEEL:1102"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1103,
       "sid": 1103,
       "label": "Research the water heater options",
       "uid": "SPIN_WHEEL:1103"
     }
   ],
-  "version": 2843,
-  "updated": "2026-10-12T22:36:05.235994+00:00",
+  "version": 2844,
+  "updated": "2026-10-12T22:44:53.888716+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
