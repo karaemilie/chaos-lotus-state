@@ -1,9 +1,31 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T09:27:40.475Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ping AYO re leaving early",
+      "_addedAt": "2026-10-12T09:27:24.523Z",
+      "_ts": "2026-10-12T09:27:24.736Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Check status of Discover card payoff b4 Nov",
+      "_addedAt": "2026-10-12T09:28:11.961Z",
+      "promote": {
+        "fromUid": "SPIN:1035",
+        "sid": 1035,
+        "label": "Check status of Discover card payoff b4 Nov",
+        "origLabel": "Check status of Discover card payoff b4 Nov",
+        "start": "2026-10-17",
+        "category": "Home",
+        "aw": 1
+      },
+      "_ts": "2026-10-12T09:28:12.172Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T09:28:12.485Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
