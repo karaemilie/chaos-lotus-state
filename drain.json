@@ -1,9 +1,63 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T10:19:50.719Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 25,
+      "label": "Figure out how to share Xmind with Claude",
+      "uid": "SPIN:1011",
+      "_ts": "2026-10-12T10:19:25.043Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Transfer $ from Genevieve ERAU deposit back to my acct",
+      "_addedAt": "2026-10-12T10:18:58.356Z",
+      "promote": {
+        "fromUid": "SPIN_WHEEL:1095",
+        "sid": 1095,
+        "label": "Transfer $ from Genevieve ERAU deposit back to my acct",
+        "origLabel": "Transfer $ from Genevieve ERAU deposit back to my acct",
+        "start": "2026-10-13",
+        "category": "Finance",
+        "aw": 2
+      },
+      "_ts": "2026-10-12T10:18:58.897Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Pull up WWAMI site and research cost",
+      "_addedAt": "2026-10-12T10:19:39.163Z",
+      "promote": {
+        "fromUid": "SPIN:281",
+        "sid": 281,
+        "label": "Pull up WWAMI site and research cost",
+        "origLabel": "Pull up WWAMI site and research cost",
+        "start": "2026-10-21",
+        "category": "Finance",
+        "aw": 2
+      },
+      "_ts": "2026-10-12T10:19:39.328Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Talk to kids about Christmas song",
+      "_addedAt": "2026-10-12T10:20:00.912Z",
+      "promote": {
+        "fromUid": "SPIN:1073",
+        "sid": 1073,
+        "label": "Talk to kids about Christmas song",
+        "origLabel": "Talk to kids about Christmas song",
+        "start": "2026-10-17",
+        "category": "Kids",
+        "aw": 3
+      },
+      "_ts": "2026-10-12T10:20:01.305Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T10:20:01.550Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 3
   }
 }
