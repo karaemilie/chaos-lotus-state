@@ -247,13 +247,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 928,
-      "row": 18,
-      "label": "Bentley WWAMI app",
-      "uid": "SPIN:928"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 5,
       "label": "Compare birch pieces to diagram",
@@ -922,10 +915,10 @@
       "uid": "SPIN_WHEEL:1092"
     }
   ],
-  "version": 2822,
-  "updated": "2026-10-12T09:28:32.316448+00:00",
+  "version": 2823,
+  "updated": "2026-10-12T09:29:16.664056+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
