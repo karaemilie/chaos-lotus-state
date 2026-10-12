@@ -899,12 +899,19 @@
       "sid": 1092,
       "label": "Ping AYO re leaving early",
       "uid": "SPIN_WHEEL:1092"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1093,
+      "sid": 1093,
+      "label": "Swap remarkable with Linc (reset?)",
+      "uid": "SPIN_WHEEL:1093"
     }
   ],
-  "version": 2825,
-  "updated": "2026-10-12T09:30:38.112206+00:00",
+  "version": 2826,
+  "updated": "2026-10-12T09:31:30.565915+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 65,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
