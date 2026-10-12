@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T09:31:28.948Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Finish Monarch recurring sync up/ acct match",
+      "_addedAt": "2026-10-12T09:36:30.826Z",
+      "_ts": "2026-10-12T09:36:31.005Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T09:36:31.273Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
