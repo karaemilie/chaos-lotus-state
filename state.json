@@ -903,12 +903,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Craft Zone",
       "uid": "ZONES:52"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1102,
+      "sid": 1102,
+      "label": "List the Protein Pop",
+      "uid": "SPIN_WHEEL:1102"
     }
   ],
-  "version": 2841,
-  "updated": "2026-10-12T22:21:11.864941+00:00",
+  "version": 2842,
+  "updated": "2026-10-12T22:35:20.892913+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
