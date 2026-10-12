@@ -906,12 +906,19 @@
       "sid": 1093,
       "label": "Swap remarkable with Linc (reset?)",
       "uid": "SPIN_WHEEL:1093"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1094,
+      "sid": 1094,
+      "label": "Finish Monarch recurring sync up/ acct match",
+      "uid": "SPIN_WHEEL:1094"
     }
   ],
-  "version": 2826,
-  "updated": "2026-10-12T09:31:30.565915+00:00",
+  "version": 2827,
+  "updated": "2026-10-12T09:36:48.129073+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
