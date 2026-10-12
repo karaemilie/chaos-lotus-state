@@ -948,12 +948,19 @@
       "sid": 1099,
       "label": "Update Google password!",
       "uid": "SPIN_WHEEL:1099"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1100,
+      "sid": 1100,
+      "label": "Find Red Rising book for Matt",
+      "uid": "SPIN_WHEEL:1100"
     }
   ],
-  "version": 2832,
-  "updated": "2026-10-12T10:04:27.033028+00:00",
+  "version": 2833,
+  "updated": "2026-10-12T10:15:33.820671+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 72,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
