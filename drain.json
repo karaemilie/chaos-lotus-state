@@ -1,9 +1,25 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-12T10:16:17.220Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Transfer $ from Genevieve ERAU deposit back to my acct",
+      "_addedAt": "2026-10-12T10:18:58.356Z",
+      "promote": {
+        "fromUid": "SPIN_WHEEL:1095",
+        "sid": 1095,
+        "label": "Transfer $ from Genevieve ERAU deposit back to my acct",
+        "origLabel": "Transfer $ from Genevieve ERAU deposit back to my acct",
+        "start": "2026-10-13",
+        "category": "Finance",
+        "aw": 2
+      },
+      "_ts": "2026-10-12T10:18:58.897Z"
+    }
+  ],
+  "mirroredAt": "2026-10-12T10:18:59.274Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
