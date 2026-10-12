@@ -936,12 +936,19 @@
       "sid": 1089,
       "label": "Clear space or upgrade Google storage (b4 11/1)",
       "uid": "SPIN_WHEEL:1089"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1090,
+      "sid": 1090,
+      "label": "Repair Hue hub",
+      "uid": "SPIN_WHEEL:1090"
     }
   ],
-  "version": 2814,
-  "updated": "2026-10-12T09:16:55.118307+00:00",
+  "version": 2815,
+  "updated": "2026-10-12T09:17:41.847352+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 70,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
