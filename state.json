@@ -920,12 +920,19 @@
       "cat": "Home",
       "critical": true,
       "uid": "TASKS:12213"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1092,
+      "sid": 1092,
+      "label": "Ping AYO re leaving early",
+      "uid": "SPIN_WHEEL:1092"
     }
   ],
-  "version": 2820,
-  "updated": "2026-10-12T09:27:39.347909+00:00",
+  "version": 2821,
+  "updated": "2026-10-12T09:27:41.600045+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 68,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
