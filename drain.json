@@ -1,37 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 61,
-      "label": "Work sample list",
-      "uid": "SPIN:1079",
-      "_ts": "2026-10-13T02:02:19.165Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 64,
-      "label": "Empty furnace room",
-      "uid": "SPIN:1083",
-      "_ts": "2026-10-13T02:02:36.184Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Order film to finish garage windows",
-      "_addedAt": "2026-10-13T02:02:13.960Z",
-      "_ts": "2026-10-13T02:02:15.607Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Put stuff back in furnace room",
-      "_addedAt": "2026-10-13T02:02:32.319Z",
-      "_ts": "2026-10-13T02:02:32.680Z"
-    }
-  ],
-  "mirroredAt": "2026-10-13T02:02:36.207Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-10-13T02:03:10.675Z",
   "counts": {
-    "completions": 2,
-    "adds": 2
+    "completions": 0,
+    "adds": 0
   }
 }
