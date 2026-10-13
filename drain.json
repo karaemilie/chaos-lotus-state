@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-13T02:03:10.675Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Move Excel files over to Neo",
+      "_addedAt": "2026-10-13T02:09:43.672Z",
+      "_ts": "2026-10-13T02:09:45.044Z"
+    }
+  ],
+  "mirroredAt": "2026-10-13T02:09:45.090Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
