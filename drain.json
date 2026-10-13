@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-13T01:49:19.404Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order film to finish garage windows",
+      "_addedAt": "2026-10-13T02:02:13.960Z",
+      "_ts": "2026-10-13T02:02:15.607Z"
+    }
+  ],
+  "mirroredAt": "2026-10-13T02:02:15.654Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
