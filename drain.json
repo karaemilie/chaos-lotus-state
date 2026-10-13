@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-13T02:10:39.365Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Verify needed leaded time for Subaru",
+      "_addedAt": "2026-10-13T09:02:48.758Z",
+      "_ts": "2026-10-13T09:02:49.051Z"
+    }
+  ],
+  "mirroredAt": "2026-10-13T09:02:49.340Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
