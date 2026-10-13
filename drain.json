@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-13T01:09:10.703Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add other 2 music room bulbs to Wiz",
+      "_addedAt": "2026-10-13T01:49:05.366Z",
+      "_ts": "2026-10-13T01:49:05.760Z"
+    }
+  ],
+  "mirroredAt": "2026-10-13T01:49:05.799Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
