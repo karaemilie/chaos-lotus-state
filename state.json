@@ -434,13 +434,6 @@
       "uid": "TASKS:12195"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1015,
-      "row": 28,
-      "label": "Bentley birthday plane ticket",
-      "uid": "SPIN:1015"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11221,
       "parentRow": 193,
@@ -919,10 +912,10 @@
       "uid": "SPIN_WHEEL:1104"
     }
   ],
-  "version": 2848,
-  "updated": "2026-10-13T00:17:18.200550+00:00",
+  "version": 2849,
+  "updated": "2026-10-13T01:08:21.680730+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
