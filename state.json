@@ -931,12 +931,19 @@
       "sid": 1110,
       "label": "Move Gmail color coder for mail settings over to Neo (see if they have a cloud sync)",
       "uid": "SPIN_WHEEL:1110"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1111,
+      "sid": 1111,
+      "label": "Verify needed leaded time for Subaru",
+      "uid": "SPIN_WHEEL:1111"
     }
   ],
-  "version": 2857,
-  "updated": "2026-10-13T02:10:41.060243+00:00",
+  "version": 2858,
+  "updated": "2026-10-13T09:03:04.604947+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 70,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
