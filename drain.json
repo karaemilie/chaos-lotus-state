@@ -6,6 +6,13 @@
       "label": "Work sample list",
       "uid": "SPIN:1079",
       "_ts": "2026-10-13T02:02:19.165Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 64,
+      "label": "Empty furnace room",
+      "uid": "SPIN:1083",
+      "_ts": "2026-10-13T02:02:36.184Z"
     }
   ],
   "adds": [
@@ -22,9 +29,9 @@
       "_ts": "2026-10-13T02:02:32.680Z"
     }
   ],
-  "mirroredAt": "2026-10-13T02:02:32.722Z",
+  "mirroredAt": "2026-10-13T02:02:36.207Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 2
   }
 }
