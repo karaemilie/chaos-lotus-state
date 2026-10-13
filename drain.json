@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-13T02:09:58.270Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Move Gmail color coder for mail settings over to Neo (see if they have a cloud sync)",
+      "_addedAt": "2026-10-13T02:10:14.722Z",
+      "_ts": "2026-10-13T02:10:15.052Z"
+    }
+  ],
+  "mirroredAt": "2026-10-13T02:10:15.091Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
