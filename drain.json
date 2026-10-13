@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-13T09:03:02.965Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pay Matt work card",
+      "_addedAt": "2026-10-13T17:17:50.297Z",
+      "_ts": "2026-10-13T17:17:50.460Z"
+    }
+  ],
+  "mirroredAt": "2026-10-13T17:17:50.733Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
