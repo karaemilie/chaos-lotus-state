@@ -143,13 +143,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1079,
-      "row": 61,
-      "label": "Work sample list",
-      "uid": "SPIN:1079"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 923,
       "row": 17,
       "label": "Try mineral spirits on grey table",
@@ -164,13 +157,6 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Emails",
       "uid": "ZONES:58"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1083,
-      "row": 64,
-      "label": "Empty furnace room",
-      "uid": "SPIN:1083"
     },
     {
       "source": "ZONES",
@@ -926,10 +912,10 @@
       "uid": "SPIN_WHEEL:1107"
     }
   ],
-  "version": 2853,
-  "updated": "2026-10-13T02:02:34.189917+00:00",
+  "version": 2854,
+  "updated": "2026-10-13T02:03:09.222422+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 66,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
