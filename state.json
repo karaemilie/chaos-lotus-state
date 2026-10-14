@@ -184,13 +184,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 879,
-      "row": 11,
-      "label": "Deal with pianist for cello recital",
-      "uid": "SPIN:879"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1051,
       "row": 44,
       "label": "Deal with downstairs ceiling bulbs",
@@ -504,34 +497,6 @@
       "uid": "ZONES:85"
     },
     {
-      "source": "TASKS",
-      "id": 12186,
-      "row": 330,
-      "label": "\u2b50 Call Katie",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:12186"
-    },
-    {
-      "source": "TASKS",
-      "id": 10264,
-      "row": 62,
-      "label": "\u2b50 Check on laser air vent",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10264"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 900,
       "row": 13,
@@ -719,19 +684,6 @@
       "uid": "ZONES:76"
     },
     {
-      "source": "TASKS",
-      "id": 10468,
-      "label": "Ponder frames for my new posters",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10468"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1089,
       "sid": 1089,
@@ -843,19 +795,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10369,
-      "label": "The 99-ers: Sign up for membership and eval scholarship due dates",
-      "aw": 3,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10369"
-    },
-    {
-      "source": "TASKS",
       "id": 11817,
       "label": "Look at Wittner geared pegs for cello \u2014 see what I think \ud83c\udfbb\ud83d\udd27",
       "aw": 4,
@@ -959,12 +898,64 @@
       "sid": 1114,
       "label": "Look at add ons for Morpho",
       "uid": "SPIN_WHEEL:1114"
+    },
+    {
+      "source": "TASKS",
+      "id": 11987,
+      "label": "\u2728 Work on kids education planning projects \ud83d\udcda",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Medium",
+      "proj": "Homeschool Admin",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11987"
+    },
+    {
+      "source": "TASKS",
+      "id": 12171,
+      "label": "\u2728 Trash only to curb \ud83d\uddd1\ufe0f",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12171"
+    },
+    {
+      "source": "TASKS",
+      "id": 12185,
+      "label": "\u2728 Send text update to mother-in-law \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12185"
+    },
+    {
+      "source": "TASKS",
+      "id": 12216,
+      "label": "\u2728 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12216"
     }
   ],
-  "version": 2861,
-  "updated": "2026-10-14T00:56:10.946841+00:00",
+  "version": 2862,
+  "updated": "2026-10-14T00:57:03.536534+00:00",
   "buckets": {
-    "SPIN_WHEEL": 73,
+    "SPIN_WHEEL": 72,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
