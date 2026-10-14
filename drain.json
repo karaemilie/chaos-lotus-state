@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-14T00:55:28.117Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Look at add ons for Morpho",
+      "_addedAt": "2026-10-14T00:55:31.325Z",
+      "_ts": "2026-10-14T00:55:31.491Z"
+    }
+  ],
+  "mirroredAt": "2026-10-14T00:55:31.756Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
