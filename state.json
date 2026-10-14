@@ -584,13 +584,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1090,
-      "sid": 1090,
-      "label": "Repair Hue hub",
-      "uid": "SPIN_WHEEL:1090"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1091,
       "sid": 1091,
       "label": "Oct Gemini - verify amt, ping twins (Genevieve owes me $550)",
@@ -972,10 +965,10 @@
       "uid": "ZONES:77"
     }
   ],
-  "version": 2893,
-  "updated": "2026-10-14T23:53:17.693560+00:00",
+  "version": 2894,
+  "updated": "2026-10-14T23:54:03.589637+00:00",
   "buckets": {
-    "SPIN_WHEEL": 74,
+    "SPIN_WHEEL": 73,
     "ZONES": 9,
     "TASKS": 23,
     "COURAGE": 4,
