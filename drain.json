@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-14T06:24:31.079Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Research plane tix",
+      "_addedAt": "2026-10-14T06:25:21.415Z",
+      "_ts": "2026-10-14T06:25:21.563Z"
+    }
+  ],
+  "mirroredAt": "2026-10-14T06:25:21.803Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
