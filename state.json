@@ -8,16 +8,6 @@
       "uid": "SPIN:1082"
     },
     {
-      "source": "ZONES",
-      "zid": 3,
-      "floor": "Upstairs",
-      "row": 4,
-      "label": "\ud83e\uddfa Upstairs Hallway",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Upstairs Hallway",
-      "uid": "ZONES:3"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 988,
       "row": 21,
@@ -971,10 +961,19 @@
       "cat": "Family/Education",
       "critical": false,
       "uid": "TASKS:11941"
+    },
+    {
+      "source": "ZONES",
+      "zid": 4,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa My Closet",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "My Closet",
+      "uid": "ZONES:4"
     }
   ],
-  "version": 2889,
-  "updated": "2026-10-14T23:19:26.704380+00:00",
+  "version": 2890,
+  "updated": "2026-10-14T23:22:45.055878+00:00",
   "buckets": {
     "SPIN_WHEEL": 74,
     "ZONES": 9,
