@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 130,
+      "label": "🏠 Clean a fridge shelf",
+      "uid": "MAINTENANCE:129",
+      "_ts": "2026-10-14T05:37:04.604Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-14T05:30:35.178Z",
+  "mirroredAt": "2026-10-14T05:37:04.970Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-14T05:30:36.222495+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12171"
-  ]
+  }
 }
