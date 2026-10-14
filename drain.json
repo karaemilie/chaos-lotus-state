@@ -1,33 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1118,
-      "label": "Research plane tix",
-      "uid": "SPIN_WHEEL:1118",
-      "_ts": "2026-10-14T06:40:14.702Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Wisdom teeth plan for Genevieve",
-      "_addedAt": "2026-10-14T06:40:10.477Z",
-      "promote": {
-        "fromUid": "SPIN_WHEEL:1115",
-        "sid": 1115,
-        "label": "Wisdom teeth plan for Genevieve",
-        "origLabel": "Wisdom teeth plan for Genevieve",
-        "start": "2026-10-20",
-        "category": "Home",
-        "aw": 4
-      },
-      "_ts": "2026-10-14T06:40:10.664Z"
-    }
-  ],
-  "mirroredAt": "2026-10-14T06:40:18.134Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-10-14T06:41:02.978Z",
   "counts": {
-    "completions": 1,
-    "adds": 1
+    "completions": 0,
+    "adds": 0
   }
 }
