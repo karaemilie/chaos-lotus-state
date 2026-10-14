@@ -945,12 +945,19 @@
       "sid": 1112,
       "label": "Pay Matt work card",
       "uid": "SPIN_WHEEL:1112"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1113,
+      "sid": 1113,
+      "label": "Hit start on distiller",
+      "uid": "SPIN_WHEEL:1113"
     }
   ],
-  "version": 2859,
-  "updated": "2026-10-13T17:18:05.768422+00:00",
+  "version": 2860,
+  "updated": "2026-10-14T00:55:29.567242+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 72,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
