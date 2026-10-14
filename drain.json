@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-13T17:18:04.423Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Hit start on distiller",
+      "_addedAt": "2026-10-14T00:55:13.667Z",
+      "_ts": "2026-10-14T00:55:13.854Z"
+    }
+  ],
+  "mirroredAt": "2026-10-14T00:55:14.111Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
