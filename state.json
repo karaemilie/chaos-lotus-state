@@ -891,19 +891,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12171,
-      "label": "\u2728 Trash only to curb \ud83d\uddd1\ufe0f",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12171"
-    },
-    {
-      "source": "TASKS",
       "id": 12185,
       "label": "\u2728 Send text update to mother-in-law \ud83d\udcdd",
       "aw": 3,
@@ -950,10 +937,23 @@
       "sid": 1116,
       "label": "Find all Genevieve recital videos (check windows machine downloads and Google Drive)",
       "uid": "SPIN_WHEEL:1116"
+    },
+    {
+      "source": "TASKS",
+      "id": 11526,
+      "label": "Check if Affinity for iPad is out \ud83d\udcf1\u270f\ufe0f \ud83d\udcdd",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11526"
     }
   ],
-  "version": 2866,
-  "updated": "2026-10-14T04:47:48.353172+00:00",
+  "version": 2867,
+  "updated": "2026-10-14T05:30:31.129392+00:00",
   "buckets": {
     "SPIN_WHEEL": 72,
     "ZONES": 9,
