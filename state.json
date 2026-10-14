@@ -576,15 +576,6 @@
       "uid": "ZONES:74"
     },
     {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1089,
       "sid": 1089,
@@ -970,10 +961,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "My Closet",
       "uid": "ZONES:4"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
     }
   ],
-  "version": 2890,
-  "updated": "2026-10-14T23:22:45.055878+00:00",
+  "version": 2891,
+  "updated": "2026-10-14T23:42:15.585746+00:00",
   "buckets": {
     "SPIN_WHEEL": 74,
     "ZONES": 9,
