@@ -398,13 +398,6 @@
       "uid": "SPIN:1013"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1077,
-      "row": 59,
-      "label": "Check Bentley email for PFD",
-      "uid": "SPIN:1077"
-    },
-    {
       "source": "ZONES",
       "zid": 85,
       "floor": "Personal",
@@ -959,10 +952,10 @@
       "uid": "SPIN_WHEEL:1122"
     }
   ],
-  "version": 2882,
-  "updated": "2026-10-14T09:16:56.787000+00:00",
+  "version": 2883,
+  "updated": "2026-10-14T09:20:38.078567+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 71,
     "ZONES": 9,
     "TASKS": 23,
     "COURAGE": 4,
