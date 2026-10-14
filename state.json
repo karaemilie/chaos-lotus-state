@@ -910,13 +910,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1115,
-      "sid": 1115,
-      "label": "Wisdom teeth plan for Genevieve",
-      "uid": "SPIN_WHEEL:1115"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1116,
       "sid": 1116,
       "label": "Find all Genevieve recital videos (check windows machine downloads and Google Drive)",
@@ -952,23 +945,16 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1118,
-      "sid": 1118,
-      "label": "Research plane tix",
-      "uid": "SPIN_WHEEL:1118"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1119,
       "sid": 1119,
       "label": "Research plane tix for Mexico",
       "uid": "SPIN_WHEEL:1119"
     }
   ],
-  "version": 2872,
-  "updated": "2026-10-14T06:40:15.765811+00:00",
+  "version": 2873,
+  "updated": "2026-10-14T06:41:01.685284+00:00",
   "buckets": {
-    "SPIN_WHEEL": 74,
+    "SPIN_WHEEL": 72,
     "ZONES": 9,
     "TASKS": 22,
     "COURAGE": 4,
