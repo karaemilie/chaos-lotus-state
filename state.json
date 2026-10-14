@@ -964,12 +964,19 @@
       "sid": 1120,
       "label": "Find my Capital 7165 card to map in Monarch",
       "uid": "SPIN_WHEEL:1120"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1121,
+      "sid": 1121,
+      "label": "Submit for both PrepMedian accts",
+      "uid": "SPIN_WHEEL:1121"
     }
   ],
-  "version": 2877,
-  "updated": "2026-10-14T08:48:34.122249+00:00",
+  "version": 2878,
+  "updated": "2026-10-14T08:56:10.219690+00:00",
   "buckets": {
-    "SPIN_WHEEL": 73,
+    "SPIN_WHEEL": 74,
     "ZONES": 9,
     "TASKS": 23,
     "COURAGE": 4,
