@@ -878,19 +878,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12228,
-      "label": "\u2728 Refill vitamin boxes for Lincoln & Evan \ud83d\udc8a",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:12228"
-    },
-    {
-      "source": "TASKS",
       "id": 11962,
       "label": "Pair phone to test app \ud83d\udcf1",
       "aw": 7,
@@ -957,10 +944,23 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Reviews",
       "uid": "ZONES:61"
+    },
+    {
+      "source": "TASKS",
+      "id": 11526,
+      "label": "Check if Affinity for iPad is out \ud83d\udcf1\u270f\ufe0f \ud83d\udcdd",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11526"
     }
   ],
-  "version": 2885,
-  "updated": "2026-10-14T09:44:53.574850+00:00",
+  "version": 2886,
+  "updated": "2026-10-14T20:46:30.543467+00:00",
   "buckets": {
     "SPIN_WHEEL": 72,
     "ZONES": 9,
