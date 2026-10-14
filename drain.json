@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-14T08:36:18.846Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ List 3-5 plants for sale on marketplace 🪴💰 📝",
+      "_addedAt": "2026-10-14T08:37:04.898Z",
+      "reschedule": {
+        "uid": "TASKS:12154",
+        "id": 12154,
+        "label": "✨ List 3-5 plants for sale on marketplace 🪴💰 📝",
+        "start": "2026-10-20"
+      },
+      "_ts": "2026-10-14T08:37:05.082Z"
+    }
+  ],
+  "mirroredAt": "2026-10-14T08:37:05.392Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
