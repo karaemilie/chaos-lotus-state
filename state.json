@@ -855,13 +855,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1113,
-      "sid": 1113,
-      "label": "Hit start on distiller",
-      "uid": "SPIN_WHEEL:1113"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1114,
       "sid": 1114,
       "label": "Look at add ons for Morpho",
@@ -972,10 +965,10 @@
       "uid": "SPIN_WHEEL:1119"
     }
   ],
-  "version": 2871,
-  "updated": "2026-10-14T06:26:17.097737+00:00",
+  "version": 2872,
+  "updated": "2026-10-14T06:40:15.765811+00:00",
   "buckets": {
-    "SPIN_WHEEL": 75,
+    "SPIN_WHEEL": 74,
     "ZONES": 9,
     "TASKS": 22,
     "COURAGE": 4,
