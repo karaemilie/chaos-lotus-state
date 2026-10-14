@@ -1,52 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "TASKS",
-      "id": 10981,
-      "row": 126,
-      "label": "✨ Check balance on Matt's work card (1-800-344-5696) 📝",
-      "uid": "TASKS:10981",
-      "_ts": "2026-10-14T08:37:14.057Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 60,
-      "zid": 59,
-      "floor": "Digital",
-      "label": "💻 Quicken",
-      "uid": "ZONES:59",
-      "_ts": "2026-10-14T08:37:24.215Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "✨ List 3-5 plants for sale on marketplace 🪴💰 📝",
-      "_addedAt": "2026-10-14T08:37:04.898Z",
-      "reschedule": {
-        "uid": "TASKS:12154",
-        "id": 12154,
-        "label": "✨ List 3-5 plants for sale on marketplace 🪴💰 📝",
-        "start": "2026-10-20"
-      },
-      "_ts": "2026-10-14T08:37:05.082Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "✨ Clip & pot new Hoya starts 🪴🌱",
-      "_addedAt": "2026-10-14T08:37:10.709Z",
-      "reschedule": {
-        "uid": "TASKS:12212",
-        "id": 12212,
-        "label": "✨ Clip & pot new Hoya starts 🪴🌱",
-        "start": "2026-10-17"
-      },
-      "_ts": "2026-10-14T08:37:10.844Z"
-    }
-  ],
-  "mirroredAt": "2026-10-14T08:37:24.442Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-10-14T08:38:00.273Z",
   "counts": {
-    "completions": 2,
-    "adds": 2
+    "completions": 0,
+    "adds": 0
   }
 }
