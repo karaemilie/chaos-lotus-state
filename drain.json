@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12228,
+      "label": "✨ Refill vitamin boxes for Lincoln & Evan 💊",
+      "uid": "TASKS:12228",
+      "_ts": "2026-10-14T20:46:20.128Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-14T09:44:55.009Z",
+  "mirroredAt": "2026-10-14T20:46:20.508Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-14T09:44:57.117024+00:00",
-  "lastAutoProcessed": [
-    "ZONES:60"
-  ]
+  }
 }
