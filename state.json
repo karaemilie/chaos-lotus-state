@@ -617,19 +617,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12210,
-      "label": "\u2728 Check for South weekly schedule adjustments",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12210"
-    },
-    {
-      "source": "TASKS",
       "id": 12213,
       "label": "\u2728 Clear the upstairs trashes",
       "aw": 4,
@@ -971,10 +958,23 @@
       "sid": 1125,
       "label": "Ask Mr Levine about rental violas",
       "uid": "SPIN_WHEEL:1125"
+    },
+    {
+      "source": "TASKS",
+      "id": 11941,
+      "label": "Test prep plan for Lincoln \ud83d\udcda",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:11941"
     }
   ],
-  "version": 2888,
-  "updated": "2026-10-14T23:12:50.746724+00:00",
+  "version": 2889,
+  "updated": "2026-10-14T23:19:26.704380+00:00",
   "buckets": {
     "SPIN_WHEEL": 74,
     "ZONES": 9,
