@@ -349,20 +349,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12154,
-      "row": 308,
-      "label": "\u2728 List 3-5 plants for sale on marketplace \ud83e\udeb4\ud83d\udcb0 \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Normal",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12154"
-    },
-    {
-      "source": "TASKS",
       "id": 10981,
       "row": 126,
       "label": "\u2728 Check balance on Matt's work card (1-800-344-5696) \ud83d\udcdd",
@@ -961,10 +947,23 @@
       "cat": "Family/Education",
       "critical": false,
       "uid": "TASKS:12228"
+    },
+    {
+      "source": "TASKS",
+      "id": 11962,
+      "label": "Pair phone to test app \ud83d\udcf1",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11962"
     }
   ],
-  "version": 2874,
-  "updated": "2026-10-14T08:36:17.150585+00:00",
+  "version": 2875,
+  "updated": "2026-10-14T08:37:17.642222+00:00",
   "buckets": {
     "SPIN_WHEEL": 72,
     "ZONES": 9,
