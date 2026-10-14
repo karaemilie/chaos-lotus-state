@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-14T20:46:33.717Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Change bag in big robovac",
+      "_addedAt": "2026-10-14T23:10:38.876Z",
+      "_ts": "2026-10-14T23:10:39.074Z"
+    }
+  ],
+  "mirroredAt": "2026-10-14T23:10:39.330Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-14T20:46:36.152357+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12228"
-  ]
+    "adds": 1
+  }
 }
