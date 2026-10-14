@@ -903,15 +903,6 @@
       "uid": "TASKS:11962"
     },
     {
-      "source": "ZONES",
-      "zid": 60,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Photos",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Photos",
-      "uid": "ZONES:60"
-    },
-    {
       "source": "TASKS",
       "id": 10464,
       "label": "Help Jake write private lesson email \ud83d\udcdd",
@@ -957,10 +948,19 @@
       "sid": 1123,
       "label": "BENTLEY OTHER PFD FORM",
       "uid": "SPIN_WHEEL:1123"
+    },
+    {
+      "source": "ZONES",
+      "zid": 61,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Reviews",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Reviews",
+      "uid": "ZONES:61"
     }
   ],
-  "version": 2884,
-  "updated": "2026-10-14T09:21:21.573502+00:00",
+  "version": 2885,
+  "updated": "2026-10-14T09:44:53.574850+00:00",
   "buckets": {
     "SPIN_WHEEL": 72,
     "ZONES": 9,
