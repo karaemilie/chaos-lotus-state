@@ -12,18 +12,6 @@
   "adds": [
     {
       "source": "PLUS_ADD",
-      "label": "✨ List 3-5 plants for sale on marketplace 🪴💰 📝",
-      "_addedAt": "2026-10-14T08:37:04.898Z",
-      "reschedule": {
-        "uid": "TASKS:12154",
-        "id": 12154,
-        "label": "✨ List 3-5 plants for sale on marketplace 🪴💰 📝",
-        "start": "2026-10-20"
-      },
-      "_ts": "2026-10-14T08:37:05.082Z"
-    },
-    {
-      "source": "PLUS_ADD",
       "label": "✨ Clip & pot new Hoya starts 🪴🌱",
       "_addedAt": "2026-10-14T08:37:10.709Z",
       "reschedule": {
@@ -35,9 +23,9 @@
       "_ts": "2026-10-14T08:37:10.844Z"
     }
   ],
-  "mirroredAt": "2026-10-14T08:37:14.290Z",
+  "mirroredAt": "2026-10-14T08:37:19.146Z",
   "counts": {
     "completions": 1,
-    "adds": 2
+    "adds": 1
   }
 }
