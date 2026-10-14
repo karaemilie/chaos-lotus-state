@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-14T23:42:17.419Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Puff bars and gatorade",
+      "_addedAt": "2026-10-14T23:46:47.637Z",
+      "_ts": "2026-10-14T23:46:47.811Z"
+    }
+  ],
+  "mirroredAt": "2026-10-14T23:46:48.100Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-14T23:42:18.617251+00:00",
-  "lastAutoProcessed": [
-    "ZONES:76"
-  ]
+    "adds": 1
+  }
 }
