@@ -957,12 +957,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12165"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1120,
+      "sid": 1120,
+      "label": "Find my Capital 7165 card to map in Monarch",
+      "uid": "SPIN_WHEEL:1120"
     }
   ],
-  "version": 2876,
-  "updated": "2026-10-14T08:37:57.167075+00:00",
+  "version": 2877,
+  "updated": "2026-10-14T08:48:34.122249+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 73,
     "ZONES": 9,
     "TASKS": 23,
     "COURAGE": 4,
