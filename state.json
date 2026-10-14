@@ -327,39 +327,11 @@
       "uid": "MAINTENANCE:130"
     },
     {
-      "source": "TASKS",
-      "id": 12212,
-      "row": 354,
-      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12212"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 839,
       "row": 9,
       "label": "Fill a grout & caulk bin in garage, and a drywall & mud one",
       "uid": "SPIN:839"
-    },
-    {
-      "source": "TASKS",
-      "id": 10981,
-      "row": 126,
-      "label": "\u2728 Check balance on Matt's work card (1-800-344-5696) \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10981"
     },
     {
       "source": "TASKS",
@@ -393,16 +365,6 @@
       "row": 54,
       "label": "Talk to kids about performing at Christmas",
       "uid": "SPIN:1072"
-    },
-    {
-      "source": "ZONES",
-      "zid": 59,
-      "floor": "Digital",
-      "row": 60,
-      "label": "\ud83d\udcbb Quicken",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Quicken",
-      "uid": "ZONES:59"
     },
     {
       "source": "COURAGE",
@@ -960,10 +922,45 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:11962"
+    },
+    {
+      "source": "ZONES",
+      "zid": 60,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Photos",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Photos",
+      "uid": "ZONES:60"
+    },
+    {
+      "source": "TASKS",
+      "id": 10464,
+      "label": "Help Jake write private lesson email \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10464"
+    },
+    {
+      "source": "TASKS",
+      "id": 12165,
+      "label": "Go through rest of pillows and put them in allergen cases (mine too?)",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12165"
     }
   ],
-  "version": 2875,
-  "updated": "2026-10-14T08:37:17.642222+00:00",
+  "version": 2876,
+  "updated": "2026-10-14T08:37:57.167075+00:00",
   "buckets": {
     "SPIN_WHEEL": 72,
     "ZONES": 9,
