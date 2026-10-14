@@ -963,12 +963,19 @@
       "sid": 1118,
       "label": "Research plane tix",
       "uid": "SPIN_WHEEL:1118"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1119,
+      "sid": 1119,
+      "label": "Research plane tix for Mexico",
+      "uid": "SPIN_WHEEL:1119"
     }
   ],
-  "version": 2870,
-  "updated": "2026-10-14T06:25:37.822995+00:00",
+  "version": 2871,
+  "updated": "2026-10-14T06:26:17.097737+00:00",
   "buckets": {
-    "SPIN_WHEEL": 74,
+    "SPIN_WHEEL": 75,
     "ZONES": 9,
     "TASKS": 22,
     "COURAGE": 4,
