@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-14T09:15:41.905Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1114,
+      "label": "Look at add ons for Morpho",
+      "uid": "SPIN_WHEEL:1114",
+      "_ts": "2026-10-14T09:15:22.477Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "🔥 Three tasks to pay off Morpho from business acct",
+      "_addedAt": "2026-10-14T09:15:50.163Z",
+      "_ts": "2026-10-14T09:15:50.333Z"
+    }
+  ],
+  "mirroredAt": "2026-10-14T09:15:50.616Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-14T09:15:43.152751+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1114"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
