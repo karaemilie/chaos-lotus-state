@@ -732,13 +732,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1092,
-      "sid": 1092,
-      "label": "Ping AYO re leaving early",
-      "uid": "SPIN_WHEEL:1092"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1093,
       "sid": 1093,
       "label": "Swap remarkable with Linc (reset?)",
@@ -880,13 +873,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1112,
-      "sid": 1112,
-      "label": "Pay Matt work card",
-      "uid": "SPIN_WHEEL:1112"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1113,
       "sid": 1113,
       "label": "Hit start on distiller",
@@ -952,10 +938,10 @@
       "uid": "TASKS:12216"
     }
   ],
-  "version": 2862,
-  "updated": "2026-10-14T00:57:03.536534+00:00",
+  "version": 2863,
+  "updated": "2026-10-14T00:57:53.419159+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 70,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "TASKS": 22,
