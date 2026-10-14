@@ -25,15 +25,6 @@
       "uid": "SPIN:988"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 129,
-      "row": 130,
-      "label": "\ud83c\udfe0 Clean a fridge shelf",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Clean a fridge shelf",
-      "uid": "MAINTENANCE:129"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 555,
       "row": 6,
@@ -950,15 +941,23 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:11526"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 131,
+      "label": "\ud83c\udfe0 Dust spray on stair iron",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Dust spray on stair iron",
+      "uid": "MAINTENANCE:131"
     }
   ],
-  "version": 2867,
-  "updated": "2026-10-14T05:30:31.129392+00:00",
+  "version": 2868,
+  "updated": "2026-10-14T05:37:20.941553+00:00",
   "buckets": {
     "SPIN_WHEEL": 72,
     "ZONES": 9,
-    "MAINTENANCE": 2,
     "TASKS": 22,
-    "COURAGE": 4
+    "COURAGE": 4,
+    "MAINTENANCE": 2
   }
 }
