@@ -8,10 +8,26 @@
       "_ts": "2026-10-14T06:40:01.312Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-10-14T06:40:01.576Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Wisdom teeth plan for Genevieve",
+      "_addedAt": "2026-10-14T06:40:10.477Z",
+      "promote": {
+        "fromUid": "SPIN_WHEEL:1115",
+        "sid": 1115,
+        "label": "Wisdom teeth plan for Genevieve",
+        "origLabel": "Wisdom teeth plan for Genevieve",
+        "start": "2026-10-20",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-14T06:40:10.664Z"
+    }
+  ],
+  "mirroredAt": "2026-10-14T06:40:10.906Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
