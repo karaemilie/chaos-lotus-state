@@ -81,20 +81,6 @@
       "uid": "SPIN:1028"
     },
     {
-      "source": "TASKS",
-      "id": 12203,
-      "row": 345,
-      "label": "\u2728 Recharge my twinkle stars \u2728\ud83d\udd0b",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12203"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1031,
       "row": 35,
@@ -778,19 +764,6 @@
       "uid": "SPIN_WHEEL:1101"
     },
     {
-      "source": "TASKS",
-      "id": 11817,
-      "label": "Look at Wittner geared pegs for cello \u2014 see what I think \ud83c\udfbb\ud83d\udd27",
-      "aw": 4,
-      "pri": 3,
-      "dur": 20,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Kids",
-      "critical": false,
-      "uid": "TASKS:11817"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1103,
       "sid": 1103,
@@ -916,19 +889,6 @@
       "uid": "SPIN_WHEEL:1116"
     },
     {
-      "source": "TASKS",
-      "id": 11526,
-      "label": "Check if Affinity for iPad is out \ud83d\udcf1\u270f\ufe0f \ud83d\udcdd",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11526"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 131,
       "label": "\ud83c\udfe0 Dust spray on stair iron",
@@ -949,14 +909,66 @@
       "sid": 1119,
       "label": "Research plane tix for Mexico",
       "uid": "SPIN_WHEEL:1119"
+    },
+    {
+      "source": "TASKS",
+      "id": 12149,
+      "label": "\u2728 Grab the gold candles and charge them \ud83d\udd6f\ufe0f",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12149"
+    },
+    {
+      "source": "TASKS",
+      "id": 12169,
+      "label": "\u2728 Audit spin wheel tasks (keep / edit / convert / delete) \ud83c\udfa1\ud83d\udccb",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12169"
+    },
+    {
+      "source": "TASKS",
+      "id": 12217,
+      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12217"
+    },
+    {
+      "source": "TASKS",
+      "id": 12228,
+      "label": "\u2728 Refill vitamin boxes for Lincoln & Evan \ud83d\udc8a",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:12228"
     }
   ],
-  "version": 2873,
-  "updated": "2026-10-14T06:41:01.685284+00:00",
+  "version": 2874,
+  "updated": "2026-10-14T08:36:17.150585+00:00",
   "buckets": {
     "SPIN_WHEEL": 72,
     "ZONES": 9,
-    "TASKS": 22,
+    "TASKS": 23,
     "COURAGE": 4,
     "MAINTENANCE": 2
   }
