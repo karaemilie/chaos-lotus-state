@@ -8,10 +8,17 @@
       "_ts": "2026-10-14T09:20:23.692Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-10-14T09:20:23.922Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "BENTLEY OTHER PFD FORM",
+      "_addedAt": "2026-10-14T09:20:31.927Z",
+      "_ts": "2026-10-14T09:20:32.572Z"
+    }
+  ],
+  "mirroredAt": "2026-10-14T09:20:32.811Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
