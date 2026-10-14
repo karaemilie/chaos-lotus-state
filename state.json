@@ -957,12 +957,19 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:11526"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1124,
+      "sid": 1124,
+      "label": "Change bag in big robovac",
+      "uid": "SPIN_WHEEL:1124"
     }
   ],
-  "version": 2886,
-  "updated": "2026-10-14T20:46:30.543467+00:00",
+  "version": 2887,
+  "updated": "2026-10-14T23:10:52.147418+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 73,
     "ZONES": 9,
     "TASKS": 23,
     "COURAGE": 4,
