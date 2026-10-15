@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-15T07:10:00.511Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Get $ from Linc for pants",
+      "_addedAt": "2026-10-15T07:10:09.090Z",
+      "_ts": "2026-10-15T07:10:09.210Z"
+    }
+  ],
+  "mirroredAt": "2026-10-15T07:10:09.445Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
