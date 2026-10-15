@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-15T04:51:46.714Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Look at more lamps for music room",
+      "_addedAt": "2026-10-15T07:09:03.291Z",
+      "_ts": "2026-10-15T07:09:03.564Z"
+    }
+  ],
+  "mirroredAt": "2026-10-15T07:09:03.829Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-15T04:51:47.906699+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1104"
-  ]
+    "adds": 1
+  }
 }
