@@ -1,23 +1,25 @@
 {
   "completions": [
     {
-      "source": "TASKS",
-      "id": 12213,
-      "label": "✨ Clear the upstairs trashes",
-      "uid": "TASKS:12213",
-      "_ts": "2026-10-15T00:07:36.973Z"
-    },
-    {
       "source": "ZONES",
       "zid": 61,
       "floor": "Digital",
       "label": "💻 Reviews",
       "uid": "ZONES:61",
       "_ts": "2026-10-15T00:07:45.698Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 87,
+      "zid": 85,
+      "floor": "Personal",
+      "label": "👱‍♀️ Face Mask",
+      "uid": "ZONES:85",
+      "_ts": "2026-10-15T00:07:49.394Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-10-15T00:07:45.986Z",
+  "mirroredAt": "2026-10-15T00:07:52.624Z",
   "counts": {
     "completions": 2,
     "adds": 0
