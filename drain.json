@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-15T07:10:38.864Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Load / try Wordlize",
+      "_addedAt": "2026-10-15T07:31:19.147Z",
+      "_ts": "2026-10-15T07:31:19.706Z"
+    }
+  ],
+  "mirroredAt": "2026-10-15T07:31:20.088Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
