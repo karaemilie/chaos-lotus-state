@@ -53,11 +53,26 @@
       "label": "Put up floral curtains in downstairs office",
       "_addedAt": "2026-10-15T03:11:48.170Z",
       "_ts": "2026-10-15T03:11:48.283Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Put up floral curtains in downstairs office",
+      "_addedAt": "2026-10-15T03:12:03.363Z",
+      "promote": {
+        "fromUid": "PLUS_ADD:Put up floral curtains in downstairs office:2026-10-15T03:11:48.170Z",
+        "sid": null,
+        "label": "Put up floral curtains in downstairs office",
+        "origLabel": "Put up floral curtains in downstairs office",
+        "start": "2026-10-21",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-15T03:12:03.477Z"
     }
   ],
-  "mirroredAt": "2026-10-15T03:11:48.533Z",
+  "mirroredAt": "2026-10-15T03:12:03.732Z",
   "counts": {
     "completions": 1,
-    "adds": 4
+    "adds": 5
   }
 }
