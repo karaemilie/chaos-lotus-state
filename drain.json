@@ -1,9 +1,180 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-15T21:41:58.795Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1130,
+      "label": "List lamp on marketplace",
+      "uid": "SPIN_WHEEL:1130",
+      "_ts": "2026-10-15T21:42:01.910Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ask Mr Levine about rental violas",
+      "_addedAt": "2026-10-15T21:37:18.987Z",
+      "promote": {
+        "fromUid": "SPIN:1125",
+        "sid": 1125,
+        "label": "Ask Mr Levine about rental violas",
+        "origLabel": "Ask Mr Levine about rental violas",
+        "start": "2026-10-19",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-15T21:37:19.345Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Review Evan's bedtime & adjust melatonin timing 😴💊",
+      "_addedAt": "2026-10-15T21:37:47.338Z",
+      "reschedule": {
+        "uid": "TASKS:12067",
+        "id": 12067,
+        "label": "✨ Review Evan's bedtime & adjust melatonin timing 😴💊",
+        "start": "2026-10-18"
+      },
+      "_ts": "2026-10-15T21:37:47.532Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "💸 Check if Affinity for iPad is out 📱✏️ 📝",
+      "_addedAt": "2026-10-15T21:38:02.507Z",
+      "reschedule": {
+        "uid": "TASKS:11526",
+        "id": 11526,
+        "label": "💸 Check if Affinity for iPad is out 📱✏️ 📝",
+        "start": "2026-10-24"
+      },
+      "_ts": "2026-10-15T21:38:02.720Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Tidy up cords by piano",
+      "_addedAt": "2026-10-15T21:38:15.726Z",
+      "promote": {
+        "fromUid": "SPIN:1064",
+        "sid": 1064,
+        "label": "Tidy up cords by piano",
+        "origLabel": "Tidy up cords by piano",
+        "start": "2026-10-21",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-15T21:38:15.909Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Can my ai bot apply to jobs FOR ME",
+      "_addedAt": "2026-10-15T21:38:35.795Z",
+      "promote": {
+        "fromUid": "SPIN:1117",
+        "sid": 1117,
+        "label": "Can my ai bot apply to jobs FOR ME",
+        "origLabel": "Can my ai bot apply to jobs FOR ME",
+        "start": "2026-10-25",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-15T21:38:36.013Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Grab the gold candles and charge them 🕯️",
+      "_addedAt": "2026-10-15T21:38:44.413Z",
+      "reschedule": {
+        "uid": "TASKS:12149",
+        "id": 12149,
+        "label": "✨ Grab the gold candles and charge them 🕯️",
+        "start": "2026-10-17"
+      },
+      "_ts": "2026-10-15T21:38:44.631Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Charge the red candles 🕯️❤️",
+      "_addedAt": "2026-10-15T21:39:31.872Z",
+      "reschedule": {
+        "uid": "TASKS:11994",
+        "id": 11994,
+        "label": "✨ Charge the red candles 🕯️❤️",
+        "start": "2026-10-19"
+      },
+      "_ts": "2026-10-15T21:39:32.203Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Work on kids education planning projects 📚",
+      "_addedAt": "2026-10-15T21:39:43.075Z",
+      "reschedule": {
+        "uid": "TASKS:11987",
+        "id": 11987,
+        "label": "✨ Work on kids education planning projects 📚",
+        "start": "2026-10-18"
+      },
+      "_ts": "2026-10-15T21:39:43.260Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Get Xmind connected",
+      "_addedAt": "2026-10-15T21:40:06.478Z",
+      "promote": {
+        "fromUid": "SPIN:1046",
+        "sid": 1046,
+        "label": "Get Xmind connected",
+        "origLabel": "Get Xmind connected",
+        "start": "2026-10-30",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-15T21:40:06.740Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "⭐ Design decorative door panels for wall cabinet and vanity 📝",
+      "_addedAt": "2026-10-15T21:40:18.259Z",
+      "reschedule": {
+        "uid": "TASKS:10027",
+        "id": 10027,
+        "label": "⭐ Design decorative door panels for wall cabinet and vanity 📝",
+        "start": "2026-10-16"
+      },
+      "_ts": "2026-10-15T21:40:18.441Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Put away some 4th decor",
+      "_addedAt": "2026-10-15T21:40:47.452Z",
+      "promote": {
+        "fromUid": "SPIN:811",
+        "sid": 811,
+        "label": "Put away some 4th decor",
+        "origLabel": "Put away some 4th decor",
+        "start": "2026-10-20",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-15T21:40:47.641Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Deal with downstairs ceiling bulbs",
+      "_addedAt": "2026-10-15T21:41:10.038Z",
+      "promote": {
+        "fromUid": "SPIN:1051",
+        "sid": 1051,
+        "label": "Deal with downstairs ceiling bulbs",
+        "origLabel": "Deal with downstairs ceiling bulbs",
+        "start": "2026-10-28",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-15T21:41:10.273Z"
+    }
+  ],
+  "mirroredAt": "2026-10-15T21:42:02.159Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 12
   }
 }
