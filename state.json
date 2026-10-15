@@ -957,12 +957,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10874"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1128,
+      "sid": 1128,
+      "label": "Put up floral curtains in downstairs office",
+      "uid": "SPIN_WHEEL:1128"
     }
   ],
-  "version": 2904,
-  "updated": "2026-10-15T03:12:15.539372+00:00",
+  "version": 2905,
+  "updated": "2026-10-15T03:12:18.247885+00:00",
   "buckets": {
-    "SPIN_WHEEL": 73,
+    "SPIN_WHEEL": 74,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 23,
