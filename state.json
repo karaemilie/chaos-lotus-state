@@ -351,34 +351,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12043,
-      "row": 277,
-      "label": "\u2728 Mow the lawn \ud83c\udf31",
-      "aw": 3,
-      "pri": 3,
-      "dur": 45,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12043"
-    },
-    {
-      "source": "TASKS",
-      "id": 12172,
-      "row": 319,
-      "label": "\u2728 Update school lists for Lincoln & Evan",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12172"
-    },
-    {
-      "source": "TASKS",
       "id": 12067,
       "row": 281,
       "label": "\u2728 Review Evan's bedtime & adjust melatonin timing \ud83d\ude34\ud83d\udc8a",
@@ -966,10 +938,36 @@
       "cat": "Family/Education",
       "critical": false,
       "uid": "TASKS:11957"
+    },
+    {
+      "source": "TASKS",
+      "id": 12092,
+      "label": "5 minutes in Custom Cut Software \u23f1\ufe0f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12092"
+    },
+    {
+      "source": "TASKS",
+      "id": 10874,
+      "label": "Ponder stepping up Evan's nutrition plan (sleep routine first, then food) \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10874"
     }
   ],
-  "version": 2902,
-  "updated": "2026-10-15T03:10:52.235296+00:00",
+  "version": 2903,
+  "updated": "2026-10-15T03:11:35.204500+00:00",
   "buckets": {
     "SPIN_WHEEL": 74,
     "ZONES": 9,
