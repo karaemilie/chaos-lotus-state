@@ -1,31 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "TASKS",
-      "id": 12194,
-      "row": 337,
-      "label": "✨ Put on new tattoo",
-      "uid": "TASKS:12194",
-      "_ts": "2026-10-15T03:08:04.915Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "✨ Set up teeth cleanings 🦷🪥",
-      "_addedAt": "2026-10-15T03:08:33.137Z",
-      "reschedule": {
-        "uid": "TASKS:12058",
-        "id": 12058,
-        "label": "✨ Set up teeth cleanings 🦷🪥",
-        "start": "2026-10-19"
-      },
-      "_ts": "2026-10-15T03:08:33.290Z"
-    }
-  ],
-  "mirroredAt": "2026-10-15T03:08:33.549Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-10-15T03:08:52.373Z",
   "counts": {
-    "completions": 1,
-    "adds": 1
+    "completions": 0,
+    "adds": 0
   }
 }
