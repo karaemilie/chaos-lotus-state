@@ -92,13 +92,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1089,
-      "row": 46,
-      "label": "Clear space or upgrade Google storage (b4 11/1)",
-      "uid": "SPIN:1089"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1074,
       "row": 39,
       "label": "Look at parents budget :/",
@@ -892,10 +885,10 @@
       "uid": "TASKS:10913"
     }
   ],
-  "version": 2935,
-  "updated": "2026-10-15T21:45:49.671699+00:00",
+  "version": 2936,
+  "updated": "2026-10-15T21:46:38.699584+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "ZONES": 7,
     "COURAGE": 4,
     "TASKS": 22,
