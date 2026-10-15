@@ -1,9 +1,37 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-15T03:10:53.629Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Talk to kids about performing at Christmas",
+      "_addedAt": "2026-10-15T03:10:36.732Z",
+      "promote": {
+        "fromUid": "SPIN:1072",
+        "sid": 1072,
+        "label": "Talk to kids about performing at Christmas",
+        "origLabel": "Talk to kids about performing at Christmas",
+        "start": "2026-10-17",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-15T03:10:36.851Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Mow the lawn 🌱",
+      "_addedAt": "2026-10-15T03:11:06.818Z",
+      "reschedule": {
+        "uid": "TASKS:12043",
+        "id": 12043,
+        "label": "✨ Mow the lawn 🌱",
+        "start": "2027-05-12"
+      },
+      "_ts": "2026-10-15T03:11:07.109Z"
+    }
+  ],
+  "mirroredAt": "2026-10-15T03:11:07.359Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
