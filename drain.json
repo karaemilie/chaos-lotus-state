@@ -1,114 +1,6 @@
 {
-  "completions": [
-    {
-      "source": "TASKS",
-      "id": 12169,
-      "row": 315,
-      "label": "✨ Audit spin wheel tasks (keep / edit / convert / delete) 🎡📋",
-      "uid": "TASKS:12169",
-      "_ts": "2026-10-15T21:44:42.903Z"
-    }
-  ],
+  "completions": [],
   "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Brainstorm good community service focuses for ALL kids 📝",
-      "_addedAt": "2026-10-15T21:43:25.245Z",
-      "reschedule": {
-        "uid": "TASKS:10181",
-        "id": 10181,
-        "label": "Brainstorm good community service focuses for ALL kids 📝",
-        "start": "2026-10-23"
-      },
-      "_ts": "2026-10-15T21:43:25.454Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Jake - trumpet - want a new one? :)",
-      "_addedAt": "2026-10-15T21:43:34.312Z",
-      "reschedule": {
-        "uid": "TASKS:10526",
-        "id": 10526,
-        "label": "Jake - trumpet - want a new one? :)",
-        "start": "2026-11-18"
-      },
-      "_ts": "2026-10-15T21:43:34.614Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Look into Jake study abroad for a semester",
-      "_addedAt": "2026-10-15T21:43:41.997Z",
-      "reschedule": {
-        "uid": "TASKS:11124",
-        "id": 11124,
-        "label": "Look into Jake study abroad for a semester",
-        "start": "2026-10-24"
-      },
-      "_ts": "2026-10-15T21:43:42.187Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Call Katie",
-      "_addedAt": "2026-10-15T21:43:56.566Z",
-      "reschedule": {
-        "uid": "TASKS:12186",
-        "id": 12186,
-        "label": "Call Katie",
-        "start": "2026-10-25"
-      },
-      "_ts": "2026-10-15T21:43:56.759Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Finish fixing sand table",
-      "_addedAt": "2026-10-15T21:44:05.185Z",
-      "reschedule": {
-        "uid": "TASKS:11421",
-        "id": 11421,
-        "label": "Finish fixing sand table",
-        "start": "2026-10-20"
-      },
-      "_ts": "2026-10-15T21:44:05.371Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Ask Evan how much I owe him",
-      "_addedAt": "2026-10-15T21:44:11.736Z",
-      "reschedule": {
-        "uid": "TASKS:12178",
-        "id": 12178,
-        "label": "Ask Evan how much I owe him",
-        "start": "2026-10-22"
-      },
-      "_ts": "2026-10-15T21:44:11.968Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "✨ 🕯️ Replace batteries in all wax LED candles",
-      "_addedAt": "2026-10-15T21:44:51.375Z",
-      "reschedule": {
-        "uid": "TASKS:11688",
-        "id": 11688,
-        "label": "✨ 🕯️ Replace batteries in all wax LED candles",
-        "start": "2026-10-18"
-      },
-      "_ts": "2026-10-15T21:44:51.602Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Find all Genevieve recital videos (check windows machine downloads and Google Drive)",
-      "_addedAt": "2026-10-15T21:45:23.131Z",
-      "promote": {
-        "fromUid": "SPIN:1116",
-        "sid": 1116,
-        "label": "Find all Genevieve recital videos (check windows machine downloads and Google Drive)",
-        "origLabel": "Find all Genevieve recital videos (check windows machine downloads and Google Drive)",
-        "start": "2026-10-26",
-        "category": "Home",
-        "aw": 4
-      },
-      "_ts": "2026-10-15T21:45:23.352Z"
-    },
     {
       "source": "PLUS_ADD",
       "label": "Clear space or upgrade Google storage (b4 11/1)",
@@ -125,9 +17,9 @@
       "_ts": "2026-10-15T21:45:34.457Z"
     }
   ],
-  "mirroredAt": "2026-10-15T21:45:34.711Z",
+  "mirroredAt": "2026-10-15T21:45:53.333Z",
   "counts": {
-    "completions": 1,
-    "adds": 9
+    "completions": 0,
+    "adds": 1
   }
 }
