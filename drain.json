@@ -1,5 +1,20 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 64,
+      "label": "Verify needed leaded time for Subaru",
+      "uid": "SPIN:1111",
+      "_ts": "2026-10-15T21:38:56.344Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 54,
+      "label": "Find Red Rising book for Matt",
+      "uid": "SPIN:1100",
+      "_ts": "2026-10-15T21:39:50.720Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -107,9 +122,9 @@
       "_ts": "2026-10-15T21:39:43.260Z"
     }
   ],
-  "mirroredAt": "2026-10-15T21:39:45.003Z",
+  "mirroredAt": "2026-10-15T21:39:50.985Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 8
   }
 }
