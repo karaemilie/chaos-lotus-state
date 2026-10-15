@@ -22,10 +22,23 @@
       "_ts": "2026-10-15T21:42:11.815Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-10-15T21:42:12.093Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Mock up how to MAKE triangular bins for bathroom 🛁🔨",
+      "_addedAt": "2026-10-15T21:42:23.884Z",
+      "reschedule": {
+        "uid": "TASKS:11038",
+        "id": 11038,
+        "label": "Mock up how to MAKE triangular bins for bathroom 🛁🔨",
+        "start": "2026-11-16"
+      },
+      "_ts": "2026-10-15T21:42:24.091Z"
+    }
+  ],
+  "mirroredAt": "2026-10-15T21:42:24.343Z",
   "counts": {
     "completions": 3,
-    "adds": 0
+    "adds": 1
   }
 }
