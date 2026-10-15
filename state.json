@@ -16,13 +16,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1125,
-      "row": 72,
-      "label": "Ask Mr Levine about rental violas",
-      "uid": "SPIN:1125"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1054,
       "row": 31,
       "label": "Send Genevieve piggy bank app",
@@ -41,20 +34,6 @@
       "row": 12,
       "label": "Try mineral spirits on grey table",
       "uid": "SPIN:923"
-    },
-    {
-      "source": "TASKS",
-      "id": 11124,
-      "row": 139,
-      "label": "\u2b50 Look into Jake study abroad for a semester",
-      "aw": 5,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11124"
     },
     {
       "source": "SPIN_WHEEL",
@@ -175,20 +154,6 @@
       "uid": "ZONES:53"
     },
     {
-      "source": "TASKS",
-      "id": 10080,
-      "row": 16,
-      "label": "\u2b50 Fix humidity sensor tag for music room",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": "Home Maintenance",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10080"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1089,
       "row": 46,
@@ -218,20 +183,6 @@
       "row": 35,
       "label": "Tidy up cords by piano",
       "uid": "SPIN:1064"
-    },
-    {
-      "source": "TASKS",
-      "id": 11901,
-      "row": 235,
-      "label": "\u2b50 Work on painting stair iron \ud83c\udfa8",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11901"
     },
     {
       "source": "ZONES",
@@ -350,20 +301,6 @@
       "uid": "SPIN:1109"
     },
     {
-      "source": "TASKS",
-      "id": 10659,
-      "row": 105,
-      "label": "\u2b50 Get Lincoln's four year plan together \ud83d\udccb\ud83c\udfaf",
-      "aw": 3,
-      "pri": "High",
-      "dur": 45,
-      "ml": null,
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10659"
-    },
-    {
       "source": "ZONES",
       "zid": 4,
       "floor": "Upstairs",
@@ -439,20 +376,6 @@
       "uid": "SPIN:1097"
     },
     {
-      "source": "TASKS",
-      "id": 10264,
-      "row": 62,
-      "label": "\u2b50 Check on laser air vent",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10264"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1122,
       "row": 69,
@@ -510,20 +433,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10122,
-      "row": 24,
-      "label": "\u2b50 Get TV off school room wall",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": "School Room Organization",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10122"
-    },
-    {
-      "source": "TASKS",
       "id": 12195,
       "row": 334,
       "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
@@ -535,20 +444,6 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:12195"
-    },
-    {
-      "source": "TASKS",
-      "id": 12168,
-      "row": 314,
-      "label": "\u2b50 Install auto start-stop eliminator in the Subaru \ud83d\ude97\ud83d\udd27",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12168"
     },
     {
       "source": "TASKS",
@@ -1001,13 +896,104 @@
       "sid": 1139,
       "label": "Send our tax sig form",
       "uid": "SPIN_WHEEL:1139"
+    },
+    {
+      "source": "TASKS",
+      "id": 11967,
+      "label": "\u2728 Cancel ultraviner $15/month if not using",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:11967"
+    },
+    {
+      "source": "TASKS",
+      "id": 11973,
+      "label": "\u2728 Cancel GAlarm?",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:11973"
+    },
+    {
+      "source": "TASKS",
+      "id": 12115,
+      "label": "\u2728 Downgrade Hulu to ads plan if not using",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12115"
+    },
+    {
+      "source": "TASKS",
+      "id": 12119,
+      "label": "\u2728 Cancel Khanmigo if not using",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12119"
+    },
+    {
+      "source": "TASKS",
+      "id": 12179,
+      "label": "\u2728 Put away window planter boxes for winter \ud83e\udeb4\u2744\ufe0f",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 30,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12179"
+    },
+    {
+      "source": "TASKS",
+      "id": 12238,
+      "label": "\u2728 Spend time on flower bouquet coding project",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": "Bouquet Tracker",
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12238"
+    },
+    {
+      "source": "TASKS",
+      "id": 12245,
+      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12245"
     }
   ],
-  "version": 2923,
-  "updated": "2026-10-15T20:42:01.878585+00:00",
+  "version": 2924,
+  "updated": "2026-10-15T21:37:31.818985+00:00",
   "buckets": {
     "TASKS": 22,
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 80,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
