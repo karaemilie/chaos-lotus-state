@@ -1,9 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-15T07:53:15.190Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 20,
+      "label": "File Bentley taxes",
+      "uid": "SPIN:1023",
+      "_ts": "2026-10-15T07:54:01.453Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send tax sig pages to Denali Consulting",
+      "_addedAt": "2026-10-15T07:53:01.261Z",
+      "_ts": "2026-10-15T07:53:01.855Z"
+    }
+  ],
+  "mirroredAt": "2026-10-15T07:54:01.782Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
