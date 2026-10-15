@@ -6,12 +6,20 @@
       "label": "✨ Clear the upstairs trashes",
       "uid": "TASKS:12213",
       "_ts": "2026-10-15T00:07:36.973Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 61,
+      "floor": "Digital",
+      "label": "💻 Reviews",
+      "uid": "ZONES:61",
+      "_ts": "2026-10-15T00:07:45.698Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-10-15T00:07:37.242Z",
+  "mirroredAt": "2026-10-15T00:07:45.986Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
