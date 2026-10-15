@@ -16,13 +16,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1054,
-      "row": 31,
-      "label": "Send Genevieve piggy bank app",
-      "uid": "SPIN:1054"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 4,
       "label": "Compare birch pieces to diagram",
@@ -100,27 +93,6 @@
       "row": 24,
       "label": "Review Bio class progress with Linc",
       "uid": "SPIN:1031"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1060,
-      "row": 33,
-      "label": "Send Jake the other few internship listings **",
-      "uid": "SPIN:1060"
-    },
-    {
-      "source": "TASKS",
-      "id": 12067,
-      "row": 279,
-      "label": "\u2728 Review Evan's bedtime & adjust melatonin timing \ud83d\ude34\ud83d\udc8a",
-      "aw": 6,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": null,
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:12067"
     },
     {
       "source": "SPIN_WHEEL",
@@ -987,13 +959,26 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12245"
+    },
+    {
+      "source": "TASKS",
+      "id": 12180,
+      "label": "Book follow-up with Dr. Grendel \ud83e\ude7a\ud83d\udcde",
+      "aw": 4,
+      "pri": "High",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12180"
     }
   ],
-  "version": 2924,
-  "updated": "2026-10-15T21:37:31.818985+00:00",
+  "version": 2925,
+  "updated": "2026-10-15T21:38:19.077651+00:00",
   "buckets": {
     "TASKS": 22,
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 78,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
