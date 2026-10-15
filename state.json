@@ -365,13 +365,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1043,
-      "row": 41,
-      "label": "Move my floral curtains to downstairs office!",
-      "uid": "SPIN:1043"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1012,
       "row": 26,
       "label": "Write Bentley back about concert",
@@ -966,10 +959,10 @@
       "uid": "TASKS:10874"
     }
   ],
-  "version": 2903,
-  "updated": "2026-10-15T03:11:35.204500+00:00",
+  "version": 2904,
+  "updated": "2026-10-15T03:12:15.539372+00:00",
   "buckets": {
-    "SPIN_WHEEL": 74,
+    "SPIN_WHEEL": 73,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 23,
