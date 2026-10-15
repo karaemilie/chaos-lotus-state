@@ -54,11 +54,26 @@
         "start": "2026-10-24"
       },
       "_ts": "2026-10-15T21:38:02.720Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Tidy up cords by piano",
+      "_addedAt": "2026-10-15T21:38:15.726Z",
+      "promote": {
+        "fromUid": "SPIN:1064",
+        "sid": 1064,
+        "label": "Tidy up cords by piano",
+        "origLabel": "Tidy up cords by piano",
+        "start": "2026-10-21",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-15T21:38:15.909Z"
     }
   ],
-  "mirroredAt": "2026-10-15T21:38:02.992Z",
+  "mirroredAt": "2026-10-15T21:38:16.219Z",
   "counts": {
     "completions": 2,
-    "adds": 3
+    "adds": 4
   }
 }
