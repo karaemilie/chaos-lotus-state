@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-15T20:11:16.814Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Bentley Thanksgiving",
+      "_addedAt": "2026-10-15T20:41:06.169Z",
+      "_ts": "2026-10-15T20:41:06.560Z"
+    }
+  ],
+  "mirroredAt": "2026-10-15T20:41:06.718Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
