@@ -208,13 +208,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1111,
-      "row": 64,
-      "label": "Verify needed leaded time for Subaru",
-      "uid": "SPIN:1111"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1120,
       "row": 68,
       "label": "Find my Capital 7165 card to map in Monarch",
@@ -962,11 +955,11 @@
       "uid": "TASKS:12174"
     }
   ],
-  "version": 2926,
-  "updated": "2026-10-15T21:39:05.350360+00:00",
+  "version": 2927,
+  "updated": "2026-10-15T21:39:43.300509+00:00",
   "buckets": {
     "TASKS": 22,
-    "SPIN_WHEEL": 76,
+    "SPIN_WHEEL": 75,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
