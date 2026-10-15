@@ -724,19 +724,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10181,
-      "label": "Brainstorm good community service focuses for ALL kids \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": "Community Service",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10181"
-    },
-    {
-      "source": "TASKS",
       "id": 12174,
       "label": "Get Bentley miles for cello",
       "aw": 5,
@@ -760,32 +747,6 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:11896"
-    },
-    {
-      "source": "TASKS",
-      "id": 10526,
-      "label": "Jake - trumpet - want a new one? :)",
-      "aw": 6,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10526"
-    },
-    {
-      "source": "TASKS",
-      "id": 11124,
-      "label": "Look into Jake study abroad for a semester",
-      "aw": 5,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11124"
     },
     {
       "source": "ZONES",
@@ -821,19 +782,6 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10173"
-    },
-    {
-      "source": "TASKS",
-      "id": 12186,
-      "label": "Call Katie",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:12186"
     },
     {
       "source": "TASKS",
@@ -899,10 +847,62 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:12178"
+    },
+    {
+      "source": "TASKS",
+      "id": 12205,
+      "label": "Look at how to choose assignments in Prep Median",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12205"
+    },
+    {
+      "source": "TASKS",
+      "id": 12092,
+      "label": "5 minutes in Custom Cut Software \u23f1\ufe0f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12092"
+    },
+    {
+      "source": "TASKS",
+      "id": 11948,
+      "label": "Clean bedroom windows \ud83e\ude9f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11948"
+    },
+    {
+      "source": "TASKS",
+      "id": 10198,
+      "label": "Review notes from convo with Linai's Dad about WWAMI",
+      "aw": 4,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": "Bentley Med School",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10198"
     }
   ],
-  "version": 2932,
-  "updated": "2026-10-15T21:43:30.335769+00:00",
+  "version": 2933,
+  "updated": "2026-10-15T21:44:13.818386+00:00",
   "buckets": {
     "TASKS": 22,
     "SPIN_WHEEL": 68,
