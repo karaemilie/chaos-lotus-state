@@ -7,6 +7,15 @@
       "label": "✨ Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) 🧼",
       "uid": "TASKS:12216",
       "_ts": "2026-10-15T21:40:54.200Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 89,
+      "zid": 87,
+      "floor": "Personal",
+      "label": "👱‍♀️ Eyebrows",
+      "uid": "ZONES:87",
+      "_ts": "2026-10-15T21:40:59.649Z"
     }
   ],
   "adds": [
@@ -158,9 +167,9 @@
       "_ts": "2026-10-15T21:40:47.641Z"
     }
   ],
-  "mirroredAt": "2026-10-15T21:40:54.462Z",
+  "mirroredAt": "2026-10-15T21:41:00.001Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 11
   }
 }
