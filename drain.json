@@ -1,18 +1,12 @@
 {
   "completions": [
     {
-      "source": "SPIN_WHEEL",
-      "row": 64,
-      "label": "Verify needed leaded time for Subaru",
-      "uid": "SPIN:1111",
-      "_ts": "2026-10-15T21:38:56.344Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 54,
-      "label": "Find Red Rising book for Matt",
-      "uid": "SPIN:1100",
-      "_ts": "2026-10-15T21:39:50.720Z"
+      "source": "TASKS",
+      "id": 12216,
+      "row": 349,
+      "label": "✨ Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) 🧼",
+      "uid": "TASKS:12216",
+      "_ts": "2026-10-15T21:40:54.200Z"
     }
   ],
   "adds": [
@@ -164,9 +158,9 @@
       "_ts": "2026-10-15T21:40:47.641Z"
     }
   ],
-  "mirroredAt": "2026-10-15T21:40:47.996Z",
+  "mirroredAt": "2026-10-15T21:40:54.462Z",
   "counts": {
-    "completions": 2,
+    "completions": 1,
     "adds": 11
   }
 }
