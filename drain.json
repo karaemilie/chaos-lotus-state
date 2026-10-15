@@ -27,11 +27,23 @@
         "start": "2027-05-12"
       },
       "_ts": "2026-10-15T03:11:07.109Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Update school lists for Lincoln & Evan",
+      "_addedAt": "2026-10-15T03:11:19.652Z",
+      "reschedule": {
+        "uid": "TASKS:12172",
+        "id": 12172,
+        "label": "✨ Update school lists for Lincoln & Evan",
+        "start": "2026-10-18"
+      },
+      "_ts": "2026-10-15T03:11:19.770Z"
     }
   ],
-  "mirroredAt": "2026-10-15T03:11:07.359Z",
+  "mirroredAt": "2026-10-15T03:11:20.016Z",
   "counts": {
     "completions": 0,
-    "adds": 2
+    "adds": 3
   }
 }
