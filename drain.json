@@ -1,13 +1,5 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 64,
-      "label": "Verify needed leaded time for Subaru",
-      "uid": "SPIN:1111",
-      "_ts": "2026-10-15T21:38:56.344Z"
-    }
-  ],
+  "completions": [],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -101,11 +93,23 @@
         "start": "2026-10-19"
       },
       "_ts": "2026-10-15T21:39:32.203Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Work on kids education planning projects 📚",
+      "_addedAt": "2026-10-15T21:39:43.075Z",
+      "reschedule": {
+        "uid": "TASKS:11987",
+        "id": 11987,
+        "label": "✨ Work on kids education planning projects 📚",
+        "start": "2026-10-18"
+      },
+      "_ts": "2026-10-15T21:39:43.260Z"
     }
   ],
-  "mirroredAt": "2026-10-15T21:39:32.456Z",
+  "mirroredAt": "2026-10-15T21:39:45.003Z",
   "counts": {
-    "completions": 1,
-    "adds": 7
+    "completions": 0,
+    "adds": 8
   }
 }
