@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 31,
+      "label": "Send Genevieve piggy bank app",
+      "uid": "SPIN:1054",
+      "_ts": "2026-10-15T21:37:22.492Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -17,9 +25,9 @@
       "_ts": "2026-10-15T21:37:19.345Z"
     }
   ],
-  "mirroredAt": "2026-10-15T21:37:19.880Z",
+  "mirroredAt": "2026-10-15T21:37:22.769Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
