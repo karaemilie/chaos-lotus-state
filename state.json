@@ -830,13 +830,6 @@
       "uid": "SPIN:1023"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1104,
-      "row": 57,
-      "label": "Move xls docs to green Neo!",
-      "uid": "SPIN:1104"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10187,
       "parentRow": 46,
@@ -948,11 +941,11 @@
       "uid": "SPIN_WHEEL:1128"
     }
   ],
-  "version": 2910,
-  "updated": "2026-10-15T03:59:12.633695+00:00",
+  "version": 2911,
+  "updated": "2026-10-15T04:51:45.352863+00:00",
   "buckets": {
     "TASKS": 22,
-    "SPIN_WHEEL": 73,
+    "SPIN_WHEEL": 72,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
