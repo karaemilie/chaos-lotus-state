@@ -103,11 +103,23 @@
         "start": "2026-10-20"
       },
       "_ts": "2026-10-15T21:44:05.371Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Ask Evan how much I owe him",
+      "_addedAt": "2026-10-15T21:44:11.736Z",
+      "reschedule": {
+        "uid": "TASKS:12178",
+        "id": 12178,
+        "label": "Ask Evan how much I owe him",
+        "start": "2026-10-22"
+      },
+      "_ts": "2026-10-15T21:44:11.968Z"
     }
   ],
-  "mirroredAt": "2026-10-15T21:44:05.629Z",
+  "mirroredAt": "2026-10-15T21:44:12.262Z",
   "counts": {
     "completions": 6,
-    "adds": 5
+    "adds": 6
   }
 }
