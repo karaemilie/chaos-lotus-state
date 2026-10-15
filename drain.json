@@ -84,11 +84,23 @@
         "aw": 4
       },
       "_ts": "2026-10-15T21:38:36.013Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Grab the gold candles and charge them 🕯️",
+      "_addedAt": "2026-10-15T21:38:44.413Z",
+      "reschedule": {
+        "uid": "TASKS:12149",
+        "id": 12149,
+        "label": "✨ Grab the gold candles and charge them 🕯️",
+        "start": "2026-10-17"
+      },
+      "_ts": "2026-10-15T21:38:44.631Z"
     }
   ],
-  "mirroredAt": "2026-10-15T21:38:36.275Z",
+  "mirroredAt": "2026-10-15T21:38:44.897Z",
   "counts": {
     "completions": 2,
-    "adds": 5
+    "adds": 6
   }
 }
