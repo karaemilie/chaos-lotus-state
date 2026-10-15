@@ -291,13 +291,6 @@
       "uid": "SPIN:1117"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1037,
-      "row": 27,
-      "label": "Music Room Panels",
-      "uid": "SPIN:1037"
-    },
-    {
       "source": "TASKS",
       "id": 12149,
       "row": 303,
@@ -948,11 +941,11 @@
       "uid": "SPIN_WHEEL:1129"
     }
   ],
-  "version": 2912,
-  "updated": "2026-10-15T07:09:19.362857+00:00",
+  "version": 2913,
+  "updated": "2026-10-15T07:09:59.090364+00:00",
   "buckets": {
     "TASKS": 22,
-    "SPIN_WHEEL": 73,
+    "SPIN_WHEEL": 72,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
