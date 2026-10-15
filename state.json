@@ -953,13 +953,20 @@
       "sid": 1131,
       "label": "List side table on marketplace",
       "uid": "SPIN_WHEEL:1131"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1132,
+      "sid": 1132,
+      "label": "Get $ from Linc for pants",
+      "uid": "SPIN_WHEEL:1132"
     }
   ],
-  "version": 2914,
-  "updated": "2026-10-15T07:10:01.780572+00:00",
+  "version": 2915,
+  "updated": "2026-10-15T07:10:40.185147+00:00",
   "buckets": {
     "TASKS": 22,
-    "SPIN_WHEEL": 74,
+    "SPIN_WHEEL": 75,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
