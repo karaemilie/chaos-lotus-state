@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-15T07:54:58.158Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Mix more shake blend",
+      "_addedAt": "2026-10-15T19:43:19.275Z",
+      "_ts": "2026-10-15T19:43:19.409Z"
+    }
+  ],
+  "mirroredAt": "2026-10-15T19:43:19.698Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-15T07:54:59.168474+00:00",
-  "lastAutoProcessed": [
-    "TASKS:10454"
-  ]
+    "adds": 1
+  }
 }
