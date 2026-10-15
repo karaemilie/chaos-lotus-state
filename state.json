@@ -628,13 +628,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1051,
-      "row": 30,
-      "label": "Deal with downstairs ceiling bulbs",
-      "uid": "SPIN:1051"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1099,
       "row": 53,
       "label": "Update Google password!",
@@ -929,11 +922,11 @@
       "uid": "TASKS:10014"
     }
   ],
-  "version": 2929,
-  "updated": "2026-10-15T21:41:15.360080+00:00",
+  "version": 2930,
+  "updated": "2026-10-15T21:41:57.381632+00:00",
   "buckets": {
     "TASKS": 22,
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 71,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
