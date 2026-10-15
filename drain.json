@@ -8,10 +8,56 @@
       "_ts": "2026-10-15T03:11:31.678Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-10-15T03:11:36.817Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Talk to kids about performing at Christmas",
+      "_addedAt": "2026-10-15T03:10:36.732Z",
+      "promote": {
+        "fromUid": "SPIN:1072",
+        "sid": 1072,
+        "label": "Talk to kids about performing at Christmas",
+        "origLabel": "Talk to kids about performing at Christmas",
+        "start": "2026-10-17",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-15T03:10:36.851Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Mow the lawn 🌱",
+      "_addedAt": "2026-10-15T03:11:06.818Z",
+      "reschedule": {
+        "uid": "TASKS:12043",
+        "id": 12043,
+        "label": "✨ Mow the lawn 🌱",
+        "start": "2027-05-12"
+      },
+      "_ts": "2026-10-15T03:11:07.109Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Update school lists for Lincoln & Evan",
+      "_addedAt": "2026-10-15T03:11:19.652Z",
+      "reschedule": {
+        "uid": "TASKS:12172",
+        "id": 12172,
+        "label": "✨ Update school lists for Lincoln & Evan",
+        "start": "2026-10-18"
+      },
+      "_ts": "2026-10-15T03:11:19.770Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Put up floral curtains in downstairs office",
+      "_addedAt": "2026-10-15T03:11:48.170Z",
+      "_ts": "2026-10-15T03:11:48.283Z"
+    }
+  ],
+  "mirroredAt": "2026-10-15T03:11:48.533Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 4
   }
 }
