@@ -13,12 +13,19 @@
       "label": "List side table on marketplace",
       "uid": "SPIN_WHEEL:1131",
       "_ts": "2026-10-15T21:42:05.224Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1139,
+      "label": "Send our tax sig form",
+      "uid": "SPIN_WHEEL:1139",
+      "_ts": "2026-10-15T21:42:11.815Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-10-15T21:42:05.548Z",
+  "mirroredAt": "2026-10-15T21:42:12.093Z",
   "counts": {
-    "completions": 2,
+    "completions": 3,
     "adds": 0
   }
 }
