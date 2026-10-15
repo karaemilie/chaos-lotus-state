@@ -1,5 +1,48 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 11973,
+      "label": "✨ Cancel GAlarm?",
+      "uid": "TASKS:11973",
+      "_ts": "2026-10-15T21:42:30.269Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12245,
+      "label": "✨ Use Claude budget on new projects or app feature development 🧠⏳ 📝",
+      "uid": "TASKS:12245",
+      "_ts": "2026-10-15T21:42:56.520Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12238,
+      "label": "✨ Spend time on flower bouquet coding project",
+      "uid": "TASKS:12238",
+      "_ts": "2026-10-15T21:42:59.211Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12179,
+      "label": "✨ Put away window planter boxes for winter 🪴❄️",
+      "uid": "TASKS:12179",
+      "_ts": "2026-10-15T21:43:03.973Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12119,
+      "label": "✨ Cancel Khanmigo if not using",
+      "uid": "TASKS:12119",
+      "_ts": "2026-10-15T21:43:09.286Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12115,
+      "label": "✨ Downgrade Hulu to ads plan if not using",
+      "uid": "TASKS:12115",
+      "_ts": "2026-10-15T21:43:15.855Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -12,11 +55,35 @@
         "start": "2026-10-23"
       },
       "_ts": "2026-10-15T21:43:25.454Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Jake - trumpet - want a new one? :)",
+      "_addedAt": "2026-10-15T21:43:34.312Z",
+      "reschedule": {
+        "uid": "TASKS:10526",
+        "id": 10526,
+        "label": "Jake - trumpet - want a new one? :)",
+        "start": "2026-11-18"
+      },
+      "_ts": "2026-10-15T21:43:34.614Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Look into Jake study abroad for a semester",
+      "_addedAt": "2026-10-15T21:43:41.997Z",
+      "reschedule": {
+        "uid": "TASKS:11124",
+        "id": 11124,
+        "label": "Look into Jake study abroad for a semester",
+        "start": "2026-10-24"
+      },
+      "_ts": "2026-10-15T21:43:42.187Z"
     }
   ],
-  "mirroredAt": "2026-10-15T21:43:34.356Z",
+  "mirroredAt": "2026-10-15T21:43:42.458Z",
   "counts": {
-    "completions": 0,
-    "adds": 1
+    "completions": 6,
+    "adds": 3
   }
 }
