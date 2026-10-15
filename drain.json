@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 41,
+      "label": "Move my floral curtains to downstairs office!",
+      "uid": "SPIN:1043",
+      "_ts": "2026-10-15T03:11:31.678Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -41,9 +49,9 @@
       "_ts": "2026-10-15T03:11:19.770Z"
     }
   ],
-  "mirroredAt": "2026-10-15T03:11:20.016Z",
+  "mirroredAt": "2026-10-15T03:11:31.909Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 3
   }
 }
