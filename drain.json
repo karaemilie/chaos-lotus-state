@@ -91,11 +91,23 @@
         "start": "2026-10-25"
       },
       "_ts": "2026-10-15T21:43:56.759Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Finish fixing sand table",
+      "_addedAt": "2026-10-15T21:44:05.185Z",
+      "reschedule": {
+        "uid": "TASKS:11421",
+        "id": 11421,
+        "label": "Finish fixing sand table",
+        "start": "2026-10-20"
+      },
+      "_ts": "2026-10-15T21:44:05.371Z"
     }
   ],
-  "mirroredAt": "2026-10-15T21:43:57.037Z",
+  "mirroredAt": "2026-10-15T21:44:05.629Z",
   "counts": {
     "completions": 6,
-    "adds": 4
+    "adds": 5
   }
 }
