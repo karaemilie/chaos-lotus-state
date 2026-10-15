@@ -140,23 +140,6 @@
       "uid": "SPIN:1074"
     },
     {
-      "source": "TASKS",
-      "id": 11526,
-      "row": 172,
-      "label": "\ud83d\udcb8 Check if Affinity for iPad is out \ud83d\udcf1\u270f\ufe0f \ud83d\udcdd",
-      "emoji": "\ud83d\udcb8",
-      "aw": 7,
-      "specialZone": "Business",
-      "uid": "TASKS:11526"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1064,
-      "row": 35,
-      "label": "Tidy up cords by piano",
-      "uid": "SPIN:1064"
-    },
-    {
       "source": "ZONES",
       "zid": 39,
       "floor": "Main Floor",
@@ -191,27 +174,6 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:12185"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1117,
-      "row": 66,
-      "label": "Can my ai bot apply to jobs FOR ME",
-      "uid": "SPIN:1117"
-    },
-    {
-      "source": "TASKS",
-      "id": 12149,
-      "row": 303,
-      "label": "\u2728 Grab the gold candles and charge them \ud83d\udd6f\ufe0f",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12149"
     },
     {
       "source": "SPIN_WHEEL",
@@ -972,13 +934,39 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12180"
+    },
+    {
+      "source": "TASKS",
+      "id": 10181,
+      "label": "Brainstorm good community service focuses for ALL kids \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "Community Service",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10181"
+    },
+    {
+      "source": "TASKS",
+      "id": 12174,
+      "label": "Get Bentley miles for cello",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12174"
     }
   ],
-  "version": 2925,
-  "updated": "2026-10-15T21:38:19.077651+00:00",
+  "version": 2926,
+  "updated": "2026-10-15T21:39:05.350360+00:00",
   "buckets": {
     "TASKS": 22,
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 76,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
