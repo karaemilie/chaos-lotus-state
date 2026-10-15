@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-15T00:09:20.072Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Check we got PFDs???",
+      "_addedAt": "2026-10-15T01:11:46.192Z",
+      "_ts": "2026-10-15T01:11:46.328Z"
+    }
+  ],
+  "mirroredAt": "2026-10-15T01:11:46.584Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-15T00:09:21.116918+00:00",
-  "lastAutoProcessed": [
-    "ZONES:86",
-    "TASKS:12213"
-  ]
+    "adds": 1
+  }
 }
