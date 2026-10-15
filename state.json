@@ -590,19 +590,6 @@
       "uid": "SPIN_WHEEL:1091"
     },
     {
-      "source": "TASKS",
-      "id": 12213,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:12213"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1093,
       "sid": 1093,
@@ -963,10 +950,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook B",
       "uid": "ZONES:77"
+    },
+    {
+      "source": "TASKS",
+      "id": 10615,
+      "label": "Find replacement strings for the harp (missing 2) \ud83c\udfb5 \ud83d\udcdd",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10615"
     }
   ],
-  "version": 2894,
-  "updated": "2026-10-14T23:54:03.589637+00:00",
+  "version": 2895,
+  "updated": "2026-10-15T00:07:49.513751+00:00",
   "buckets": {
     "SPIN_WHEEL": 73,
     "ZONES": 9,
