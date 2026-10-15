@@ -1,27 +1,6 @@
 {
   "completions": [
     {
-      "source": "SPIN_WHEEL",
-      "row": 1130,
-      "label": "List lamp on marketplace",
-      "uid": "SPIN_WHEEL:1130",
-      "_ts": "2026-10-15T21:42:01.910Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1131,
-      "label": "List side table on marketplace",
-      "uid": "SPIN_WHEEL:1131",
-      "_ts": "2026-10-15T21:42:05.224Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1139,
-      "label": "Send our tax sig form",
-      "uid": "SPIN_WHEEL:1139",
-      "_ts": "2026-10-15T21:42:11.815Z"
-    },
-    {
       "source": "TASKS",
       "id": 11973,
       "label": "✨ Cancel GAlarm?",
@@ -29,23 +8,10 @@
       "_ts": "2026-10-15T21:42:30.269Z"
     }
   ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Mock up how to MAKE triangular bins for bathroom 🛁🔨",
-      "_addedAt": "2026-10-15T21:42:23.884Z",
-      "reschedule": {
-        "uid": "TASKS:11038",
-        "id": 11038,
-        "label": "Mock up how to MAKE triangular bins for bathroom 🛁🔨",
-        "start": "2026-11-16"
-      },
-      "_ts": "2026-10-15T21:42:24.091Z"
-    }
-  ],
-  "mirroredAt": "2026-10-15T21:42:30.551Z",
+  "adds": [],
+  "mirroredAt": "2026-10-15T21:42:40.034Z",
   "counts": {
-    "completions": 4,
-    "adds": 1
+    "completions": 1,
+    "adds": 0
   }
 }
