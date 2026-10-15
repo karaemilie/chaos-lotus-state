@@ -176,20 +176,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10454,
-      "row": 87,
-      "label": "\u2b50 Investigate WWAMI eligibility",
-      "aw": 3,
-      "pri": "ASAP",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": "Bentley Med School Prep",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10454"
-    },
-    {
-      "source": "TASKS",
       "id": 10080,
       "row": 16,
       "label": "\u2b50 Fix humidity sensor tag for music room",
@@ -967,10 +953,23 @@
       "sid": 1134,
       "label": "Send tax sig pages to Denali Consulting",
       "uid": "SPIN_WHEEL:1134"
+    },
+    {
+      "source": "TASKS",
+      "id": 11038,
+      "label": "Mock up how to MAKE triangular bins for bathroom \ud83d\udec1\ud83d\udd28",
+      "aw": 7,
+      "pri": "Sometime",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11038"
     }
   ],
-  "version": 2918,
-  "updated": "2026-10-15T07:54:16.134866+00:00",
+  "version": 2919,
+  "updated": "2026-10-15T07:54:55.470527+00:00",
   "buckets": {
     "TASKS": 22,
     "SPIN_WHEEL": 76,
