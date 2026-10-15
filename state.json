@@ -246,20 +246,6 @@
       "uid": "SPIN:811"
     },
     {
-      "source": "TASKS",
-      "id": 12058,
-      "row": 279,
-      "label": "\u2728 Set up teeth cleanings \ud83e\uddb7\ud83e\udea5",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:12058"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 337,
       "row": 3,
@@ -974,10 +960,23 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:11325"
+    },
+    {
+      "source": "TASKS",
+      "id": 11957,
+      "label": "Look at five suit jackets with Evan \ud83e\udde5",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:11957"
     }
   ],
-  "version": 2900,
-  "updated": "2026-10-15T03:08:19.178820+00:00",
+  "version": 2901,
+  "updated": "2026-10-15T03:08:49.393946+00:00",
   "buckets": {
     "SPIN_WHEEL": 75,
     "ZONES": 9,
