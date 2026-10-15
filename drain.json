@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-15T07:31:31.497Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send tax sig pages to Denali Consulting",
+      "_addedAt": "2026-10-15T07:53:01.261Z",
+      "_ts": "2026-10-15T07:53:01.855Z"
+    }
+  ],
+  "mirroredAt": "2026-10-15T07:53:02.369Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
