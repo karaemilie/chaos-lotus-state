@@ -960,13 +960,20 @@
       "sid": 1132,
       "label": "Get $ from Linc for pants",
       "uid": "SPIN_WHEEL:1132"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1133,
+      "sid": 1133,
+      "label": "Load / try Wordlize",
+      "uid": "SPIN_WHEEL:1133"
     }
   ],
-  "version": 2915,
-  "updated": "2026-10-15T07:10:40.185147+00:00",
+  "version": 2916,
+  "updated": "2026-10-15T07:31:32.764830+00:00",
   "buckets": {
     "TASKS": 22,
-    "SPIN_WHEEL": 75,
+    "SPIN_WHEEL": 76,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
