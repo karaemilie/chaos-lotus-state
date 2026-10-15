@@ -311,13 +311,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1100,
-      "row": 54,
-      "label": "Find Red Rising book for Matt",
-      "uid": "SPIN:1100"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1082,
       "row": 42,
       "label": "Deal with B WWAMI app???",
@@ -346,20 +339,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11994,
-      "row": 265,
-      "label": "\u2728 Charge the red candles \ud83d\udd6f\ufe0f\u2764\ufe0f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11994"
-    },
-    {
-      "source": "TASKS",
       "id": 12195,
       "row": 334,
       "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
@@ -371,20 +350,6 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:12195"
-    },
-    {
-      "source": "TASKS",
-      "id": 11987,
-      "row": 263,
-      "label": "\u2728 Work on kids education planning projects \ud83d\udcda",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 45,
-      "ml": "Medium",
-      "proj": "Homeschool Admin",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:11987"
     },
     {
       "source": "SPIN_WHEEL",
@@ -416,13 +381,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1046,
-      "row": 28,
-      "label": "Get Xmind connected",
-      "uid": "SPIN:1046"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1088,
       "row": 45,
       "label": "Reset Robomow",
@@ -441,20 +399,6 @@
       "row": 11,
       "label": "Find algebra 1 S1 book**",
       "uid": "SPIN:921"
-    },
-    {
-      "source": "TASKS",
-      "id": 10027,
-      "row": 8,
-      "label": "\u2b50 Design decorative door panels for wall cabinet and vanity \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 60,
-      "ml": "Hard",
-      "proj": "Bathroom Built-ins",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10027"
     },
     {
       "source": "SPIN_WHEEL",
@@ -953,13 +897,52 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:12174"
+    },
+    {
+      "source": "TASKS",
+      "id": 11896,
+      "label": "posykin handle \ud83d\udcb8",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11896"
+    },
+    {
+      "source": "TASKS",
+      "id": 10526,
+      "label": "Jake - trumpet - want a new one? :)",
+      "aw": 6,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10526"
+    },
+    {
+      "source": "TASKS",
+      "id": 11124,
+      "label": "Look into Jake study abroad for a semester",
+      "aw": 5,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11124"
     }
   ],
-  "version": 2927,
-  "updated": "2026-10-15T21:39:43.300509+00:00",
+  "version": 2928,
+  "updated": "2026-10-15T21:40:32.754031+00:00",
   "buckets": {
     "TASKS": 22,
-    "SPIN_WHEEL": 75,
+    "SPIN_WHEEL": 73,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
