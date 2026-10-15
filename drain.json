@@ -8,10 +8,104 @@
       "_ts": "2026-10-15T21:38:56.344Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-10-15T21:39:06.801Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ask Mr Levine about rental violas",
+      "_addedAt": "2026-10-15T21:37:18.987Z",
+      "promote": {
+        "fromUid": "SPIN:1125",
+        "sid": 1125,
+        "label": "Ask Mr Levine about rental violas",
+        "origLabel": "Ask Mr Levine about rental violas",
+        "start": "2026-10-19",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-15T21:37:19.345Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Review Evan's bedtime & adjust melatonin timing 😴💊",
+      "_addedAt": "2026-10-15T21:37:47.338Z",
+      "reschedule": {
+        "uid": "TASKS:12067",
+        "id": 12067,
+        "label": "✨ Review Evan's bedtime & adjust melatonin timing 😴💊",
+        "start": "2026-10-18"
+      },
+      "_ts": "2026-10-15T21:37:47.532Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "💸 Check if Affinity for iPad is out 📱✏️ 📝",
+      "_addedAt": "2026-10-15T21:38:02.507Z",
+      "reschedule": {
+        "uid": "TASKS:11526",
+        "id": 11526,
+        "label": "💸 Check if Affinity for iPad is out 📱✏️ 📝",
+        "start": "2026-10-24"
+      },
+      "_ts": "2026-10-15T21:38:02.720Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Tidy up cords by piano",
+      "_addedAt": "2026-10-15T21:38:15.726Z",
+      "promote": {
+        "fromUid": "SPIN:1064",
+        "sid": 1064,
+        "label": "Tidy up cords by piano",
+        "origLabel": "Tidy up cords by piano",
+        "start": "2026-10-21",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-15T21:38:15.909Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Can my ai bot apply to jobs FOR ME",
+      "_addedAt": "2026-10-15T21:38:35.795Z",
+      "promote": {
+        "fromUid": "SPIN:1117",
+        "sid": 1117,
+        "label": "Can my ai bot apply to jobs FOR ME",
+        "origLabel": "Can my ai bot apply to jobs FOR ME",
+        "start": "2026-10-25",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-15T21:38:36.013Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Grab the gold candles and charge them 🕯️",
+      "_addedAt": "2026-10-15T21:38:44.413Z",
+      "reschedule": {
+        "uid": "TASKS:12149",
+        "id": 12149,
+        "label": "✨ Grab the gold candles and charge them 🕯️",
+        "start": "2026-10-17"
+      },
+      "_ts": "2026-10-15T21:38:44.631Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Charge the red candles 🕯️❤️",
+      "_addedAt": "2026-10-15T21:39:31.872Z",
+      "reschedule": {
+        "uid": "TASKS:11994",
+        "id": 11994,
+        "label": "✨ Charge the red candles 🕯️❤️",
+        "start": "2026-10-19"
+      },
+      "_ts": "2026-10-15T21:39:32.203Z"
+    }
+  ],
+  "mirroredAt": "2026-10-15T21:39:32.456Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 7
   }
 }
