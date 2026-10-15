@@ -433,13 +433,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1103,
-      "row": 56,
-      "label": "Research the water heater options",
-      "uid": "SPIN:1103"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1091,
       "row": 47,
       "label": "Oct Gemini - verify amt, ping twins (Genevieve owes me $550)",
@@ -955,11 +948,11 @@
       "uid": "SPIN_WHEEL:1128"
     }
   ],
-  "version": 2909,
-  "updated": "2026-10-15T03:58:26.434768+00:00",
+  "version": 2910,
+  "updated": "2026-10-15T03:59:12.633695+00:00",
   "buckets": {
     "TASKS": 22,
-    "SPIN_WHEEL": 74,
+    "SPIN_WHEEL": 73,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
