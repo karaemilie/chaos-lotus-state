@@ -388,16 +388,6 @@
       "uid": "SPIN:1013"
     },
     {
-      "source": "ZONES",
-      "zid": 85,
-      "floor": "Personal",
-      "row": 87,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Mask",
-      "uid": "ZONES:85"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 900,
       "row": 13,
@@ -885,15 +875,6 @@
       "uid": "SPIN_WHEEL:1123"
     },
     {
-      "source": "ZONES",
-      "zid": 61,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Reviews",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Reviews",
-      "uid": "ZONES:61"
-    },
-    {
       "source": "TASKS",
       "id": 11526,
       "label": "Check if Affinity for iPad is out \ud83d\udcf1\u270f\ufe0f \ud83d\udcdd",
@@ -963,10 +944,28 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10615"
+    },
+    {
+      "source": "ZONES",
+      "zid": 62,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Messages",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Messages",
+      "uid": "ZONES:62"
+    },
+    {
+      "source": "ZONES",
+      "zid": 87,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Eyebrows",
+      "uid": "ZONES:87"
     }
   ],
-  "version": 2895,
-  "updated": "2026-10-15T00:07:49.513751+00:00",
+  "version": 2896,
+  "updated": "2026-10-15T00:08:32.256994+00:00",
   "buckets": {
     "SPIN_WHEEL": 73,
     "ZONES": 9,
