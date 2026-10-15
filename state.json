@@ -1,20 +1,6 @@
 {
   "tasks": [
     {
-      "source": "TASKS",
-      "id": 12169,
-      "row": 315,
-      "label": "\u2728 Audit spin wheel tasks (keep / edit / convert / delete) \ud83c\udfa1\ud83d\udccb",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12169"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 4,
@@ -34,20 +20,6 @@
       "row": 36,
       "label": "Pull up Musiah app",
       "uid": "SPIN:1065"
-    },
-    {
-      "source": "TASKS",
-      "id": 11688,
-      "row": 193,
-      "label": "\u2728 \ud83d\udd6f\ufe0f Replace batteries in all wax LED candles",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11688"
     },
     {
       "source": "SPIN_WHEEL",
@@ -798,19 +770,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11421,
-      "label": "Finish fixing sand table",
-      "aw": 5,
-      "pri": null,
-      "dur": 30,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11421"
-    },
-    {
-      "source": "TASKS",
       "id": 11946,
       "label": "Move quilt to right \ud83d\udecf\ufe0f",
       "aw": 7,
@@ -834,19 +793,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11094"
-    },
-    {
-      "source": "TASKS",
-      "id": 12178,
-      "label": "Ask Evan how much I owe him",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12178"
     },
     {
       "source": "TASKS",
@@ -899,15 +845,67 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10198"
+    },
+    {
+      "source": "TASKS",
+      "id": 10820,
+      "label": "Research how many ASU classes have a proctored final \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10820"
+    },
+    {
+      "source": "TASKS",
+      "id": 10868,
+      "label": "Research masters degree programs for Bentley as backup plan (bio major switch before fall registration) \ud83c\udf93",
+      "aw": 3,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10868"
+    },
+    {
+      "source": "TASKS",
+      "id": 11335,
+      "label": "Play with Linearity Curve + work on cute wood plant holders \ud83e\udeb4\ud83e\udeb5\u270f\ufe0f",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11335"
+    },
+    {
+      "source": "TASKS",
+      "id": 10913,
+      "label": "Set up light box on a timer for boys 9-11am \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10913"
     }
   ],
-  "version": 2933,
-  "updated": "2026-10-15T21:44:13.818386+00:00",
+  "version": 2934,
+  "updated": "2026-10-15T21:45:05.609981+00:00",
   "buckets": {
-    "TASKS": 22,
     "SPIN_WHEEL": 68,
     "ZONES": 7,
     "COURAGE": 4,
+    "TASKS": 22,
     "MAINTENANCE": 2
   }
 }
