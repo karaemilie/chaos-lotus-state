@@ -120,11 +120,26 @@
         "start": "2026-10-18"
       },
       "_ts": "2026-10-15T21:39:43.260Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Get Xmind connected",
+      "_addedAt": "2026-10-15T21:40:06.478Z",
+      "promote": {
+        "fromUid": "SPIN:1046",
+        "sid": 1046,
+        "label": "Get Xmind connected",
+        "origLabel": "Get Xmind connected",
+        "start": "2026-10-30",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-15T21:40:06.740Z"
     }
   ],
-  "mirroredAt": "2026-10-15T21:39:50.985Z",
+  "mirroredAt": "2026-10-15T21:40:07.007Z",
   "counts": {
     "completions": 2,
-    "adds": 8
+    "adds": 9
   }
 }
