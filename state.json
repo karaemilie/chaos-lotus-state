@@ -816,13 +816,6 @@
       "uid": "SPIN:811"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1023,
-      "row": 20,
-      "label": "File Bentley taxes",
-      "uid": "SPIN:1023"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10187,
       "parentRow": 46,
@@ -976,11 +969,11 @@
       "uid": "SPIN_WHEEL:1134"
     }
   ],
-  "version": 2917,
-  "updated": "2026-10-15T07:53:16.591656+00:00",
+  "version": 2918,
+  "updated": "2026-10-15T07:54:16.134866+00:00",
   "buckets": {
     "TASKS": 22,
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 76,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
