@@ -625,13 +625,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1136,
-      "sid": 1136,
-      "label": "Write Coach holly",
-      "uid": "SPIN_WHEEL:1136"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1137,
       "sid": 1137,
       "label": "Bentley Thanksgiving",
@@ -898,10 +891,10 @@
       "uid": "ZONES:78"
     }
   ],
-  "version": 2939,
-  "updated": "2026-10-15T23:59:12.974320+00:00",
+  "version": 2940,
+  "updated": "2026-10-15T23:59:58.010155+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "ZONES": 7,
     "COURAGE": 4,
     "TASKS": 22,
