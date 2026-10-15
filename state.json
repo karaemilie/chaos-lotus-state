@@ -175,20 +175,6 @@
       "uid": "SPIN:683"
     },
     {
-      "source": "TASKS",
-      "id": 12194,
-      "row": 337,
-      "label": "\u2728 Put on new tattoo",
-      "aw": 4,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12194"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10162,
       "parentRow": 36,
@@ -975,15 +961,28 @@
       "sid": 1127,
       "label": "Review 7505 card actual balance, pay down???",
       "uid": "SPIN_WHEEL:1127"
+    },
+    {
+      "source": "TASKS",
+      "id": 11325,
+      "label": "Text Glen and ask about Alaska-specific internship opportunities \ud83d\udcf1",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11325"
     }
   ],
-  "version": 2899,
-  "updated": "2026-10-15T01:12:54.911054+00:00",
+  "version": 2900,
+  "updated": "2026-10-15T03:08:19.178820+00:00",
   "buckets": {
     "SPIN_WHEEL": 75,
     "ZONES": 9,
-    "TASKS": 23,
     "COURAGE": 4,
+    "TASKS": 23,
     "MAINTENANCE": 2
   }
 }
