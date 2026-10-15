@@ -305,13 +305,6 @@
       "uid": "COURAGE:11221:0"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1072,
-      "row": 54,
-      "label": "Talk to kids about performing at Christmas",
-      "uid": "SPIN:1072"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11212,
       "parentRow": 146,
@@ -975,10 +968,10 @@
       "uid": "TASKS:11957"
     }
   ],
-  "version": 2901,
-  "updated": "2026-10-15T03:08:49.393946+00:00",
+  "version": 2902,
+  "updated": "2026-10-15T03:10:52.235296+00:00",
   "buckets": {
-    "SPIN_WHEEL": 75,
+    "SPIN_WHEEL": 74,
     "ZONES": 9,
     "COURAGE": 4,
     "TASKS": 23,
