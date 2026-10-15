@@ -1,48 +1,6 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 31,
-      "label": "Send Genevieve piggy bank app",
-      "uid": "SPIN:1054",
-      "_ts": "2026-10-15T21:37:22.492Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 33,
-      "label": "Send Jake the other few internship listings **",
-      "uid": "SPIN:1060",
-      "_ts": "2026-10-15T21:37:51.821Z"
-    }
-  ],
+  "completions": [],
   "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Ask Mr Levine about rental violas",
-      "_addedAt": "2026-10-15T21:37:18.987Z",
-      "promote": {
-        "fromUid": "SPIN:1125",
-        "sid": 1125,
-        "label": "Ask Mr Levine about rental violas",
-        "origLabel": "Ask Mr Levine about rental violas",
-        "start": "2026-10-19",
-        "category": "Home",
-        "aw": 4
-      },
-      "_ts": "2026-10-15T21:37:19.345Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "✨ Review Evan's bedtime & adjust melatonin timing 😴💊",
-      "_addedAt": "2026-10-15T21:37:47.338Z",
-      "reschedule": {
-        "uid": "TASKS:12067",
-        "id": 12067,
-        "label": "✨ Review Evan's bedtime & adjust melatonin timing 😴💊",
-        "start": "2026-10-18"
-      },
-      "_ts": "2026-10-15T21:37:47.532Z"
-    },
     {
       "source": "PLUS_ADD",
       "label": "💸 Check if Affinity for iPad is out 📱✏️ 📝",
@@ -71,9 +29,9 @@
       "_ts": "2026-10-15T21:38:15.909Z"
     }
   ],
-  "mirroredAt": "2026-10-15T21:38:16.219Z",
+  "mirroredAt": "2026-10-15T21:38:20.794Z",
   "counts": {
-    "completions": 2,
-    "adds": 4
+    "completions": 0,
+    "adds": 2
   }
 }
