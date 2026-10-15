@@ -165,11 +165,26 @@
         "aw": 4
       },
       "_ts": "2026-10-15T21:40:47.641Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Deal with downstairs ceiling bulbs",
+      "_addedAt": "2026-10-15T21:41:10.038Z",
+      "promote": {
+        "fromUid": "SPIN:1051",
+        "sid": 1051,
+        "label": "Deal with downstairs ceiling bulbs",
+        "origLabel": "Deal with downstairs ceiling bulbs",
+        "start": "2026-10-28",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-15T21:41:10.273Z"
     }
   ],
-  "mirroredAt": "2026-10-15T21:41:00.001Z",
+  "mirroredAt": "2026-10-15T21:41:10.537Z",
   "counts": {
     "completions": 2,
-    "adds": 11
+    "adds": 12
   }
 }
