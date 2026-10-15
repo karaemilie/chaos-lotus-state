@@ -42,11 +42,23 @@
         "start": "2026-10-18"
       },
       "_ts": "2026-10-15T21:37:47.532Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "💸 Check if Affinity for iPad is out 📱✏️ 📝",
+      "_addedAt": "2026-10-15T21:38:02.507Z",
+      "reschedule": {
+        "uid": "TASKS:11526",
+        "id": 11526,
+        "label": "💸 Check if Affinity for iPad is out 📱✏️ 📝",
+        "start": "2026-10-24"
+      },
+      "_ts": "2026-10-15T21:38:02.720Z"
     }
   ],
-  "mirroredAt": "2026-10-15T21:37:52.087Z",
+  "mirroredAt": "2026-10-15T21:38:02.992Z",
   "counts": {
     "completions": 2,
-    "adds": 2
+    "adds": 3
   }
 }
