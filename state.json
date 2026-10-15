@@ -649,20 +649,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1130,
-      "sid": 1130,
-      "label": "List lamp on marketplace",
-      "uid": "SPIN_WHEEL:1130"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1131,
-      "sid": 1131,
-      "label": "List side table on marketplace",
-      "uid": "SPIN_WHEEL:1131"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1132,
       "sid": 1132,
       "label": "Get $ from Linc for pants",
@@ -681,19 +667,6 @@
       "sid": 1134,
       "label": "Send tax sig pages to Denali Consulting",
       "uid": "SPIN_WHEEL:1134"
-    },
-    {
-      "source": "TASKS",
-      "id": 11038,
-      "label": "Mock up how to MAKE triangular bins for bathroom \ud83d\udec1\ud83d\udd28",
-      "aw": 7,
-      "pri": "Sometime",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11038"
     },
     {
       "source": "SPIN_WHEEL",
@@ -722,13 +695,6 @@
       "sid": 1138,
       "label": "Bentley taxes",
       "uid": "SPIN_WHEEL:1138"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1139,
-      "sid": 1139,
-      "label": "Send our tax sig form",
-      "uid": "SPIN_WHEEL:1139"
     },
     {
       "source": "TASKS",
@@ -920,13 +886,26 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10014"
+    },
+    {
+      "source": "TASKS",
+      "id": 10173,
+      "label": "Help Bentley apply for Gemini card via Jake's referral link \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10173"
     }
   ],
-  "version": 2930,
-  "updated": "2026-10-15T21:41:57.381632+00:00",
+  "version": 2931,
+  "updated": "2026-10-15T21:42:38.356512+00:00",
   "buckets": {
     "TASKS": 22,
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 68,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
