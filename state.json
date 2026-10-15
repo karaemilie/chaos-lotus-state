@@ -43,16 +43,6 @@
       "uid": "SPIN:1127"
     },
     {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "row": 79,
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1086,
       "row": 43,
@@ -897,10 +887,19 @@
       "sid": 1140,
       "label": "Design a focus app",
       "uid": "SPIN_WHEEL:1140"
+    },
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Props",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Props",
+      "uid": "ZONES:78"
     }
   ],
-  "version": 2938,
-  "updated": "2026-10-15T22:20:18.117330+00:00",
+  "version": 2939,
+  "updated": "2026-10-15T23:59:12.974320+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "ZONES": 7,
