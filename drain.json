@@ -6,19 +6,20 @@
       "label": "File Bentley taxes",
       "uid": "SPIN:1023",
       "_ts": "2026-10-15T07:54:01.453Z"
-    }
-  ],
-  "adds": [
+    },
     {
-      "source": "PLUS_ADD",
-      "label": "Send tax sig pages to Denali Consulting",
-      "_addedAt": "2026-10-15T07:53:01.261Z",
-      "_ts": "2026-10-15T07:53:01.855Z"
+      "source": "TASKS",
+      "id": 10454,
+      "row": 87,
+      "label": "⭐ Investigate WWAMI eligibility",
+      "uid": "TASKS:10454",
+      "_ts": "2026-10-15T07:54:08.287Z"
     }
   ],
-  "mirroredAt": "2026-10-15T07:54:01.782Z",
+  "adds": [],
+  "mirroredAt": "2026-10-15T07:54:08.517Z",
   "counts": {
-    "completions": 1,
-    "adds": 1
+    "completions": 2,
+    "adds": 0
   }
 }
