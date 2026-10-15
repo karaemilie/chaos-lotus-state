@@ -43,10 +43,23 @@
       "_ts": "2026-10-15T21:43:15.855Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-10-15T21:43:16.090Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Brainstorm good community service focuses for ALL kids 📝",
+      "_addedAt": "2026-10-15T21:43:25.245Z",
+      "reschedule": {
+        "uid": "TASKS:10181",
+        "id": 10181,
+        "label": "Brainstorm good community service focuses for ALL kids 📝",
+        "start": "2026-10-23"
+      },
+      "_ts": "2026-10-15T21:43:25.454Z"
+    }
+  ],
+  "mirroredAt": "2026-10-15T21:43:25.712Z",
   "counts": {
     "completions": 6,
-    "adds": 0
+    "adds": 1
   }
 }
