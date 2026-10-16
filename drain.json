@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-16T08:50:59.747Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Get a treadmill for Dad",
+      "_addedAt": "2026-10-16T19:12:23.204Z",
+      "_ts": "2026-10-16T19:12:23.527Z"
+    }
+  ],
+  "mirroredAt": "2026-10-16T19:12:23.897Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
