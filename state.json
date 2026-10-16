@@ -110,20 +110,6 @@
       "uid": "COURAGE:11221:0"
     },
     {
-      "source": "TASKS",
-      "id": 12185,
-      "row": 326,
-      "label": "\u2728 Send text update to mother-in-law \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:12185"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1110,
       "row": 63,
@@ -896,15 +882,28 @@
       "sid": 1142,
       "label": "Figure out a plan to be busy Saturday",
       "uid": "SPIN_WHEEL:1142"
+    },
+    {
+      "source": "TASKS",
+      "id": 12177,
+      "label": "Update project file in Xmind - window panel, cedar chest, bar stools, kitchen tile, \u2026! Need official sequence to home projects",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12177"
     }
   ],
-  "version": 2944,
-  "updated": "2026-10-16T00:20:03.646455+00:00",
+  "version": 2945,
+  "updated": "2026-10-16T00:25:08.380393+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "ZONES": 7,
     "COURAGE": 4,
-    "TASKS": 22,
-    "MAINTENANCE": 2
+    "MAINTENANCE": 2,
+    "TASKS": 22
   }
 }
