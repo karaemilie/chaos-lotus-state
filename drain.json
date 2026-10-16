@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 73,
+      "label": "Check we got PFDs???",
+      "uid": "SPIN:1126",
+      "_ts": "2026-10-16T06:46:30.422Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-16T06:44:04.833Z",
+  "mirroredAt": "2026-10-16T06:46:30.662Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-16T06:44:06.168058+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1110"
-  ]
+  }
 }
