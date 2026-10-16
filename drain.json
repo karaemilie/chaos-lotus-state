@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-16T04:01:11.428Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add Bailey AK Air to reservation",
+      "_addedAt": "2026-10-16T04:12:51.934Z",
+      "_ts": "2026-10-16T04:12:52.183Z"
+    }
+  ],
+  "mirroredAt": "2026-10-16T04:12:52.446Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-16T04:01:12.912878+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1138"
-  ]
+    "adds": 1
+  }
 }
