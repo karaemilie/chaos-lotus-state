@@ -908,12 +908,19 @@
       "sid": 1149,
       "label": "Have Bentley grab another food plan and then request refund/figure out how to process",
       "uid": "SPIN_WHEEL:1149"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1150,
+      "sid": 1150,
+      "label": "Consider pulling boys to cash 529s",
+      "uid": "SPIN_WHEEL:1150"
     }
   ],
-  "version": 2958,
-  "updated": "2026-10-16T08:02:36.103453+00:00",
+  "version": 2959,
+  "updated": "2026-10-16T08:03:21.915988+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 71,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
