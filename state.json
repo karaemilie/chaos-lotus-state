@@ -514,18 +514,6 @@
       "uid": "SPIN:1108"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11212,
-      "parentRow": 145,
-      "parentLabel": "Track down education tax forms from kids schools (1098-T etc) \ud83d\udcdd",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-06-25",
-      "label": "\ud83d\udd25 Track down education tax forms from kids schools (1098-T etc) \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11212:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 904,
       "row": 10,
@@ -580,13 +568,6 @@
       "sid": 1133,
       "label": "Load / try Wordlize",
       "uid": "SPIN_WHEEL:1133"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1134,
-      "sid": 1134,
-      "label": "Send tax sig pages to Denali Consulting",
-      "uid": "SPIN_WHEEL:1134"
     },
     {
       "source": "SPIN_WHEEL",
@@ -902,12 +883,23 @@
       "sid": 1145,
       "label": "Start developing business plan for UV printer",
       "uid": "SPIN_WHEEL:1145"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 10218,
+      "stepIndex": 0,
+      "parentLabel": "Help Bentley schedule CNA exam / figure out timeline \ud83d\udcdd",
+      "aw": 2,
+      "due": "2026-06-23",
+      "label": "\ud83d\udd25 Help Bentley schedule CNA exam / figure out timeline \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:10218:0"
     }
   ],
-  "version": 2951,
-  "updated": "2026-10-16T05:22:35.778169+00:00",
+  "version": 2952,
+  "updated": "2026-10-16T05:23:13.205523+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 68,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
