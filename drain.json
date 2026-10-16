@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-15T23:59:59.317Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Assess space under porch",
+      "_addedAt": "2026-10-16T00:00:55.509Z",
+      "_ts": "2026-10-16T00:00:56.939Z"
+    }
+  ],
+  "mirroredAt": "2026-10-16T00:00:57.318Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-16T00:00:00.259069+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1136"
-  ]
+    "adds": 1
+  }
 }
