@@ -915,12 +915,19 @@
       "sid": 1150,
       "label": "Consider pulling boys to cash 529s",
       "uid": "SPIN_WHEEL:1150"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1151,
+      "sid": 1151,
+      "label": "Set up ForBrain",
+      "uid": "SPIN_WHEEL:1151"
     }
   ],
-  "version": 2959,
-  "updated": "2026-10-16T08:03:21.915988+00:00",
+  "version": 2960,
+  "updated": "2026-10-16T08:51:01.013444+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 72,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
