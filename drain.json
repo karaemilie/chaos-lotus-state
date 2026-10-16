@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1138,
+      "label": "Bentley taxes",
+      "uid": "SPIN_WHEEL:1138",
+      "_ts": "2026-10-16T04:00:54.950Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-16T00:25:55.949Z",
+  "mirroredAt": "2026-10-16T04:00:55.213Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-16T00:25:57.373867+00:00",
-  "lastAutoProcessed": [
-    "ZONES:88"
-  ]
+  }
 }
