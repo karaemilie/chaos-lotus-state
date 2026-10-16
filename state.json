@@ -111,13 +111,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1110,
-      "row": 63,
-      "label": "Move Gmail color coder for mail settings over to Neo (see if they have a cloud sync)",
-      "uid": "SPIN:1110"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1107,
       "row": 60,
       "label": "Order film to finish garage windows",
@@ -917,10 +910,10 @@
       "uid": "SPIN_WHEEL:1148"
     }
   ],
-  "version": 2955,
-  "updated": "2026-10-16T06:41:12.545987+00:00",
+  "version": 2956,
+  "updated": "2026-10-16T06:44:03.375418+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 70,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
