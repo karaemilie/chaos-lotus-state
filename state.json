@@ -117,16 +117,6 @@
       "uid": "SPIN:1107"
     },
     {
-      "source": "ZONES",
-      "zid": 58,
-      "floor": "Digital",
-      "row": 59,
-      "label": "\ud83d\udcbb Emails",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Emails",
-      "uid": "ZONES:58"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1123,
       "row": 70,
@@ -460,20 +450,6 @@
       "uid": "SPIN:683"
     },
     {
-      "source": "TASKS",
-      "id": 11903,
-      "row": 237,
-      "label": "\u2b50 Look at Pet insta idea \ud83d\udc3e\ud83d\udcf1",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11903"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10187,
       "parentRow": 46,
@@ -581,19 +557,6 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:11967"
-    },
-    {
-      "source": "TASKS",
-      "id": 12180,
-      "label": "Book follow-up with Dr. Grendel \ud83e\ude7a\ud83d\udcde",
-      "aw": 4,
-      "pri": "High",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12180"
     },
     {
       "source": "TASKS",
@@ -964,10 +927,45 @@
       "sid": 1157,
       "label": "Submit for viola rest",
       "uid": "SPIN_WHEEL:1157"
+    },
+    {
+      "source": "ZONES",
+      "zid": 62,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Messages",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Messages",
+      "uid": "ZONES:62"
+    },
+    {
+      "source": "TASKS",
+      "id": 12003,
+      "label": "\u2728 Clean the icemaker \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12003"
+    },
+    {
+      "source": "TASKS",
+      "id": 12203,
+      "label": "\u2728 Recharge my twinkle stars \u2728\ud83d\udd0b",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12203"
     }
   ],
-  "version": 2966,
-  "updated": "2026-10-16T23:12:50.145639+00:00",
+  "version": 2967,
+  "updated": "2026-10-16T23:19:02.718889+00:00",
   "buckets": {
     "SPIN_WHEEL": 78,
     "ZONES": 7,
