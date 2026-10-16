@@ -669,15 +669,6 @@
       "uid": "TASKS:11896"
     },
     {
-      "source": "ZONES",
-      "zid": 88,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Teeth Whitening",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Teeth Whitening",
-      "uid": "ZONES:88"
-    },
-    {
       "source": "TASKS",
       "id": 10014,
       "label": "Troubleshoot laser alignment issue",
@@ -895,10 +886,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12177"
+    },
+    {
+      "source": "ZONES",
+      "zid": 90,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Feet Care & Pedi",
+      "uid": "ZONES:90"
     }
   ],
-  "version": 2945,
-  "updated": "2026-10-16T00:25:08.380393+00:00",
+  "version": 2946,
+  "updated": "2026-10-16T00:25:54.457713+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "ZONES": 7,
