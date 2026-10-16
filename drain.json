@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-16T08:02:34.753Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Have Bentley grab another food plan and then request refund/figure out how to process",
+      "_addedAt": "2026-10-16T08:02:22.102Z",
+      "_ts": "2026-10-16T08:02:22.319Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Consider pulling boys to cash 529s",
+      "_addedAt": "2026-10-16T08:02:36.733Z",
+      "_ts": "2026-10-16T08:02:36.997Z"
+    }
+  ],
+  "mirroredAt": "2026-10-16T08:02:37.221Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
