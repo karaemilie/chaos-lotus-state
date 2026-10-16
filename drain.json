@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-16T19:12:38.106Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Research treadmills",
+      "_addedAt": "2026-10-16T19:24:41.735Z",
+      "_ts": "2026-10-16T19:24:41.950Z"
+    }
+  ],
+  "mirroredAt": "2026-10-16T19:24:42.280Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
