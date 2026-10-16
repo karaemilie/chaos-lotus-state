@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-16T05:23:16.199Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "POA for parents",
+      "_addedAt": "2026-10-16T05:41:24.144Z",
+      "_ts": "2026-10-16T05:41:24.526Z"
+    }
+  ],
+  "mirroredAt": "2026-10-16T05:41:24.871Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
