@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-16T08:03:20.628Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set up ForBrain",
+      "_addedAt": "2026-10-16T08:50:45.202Z",
+      "_ts": "2026-10-16T08:50:45.415Z"
+    }
+  ],
+  "mirroredAt": "2026-10-16T08:50:45.670Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
