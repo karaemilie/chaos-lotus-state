@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1134,
+      "label": "Send tax sig pages to Denali Consulting",
+      "uid": "SPIN_WHEEL:1134",
+      "_ts": "2026-10-16T05:22:33.389Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-10-16T05:22:20.046Z"
     }
   ],
-  "mirroredAt": "2026-10-16T05:22:20.299Z",
+  "mirroredAt": "2026-10-16T05:22:33.613Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
