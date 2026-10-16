@@ -936,12 +936,19 @@
       "sid": 1153,
       "label": "Research treadmills",
       "uid": "SPIN_WHEEL:1153"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1154,
+      "sid": 1154,
+      "label": "Charge whoop",
+      "uid": "SPIN_WHEEL:1154"
     }
   ],
-  "version": 2962,
-  "updated": "2026-10-16T19:24:55.887543+00:00",
+  "version": 2963,
+  "updated": "2026-10-16T20:26:52.938271+00:00",
   "buckets": {
-    "SPIN_WHEEL": 74,
+    "SPIN_WHEEL": 75,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
