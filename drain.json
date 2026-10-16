@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-16T00:19:33.174Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 50,
+      "label": "Calendar the orchestra trip & this week!",
+      "uid": "SPIN:1096",
+      "_ts": "2026-10-16T00:19:20.273Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Figure out a plan to be busy Saturday",
+      "_addedAt": "2026-10-16T00:19:40.920Z",
+      "_ts": "2026-10-16T00:19:41.105Z"
+    }
+  ],
+  "mirroredAt": "2026-10-16T00:19:41.383Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-16T00:19:34.155713+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1096"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
