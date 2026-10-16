@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 76,
+      "zid": 74,
+      "floor": "Plant",
+      "label": "🌱 Family Room Plants",
+      "uid": "ZONES:74",
+      "_ts": "2026-10-16T23:24:01.878Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-16T23:19:03.918Z",
+  "mirroredAt": "2026-10-16T23:24:02.133Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-16T23:19:05.073318+00:00",
-  "lastAutoProcessed": [
-    "ZONES:58"
-  ]
+  }
 }
