@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-16T04:15:06.273Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find missing step stools",
+      "_addedAt": "2026-10-16T04:56:53.201Z",
+      "_ts": "2026-10-16T04:56:53.450Z"
+    }
+  ],
+  "mirroredAt": "2026-10-16T04:56:53.681Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-16T04:15:07.295371+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1105"
-  ]
+    "adds": 1
+  }
 }
