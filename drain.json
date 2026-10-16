@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-16T06:46:43.839Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Have Bentley grab another food plan and then request refund/figure out how to process",
+      "_addedAt": "2026-10-16T08:02:22.102Z",
+      "_ts": "2026-10-16T08:02:22.319Z"
+    }
+  ],
+  "mirroredAt": "2026-10-16T08:02:22.613Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-16T06:46:44.761614+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1126"
-  ]
+    "adds": 1
+  }
 }
