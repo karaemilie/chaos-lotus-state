@@ -794,15 +794,6 @@
       "uid": "TASKS:12177"
     },
     {
-      "source": "ZONES",
-      "zid": 90,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Feet Care & Pedi",
-      "uid": "ZONES:90"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1143,
       "sid": 1143,
@@ -961,10 +952,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Hallway",
       "uid": "ZONES:80"
+    },
+    {
+      "source": "ZONES",
+      "zid": 81,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Exfoliation",
+      "uid": "ZONES:81"
     }
   ],
-  "version": 2968,
-  "updated": "2026-10-16T23:24:14.754188+00:00",
+  "version": 2969,
+  "updated": "2026-10-16T23:55:05.742353+00:00",
   "buckets": {
     "SPIN_WHEEL": 78,
     "ZONES": 7,
