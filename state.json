@@ -610,13 +610,6 @@
       "uid": "SPIN_WHEEL:1137"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1138,
-      "sid": 1138,
-      "label": "Bentley taxes",
-      "uid": "SPIN_WHEEL:1138"
-    },
-    {
       "source": "TASKS",
       "id": 11967,
       "label": "\u2728 Cancel ultraviner $15/month if not using",
@@ -897,10 +890,10 @@
       "uid": "ZONES:90"
     }
   ],
-  "version": 2946,
-  "updated": "2026-10-16T00:25:54.457713+00:00",
+  "version": 2947,
+  "updated": "2026-10-16T04:01:09.966193+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
