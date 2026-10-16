@@ -894,12 +894,19 @@
       "label": "\ud83d\udd25 Help Bentley schedule CNA exam / figure out timeline \ud83d\udcdd",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:10218:0"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1146,
+      "sid": 1146,
+      "label": "POA for parents",
+      "uid": "SPIN_WHEEL:1146"
     }
   ],
-  "version": 2952,
-  "updated": "2026-10-16T05:23:13.205523+00:00",
+  "version": 2953,
+  "updated": "2026-10-16T05:41:40.139777+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 69,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
