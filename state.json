@@ -273,13 +273,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1126,
-      "row": 73,
-      "label": "Check we got PFDs???",
-      "uid": "SPIN:1126"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 952,
       "row": 13,
       "label": "KitchenAid vrs GE - find YouTube reviews",
@@ -910,10 +903,10 @@
       "uid": "SPIN_WHEEL:1148"
     }
   ],
-  "version": 2956,
-  "updated": "2026-10-16T06:44:03.375418+00:00",
+  "version": 2957,
+  "updated": "2026-10-16T06:46:42.468383+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 69,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
