@@ -901,12 +901,19 @@
       "sid": 1146,
       "label": "POA for parents",
       "uid": "SPIN_WHEEL:1146"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1147,
+      "sid": 1147,
+      "label": "Measure Mom\u2019s shirts",
+      "uid": "SPIN_WHEEL:1147"
     }
   ],
-  "version": 2953,
-  "updated": "2026-10-16T05:41:40.139777+00:00",
+  "version": 2954,
+  "updated": "2026-10-16T05:42:27.807993+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
+    "SPIN_WHEEL": 70,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
