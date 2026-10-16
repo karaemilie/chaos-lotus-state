@@ -888,12 +888,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Feet Care & Pedi",
       "uid": "ZONES:90"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1143,
+      "sid": 1143,
+      "label": "Add Bailey AK Air to reservation",
+      "uid": "SPIN_WHEEL:1143"
     }
   ],
-  "version": 2947,
-  "updated": "2026-10-16T04:01:09.966193+00:00",
+  "version": 2948,
+  "updated": "2026-10-16T04:13:09.484252+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 68,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
