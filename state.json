@@ -535,13 +535,6 @@
       "uid": "SPIN:1108"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1096,
-      "row": 50,
-      "label": "Calendar the orchestra trip & this week!",
-      "uid": "SPIN:1096"
-    },
-    {
       "source": "COURAGE",
       "parentId": 11212,
       "parentRow": 145,
@@ -898,10 +891,10 @@
       "uid": "SPIN_WHEEL:1141"
     }
   ],
-  "version": 2941,
-  "updated": "2026-10-16T00:01:10.735056+00:00",
+  "version": 2942,
+  "updated": "2026-10-16T00:19:31.985700+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "ZONES": 7,
     "COURAGE": 4,
     "TASKS": 22,
