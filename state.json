@@ -961,12 +961,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Exfoliation",
       "uid": "ZONES:81"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1158,
+      "sid": 1158,
+      "label": "Get dad plane ticket from Mom",
+      "uid": "SPIN_WHEEL:1158"
     }
   ],
-  "version": 2969,
-  "updated": "2026-10-16T23:55:05.742353+00:00",
+  "version": 2970,
+  "updated": "2026-10-17T01:43:54.348524+00:00",
   "buckets": {
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 79,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
