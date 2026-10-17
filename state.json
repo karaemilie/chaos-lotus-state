@@ -961,12 +961,19 @@
       "sid": 1161,
       "label": "Tape rug in music room",
       "uid": "SPIN_WHEEL:1161"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1162,
+      "sid": 1162,
+      "label": "Cash check for Genevieve",
+      "uid": "SPIN_WHEEL:1162"
     }
   ],
-  "version": 2976,
-  "updated": "2026-10-17T23:26:27.693168+00:00",
+  "version": 2977,
+  "updated": "2026-10-17T23:55:09.156931+00:00",
   "buckets": {
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 79,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
