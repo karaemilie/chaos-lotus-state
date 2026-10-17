@@ -1,16 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-16T23:55:09.467Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Get dad plane ticket from Mom",
+      "_addedAt": "2026-10-17T01:43:39.888Z",
+      "_ts": "2026-10-17T01:43:40.160Z"
+    }
+  ],
+  "mirroredAt": "2026-10-17T01:43:40.393Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-16T23:55:10.490356+00:00",
-  "lastAutoProcessed": [
-    "ZONES:90"
-  ],
-  "autoReset": [
-    "Personal"
-  ]
+    "adds": 1
+  }
 }
