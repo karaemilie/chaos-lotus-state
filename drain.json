@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-17T23:26:26.604Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Cash check for Genevieve",
+      "_addedAt": "2026-10-17T23:54:56.530Z",
+      "_ts": "2026-10-17T23:54:56.664Z"
+    }
+  ],
+  "mirroredAt": "2026-10-17T23:54:56.920Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
