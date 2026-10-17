@@ -961,12 +961,19 @@
       "sid": 1158,
       "label": "Get dad plane ticket from Mom",
       "uid": "SPIN_WHEEL:1158"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1159,
+      "sid": 1159,
+      "label": "Work Samples",
+      "uid": "SPIN_WHEEL:1159"
     }
   ],
-  "version": 2971,
-  "updated": "2026-10-17T05:48:23.113961+00:00",
+  "version": 2972,
+  "updated": "2026-10-17T08:55:40.197936+00:00",
   "buckets": {
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 79,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
