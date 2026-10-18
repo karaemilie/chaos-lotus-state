@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1154,
+      "label": "Charge whoop",
+      "uid": "SPIN_WHEEL:1154",
+      "_ts": "2026-10-18T08:39:54.770Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-18T08:38:16.632Z",
+  "mirroredAt": "2026-10-18T08:39:55.004Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-18T08:38:17.675810+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1160"
-  ]
+  }
 }
