@@ -6,12 +6,26 @@
       "label": "Bentley Thanksgiving",
       "uid": "SPIN_WHEEL:1137",
       "_ts": "2026-10-18T06:23:24.681Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 6,
+      "label": "Send Matt his statements for card",
+      "uid": "SPIN:683",
+      "_ts": "2026-10-18T06:23:35.755Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-10-18T06:23:30.491Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Forward a copy of Bentley American ticket to my paiback account",
+      "_addedAt": "2026-10-18T06:23:15.823Z",
+      "_ts": "2026-10-18T06:23:16.091Z"
+    }
+  ],
+  "mirroredAt": "2026-10-18T06:23:36.008Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
