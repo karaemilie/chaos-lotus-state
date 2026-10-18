@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1137,
+      "label": "Bentley Thanksgiving",
+      "uid": "SPIN_WHEEL:1137",
+      "_ts": "2026-10-18T06:23:24.681Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-10-18T06:23:16.091Z"
     }
   ],
-  "mirroredAt": "2026-10-18T06:23:16.409Z",
+  "mirroredAt": "2026-10-18T06:23:24.921Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
