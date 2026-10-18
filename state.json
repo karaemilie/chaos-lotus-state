@@ -960,12 +960,19 @@
       "sid": 1167,
       "label": "Send apartment form in",
       "uid": "SPIN_WHEEL:1167"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1168,
+      "sid": 1168,
+      "label": "Check recommendations number",
+      "uid": "SPIN_WHEEL:1168"
     }
   ],
-  "version": 2988,
-  "updated": "2026-10-18T22:13:36.731883+00:00",
+  "version": 2989,
+  "updated": "2026-10-18T22:14:20.836057+00:00",
   "buckets": {
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 79,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
