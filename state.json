@@ -939,12 +939,19 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:12246"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1165,
+      "sid": 1165,
+      "label": "Send Evan voice files to Lynnetta",
+      "uid": "SPIN_WHEEL:1165"
     }
   ],
-  "version": 2985,
-  "updated": "2026-10-18T08:40:50.169065+00:00",
+  "version": 2986,
+  "updated": "2026-10-18T08:47:50.297442+00:00",
   "buckets": {
-    "SPIN_WHEEL": 75,
+    "SPIN_WHEEL": 76,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
