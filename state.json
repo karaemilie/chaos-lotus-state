@@ -649,13 +649,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1154,
-      "sid": 1154,
-      "label": "Charge whoop",
-      "uid": "SPIN_WHEEL:1154"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1155,
       "sid": 1155,
       "label": "Set up auto deploy with Cloudflare and GitHub",
@@ -962,10 +955,10 @@
       "uid": "TASKS:12246"
     }
   ],
-  "version": 2983,
-  "updated": "2026-10-18T08:38:15.482231+00:00",
+  "version": 2984,
+  "updated": "2026-10-18T08:40:05.770054+00:00",
   "buckets": {
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 77,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
