@@ -960,12 +960,19 @@
       "sid": 1163,
       "label": "Forward a copy of Bentley American ticket to my paiback account",
       "uid": "SPIN_WHEEL:1163"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1164,
+      "sid": 1164,
+      "label": "CASH THE TWO CHECJS",
+      "uid": "SPIN_WHEEL:1164"
     }
   ],
-  "version": 2981,
-  "updated": "2026-10-18T06:24:09.549404+00:00",
+  "version": 2982,
+  "updated": "2026-10-18T06:24:12.135835+00:00",
   "buckets": {
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 79,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
