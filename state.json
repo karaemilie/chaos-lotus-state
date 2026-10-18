@@ -518,13 +518,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1139,
-      "sid": 1139,
-      "label": "8\u201d brass tray",
-      "uid": "SPIN_WHEEL:1139"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1140,
       "sid": 1140,
       "label": "Design a focus app",
@@ -565,13 +558,6 @@
       "sid": 1143,
       "label": "Add Bailey AK Air to reservation",
       "uid": "SPIN_WHEEL:1143"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1144,
-      "sid": 1144,
-      "label": "Find missing step stools",
-      "uid": "SPIN_WHEEL:1144"
     },
     {
       "source": "SPIN_WHEEL",
@@ -955,10 +941,10 @@
       "uid": "TASKS:12246"
     }
   ],
-  "version": 2984,
-  "updated": "2026-10-18T08:40:05.770054+00:00",
+  "version": 2985,
+  "updated": "2026-10-18T08:40:50.169065+00:00",
   "buckets": {
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 75,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
