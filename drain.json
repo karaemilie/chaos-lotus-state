@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-18T22:14:19.784Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Bailey Nov ticket",
+      "_addedAt": "2026-10-18T23:11:02.836Z",
+      "_ts": "2026-10-18T23:11:03.032Z"
+    }
+  ],
+  "mirroredAt": "2026-10-18T23:11:03.288Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
