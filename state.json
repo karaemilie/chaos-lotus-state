@@ -131,16 +131,6 @@
       "uid": "SPIN:1069"
     },
     {
-      "source": "ZONES",
-      "zid": 4,
-      "floor": "Upstairs",
-      "row": 5,
-      "label": "\ud83e\uddfa My Closet",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "My Closet",
-      "uid": "ZONES:4"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 130,
       "row": 131,
@@ -968,10 +958,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Calls/Voicemail",
       "uid": "ZONES:63"
+    },
+    {
+      "source": "ZONES",
+      "zid": 5,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Boys Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Boys Room",
+      "uid": "ZONES:5"
     }
   ],
-  "version": 2978,
-  "updated": "2026-10-18T02:13:45.550756+00:00",
+  "version": 2979,
+  "updated": "2026-10-18T02:21:07.810971+00:00",
   "buckets": {
     "SPIN_WHEEL": 79,
     "ZONES": 7,
