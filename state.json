@@ -409,13 +409,6 @@
       "uid": "TASKS:11216"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 683,
-      "row": 6,
-      "label": "Send Matt his statements for card",
-      "uid": "SPIN:683"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10187,
       "parentRow": 46,
@@ -496,13 +489,6 @@
       "sid": 1133,
       "label": "Load / try Wordlize",
       "uid": "SPIN_WHEEL:1133"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1137,
-      "sid": 1137,
-      "label": "Bentley Thanksgiving",
-      "uid": "SPIN_WHEEL:1137"
     },
     {
       "source": "TASKS",
@@ -976,10 +962,10 @@
       "uid": "SPIN_WHEEL:1163"
     }
   ],
-  "version": 2980,
-  "updated": "2026-10-18T06:23:31.845791+00:00",
+  "version": 2981,
+  "updated": "2026-10-18T06:24:09.549404+00:00",
   "buckets": {
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 78,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
