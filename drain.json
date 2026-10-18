@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-18T08:40:51.471Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send Evan voice files to Lynnetta",
+      "_addedAt": "2026-10-18T08:47:37.007Z",
+      "_ts": "2026-10-18T08:47:37.645Z"
+    }
+  ],
+  "mirroredAt": "2026-10-18T08:47:37.973Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-18T08:40:52.625536+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1144",
-    "SPIN_WHEEL:1139"
-  ]
+    "adds": 1
+  }
 }
