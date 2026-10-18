@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 5,
+      "zid": 4,
+      "floor": "Upstairs",
+      "label": "🧺 My Closet",
+      "uid": "ZONES:4",
+      "_ts": "2026-10-18T02:20:56.329Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-18T02:13:46.824Z",
+  "mirroredAt": "2026-10-18T02:20:56.561Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-18T02:13:47.962246+00:00",
-  "lastAutoProcessed": [
-    "ZONES:62"
-  ]
+  }
 }
