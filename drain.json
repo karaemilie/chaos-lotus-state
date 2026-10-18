@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-18T22:13:35.265Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send apartment form in",
+      "_addedAt": "2026-10-18T22:13:21.325Z",
+      "_ts": "2026-10-18T22:13:21.489Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Check recommendations number",
+      "_addedAt": "2026-10-18T22:13:52.089Z",
+      "_ts": "2026-10-18T22:13:52.234Z"
+    }
+  ],
+  "mirroredAt": "2026-10-18T22:13:52.514Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
