@@ -791,15 +791,6 @@
       "uid": "SPIN_WHEEL:1157"
     },
     {
-      "source": "ZONES",
-      "zid": 62,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Messages",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Messages",
-      "uid": "ZONES:62"
-    },
-    {
       "source": "TASKS",
       "id": 12003,
       "label": "\u2728 Clean the icemaker \ud83d\udcdd",
@@ -968,10 +959,19 @@
       "sid": 1162,
       "label": "Cash check for Genevieve",
       "uid": "SPIN_WHEEL:1162"
+    },
+    {
+      "source": "ZONES",
+      "zid": 63,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Calls/Voicemail",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Calls/Voicemail",
+      "uid": "ZONES:63"
     }
   ],
-  "version": 2977,
-  "updated": "2026-10-17T23:55:09.156931+00:00",
+  "version": 2978,
+  "updated": "2026-10-18T02:13:45.550756+00:00",
   "buckets": {
     "SPIN_WHEEL": 79,
     "ZONES": 7,
