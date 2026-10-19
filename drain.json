@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-19T07:30:13.485Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send Jason Subaru report",
+      "_addedAt": "2026-10-19T23:47:39.819Z",
+      "_ts": "2026-10-19T23:47:39.968Z"
+    }
+  ],
+  "mirroredAt": "2026-10-19T23:47:40.235Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-19T07:30:14.577686+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1169"
-  ]
+    "adds": 1
+  }
 }
