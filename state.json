@@ -517,13 +517,6 @@
       "uid": "TASKS:10913"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1140,
-      "sid": 1140,
-      "label": "Design a focus app",
-      "uid": "SPIN_WHEEL:1140"
-    },
-    {
       "source": "ZONES",
       "zid": 78,
       "floor": "Plant",
@@ -990,10 +983,10 @@
       "uid": "SPIN_WHEEL:1172"
     }
   ],
-  "version": 2994,
-  "updated": "2026-10-19T02:35:16.119965+00:00",
+  "version": 2995,
+  "updated": "2026-10-19T02:36:04.410496+00:00",
   "buckets": {
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 81,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
