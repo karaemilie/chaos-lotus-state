@@ -988,12 +988,19 @@
       "sid": 1173,
       "label": "Check Muse",
       "uid": "SPIN_WHEEL:1173"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1174,
+      "sid": 1174,
+      "label": "Program garage door",
+      "uid": "SPIN_WHEEL:1174"
     }
   ],
-  "version": 2996,
-  "updated": "2026-10-19T02:38:31.359878+00:00",
+  "version": 2997,
+  "updated": "2026-10-19T02:39:14.999075+00:00",
   "buckets": {
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 83,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
