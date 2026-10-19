@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1167,
+      "label": "Send apartment form in",
+      "uid": "SPIN_WHEEL:1167",
+      "_ts": "2026-10-19T07:28:44.716Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1168,
+      "label": "Check recommendations number",
+      "uid": "SPIN_WHEEL:1168",
+      "_ts": "2026-10-19T07:29:08.008Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-19T07:28:58.632Z",
+  "mirroredAt": "2026-10-19T07:29:08.255Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-10-19T07:28:59.911773+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1167"
-  ]
+  }
 }
