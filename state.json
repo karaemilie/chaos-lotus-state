@@ -988,12 +988,19 @@
       "sid": 1171,
       "label": "Bailey plane",
       "uid": "SPIN_WHEEL:1171"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1172,
+      "sid": 1172,
+      "label": "Patch garage walls",
+      "uid": "SPIN_WHEEL:1172"
     }
   ],
-  "version": 2992,
-  "updated": "2026-10-19T00:33:41.251827+00:00",
+  "version": 2993,
+  "updated": "2026-10-19T01:46:00.808632+00:00",
   "buckets": {
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 83,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
