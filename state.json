@@ -949,13 +949,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1169,
-      "sid": 1169,
-      "label": "Bailey Nov ticket",
-      "uid": "SPIN_WHEEL:1169"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1170,
       "sid": 1170,
       "label": "Jake plane",
@@ -983,10 +976,10 @@
       "uid": "SPIN_WHEEL:1174"
     }
   ],
-  "version": 2999,
-  "updated": "2026-10-19T07:29:32.514778+00:00",
+  "version": 3000,
+  "updated": "2026-10-19T07:30:11.896148+00:00",
   "buckets": {
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 80,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
