@@ -981,12 +981,19 @@
       "sid": 1170,
       "label": "Jake plane",
       "uid": "SPIN_WHEEL:1170"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1171,
+      "sid": 1171,
+      "label": "Bailey plane",
+      "uid": "SPIN_WHEEL:1171"
     }
   ],
-  "version": 2991,
-  "updated": "2026-10-19T00:33:00.810580+00:00",
+  "version": 2992,
+  "updated": "2026-10-19T00:33:41.251827+00:00",
   "buckets": {
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 82,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
