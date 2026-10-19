@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-19T02:36:05.704Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Check Muse",
+      "_addedAt": "2026-10-19T02:38:13.759Z",
+      "_ts": "2026-10-19T02:38:13.893Z"
+    }
+  ],
+  "mirroredAt": "2026-10-19T02:38:14.128Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-19T02:36:06.759966+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1140"
-  ]
+    "adds": 1
+  }
 }
