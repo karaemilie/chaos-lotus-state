@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-18T23:11:15.206Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Jake plane",
+      "_addedAt": "2026-10-19T00:32:44.893Z",
+      "_ts": "2026-10-19T00:32:45.072Z"
+    }
+  ],
+  "mirroredAt": "2026-10-19T00:32:45.315Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
