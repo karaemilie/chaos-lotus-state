@@ -1075,12 +1075,19 @@
       "sid": 1181,
       "label": "Send Jake a microwave neck warmer",
       "uid": "SPIN_WHEEL:1181"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1182,
+      "sid": 1182,
+      "label": "Find Jake neck mask",
+      "uid": "SPIN_WHEEL:1182"
     }
   ],
-  "version": 3007,
-  "updated": "2026-10-20T05:43:05.355068+00:00",
+  "version": 3008,
+  "updated": "2026-10-20T05:43:57.126015+00:00",
   "buckets": {
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 88,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
