@@ -13,6 +13,13 @@
       "label": "Send Jake a microwave neck warmer",
       "uid": "SPIN_WHEEL:1181",
       "_ts": "2026-10-20T06:34:47.579Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1182,
+      "label": "Find Jake neck mask",
+      "uid": "SPIN_WHEEL:1182",
+      "_ts": "2026-10-20T06:34:52.215Z"
     }
   ],
   "adds": [
@@ -47,9 +54,9 @@
       "_ts": "2026-10-20T06:34:31.904Z"
     }
   ],
-  "mirroredAt": "2026-10-20T06:34:47.806Z",
+  "mirroredAt": "2026-10-20T06:34:52.429Z",
   "counts": {
-    "completions": 2,
+    "completions": 3,
     "adds": 5
   }
 }
