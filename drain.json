@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-20T05:43:03.406Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send Jake a microwave neck warmer",
+      "_addedAt": "2026-10-20T05:42:45.718Z",
+      "_ts": "2026-10-20T05:42:45.887Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Find Jake neck mask",
+      "_addedAt": "2026-10-20T05:43:11.094Z",
+      "_ts": "2026-10-20T05:43:11.277Z"
+    }
+  ],
+  "mirroredAt": "2026-10-20T05:43:11.523Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
