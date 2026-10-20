@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-20T02:15:23.567Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send Jake a microwave neck warmer",
+      "_addedAt": "2026-10-20T05:42:45.718Z",
+      "_ts": "2026-10-20T05:42:45.887Z"
+    }
+  ],
+  "mirroredAt": "2026-10-20T05:42:46.121Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-20T02:15:24.871003+00:00",
-  "lastAutoProcessed": [
-    "ZONES:63"
-  ]
+    "adds": 1
+  }
 }
