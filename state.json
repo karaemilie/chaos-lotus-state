@@ -1109,12 +1109,19 @@
       "sid": 1189,
       "label": "Guest room at Christmas",
       "uid": "SPIN_WHEEL:1189"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1190,
+      "sid": 1190,
+      "label": "Hilltop pass",
+      "uid": "SPIN_WHEEL:1190"
     }
   ],
-  "version": 3017,
-  "updated": "2026-10-20T23:10:21.164141+00:00",
+  "version": 3018,
+  "updated": "2026-10-20T23:22:14.704304+00:00",
   "buckets": {
-    "SPIN_WHEEL": 92,
+    "SPIN_WHEEL": 93,
     "ZONES": 7,
     "COURAGE": 4,
     "TASKS": 26,
