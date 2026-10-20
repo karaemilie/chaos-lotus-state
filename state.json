@@ -504,19 +504,6 @@
       "uid": "TASKS:11967"
     },
     {
-      "source": "TASKS",
-      "id": 10913,
-      "label": "Set up light box on a timer for boys 9-11am \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10913"
-    },
-    {
       "source": "ZONES",
       "zid": 78,
       "floor": "Plant",
@@ -531,19 +518,6 @@
       "sid": 1141,
       "label": "Assess space under porch",
       "uid": "SPIN_WHEEL:1141"
-    },
-    {
-      "source": "TASKS",
-      "id": 12177,
-      "label": "Update project file in Xmind - window panel, cedar chest, bar stools, kitchen tile, \u2026! Need official sequence to home projects",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12177"
     },
     {
       "source": "SPIN_WHEEL",
@@ -812,15 +786,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 63,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Calls/Voicemail",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Calls/Voicemail",
-      "uid": "ZONES:63"
-    },
-    {
-      "source": "ZONES",
       "zid": 5,
       "floor": "Upstairs",
       "label": "\ud83e\uddfa Boys Room",
@@ -1016,15 +981,102 @@
       "sid": 1180,
       "label": "Give away electrolyte water",
       "uid": "SPIN_WHEEL:1180"
+    },
+    {
+      "source": "ZONES",
+      "zid": 64,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb OneTab",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "OneTab",
+      "uid": "ZONES:64"
+    },
+    {
+      "source": "TASKS",
+      "id": 11994,
+      "label": "\u2728 Charge the red candles \ud83d\udd6f\ufe0f\u2764\ufe0f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11994"
+    },
+    {
+      "source": "TASKS",
+      "id": 12058,
+      "label": "\u2728 Set up teeth cleanings \ud83e\uddb7\ud83e\udea5",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:12058"
+    },
+    {
+      "source": "TASKS",
+      "id": 12134,
+      "label": "\u2728 Cancel IXL ($25/month)",
+      "aw": 3,
+      "pri": null,
+      "dur": 15,
+      "ml": null,
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12134"
+    },
+    {
+      "source": "TASKS",
+      "id": 12157,
+      "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
+      "aw": 6,
+      "pri": "Medium",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12157"
+    },
+    {
+      "source": "TASKS",
+      "id": 12218,
+      "label": "\u2728 Water snake plants",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12218"
+    },
+    {
+      "source": "TASKS",
+      "id": 12258,
+      "label": "\u2728 Clear the upstairs trashes",
+      "aw": 4,
+      "pri": null,
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": true,
+      "uid": "TASKS:12258"
     }
   ],
-  "version": 3005,
-  "updated": "2026-10-20T02:12:19.024681+00:00",
+  "version": 3006,
+  "updated": "2026-10-20T02:15:21.800205+00:00",
   "buckets": {
     "SPIN_WHEEL": 86,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
-    "TASKS": 22
+    "TASKS": 26
   }
 }
