@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-20T00:49:10.628Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Call Christina",
+      "_addedAt": "2026-10-20T01:00:28.308Z",
+      "_ts": "2026-10-20T01:00:28.499Z"
+    }
+  ],
+  "mirroredAt": "2026-10-20T01:00:28.750Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
