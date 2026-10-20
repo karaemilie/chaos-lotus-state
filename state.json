@@ -131,15 +131,6 @@
       "uid": "SPIN:1069"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 130,
-      "row": 131,
-      "label": "\ud83c\udfe0 Clean the cat fountain",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Clean the cat fountain",
-      "uid": "MAINTENANCE:130"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1058,
       "row": 32,
@@ -1089,15 +1080,23 @@
       "sid": 1183,
       "label": "Shaving cream",
       "uid": "SPIN_WHEEL:1183"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 132,
+      "label": "\ud83c\udfe0 Scrub cats food plate",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Scrub cats food plate",
+      "uid": "MAINTENANCE:132"
     }
   ],
-  "version": 3009,
-  "updated": "2026-10-20T05:52:24.612947+00:00",
+  "version": 3010,
+  "updated": "2026-10-20T06:19:21.301346+00:00",
   "buckets": {
     "SPIN_WHEEL": 89,
     "ZONES": 7,
     "COURAGE": 4,
-    "MAINTENANCE": 2,
-    "TASKS": 26
+    "TASKS": 26,
+    "MAINTENANCE": 2
   }
 }
