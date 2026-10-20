@@ -1055,20 +1055,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1181,
-      "sid": 1181,
-      "label": "Send Jake a microwave neck warmer",
-      "uid": "SPIN_WHEEL:1181"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1182,
-      "sid": 1182,
-      "label": "Find Jake neck mask",
-      "uid": "SPIN_WHEEL:1182"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1183,
       "sid": 1183,
       "label": "Shaving cream",
@@ -1111,10 +1097,10 @@
       "uid": "SPIN_WHEEL:1187"
     }
   ],
-  "version": 3014,
-  "updated": "2026-10-20T06:34:44.235027+00:00",
+  "version": 3015,
+  "updated": "2026-10-20T06:35:24.228005+00:00",
   "buckets": {
-    "SPIN_WHEEL": 92,
+    "SPIN_WHEEL": 90,
     "ZONES": 7,
     "COURAGE": 4,
     "TASKS": 26,
