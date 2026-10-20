@@ -1068,12 +1068,19 @@
       "cat": "Home",
       "critical": true,
       "uid": "TASKS:12258"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1181,
+      "sid": 1181,
+      "label": "Send Jake a microwave neck warmer",
+      "uid": "SPIN_WHEEL:1181"
     }
   ],
-  "version": 3006,
-  "updated": "2026-10-20T02:15:21.800205+00:00",
+  "version": 3007,
+  "updated": "2026-10-20T05:43:05.355068+00:00",
   "buckets": {
-    "SPIN_WHEEL": 86,
+    "SPIN_WHEEL": 87,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
