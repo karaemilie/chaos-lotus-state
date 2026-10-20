@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-20T06:19:22.622Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Transfer money back from Genevieve",
+      "_addedAt": "2026-10-20T06:32:51.893Z",
+      "_ts": "2026-10-20T06:32:52.034Z"
+    }
+  ],
+  "mirroredAt": "2026-10-20T06:32:52.297Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-20T06:19:23.868093+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:130"
-  ]
+    "adds": 1
+  }
 }
