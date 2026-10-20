@@ -1088,12 +1088,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Scrub cats food plate",
       "uid": "MAINTENANCE:132"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1184,
+      "sid": 1184,
+      "label": "Transfer money back from Genevieve",
+      "uid": "SPIN_WHEEL:1184"
     }
   ],
-  "version": 3010,
-  "updated": "2026-10-20T06:19:21.301346+00:00",
+  "version": 3011,
+  "updated": "2026-10-20T06:33:10.606177+00:00",
   "buckets": {
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 90,
     "ZONES": 7,
     "COURAGE": 4,
     "TASKS": 26,
