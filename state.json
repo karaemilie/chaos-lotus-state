@@ -664,13 +664,6 @@
       "uid": "SPIN_WHEEL:1158"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1159,
-      "sid": 1159,
-      "label": "Work Samples",
-      "uid": "SPIN_WHEEL:1159"
-    },
-    {
       "source": "TASKS",
       "id": 12046,
       "label": "\u2728 Air tags - check batteries",
@@ -1104,10 +1097,10 @@
       "uid": "SPIN_WHEEL:1185"
     }
   ],
-  "version": 3012,
-  "updated": "2026-10-20T06:33:52.053652+00:00",
+  "version": 3013,
+  "updated": "2026-10-20T06:34:40.818885+00:00",
   "buckets": {
-    "SPIN_WHEEL": 91,
+    "SPIN_WHEEL": 90,
     "ZONES": 7,
     "COURAGE": 4,
     "TASKS": 26,
