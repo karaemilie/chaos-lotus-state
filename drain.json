@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-20T23:10:19.818Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Hilltop pass",
+      "_addedAt": "2026-10-20T23:21:57.647Z",
+      "_ts": "2026-10-20T23:21:57.819Z"
+    }
+  ],
+  "mirroredAt": "2026-10-20T23:21:58.081Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
