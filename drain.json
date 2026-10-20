@@ -3,14 +3,26 @@
   "adds": [
     {
       "source": "PLUS_ADD",
+      "label": "Call Christina",
+      "_addedAt": "2026-10-20T01:00:28.308Z",
+      "_ts": "2026-10-20T01:00:28.499Z"
+    },
+    {
+      "source": "PLUS_ADD",
       "label": "Get rates from Kevin",
       "_addedAt": "2026-10-20T01:00:34.786Z",
       "_ts": "2026-10-20T01:00:34.903Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Figure out how title works",
+      "_addedAt": "2026-10-20T01:00:56.882Z",
+      "_ts": "2026-10-20T01:00:57.063Z"
     }
   ],
-  "mirroredAt": "2026-10-20T01:00:44.357Z",
+  "mirroredAt": "2026-10-20T01:00:57.304Z",
   "counts": {
     "completions": 0,
-    "adds": 1
+    "adds": 3
   }
 }
