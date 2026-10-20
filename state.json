@@ -1082,12 +1082,19 @@
       "sid": 1182,
       "label": "Find Jake neck mask",
       "uid": "SPIN_WHEEL:1182"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1183,
+      "sid": 1183,
+      "label": "Shaving cream",
+      "uid": "SPIN_WHEEL:1183"
     }
   ],
-  "version": 3008,
-  "updated": "2026-10-20T05:43:57.126015+00:00",
+  "version": 3009,
+  "updated": "2026-10-20T05:52:24.612947+00:00",
   "buckets": {
-    "SPIN_WHEEL": 88,
+    "SPIN_WHEEL": 89,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2,
