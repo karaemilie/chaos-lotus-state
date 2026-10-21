@@ -1,17 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-21T08:46:39.908Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "🔥 Help Bentley schedule CNA exam / figure out timeline 📝",
+      "_addedAt": "2026-10-21T09:02:27.073Z",
+      "reschedule": {
+        "uid": "COURAGE:10218:0",
+        "id": 10218,
+        "label": "🔥 Help Bentley schedule CNA exam / figure out timeline 📝",
+        "start": "2026-10-31"
+      },
+      "_ts": "2026-10-21T09:02:27.254Z"
+    }
+  ],
+  "mirroredAt": "2026-10-21T09:02:27.496Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-21T08:46:41.174871+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1162",
-    "SPIN_WHEEL:1193",
-    "TASKS:12039",
-    "TASKS:12204",
-    "TASKS:12202"
-  ]
+    "adds": 1
+  }
 }
