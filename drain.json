@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1162,
+      "label": "Cash check for Genevieve",
+      "uid": "SPIN_WHEEL:1162",
+      "_ts": "2026-10-21T08:44:07.196Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12039,
+      "label": "✨ Next month plan: keep or change or pause AK Club membership?",
+      "uid": "TASKS:12039",
+      "_ts": "2026-10-21T08:44:46.069Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-21T08:44:22.023Z",
+  "mirroredAt": "2026-10-21T08:44:46.292Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-10-21T08:44:23.401078+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1162"
-  ]
+  }
 }
