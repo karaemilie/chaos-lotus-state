@@ -1218,12 +1218,19 @@
       "sid": 1200,
       "label": "Request ring refund, order new one",
       "uid": "SPIN_WHEEL:1200"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1201,
+      "sid": 1201,
+      "label": "Deal with twin mattresses, then dump time",
+      "uid": "SPIN_WHEEL:1201"
     }
   ],
-  "version": 3030,
-  "updated": "2026-10-21T07:54:00.174095+00:00",
+  "version": 3031,
+  "updated": "2026-10-21T08:30:52.916865+00:00",
   "buckets": {
-    "SPIN_WHEEL": 102,
+    "SPIN_WHEEL": 103,
     "ZONES": 7,
     "COURAGE": 4,
     "TASKS": 29,
