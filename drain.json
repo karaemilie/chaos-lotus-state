@@ -1,40 +1,9 @@
 {
   "completions": [],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Set up auto deploy with Cloudflare and GitHub",
-      "_addedAt": "2026-10-21T09:22:56.454Z",
-      "promote": {
-        "fromUid": "SPIN:1155",
-        "sid": 1155,
-        "label": "Set up auto deploy with Cloudflare and GitHub",
-        "origLabel": "Set up auto deploy with Cloudflare and GitHub",
-        "start": "2026-11-02",
-        "category": "Home",
-        "aw": 5
-      },
-      "_ts": "2026-10-21T09:22:56.713Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Send Jason Subaru report",
-      "_addedAt": "2026-10-21T09:23:13.825Z",
-      "promote": {
-        "fromUid": "SPIN:1175",
-        "sid": 1175,
-        "label": "Send Jason Subaru report",
-        "origLabel": "Send Jason Subaru report",
-        "start": "2026-10-26",
-        "category": "Home",
-        "aw": 5
-      },
-      "_ts": "2026-10-21T09:23:13.967Z"
-    }
-  ],
-  "mirroredAt": "2026-10-21T09:23:14.212Z",
+  "adds": [],
+  "mirroredAt": "2026-10-21T09:23:48.129Z",
   "counts": {
     "completions": 0,
-    "adds": 2
+    "adds": 0
   }
 }
