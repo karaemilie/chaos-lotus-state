@@ -632,13 +632,6 @@
       "uid": "ZONES:81"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1158,
-      "sid": 1158,
-      "label": "Get dad plane ticket from Mom",
-      "uid": "SPIN_WHEEL:1158"
-    },
-    {
       "source": "TASKS",
       "id": 12046,
       "label": "\u2728 Air tags - check batteries",
@@ -650,19 +643,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12046"
-    },
-    {
-      "source": "TASKS",
-      "id": 12149,
-      "label": "\u2728 Grab the gold candles and charge them \ud83d\udd6f\ufe0f",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12149"
     },
     {
       "source": "TASKS",
@@ -1206,13 +1186,13 @@
       "uid": "ZONES:6"
     }
   ],
-  "version": 3035,
-  "updated": "2026-10-21T08:40:00.915338+00:00",
+  "version": 3036,
+  "updated": "2026-10-21T08:40:42.282885+00:00",
   "buckets": {
-    "SPIN_WHEEL": 100,
+    "SPIN_WHEEL": 99,
     "ZONES": 7,
     "COURAGE": 4,
-    "TASKS": 29,
+    "TASKS": 28,
     "MAINTENANCE": 2
   }
 }
