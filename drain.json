@@ -1,9 +1,75 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1176,
+      "label": "Get a labor quote from Kevin",
+      "uid": "SPIN_WHEEL:1176",
+      "_ts": "2026-10-21T08:39:14.381Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 5,
+      "floor": "Upstairs",
+      "label": "🧺 Boys Room",
+      "uid": "ZONES:5",
+      "_ts": "2026-10-21T08:39:42.364Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1158,
+      "label": "Get dad plane ticket from Mom",
+      "uid": "SPIN_WHEEL:1158",
+      "_ts": "2026-10-21T08:40:14.184Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1156,
+      "label": "School room PurA hibiscus refresh",
+      "uid": "SPIN_WHEEL:1156",
+      "_ts": "2026-10-21T08:40:28.423Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1152,
+      "label": "Get a treadmill for Dad",
+      "uid": "SPIN_WHEEL:1152",
+      "_ts": "2026-10-21T08:40:36.063Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1146,
+      "label": "POA for parents",
+      "uid": "SPIN_WHEEL:1146",
+      "_ts": "2026-10-21T08:40:58.533Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11967,
+      "label": "✨ Cancel ultraviner $15/month if not using",
+      "uid": "TASKS:11967",
+      "_ts": "2026-10-21T08:41:11.465Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1199,
+      "label": "Load Wordlize",
+      "uid": "SPIN_WHEEL:1199",
+      "_ts": "2026-10-21T08:41:21.710Z"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11221,
+      "stepIndex": 0,
+      "label": "🔥 Email WWAMI re: personal letter for Bentley application 📝",
+      "uid": "COURAGE:11221:0",
+      "_ts": "2026-10-21T08:42:16.586Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-21T08:41:23.190Z",
+  "mirroredAt": "2026-10-21T08:42:16.812Z",
   "counts": {
-    "completions": 0,
+    "completions": 9,
     "adds": 0
   }
 }
