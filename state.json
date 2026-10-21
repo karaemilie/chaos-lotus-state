@@ -1130,12 +1130,26 @@
       "sid": 1192,
       "label": "Scaffolding - buy",
       "uid": "SPIN_WHEEL:1192"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1193,
+      "sid": 1193,
+      "label": "Glove bin for Dad",
+      "uid": "SPIN_WHEEL:1193"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1194,
+      "sid": 1194,
+      "label": "Garage shelving for winter storage",
+      "uid": "SPIN_WHEEL:1194"
     }
   ],
-  "version": 3020,
-  "updated": "2026-10-21T00:03:51.598343+00:00",
+  "version": 3021,
+  "updated": "2026-10-21T00:04:33.323188+00:00",
   "buckets": {
-    "SPIN_WHEEL": 95,
+    "SPIN_WHEEL": 97,
     "ZONES": 7,
     "COURAGE": 4,
     "TASKS": 26,
