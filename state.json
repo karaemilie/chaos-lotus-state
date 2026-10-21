@@ -225,13 +225,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1101,
-      "row": 55,
-      "label": "Find Red Rising for Lincoln!!",
-      "uid": "SPIN:1101"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1088,
       "row": 45,
       "label": "Reset Robomow",
@@ -1144,10 +1137,10 @@
       "uid": "COURAGE:10162:0"
     }
   ],
-  "version": 3038,
-  "updated": "2026-10-21T08:42:30.641625+00:00",
+  "version": 3039,
+  "updated": "2026-10-21T08:43:06.440709+00:00",
   "buckets": {
-    "SPIN_WHEEL": 95,
+    "SPIN_WHEEL": 94,
     "ZONES": 7,
     "TASKS": 27,
     "MAINTENANCE": 2,
