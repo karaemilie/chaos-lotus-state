@@ -1123,12 +1123,19 @@
       "sid": 1191,
       "label": "Super sweeper for the vehicles",
       "uid": "SPIN_WHEEL:1191"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1192,
+      "sid": 1192,
+      "label": "Scaffolding - buy",
+      "uid": "SPIN_WHEEL:1192"
     }
   ],
-  "version": 3019,
-  "updated": "2026-10-20T23:47:51.036485+00:00",
+  "version": 3020,
+  "updated": "2026-10-21T00:03:51.598343+00:00",
   "buckets": {
-    "SPIN_WHEEL": 94,
+    "SPIN_WHEEL": 95,
     "ZONES": 7,
     "COURAGE": 4,
     "TASKS": 26,
