@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 80,
+      "label": "Transfer money back from Genevieve",
+      "uid": "SPIN:1184",
+      "_ts": "2026-10-21T09:03:05.234Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-21T09:02:42.578Z",
+  "mirroredAt": "2026-10-21T09:03:05.471Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
