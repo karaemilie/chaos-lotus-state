@@ -908,20 +908,6 @@
       "uid": "TASKS:12203"
     },
     {
-      "source": "TASKS",
-      "id": 12046,
-      "row": 270,
-      "label": "\u2728 Air tags - check batteries",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12046"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1190,
       "row": 85,
@@ -1098,10 +1084,23 @@
       "label": "\ud83d\udd25 Submit rock gym to FPCS",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:12063:0"
+    },
+    {
+      "source": "TASKS",
+      "id": 10913,
+      "label": "Set up light box on a timer for boys 9-11am \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10913"
     }
   ],
-  "version": 3047,
-  "updated": "2026-10-21T09:03:46.133724+00:00",
+  "version": 3048,
+  "updated": "2026-10-21T09:04:46.382875+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 90,
