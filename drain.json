@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-21T00:04:31.696Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pick a Subaru sales guy",
+      "_addedAt": "2026-10-21T00:46:49.387Z",
+      "_ts": "2026-10-21T00:46:49.593Z"
+    }
+  ],
+  "mirroredAt": "2026-10-21T00:46:49.843Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
