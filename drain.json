@@ -1,13 +1,30 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-21T08:38:25.070Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1195,
+      "label": "Pick a Subaru sales guy",
+      "uid": "SPIN_WHEEL:1195",
+      "_ts": "2026-10-21T08:38:11.963Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Help Evan plan a game night 🎲🎮",
+      "_addedAt": "2026-10-21T08:38:59.724Z",
+      "reschedule": {
+        "uid": "TASKS:12157",
+        "id": 12157,
+        "label": "✨ Help Evan plan a game night 🎲🎮",
+        "start": "2026-10-25"
+      },
+      "_ts": "2026-10-21T08:38:59.912Z"
+    }
+  ],
+  "mirroredAt": "2026-10-21T08:39:00.150Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-21T08:38:26.454230+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1195"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
