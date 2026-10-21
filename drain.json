@@ -1,50 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1176,
-      "label": "Get a labor quote from Kevin",
-      "uid": "SPIN_WHEEL:1176",
-      "_ts": "2026-10-21T08:39:14.381Z"
-    },
-    {
-      "source": "ZONES",
-      "zid": 5,
-      "floor": "Upstairs",
-      "label": "🧺 Boys Room",
-      "uid": "ZONES:5",
-      "_ts": "2026-10-21T08:39:42.364Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "✨ Help Evan plan a game night 🎲🎮",
-      "_addedAt": "2026-10-21T08:38:59.724Z",
-      "reschedule": {
-        "uid": "TASKS:12157",
-        "id": 12157,
-        "label": "✨ Help Evan plan a game night 🎲🎮",
-        "start": "2026-10-25"
-      },
-      "_ts": "2026-10-21T08:38:59.912Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "✨ Charge the red candles 🕯️❤️",
-      "_addedAt": "2026-10-21T08:39:07.796Z",
-      "reschedule": {
-        "uid": "TASKS:11994",
-        "id": 11994,
-        "label": "✨ Charge the red candles 🕯️❤️",
-        "start": "2026-10-24"
-      },
-      "_ts": "2026-10-21T08:39:07.937Z"
-    }
-  ],
-  "mirroredAt": "2026-10-21T08:39:42.590Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-10-21T08:40:02.512Z",
   "counts": {
-    "completions": 2,
-    "adds": 2
+    "completions": 0,
+    "adds": 0
   }
 }
