@@ -744,15 +744,6 @@
       "uid": "SPIN_WHEEL:1162"
     },
     {
-      "source": "ZONES",
-      "zid": 5,
-      "floor": "Upstairs",
-      "label": "\ud83e\uddfa Boys Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Boys Room",
-      "uid": "ZONES:5"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1163,
       "sid": 1163,
@@ -908,13 +899,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1176,
-      "sid": 1176,
-      "label": "Get a labor quote from Kevin",
-      "uid": "SPIN_WHEEL:1176"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1177,
       "sid": 1177,
       "label": "Call Christina",
@@ -949,19 +933,6 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "OneTab",
       "uid": "ZONES:64"
-    },
-    {
-      "source": "TASKS",
-      "id": 11994,
-      "label": "\u2728 Charge the red candles \ud83d\udd6f\ufe0f\u2764\ufe0f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11994"
     },
     {
       "source": "TASKS",
@@ -1224,15 +1195,24 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12259"
+    },
+    {
+      "source": "ZONES",
+      "zid": 6,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Genevieve's Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Genevieve's Room",
+      "uid": "ZONES:6"
     }
   ],
-  "version": 3034,
-  "updated": "2026-10-21T08:39:14.324612+00:00",
+  "version": 3035,
+  "updated": "2026-10-21T08:40:00.915338+00:00",
   "buckets": {
-    "SPIN_WHEEL": 101,
+    "SPIN_WHEEL": 100,
     "ZONES": 7,
     "COURAGE": 4,
-    "TASKS": 30,
+    "TASKS": 29,
     "MAINTENANCE": 2
   }
 }
