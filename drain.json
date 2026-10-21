@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-21T09:23:48.129Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ponder garage gym",
+      "_addedAt": "2026-10-21T22:38:29.885Z",
+      "_ts": "2026-10-21T22:38:30.011Z"
+    }
+  ],
+  "mirroredAt": "2026-10-21T22:38:30.306Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
