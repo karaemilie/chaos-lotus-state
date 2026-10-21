@@ -1,25 +1,9 @@
 {
   "completions": [],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Set up auto deploy with Cloudflare and GitHub",
-      "_addedAt": "2026-10-21T09:22:56.454Z",
-      "promote": {
-        "fromUid": "SPIN:1155",
-        "sid": 1155,
-        "label": "Set up auto deploy with Cloudflare and GitHub",
-        "origLabel": "Set up auto deploy with Cloudflare and GitHub",
-        "start": "2026-11-02",
-        "category": "Home",
-        "aw": 5
-      },
-      "_ts": "2026-10-21T09:22:56.713Z"
-    }
-  ],
-  "mirroredAt": "2026-10-21T09:22:57.049Z",
+  "adds": [],
+  "mirroredAt": "2026-10-21T09:23:10.429Z",
   "counts": {
     "completions": 0,
-    "adds": 1
+    "adds": 0
   }
 }
