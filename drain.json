@@ -1,9 +1,63 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-21T08:45:55.078Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1162,
+      "label": "Cash check for Genevieve",
+      "uid": "SPIN_WHEEL:1162",
+      "_ts": "2026-10-21T08:44:07.196Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12039,
+      "label": "✨ Next month plan: keep or change or pause AK Club membership?",
+      "uid": "TASKS:12039",
+      "_ts": "2026-10-21T08:44:46.069Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1193,
+      "label": "Glove bin for Dad",
+      "uid": "SPIN_WHEEL:1193",
+      "_ts": "2026-10-21T08:45:32.180Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12204,
+      "label": "✨ Review IXL assessments for Lincoln",
+      "uid": "TASKS:12204",
+      "_ts": "2026-10-21T08:46:05.794Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Add solo & ensemble to calendar, find group & solo pieces",
+      "_addedAt": "2026-10-21T08:44:58.875Z",
+      "reschedule": {
+        "uid": "TASKS:10436",
+        "id": 10436,
+        "label": "✨ Add solo & ensemble to calendar, find group & solo pieces",
+        "start": "2026-10-24"
+      },
+      "_ts": "2026-10-21T08:44:59.026Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "🔥 Review Jake's 529 investments with him 📝",
+      "_addedAt": "2026-10-21T08:45:11.488Z",
+      "reschedule": {
+        "uid": "COURAGE:10162:0",
+        "id": 10162,
+        "label": "🔥 Review Jake's 529 investments with him 📝",
+        "start": "2026-10-27"
+      },
+      "_ts": "2026-10-21T08:45:11.681Z"
+    }
+  ],
+  "mirroredAt": "2026-10-21T08:46:06.024Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 4,
+    "adds": 2
   }
 }
