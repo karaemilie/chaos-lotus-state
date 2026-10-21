@@ -1,24 +1,22 @@
 {
-  "completions": [
+  "completions": [],
+  "adds": [
     {
-      "source": "SPIN_WHEEL",
-      "row": 1162,
-      "label": "Cash check for Genevieve",
-      "uid": "SPIN_WHEEL:1162",
-      "_ts": "2026-10-21T08:44:07.196Z"
-    },
-    {
-      "source": "TASKS",
-      "id": 12039,
-      "label": "✨ Next month plan: keep or change or pause AK Club membership?",
-      "uid": "TASKS:12039",
-      "_ts": "2026-10-21T08:44:46.069Z"
+      "source": "PLUS_ADD",
+      "label": "✨ Add solo & ensemble to calendar, find group & solo pieces",
+      "_addedAt": "2026-10-21T08:44:58.875Z",
+      "reschedule": {
+        "uid": "TASKS:10436",
+        "id": 10436,
+        "label": "✨ Add solo & ensemble to calendar, find group & solo pieces",
+        "start": "2026-10-24"
+      },
+      "_ts": "2026-10-21T08:44:59.026Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-10-21T08:44:46.292Z",
+  "mirroredAt": "2026-10-21T08:45:02.515Z",
   "counts": {
-    "completions": 2,
-    "adds": 0
+    "completions": 0,
+    "adds": 1
   }
 }
