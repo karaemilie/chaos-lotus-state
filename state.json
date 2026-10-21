@@ -1073,13 +1073,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1188,
-      "sid": 1188,
-      "label": "TONIGHT",
-      "uid": "SPIN_WHEEL:1188"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1189,
       "sid": 1189,
       "label": "Guest room at Christmas",
@@ -1225,15 +1218,41 @@
       "sid": 1201,
       "label": "Deal with twin mattresses, then dump time",
       "uid": "SPIN_WHEEL:1201"
+    },
+    {
+      "source": "TASKS",
+      "id": 12254,
+      "label": "\u2728 Refill vitamin boxes for Lincoln & Evan \ud83d\udc8a",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:12254"
+    },
+    {
+      "source": "TASKS",
+      "id": 12259,
+      "label": "\u2728 Put on new tattoo",
+      "aw": 4,
+      "pri": 3,
+      "dur": 10,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12259"
     }
   ],
-  "version": 3031,
-  "updated": "2026-10-21T08:30:52.916865+00:00",
+  "version": 3032,
+  "updated": "2026-10-21T08:31:30.361755+00:00",
   "buckets": {
-    "SPIN_WHEEL": 103,
+    "SPIN_WHEEL": 102,
     "ZONES": 7,
     "COURAGE": 4,
-    "TASKS": 29,
+    "TASKS": 31,
     "MAINTENANCE": 2
   }
 }
