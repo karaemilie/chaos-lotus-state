@@ -14,6 +14,13 @@
       "label": "🧺 Boys Room",
       "uid": "ZONES:5",
       "_ts": "2026-10-21T08:39:42.364Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1158,
+      "label": "Get dad plane ticket from Mom",
+      "uid": "SPIN_WHEEL:1158",
+      "_ts": "2026-10-21T08:40:14.184Z"
     }
   ],
   "adds": [
@@ -42,9 +49,9 @@
       "_ts": "2026-10-21T08:40:08.572Z"
     }
   ],
-  "mirroredAt": "2026-10-21T08:40:08.804Z",
+  "mirroredAt": "2026-10-21T08:40:14.420Z",
   "counts": {
-    "completions": 2,
+    "completions": 3,
     "adds": 2
   }
 }
