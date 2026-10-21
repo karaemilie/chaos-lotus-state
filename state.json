@@ -979,13 +979,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1193,
-      "sid": 1193,
-      "label": "Glove bin for Dad",
-      "uid": "SPIN_WHEEL:1193"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1194,
       "sid": 1194,
       "label": "Garage shelving for winter storage",
@@ -999,19 +992,6 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Bedroom",
       "uid": "ZONES:73"
-    },
-    {
-      "source": "TASKS",
-      "id": 10436,
-      "label": "\u2728 Add solo & ensemble to calendar, find group & solo pieces",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10436"
     },
     {
       "source": "TASKS",
@@ -1107,22 +1087,22 @@
     },
     {
       "source": "COURAGE",
-      "parentId": 10162,
+      "parentId": 10186,
       "stepIndex": 0,
-      "parentLabel": "Review Jake's 529 investments with him \ud83d\udcdd",
+      "parentLabel": "Talk to Jake about his PFD \ud83d\udcdd",
       "aw": 2,
       "due": "2026-07-06",
-      "label": "\ud83d\udd25 Review Jake's 529 investments with him \ud83d\udcdd",
+      "label": "\ud83d\udd25 Talk to Jake about his PFD \ud83d\udcdd",
       "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:10162:0"
+      "uid": "COURAGE:10186:0"
     }
   ],
-  "version": 3041,
-  "updated": "2026-10-21T08:44:59.039086+00:00",
+  "version": 3042,
+  "updated": "2026-10-21T08:45:51.955095+00:00",
   "buckets": {
-    "SPIN_WHEEL": 93,
+    "SPIN_WHEEL": 92,
     "ZONES": 7,
-    "TASKS": 26,
+    "TASKS": 25,
     "MAINTENANCE": 2,
     "COURAGE": 4
   }
