@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 80,
+      "label": "Transfer money back from Genevieve",
+      "uid": "SPIN:1184",
+      "_ts": "2026-10-21T09:03:05.234Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 67,
+      "label": "CASH THE TWO CHECJS",
+      "uid": "SPIN:1164",
+      "_ts": "2026-10-21T09:03:27.977Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-21T09:03:23.193Z",
+  "mirroredAt": "2026-10-21T09:03:28.209Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-10-21T09:03:24.643614+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1184"
-  ]
+  }
 }
