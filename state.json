@@ -129,13 +129,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1184,
-      "row": 80,
-      "label": "Transfer money back from Genevieve",
-      "uid": "SPIN:1184"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1098,
       "row": 40,
       "label": "Reimburse $900 Oct rent Genevieve (or pull against ERAU refund to Cu1? Hmmm)",
@@ -1114,11 +1107,11 @@
       "uid": "COURAGE:12063:0"
     }
   ],
-  "version": 3045,
-  "updated": "2026-10-21T09:02:41.061694+00:00",
+  "version": 3046,
+  "updated": "2026-10-21T09:03:21.658944+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 92,
+    "SPIN_WHEEL": 91,
     "ZONES": 9,
     "TASKS": 23,
     "MAINTENANCE": 2
