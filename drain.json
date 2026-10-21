@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-21T07:50:43.660Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Request ring refund, order new one",
+      "_addedAt": "2026-10-21T07:53:41.680Z",
+      "_ts": "2026-10-21T07:53:42.394Z"
+    }
+  ],
+  "mirroredAt": "2026-10-21T07:53:42.892Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-21T07:50:44.933547+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1107"
-  ]
+    "adds": 1
+  }
 }
