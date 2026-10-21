@@ -1015,19 +1015,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12039,
-      "label": "\u2728 Next month plan: keep or change or pause AK Club membership?",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12039"
-    },
-    {
-      "source": "TASKS",
       "id": 12154,
       "label": "\u2728 List 3-5 plants for sale on marketplace \ud83e\udeb4\ud83d\udcb0 \ud83d\udcdd",
       "aw": 5,
@@ -1130,12 +1117,12 @@
       "uid": "COURAGE:10162:0"
     }
   ],
-  "version": 3040,
-  "updated": "2026-10-21T08:44:20.537496+00:00",
+  "version": 3041,
+  "updated": "2026-10-21T08:44:59.039086+00:00",
   "buckets": {
     "SPIN_WHEEL": 93,
     "ZONES": 7,
-    "TASKS": 27,
+    "TASKS": 26,
     "MAINTENANCE": 2,
     "COURAGE": 4
   }
