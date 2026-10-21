@@ -495,15 +495,6 @@
       "uid": "TASKS:11967"
     },
     {
-      "source": "ZONES",
-      "zid": 78,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Family Room Props",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Props",
-      "uid": "ZONES:78"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1141,
       "sid": 1141,
@@ -1151,15 +1142,63 @@
       "sid": 1195,
       "label": "Pick a Subaru sales guy",
       "uid": "SPIN_WHEEL:1195"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
+    },
+    {
+      "source": "TASKS",
+      "id": 10436,
+      "label": "\u2728 Add solo & ensemble to calendar, find group & solo pieces",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10436"
+    },
+    {
+      "source": "TASKS",
+      "id": 12039,
+      "label": "\u2728 Next month plan: keep or change or pause AK Club membership?",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12039"
+    },
+    {
+      "source": "TASKS",
+      "id": 12154,
+      "label": "\u2728 List 3-5 plants for sale on marketplace \ud83e\udeb4\ud83d\udcb0 \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Normal",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12154"
     }
   ],
-  "version": 3022,
-  "updated": "2026-10-21T00:47:04.255418+00:00",
+  "version": 3023,
+  "updated": "2026-10-21T01:55:27.909705+00:00",
   "buckets": {
     "SPIN_WHEEL": 98,
     "ZONES": 7,
     "COURAGE": 4,
-    "TASKS": 26,
+    "TASKS": 29,
     "MAINTENANCE": 2
   }
 }
