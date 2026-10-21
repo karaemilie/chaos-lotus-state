@@ -1,9 +1,28 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-21T00:03:50.050Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Scaffolding - buy",
+      "_addedAt": "2026-10-21T00:03:35.653Z",
+      "_ts": "2026-10-21T00:03:36.015Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Glove bin for Dad",
+      "_addedAt": "2026-10-21T00:03:50.708Z",
+      "_ts": "2026-10-21T00:03:51.070Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Garage shelving for winter storage",
+      "_addedAt": "2026-10-21T00:04:03.778Z",
+      "_ts": "2026-10-21T00:04:04.114Z"
+    }
+  ],
+  "mirroredAt": "2026-10-21T00:04:04.151Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 3
   }
 }
