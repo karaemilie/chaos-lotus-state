@@ -91,18 +91,6 @@
       "uid": "ZONES:39"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11221,
-      "parentRow": 192,
-      "parentLabel": "Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-06-25",
-      "label": "\ud83d\udd25 Email WWAMI re: personal letter for Bentley application \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11221:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1123,
       "row": 70,
@@ -473,19 +461,6 @@
       "sid": 1133,
       "label": "Load / try Wordlize",
       "uid": "SPIN_WHEEL:1133"
-    },
-    {
-      "source": "TASKS",
-      "id": 11967,
-      "label": "\u2728 Cancel ultraviner $15/month if not using",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11967"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1110,13 +1085,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1199,
-      "sid": 1199,
-      "label": "Load Wordlize",
-      "uid": "SPIN_WHEEL:1199"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1200,
       "sid": 1200,
       "label": "Request ring refund, order new one",
@@ -1163,15 +1131,26 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Genevieve's Room",
       "uid": "ZONES:6"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 10162,
+      "stepIndex": 0,
+      "parentLabel": "Review Jake's 529 investments with him \ud83d\udcdd",
+      "aw": 2,
+      "due": "2026-07-06",
+      "label": "\ud83d\udd25 Review Jake's 529 investments with him \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:10162:0"
     }
   ],
-  "version": 3037,
-  "updated": "2026-10-21T08:41:21.813989+00:00",
+  "version": 3038,
+  "updated": "2026-10-21T08:42:30.641625+00:00",
   "buckets": {
-    "SPIN_WHEEL": 96,
+    "SPIN_WHEEL": 95,
     "ZONES": 7,
-    "COURAGE": 4,
-    "TASKS": 28,
-    "MAINTENANCE": 2
+    "TASKS": 27,
+    "MAINTENANCE": 2,
+    "COURAGE": 4
   }
 }
