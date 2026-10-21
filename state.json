@@ -1144,12 +1144,19 @@
       "sid": 1194,
       "label": "Garage shelving for winter storage",
       "uid": "SPIN_WHEEL:1194"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1195,
+      "sid": 1195,
+      "label": "Pick a Subaru sales guy",
+      "uid": "SPIN_WHEEL:1195"
     }
   ],
-  "version": 3021,
-  "updated": "2026-10-21T00:04:33.323188+00:00",
+  "version": 3022,
+  "updated": "2026-10-21T00:47:04.255418+00:00",
   "buckets": {
-    "SPIN_WHEEL": 97,
+    "SPIN_WHEEL": 98,
     "ZONES": 7,
     "COURAGE": 4,
     "TASKS": 26,
