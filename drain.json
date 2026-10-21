@@ -21,6 +21,13 @@
       "label": "Get dad plane ticket from Mom",
       "uid": "SPIN_WHEEL:1158",
       "_ts": "2026-10-21T08:40:14.184Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1156,
+      "label": "School room PurA hibiscus refresh",
+      "uid": "SPIN_WHEEL:1156",
+      "_ts": "2026-10-21T08:40:28.423Z"
     }
   ],
   "adds": [
@@ -49,9 +56,9 @@
       "_ts": "2026-10-21T08:40:08.572Z"
     }
   ],
-  "mirroredAt": "2026-10-21T08:40:14.420Z",
+  "mirroredAt": "2026-10-21T08:40:28.640Z",
   "counts": {
-    "completions": 3,
+    "completions": 4,
     "adds": 2
   }
 }
