@@ -27,37 +27,19 @@
       "label": "✨ Review IXL assessments for Lincoln",
       "uid": "TASKS:12204",
       "_ts": "2026-10-21T08:46:05.794Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "✨ Add solo & ensemble to calendar, find group & solo pieces",
-      "_addedAt": "2026-10-21T08:44:58.875Z",
-      "reschedule": {
-        "uid": "TASKS:10436",
-        "id": 10436,
-        "label": "✨ Add solo & ensemble to calendar, find group & solo pieces",
-        "start": "2026-10-24"
-      },
-      "_ts": "2026-10-21T08:44:59.026Z"
     },
     {
-      "source": "PLUS_ADD",
-      "label": "🔥 Review Jake's 529 investments with him 📝",
-      "_addedAt": "2026-10-21T08:45:11.488Z",
-      "reschedule": {
-        "uid": "COURAGE:10162:0",
-        "id": 10162,
-        "label": "🔥 Review Jake's 529 investments with him 📝",
-        "start": "2026-10-27"
-      },
-      "_ts": "2026-10-21T08:45:11.681Z"
+      "source": "TASKS",
+      "id": 12202,
+      "label": "✨ Review IXL assessments for Evan",
+      "uid": "TASKS:12202",
+      "_ts": "2026-10-21T08:46:16.897Z"
     }
   ],
-  "mirroredAt": "2026-10-21T08:46:06.024Z",
+  "adds": [],
+  "mirroredAt": "2026-10-21T08:46:17.115Z",
   "counts": {
-    "completions": 4,
-    "adds": 2
+    "completions": 5,
+    "adds": 0
   }
 }
