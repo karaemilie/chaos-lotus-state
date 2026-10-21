@@ -42,37 +42,19 @@
       "label": "POA for parents",
       "uid": "SPIN_WHEEL:1146",
       "_ts": "2026-10-21T08:40:58.533Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "✨ Charge the red candles 🕯️❤️",
-      "_addedAt": "2026-10-21T08:39:07.796Z",
-      "reschedule": {
-        "uid": "TASKS:11994",
-        "id": 11994,
-        "label": "✨ Charge the red candles 🕯️❤️",
-        "start": "2026-10-24"
-      },
-      "_ts": "2026-10-21T08:39:07.937Z"
     },
     {
-      "source": "PLUS_ADD",
-      "label": "✨ Grab the gold candles and charge them 🕯️",
-      "_addedAt": "2026-10-21T08:40:08.433Z",
-      "reschedule": {
-        "uid": "TASKS:12149",
-        "id": 12149,
-        "label": "✨ Grab the gold candles and charge them 🕯️",
-        "start": "2026-10-26"
-      },
-      "_ts": "2026-10-21T08:40:08.572Z"
+      "source": "TASKS",
+      "id": 11967,
+      "label": "✨ Cancel ultraviner $15/month if not using",
+      "uid": "TASKS:11967",
+      "_ts": "2026-10-21T08:41:11.465Z"
     }
   ],
-  "mirroredAt": "2026-10-21T08:40:58.776Z",
+  "adds": [],
+  "mirroredAt": "2026-10-21T08:41:11.685Z",
   "counts": {
-    "completions": 6,
-    "adds": 2
+    "completions": 7,
+    "adds": 0
   }
 }
