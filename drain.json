@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 60,
+      "label": "Order film to finish garage windows",
+      "uid": "SPIN:1107",
+      "_ts": "2026-10-21T07:50:27.518Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-21T07:43:40.769Z",
+  "mirroredAt": "2026-10-21T07:50:27.899Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
