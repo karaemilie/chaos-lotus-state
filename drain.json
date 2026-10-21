@@ -1,13 +1,34 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-21T09:20:38.045Z",
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12235,
+      "row": 350,
+      "label": "✨ Weekly meal planning",
+      "uid": "TASKS:12235",
+      "_ts": "2026-10-21T09:20:23.373Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Start developing business plan for UV printer",
+      "_addedAt": "2026-10-21T09:20:51.590Z",
+      "promote": {
+        "fromUid": "SPIN:1145",
+        "sid": 1145,
+        "label": "Start developing business plan for UV printer",
+        "origLabel": "Start developing business plan for UV printer",
+        "start": "2026-10-31",
+        "category": "Home",
+        "aw": 5
+      },
+      "_ts": "2026-10-21T09:20:52.560Z"
+    }
+  ],
+  "mirroredAt": "2026-10-21T09:20:52.801Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-21T09:20:39.337738+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12235"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
