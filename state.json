@@ -825,20 +825,6 @@
       "uid": "SPIN:900"
     },
     {
-      "source": "TASKS",
-      "id": 12212,
-      "row": 332,
-      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12212"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1157,
       "row": 64,
@@ -1077,10 +1063,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12251"
+    },
+    {
+      "source": "TASKS",
+      "id": 12260,
+      "label": "Talk to kids about performing at Christmas",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12260"
     }
   ],
-  "version": 3052,
-  "updated": "2026-10-21T09:21:07.608854+00:00",
+  "version": 3053,
+  "updated": "2026-10-21T09:21:55.207299+00:00",
   "buckets": {
     "SPIN_WHEEL": 89,
     "TASKS": 22,
