@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-20T23:47:49.694Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Scaffolding - buy",
+      "_addedAt": "2026-10-21T00:03:35.653Z",
+      "_ts": "2026-10-21T00:03:36.015Z"
+    }
+  ],
+  "mirroredAt": "2026-10-21T00:03:36.053Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
