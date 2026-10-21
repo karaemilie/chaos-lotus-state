@@ -521,13 +521,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1146,
-      "sid": 1146,
-      "label": "POA for parents",
-      "uid": "SPIN_WHEEL:1146"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1147,
       "sid": 1147,
       "label": "Measure Mom\u2019s shirts",
@@ -563,13 +556,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1152,
-      "sid": 1152,
-      "label": "Get a treadmill for Dad",
-      "uid": "SPIN_WHEEL:1152"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1153,
       "sid": 1153,
       "label": "Research treadmills",
@@ -581,13 +567,6 @@
       "sid": 1155,
       "label": "Set up auto deploy with Cloudflare and GitHub",
       "uid": "SPIN_WHEEL:1155"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1156,
-      "sid": 1156,
-      "label": "School room PurA hibiscus refresh",
-      "uid": "SPIN_WHEEL:1156"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1186,10 +1165,10 @@
       "uid": "ZONES:6"
     }
   ],
-  "version": 3036,
-  "updated": "2026-10-21T08:40:42.282885+00:00",
+  "version": 3037,
+  "updated": "2026-10-21T08:41:21.813989+00:00",
   "buckets": {
-    "SPIN_WHEEL": 99,
+    "SPIN_WHEEL": 96,
     "ZONES": 7,
     "COURAGE": 4,
     "TASKS": 28,
