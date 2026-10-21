@@ -763,13 +763,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1155,
-      "row": 63,
-      "label": "Set up auto deploy with Cloudflare and GitHub",
-      "uid": "SPIN:1155"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1119,
       "row": 44,
       "label": "Research plane tix for Mexico",
@@ -1078,10 +1071,10 @@
       "uid": "TASKS:12260"
     }
   ],
-  "version": 3053,
-  "updated": "2026-10-21T09:21:55.207299+00:00",
+  "version": 3054,
+  "updated": "2026-10-21T09:23:08.794270+00:00",
   "buckets": {
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 88,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 9,
