@@ -991,19 +991,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12157,
-      "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
-      "aw": 6,
-      "pri": "Medium",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:12157"
-    },
-    {
-      "source": "TASKS",
       "id": 12218,
       "label": "\u2728 Water snake plants",
       "aw": 4,
@@ -1239,13 +1226,13 @@
       "uid": "TASKS:12259"
     }
   ],
-  "version": 3033,
-  "updated": "2026-10-21T08:38:23.540042+00:00",
+  "version": 3034,
+  "updated": "2026-10-21T08:39:14.324612+00:00",
   "buckets": {
     "SPIN_WHEEL": 101,
     "ZONES": 7,
     "COURAGE": 4,
-    "TASKS": 31,
+    "TASKS": 30,
     "MAINTENANCE": 2
   }
 }
