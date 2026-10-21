@@ -606,19 +606,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12202,
-      "label": "\u2728 Review IXL assessments for Evan",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 20,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12202"
-    },
-    {
-      "source": "TASKS",
       "id": 12212,
       "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
       "aw": 7,
@@ -728,19 +715,6 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:12172"
-    },
-    {
-      "source": "TASKS",
-      "id": 12204,
-      "label": "\u2728 Review IXL assessments for Lincoln",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 20,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12204"
     },
     {
       "source": "TASKS",
@@ -1097,12 +1071,12 @@
       "uid": "COURAGE:10186:0"
     }
   ],
-  "version": 3042,
-  "updated": "2026-10-21T08:45:51.955095+00:00",
+  "version": 3043,
+  "updated": "2026-10-21T08:46:35.746979+00:00",
   "buckets": {
     "SPIN_WHEEL": 92,
     "ZONES": 7,
-    "TASKS": 25,
+    "TASKS": 23,
     "MAINTENANCE": 2,
     "COURAGE": 4
   }
