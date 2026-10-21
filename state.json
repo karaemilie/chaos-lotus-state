@@ -104,13 +104,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1107,
-      "row": 60,
-      "label": "Order film to finish garage windows",
-      "uid": "SPIN:1107"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1123,
       "row": 70,
       "label": "BENTLEY OTHER PFD FORM",
@@ -1220,10 +1213,10 @@
       "uid": "SPIN_WHEEL:1199"
     }
   ],
-  "version": 3028,
-  "updated": "2026-10-21T07:43:42.557125+00:00",
+  "version": 3029,
+  "updated": "2026-10-21T07:50:41.921634+00:00",
   "buckets": {
-    "SPIN_WHEEL": 102,
+    "SPIN_WHEEL": 101,
     "ZONES": 7,
     "COURAGE": 4,
     "TASKS": 29,
