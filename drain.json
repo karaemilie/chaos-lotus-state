@@ -1,14 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12046,
+      "row": 270,
+      "label": "✨ Air tags - check batteries",
+      "uid": "TASKS:12046",
+      "_ts": "2026-10-21T09:04:34.379Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-21T09:03:47.809Z",
+  "mirroredAt": "2026-10-21T09:04:34.665Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-21T09:03:49.191703+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1184",
-    "SPIN:1164"
-  ]
+  }
 }
