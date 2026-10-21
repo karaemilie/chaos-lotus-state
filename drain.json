@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1195,
+      "label": "Pick a Subaru sales guy",
+      "uid": "SPIN_WHEEL:1195",
+      "_ts": "2026-10-21T08:38:11.963Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-21T08:31:32.155Z",
+  "mirroredAt": "2026-10-21T08:38:12.187Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
