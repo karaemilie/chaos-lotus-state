@@ -515,18 +515,6 @@
       "uid": "ZONES:53"
     },
     {
-      "source": "COURAGE",
-      "parentId": 10187,
-      "parentRow": 46,
-      "parentLabel": "Talk to Genevieve about her PFD",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-06-15",
-      "label": "\ud83d\udd25 Talk to Genevieve about her PFD",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:10187:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1170,
       "row": 69,
@@ -1014,32 +1002,6 @@
       "uid": "TASKS:11987"
     },
     {
-      "source": "TASKS",
-      "id": 12251,
-      "label": "Wisdom teeth plan for Genevieve",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12251"
-    },
-    {
-      "source": "TASKS",
-      "id": 12260,
-      "label": "Talk to kids about performing at Christmas",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12260"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1202,
       "sid": 1202,
@@ -1054,19 +1016,6 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Main floor Down Low",
       "uid": "ZONES:75"
-    },
-    {
-      "source": "TASKS",
-      "id": 12092,
-      "label": "5 minutes in Custom Cut Software \u23f1\ufe0f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12092"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1088,10 +1037,60 @@
       "sid": 1205,
       "label": "Add tacks to the new curtains!",
       "uid": "SPIN_WHEEL:1205"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11436,
+      "stepIndex": 0,
+      "parentLabel": "Reclaim extra money toward earlier rent from Jake",
+      "aw": 2,
+      "due": "2026-09-15",
+      "label": "\ud83d\udd25 Reclaim extra money toward earlier rent from Jake",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11436:0"
+    },
+    {
+      "source": "TASKS",
+      "id": 12271,
+      "label": "\u2728 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12271"
+    },
+    {
+      "source": "TASKS",
+      "id": 12274,
+      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12274"
+    },
+    {
+      "source": "TASKS",
+      "id": 12275,
+      "label": "\u2728 Spend time on flower bouquet coding project",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": "Bouquet Tracker",
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12275"
     }
   ],
-  "version": 3061,
-  "updated": "2026-10-22T05:52:27.938954+00:00",
+  "version": 3062,
+  "updated": "2026-10-22T08:47:57.285717+00:00",
   "buckets": {
     "SPIN_WHEEL": 91,
     "TASKS": 22,
