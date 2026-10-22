@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-22T08:48:01.696Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Submit B WWAMI eligibility stuff",
+      "_addedAt": "2026-10-22T08:52:07.262Z",
+      "_ts": "2026-10-22T08:52:07.412Z"
+    }
+  ],
+  "mirroredAt": "2026-10-22T08:52:07.660Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-22T08:48:03.615654+00:00",
-  "lastAutoProcessed": [
-    "COURAGE:10187:0"
-  ]
+    "adds": 1
+  }
 }
