@@ -1074,12 +1074,19 @@
       "sid": 1203,
       "label": "Text Linai Dad",
       "uid": "SPIN_WHEEL:1203"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1204,
+      "sid": 1204,
+      "label": "Adjust Jake back ticket",
+      "uid": "SPIN_WHEEL:1204"
     }
   ],
-  "version": 3059,
-  "updated": "2026-10-22T04:43:04.829555+00:00",
+  "version": 3060,
+  "updated": "2026-10-22T04:43:42.496200+00:00",
   "buckets": {
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 90,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 9,
