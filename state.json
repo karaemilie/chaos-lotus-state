@@ -1094,12 +1094,19 @@
       "sid": 1206,
       "label": "Submit B WWAMI eligibility stuff",
       "uid": "SPIN_WHEEL:1206"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1207,
+      "sid": 1207,
+      "label": "Make task to get Jake / Linai tix for Christmas break 2027 in Jan",
+      "uid": "SPIN_WHEEL:1207"
     }
   ],
-  "version": 3063,
-  "updated": "2026-10-22T08:52:25.344617+00:00",
+  "version": 3064,
+  "updated": "2026-10-22T19:49:11.838760+00:00",
   "buckets": {
-    "SPIN_WHEEL": 92,
+    "SPIN_WHEEL": 93,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 9,
