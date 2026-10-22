@@ -180,16 +180,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "row": 75,
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
-      "source": "ZONES",
       "zid": 6,
       "floor": "Upstairs",
       "row": 7,
@@ -1069,10 +1059,19 @@
       "sid": 1202,
       "label": "Ponder garage gym",
       "uid": "SPIN_WHEEL:1202"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Main floor Down Low",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Main floor Down Low",
+      "uid": "ZONES:75"
     }
   ],
-  "version": 3056,
-  "updated": "2026-10-21T22:38:46.289331+00:00",
+  "version": 3057,
+  "updated": "2026-10-22T03:19:00.254644+00:00",
   "buckets": {
     "SPIN_WHEEL": 88,
     "TASKS": 22,
