@@ -1,9 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "COURAGE",
+      "row": 46,
+      "parentId": 10187,
+      "stepIndex": 0,
+      "label": "🔥 Talk to Genevieve about her PFD",
+      "uid": "COURAGE:10187:0",
+      "_ts": "2026-10-22T08:47:44.492Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-22T05:52:26.419Z",
+  "mirroredAt": "2026-10-22T08:47:44.750Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
