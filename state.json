@@ -1101,12 +1101,19 @@
       "sid": 1207,
       "label": "Make task to get Jake / Linai tix for Christmas break 2027 in Jan",
       "uid": "SPIN_WHEEL:1207"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1208,
+      "sid": 1208,
+      "label": "Try to fix Jake ticket back to FL Christmas break",
+      "uid": "SPIN_WHEEL:1208"
     }
   ],
-  "version": 3064,
-  "updated": "2026-10-22T19:49:11.838760+00:00",
+  "version": 3065,
+  "updated": "2026-10-22T19:50:03.433305+00:00",
   "buckets": {
-    "SPIN_WHEEL": 93,
+    "SPIN_WHEEL": 94,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 9,
