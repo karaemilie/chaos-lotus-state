@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-22T03:24:23.024Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Text Linai Dad",
+      "_addedAt": "2026-10-22T04:42:48.572Z",
+      "_ts": "2026-10-22T04:42:48.707Z"
+    }
+  ],
+  "mirroredAt": "2026-10-22T04:42:48.979Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-22T03:24:24.304938+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12218"
-  ]
+    "adds": 1
+  }
 }
