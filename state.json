@@ -379,16 +379,6 @@
       "uid": "SPIN:1034"
     },
     {
-      "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "row": 76,
-      "label": "\ud83c\udf31 Family Room Plants",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Plants",
-      "uid": "ZONES:74"
-    },
-    {
       "source": "TASKS",
       "id": 11216,
       "row": 142,
@@ -1084,10 +1074,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook A",
       "uid": "ZONES:76"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
     }
   ],
-  "version": 3075,
-  "updated": "2026-10-23T06:33:50.495879+00:00",
+  "version": 3076,
+  "updated": "2026-10-23T06:43:55.131013+00:00",
   "buckets": {
     "SPIN_WHEEL": 90,
     "ZONES": 9,
