@@ -1097,12 +1097,19 @@
       "sid": 1213,
       "label": "Schedule install of rainbow mosiac (cut on saw?)",
       "uid": "SPIN_WHEEL:1213"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1214,
+      "sid": 1214,
+      "label": "Figure out Arlo motion rules (Pura Library)",
+      "uid": "SPIN_WHEEL:1214"
     }
   ],
-  "version": 3078,
-  "updated": "2026-10-23T07:22:01.670507+00:00",
+  "version": 3079,
+  "updated": "2026-10-23T07:27:28.323522+00:00",
   "buckets": {
-    "SPIN_WHEEL": 92,
+    "SPIN_WHEEL": 93,
     "ZONES": 9,
     "TASKS": 22,
     "COURAGE": 4,
