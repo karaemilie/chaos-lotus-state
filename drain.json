@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-23T03:06:22.701Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Manual pump for the well",
+      "_addedAt": "2026-10-23T04:20:12.080Z",
+      "_ts": "2026-10-23T04:20:12.265Z"
+    }
+  ],
+  "mirroredAt": "2026-10-23T04:20:12.589Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
