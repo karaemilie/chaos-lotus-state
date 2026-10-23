@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-23T07:22:00.260Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Figure out Arlo motion rules (Pura Library)",
+      "_addedAt": "2026-10-23T07:27:10.038Z",
+      "_ts": "2026-10-23T07:27:10.190Z"
+    }
+  ],
+  "mirroredAt": "2026-10-23T07:27:10.474Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
