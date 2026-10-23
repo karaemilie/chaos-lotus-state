@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-23T07:27:26.658Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Check I am accessing one drive version of budget file on computer",
+      "_addedAt": "2026-10-23T07:56:23.612Z",
+      "_ts": "2026-10-23T07:56:23.796Z"
+    }
+  ],
+  "mirroredAt": "2026-10-23T07:56:24.037Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
