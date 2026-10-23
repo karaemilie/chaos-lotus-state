@@ -1078,12 +1078,19 @@
       "sid": 1210,
       "label": "Call septic",
       "uid": "SPIN_WHEEL:1210"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1211,
+      "sid": 1211,
+      "label": "Manual pump for the well",
+      "uid": "SPIN_WHEEL:1211"
     }
   ],
-  "version": 3073,
-  "updated": "2026-10-23T03:06:24.343012+00:00",
+  "version": 3074,
+  "updated": "2026-10-23T04:20:29.726550+00:00",
   "buckets": {
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 90,
     "ZONES": 9,
     "TASKS": 22,
     "COURAGE": 4,
