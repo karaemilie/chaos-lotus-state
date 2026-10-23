@@ -773,16 +773,6 @@
       "uid": "SPIN:1062"
     },
     {
-      "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "row": 77,
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1161,
       "row": 59,
@@ -1085,10 +1075,19 @@
       "sid": 1211,
       "label": "Manual pump for the well",
       "uid": "SPIN_WHEEL:1211"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
     }
   ],
-  "version": 3074,
-  "updated": "2026-10-23T04:20:29.726550+00:00",
+  "version": 3075,
+  "updated": "2026-10-23T06:33:50.495879+00:00",
   "buckets": {
     "SPIN_WHEEL": 90,
     "ZONES": 9,
