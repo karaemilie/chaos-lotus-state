@@ -909,15 +909,6 @@
       "uid": "COURAGE:11210:0"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 132,
-      "row": 135,
-      "label": "\ud83c\udfe0 Scrub cats food plate",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Scrub cats food plate",
-      "uid": "MAINTENANCE:132"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1196,
       "row": 73,
@@ -1073,10 +1064,18 @@
       "sid": 1219,
       "label": "Pack leaf for return",
       "uid": "SPIN_WHEEL:1219"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 134,
+      "label": "\ud83c\udfe0 Scrub cats food bowl",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Scrub cats food bowl",
+      "uid": "MAINTENANCE:134"
     }
   ],
-  "version": 3093,
-  "updated": "2026-10-24T06:17:34.452457+00:00",
+  "version": 3094,
+  "updated": "2026-10-24T06:29:32.478538+00:00",
   "buckets": {
     "SPIN_WHEEL": 89,
     "TASKS": 22,
