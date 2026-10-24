@@ -1,20 +1,6 @@
 {
   "tasks": [
     {
-      "source": "TASKS",
-      "id": 12259,
-      "row": 366,
-      "label": "\u2728 Put on new tattoo",
-      "aw": 4,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12259"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1009,
       "row": 15,
@@ -1060,13 +1046,26 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Kitchen Up High",
       "uid": "ZONES:79"
+    },
+    {
+      "source": "TASKS",
+      "id": 12205,
+      "label": "Look at how to choose assignments in Prep Median",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12205"
     }
   ],
-  "version": 3089,
-  "updated": "2026-10-24T03:15:05.252813+00:00",
+  "version": 3090,
+  "updated": "2026-10-24T05:31:24.539756+00:00",
   "buckets": {
-    "TASKS": 22,
     "SPIN_WHEEL": 87,
+    "TASKS": 22,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 4
