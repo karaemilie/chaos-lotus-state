@@ -219,13 +219,6 @@
       "uid": "SPIN:1157"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1200,
-      "row": 76,
-      "label": "Request ring refund, order new one",
-      "uid": "SPIN:1200"
-    },
-    {
       "source": "TASKS",
       "id": 11688,
       "row": 187,
@@ -1068,10 +1061,10 @@
       "uid": "SPIN_WHEEL:1217"
     }
   ],
-  "version": 3091,
-  "updated": "2026-10-24T06:16:49.455298+00:00",
+  "version": 3092,
+  "updated": "2026-10-24T06:17:31.094319+00:00",
   "buckets": {
-    "SPIN_WHEEL": 88,
+    "SPIN_WHEEL": 87,
     "TASKS": 22,
     "ZONES": 9,
     "MAINTENANCE": 2,
