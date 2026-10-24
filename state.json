@@ -896,16 +896,6 @@
       "uid": "COURAGE:11583:0"
     },
     {
-      "source": "ZONES",
-      "zid": 82,
-      "floor": "Personal",
-      "row": 84,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Dermaplane",
-      "uid": "ZONES:82"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1151,
       "row": 52,
@@ -1064,10 +1054,19 @@
       "row": 22,
       "label": "Figure out Embry Riddle costs",
       "uid": "SPIN:1058"
+    },
+    {
+      "source": "ZONES",
+      "zid": 83,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Retainer",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Retainer",
+      "uid": "ZONES:83"
     }
   ],
-  "version": 3086,
-  "updated": "2026-10-24T02:54:06.835949+00:00",
+  "version": 3087,
+  "updated": "2026-10-24T02:54:34.403315+00:00",
   "buckets": {
     "TASKS": 22,
     "SPIN_WHEEL": 87,
