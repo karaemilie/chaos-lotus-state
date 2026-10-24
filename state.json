@@ -1059,12 +1059,26 @@
       "sid": 1217,
       "label": "Pack ring to returb",
       "uid": "SPIN_WHEEL:1217"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1218,
+      "sid": 1218,
+      "label": "Pack tack gun for returb",
+      "uid": "SPIN_WHEEL:1218"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1219,
+      "sid": 1219,
+      "label": "Pack leaf for return",
+      "uid": "SPIN_WHEEL:1219"
     }
   ],
-  "version": 3092,
-  "updated": "2026-10-24T06:17:31.094319+00:00",
+  "version": 3093,
+  "updated": "2026-10-24T06:17:34.452457+00:00",
   "buckets": {
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 89,
     "TASKS": 22,
     "ZONES": 9,
     "MAINTENANCE": 2,
