@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 76,
+      "label": "Request ring refund, order new one",
+      "uid": "SPIN:1200",
+      "_ts": "2026-10-24T06:17:02.126Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -20,9 +28,9 @@
       "_ts": "2026-10-24T06:16:53.977Z"
     }
   ],
-  "mirroredAt": "2026-10-24T06:16:54.200Z",
+  "mirroredAt": "2026-10-24T06:17:02.354Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 3
   }
 }
