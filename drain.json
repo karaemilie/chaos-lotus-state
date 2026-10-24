@@ -1,36 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 76,
-      "label": "Request ring refund, order new one",
-      "uid": "SPIN:1200",
-      "_ts": "2026-10-24T06:17:02.126Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Pack ring to returb",
-      "_addedAt": "2026-10-24T06:16:32.115Z",
-      "_ts": "2026-10-24T06:16:32.286Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Pack tack gun for returb",
-      "_addedAt": "2026-10-24T06:16:47.465Z",
-      "_ts": "2026-10-24T06:16:47.602Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Pack leaf for return",
-      "_addedAt": "2026-10-24T06:16:53.846Z",
-      "_ts": "2026-10-24T06:16:53.977Z"
-    }
-  ],
-  "mirroredAt": "2026-10-24T06:17:02.354Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-10-24T06:17:32.717Z",
   "counts": {
-    "completions": 1,
-    "adds": 3
+    "completions": 0,
+    "adds": 0
   }
 }
