@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-24T05:31:28.118Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pack ring to returb",
+      "_addedAt": "2026-10-24T06:16:32.115Z",
+      "_ts": "2026-10-24T06:16:32.286Z"
+    }
+  ],
+  "mirroredAt": "2026-10-24T06:16:32.556Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-24T05:31:29.615880+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12259"
-  ]
+    "adds": 1
+  }
 }
