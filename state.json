@@ -282,16 +282,6 @@
       "uid": "SPIN:954"
     },
     {
-      "source": "ZONES",
-      "zid": 64,
-      "floor": "Digital",
-      "row": 65,
-      "label": "\ud83d\udcbb OneTab",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "OneTab",
-      "uid": "ZONES:64"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1208,
       "row": 82,
@@ -1106,10 +1096,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Mask",
       "uid": "ZONES:85"
+    },
+    {
+      "source": "ZONES",
+      "zid": 66,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Due",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Due",
+      "uid": "ZONES:66"
     }
   ],
-  "version": 3099,
-  "updated": "2026-10-25T00:59:49.540037+00:00",
+  "version": 3100,
+  "updated": "2026-10-25T02:02:09.000009+00:00",
   "buckets": {
     "SPIN_WHEEL": 92,
     "TASKS": 23,
