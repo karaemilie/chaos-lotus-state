@@ -279,20 +279,6 @@
       "uid": "TASKS:12274"
     },
     {
-      "source": "TASKS",
-      "id": 12230,
-      "row": 340,
-      "label": "\u2728 Check in on Pura scents - time to refresh?",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12230"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1192,
       "row": 71,
@@ -1163,11 +1149,11 @@
       "uid": "TASKS:12294"
     }
   ],
-  "version": 3106,
-  "updated": "2026-10-25T08:14:24.755938+00:00",
+  "version": 3107,
+  "updated": "2026-10-25T08:15:03.022588+00:00",
   "buckets": {
     "SPIN_WHEEL": 91,
-    "TASKS": 28,
+    "TASKS": 27,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 4
