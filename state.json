@@ -1133,12 +1133,19 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:12294"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1224,
+      "sid": 1224,
+      "label": "Write furnace guy / schedule new tank",
+      "uid": "SPIN_WHEEL:1224"
     }
   ],
-  "version": 3110,
-  "updated": "2026-10-25T08:54:55.706501+00:00",
+  "version": 3111,
+  "updated": "2026-10-25T08:54:58.950917+00:00",
   "buckets": {
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 90,
     "TASKS": 27,
     "ZONES": 9,
     "MAINTENANCE": 2,
