@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 45,
+      "label": "Dig into instant hot water heater options",
+      "uid": "SPIN:1128",
+      "_ts": "2026-10-25T08:54:12.735Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-25T08:52:57.997Z",
+  "mirroredAt": "2026-10-25T08:54:12.970Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-25T08:52:59.447909+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1106"
-  ]
+  }
 }
