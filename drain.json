@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-25T00:40:25.804Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Research supplements to support bone density",
+      "_addedAt": "2026-10-25T00:41:58.546Z",
+      "_ts": "2026-10-25T00:41:58.733Z"
+    }
+  ],
+  "mirroredAt": "2026-10-25T00:41:58.971Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
