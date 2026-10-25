@@ -118,16 +118,6 @@
       "uid": "MAINTENANCE:131"
     },
     {
-      "source": "ZONES",
-      "zid": 65,
-      "floor": "Digital",
-      "row": 66,
-      "label": "\ud83d\udcbb Emails",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Emails",
-      "uid": "ZONES:65"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1091,
       "row": 32,
@@ -1105,10 +1095,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Plants",
       "uid": "ZONES:74"
+    },
+    {
+      "source": "ZONES",
+      "zid": 67,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Quicken",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Quicken",
+      "uid": "ZONES:67"
     }
   ],
-  "version": 3101,
-  "updated": "2026-10-25T03:41:32.290335+00:00",
+  "version": 3102,
+  "updated": "2026-10-25T05:22:42.223906+00:00",
   "buckets": {
     "SPIN_WHEEL": 92,
     "TASKS": 23,
