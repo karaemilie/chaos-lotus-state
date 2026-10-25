@@ -1023,28 +1023,6 @@
       "uid": "ZONES:78"
     },
     {
-      "source": "ZONES",
-      "zid": 79,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Kitchen Up High",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Kitchen Up High",
-      "uid": "ZONES:79"
-    },
-    {
-      "source": "TASKS",
-      "id": 12205,
-      "label": "Look at how to choose assignments in Prep Median",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12205"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1217,
       "sid": 1217,
@@ -1093,13 +1071,48 @@
       "sid": 1222,
       "label": "Schedule Evan license exam",
       "uid": "SPIN_WHEEL:1222"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
+    },
+    {
+      "source": "TASKS",
+      "id": 10436,
+      "label": "\u2728 Add solo & ensemble to calendar, find group & solo pieces",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10436"
+    },
+    {
+      "source": "TASKS",
+      "id": 11994,
+      "label": "\u2728 Charge the red candles \ud83d\udd6f\ufe0f\u2764\ufe0f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11994"
     }
   ],
-  "version": 3097,
-  "updated": "2026-10-25T00:51:09.366326+00:00",
+  "version": 3098,
+  "updated": "2026-10-25T00:55:17.921559+00:00",
   "buckets": {
     "SPIN_WHEEL": 92,
-    "TASKS": 22,
+    "TASKS": 23,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 4
