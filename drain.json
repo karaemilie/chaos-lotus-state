@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-24T06:29:34.032Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find pumpkin seed oil",
+      "_addedAt": "2026-10-25T00:40:11.402Z",
+      "_ts": "2026-10-25T00:40:11.598Z"
+    }
+  ],
+  "mirroredAt": "2026-10-25T00:40:11.860Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-24T06:29:35.287864+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:132"
-  ]
+    "adds": 1
+  }
 }
