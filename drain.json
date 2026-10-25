@@ -2,16 +2,24 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
-      "row": 89,
-      "label": "Check library computer",
-      "uid": "SPIN:1216",
-      "_ts": "2026-10-25T08:13:39.399Z"
+      "row": 88,
+      "label": "Check I am accessing one drive version of budget file on computer",
+      "uid": "SPIN:1215",
+      "_ts": "2026-10-25T08:13:32.902Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12230,
+      "row": 340,
+      "label": "✨ Check in on Pura scents - time to refresh?",
+      "uid": "TASKS:12230",
+      "_ts": "2026-10-25T08:13:46.814Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-10-25T08:13:46.161Z",
+  "mirroredAt": "2026-10-25T08:14:26.155Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
