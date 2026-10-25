@@ -174,20 +174,6 @@
       "uid": "SPIN:904"
     },
     {
-      "source": "TASKS",
-      "id": 12258,
-      "row": 365,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:12258"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1189,
       "row": 68,
@@ -1104,10 +1090,23 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Quicken",
       "uid": "ZONES:67"
+    },
+    {
+      "source": "TASKS",
+      "id": 12092,
+      "label": "5 minutes in Custom Cut Software \u23f1\ufe0f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12092"
     }
   ],
-  "version": 3102,
-  "updated": "2026-10-25T05:22:42.223906+00:00",
+  "version": 3103,
+  "updated": "2026-10-25T05:23:19.427569+00:00",
   "buckets": {
     "SPIN_WHEEL": 92,
     "TASKS": 23,
