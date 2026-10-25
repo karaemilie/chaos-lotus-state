@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "🌱 Family Room Props",
+      "uid": "ZONES:78",
+      "_ts": "2026-10-25T03:41:18.756Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-25T02:02:10.582Z",
+  "mirroredAt": "2026-10-25T03:41:18.989Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-25T02:02:11.827378+00:00",
-  "lastAutoProcessed": [
-    "ZONES:64"
-  ]
+  }
 }
