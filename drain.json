@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 38,
+      "label": "Add other 2 music room bulbs to Wiz",
+      "uid": "SPIN:1106",
+      "_ts": "2026-10-25T08:52:42.639Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-25T08:15:06.044Z",
+  "mirroredAt": "2026-10-25T08:52:42.868Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-25T08:15:07.136031+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1215",
-    "TASKS:12230"
-  ]
+  }
 }
