@@ -634,13 +634,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1106,
-      "row": 38,
-      "label": "Add other 2 music room bulbs to Wiz",
-      "uid": "SPIN:1106"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1027,
       "row": 17,
       "label": "Contact state FLL coordinator",
@@ -1149,10 +1142,10 @@
       "uid": "TASKS:12294"
     }
   ],
-  "version": 3107,
-  "updated": "2026-10-25T08:15:03.022588+00:00",
+  "version": 3108,
+  "updated": "2026-10-25T08:52:56.316271+00:00",
   "buckets": {
-    "SPIN_WHEEL": 91,
+    "SPIN_WHEEL": 90,
     "TASKS": 27,
     "ZONES": 9,
     "MAINTENANCE": 2,
