@@ -566,13 +566,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1215,
-      "row": 88,
-      "label": "Check I am accessing one drive version of budget file on computer",
-      "uid": "SPIN:1215"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1120,
       "row": 41,
       "label": "Find my Capital 7165 card to map in Monarch",
@@ -1092,31 +1085,96 @@
       "uid": "ZONES:67"
     },
     {
+      "source": "SPIN_WHEEL",
+      "row": 1223,
+      "sid": 1223,
+      "label": "Request vine refund fish",
+      "uid": "SPIN_WHEEL:1223"
+    },
+    {
       "source": "TASKS",
-      "id": 12092,
-      "label": "5 minutes in Custom Cut Software \u23f1\ufe0f",
+      "id": 12126,
+      "label": "\u2728 Update Pura subscriptions",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12126"
+    },
+    {
+      "source": "TASKS",
+      "id": 12157,
+      "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
       "aw": 6,
+      "pri": "Medium",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12157"
+    },
+    {
+      "source": "TASKS",
+      "id": 12236,
+      "label": "\u2728 Review Pura schedules, adjust/turn off where not needed",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12236"
+    },
+    {
+      "source": "TASKS",
+      "id": 12282,
+      "label": "\u2728 Send text update to mother-in-law \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12282"
+    },
+    {
+      "source": "TASKS",
+      "id": 12292,
+      "label": "\u2728 Weekly meal planning",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12292"
+    },
+    {
+      "source": "TASKS",
+      "id": 12294,
+      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
+      "aw": 7,
       "pri": null,
       "dur": null,
       "ml": null,
       "proj": null,
       "cat": "Business",
       "critical": false,
-      "uid": "TASKS:12092"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1223,
-      "sid": 1223,
-      "label": "Request vine refund fish",
-      "uid": "SPIN_WHEEL:1223"
+      "uid": "TASKS:12294"
     }
   ],
-  "version": 3104,
-  "updated": "2026-10-25T07:20:25.424104+00:00",
+  "version": 3105,
+  "updated": "2026-10-25T08:13:44.678008+00:00",
   "buckets": {
-    "SPIN_WHEEL": 93,
-    "TASKS": 23,
+    "SPIN_WHEEL": 92,
+    "TASKS": 28,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 4
