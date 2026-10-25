@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-25T05:23:22.600Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Request vine refund fish",
+      "_addedAt": "2026-10-25T07:20:03.195Z",
+      "_ts": "2026-10-25T07:20:03.368Z"
+    }
+  ],
+  "mirroredAt": "2026-10-25T07:20:03.635Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-25T05:23:23.897521+00:00",
-  "lastAutoProcessed": [
-    "ZONES:65",
-    "TASKS:12258"
-  ]
+    "adds": 1
+  }
 }
