@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-25T00:42:15.534Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Schedule Evan license exam",
+      "_addedAt": "2026-10-25T00:50:56.389Z",
+      "_ts": "2026-10-25T00:50:56.583Z"
+    }
+  ],
+  "mirroredAt": "2026-10-25T00:50:56.851Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
