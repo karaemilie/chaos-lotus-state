@@ -938,13 +938,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1220,
-      "sid": 1220,
-      "label": "Find pumpkin seed oil",
-      "uid": "SPIN_WHEEL:1220"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1221,
       "sid": 1221,
       "label": "Research supplements to support bone density",
@@ -1142,10 +1135,10 @@
       "uid": "SPIN_WHEEL:1227"
     }
   ],
-  "version": 3117,
-  "updated": "2026-10-26T04:26:52.786824+00:00",
+  "version": 3118,
+  "updated": "2026-10-26T05:00:01.997510+00:00",
   "buckets": {
-    "SPIN_WHEEL": 90,
+    "SPIN_WHEEL": 89,
     "TASKS": 27,
     "ZONES": 9,
     "MAINTENANCE": 2,
