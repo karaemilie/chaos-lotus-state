@@ -351,13 +351,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1098,
-      "row": 36,
-      "label": "Reimburse $900 Oct rent Genevieve (or pull against ERAU refund to Cu1? Hmmm)",
-      "uid": "SPIN:1098"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1149,
       "row": 47,
       "label": "Have Bentley grab another food plan and then request refund/figure out how to process",
@@ -1188,10 +1181,10 @@
       "uid": "SPIN_WHEEL:1228"
     }
   ],
-  "version": 3122,
-  "updated": "2026-10-26T08:27:42.962497+00:00",
+  "version": 3123,
+  "updated": "2026-10-26T08:28:27.681994+00:00",
   "buckets": {
-    "SPIN_WHEEL": 88,
+    "SPIN_WHEEL": 87,
     "TASKS": 32,
     "ZONES": 7,
     "COURAGE": 4,
