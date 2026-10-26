@@ -37,13 +37,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1108,
-      "row": 39,
-      "label": "Put stuff back in furnace room",
-      "uid": "SPIN:1108"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1206,
       "row": 80,
       "label": "Submit B WWAMI eligibility stuff",
@@ -1149,10 +1142,10 @@
       "uid": "SPIN_WHEEL:1227"
     }
   ],
-  "version": 3116,
-  "updated": "2026-10-26T04:22:17.057594+00:00",
+  "version": 3117,
+  "updated": "2026-10-26T04:26:52.786824+00:00",
   "buckets": {
-    "SPIN_WHEEL": 91,
+    "SPIN_WHEEL": 90,
     "TASKS": 27,
     "ZONES": 9,
     "MAINTENANCE": 2,
