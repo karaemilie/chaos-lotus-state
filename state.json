@@ -168,13 +168,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1201,
-      "row": 77,
-      "label": "Deal with twin mattresses, then dump time",
-      "uid": "SPIN:1201"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1157,
       "row": 54,
       "label": "Submit for viola rest",
@@ -1156,10 +1149,10 @@
       "uid": "SPIN_WHEEL:1227"
     }
   ],
-  "version": 3115,
-  "updated": "2026-10-26T04:21:36.496739+00:00",
+  "version": 3116,
+  "updated": "2026-10-26T04:22:17.057594+00:00",
   "buckets": {
-    "SPIN_WHEEL": 92,
+    "SPIN_WHEEL": 91,
     "TASKS": 27,
     "ZONES": 9,
     "MAINTENANCE": 2,
