@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 36,
+      "label": "Reimburse $900 Oct rent Genevieve (or pull against ERAU refund to Cu1? Hmmm)",
+      "uid": "SPIN:1098",
+      "_ts": "2026-10-26T08:27:35.042Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-10-26T08:27:26.852Z"
     }
   ],
-  "mirroredAt": "2026-10-26T08:27:27.236Z",
+  "mirroredAt": "2026-10-26T08:27:35.266Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
