@@ -8,10 +8,23 @@
       "_ts": "2026-10-26T08:27:35.042Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-10-26T08:27:41.024Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find Genevieve flight line costs ** (still working to determine if I owe her refund)",
+      "_addedAt": "2026-10-26T08:27:26.355Z",
+      "_ts": "2026-10-26T08:27:26.852Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Print Derek Owen TOC for Algebra x 2 **",
+      "_addedAt": "2026-10-26T08:28:10.835Z",
+      "_ts": "2026-10-26T08:28:10.977Z"
+    }
+  ],
+  "mirroredAt": "2026-10-26T08:28:11.231Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 2
   }
 }
