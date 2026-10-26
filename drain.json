@@ -1,25 +1,9 @@
 {
   "completions": [],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Put stuff back in furnace room",
-      "_addedAt": "2026-10-26T04:26:39.041Z",
-      "promote": {
-        "fromUid": "SPIN:1108",
-        "sid": 1108,
-        "label": "Put stuff back in furnace room",
-        "origLabel": "Put stuff back in furnace room",
-        "start": "2026-11-07",
-        "category": "Home",
-        "aw": 4
-      },
-      "_ts": "2026-10-26T04:26:39.567Z"
-    }
-  ],
-  "mirroredAt": "2026-10-26T04:26:39.941Z",
+  "adds": [],
+  "mirroredAt": "2026-10-26T04:26:54.256Z",
   "counts": {
     "completions": 0,
-    "adds": 1
+    "adds": 0
   }
 }
