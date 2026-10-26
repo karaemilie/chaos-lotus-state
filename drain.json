@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 77,
+      "label": "Deal with twin mattresses, then dump time",
+      "uid": "SPIN:1201",
+      "_ts": "2026-10-26T04:21:27.454Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-10-26T04:21:22.415Z"
     }
   ],
-  "mirroredAt": "2026-10-26T04:21:22.655Z",
+  "mirroredAt": "2026-10-26T04:21:27.687Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
