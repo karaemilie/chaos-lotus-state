@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-25T09:21:01.401Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "New lamp",
+      "_addedAt": "2026-10-26T03:53:12.612Z",
+      "_ts": "2026-10-26T03:53:13.053Z"
+    }
+  ],
+  "mirroredAt": "2026-10-26T03:53:13.335Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-25T09:21:02.637321+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1197"
-  ]
+    "adds": 1
+  }
 }
