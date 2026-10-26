@@ -823,13 +823,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1219,
-      "row": 83,
-      "label": "Pack leaf for return",
-      "uid": "SPIN:1219"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1207,
       "row": 75,
       "label": "Make task to get Jake / Linai tix for Christmas break 2027 in Jan",
@@ -1121,13 +1114,78 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:11987"
+    },
+    {
+      "source": "TASKS",
+      "id": 12149,
+      "label": "\u2728 Grab the gold candles and charge them \ud83d\udd6f\ufe0f",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12149"
+    },
+    {
+      "source": "TASKS",
+      "id": 12214,
+      "label": "\u2728 Clean makeup brushes \ud83d\udd8c\ufe0f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12214"
+    },
+    {
+      "source": "TASKS",
+      "id": 12249,
+      "label": "\u2728 See if Edison is working again yet \ud83d\udd0c\ud83d\udd01",
+      "aw": 5,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12249"
+    },
+    {
+      "source": "TASKS",
+      "id": 12255,
+      "label": "\u2728 Check for South weekly schedule adjustments",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12255"
+    },
+    {
+      "source": "TASKS",
+      "id": 12305,
+      "label": "\u2728 Clear the upstairs trashes",
+      "aw": 4,
+      "pri": null,
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": true,
+      "uid": "TASKS:12305"
     }
   ],
-  "version": 3120,
-  "updated": "2026-10-26T07:48:29.548349+00:00",
+  "version": 3121,
+  "updated": "2026-10-26T08:03:09.312448+00:00",
   "buckets": {
-    "SPIN_WHEEL": 88,
-    "TASKS": 27,
+    "SPIN_WHEEL": 87,
+    "TASKS": 32,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
