@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 87,
+      "label": "Figure out Arlo motion rules (Pura Library)",
+      "uid": "SPIN:1214",
+      "_ts": "2026-10-26T07:48:13.674Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-26T05:00:03.661Z",
+  "mirroredAt": "2026-10-26T07:48:14.045Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-10-26T05:00:04.888508+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1220"
-  ]
+  }
 }
