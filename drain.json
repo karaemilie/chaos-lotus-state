@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-26T08:03:10.809Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find Genevieve flight line costs ** (still working to determine if I owe her refund)",
+      "_addedAt": "2026-10-26T08:27:26.355Z",
+      "_ts": "2026-10-26T08:27:26.852Z"
+    }
+  ],
+  "mirroredAt": "2026-10-26T08:27:27.236Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-26T08:03:12.046157+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1219"
-  ]
+    "adds": 1
+  }
 }
