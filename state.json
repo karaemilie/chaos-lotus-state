@@ -1179,12 +1179,19 @@
       "sid": 1228,
       "label": "Find Genevieve flight line costs ** (still working to determine if I owe her refund)",
       "uid": "SPIN_WHEEL:1228"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1229,
+      "sid": 1229,
+      "label": "Print Derek Owen TOC for Algebra x 2 **",
+      "uid": "SPIN_WHEEL:1229"
     }
   ],
-  "version": 3123,
-  "updated": "2026-10-26T08:28:27.681994+00:00",
+  "version": 3124,
+  "updated": "2026-10-26T08:28:32.130769+00:00",
   "buckets": {
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 88,
     "TASKS": 32,
     "ZONES": 7,
     "COURAGE": 4,
