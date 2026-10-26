@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1220,
+      "label": "Find pumpkin seed oil",
+      "uid": "SPIN_WHEEL:1220",
+      "_ts": "2026-10-26T04:59:48.938Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-26T04:26:54.256Z",
+  "mirroredAt": "2026-10-26T04:59:49.277Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
