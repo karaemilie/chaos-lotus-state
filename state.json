@@ -1133,12 +1133,19 @@
       "sid": 1224,
       "label": "Write furnace guy / schedule new tank",
       "uid": "SPIN_WHEEL:1224"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1225,
+      "sid": 1225,
+      "label": "New lamp",
+      "uid": "SPIN_WHEEL:1225"
     }
   ],
-  "version": 3112,
-  "updated": "2026-10-25T09:20:59.848522+00:00",
+  "version": 3113,
+  "updated": "2026-10-26T03:53:27.800212+00:00",
   "buckets": {
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 90,
     "TASKS": 27,
     "ZONES": 9,
     "MAINTENANCE": 2,
