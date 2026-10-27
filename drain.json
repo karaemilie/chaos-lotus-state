@@ -1,13 +1,6 @@
 {
   "completions": [
     {
-      "source": "SPIN_WHEEL",
-      "row": 56,
-      "label": "Patch garage walls",
-      "uid": "SPIN:1172",
-      "_ts": "2026-10-27T09:21:08.831Z"
-    },
-    {
       "source": "ZONES",
       "zid": 75,
       "floor": "Plant",
@@ -16,44 +9,10 @@
       "_ts": "2026-10-27T09:21:20.951Z"
     }
   ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Manual pump for the well",
-      "_addedAt": "2026-10-27T09:20:04.652Z",
-      "promote": {
-        "fromUid": "SPIN:1211",
-        "sid": 1211,
-        "label": "Manual pump for the well",
-        "origLabel": "Manual pump for the well",
-        "start": "2027-01-17",
-        "category": "Home",
-        "aw": 4
-      },
-      "_ts": "2026-10-27T09:20:04.986Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "✨ Add solo & ensemble to calendar, find group & solo pieces",
-      "_addedAt": "2026-10-27T09:20:14.709Z",
-      "reschedule": {
-        "uid": "TASKS:10436",
-        "id": 10436,
-        "label": "✨ Add solo & ensemble to calendar, find group & solo pieces",
-        "start": "2026-10-30"
-      },
-      "_ts": "2026-10-27T09:20:15.056Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Change to smaller grate side of garage door if needed",
-      "_addedAt": "2026-10-27T09:21:05.712Z",
-      "_ts": "2026-10-27T09:21:05.848Z"
-    }
-  ],
-  "mirroredAt": "2026-10-27T09:21:21.177Z",
+  "adds": [],
+  "mirroredAt": "2026-10-27T09:21:34.345Z",
   "counts": {
-    "completions": 2,
-    "adds": 3
+    "completions": 1,
+    "adds": 0
   }
 }
