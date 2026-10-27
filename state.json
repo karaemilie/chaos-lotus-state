@@ -1155,26 +1155,6 @@
       "uid": "TASKS:12250"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11004,
-      "stepIndex": 0,
-      "parentLabel": "Eval Thanksgiving tickets for college kids \ud83e\udd83\u2708\ufe0f \ud83d\udcdd",
-      "aw": 2,
-      "due": null,
-      "label": "\ud83d\udd25 Eval Thanksgiving tickets for college kids \ud83e\udd83\u2708\ufe0f \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11004:0"
-    },
-    {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1244,
       "sid": 1244,
@@ -1194,10 +1174,30 @@
       "sid": 1246,
       "label": "Program garage doors into my vehicle",
       "uid": "SPIN_WHEEL:1246"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11566,
+      "stepIndex": 0,
+      "parentLabel": "Pay \"regular\" tithing \ud83d\udcdd",
+      "aw": 2,
+      "due": null,
+      "label": "\ud83d\udd25 Pay \"regular\" tithing \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11566:0"
     }
   ],
-  "version": 3158,
-  "updated": "2026-10-27T09:25:48.480380+00:00",
+  "version": 3159,
+  "updated": "2026-10-27T09:26:30.852970+00:00",
   "buckets": {
     "SPIN_WHEEL": 92,
     "TASKS": 31,
