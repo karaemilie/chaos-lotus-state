@@ -1,13 +1,31 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1237,
+      "label": "Redo my big poly hoya (combine splash and Broget)",
+      "uid": "SPIN_WHEEL:1237",
+      "_ts": "2026-10-27T09:26:48.807Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12305,
+      "label": "✨ Clear the upstairs trashes",
+      "uid": "TASKS:12305",
+      "_ts": "2026-10-27T09:27:00.023Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12255,
+      "label": "✨ Check for South weekly schedule adjustments",
+      "uid": "TASKS:12255",
+      "_ts": "2026-10-27T09:27:19.248Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-27T09:27:09.823Z",
+  "mirroredAt": "2026-10-27T09:27:19.479Z",
   "counts": {
-    "completions": 0,
+    "completions": 3,
     "adds": 0
-  },
-  "processedAt": "2026-10-27T09:27:11.168276+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1237"
-  ]
+  }
 }
