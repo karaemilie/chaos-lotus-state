@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-27T09:46:59.940Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "New Bentley sueded shirt",
+      "_addedAt": "2026-10-27T23:07:39.234Z",
+      "_ts": "2026-10-27T23:07:39.472Z"
+    }
+  ],
+  "mirroredAt": "2026-10-27T23:07:39.716Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
