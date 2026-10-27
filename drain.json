@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-27T04:44:24.821Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find out Linc All State ranking",
+      "_addedAt": "2026-10-27T04:46:47.371Z",
+      "_ts": "2026-10-27T04:46:47.552Z"
+    }
+  ],
+  "mirroredAt": "2026-10-27T04:46:47.897Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-27T04:44:26.343129+00:00",
-  "lastAutoProcessed": [
-    "COURAGE:12166:0"
-  ]
+    "adds": 1
+  }
 }
