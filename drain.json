@@ -1,5 +1,14 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "COURAGE",
+      "parentId": 11004,
+      "stepIndex": 0,
+      "label": "🔥 Eval Thanksgiving tickets for college kids 🦃✈️ 📝",
+      "uid": "COURAGE:11004:0",
+      "_ts": "2026-10-27T09:25:40.131Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -17,9 +26,9 @@
       "_ts": "2026-10-27T09:25:23.649Z"
     }
   ],
-  "mirroredAt": "2026-10-27T09:25:23.859Z",
+  "mirroredAt": "2026-10-27T09:25:40.351Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
