@@ -1145,17 +1145,6 @@
       "uid": "SPIN_WHEEL:1233"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11850,
-      "stepIndex": 0,
-      "parentLabel": "\ud83d\udd25 Pay down Jake $852 charge when 529 payment clears \ud83d\udcb3",
-      "aw": 2,
-      "due": null,
-      "label": "\ud83d\udd25 \ud83d\udd25 Pay down Jake $852 charge when 529 payment clears \ud83d\udcb3",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11850:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1234,
       "sid": 1234,
@@ -1217,13 +1206,37 @@
       "sid": 1242,
       "label": "Set up AP Econ study plan",
       "uid": "SPIN_WHEEL:1242"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11918,
+      "stepIndex": 0,
+      "parentLabel": "Circle back on Genevieve's Alaska Performance Scholarship funds \ud83c\udf93\ud83d\udcb0",
+      "aw": 2,
+      "due": null,
+      "label": "\ud83d\udd25 Circle back on Genevieve's Alaska Performance Scholarship funds \ud83c\udf93\ud83d\udcb0",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11918:0"
+    },
+    {
+      "source": "TASKS",
+      "id": 12250,
+      "label": "\u2728 Trash only to curb \ud83d\uddd1\ufe0f",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12250"
     }
   ],
-  "version": 3147,
-  "updated": "2026-10-27T08:49:21.825201+00:00",
+  "version": 3148,
+  "updated": "2026-10-27T09:19:43.619370+00:00",
   "buckets": {
     "SPIN_WHEEL": 95,
-    "TASKS": 31,
+    "TASKS": 32,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
