@@ -154,13 +154,6 @@
       "uid": "SPIN:555"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1198,
-      "row": 71,
-      "label": "Sort through these tasks and get them under control",
-      "uid": "SPIN:1198"
-    },
-    {
       "source": "TASKS",
       "id": 12246,
       "row": 351,
@@ -1210,10 +1203,10 @@
       "uid": "SPIN_WHEEL:1245"
     }
   ],
-  "version": 3153,
-  "updated": "2026-10-27T09:22:56.976893+00:00",
+  "version": 3154,
+  "updated": "2026-10-27T09:23:40.322002+00:00",
   "buckets": {
-    "SPIN_WHEEL": 94,
+    "SPIN_WHEEL": 93,
     "TASKS": 31,
     "ZONES": 7,
     "COURAGE": 4,
