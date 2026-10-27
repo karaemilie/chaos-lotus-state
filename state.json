@@ -1194,12 +1194,19 @@
       "sid": 1245,
       "label": "Input scents to my Pura tracker!",
       "uid": "SPIN_WHEEL:1245"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1246,
+      "sid": 1246,
+      "label": "Program garage doors into my vehicle",
+      "uid": "SPIN_WHEEL:1246"
     }
   ],
-  "version": 3155,
-  "updated": "2026-10-27T09:24:21.357704+00:00",
+  "version": 3156,
+  "updated": "2026-10-27T09:24:24.843609+00:00",
   "buckets": {
-    "SPIN_WHEEL": 92,
+    "SPIN_WHEEL": 93,
     "TASKS": 31,
     "ZONES": 7,
     "COURAGE": 4,
