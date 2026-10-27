@@ -1,26 +1,25 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-27T09:33:08.730Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Hilltop pass",
+      "_addedAt": "2026-10-27T09:46:00.693Z",
+      "promote": {
+        "fromUid": "SPIN:1190",
+        "sid": 1190,
+        "label": "Hilltop pass",
+        "origLabel": "Hilltop pass",
+        "start": "2026-11-04",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-27T09:46:01.041Z"
+    }
+  ],
+  "mirroredAt": "2026-10-27T09:46:01.301Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-27T09:33:10.065471+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1217",
-    "SPIN:1005",
-    "SPIN:1148",
-    "SPIN:1218",
-    "SPIN:1221",
-    "TASKS:12236",
-    "TASKS:12237",
-    "TASKS:12274",
-    "TASKS:12282",
-    "TASKS:12126",
-    "TASKS:12294",
-    "TASKS:12134",
-    "TASKS:12292",
-    "TASKS:12246"
-  ]
+    "adds": 1
+  }
 }
