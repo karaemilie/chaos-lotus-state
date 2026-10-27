@@ -1,52 +1,9 @@
 {
   "completions": [],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Hilltop pass",
-      "_addedAt": "2026-10-27T09:46:00.693Z",
-      "promote": {
-        "fromUid": "SPIN:1190",
-        "sid": 1190,
-        "label": "Hilltop pass",
-        "origLabel": "Hilltop pass",
-        "start": "2026-11-04",
-        "category": "Home",
-        "aw": 4
-      },
-      "_ts": "2026-10-27T09:46:01.041Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "✨ Spend time on flower bouquet coding project",
-      "_addedAt": "2026-10-27T09:46:10.994Z",
-      "reschedule": {
-        "uid": "TASKS:12275",
-        "id": 12275,
-        "label": "✨ Spend time on flower bouquet coding project",
-        "start": "2026-10-31"
-      },
-      "_ts": "2026-10-27T09:46:11.179Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Assess space under porch",
-      "_addedAt": "2026-10-27T09:46:30.001Z",
-      "promote": {
-        "fromUid": "SPIN:1141",
-        "sid": 1141,
-        "label": "Assess space under porch",
-        "origLabel": "Assess space under porch",
-        "start": "2026-10-30",
-        "category": "Home",
-        "aw": 4
-      },
-      "_ts": "2026-10-27T09:46:30.533Z"
-    }
-  ],
-  "mirroredAt": "2026-10-27T09:46:30.784Z",
+  "adds": [],
+  "mirroredAt": "2026-10-27T09:46:59.940Z",
   "counts": {
     "completions": 0,
-    "adds": 3
+    "adds": 0
   }
 }
