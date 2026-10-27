@@ -596,13 +596,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1221,
-      "row": 71,
-      "label": "Research supplements to support bone density",
-      "uid": "SPIN:1221"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1166,
       "row": 51,
       "label": "Bentley secondary essays",
@@ -748,20 +741,6 @@
       "row": 25,
       "label": "Submit for Evan voice lessons Sept!",
       "uid": "SPIN:1070"
-    },
-    {
-      "source": "TASKS",
-      "id": 12246,
-      "row": 346,
-      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12246"
     },
     {
       "source": "TASKS",
@@ -1065,13 +1044,26 @@
       "cat": "Kids",
       "critical": false,
       "uid": "TASKS:11814"
+    },
+    {
+      "source": "TASKS",
+      "id": 11708,
+      "label": "Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11708"
     }
   ],
-  "version": 3167,
-  "updated": "2026-10-27T09:32:17.506917+00:00",
+  "version": 3168,
+  "updated": "2026-10-27T09:33:05.749483+00:00",
   "buckets": {
     "ZONES": 8,
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 86,
     "TASKS": 23,
     "MAINTENANCE": 2,
     "COURAGE": 4
