@@ -8,12 +8,21 @@
       "label": "🌱 Bedroom",
       "uid": "ZONES:73",
       "_ts": "2026-10-27T00:39:43.296Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 7,
+      "zid": 6,
+      "floor": "Upstairs",
+      "label": "🧺 Genevieve's Room",
+      "uid": "ZONES:6",
+      "_ts": "2026-10-27T00:39:50.090Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-10-27T00:39:43.672Z",
+  "mirroredAt": "2026-10-27T00:39:50.370Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
