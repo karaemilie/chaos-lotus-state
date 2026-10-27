@@ -967,18 +967,6 @@
       "uid": "SPIN:1166"
     },
     {
-      "source": "COURAGE",
-      "parentId": 12166,
-      "parentRow": 299,
-      "parentLabel": "Run Genevieve credit cost",
-      "stepIndex": 0,
-      "aw": 1,
-      "due": null,
-      "label": "\ud83d\udd25 Run Genevieve credit cost",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:12166:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1185,
       "row": 62,
@@ -1190,10 +1178,21 @@
       "sid": 1233,
       "label": "Rub bronze on door hinges in library",
       "uid": "SPIN_WHEEL:1233"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11850,
+      "stepIndex": 0,
+      "parentLabel": "\ud83d\udd25 Pay down Jake $852 charge when 529 payment clears \ud83d\udcb3",
+      "aw": 2,
+      "due": null,
+      "label": "\ud83d\udd25 \ud83d\udd25 Pay down Jake $852 charge when 529 payment clears \ud83d\udcb3",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11850:0"
     }
   ],
-  "version": 3134,
-  "updated": "2026-10-27T03:41:32.984718+00:00",
+  "version": 3135,
+  "updated": "2026-10-27T04:44:21.705421+00:00",
   "buckets": {
     "SPIN_WHEEL": 89,
     "TASKS": 32,
