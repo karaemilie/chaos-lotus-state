@@ -1201,12 +1201,19 @@
       "label": "\ud83d\udd25 Eval Thanksgiving tickets for college kids \ud83e\udd83\u2708\ufe0f \ud83d\udcdd",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:11004:0"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1243,
+      "sid": 1243,
+      "label": "Change to smaller grate side of garage door if needed",
+      "uid": "SPIN_WHEEL:1243"
     }
   ],
-  "version": 3150,
-  "updated": "2026-10-27T09:21:32.757176+00:00",
+  "version": 3151,
+  "updated": "2026-10-27T09:21:35.902157+00:00",
   "buckets": {
-    "SPIN_WHEEL": 93,
+    "SPIN_WHEEL": 94,
     "TASKS": 31,
     "ZONES": 7,
     "COURAGE": 4,
