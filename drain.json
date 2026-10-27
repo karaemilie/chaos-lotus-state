@@ -1,9 +1,92 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-27T09:22:54.968Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 56,
+      "label": "Patch garage walls",
+      "uid": "SPIN:1172",
+      "_ts": "2026-10-27T09:21:08.831Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "🌱 Main floor Down Low",
+      "uid": "ZONES:75",
+      "_ts": "2026-10-27T09:21:20.951Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 47,
+      "label": "Have Bentley grab another food plan and then request refund/figure out how to process",
+      "uid": "SPIN:1149",
+      "_ts": "2026-10-27T09:21:50.474Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 78,
+      "label": "Pura inventory system that scans",
+      "uid": "SPIN:1212",
+      "_ts": "2026-10-27T09:22:23.553Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 71,
+      "label": "Sort through these tasks and get them under control",
+      "uid": "SPIN:1198",
+      "_ts": "2026-10-27T09:23:01.571Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Manual pump for the well",
+      "_addedAt": "2026-10-27T09:20:04.652Z",
+      "promote": {
+        "fromUid": "SPIN:1211",
+        "sid": 1211,
+        "label": "Manual pump for the well",
+        "origLabel": "Manual pump for the well",
+        "start": "2027-01-17",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-27T09:20:04.986Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Add solo & ensemble to calendar, find group & solo pieces",
+      "_addedAt": "2026-10-27T09:20:14.709Z",
+      "reschedule": {
+        "uid": "TASKS:10436",
+        "id": 10436,
+        "label": "✨ Add solo & ensemble to calendar, find group & solo pieces",
+        "start": "2026-10-30"
+      },
+      "_ts": "2026-10-27T09:20:15.056Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Change to smaller grate side of garage door if needed",
+      "_addedAt": "2026-10-27T09:21:05.712Z",
+      "_ts": "2026-10-27T09:21:05.848Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Request B refund from TCU",
+      "_addedAt": "2026-10-27T09:21:44.868Z",
+      "_ts": "2026-10-27T09:21:45.060Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Input scents to my Pura tracker!",
+      "_addedAt": "2026-10-27T09:22:19.779Z",
+      "_ts": "2026-10-27T09:22:19.925Z"
+    }
+  ],
+  "mirroredAt": "2026-10-27T09:23:01.812Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 5,
+    "adds": 5
   }
 }
