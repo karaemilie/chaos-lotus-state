@@ -15,11 +15,23 @@
         "aw": 4
       },
       "_ts": "2026-10-27T09:46:01.041Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Spend time on flower bouquet coding project",
+      "_addedAt": "2026-10-27T09:46:10.994Z",
+      "reschedule": {
+        "uid": "TASKS:12275",
+        "id": 12275,
+        "label": "✨ Spend time on flower bouquet coding project",
+        "start": "2026-10-31"
+      },
+      "_ts": "2026-10-27T09:46:11.179Z"
     }
   ],
-  "mirroredAt": "2026-10-27T09:46:01.301Z",
+  "mirroredAt": "2026-10-27T09:46:11.413Z",
   "counts": {
     "completions": 0,
-    "adds": 1
+    "adds": 2
   }
 }
