@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-27T00:44:26.157Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Submit for cello wolf eliminator",
+      "_addedAt": "2026-10-27T00:52:35.865Z",
+      "_ts": "2026-10-27T00:52:36.030Z"
+    }
+  ],
+  "mirroredAt": "2026-10-27T00:52:36.291Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-27T00:44:27.299739+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1224"
-  ]
+    "adds": 1
+  }
 }
