@@ -296,13 +296,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1149,
-      "row": 47,
-      "label": "Have Bentley grab another food plan and then request refund/figure out how to process",
-      "uid": "SPIN:1149"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1027,
       "row": 17,
       "label": "Contact state FLL coordinator",
@@ -568,13 +561,6 @@
       "row": 16,
       "label": "MSG for Jake re: trumpet!! B",
       "uid": "SPIN:1013"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1212,
-      "row": 78,
-      "label": "Pura inventory system that scans",
-      "uid": "SPIN:1212"
     },
     {
       "source": "COURAGE",
@@ -1074,15 +1060,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
-    },
-    {
-      "source": "ZONES",
       "zid": 7,
       "floor": "Upstairs",
       "label": "\ud83e\uddfa Kids Bathroom",
@@ -1208,12 +1185,21 @@
       "sid": 1243,
       "label": "Change to smaller grate side of garage door if needed",
       "uid": "SPIN_WHEEL:1243"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
     }
   ],
-  "version": 3151,
-  "updated": "2026-10-27T09:21:35.902157+00:00",
+  "version": 3152,
+  "updated": "2026-10-27T09:22:53.129521+00:00",
   "buckets": {
-    "SPIN_WHEEL": 94,
+    "SPIN_WHEEL": 92,
     "TASKS": 31,
     "ZONES": 7,
     "COURAGE": 4,
