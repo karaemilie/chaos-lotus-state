@@ -348,13 +348,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1172,
-      "row": 56,
-      "label": "Patch garage walls",
-      "uid": "SPIN:1172"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1186,
       "row": 63,
       "label": "Lincoln spring class plan",
@@ -1210,10 +1203,10 @@
       "uid": "COURAGE:11004:0"
     }
   ],
-  "version": 3149,
-  "updated": "2026-10-27T09:20:29.471029+00:00",
+  "version": 3150,
+  "updated": "2026-10-27T09:21:32.757176+00:00",
   "buckets": {
-    "SPIN_WHEEL": 94,
+    "SPIN_WHEEL": 93,
     "TASKS": 31,
     "ZONES": 7,
     "COURAGE": 4,
