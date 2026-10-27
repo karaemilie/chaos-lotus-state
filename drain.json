@@ -3,21 +3,6 @@
   "adds": [
     {
       "source": "PLUS_ADD",
-      "label": "Hilltop pass",
-      "_addedAt": "2026-10-27T09:46:00.693Z",
-      "promote": {
-        "fromUid": "SPIN:1190",
-        "sid": 1190,
-        "label": "Hilltop pass",
-        "origLabel": "Hilltop pass",
-        "start": "2026-11-04",
-        "category": "Home",
-        "aw": 4
-      },
-      "_ts": "2026-10-27T09:46:01.041Z"
-    },
-    {
-      "source": "PLUS_ADD",
       "label": "✨ Spend time on flower bouquet coding project",
       "_addedAt": "2026-10-27T09:46:10.994Z",
       "reschedule": {
@@ -29,9 +14,9 @@
       "_ts": "2026-10-27T09:46:11.179Z"
     }
   ],
-  "mirroredAt": "2026-10-27T09:46:11.413Z",
+  "mirroredAt": "2026-10-27T09:46:15.577Z",
   "counts": {
     "completions": 0,
-    "adds": 2
+    "adds": 1
   }
 }
