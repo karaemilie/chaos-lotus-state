@@ -88,16 +88,6 @@
       "uid": "SPIN:921"
     },
     {
-      "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "row": 75,
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1206,
       "row": 74,
@@ -1185,10 +1175,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Mask",
       "uid": "ZONES:85"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Main floor Down Low",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Main floor Down Low",
+      "uid": "ZONES:75"
     }
   ],
-  "version": 3129,
-  "updated": "2026-10-27T00:26:47.530589+00:00",
+  "version": 3130,
+  "updated": "2026-10-27T00:40:01.580628+00:00",
   "buckets": {
     "SPIN_WHEEL": 88,
     "TASKS": 32,
