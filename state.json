@@ -247,13 +247,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1122,
-      "row": 40,
-      "label": "\ud83d\udd25 Three tasks to pay off Morpho from business acct",
-      "uid": "SPIN:1122"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1163,
       "row": 53,
       "label": "Forward a copy of Bentley American ticket to my paiback account",
@@ -1205,10 +1198,10 @@
       "uid": "SPIN_WHEEL:1239"
     }
   ],
-  "version": 3143,
-  "updated": "2026-10-27T05:36:40.287563+00:00",
+  "version": 3144,
+  "updated": "2026-10-27T05:42:36.949913+00:00",
   "buckets": {
-    "SPIN_WHEEL": 93,
+    "SPIN_WHEEL": 92,
     "TASKS": 31,
     "ZONES": 7,
     "COURAGE": 4,
