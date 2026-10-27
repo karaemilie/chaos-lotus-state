@@ -989,32 +989,6 @@
       "uid": "TASKS:12249"
     },
     {
-      "source": "TASKS",
-      "id": 12255,
-      "label": "\u2728 Check for South weekly schedule adjustments",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12255"
-    },
-    {
-      "source": "TASKS",
-      "id": 12305,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:12305"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1229,
       "sid": 1229,
@@ -1189,11 +1163,11 @@
       "uid": "COURAGE:11566:0"
     }
   ],
-  "version": 3160,
-  "updated": "2026-10-27T09:27:08.488875+00:00",
+  "version": 3161,
+  "updated": "2026-10-27T09:27:33.530002+00:00",
   "buckets": {
     "SPIN_WHEEL": 91,
-    "TASKS": 31,
+    "TASKS": 29,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
