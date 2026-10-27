@@ -160,13 +160,6 @@
       "uid": "TASKS:12217"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1218,
-      "row": 70,
-      "label": "Pack tack gun for returb",
-      "uid": "SPIN:1218"
-    },
-    {
       "source": "TASKS",
       "id": 12250,
       "row": 349,
@@ -634,20 +627,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12292,
-      "row": 388,
-      "label": "\u2728 Weekly meal planning",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12292"
-    },
-    {
-      "source": "TASKS",
       "id": 11994,
       "row": 253,
       "label": "\u2728 Charge the red candles \ud83d\udd6f\ufe0f\u2764\ufe0f",
@@ -1073,13 +1052,26 @@
       "cat": "Kids",
       "critical": false,
       "uid": "TASKS:11283"
+    },
+    {
+      "source": "TASKS",
+      "id": 11814,
+      "label": "Buy tickets \u2014 AYO Fall Concert (Sun Nov 15, 2026) \ud83c\udfbb\ud83c\udfab",
+      "aw": 3,
+      "pri": 3,
+      "dur": 15,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11814"
     }
   ],
-  "version": 3166,
-  "updated": "2026-10-27T09:31:42.593589+00:00",
+  "version": 3167,
+  "updated": "2026-10-27T09:32:17.506917+00:00",
   "buckets": {
     "ZONES": 8,
-    "SPIN_WHEEL": 88,
+    "SPIN_WHEEL": 87,
     "TASKS": 23,
     "MAINTENANCE": 2,
     "COURAGE": 4
