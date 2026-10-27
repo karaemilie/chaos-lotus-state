@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-27T05:42:38.451Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Work on my habit tracker app",
+      "_addedAt": "2026-10-27T06:47:28.987Z",
+      "_ts": "2026-10-27T06:47:29.185Z"
+    }
+  ],
+  "mirroredAt": "2026-10-27T06:47:29.430Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-27T05:42:39.834539+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1122"
-  ]
+    "adds": 1
+  }
 }
