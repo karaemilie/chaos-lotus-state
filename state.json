@@ -1166,13 +1166,6 @@
       "uid": "COURAGE:11004:0"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1243,
-      "sid": 1243,
-      "label": "Change to smaller grate side of garage door if needed",
-      "uid": "SPIN_WHEEL:1243"
-    },
-    {
       "source": "ZONES",
       "zid": 76,
       "floor": "Plant",
@@ -1203,10 +1196,10 @@
       "uid": "SPIN_WHEEL:1246"
     }
   ],
-  "version": 3157,
-  "updated": "2026-10-27T09:25:04.663596+00:00",
+  "version": 3158,
+  "updated": "2026-10-27T09:25:48.480380+00:00",
   "buckets": {
-    "SPIN_WHEEL": 93,
+    "SPIN_WHEEL": 92,
     "TASKS": 31,
     "ZONES": 7,
     "COURAGE": 4,
