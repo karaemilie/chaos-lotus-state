@@ -83,13 +83,6 @@
       "uid": "TASKS:12271"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1190,
-      "row": 59,
-      "label": "Hilltop pass",
-      "uid": "SPIN:1190"
-    },
-    {
       "source": "TASKS",
       "id": 12254,
       "row": 353,
@@ -1059,11 +1052,11 @@
       "uid": "TASKS:11708"
     }
   ],
-  "version": 3168,
-  "updated": "2026-10-27T09:33:05.749483+00:00",
+  "version": 3169,
+  "updated": "2026-10-27T09:46:14.107618+00:00",
   "buckets": {
     "ZONES": 8,
-    "SPIN_WHEEL": 86,
+    "SPIN_WHEEL": 85,
     "TASKS": 23,
     "MAINTENANCE": 2,
     "COURAGE": 4
