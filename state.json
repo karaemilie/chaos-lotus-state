@@ -205,16 +205,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 83,
-      "floor": "Personal",
-      "row": 85,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Retainer",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Retainer",
-      "uid": "ZONES:83"
-    },
-    {
-      "source": "ZONES",
       "zid": 39,
       "floor": "Main Floor",
       "row": 40,
@@ -1186,10 +1176,19 @@
       "sid": 1231,
       "label": "Buy chili sauce",
       "uid": "SPIN_WHEEL:1231"
+    },
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Mask",
+      "uid": "ZONES:85"
     }
   ],
-  "version": 3128,
-  "updated": "2026-10-26T21:57:00.886948+00:00",
+  "version": 3129,
+  "updated": "2026-10-27T00:26:47.530589+00:00",
   "buckets": {
     "SPIN_WHEEL": 88,
     "TASKS": 32,
