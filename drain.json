@@ -1,9 +1,25 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-27T09:25:05.996Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Change to smaller grate side of garage door if needed",
+      "_addedAt": "2026-10-27T09:25:23.468Z",
+      "promote": {
+        "fromUid": "SPIN_WHEEL:1243",
+        "sid": 1243,
+        "label": "Change to smaller grate side of garage door if needed",
+        "origLabel": "Change to smaller grate side of garage door if needed",
+        "start": "2027-05-07",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-27T09:25:23.649Z"
+    }
+  ],
+  "mirroredAt": "2026-10-27T09:25:23.859Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
