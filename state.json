@@ -175,13 +175,6 @@
       "uid": "TASKS:12246"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1211,
-      "row": 77,
-      "label": "Manual pump for the well",
-      "uid": "SPIN:1211"
-    },
-    {
       "source": "COURAGE",
       "parentId": 12063,
       "parentRow": 267,
@@ -230,20 +223,6 @@
       "row": 57,
       "label": "Program garage door",
       "uid": "SPIN:1174"
-    },
-    {
-      "source": "TASKS",
-      "id": 10436,
-      "row": 83,
-      "label": "\u2728 Add solo & ensemble to calendar, find group & solo pieces",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10436"
     },
     {
       "source": "SPIN_WHEEL",
@@ -436,18 +415,6 @@
       "row": 46,
       "label": "Find my second magnetic charge cord, move to library",
       "uid": "SPIN:1148"
-    },
-    {
-      "source": "COURAGE",
-      "parentId": 11210,
-      "parentRow": 140,
-      "parentLabel": "Audit kids 529 statements + add to Google tax drive \ud83d\udcdd",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": null,
-      "label": "\ud83d\udd25 Audit kids 529 statements + add to Google tax drive \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11210:0"
     },
     {
       "source": "TASKS",
@@ -1230,13 +1197,24 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12250"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11004,
+      "stepIndex": 0,
+      "parentLabel": "Eval Thanksgiving tickets for college kids \ud83e\udd83\u2708\ufe0f \ud83d\udcdd",
+      "aw": 2,
+      "due": null,
+      "label": "\ud83d\udd25 Eval Thanksgiving tickets for college kids \ud83e\udd83\u2708\ufe0f \ud83d\udcdd",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11004:0"
     }
   ],
-  "version": 3148,
-  "updated": "2026-10-27T09:19:43.619370+00:00",
+  "version": 3149,
+  "updated": "2026-10-27T09:20:29.471029+00:00",
   "buckets": {
-    "SPIN_WHEEL": 95,
-    "TASKS": 32,
+    "SPIN_WHEEL": 94,
+    "TASKS": 31,
     "ZONES": 7,
     "COURAGE": 4,
     "MAINTENANCE": 2
