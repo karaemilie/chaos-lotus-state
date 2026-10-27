@@ -46,20 +46,6 @@
       "uid": "SPIN:923"
     },
     {
-      "source": "TASKS",
-      "id": 12294,
-      "row": 390,
-      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12294"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 134,
       "row": 137,
@@ -478,13 +464,6 @@
       "uid": "TASKS:12154"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1005,
-      "row": 13,
-      "label": "Send Matt his insurance card",
-      "uid": "SPIN:1005"
-    },
-    {
       "source": "ZONES",
       "zid": 77,
       "floor": "Plant",
@@ -565,20 +544,6 @@
       "row": 78,
       "label": "Plug in iPhone to Xcode for Pansy! **",
       "uid": "SPIN:1230"
-    },
-    {
-      "source": "TASKS",
-      "id": 12134,
-      "row": 286,
-      "label": "\u2728 Cancel IXL ($25/month)",
-      "aw": 3,
-      "pri": null,
-      "dur": 15,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12134"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1089,13 +1054,39 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:12157"
+    },
+    {
+      "source": "TASKS",
+      "id": 10505,
+      "label": "Bank run",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10505"
+    },
+    {
+      "source": "TASKS",
+      "id": 11283,
+      "label": "Build image-based task system for the boys",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11283"
     }
   ],
-  "version": 3164,
-  "updated": "2026-10-27T09:30:33.615886+00:00",
+  "version": 3165,
+  "updated": "2026-10-27T09:31:03.109906+00:00",
   "buckets": {
     "ZONES": 8,
-    "SPIN_WHEEL": 90,
+    "SPIN_WHEEL": 89,
     "TASKS": 23,
     "MAINTENANCE": 2,
     "COURAGE": 4
