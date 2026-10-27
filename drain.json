@@ -2,6 +2,14 @@
   "completions": [
     {
       "source": "COURAGE",
+      "parentId": 11850,
+      "stepIndex": 0,
+      "label": "🔥 🔥 Pay down Jake $852 charge when 529 payment clears 💳",
+      "uid": "COURAGE:11850:0",
+      "_ts": "2026-10-27T09:19:32.028Z"
+    },
+    {
+      "source": "COURAGE",
       "parentId": 11210,
       "stepIndex": 0,
       "label": "🔥 Audit kids 529 statements + add to Google tax drive 📝",
@@ -9,10 +17,26 @@
       "_ts": "2026-10-27T09:19:42.548Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-10-27T09:19:46.853Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Manual pump for the well",
+      "_addedAt": "2026-10-27T09:20:04.652Z",
+      "promote": {
+        "fromUid": "SPIN:1211",
+        "sid": 1211,
+        "label": "Manual pump for the well",
+        "origLabel": "Manual pump for the well",
+        "start": "2027-01-17",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-10-27T09:20:04.986Z"
+    }
+  ],
+  "mirroredAt": "2026-10-27T09:20:05.260Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
