@@ -373,20 +373,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12274,
-      "row": 370,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12274"
-    },
-    {
-      "source": "TASKS",
       "id": 12058,
       "row": 263,
       "label": "\u2728 Set up teeth cleanings \ud83e\uddb7\ud83e\udea5",
@@ -476,13 +462,6 @@
       "row": 46,
       "label": "Research treadmills",
       "uid": "SPIN:1153"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1217,
-      "row": 69,
-      "label": "Pack ring to returb",
-      "uid": "SPIN:1217"
     },
     {
       "source": "TASKS",
@@ -630,20 +609,6 @@
       "uid": "SPIN:1099"
     },
     {
-      "source": "TASKS",
-      "id": 12237,
-      "row": 339,
-      "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12237"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1222,
       "row": 72,
@@ -663,20 +628,6 @@
       "row": 65,
       "label": "Add tacks to the new curtains!",
       "uid": "SPIN:1205"
-    },
-    {
-      "source": "TASKS",
-      "id": 12126,
-      "row": 284,
-      "label": "\u2728 Update Pura subscriptions",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12126"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1067,20 +1018,6 @@
       "uid": "SPIN:1161"
     },
     {
-      "source": "TASKS",
-      "id": 12282,
-      "row": 378,
-      "label": "\u2728 Send text update to mother-in-law \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:12282"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1123,
       "row": 38,
@@ -1154,12 +1091,12 @@
       "uid": "TASKS:12157"
     }
   ],
-  "version": 3163,
-  "updated": "2026-10-27T09:29:43.274415+00:00",
+  "version": 3164,
+  "updated": "2026-10-27T09:30:33.615886+00:00",
   "buckets": {
     "ZONES": 8,
-    "SPIN_WHEEL": 91,
-    "TASKS": 27,
+    "SPIN_WHEEL": 90,
+    "TASKS": 23,
     "MAINTENANCE": 2,
     "COURAGE": 4
   }
