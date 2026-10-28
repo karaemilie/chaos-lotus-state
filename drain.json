@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 84,
+      "label": "Write check for Linda",
+      "uid": "SPIN:1236",
+      "_ts": "2026-10-28T09:07:06.823Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-28T06:09:54.963Z",
+  "mirroredAt": "2026-10-28T09:07:07.111Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
