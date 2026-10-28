@@ -125,34 +125,6 @@
       "uid": "SPIN:1013"
     },
     {
-      "source": "TASKS",
-      "id": 12217,
-      "row": 324,
-      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12217"
-    },
-    {
-      "source": "TASKS",
-      "id": 12250,
-      "row": 349,
-      "label": "\u2728 Trash only to curb \ud83d\uddd1\ufe0f",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12250"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1119,
       "row": 36,
@@ -715,20 +687,6 @@
       "uid": "SPIN:1070"
     },
     {
-      "source": "TASKS",
-      "id": 12195,
-      "row": 313,
-      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12195"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1147,
       "row": 42,
@@ -1063,10 +1021,49 @@
       "sid": 1250,
       "label": "Call Golden Donuts about buckets",
       "uid": "SPIN_WHEEL:1250"
+    },
+    {
+      "source": "TASKS",
+      "id": 10284,
+      "label": "Help Jake set up LinkedIn \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10284"
+    },
+    {
+      "source": "TASKS",
+      "id": 11941,
+      "label": "Test prep plan for Lincoln \ud83d\udcda",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:11941"
+    },
+    {
+      "source": "TASKS",
+      "id": 10464,
+      "label": "Help Jake write private lesson email \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10464"
     }
   ],
-  "version": 3175,
-  "updated": "2026-10-28T09:07:23.890057+00:00",
+  "version": 3176,
+  "updated": "2026-10-28T09:08:15.681479+00:00",
   "buckets": {
     "ZONES": 8,
     "SPIN_WHEEL": 87,
