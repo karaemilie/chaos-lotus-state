@@ -928,13 +928,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1236,
-      "row": 84,
-      "label": "Write check for Linda",
-      "uid": "SPIN:1236"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1094,
       "row": 33,
       "label": "Finish Monarch recurring sync up/ acct match",
@@ -1072,11 +1065,11 @@
       "uid": "SPIN_WHEEL:1250"
     }
   ],
-  "version": 3174,
-  "updated": "2026-10-28T06:09:57.057357+00:00",
+  "version": 3175,
+  "updated": "2026-10-28T09:07:23.890057+00:00",
   "buckets": {
     "ZONES": 8,
-    "SPIN_WHEEL": 88,
+    "SPIN_WHEEL": 87,
     "TASKS": 23,
     "MAINTENANCE": 2,
     "COURAGE": 4
