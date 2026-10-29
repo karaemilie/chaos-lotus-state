@@ -1,16 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-28T09:08:19.494Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Cqnc l",
+      "_addedAt": "2026-10-29T00:00:11.550Z",
+      "_ts": "2026-10-29T00:00:11.724Z"
+    }
+  ],
+  "mirroredAt": "2026-10-29T00:00:12.091Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-28T09:08:21.038328+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1236",
-    "TASKS:12195",
-    "TASKS:12250",
-    "TASKS:12217"
-  ]
+    "adds": 1
+  }
 }
