@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-29T09:40:34.495Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add Linc job (new) to calendar",
+      "_addedAt": "2026-10-29T19:09:31.527Z",
+      "_ts": "2026-10-29T19:09:31.860Z"
+    }
+  ],
+  "mirroredAt": "2026-10-29T19:09:32.151Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-29T09:40:35.826208+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1233"
-  ]
+    "adds": 1
+  }
 }
