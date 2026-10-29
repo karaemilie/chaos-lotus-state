@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-29T00:05:09.352Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Twin & Queen air mattress",
+      "_addedAt": "2026-10-29T00:31:15.888Z",
+      "_ts": "2026-10-29T00:31:16.047Z"
+    }
+  ],
+  "mirroredAt": "2026-10-29T00:31:16.288Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-29T00:05:10.758741+00:00",
-  "lastAutoProcessed": [
-    "ZONES:66"
-  ]
+    "adds": 1
+  }
 }
