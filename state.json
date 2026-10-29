@@ -1060,13 +1060,20 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10464"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1251,
+      "sid": 1251,
+      "label": "Cqnc l",
+      "uid": "SPIN_WHEEL:1251"
     }
   ],
-  "version": 3176,
-  "updated": "2026-10-28T09:08:15.681479+00:00",
+  "version": 3177,
+  "updated": "2026-10-29T00:00:29.929932+00:00",
   "buckets": {
     "ZONES": 8,
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 88,
     "TASKS": 23,
     "MAINTENANCE": 2,
     "COURAGE": 4
