@@ -1,16 +1,6 @@
 {
   "tasks": [
     {
-      "source": "ZONES",
-      "zid": 66,
-      "floor": "Digital",
-      "row": 67,
-      "label": "\ud83d\udcbb Due",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Due",
-      "uid": "ZONES:66"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1027,
       "row": 16,
@@ -931,19 +921,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10505,
-      "label": "Bank run",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10505"
-    },
-    {
-      "source": "TASKS",
       "id": 11283,
       "label": "Build image-based task system for the boys",
       "aw": 7,
@@ -1067,15 +1044,37 @@
       "sid": 1251,
       "label": "Cqnc l",
       "uid": "SPIN_WHEEL:1251"
+    },
+    {
+      "source": "ZONES",
+      "zid": 68,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Photos",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Photos",
+      "uid": "ZONES:68"
+    },
+    {
+      "source": "TASKS",
+      "id": 12336,
+      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12336"
     }
   ],
-  "version": 3177,
-  "updated": "2026-10-29T00:00:29.929932+00:00",
+  "version": 3178,
+  "updated": "2026-10-29T00:05:07.670848+00:00",
   "buckets": {
-    "ZONES": 8,
     "SPIN_WHEEL": 88,
     "TASKS": 23,
     "MAINTENANCE": 2,
+    "ZONES": 8,
     "COURAGE": 4
   }
 }
