@@ -407,20 +407,6 @@
       "uid": "SPIN:1238"
     },
     {
-      "source": "TASKS",
-      "id": 12214,
-      "row": 323,
-      "label": "\u2728 Clean makeup brushes \ud83d\udd8c\ufe0f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12214"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1009,
       "row": 14,
@@ -1072,10 +1058,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Kitchen Up High",
       "uid": "ZONES:79"
+    },
+    {
+      "source": "TASKS",
+      "id": 12174,
+      "label": "Get Bentley miles for cello",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12174"
     }
   ],
-  "version": 3180,
-  "updated": "2026-10-29T01:10:04.743649+00:00",
+  "version": 3181,
+  "updated": "2026-10-29T01:10:27.228089+00:00",
   "buckets": {
     "SPIN_WHEEL": 89,
     "TASKS": 23,
