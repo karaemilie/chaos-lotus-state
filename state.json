@@ -391,16 +391,6 @@
       "uid": "TASKS:12154"
     },
     {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "row": 79,
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 131,
       "row": 134,
@@ -1073,10 +1063,19 @@
       "sid": 1252,
       "label": "Twin & Queen air mattress",
       "uid": "SPIN_WHEEL:1252"
+    },
+    {
+      "source": "ZONES",
+      "zid": 79,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Kitchen Up High",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Kitchen Up High",
+      "uid": "ZONES:79"
     }
   ],
-  "version": 3179,
-  "updated": "2026-10-29T00:31:30.982745+00:00",
+  "version": 3180,
+  "updated": "2026-10-29T01:10:04.743649+00:00",
   "buckets": {
     "SPIN_WHEEL": 89,
     "TASKS": 23,
