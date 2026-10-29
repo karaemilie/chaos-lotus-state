@@ -2,13 +2,32 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
+      "row": 81,
+      "label": "Rub bronze on door hinges in library",
+      "uid": "SPIN:1233",
+      "_ts": "2026-10-29T08:30:11.653Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 87,
       "label": "Work on my habit tracker app",
       "uid": "SPIN:1240",
       "_ts": "2026-10-29T08:30:41.990Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Promote habit tracker to actual app",
+      "uid": "PLUS_ADD:Promote habit tracker to actual app:2026-10-29T08:30:40.007Z",
+      "_ts": "2026-10-29T08:31:04.102Z"
     }
   ],
   "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Next library door hing",
+      "_addedAt": "2026-10-29T08:30:24.674Z",
+      "_ts": "2026-10-29T08:30:24.833Z"
+    },
     {
       "source": "PLUS_ADD",
       "label": "Promote habit tracker to actual app",
@@ -16,9 +35,9 @@
       "_ts": "2026-10-29T08:30:40.165Z"
     }
   ],
-  "mirroredAt": "2026-10-29T08:30:43.327Z",
+  "mirroredAt": "2026-10-29T08:31:04.350Z",
   "counts": {
-    "completions": 1,
-    "adds": 1
+    "completions": 3,
+    "adds": 2
   }
 }
