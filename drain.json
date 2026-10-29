@@ -8,10 +8,17 @@
       "_ts": "2026-10-29T08:30:11.653Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-10-29T08:30:11.913Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Next library door hing",
+      "_addedAt": "2026-10-29T08:30:24.674Z",
+      "_ts": "2026-10-29T08:30:24.833Z"
+    }
+  ],
+  "mirroredAt": "2026-10-29T08:30:25.080Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
