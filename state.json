@@ -1066,12 +1066,19 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12336"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1252,
+      "sid": 1252,
+      "label": "Twin & Queen air mattress",
+      "uid": "SPIN_WHEEL:1252"
     }
   ],
-  "version": 3178,
-  "updated": "2026-10-29T00:05:07.670848+00:00",
+  "version": 3179,
+  "updated": "2026-10-29T00:31:30.982745+00:00",
   "buckets": {
-    "SPIN_WHEEL": 88,
+    "SPIN_WHEEL": 89,
     "TASKS": 23,
     "MAINTENANCE": 2,
     "ZONES": 8,
