@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 81,
+      "label": "Rub bronze on door hinges in library",
+      "uid": "SPIN:1233",
+      "_ts": "2026-10-29T08:30:11.653Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-29T03:09:15.808Z",
+  "mirroredAt": "2026-10-29T08:30:11.913Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
