@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-29T01:10:31.212Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Sign up for the vocab app",
+      "_addedAt": "2026-10-29T03:09:00.245Z",
+      "_ts": "2026-10-29T03:09:00.495Z"
+    }
+  ],
+  "mirroredAt": "2026-10-29T03:09:00.770Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
