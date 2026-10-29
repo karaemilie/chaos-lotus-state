@@ -1,9 +1,27 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 79,
+      "zid": 77,
+      "floor": "Plant",
+      "label": "🌱 Corner Nook B",
+      "uid": "ZONES:77",
+      "_ts": "2026-10-29T01:09:47.857Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12214,
+      "row": 323,
+      "label": "✨ Clean makeup brushes 🖌️",
+      "uid": "TASKS:12214",
+      "_ts": "2026-10-29T01:10:07.392Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-29T01:10:06.441Z",
+  "mirroredAt": "2026-10-29T01:10:07.656Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
   }
 }
