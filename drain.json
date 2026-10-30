@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-30T10:41:14.066Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Figure out my Alaska surgery center bills",
+      "_addedAt": "2026-10-30T10:41:02.158Z",
+      "_ts": "2026-10-30T10:41:02.363Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Verify my $50 check really deposited to Ally",
+      "_addedAt": "2026-10-30T10:41:30.606Z",
+      "_ts": "2026-10-30T10:41:30.809Z"
+    }
+  ],
+  "mirroredAt": "2026-10-30T10:41:31.159Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
