@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-30T10:41:57.450Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "DEAL WITH INSURANCE",
+      "_addedAt": "2026-10-30T13:18:43.148Z",
+      "_ts": "2026-10-30T13:18:43.408Z"
+    }
+  ],
+  "mirroredAt": "2026-10-30T13:18:43.646Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
