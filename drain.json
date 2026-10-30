@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-30T10:37:44.798Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Figure out my Alaska surgery center bills",
+      "_addedAt": "2026-10-30T10:41:02.158Z",
+      "_ts": "2026-10-30T10:41:02.363Z"
+    }
+  ],
+  "mirroredAt": "2026-10-30T10:41:02.621Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-30T10:37:46.195638+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1235"
-  ]
+    "adds": 1
+  }
 }
