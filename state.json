@@ -458,13 +458,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1235,
-      "row": 83,
-      "label": "Write miriam",
-      "uid": "SPIN:1235"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1205,
       "row": 65,
       "label": "Add tacks to the new curtains!",
@@ -862,32 +855,6 @@
       "uid": "TASKS:12157"
     },
     {
-      "source": "TASKS",
-      "id": 11708,
-      "label": "Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Kids",
-      "critical": false,
-      "uid": "TASKS:11708"
-    },
-    {
-      "source": "TASKS",
-      "id": 11896,
-      "label": "posykin handle \ud83d\udcb8",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11896"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1247,
       "sid": 1247,
@@ -914,19 +881,6 @@
       "sid": 1250,
       "label": "Call Golden Donuts about buckets",
       "uid": "SPIN_WHEEL:1250"
-    },
-    {
-      "source": "TASKS",
-      "id": 10284,
-      "label": "Help Jake set up LinkedIn \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10284"
     },
     {
       "source": "TASKS",
@@ -1104,12 +1058,51 @@
       "sid": 1259,
       "label": "Research DIY sturdy stall bars",
       "uid": "SPIN_WHEEL:1259"
+    },
+    {
+      "source": "TASKS",
+      "id": 10436,
+      "label": "\u2728 Add solo & ensemble to calendar, find group & solo pieces",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10436"
+    },
+    {
+      "source": "TASKS",
+      "id": 12117,
+      "label": "\u2728 Evaluate placing Alaska Club membership on hold \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12117"
+    },
+    {
+      "source": "TASKS",
+      "id": 12303,
+      "label": "\u2728 Put on new tattoo",
+      "aw": 4,
+      "pri": 3,
+      "dur": 10,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12303"
     }
   ],
-  "version": 3193,
-  "updated": "2026-10-30T10:16:33.907699+00:00",
+  "version": 3194,
+  "updated": "2026-10-30T10:37:43.259914+00:00",
   "buckets": {
-    "SPIN_WHEEL": 94,
+    "SPIN_WHEEL": 93,
     "TASKS": 23,
     "MAINTENANCE": 2,
     "ZONES": 8,
