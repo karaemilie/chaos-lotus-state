@@ -1,9 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 40,
+      "zid": 39,
+      "floor": "Main Floor",
+      "label": "🧺 Main Floor Family",
+      "uid": "ZONES:39",
+      "_ts": "2026-10-30T04:59:38.199Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-30T04:04:00.096Z",
+  "mirroredAt": "2026-10-30T04:59:38.433Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
