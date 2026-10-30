@@ -1118,12 +1118,19 @@
       "sid": 1262,
       "label": "DEAL WITH INSURANCE",
       "uid": "SPIN_WHEEL:1262"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1263,
+      "sid": 1263,
+      "label": "Put more cash in my vehicle",
+      "uid": "SPIN_WHEEL:1263"
     }
   ],
-  "version": 3197,
-  "updated": "2026-10-30T13:19:00.242375+00:00",
+  "version": 3198,
+  "updated": "2026-10-30T23:05:25.060867+00:00",
   "buckets": {
-    "SPIN_WHEEL": 96,
+    "SPIN_WHEEL": 97,
     "TASKS": 23,
     "MAINTENANCE": 2,
     "ZONES": 8,
