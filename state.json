@@ -296,16 +296,6 @@
       "uid": "SPIN:1069"
     },
     {
-      "source": "ZONES",
-      "zid": 85,
-      "floor": "Personal",
-      "row": 87,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Mask",
-      "uid": "ZONES:85"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1241,
       "row": 88,
@@ -1091,10 +1081,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Subaru",
       "uid": "ZONES:40"
+    },
+    {
+      "source": "ZONES",
+      "zid": 86,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Epilate Legs",
+      "uid": "ZONES:86"
     }
   ],
-  "version": 3190,
-  "updated": "2026-10-30T04:59:53.869811+00:00",
+  "version": 3191,
+  "updated": "2026-10-30T06:39:03.554064+00:00",
   "buckets": {
     "SPIN_WHEEL": 92,
     "TASKS": 23,
