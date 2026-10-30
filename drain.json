@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-30T13:18:58.543Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Put more cash in my vehicle",
+      "_addedAt": "2026-10-30T23:05:05.993Z",
+      "_ts": "2026-10-30T23:05:07.424Z"
+    }
+  ],
+  "mirroredAt": "2026-10-30T23:05:07.851Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
