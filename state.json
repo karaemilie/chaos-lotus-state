@@ -177,16 +177,6 @@
       "uid": "TASKS:12067"
     },
     {
-      "source": "ZONES",
-      "zid": 39,
-      "floor": "Main Floor",
-      "row": 40,
-      "label": "\ud83e\uddfa Main Floor Family",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Main Floor Family",
-      "uid": "ZONES:39"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1208,
       "row": 68,
@@ -1092,10 +1082,19 @@
       "sid": 1257,
       "label": "Puff bars - cookie and cream",
       "uid": "SPIN_WHEEL:1257"
+    },
+    {
+      "source": "ZONES",
+      "zid": 40,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Subaru",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Subaru",
+      "uid": "ZONES:40"
     }
   ],
-  "version": 3189,
-  "updated": "2026-10-30T04:04:01.768235+00:00",
+  "version": 3190,
+  "updated": "2026-10-30T04:59:53.869811+00:00",
   "buckets": {
     "SPIN_WHEEL": 92,
     "TASKS": 23,
