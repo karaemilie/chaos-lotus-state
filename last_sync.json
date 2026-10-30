@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-10-30T06:39:06.262957+00:00",
-  "lastRunAlaska": "2026-10-29 22:39 AKDT",
+  "lastRun": "2026-10-30T10:37:46.195896+00:00",
+  "lastRunAlaska": "2026-10-30 02:37 AKDT",
   "processedCount": 1,
   "processed": [
     {
-      "uid": "ZONES:85",
-      "result": "\u2705 Personal/Face Mask (row 87) stamped 2026-10-29"
+      "uid": "SPIN:1235",
+      "result": "\u2705 SPIN deleted SID 1235 ('Write miriam')"
     }
   ],
   "remainingForClaude": {
@@ -13,9 +13,17 @@
     "adds": 0
   },
   "daySweep": {
-    "added": [],
-    "bumped": [],
-    "today": "2026-10-29",
+    "added": [
+      "TASKS:10436",
+      "TASKS:12117",
+      "TASKS:12303"
+    ],
+    "bumped": [
+      "TASKS:11708",
+      "TASKS:11896",
+      "TASKS:10284"
+    ],
+    "today": "2026-10-30",
     "stampToday": "2026-10-29",
     "ran": true
   }
