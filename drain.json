@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 83,
+      "label": "Write miriam",
+      "uid": "SPIN:1235",
+      "_ts": "2026-10-30T10:37:29.326Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-10-30T10:16:32.376Z",
+  "mirroredAt": "2026-10-30T10:37:29.565Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
