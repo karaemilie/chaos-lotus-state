@@ -153,16 +153,6 @@
       "uid": "TASKS:11216"
     },
     {
-      "source": "ZONES",
-      "zid": 53,
-      "floor": "Basement",
-      "row": 54,
-      "label": "\ud83e\uddfa Basement Foyer",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Foyer",
-      "uid": "ZONES:53"
-    },
-    {
       "source": "TASKS",
       "id": 12067,
       "row": 265,
@@ -883,32 +873,6 @@
       "uid": "SPIN_WHEEL:1250"
     },
     {
-      "source": "TASKS",
-      "id": 11941,
-      "label": "Test prep plan for Lincoln \ud83d\udcda",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:11941"
-    },
-    {
-      "source": "TASKS",
-      "id": 10464,
-      "label": "Help Jake write private lesson email \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10464"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1251,
       "sid": 1251,
@@ -952,19 +916,6 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Kitchen Up High",
       "uid": "ZONES:79"
-    },
-    {
-      "source": "TASKS",
-      "id": 12174,
-      "label": "Get Bentley miles for cello",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12174"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1125,15 +1076,76 @@
       "sid": 1263,
       "label": "Put more cash in my vehicle",
       "uid": "SPIN_WHEEL:1263"
+    },
+    {
+      "source": "ZONES",
+      "zid": 54,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Crawlspace",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Crawlspace",
+      "uid": "ZONES:54"
+    },
+    {
+      "source": "TASKS",
+      "id": 12275,
+      "label": "\u2728 Spend time on flower bouquet coding project",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": "Bouquet Tracker",
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12275"
+    },
+    {
+      "source": "TASKS",
+      "id": 12313,
+      "label": "\u2728 Recharge my twinkle stars \u2728\ud83d\udd0b",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12313"
+    },
+    {
+      "source": "TASKS",
+      "id": 12323,
+      "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12323"
+    },
+    {
+      "source": "TASKS",
+      "id": 12334,
+      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12334"
     }
   ],
-  "version": 3198,
-  "updated": "2026-10-30T23:05:25.060867+00:00",
+  "version": 3199,
+  "updated": "2026-10-31T08:45:13.858355+00:00",
   "buckets": {
     "SPIN_WHEEL": 97,
-    "TASKS": 23,
+    "TASKS": 24,
     "MAINTENANCE": 2,
-    "ZONES": 8,
-    "COURAGE": 4
+    "COURAGE": 4,
+    "ZONES": 8
   }
 }
