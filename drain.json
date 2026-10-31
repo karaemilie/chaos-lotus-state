@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-10-31T08:45:15.612Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pepper spray for Genevieve",
+      "_addedAt": "2026-10-31T08:59:10.541Z",
+      "_ts": "2026-10-31T08:59:10.772Z"
+    }
+  ],
+  "mirroredAt": "2026-10-31T08:59:11.015Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-10-31T08:45:17.105621+00:00",
-  "lastAutoProcessed": [
-    "ZONES:53"
-  ]
+    "adds": 1
+  }
 }
