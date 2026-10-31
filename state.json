@@ -1137,12 +1137,19 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:12334"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1264,
+      "sid": 1264,
+      "label": "Pepper spray for Genevieve",
+      "uid": "SPIN_WHEEL:1264"
     }
   ],
-  "version": 3199,
-  "updated": "2026-10-31T08:45:13.858355+00:00",
+  "version": 3200,
+  "updated": "2026-10-31T08:59:24.373447+00:00",
   "buckets": {
-    "SPIN_WHEEL": 97,
+    "SPIN_WHEEL": 98,
     "TASKS": 24,
     "MAINTENANCE": 2,
     "COURAGE": 4,
