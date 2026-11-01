@@ -1,9 +1,25 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-01T09:40:32.599Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Promote habit tracker to actual app",
+      "_addedAt": "2026-11-01T09:41:10.876Z",
+      "promote": {
+        "fromUid": "SPIN:1255",
+        "sid": 1255,
+        "label": "Promote habit tracker to actual app",
+        "origLabel": "Promote habit tracker to actual app",
+        "start": "2026-11-13",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-11-01T09:41:10.993Z"
+    }
+  ],
+  "mirroredAt": "2026-11-01T09:41:11.278Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
