@@ -1,25 +1,17 @@
 {
-  "completions": [],
-  "adds": [
+  "completions": [
     {
-      "source": "PLUS_ADD",
-      "label": "Promote habit tracker to actual app",
-      "_addedAt": "2026-11-01T09:41:10.876Z",
-      "promote": {
-        "fromUid": "SPIN:1255",
-        "sid": 1255,
-        "label": "Promote habit tracker to actual app",
-        "origLabel": "Promote habit tracker to actual app",
-        "start": "2026-11-13",
-        "category": "Home",
-        "aw": 4
-      },
-      "_ts": "2026-11-01T09:41:10.993Z"
+      "source": "SPIN_WHEEL",
+      "row": 78,
+      "label": "Input scents to my Pura tracker!",
+      "uid": "SPIN:1245",
+      "_ts": "2026-11-01T09:41:21.744Z"
     }
   ],
-  "mirroredAt": "2026-11-01T09:41:11.278Z",
+  "adds": [],
+  "mirroredAt": "2026-11-01T09:41:23.289Z",
   "counts": {
-    "completions": 0,
-    "adds": 1
+    "completions": 1,
+    "adds": 0
   }
 }
