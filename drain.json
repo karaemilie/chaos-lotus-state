@@ -13,12 +13,19 @@
       "label": "Buy chili sauce",
       "uid": "SPIN:1231",
       "_ts": "2026-11-01T09:38:03.800Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 50,
+      "label": "Shaving cream",
+      "uid": "SPIN:1183",
+      "_ts": "2026-11-01T09:38:21.978Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-01T09:38:04.028Z",
+  "mirroredAt": "2026-11-01T09:38:22.224Z",
   "counts": {
-    "completions": 2,
+    "completions": 3,
     "adds": 0
   }
 }
