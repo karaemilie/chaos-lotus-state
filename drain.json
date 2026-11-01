@@ -1,61 +1,6 @@
 {
-  "completions": [
-    {
-      "source": "ZONES",
-      "row": 89,
-      "zid": 87,
-      "floor": "Personal",
-      "label": "👱‍♀️ Eyebrows",
-      "uid": "ZONES:87",
-      "_ts": "2026-11-01T09:42:41.002Z"
-    }
-  ],
+  "completions": [],
   "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Promote habit tracker to actual app",
-      "_addedAt": "2026-11-01T09:41:10.876Z",
-      "promote": {
-        "fromUid": "SPIN:1255",
-        "sid": 1255,
-        "label": "Promote habit tracker to actual app",
-        "origLabel": "Promote habit tracker to actual app",
-        "start": "2026-11-13",
-        "category": "Home",
-        "aw": 4
-      },
-      "_ts": "2026-11-01T09:41:10.993Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Promote habit app so I can integrate nfc tags!",
-      "_addedAt": "2026-11-01T09:41:34.604Z",
-      "promote": {
-        "fromUid": "SPIN:1241",
-        "sid": 1241,
-        "label": "Promote habit app so I can integrate nfc tags!",
-        "origLabel": "Promote habit app so I can integrate nfc tags!",
-        "start": "2026-11-14",
-        "category": "Home",
-        "aw": 4
-      },
-      "_ts": "2026-11-01T09:41:34.832Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Fill up atomizer with vinegar",
-      "_addedAt": "2026-11-01T09:42:19.498Z",
-      "promote": {
-        "fromUid": "SPIN:1086",
-        "sid": 1086,
-        "label": "Fill up atomizer with vinegar",
-        "origLabel": "Fill up atomizer with vinegar",
-        "start": "2026-11-09",
-        "category": "Home",
-        "aw": 4
-      },
-      "_ts": "2026-11-01T09:42:19.658Z"
-    },
     {
       "source": "PLUS_ADD",
       "label": "Set up my new motion sensors",
@@ -72,9 +17,9 @@
       "_ts": "2026-11-01T09:42:53.524Z"
     }
   ],
-  "mirroredAt": "2026-11-01T09:42:53.751Z",
+  "mirroredAt": "2026-11-01T09:43:03.452Z",
   "counts": {
-    "completions": 1,
-    "adds": 4
+    "completions": 0,
+    "adds": 1
   }
 }
