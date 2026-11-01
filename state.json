@@ -89,13 +89,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1097,
-      "row": 32,
-      "label": "Reimburse $1604 Oct rent B 529",
-      "uid": "SPIN:1097"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 954,
       "row": 11,
       "label": "Boys Paint Project!!",
@@ -1147,10 +1140,10 @@
       "uid": "COURAGE:12265:0"
     }
   ],
-  "version": 3218,
-  "updated": "2026-11-01T09:36:15.597678+00:00",
+  "version": 3219,
+  "updated": "2026-11-01T09:36:46.076893+00:00",
   "buckets": {
-    "SPIN_WHEEL": 100,
+    "SPIN_WHEEL": 99,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
