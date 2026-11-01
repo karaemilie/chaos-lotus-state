@@ -614,6 +614,107 @@ def process_spin_wheel_completions(wb, comps, stamp=None):
     return processed, msgs
 
 
+def _next_task_id(wb):
+    """Next free TASKS ID = max over TASKS ∪ COMPLETED + 1 — the same rule the
+    canonical process_completions engine uses. (Max over TASKS alone can hand
+    out an ID a completed task already owns once the newest IDs are done.)"""
+    ids = []
+    for sheet in ("TASKS", "COMPLETED"):
+        if sheet not in wb.sheetnames:
+            continue
+        ws = wb[sheet]
+        H = {c.value: i + 1 for i, c in enumerate(ws[1])}
+        col = H.get("ID", 1)
+        for r in range(2, ws.max_row + 1):
+            v = ws.cell(r, col).value
+            if isinstance(v, (int, float)):
+                ids.append(int(v))
+    return (max(ids) + 1) if ids else 10001
+
+
+RECUR_TYPES = {"none": "None", "interval from completion": "Interval from completion",
+               "weekly": "Weekly", "monthly": "Monthly", "yearly": "Yearly",
+               "interval+weekday": "Interval+Weekday"}
+
+
+def process_newtask(wb, add):
+    """➕ NEW TASK (Box v35): a brand-new real task filed from the Box's long-
+    press ＋ sheet — no Claude thread needed.
+
+    Payload rides /add with a `newtask` block:
+      {"label", "start": "YYYY-MM-DD", "category", "aw",
+       "recType": one of RECUR_TYPES (or None), "recValue": e.g. "2 weeks"}
+    Appends a TASKS row (ID = next free over TASKS ∪ COMPLETED, Task, AW,
+    Category, Start Date, Recurring Type/Value, Notes breadcrumb). Idempotent:
+    a label already on TASKS is not duplicated.
+
+    Returns (ok, wheel_item_or_None, msgs). If the start date is today or
+    earlier AND it's a Daily-Ten weight (AW 3-7), a TASKS wheel item is
+    returned so it shows on the wheel right away; otherwise the normal
+    refill / day-anchored sweep picks it up on its Start Date.
+    """
+    nt = add.get("newtask") or {}
+    label = (nt.get("label") or add.get("label") or "").strip()
+    if not label:
+        return True, None, ["  ⏭️  newtask with empty label — clearing"]
+    if "TASKS" not in wb.sheetnames:
+        return False, None, ["  ❌ TASKS sheet not found — cannot add task"]
+    ws = wb["TASKS"]
+    H = {c.value: i + 1 for i, c in enumerate(ws[1])}
+    need = ["ID", "Task", "Anchor Weight", "Category", "Start Date"]
+    if any(k not in H for k in need):
+        return False, None, [f"  ❌ TASKS missing one of {need} — cannot add task"]
+    msgs = []
+    today = alaska_stamp_date()
+    try:
+        y, m, d = [int(x) for x in str(nt.get("start", "")).split("-")]
+        start_dt = datetime(y, m, d)
+    except Exception:
+        start_dt = today
+        msgs.append(f"  ⚠️  newtask '{label}': bad start {nt.get('start')!r} → today")
+    try:
+        aw = int(nt.get("aw"))
+        if not 1 <= aw <= 8:
+            raise ValueError
+    except Exception:
+        aw = 4
+        msgs.append(f"  ⚠️  newtask '{label}': bad AW {nt.get('aw')!r} → 4")
+    category = (nt.get("category") or "").strip() or "Personal"
+    rtype = RECUR_TYPES.get(str(nt.get("recType") or "none").strip().lower(), "None")
+    rval = (str(nt.get("recValue") or "").strip() or None) if rtype != "None" else None
+    if rtype != "None" and not rval:
+        msgs.append(f"  ⚠️  newtask '{label}': {rtype} with no value → filed as non-recurring")
+        rtype = "None"
+
+    existing = {str(ws.cell(r, H["Task"]).value).strip().lower()
+                for r in range(2, ws.max_row + 1) if ws.cell(r, H["Task"]).value}
+    if label.lower() in existing:
+        return True, None, msgs + [f"  ⏭️  newtask '{label}': already on TASKS — not duplicating"]
+
+    new_id = _next_task_id(wb)
+    r = ws.max_row + 1
+    ws.cell(r, H["ID"]).value = new_id
+    ws.cell(r, H["Task"]).value = label
+    ws.cell(r, H["Anchor Weight"]).value = aw
+    ws.cell(r, H["Category"]).value = category
+    ws.cell(r, H["Start Date"]).value = start_dt
+    if "Recurring Type" in H:
+        ws.cell(r, H["Recurring Type"]).value = rtype
+    if "Recurring Value" in H and rval:
+        ws.cell(r, H["Recurring Value"]).value = rval
+    if "Notes" in H:
+        ws.cell(r, H["Notes"]).value = f"➕ Added from the Box {today.date().isoformat()}"
+    rec_txt = f" · repeats {rtype}: {rval}" if rtype != "None" else ""
+    msgs.append(f"  ✅ NEW TASK ID {new_id} '{label}' · AW{aw} · {category} · starts {start_dt.date().isoformat()}{rec_txt}")
+
+    item = None
+    if start_dt.date() <= today.date() and 3 <= aw <= 7:
+        shown = f"✨ {label}" if rtype != "None" and not label.startswith("✨") else label
+        item = {"source": "TASKS", "id": new_id, "label": shown, "aw": aw,
+                "cat": category, "uid": f"TASKS:{new_id}"}
+    return True, item, msgs
+
+
 def _promote_key(add):
     """Drain identity key — same shape as a plain add so the drain rewrite
     (which keys on PLUS_ADD:{label}:{_addedAt}) drops it once handled."""
@@ -678,9 +779,7 @@ def process_promote(wb, add):
     if label.lower() in existing:
         msgs.append(f"  ⏭️  promote '{label}': already on TASKS — not duplicating")
     else:
-        ids = [ws.cell(r, H["ID"]).value for r in range(2, ws.max_row + 1)]
-        ids = [int(v) for v in ids if isinstance(v, (int, float))]
-        new_id = (max(ids) + 1) if ids else 10001
+        new_id = _next_task_id(wb)   # TASKS ∪ COMPLETED, like the engine
         r = ws.max_row + 1
         ws.cell(r, H["ID"]).value = new_id
         ws.cell(r, H["Task"]).value = label
@@ -851,6 +950,15 @@ def process_adds(wb, adds):
                 processed_keys.append(key)
                 if synth:
                     promoted.append(synth)
+            continue
+        # ➕ NEW TASK from the Box sheet — straight onto TASKS (not a spin add)
+        if isinstance(add.get("newtask"), dict):
+            ok, item, nmsgs = process_newtask(wb, add)
+            msgs.extend(nmsgs)
+            if ok:
+                processed_keys.append(key)
+                if item:
+                    new_items.append(item)
             continue
         # 📅 RESCHEDULE: real task, new Start Date — same rail, same guard order
         if isinstance(add.get("reschedule"), dict):
