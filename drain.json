@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-01T03:29:11.834Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Genevieve package (send smoothie mix)",
+      "_addedAt": "2026-11-01T04:09:32.186Z",
+      "_ts": "2026-11-01T04:09:32.388Z"
+    }
+  ],
+  "mirroredAt": "2026-11-01T04:09:32.646Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
