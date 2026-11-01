@@ -421,13 +421,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1183,
-      "row": 50,
-      "label": "Shaving cream",
-      "uid": "SPIN:1183"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 484,
       "row": 3,
       "label": "Setup email forward.net **",
@@ -491,13 +484,6 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10464"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1263,
-      "row": 95,
-      "label": "Put more cash in my vehicle",
-      "uid": "SPIN:1263"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1119,10 +1105,10 @@
       "uid": "COURAGE:12265:0"
     }
   ],
-  "version": 3221,
-  "updated": "2026-11-01T09:38:26.729265+00:00",
+  "version": 3222,
+  "updated": "2026-11-01T09:39:07.973676+00:00",
   "buckets": {
-    "SPIN_WHEEL": 96,
+    "SPIN_WHEEL": 94,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
