@@ -825,13 +825,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 923,
-      "row": 9,
-      "label": "Try mineral spirits on grey table",
-      "uid": "SPIN:923"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1255,
       "row": 87,
       "label": "Promote habit tracker to actual app",
@@ -1084,10 +1077,10 @@
       "uid": "COURAGE:12265:0"
     }
   ],
-  "version": 3223,
-  "updated": "2026-11-01T09:39:51.010859+00:00",
+  "version": 3224,
+  "updated": "2026-11-01T09:40:31.302100+00:00",
   "buckets": {
-    "SPIN_WHEEL": 91,
+    "SPIN_WHEEL": 90,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
