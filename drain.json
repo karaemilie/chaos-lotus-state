@@ -1,25 +1,9 @@
 {
   "completions": [],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Set up my new motion sensors",
-      "_addedAt": "2026-11-01T09:42:53.395Z",
-      "promote": {
-        "fromUid": "SPIN:1267",
-        "sid": 1267,
-        "label": "Set up my new motion sensors",
-        "origLabel": "Set up my new motion sensors",
-        "start": "2026-11-13",
-        "category": "Home",
-        "aw": 4
-      },
-      "_ts": "2026-11-01T09:42:53.524Z"
-    }
-  ],
-  "mirroredAt": "2026-11-01T09:43:03.452Z",
+  "adds": [],
+  "mirroredAt": "2026-11-01T09:43:47.426Z",
   "counts": {
     "completions": 0,
-    "adds": 1
+    "adds": 0
   }
 }
