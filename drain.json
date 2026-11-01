@@ -8,10 +8,41 @@
       "_ts": "2026-11-01T09:41:21.744Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-11-01T09:41:23.289Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Promote habit tracker to actual app",
+      "_addedAt": "2026-11-01T09:41:10.876Z",
+      "promote": {
+        "fromUid": "SPIN:1255",
+        "sid": 1255,
+        "label": "Promote habit tracker to actual app",
+        "origLabel": "Promote habit tracker to actual app",
+        "start": "2026-11-13",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-11-01T09:41:10.993Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Promote habit app so I can integrate nfc tags!",
+      "_addedAt": "2026-11-01T09:41:34.604Z",
+      "promote": {
+        "fromUid": "SPIN:1241",
+        "sid": 1241,
+        "label": "Promote habit app so I can integrate nfc tags!",
+        "origLabel": "Promote habit app so I can integrate nfc tags!",
+        "start": "2026-11-14",
+        "category": "Home",
+        "aw": 4
+      },
+      "_ts": "2026-11-01T09:41:34.832Z"
+    }
+  ],
+  "mirroredAt": "2026-11-01T09:41:35.056Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 2
   }
 }
