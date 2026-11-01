@@ -497,13 +497,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1132,
-      "row": 40,
-      "label": "Get $ from Linc for pants",
-      "uid": "SPIN:1132"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1245,
       "row": 91,
       "label": "Input scents to my Pura tracker!",
@@ -1173,10 +1166,10 @@
       "uid": "SPIN_WHEEL:1269"
     }
   ],
-  "version": 3208,
-  "updated": "2026-11-01T04:10:29.163963+00:00",
+  "version": 3209,
+  "updated": "2026-11-01T04:14:59.505488+00:00",
   "buckets": {
-    "SPIN_WHEEL": 102,
+    "SPIN_WHEEL": 101,
     "TASKS": 24,
     "MAINTENANCE": 2,
     "COURAGE": 4,
