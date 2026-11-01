@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 40,
+      "label": "Get $ from Linc for pants",
+      "uid": "SPIN:1132",
+      "_ts": "2026-11-01T04:14:38.086Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-01T04:10:30.595Z",
+  "mirroredAt": "2026-11-01T04:14:38.446Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-01T04:10:31.739127+00:00",
-  "lastAutoProcessed": [
-    "SPIN:988"
-  ]
+  }
 }
