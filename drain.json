@@ -1,24 +1,9 @@
 {
   "completions": [],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Test task",
-      "_addedAt": "2026-11-01T05:42:44.327Z",
-      "newtask": {
-        "label": "Test task",
-        "start": "2026-11-03",
-        "category": "Home",
-        "aw": 4,
-        "recType": "Interval from completion",
-        "recValue": "2 weeks"
-      },
-      "_ts": "2026-11-01T05:42:44.607Z"
-    }
-  ],
-  "mirroredAt": "2026-11-01T05:42:44.963Z",
+  "adds": [],
+  "mirroredAt": "2026-11-01T05:42:58.642Z",
   "counts": {
     "completions": 0,
-    "adds": 1
+    "adds": 0
   }
 }
