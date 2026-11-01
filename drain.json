@@ -1,11 +1,13 @@
 {
   "completions": [
     {
-      "source": "SPIN_WHEEL",
-      "row": 78,
-      "label": "Input scents to my Pura tracker!",
-      "uid": "SPIN:1245",
-      "_ts": "2026-11-01T09:41:21.744Z"
+      "source": "ZONES",
+      "row": 89,
+      "zid": 87,
+      "floor": "Personal",
+      "label": "👱‍♀️ Eyebrows",
+      "uid": "ZONES:87",
+      "_ts": "2026-11-01T09:42:41.002Z"
     }
   ],
   "adds": [
@@ -55,7 +57,7 @@
       "_ts": "2026-11-01T09:42:19.658Z"
     }
   ],
-  "mirroredAt": "2026-11-01T09:42:19.882Z",
+  "mirroredAt": "2026-11-01T09:42:41.243Z",
   "counts": {
     "completions": 1,
     "adds": 3
