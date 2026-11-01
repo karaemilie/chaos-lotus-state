@@ -427,16 +427,6 @@
       "uid": "SPIN:484"
     },
     {
-      "source": "ZONES",
-      "zid": 87,
-      "floor": "Personal",
-      "row": 89,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Eyebrows",
-      "uid": "ZONES:87"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1094,
       "row": 31,
@@ -600,13 +590,6 @@
       "row": 27,
       "label": "Monarch work",
       "uid": "SPIN:1087"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1086,
-      "row": 26,
-      "label": "Fill up atomizer with vinegar",
-      "uid": "SPIN:1086"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1054,12 +1037,21 @@
       "label": "\ud83d\udd25 Adjust Jake & Linai Christmas tickets back \u2708\ufe0f\ud83c\udf84",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:12265:0"
+    },
+    {
+      "source": "ZONES",
+      "zid": 88,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Teeth Whitening",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Teeth Whitening",
+      "uid": "ZONES:88"
     }
   ],
-  "version": 3226,
-  "updated": "2026-11-01T09:42:12.191943+00:00",
+  "version": 3227,
+  "updated": "2026-11-01T09:43:02.109230+00:00",
   "buckets": {
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 86,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
