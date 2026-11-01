@@ -1164,12 +1164,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Hallway",
       "uid": "ZONES:80"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1268,
+      "sid": 1268,
+      "label": "Move the garden stuff",
+      "uid": "SPIN_WHEEL:1268"
     }
   ],
-  "version": 3205,
-  "updated": "2026-11-01T03:21:34.006070+00:00",
+  "version": 3206,
+  "updated": "2026-11-01T03:29:13.510199+00:00",
   "buckets": {
-    "SPIN_WHEEL": 101,
+    "SPIN_WHEEL": 102,
     "TASKS": 24,
     "MAINTENANCE": 2,
     "COURAGE": 4,
