@@ -340,13 +340,6 @@
       "uid": "SPIN:1034"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1267,
-      "row": 99,
-      "label": "Set up my new motion sensors",
-      "uid": "SPIN:1267"
-    },
-    {
       "source": "ZONES",
       "zid": 40,
       "floor": "Main Floor",
@@ -1048,10 +1041,10 @@
       "uid": "ZONES:88"
     }
   ],
-  "version": 3227,
-  "updated": "2026-11-01T09:43:02.109230+00:00",
+  "version": 3228,
+  "updated": "2026-11-01T09:43:45.966931+00:00",
   "buckets": {
-    "SPIN_WHEEL": 86,
+    "SPIN_WHEEL": 85,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
