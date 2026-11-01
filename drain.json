@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-01T05:42:58.642Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "See if our home ins covers Ting Fire devices",
+      "_addedAt": "2026-11-01T08:14:46.095Z",
+      "_ts": "2026-11-01T08:14:46.356Z"
+    }
+  ],
+  "mirroredAt": "2026-11-01T08:14:46.718Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
