@@ -1,48 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 72,
-      "label": "Find out Linc All State ranking",
-      "uid": "SPIN:1234",
-      "_ts": "2026-11-01T09:37:16.514Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Reimburse $1604 Oct rent B 529",
-      "_addedAt": "2026-11-01T09:36:24.556Z",
-      "promote": {
-        "fromUid": "SPIN:1097",
-        "sid": 1097,
-        "label": "Reimburse $1604 Oct rent B 529",
-        "origLabel": "Reimburse $1604 Oct rent B 529",
-        "start": "2026-11-06",
-        "category": "Home",
-        "aw": 4
-      },
-      "_ts": "2026-11-01T09:36:24.699Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Call Golden Donuts about buckets",
-      "_addedAt": "2026-11-01T09:36:54.944Z",
-      "promote": {
-        "fromUid": "SPIN:1250",
-        "sid": 1250,
-        "label": "Call Golden Donuts about buckets",
-        "origLabel": "Call Golden Donuts about buckets",
-        "start": "2026-11-04",
-        "category": "Home",
-        "aw": 4
-      },
-      "_ts": "2026-11-01T09:36:55.099Z"
-    }
-  ],
-  "mirroredAt": "2026-11-01T09:37:16.733Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-11-01T09:37:32.036Z",
   "counts": {
-    "completions": 1,
-    "adds": 2
+    "completions": 0,
+    "adds": 0
   }
 }
