@@ -211,13 +211,6 @@
       "uid": "ZONES:7"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1250,
-      "row": 83,
-      "label": "Call Golden Donuts about buckets",
-      "uid": "SPIN:1250"
-    },
-    {
       "source": "TASKS",
       "id": 12295,
       "row": 352,
@@ -237,13 +230,6 @@
       "row": 69,
       "label": "Plug in iPhone to Xcode for Pansy! **",
       "uid": "SPIN:1230"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1234,
-      "row": 72,
-      "label": "Find out Linc All State ranking",
-      "uid": "SPIN:1234"
     },
     {
       "source": "TASKS",
@@ -1140,10 +1126,10 @@
       "uid": "COURAGE:12265:0"
     }
   ],
-  "version": 3219,
-  "updated": "2026-11-01T09:36:46.076893+00:00",
+  "version": 3220,
+  "updated": "2026-11-01T09:37:30.320966+00:00",
   "buckets": {
-    "SPIN_WHEEL": 99,
+    "SPIN_WHEEL": 97,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
