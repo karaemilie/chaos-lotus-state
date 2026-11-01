@@ -15,20 +15,6 @@
       "uid": "SPIN:1264"
     },
     {
-      "source": "TASKS",
-      "id": 11903,
-      "row": 222,
-      "label": "\u2b50 Look at Pet insta idea \ud83d\udc3e\ud83d\udcf1",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11903"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1183,
       "row": 50,
@@ -89,20 +75,6 @@
       "row": 36,
       "label": "BENTLEY OTHER PFD FORM",
       "uid": "SPIN:1123"
-    },
-    {
-      "source": "TASKS",
-      "id": 10199,
-      "row": 47,
-      "label": "\u2b50 Order print from kids family Christmas photo (2 years ago)",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10199"
     },
     {
       "source": "SPIN_WHEEL",
@@ -205,20 +177,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10874,
-      "row": 113,
-      "label": "\u2b50 Ponder stepping up Evan's nutrition plan (sleep routine first, then food) \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10874"
-    },
-    {
-      "source": "TASKS",
       "id": 12334,
       "row": 398,
       "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
@@ -237,20 +195,6 @@
       "row": 24,
       "label": "Look at parents budget :/",
       "uid": "SPIN:1074"
-    },
-    {
-      "source": "TASKS",
-      "id": 11962,
-      "row": 238,
-      "label": "\u2b50 Pair phone to test app \ud83d\udcf1",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11962"
     },
     {
       "source": "SPIN_WHEEL",
@@ -279,20 +223,6 @@
       "row": 81,
       "label": "Check Kindle for Red Rising",
       "uid": "SPIN:1248"
-    },
-    {
-      "source": "TASKS",
-      "id": 10071,
-      "row": 12,
-      "label": "\u2b50 Remind Jake to pick up pianist \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": "Jake - Trumpet Competition",
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10071"
     },
     {
       "source": "SPIN_WHEEL",
@@ -545,39 +475,11 @@
       "uid": "SPIN:555"
     },
     {
-      "source": "TASKS",
-      "id": 10023,
-      "row": 6,
-      "label": "\u2b50 Measure width for cabinet shelves",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": "Bathroom Built-ins",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10023"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1234,
       "row": 72,
       "label": "Find out Linc All State ranking",
       "uid": "SPIN:1234"
-    },
-    {
-      "source": "TASKS",
-      "id": 12286,
-      "row": 354,
-      "label": "\u2b50 Find Red Rising for Lincoln!!",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12286"
     },
     {
       "source": "SPIN_WHEEL",
@@ -592,34 +494,6 @@
       "row": 20,
       "label": "Next step ASU research with Muse!",
       "uid": "SPIN:1062"
-    },
-    {
-      "source": "TASKS",
-      "id": 10113,
-      "row": 19,
-      "label": "\u2b50 Price out benefit of switching to Premera with dual oral surgery benefits \ud83d\udcdd",
-      "aw": 3,
-      "pri": "ASAP",
-      "dur": 45,
-      "ml": "Hard",
-      "proj": "Insurance Admin",
-      "cat": "Finance",
-      "critical": true,
-      "uid": "TASKS:10113"
-    },
-    {
-      "source": "TASKS",
-      "id": 10417,
-      "row": 81,
-      "label": "\u2b50 Plan to implement new bedtime!",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10417"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1148,26 +1022,136 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1251,
-      "row": 84,
-      "label": "Cqnc l",
-      "uid": "SPIN:1251"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1270,
       "sid": 1270,
       "label": "See if our home ins covers Ting Fire devices",
       "uid": "SPIN_WHEEL:1270"
+    },
+    {
+      "source": "TASKS",
+      "id": 11581,
+      "label": "\u2728 Discuss habits & triggers with kids \ud83e\udde0\ud83c\udf31",
+      "aw": 5,
+      "pri": "Medium",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11581"
+    },
+    {
+      "source": "TASKS",
+      "id": 11734,
+      "label": "\u2728 Cancel Musiah if we're not still using \ud83c\udfb9\u274c",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:11734"
+    },
+    {
+      "source": "TASKS",
+      "id": 11748,
+      "label": "\u2728 Review Apple subscriptions",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:11748"
+    },
+    {
+      "source": "TASKS",
+      "id": 11971,
+      "label": "\u2728 Plan for Tim's Delta companion ticket \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:11971"
+    },
+    {
+      "source": "TASKS",
+      "id": 12006,
+      "label": "\u2728 Audit tasks with no start date + orphaned recurring tasks \ud83d\udccb\u2696\ufe0f",
+      "aw": 4,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12006"
+    },
+    {
+      "source": "TASKS",
+      "id": 12183,
+      "label": "\u2728 Pay rents (Matt, Bentley & Genevieve) \ud83c\udfe0\ud83d\udcb8 *use Genevieve's Venmo for hers*",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12183"
+    },
+    {
+      "source": "TASKS",
+      "id": 12327,
+      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12327"
+    },
+    {
+      "source": "TASKS",
+      "id": 12329,
+      "label": "\u2728 Weekly meal planning",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12329"
+    },
+    {
+      "source": "TASKS",
+      "id": 12330,
+      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12330"
     }
   ],
-  "version": 3213,
-  "updated": "2026-11-01T08:14:59.727248+00:00",
+  "version": 3214,
+  "updated": "2026-11-01T08:41:51.477205+00:00",
   "buckets": {
-    "SPIN_WHEEL": 102,
-    "TASKS": 22,
+    "SPIN_WHEEL": 101,
     "ZONES": 8,
     "MAINTENANCE": 2,
+    "TASKS": 22,
     "COURAGE": 4
   }
 }
