@@ -277,13 +277,6 @@
       "uid": "SPIN:1161"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1231,
-      "row": 70,
-      "label": "Buy chili sauce",
-      "uid": "SPIN:1231"
-    },
-    {
       "source": "TASKS",
       "id": 12270,
       "row": 335,
@@ -1126,10 +1119,10 @@
       "uid": "COURAGE:12265:0"
     }
   ],
-  "version": 3220,
-  "updated": "2026-11-01T09:37:30.320966+00:00",
+  "version": 3221,
+  "updated": "2026-11-01T09:38:26.729265+00:00",
   "buckets": {
-    "SPIN_WHEEL": 97,
+    "SPIN_WHEEL": 96,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
