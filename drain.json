@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-01T03:21:35.357Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Move the garden stuff",
+      "_addedAt": "2026-11-01T03:29:00.730Z",
+      "_ts": "2026-11-01T03:29:00.986Z"
+    }
+  ],
+  "mirroredAt": "2026-11-01T03:29:01.220Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-01T03:21:36.610565+00:00",
-  "lastAutoProcessed": [
-    "ZONES:74"
-  ]
+    "adds": 1
+  }
 }
