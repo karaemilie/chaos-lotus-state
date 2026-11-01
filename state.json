@@ -988,15 +988,6 @@
       "uid": "ZONES:40"
     },
     {
-      "source": "ZONES",
-      "zid": 86,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Epilate Legs",
-      "uid": "ZONES:86"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1258,
       "sid": 1258,
@@ -1165,10 +1156,19 @@
       "sid": 1267,
       "label": "Set up my new motion sensors",
       "uid": "SPIN_WHEEL:1267"
+    },
+    {
+      "source": "ZONES",
+      "zid": 87,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Eyebrows",
+      "uid": "ZONES:87"
     }
   ],
-  "version": 3203,
-  "updated": "2026-11-01T02:38:51.587335+00:00",
+  "version": 3204,
+  "updated": "2026-11-01T02:48:30.116844+00:00",
   "buckets": {
     "SPIN_WHEEL": 101,
     "TASKS": 24,
