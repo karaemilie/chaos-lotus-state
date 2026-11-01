@@ -27,12 +27,19 @@
       "label": "Put more cash in my vehicle",
       "uid": "SPIN:1263",
       "_ts": "2026-11-01T09:38:42.992Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 80,
+      "label": "New Bentley sueded shirt",
+      "uid": "SPIN:1247",
+      "_ts": "2026-11-01T09:39:02.848Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-01T09:38:43.243Z",
+  "mirroredAt": "2026-11-01T09:39:03.093Z",
   "counts": {
-    "completions": 4,
+    "completions": 5,
     "adds": 0
   }
 }
