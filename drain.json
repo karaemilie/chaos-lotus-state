@@ -2,16 +2,37 @@
   "completions": [
     {
       "source": "SPIN_WHEEL",
+      "row": 72,
+      "label": "Find out Linc All State ranking",
+      "uid": "SPIN:1234",
+      "_ts": "2026-11-01T09:37:16.514Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 70,
+      "label": "Buy chili sauce",
+      "uid": "SPIN:1231",
+      "_ts": "2026-11-01T09:38:03.800Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 50,
       "label": "Shaving cream",
       "uid": "SPIN:1183",
       "_ts": "2026-11-01T09:38:21.978Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 95,
+      "label": "Put more cash in my vehicle",
+      "uid": "SPIN:1263",
+      "_ts": "2026-11-01T09:38:42.992Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-01T09:38:28.039Z",
+  "mirroredAt": "2026-11-01T09:38:43.243Z",
   "counts": {
-    "completions": 1,
+    "completions": 4,
     "adds": 0
   }
 }
