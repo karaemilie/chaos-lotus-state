@@ -267,13 +267,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1261,
-      "row": 76,
-      "label": "Verify my $50 check really deposited to Ally",
-      "uid": "SPIN:1261"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1271,
       "row": 83,
       "label": "Write Miriam",
@@ -1027,10 +1020,10 @@
       "uid": "TASKS:12098"
     }
   ],
-  "version": 3236,
-  "updated": "2026-11-02T23:05:27.854956+00:00",
+  "version": 3237,
+  "updated": "2026-11-02T23:06:32.475856+00:00",
   "buckets": {
-    "SPIN_WHEEL": 83,
+    "SPIN_WHEEL": 82,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2,
