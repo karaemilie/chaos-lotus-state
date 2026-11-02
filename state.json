@@ -1046,12 +1046,19 @@
       "sid": 1271,
       "label": "Write Miriam",
       "uid": "SPIN_WHEEL:1271"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1272,
+      "sid": 1272,
+      "label": "Write Levine",
+      "uid": "SPIN_WHEEL:1272"
     }
   ],
-  "version": 3229,
-  "updated": "2026-11-02T20:05:57.121150+00:00",
+  "version": 3230,
+  "updated": "2026-11-02T20:06:44.435450+00:00",
   "buckets": {
-    "SPIN_WHEEL": 86,
+    "SPIN_WHEEL": 87,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
