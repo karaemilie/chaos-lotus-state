@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-01T09:43:47.426Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Write Miriam",
+      "_addedAt": "2026-11-02T20:05:31.197Z",
+      "_ts": "2026-11-02T20:05:31.666Z"
+    }
+  ],
+  "mirroredAt": "2026-11-02T20:05:31.721Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
