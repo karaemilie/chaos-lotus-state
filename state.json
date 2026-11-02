@@ -1039,12 +1039,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Teeth Whitening",
       "uid": "ZONES:88"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1271,
+      "sid": 1271,
+      "label": "Write Miriam",
+      "uid": "SPIN_WHEEL:1271"
     }
   ],
-  "version": 3228,
-  "updated": "2026-11-01T09:43:45.966931+00:00",
+  "version": 3229,
+  "updated": "2026-11-02T20:05:57.121150+00:00",
   "buckets": {
-    "SPIN_WHEEL": 85,
+    "SPIN_WHEEL": 86,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
