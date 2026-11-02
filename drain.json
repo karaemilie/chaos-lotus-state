@@ -15,10 +15,25 @@
       "_ts": "2026-11-02T23:06:36.185Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-11-02T23:06:36.482Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Christmas break tickets for Jake/Linai",
+      "_addedAt": "2026-11-02T23:07:14.662Z",
+      "newtask": {
+        "label": "Christmas break tickets for Jake/Linai",
+        "start": "2027-01-20",
+        "category": "Family",
+        "aw": 3,
+        "recType": "None",
+        "recValue": null
+      },
+      "_ts": "2026-11-02T23:07:14.848Z"
+    }
+  ],
+  "mirroredAt": "2026-11-02T23:07:15.115Z",
   "counts": {
     "completions": 2,
-    "adds": 0
+    "adds": 1
   }
 }
