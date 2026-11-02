@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-02T21:37:39.169Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Check Bentley email for Golden Son **",
+      "_addedAt": "2026-11-02T23:03:09.130Z",
+      "_ts": "2026-11-02T23:03:09.351Z"
+    }
+  ],
+  "mirroredAt": "2026-11-02T23:03:09.612Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-02T21:37:40.599057+00:00",
-  "lastAutoProcessed": [
-    "ZONES:68"
-  ]
+    "adds": 1
+  }
 }
