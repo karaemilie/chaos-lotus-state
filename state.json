@@ -121,16 +121,6 @@
       "uid": "SPIN:1257"
     },
     {
-      "source": "ZONES",
-      "zid": 68,
-      "floor": "Digital",
-      "row": 69,
-      "label": "\ud83d\udcbb Photos",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Photos",
-      "uid": "ZONES:68"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1232,
       "row": 71,
@@ -1040,10 +1030,19 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:12321"
+    },
+    {
+      "source": "ZONES",
+      "zid": 69,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Reviews",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Reviews",
+      "uid": "ZONES:69"
     }
   ],
-  "version": 3231,
-  "updated": "2026-11-02T20:09:36.069680+00:00",
+  "version": 3232,
+  "updated": "2026-11-02T21:37:37.373326+00:00",
   "buckets": {
     "SPIN_WHEEL": 86,
     "TASKS": 22,
