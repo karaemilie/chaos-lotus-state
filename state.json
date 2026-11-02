@@ -495,13 +495,6 @@
       "uid": "SPIN:1157"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1257,
-      "row": 72,
-      "label": "Puff bars - cookie and cream",
-      "uid": "SPIN:1257"
-    },
-    {
       "source": "TASKS",
       "id": 12270,
       "row": 335,
@@ -825,13 +818,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1207,
-      "row": 56,
-      "label": "Make task to get Jake / Linai tix for Christmas break 2027 in Jan",
-      "uid": "SPIN:1207"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1225,
       "row": 59,
       "label": "New lamp",
@@ -1020,10 +1006,10 @@
       "uid": "TASKS:12098"
     }
   ],
-  "version": 3237,
-  "updated": "2026-11-02T23:06:32.475856+00:00",
+  "version": 3238,
+  "updated": "2026-11-02T23:07:24.349635+00:00",
   "buckets": {
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 80,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2,
