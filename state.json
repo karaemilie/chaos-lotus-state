@@ -39,20 +39,6 @@
       "uid": "SPIN:1009"
     },
     {
-      "source": "TASKS",
-      "id": 10417,
-      "row": 80,
-      "label": "\u2b50 Plan to implement new bedtime!",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10417"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1070,
       "row": 23,
@@ -74,53 +60,11 @@
       "uid": "SPIN:1027"
     },
     {
-      "source": "TASKS",
-      "id": 11814,
-      "row": 197,
-      "label": "\u2b50 Buy tickets \u2014 AYO Fall Concert (Sun Nov 15, 2026) \ud83c\udfbb\ud83c\udfab",
-      "aw": 3,
-      "pri": 3,
-      "dur": 15,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Kids",
-      "critical": false,
-      "uid": "TASKS:11814"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 954,
       "row": 11,
       "label": "Boys Paint Project!!",
       "uid": "SPIN:954"
-    },
-    {
-      "source": "TASKS",
-      "id": 11903,
-      "row": 220,
-      "label": "\u2b50 Look at Pet insta idea \ud83d\udc3e\ud83d\udcf1",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11903"
-    },
-    {
-      "source": "TASKS",
-      "id": 12098,
-      "row": 265,
-      "label": "\u2b50 Create a daily editor in chief type grammar practice \u270f\ufe0f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12098"
     },
     {
       "source": "SPIN_WHEEL",
@@ -211,39 +155,11 @@
       "uid": "ZONES:7"
     },
     {
-      "source": "TASKS",
-      "id": 12295,
-      "row": 352,
-      "label": "\u2b50 Set up auto deploy with Cloudflare and GitHub",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12295"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1230,
       "row": 69,
       "label": "Plug in iPhone to Xcode for Pansy! **",
       "uid": "SPIN:1230"
-    },
-    {
-      "source": "TASKS",
-      "id": 12174,
-      "row": 283,
-      "label": "\u2b50 Get Bentley miles for cello",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12174"
     },
     {
       "source": "ZONES",
@@ -1048,17 +964,88 @@
       "uid": "SPIN_WHEEL:1271"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1272,
-      "sid": 1272,
-      "label": "Write Levine",
-      "uid": "SPIN_WHEEL:1272"
+      "source": "TASKS",
+      "id": 12058,
+      "label": "\u2728 Set up teeth cleanings \ud83e\uddb7\ud83e\udea5",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:12058"
+    },
+    {
+      "source": "TASKS",
+      "id": 12190,
+      "label": "\u2728 Deep clean cat litter \ud83d\udc31\ud83e\uddfc",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12190"
+    },
+    {
+      "source": "TASKS",
+      "id": 12225,
+      "label": "\u2728 Pick new book from Audible / Kindle Unlimited partnership \ud83d\udcda\ud83c\udfa7",
+      "aw": 5,
+      "pri": "Medium",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12225"
+    },
+    {
+      "source": "TASKS",
+      "id": 12297,
+      "label": "\u2728 Water snake plants",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12297"
+    },
+    {
+      "source": "TASKS",
+      "id": 12320,
+      "label": "\u2728 Clear the upstairs trashes",
+      "aw": 4,
+      "pri": null,
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": true,
+      "uid": "TASKS:12320"
+    },
+    {
+      "source": "TASKS",
+      "id": 12321,
+      "label": "\u2728 Check for South weekly schedule adjustments",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12321"
     }
   ],
-  "version": 3230,
-  "updated": "2026-11-02T20:06:44.435450+00:00",
+  "version": 3231,
+  "updated": "2026-11-02T20:09:36.069680+00:00",
   "buckets": {
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 86,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
