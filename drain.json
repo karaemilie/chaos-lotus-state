@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-02T20:05:55.450Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Write Miriam",
+      "_addedAt": "2026-11-02T20:05:31.197Z",
+      "_ts": "2026-11-02T20:05:31.666Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Write Levine",
+      "_addedAt": "2026-11-02T20:05:59.785Z",
+      "_ts": "2026-11-02T20:06:00.237Z"
+    }
+  ],
+  "mirroredAt": "2026-11-02T20:06:00.295Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
