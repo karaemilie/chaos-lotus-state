@@ -47,13 +47,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1163,
-      "row": 44,
-      "label": "Forward a copy of Bentley American ticket to my paiback account",
-      "uid": "SPIN:1163"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1027,
       "row": 14,
       "label": "Contact state FLL coordinator",
@@ -1048,10 +1041,10 @@
       "uid": "SPIN_WHEEL:1272"
     }
   ],
-  "version": 3233,
-  "updated": "2026-11-02T23:03:24.599634+00:00",
+  "version": 3234,
+  "updated": "2026-11-02T23:04:40.388092+00:00",
   "buckets": {
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 86,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
