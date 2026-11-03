@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 50,
+      "label": "Scaffolding - buy",
+      "uid": "SPIN:1192",
+      "_ts": "2026-11-03T06:01:46.587Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-03T04:29:08.472Z",
+  "mirroredAt": "2026-11-03T06:01:46.965Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-03T04:29:10.021963+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12321"
-  ]
+  }
 }
