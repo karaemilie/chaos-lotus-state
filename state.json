@@ -358,13 +358,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1192,
-      "row": 50,
-      "label": "Scaffolding - buy",
-      "uid": "SPIN:1192"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1194,
       "row": 51,
       "label": "Garage shelving for winter storage",
@@ -1012,10 +1005,10 @@
       "uid": "TASKS:10464"
     }
   ],
-  "version": 3240,
-  "updated": "2026-11-03T04:29:05.271341+00:00",
+  "version": 3241,
+  "updated": "2026-11-03T06:02:06.277557+00:00",
   "buckets": {
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 80,
     "ZONES": 8,
     "TASKS": 22,
     "MAINTENANCE": 2,
