@@ -93,13 +93,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1264,
-      "row": 78,
-      "label": "Pepper spray for Genevieve",
-      "uid": "SPIN:1264"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1186,
       "row": 47,
       "label": "Lincoln spring class plan",
@@ -993,10 +986,10 @@
       "uid": "SPIN_WHEEL:1274"
     }
   ],
-  "version": 3250,
-  "updated": "2026-11-03T08:36:13.197781+00:00",
+  "version": 3251,
+  "updated": "2026-11-03T08:37:04.143867+00:00",
   "buckets": {
-    "SPIN_WHEEL": 79,
+    "SPIN_WHEEL": 78,
     "TASKS": 22,
     "MAINTENANCE": 2,
     "ZONES": 8,
