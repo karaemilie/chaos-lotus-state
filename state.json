@@ -762,13 +762,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1180,
-      "row": 45,
-      "label": "Give away electrolyte water",
-      "uid": "SPIN:1180"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1032,
       "row": 15,
       "label": "Next class into Minima w/L **",
@@ -996,10 +989,10 @@
       "uid": "COURAGE:12302:0"
     }
   ],
-  "version": 3244,
-  "updated": "2026-11-03T06:50:16.521402+00:00",
+  "version": 3245,
+  "updated": "2026-11-03T07:19:13.624874+00:00",
   "buckets": {
-    "SPIN_WHEEL": 79,
+    "SPIN_WHEEL": 78,
     "ZONES": 8,
     "TASKS": 22,
     "MAINTENANCE": 2,
