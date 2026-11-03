@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-03T01:52:00.482Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add B to AK club",
+      "_addedAt": "2026-11-03T03:47:55.975Z",
+      "_ts": "2026-11-03T03:47:56.229Z"
+    }
+  ],
+  "mirroredAt": "2026-11-03T03:47:56.490Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
