@@ -1,16 +1,19 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-03T08:09:56.725Z",
-  "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-03T08:09:58.275018+00:00",
-  "lastAutoProcessed": [
-    "ZONES:80"
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 90,
+      "zid": 88,
+      "floor": "Personal",
+      "label": "👱‍♀️ Teeth Whitening",
+      "uid": "ZONES:88",
+      "_ts": "2026-11-03T08:14:29.557Z"
+    }
   ],
-  "autoReset": [
-    "Plant"
-  ]
+  "adds": [],
+  "mirroredAt": "2026-11-03T08:14:29.934Z",
+  "counts": {
+    "completions": 1,
+    "adds": 0
+  }
 }
