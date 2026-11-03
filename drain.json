@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-03T08:37:06.035Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Budget in Monarch",
+      "_addedAt": "2026-11-03T08:48:33.503Z",
+      "_ts": "2026-11-03T08:48:33.790Z"
+    }
+  ],
+  "mirroredAt": "2026-11-03T08:48:34.030Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-03T08:37:07.480817+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1264"
-  ]
+    "adds": 1
+  }
 }
