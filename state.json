@@ -797,13 +797,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1225,
-      "row": 59,
-      "label": "New lamp",
-      "uid": "SPIN:1225"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1009,
       "row": 11,
       "label": "Research current available robots",
@@ -1003,10 +996,10 @@
       "uid": "COURAGE:12302:0"
     }
   ],
-  "version": 3243,
-  "updated": "2026-11-03T06:04:26.821412+00:00",
+  "version": 3244,
+  "updated": "2026-11-03T06:50:16.521402+00:00",
   "buckets": {
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 79,
     "ZONES": 8,
     "TASKS": 22,
     "MAINTENANCE": 2,
