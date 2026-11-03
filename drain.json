@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12183,
+      "row": 290,
+      "label": "✨ Pay rents (Matt, Bentley & Genevieve) 🏠💸 *use Genevieve's Venmo for hers*",
+      "uid": "TASKS:12183",
+      "_ts": "2026-11-03T06:03:04.185Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-03T06:02:07.794Z",
+  "mirroredAt": "2026-11-03T06:03:04.547Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-03T06:02:09.065078+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1192"
-  ]
+  }
 }
