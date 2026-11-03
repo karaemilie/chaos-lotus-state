@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-03T08:17:25.215Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Evening Dec 10 flight plan",
+      "_addedAt": "2026-11-03T08:35:56.037Z",
+      "_ts": "2026-11-03T08:35:56.267Z"
+    }
+  ],
+  "mirroredAt": "2026-11-03T08:35:56.536Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-03T08:17:26.668774+00:00",
-  "lastAutoProcessed": [
-    "ZONES:73"
-  ]
+    "adds": 1
+  }
 }
