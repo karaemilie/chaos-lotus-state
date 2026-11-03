@@ -15,20 +15,6 @@
       "uid": "SPIN:1185"
     },
     {
-      "source": "TASKS",
-      "id": 12321,
-      "row": 377,
-      "label": "\u2728 Check for South weekly schedule adjustments",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12321"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1030,
       "row": 14,
@@ -1011,14 +997,27 @@
       "sid": 1273,
       "label": "Add B to AK club",
       "uid": "SPIN_WHEEL:1273"
+    },
+    {
+      "source": "TASKS",
+      "id": 10464,
+      "label": "Help Jake write private lesson email \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10464"
     }
   ],
-  "version": 3239,
-  "updated": "2026-11-03T03:48:10.752073+00:00",
+  "version": 3240,
+  "updated": "2026-11-03T04:29:05.271341+00:00",
   "buckets": {
     "SPIN_WHEEL": 81,
-    "TASKS": 22,
     "ZONES": 8,
+    "TASKS": 22,
     "MAINTENANCE": 2,
     "COURAGE": 4
   }
