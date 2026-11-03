@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 45,
+      "label": "Give away electrolyte water",
+      "uid": "SPIN:1180",
+      "_ts": "2026-11-03T07:18:49.524Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-03T06:50:18.145Z",
+  "mirroredAt": "2026-11-03T07:18:49.800Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-03T06:50:19.522276+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1225"
-  ]
+  }
 }
