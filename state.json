@@ -942,12 +942,19 @@
       "sid": 1276,
       "label": "Schedule septic",
       "uid": "SPIN_WHEEL:1276"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1277,
+      "sid": 1277,
+      "label": "Genevieve Thanksgiving & Dec 10 tickets",
+      "uid": "SPIN_WHEEL:1277"
     }
   ],
-  "version": 3256,
-  "updated": "2026-11-03T10:01:57.880505+00:00",
+  "version": 3257,
+  "updated": "2026-11-03T10:02:50.440333+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 72,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
