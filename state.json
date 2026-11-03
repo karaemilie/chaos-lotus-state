@@ -959,20 +959,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12183,
-      "row": 290,
-      "label": "\u2728 Pay rents (Matt, Bentley & Genevieve) \ud83c\udfe0\ud83d\udcb8 *use Genevieve's Venmo for hers*",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12183"
-    },
-    {
-      "source": "TASKS",
       "id": 12098,
       "label": "Create a daily editor in chief type grammar practice \u270f\ufe0f",
       "aw": 6,
@@ -1003,10 +989,23 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10464"
+    },
+    {
+      "source": "TASKS",
+      "id": 12174,
+      "label": "Get Bentley miles for cello",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12174"
     }
   ],
-  "version": 3241,
-  "updated": "2026-11-03T06:02:06.277557+00:00",
+  "version": 3242,
+  "updated": "2026-11-03T06:03:17.695218+00:00",
   "buckets": {
     "SPIN_WHEEL": 80,
     "ZONES": 8,
