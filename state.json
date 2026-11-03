@@ -901,16 +901,6 @@
       "uid": "SPIN:1070"
     },
     {
-      "source": "ZONES",
-      "zid": 80,
-      "floor": "Plant",
-      "row": 82,
-      "label": "\ud83c\udf31 Hallway",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Hallway",
-      "uid": "ZONES:80"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1227,
       "row": 60,
@@ -987,10 +977,19 @@
       "label": "\ud83d\udd25 Call Christina \ud83d\udcde",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:12302:0"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 3245,
-  "updated": "2026-11-03T07:19:13.624874+00:00",
+  "version": 3246,
+  "updated": "2026-11-03T08:09:52.769667+00:00",
   "buckets": {
     "SPIN_WHEEL": 78,
     "ZONES": 8,
