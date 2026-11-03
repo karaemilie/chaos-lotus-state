@@ -1,13 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-03T06:03:20.941Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "🔥 Submit rock gym to FPCS",
+      "_addedAt": "2026-11-03T06:04:12.472Z",
+      "reschedule": {
+        "uid": "COURAGE:12063:0",
+        "id": 12063,
+        "label": "🔥 Submit rock gym to FPCS",
+        "start": "2026-11-06"
+      },
+      "_ts": "2026-11-03T06:04:12.841Z"
+    }
+  ],
+  "mirroredAt": "2026-11-03T06:04:13.220Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-03T06:03:22.306544+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12183"
-  ]
+    "adds": 1
+  }
 }
