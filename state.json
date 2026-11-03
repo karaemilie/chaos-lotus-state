@@ -984,12 +984,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Plants",
       "uid": "ZONES:74"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1274,
+      "sid": 1274,
+      "label": "Evening Dec 10 flight plan",
+      "uid": "SPIN_WHEEL:1274"
     }
   ],
-  "version": 3249,
-  "updated": "2026-11-03T08:17:23.387699+00:00",
+  "version": 3250,
+  "updated": "2026-11-03T08:36:13.197781+00:00",
   "buckets": {
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 79,
     "TASKS": 22,
     "MAINTENANCE": 2,
     "ZONES": 8,
