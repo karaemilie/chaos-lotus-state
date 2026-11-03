@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-03T08:48:48.110Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Schedule septic",
+      "_addedAt": "2026-11-03T10:01:40.947Z",
+      "_ts": "2026-11-03T10:01:41.160Z"
+    }
+  ],
+  "mirroredAt": "2026-11-03T10:01:41.418Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
