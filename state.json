@@ -22,16 +22,6 @@
       "uid": "SPIN:1030"
     },
     {
-      "source": "ZONES",
-      "zid": 88,
-      "floor": "Personal",
-      "row": 90,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Teeth Whitening",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Teeth Whitening",
-      "uid": "ZONES:88"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 555,
       "row": 5,
@@ -986,15 +976,24 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Bedroom",
       "uid": "ZONES:73"
+    },
+    {
+      "source": "ZONES",
+      "zid": 81,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Exfoliation",
+      "uid": "ZONES:81"
     }
   ],
-  "version": 3246,
-  "updated": "2026-11-03T08:09:52.769667+00:00",
+  "version": 3247,
+  "updated": "2026-11-03T08:14:42.374373+00:00",
   "buckets": {
     "SPIN_WHEEL": 78,
-    "ZONES": 8,
     "TASKS": 22,
     "MAINTENANCE": 2,
+    "ZONES": 8,
     "COURAGE": 4
   }
 }
