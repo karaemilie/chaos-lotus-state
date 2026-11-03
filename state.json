@@ -692,16 +692,6 @@
       "uid": "SPIN:1099"
     },
     {
-      "source": "ZONES",
-      "zid": 7,
-      "floor": "Upstairs",
-      "row": 8,
-      "label": "\ud83e\uddfa Kids Bathroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Kids Bathroom",
-      "uid": "ZONES:7"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1151,
       "row": 37,
@@ -985,10 +975,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Exfoliation",
       "uid": "ZONES:81"
+    },
+    {
+      "source": "ZONES",
+      "zid": 8,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa My Bedroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "My Bedroom",
+      "uid": "ZONES:8"
     }
   ],
-  "version": 3247,
-  "updated": "2026-11-03T08:14:42.374373+00:00",
+  "version": 3248,
+  "updated": "2026-11-03T08:16:32.820591+00:00",
   "buckets": {
     "SPIN_WHEEL": 78,
     "TASKS": 22,
