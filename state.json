@@ -984,12 +984,19 @@
       "sid": 1274,
       "label": "Evening Dec 10 flight plan",
       "uid": "SPIN_WHEEL:1274"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1275,
+      "sid": 1275,
+      "label": "Budget in Monarch",
+      "uid": "SPIN_WHEEL:1275"
     }
   ],
-  "version": 3251,
-  "updated": "2026-11-03T08:37:04.143867+00:00",
+  "version": 3252,
+  "updated": "2026-11-03T08:48:49.880467+00:00",
   "buckets": {
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 79,
     "TASKS": 22,
     "MAINTENANCE": 2,
     "ZONES": 8,
