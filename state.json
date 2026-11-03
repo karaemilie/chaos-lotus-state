@@ -870,18 +870,6 @@
       "uid": "TASKS:12058"
     },
     {
-      "source": "COURAGE",
-      "parentId": 12063,
-      "parentRow": 253,
-      "parentLabel": "Submit rock gym to FPCS",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-08-04",
-      "label": "\ud83d\udd25 Submit rock gym to FPCS",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:12063:0"
-    },
-    {
       "source": "TASKS",
       "id": 12181,
       "row": 289,
@@ -1002,10 +990,21 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:12174"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 12302,
+      "stepIndex": 0,
+      "parentLabel": "Call Christina \ud83d\udcde",
+      "aw": 2,
+      "due": null,
+      "label": "\ud83d\udd25 Call Christina \ud83d\udcde",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:12302:0"
     }
   ],
-  "version": 3242,
-  "updated": "2026-11-03T06:03:17.695218+00:00",
+  "version": 3243,
+  "updated": "2026-11-03T06:04:26.821412+00:00",
   "buckets": {
     "SPIN_WHEEL": 80,
     "ZONES": 8,
