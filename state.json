@@ -960,15 +960,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
-      "source": "ZONES",
       "zid": 81,
       "floor": "Personal",
       "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
@@ -984,10 +975,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "My Bedroom",
       "uid": "ZONES:8"
+    },
+    {
+      "source": "ZONES",
+      "zid": 74,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Plants",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Plants",
+      "uid": "ZONES:74"
     }
   ],
-  "version": 3248,
-  "updated": "2026-11-03T08:16:32.820591+00:00",
+  "version": 3249,
+  "updated": "2026-11-03T08:17:23.387699+00:00",
   "buckets": {
     "SPIN_WHEEL": 78,
     "TASKS": 22,
