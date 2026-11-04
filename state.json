@@ -699,16 +699,6 @@
       "uid": "TASKS:12295"
     },
     {
-      "source": "ZONES",
-      "zid": 54,
-      "floor": "Basement",
-      "row": 55,
-      "label": "\ud83e\uddfa Crawlspace",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Crawlspace",
-      "uid": "ZONES:54"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1013,
       "row": 12,
@@ -948,10 +938,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Retainer",
       "uid": "ZONES:83"
+    },
+    {
+      "source": "ZONES",
+      "zid": 55,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Back Annex",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Back Annex",
+      "uid": "ZONES:55"
     }
   ],
-  "version": 3258,
-  "updated": "2026-11-04T02:51:18.225448+00:00",
+  "version": 3259,
+  "updated": "2026-11-04T02:51:48.549933+00:00",
   "buckets": {
     "SPIN_WHEEL": 72,
     "TASKS": 22,
