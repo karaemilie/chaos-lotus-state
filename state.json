@@ -300,20 +300,6 @@
       "uid": "TASKS:12225"
     },
     {
-      "source": "TASKS",
-      "id": 12288,
-      "row": 345,
-      "label": "\u2728 Review IXL assessments for Lincoln",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 20,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12288"
-    },
-    {
       "source": "ZONES",
       "zid": 8,
       "floor": "Upstairs",
@@ -934,10 +920,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11948"
+    },
+    {
+      "source": "TASKS",
+      "id": 11895,
+      "label": "Book septic \ud83d\udebd",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11895"
     }
   ],
-  "version": 3268,
-  "updated": "2026-11-04T06:09:02.564228+00:00",
+  "version": 3269,
+  "updated": "2026-11-04T06:09:57.683514+00:00",
   "buckets": {
     "SPIN_WHEEL": 71,
     "TASKS": 22,
