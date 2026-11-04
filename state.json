@@ -868,20 +868,6 @@
       "uid": "SPIN:505"
     },
     {
-      "source": "TASKS",
-      "id": 12289,
-      "row": 346,
-      "label": "\u2728 Review IXL assessments for Evan",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 20,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12289"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1253,
       "row": 62,
@@ -947,10 +933,23 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Back Annex",
       "uid": "ZONES:55"
+    },
+    {
+      "source": "TASKS",
+      "id": 10464,
+      "label": "Help Jake write private lesson email \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10464"
     }
   ],
-  "version": 3259,
-  "updated": "2026-11-04T02:51:48.549933+00:00",
+  "version": 3260,
+  "updated": "2026-11-04T04:15:09.546575+00:00",
   "buckets": {
     "SPIN_WHEEL": 72,
     "TASKS": 22,
