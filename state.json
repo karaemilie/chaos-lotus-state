@@ -8,20 +8,6 @@
       "uid": "SPIN:1099"
     },
     {
-      "source": "TASKS",
-      "id": 12334,
-      "row": 384,
-      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12334"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1147,
       "row": 34,
@@ -937,10 +923,23 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12181"
+    },
+    {
+      "source": "TASKS",
+      "id": 12205,
+      "label": "Look at how to choose assignments in Prep Median",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12205"
     }
   ],
-  "version": 3265,
-  "updated": "2026-11-04T04:32:54.531899+00:00",
+  "version": 3266,
+  "updated": "2026-11-04T05:06:15.931671+00:00",
   "buckets": {
     "SPIN_WHEEL": 71,
     "TASKS": 22,
