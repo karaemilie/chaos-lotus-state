@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-04T08:35:31.868Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Bring metal shelf to crawlcspace **",
+      "_addedAt": "2026-11-04T08:35:17.210Z",
+      "_ts": "2026-11-04T08:35:18.275Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Measure how much closet maid shelf brackets I have / need **",
+      "_addedAt": "2026-11-04T08:35:40.221Z",
+      "_ts": "2026-11-04T08:35:40.390Z"
+    }
+  ],
+  "mirroredAt": "2026-11-04T08:35:40.608Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
