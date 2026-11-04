@@ -798,20 +798,6 @@
       "uid": "SPIN:952"
     },
     {
-      "source": "TASKS",
-      "id": 12291,
-      "row": 348,
-      "label": "\u2728 Trash & recycling to curb",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12291"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1194,
       "row": 48,
@@ -939,10 +925,23 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10464"
+    },
+    {
+      "source": "TASKS",
+      "id": 11814,
+      "label": "Buy tickets \u2014 AYO Fall Concert (Sun Nov 15, 2026) \ud83c\udfbb\ud83c\udfab",
+      "aw": 3,
+      "pri": 3,
+      "dur": 15,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11814"
     }
   ],
-  "version": 3261,
-  "updated": "2026-11-04T04:21:31.497537+00:00",
+  "version": 3262,
+  "updated": "2026-11-04T04:21:57.903010+00:00",
   "buckets": {
     "SPIN_WHEEL": 71,
     "TASKS": 22,
