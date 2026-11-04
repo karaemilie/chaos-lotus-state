@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12313,
+      "row": 367,
+      "label": "✨ Recharge my twinkle stars ✨🔋",
+      "uid": "TASKS:12313",
+      "_ts": "2026-11-04T06:08:51.508Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-04T05:07:17.037Z",
+  "mirroredAt": "2026-11-04T06:08:51.878Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-04T05:07:18.351349+00:00",
-  "lastAutoProcessed": [
-    "COURAGE:12265:0"
-  ]
+  }
 }
