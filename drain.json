@@ -1,16 +1,17 @@
 {
-  "completions": [],
-  "adds": [
+  "completions": [
     {
-      "source": "PLUS_ADD",
-      "label": "Next step new handy man",
-      "_addedAt": "2026-11-04T04:26:02.398Z",
-      "_ts": "2026-11-04T04:26:02.886Z"
+      "source": "SPIN_WHEEL",
+      "row": 42,
+      "label": "Get rates from Kevin",
+      "uid": "SPIN:1178",
+      "_ts": "2026-11-04T04:26:04.077Z"
     }
   ],
-  "mirroredAt": "2026-11-04T04:26:03.298Z",
+  "adds": [],
+  "mirroredAt": "2026-11-04T04:26:15.421Z",
   "counts": {
-    "completions": 0,
-    "adds": 1
+    "completions": 1,
+    "adds": 0
   }
 }
