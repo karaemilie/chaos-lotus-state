@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-04T04:22:01.137Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Next step new handy man",
+      "_addedAt": "2026-11-04T04:26:02.398Z",
+      "_ts": "2026-11-04T04:26:02.886Z"
+    }
+  ],
+  "mirroredAt": "2026-11-04T04:26:03.298Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-04T04:22:02.415890+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1049",
-    "TASKS:12291"
-  ]
+    "adds": 1
+  }
 }
