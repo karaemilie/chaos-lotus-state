@@ -532,20 +532,6 @@
       "uid": "TASKS:12306"
     },
     {
-      "source": "TASKS",
-      "id": 12149,
-      "row": 273,
-      "label": "\u2728 Grab the gold candles and charge them \ud83d\udd6f\ufe0f",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12149"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1032,
       "row": 15,
@@ -938,10 +924,23 @@
       "sid": 1278,
       "label": "Next step new handy man",
       "uid": "SPIN_WHEEL:1278"
+    },
+    {
+      "source": "TASKS",
+      "id": 12181,
+      "label": "Consider medical work to get done before year-end (out-of-pocket max already hit) \ud83c\udfe5\ud83d\udcb0",
+      "aw": 3,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12181"
     }
   ],
-  "version": 3264,
-  "updated": "2026-11-04T04:26:59.040290+00:00",
+  "version": 3265,
+  "updated": "2026-11-04T04:32:54.531899+00:00",
   "buckets": {
     "SPIN_WHEEL": 71,
     "TASKS": 22,
