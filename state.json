@@ -85,18 +85,6 @@
       "uid": "SPIN:1153"
     },
     {
-      "source": "COURAGE",
-      "parentId": 12265,
-      "parentRow": 329,
-      "parentLabel": "Adjust Jake & Linai Christmas tickets back \u2708\ufe0f\ud83c\udf84",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": null,
-      "label": "\ud83d\udd25 Adjust Jake & Linai Christmas tickets back \u2708\ufe0f\ud83c\udf84",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:12265:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1119,
       "row": 30,
@@ -936,15 +924,26 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:12205"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 11061,
+      "stepIndex": 0,
+      "parentLabel": "Audit balance on Discover It \u2014 still on track? \ud83d\udcb3\ud83d\udd0d",
+      "aw": 2,
+      "due": null,
+      "label": "\ud83d\udd25 Audit balance on Discover It \u2014 still on track? \ud83d\udcb3\ud83d\udd0d",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:11061:0"
     }
   ],
-  "version": 3266,
-  "updated": "2026-11-04T05:06:15.931671+00:00",
+  "version": 3267,
+  "updated": "2026-11-04T05:07:13.355951+00:00",
   "buckets": {
     "SPIN_WHEEL": 71,
     "TASKS": 22,
-    "COURAGE": 4,
     "ZONES": 8,
+    "COURAGE": 4,
     "MAINTENANCE": 2
   }
 }
