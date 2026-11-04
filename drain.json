@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 17,
+      "label": "Install screen protector",
+      "uid": "SPIN:1049",
+      "_ts": "2026-11-04T04:21:17.740Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12291,
+      "row": 348,
+      "label": "✨ Trash & recycling to curb",
+      "uid": "TASKS:12291",
+      "_ts": "2026-11-04T04:21:41.214Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-04T04:21:32.911Z",
+  "mirroredAt": "2026-11-04T04:21:41.448Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-11-04T04:21:33.981521+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1049"
-  ]
+  }
 }
