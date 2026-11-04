@@ -1,14 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12289,
+      "row": 346,
+      "label": "✨ Review IXL assessments for Evan",
+      "uid": "TASKS:12289",
+      "_ts": "2026-11-04T04:14:56.504Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-04T02:51:50.154Z",
+  "mirroredAt": "2026-11-04T04:14:56.798Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-04T02:51:51.426390+00:00",
-  "lastAutoProcessed": [
-    "ZONES:81",
-    "ZONES:54"
-  ]
+  }
 }
