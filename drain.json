@@ -1,13 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-04T04:32:57.943Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Pay Linda, Lindsey & Miriam for the week!",
+      "_addedAt": "2026-11-04T05:05:53.396Z",
+      "reschedule": {
+        "uid": "TASKS:12334",
+        "id": 12334,
+        "label": "✨ Pay Linda, Lindsey & Miriam for the week!",
+        "start": "2026-11-13"
+      },
+      "_ts": "2026-11-04T05:05:53.562Z"
+    }
+  ],
+  "mirroredAt": "2026-11-04T05:05:53.845Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-04T04:32:59.174064+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12149"
-  ]
+    "adds": 1
+  }
 }
