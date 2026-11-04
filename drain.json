@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 48,
+      "label": "Garage shelving for winter storage",
+      "uid": "SPIN:1194",
+      "_ts": "2026-11-04T08:35:44.418Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -14,9 +22,9 @@
       "_ts": "2026-11-04T08:35:40.390Z"
     }
   ],
-  "mirroredAt": "2026-11-04T08:35:40.608Z",
+  "mirroredAt": "2026-11-04T08:35:44.639Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 2
   }
 }
