@@ -1,13 +1,24 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-04T07:13:23.529Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Have Bentley loan us the Red Rising books",
+      "_addedAt": "2026-11-04T07:25:09.889Z",
+      "newtask": {
+        "label": "Have Bentley loan us the Red Rising books",
+        "start": "2026-11-26",
+        "category": "Home",
+        "aw": 3,
+        "recType": "None",
+        "recValue": null
+      },
+      "_ts": "2026-11-04T07:25:10.097Z"
+    }
+  ],
+  "mirroredAt": "2026-11-04T07:25:10.321Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-04T07:13:24.799373+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1153"
-  ]
+    "adds": 1
+  }
 }
