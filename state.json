@@ -717,13 +717,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1194,
-      "row": 48,
-      "label": "Garage shelving for winter storage",
-      "uid": "SPIN:1194"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1179,
       "row": 43,
       "label": "Figure out how title works",
@@ -935,10 +928,10 @@
       "uid": "SPIN_WHEEL:1279"
     }
   ],
-  "version": 3271,
-  "updated": "2026-11-04T08:35:33.680034+00:00",
+  "version": 3272,
+  "updated": "2026-11-04T08:36:15.895311+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 70,
     "TASKS": 22,
     "ZONES": 8,
     "COURAGE": 4,
