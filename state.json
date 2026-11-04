@@ -326,13 +326,6 @@
       "uid": "ZONES:40"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1178,
-      "row": 42,
-      "label": "Get rates from Kevin",
-      "uid": "SPIN:1178"
-    },
-    {
       "source": "TASKS",
       "id": 12225,
       "row": 309,
@@ -947,10 +940,10 @@
       "uid": "SPIN_WHEEL:1278"
     }
   ],
-  "version": 3263,
-  "updated": "2026-11-04T04:26:16.952679+00:00",
+  "version": 3264,
+  "updated": "2026-11-04T04:26:59.040290+00:00",
   "buckets": {
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 71,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
