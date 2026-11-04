@@ -850,16 +850,6 @@
       "uid": "SPIN:1269"
     },
     {
-      "source": "ZONES",
-      "zid": 81,
-      "floor": "Personal",
-      "row": 83,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Exfoliation",
-      "uid": "ZONES:81"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1093,
       "row": 27,
@@ -949,10 +939,19 @@
       "sid": 1277,
       "label": "Genevieve Thanksgiving & Dec 10 tickets",
       "uid": "SPIN_WHEEL:1277"
+    },
+    {
+      "source": "ZONES",
+      "zid": 83,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Retainer",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Retainer",
+      "uid": "ZONES:83"
     }
   ],
-  "version": 3257,
-  "updated": "2026-11-03T10:02:50.440333+00:00",
+  "version": 3258,
+  "updated": "2026-11-04T02:51:18.225448+00:00",
   "buckets": {
     "SPIN_WHEEL": 72,
     "TASKS": 22,
