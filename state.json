@@ -926,12 +926,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11895"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1279,
+      "sid": 1279,
+      "label": "Bring metal shelf to crawlcspace **",
+      "uid": "SPIN_WHEEL:1279"
     }
   ],
-  "version": 3270,
-  "updated": "2026-11-04T07:13:21.968167+00:00",
+  "version": 3271,
+  "updated": "2026-11-04T08:35:33.680034+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
+    "SPIN_WHEEL": 71,
     "TASKS": 22,
     "ZONES": 8,
     "COURAGE": 4,
