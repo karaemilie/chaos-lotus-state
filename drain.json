@@ -1,16 +1,61 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1277,
+      "label": "Genevieve Thanksgiving & Dec 10 tickets",
+      "uid": "SPIN_WHEEL:1277",
+      "_ts": "2026-11-05T02:18:02.060Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 70,
+      "label": "Evening Dec 10 flight plan",
+      "uid": "SPIN:1274",
+      "_ts": "2026-11-05T02:18:07.756Z"
+    }
+  ],
   "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set up Home Assistant",
+      "_addedAt": "2026-11-05T02:16:45.850Z",
+      "_ts": "2026-11-05T02:16:46.009Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Install film in garage!",
+      "_addedAt": "2026-11-05T02:17:00.336Z",
+      "_ts": "2026-11-05T02:17:00.497Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Genevieve Thanksgiving and evening Dec 10 ticket",
+      "_addedAt": "2026-11-05T02:17:56.867Z",
+      "_ts": "2026-11-05T02:17:57.034Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Rug return",
+      "_addedAt": "2026-11-05T02:18:25.324Z",
+      "_ts": "2026-11-05T02:18:25.433Z"
+    },
     {
       "source": "PLUS_ADD",
       "label": "Garage ladder work",
       "_addedAt": "2026-11-05T02:18:36.422Z",
       "_ts": "2026-11-05T02:18:36.535Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Ottoman plan / new bed frames",
+      "_addedAt": "2026-11-05T02:18:48.758Z",
+      "_ts": "2026-11-05T02:18:48.907Z"
     }
   ],
-  "mirroredAt": "2026-11-05T02:18:43.803Z",
+  "mirroredAt": "2026-11-05T02:18:49.162Z",
   "counts": {
-    "completions": 0,
-    "adds": 1
+    "completions": 2,
+    "adds": 6
   }
 }
