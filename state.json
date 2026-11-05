@@ -940,12 +940,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Upstairs Hallway",
       "uid": "ZONES:9"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1283,
+      "sid": 1283,
+      "label": "Set up Home Assistant",
+      "uid": "SPIN_WHEEL:1283"
     }
   ],
-  "version": 3278,
-  "updated": "2026-11-05T01:39:55.586058+00:00",
+  "version": 3279,
+  "updated": "2026-11-05T02:17:02.311270+00:00",
   "buckets": {
-    "SPIN_WHEEL": 73,
+    "SPIN_WHEEL": 74,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
