@@ -1,13 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-05T07:41:11.199Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Review Evan's bedtime & adjust melatonin timing 😴💊",
+      "_addedAt": "2026-11-05T08:34:50.509Z",
+      "reschedule": {
+        "uid": "TASKS:12067",
+        "id": 12067,
+        "label": "✨ Review Evan's bedtime & adjust melatonin timing 😴💊",
+        "start": "2026-11-14"
+      },
+      "_ts": "2026-11-05T08:34:51.009Z"
+    }
+  ],
+  "mirroredAt": "2026-11-05T08:34:51.411Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-05T07:41:12.492436+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12297"
-  ]
+    "adds": 1
+  }
 }
