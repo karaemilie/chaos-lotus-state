@@ -1008,12 +1008,19 @@
       "sid": 1298,
       "label": "Add clips to tractor cover",
       "uid": "SPIN_WHEEL:1298"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1299,
+      "sid": 1299,
+      "label": "Install new curtains",
+      "uid": "SPIN_WHEEL:1299"
     }
   ],
-  "version": 3301,
-  "updated": "2026-11-05T09:24:32.577175+00:00",
+  "version": 3302,
+  "updated": "2026-11-05T09:30:27.907816+00:00",
   "buckets": {
-    "SPIN_WHEEL": 83,
+    "SPIN_WHEEL": 84,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
