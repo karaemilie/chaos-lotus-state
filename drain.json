@@ -6,6 +6,13 @@
       "label": "Genevieve Thanksgiving & Dec 10 tickets",
       "uid": "SPIN_WHEEL:1277",
       "_ts": "2026-11-05T02:18:02.060Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 70,
+      "label": "Evening Dec 10 flight plan",
+      "uid": "SPIN:1274",
+      "_ts": "2026-11-05T02:18:07.756Z"
     }
   ],
   "adds": [
@@ -28,9 +35,9 @@
       "_ts": "2026-11-05T02:17:57.034Z"
     }
   ],
-  "mirroredAt": "2026-11-05T02:18:02.417Z",
+  "mirroredAt": "2026-11-05T02:18:08.048Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 3
   }
 }
