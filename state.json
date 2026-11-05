@@ -2,13 +2,6 @@
   "tasks": [
     {
       "source": "SPIN_WHEEL",
-      "sid": 1099,
-      "row": 29,
-      "label": "Update Google password!",
-      "uid": "SPIN:1099"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1147,
       "row": 34,
       "label": "Measure Mom\u2019s shirts",
@@ -1011,10 +1004,10 @@
       "uid": "SPIN_WHEEL:1297"
     }
   ],
-  "version": 3298,
-  "updated": "2026-11-05T09:09:06.660834+00:00",
+  "version": 3299,
+  "updated": "2026-11-05T09:10:45.677071+00:00",
   "buckets": {
-    "SPIN_WHEEL": 83,
+    "SPIN_WHEEL": 82,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
