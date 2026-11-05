@@ -982,12 +982,19 @@
       "sid": 1291,
       "label": "Send Jake tracking number",
       "uid": "SPIN_WHEEL:1291"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1292,
+      "sid": 1292,
+      "label": "Change Bentley January ticket",
+      "uid": "SPIN_WHEEL:1292"
     }
   ],
-  "version": 3288,
-  "updated": "2026-11-05T04:10:32.774703+00:00",
+  "version": 3289,
+  "updated": "2026-11-05T07:35:48.051333+00:00",
   "buckets": {
-    "SPIN_WHEEL": 79,
+    "SPIN_WHEEL": 80,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
