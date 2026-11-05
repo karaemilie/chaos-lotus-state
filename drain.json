@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-05T08:35:05.016Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pack rug up",
+      "_addedAt": "2026-11-05T08:54:11.939Z",
+      "_ts": "2026-11-05T08:54:12.436Z"
+    }
+  ],
+  "mirroredAt": "2026-11-05T08:54:12.795Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
