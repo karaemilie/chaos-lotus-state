@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-05T09:07:49.020Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 16,
+      "label": "Set monthly amt to pay off Citi card by next August",
+      "uid": "SPIN:1034",
+      "_ts": "2026-11-05T09:07:35.197Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set payment plans in Chase 7505",
+      "_addedAt": "2026-11-05T09:07:51.510Z",
+      "_ts": "2026-11-05T09:07:51.676Z"
+    }
+  ],
+  "mirroredAt": "2026-11-05T09:07:51.904Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-05T09:07:50.448661+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1034"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
