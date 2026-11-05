@@ -328,13 +328,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1034,
-      "row": 16,
-      "label": "Set monthly amt to pay off Citi card by next August",
-      "uid": "SPIN:1034"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1229,
       "row": 55,
       "label": "Print Derek Owen TOC for Algebra x 2 **",
@@ -691,50 +684,11 @@
       "uid": "ZONES:55"
     },
     {
-      "source": "TASKS",
-      "id": 10464,
-      "label": "Help Jake write private lesson email \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10464"
-    },
-    {
-      "source": "TASKS",
-      "id": 11814,
-      "label": "Buy tickets \u2014 AYO Fall Concert (Sun Nov 15, 2026) \ud83c\udfbb\ud83c\udfab",
-      "aw": 3,
-      "pri": 3,
-      "dur": 15,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Kids",
-      "critical": false,
-      "uid": "TASKS:11814"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1278,
       "sid": 1278,
       "label": "Next step new handy man",
       "uid": "SPIN_WHEEL:1278"
-    },
-    {
-      "source": "TASKS",
-      "id": 12181,
-      "label": "Consider medical work to get done before year-end (out-of-pocket max already hit) \ud83c\udfe5\ud83d\udcb0",
-      "aw": 3,
-      "pri": "High",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12181"
     },
     {
       "source": "TASKS",
@@ -1002,12 +956,51 @@
       "sid": 1295,
       "label": "Buy new window film",
       "uid": "SPIN_WHEEL:1295"
+    },
+    {
+      "source": "TASKS",
+      "id": 12325,
+      "label": "\u2728 Send text update to mother-in-law \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12325"
+    },
+    {
+      "source": "TASKS",
+      "id": 12340,
+      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12340"
+    },
+    {
+      "source": "TASKS",
+      "id": 12342,
+      "label": "\u2728 Spend time on flower bouquet coding project",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": "Bouquet Tracker",
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12342"
     }
   ],
-  "version": 3294,
-  "updated": "2026-11-05T08:55:13.037737+00:00",
+  "version": 3295,
+  "updated": "2026-11-05T09:07:47.732968+00:00",
   "buckets": {
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 81,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
