@@ -903,13 +903,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1286,
-      "sid": 1286,
-      "label": "Rug return",
-      "uid": "SPIN_WHEEL:1286"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1287,
       "sid": 1287,
       "label": "Garage ladder work",
@@ -997,10 +990,10 @@
       "uid": "SPIN_WHEEL:1293"
     }
   ],
-  "version": 3292,
-  "updated": "2026-11-05T08:54:28.872358+00:00",
+  "version": 3293,
+  "updated": "2026-11-05T08:55:09.779191+00:00",
   "buckets": {
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 80,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
