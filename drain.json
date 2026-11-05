@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 33,
+      "label": "Review 7505 card actual balance, pay down???",
+      "uid": "SPIN:1127",
+      "_ts": "2026-11-05T04:06:26.442Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-05T03:40:33.691Z",
+  "mirroredAt": "2026-11-05T04:06:26.746Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-05T03:40:35.104195+00:00",
-  "lastAutoProcessed": [
-    "TASKS:11994"
-  ]
+  }
 }
