@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-05T04:10:31.074Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Change Bentley January ticket",
+      "_addedAt": "2026-11-05T07:35:33.684Z",
+      "_ts": "2026-11-05T07:35:33.848Z"
+    }
+  ],
+  "mirroredAt": "2026-11-05T07:35:34.101Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
