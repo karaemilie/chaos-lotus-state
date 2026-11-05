@@ -668,20 +668,6 @@
       "uid": "SPIN:1227"
     },
     {
-      "source": "TASKS",
-      "id": 12297,
-      "row": 352,
-      "label": "\u2728 Water snake plants",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12297"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1254,
       "row": 63,
@@ -989,10 +975,23 @@
       "sid": 1292,
       "label": "Change Bentley January ticket",
       "uid": "SPIN_WHEEL:1292"
+    },
+    {
+      "source": "TASKS",
+      "id": 12270,
+      "label": "Put away some 4th decor",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12270"
     }
   ],
-  "version": 3289,
-  "updated": "2026-11-05T07:35:48.051333+00:00",
+  "version": 3290,
+  "updated": "2026-11-05T07:41:07.725094+00:00",
   "buckets": {
     "SPIN_WHEEL": 80,
     "TASKS": 22,
