@@ -1,9 +1,24 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-05T09:14:15.842Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Get code from Matt for Discover card, log in, close account",
+      "_addedAt": "2026-11-05T09:15:01.941Z",
+      "newtask": {
+        "label": "Get code from Matt for Discover card, log in, close account",
+        "start": "2026-12-13",
+        "category": "Finance",
+        "aw": 2,
+        "recType": "None",
+        "recValue": null
+      },
+      "_ts": "2026-11-05T09:15:02.125Z"
+    }
+  ],
+  "mirroredAt": "2026-11-05T09:15:02.442Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
