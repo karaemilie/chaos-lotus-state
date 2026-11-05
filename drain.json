@@ -1,9 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 84,
+      "zid": 82,
+      "floor": "Personal",
+      "label": "👱‍♀️ Dermaplane",
+      "uid": "ZONES:82",
+      "_ts": "2026-11-05T01:30:57.594Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-04T22:03:10.140Z",
+  "mirroredAt": "2026-11-05T01:30:57.839Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
