@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1277,
+      "label": "Genevieve Thanksgiving & Dec 10 tickets",
+      "uid": "SPIN_WHEEL:1277",
+      "_ts": "2026-11-05T02:18:02.060Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -20,9 +28,9 @@
       "_ts": "2026-11-05T02:17:57.034Z"
     }
   ],
-  "mirroredAt": "2026-11-05T02:17:57.332Z",
+  "mirroredAt": "2026-11-05T02:18:02.417Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 3
   }
 }
