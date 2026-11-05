@@ -413,13 +413,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1127,
-      "row": 33,
-      "label": "Review 7505 card actual balance, pay down???",
-      "uid": "SPIN:1127"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1157,
       "row": 38,
       "label": "Submit for viola rest",
@@ -977,10 +970,10 @@
       "uid": "TASKS:12165"
     }
   ],
-  "version": 3285,
-  "updated": "2026-11-05T03:40:29.870724+00:00",
+  "version": 3286,
+  "updated": "2026-11-05T04:06:40.055629+00:00",
   "buckets": {
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 77,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
