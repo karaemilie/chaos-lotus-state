@@ -988,12 +988,26 @@
       "sid": 1293,
       "label": "Pack rug up",
       "uid": "SPIN_WHEEL:1293"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1294,
+      "sid": 1294,
+      "label": "Pack window film",
+      "uid": "SPIN_WHEEL:1294"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1295,
+      "sid": 1295,
+      "label": "Buy new window film",
+      "uid": "SPIN_WHEEL:1295"
     }
   ],
-  "version": 3293,
-  "updated": "2026-11-05T08:55:09.779191+00:00",
+  "version": 3294,
+  "updated": "2026-11-05T08:55:13.037737+00:00",
   "buckets": {
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 82,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
