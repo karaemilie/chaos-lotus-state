@@ -1002,12 +1002,19 @@
       "sid": 1296,
       "label": "Set payment plans in Chase 7505",
       "uid": "SPIN_WHEEL:1296"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1297,
+      "sid": 1297,
+      "label": "Find discover card / call & pay",
+      "uid": "SPIN_WHEEL:1297"
     }
   ],
-  "version": 3297,
-  "updated": "2026-11-05T09:08:17.150148+00:00",
+  "version": 3298,
+  "updated": "2026-11-05T09:09:06.660834+00:00",
   "buckets": {
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 83,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
