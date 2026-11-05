@@ -838,19 +838,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12067,
-      "label": "\u2728 Review Evan's bedtime & adjust melatonin timing \ud83d\ude34\ud83d\udc8a",
-      "aw": 6,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": null,
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:12067"
-    },
-    {
-      "source": "TASKS",
       "id": 12341,
       "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
       "aw": 4,
@@ -988,10 +975,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12270"
+    },
+    {
+      "source": "TASKS",
+      "id": 12284,
+      "label": "Watch Ender's Game movie with the boys \ud83c\udfac\ud83d\ude80\ud83c\udf7f",
+      "aw": 5,
+      "pri": "Medium",
+      "dur": 120,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12284"
     }
   ],
-  "version": 3290,
-  "updated": "2026-11-05T07:41:07.725094+00:00",
+  "version": 3291,
+  "updated": "2026-11-05T08:35:03.481236+00:00",
   "buckets": {
     "SPIN_WHEEL": 80,
     "TASKS": 22,
