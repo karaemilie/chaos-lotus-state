@@ -341,16 +341,6 @@
       "uid": "SPIN:1165"
     },
     {
-      "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "row": 77,
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 134,
       "row": 137,
@@ -1002,10 +992,19 @@
       "sid": 1297,
       "label": "Find discover card / call & pay",
       "uid": "SPIN_WHEEL:1297"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
     }
   ],
-  "version": 3299,
-  "updated": "2026-11-05T09:10:45.677071+00:00",
+  "version": 3300,
+  "updated": "2026-11-05T09:16:39.036414+00:00",
   "buckets": {
     "SPIN_WHEEL": 82,
     "TASKS": 22,
