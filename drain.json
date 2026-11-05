@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-05T04:09:48.480Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Send Jake tracking number",
+      "_addedAt": "2026-11-05T04:10:15.339Z",
+      "_ts": "2026-11-05T04:10:15.529Z"
+    }
+  ],
+  "mirroredAt": "2026-11-05T04:10:15.782Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
