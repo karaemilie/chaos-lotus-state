@@ -954,12 +954,33 @@
       "sid": 1286,
       "label": "Rug return",
       "uid": "SPIN_WHEEL:1286"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1287,
+      "sid": 1287,
+      "label": "Garage ladder work",
+      "uid": "SPIN_WHEEL:1287"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1288,
+      "sid": 1288,
+      "label": "Ottoman plan / new bed frames",
+      "uid": "SPIN_WHEEL:1288"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1289,
+      "sid": 1289,
+      "label": "Flip library rug, more cleaning",
+      "uid": "SPIN_WHEEL:1289"
     }
   ],
-  "version": 3283,
-  "updated": "2026-11-05T02:19:22.021310+00:00",
+  "version": 3284,
+  "updated": "2026-11-05T02:19:25.339874+00:00",
   "buckets": {
-    "SPIN_WHEEL": 75,
+    "SPIN_WHEEL": 78,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
