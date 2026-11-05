@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-05T09:16:40.852Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Add clips to tractor cover",
+      "_addedAt": "2026-11-05T09:24:16.944Z",
+      "_ts": "2026-11-05T09:24:17.075Z"
+    }
+  ],
+  "mirroredAt": "2026-11-05T09:24:17.302Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-05T09:16:42.186070+00:00",
-  "lastAutoProcessed": [
-    "ZONES:75"
-  ]
+    "adds": 1
+  }
 }
