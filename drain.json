@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-05T01:39:57.079Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Set up Home Assistant",
+      "_addedAt": "2026-11-05T02:16:45.850Z",
+      "_ts": "2026-11-05T02:16:46.009Z"
+    }
+  ],
+  "mirroredAt": "2026-11-05T02:16:46.277Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-05T01:39:58.267972+00:00",
-  "lastAutoProcessed": [
-    "ZONES:8"
-  ]
+    "adds": 1
+  }
 }
