@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 9,
+      "zid": 8,
+      "floor": "Upstairs",
+      "label": "🧺 My Bedroom",
+      "uid": "ZONES:8",
+      "_ts": "2026-11-05T01:39:41.977Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-05T01:32:03.021Z",
+  "mirroredAt": "2026-11-05T01:39:42.292Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-05T01:32:04.262185+00:00",
-  "lastAutoProcessed": [
-    "ZONES:83"
-  ]
+  }
 }
