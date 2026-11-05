@@ -947,12 +947,19 @@
       "sid": 1283,
       "label": "Set up Home Assistant",
       "uid": "SPIN_WHEEL:1283"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1284,
+      "sid": 1284,
+      "label": "Install film in garage!",
+      "uid": "SPIN_WHEEL:1284"
     }
   ],
-  "version": 3279,
-  "updated": "2026-11-05T02:17:02.311270+00:00",
+  "version": 3280,
+  "updated": "2026-11-05T02:17:50.798757+00:00",
   "buckets": {
-    "SPIN_WHEEL": 74,
+    "SPIN_WHEEL": 75,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
