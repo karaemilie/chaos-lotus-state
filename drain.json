@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1286,
+      "label": "Rug return",
+      "uid": "SPIN_WHEEL:1286",
+      "_ts": "2026-11-05T08:54:37.156Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -20,9 +28,9 @@
       "_ts": "2026-11-05T08:54:35.206Z"
     }
   ],
-  "mirroredAt": "2026-11-05T08:54:35.437Z",
+  "mirroredAt": "2026-11-05T08:54:37.362Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 3
   }
 }
