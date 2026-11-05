@@ -988,12 +988,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:12284"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1293,
+      "sid": 1293,
+      "label": "Pack rug up",
+      "uid": "SPIN_WHEEL:1293"
     }
   ],
-  "version": 3291,
-  "updated": "2026-11-05T08:35:03.481236+00:00",
+  "version": 3292,
+  "updated": "2026-11-05T08:54:28.872358+00:00",
   "buckets": {
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 81,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
