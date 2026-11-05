@@ -846,19 +846,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11994,
-      "label": "\u2728 Charge the red candles \ud83d\udd6f\ufe0f\u2764\ufe0f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11994"
-    },
-    {
-      "source": "TASKS",
       "id": 12006,
       "label": "\u2728 Audit tasks with no start date + orphaned recurring tasks \ud83d\udccb\u2696\ufe0f",
       "aw": 4,
@@ -975,10 +962,23 @@
       "sid": 1289,
       "label": "Flip library rug, more cleaning",
       "uid": "SPIN_WHEEL:1289"
+    },
+    {
+      "source": "TASKS",
+      "id": 12165,
+      "label": "Go through rest of pillows and put them in allergen cases (mine too?)",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12165"
     }
   ],
-  "version": 3284,
-  "updated": "2026-11-05T02:19:25.339874+00:00",
+  "version": 3285,
+  "updated": "2026-11-05T03:40:29.870724+00:00",
   "buckets": {
     "SPIN_WHEEL": 78,
     "TASKS": 22,
