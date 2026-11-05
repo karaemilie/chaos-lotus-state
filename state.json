@@ -968,12 +968,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12165"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1290,
+      "sid": 1290,
+      "label": "Jake flight change",
+      "uid": "SPIN_WHEEL:1290"
     }
   ],
-  "version": 3286,
-  "updated": "2026-11-05T04:06:40.055629+00:00",
+  "version": 3287,
+  "updated": "2026-11-05T04:09:50.141497+00:00",
   "buckets": {
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 78,
     "TASKS": 22,
     "COURAGE": 4,
     "ZONES": 8,
