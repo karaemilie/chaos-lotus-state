@@ -15,34 +15,6 @@
       "uid": "SPIN:1147"
     },
     {
-      "source": "TASKS",
-      "id": 12098,
-      "row": 265,
-      "label": "\u2b50 Create a daily editor in chief type grammar practice \u270f\ufe0f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12098"
-    },
-    {
-      "source": "TASKS",
-      "id": 11708,
-      "row": 186,
-      "label": "\u2b50 Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Kids",
-      "critical": false,
-      "uid": "TASKS:11708"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1009,
       "row": 11,
@@ -62,20 +34,6 @@
       "row": 6,
       "label": "Fill a grout & caulk bin in garage, and a drywall & mud one",
       "uid": "SPIN:839"
-    },
-    {
-      "source": "TASKS",
-      "id": 11937,
-      "row": 225,
-      "label": "\u2b50 Project Genevieve loan requirement \ud83c\udf93\ud83d\udcb0",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11937"
     },
     {
       "source": "SPIN_WHEEL",
@@ -104,16 +62,6 @@
       "row": 56,
       "label": "Plug in iPhone to Xcode for Pansy! **",
       "uid": "SPIN:1230"
-    },
-    {
-      "source": "ZONES",
-      "zid": 82,
-      "floor": "Personal",
-      "row": 84,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Dermaplane",
-      "uid": "ZONES:82"
     },
     {
       "source": "SPIN_WHEEL",
@@ -322,20 +270,6 @@
       "row": 35,
       "label": "Consider pulling boys to cash 529s",
       "uid": "SPIN:1150"
-    },
-    {
-      "source": "TASKS",
-      "id": 12168,
-      "row": 281,
-      "label": "\u2b50 Install auto start-stop eliminator in the Subaru \ud83d\ude97\ud83d\udd27",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12168"
     },
     {
       "source": "MAINTENANCE",
@@ -594,20 +528,6 @@
       "row": 41,
       "label": "Bentley secondary essays",
       "uid": "SPIN:1166"
-    },
-    {
-      "source": "TASKS",
-      "id": 12295,
-      "row": 350,
-      "label": "\u2b50 Set up auto deploy with Cloudflare and GitHub",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12295"
     },
     {
       "source": "SPIN_WHEEL",
@@ -947,15 +867,89 @@
       "sid": 1282,
       "label": "Track info for Jake",
       "uid": "SPIN_WHEEL:1282"
+    },
+    {
+      "source": "ZONES",
+      "zid": 84,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Hand Care & Mani",
+      "uid": "ZONES:84"
+    },
+    {
+      "source": "TASKS",
+      "id": 11994,
+      "label": "\u2728 Charge the red candles \ud83d\udd6f\ufe0f\u2764\ufe0f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11994"
+    },
+    {
+      "source": "TASKS",
+      "id": 12006,
+      "label": "\u2728 Audit tasks with no start date + orphaned recurring tasks \ud83d\udccb\u2696\ufe0f",
+      "aw": 4,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12006"
+    },
+    {
+      "source": "TASKS",
+      "id": 12067,
+      "label": "\u2728 Review Evan's bedtime & adjust melatonin timing \ud83d\ude34\ud83d\udc8a",
+      "aw": 6,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": null,
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12067"
+    },
+    {
+      "source": "TASKS",
+      "id": 12341,
+      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12341"
+    },
+    {
+      "source": "TASKS",
+      "id": 12344,
+      "label": "\u2728 Refill vitamin boxes for Lincoln & Evan \ud83d\udc8a",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:12344"
     }
   ],
-  "version": 3275,
-  "updated": "2026-11-04T22:03:11.617448+00:00",
+  "version": 3276,
+  "updated": "2026-11-05T01:31:13.636398+00:00",
   "buckets": {
     "SPIN_WHEEL": 73,
     "TASKS": 22,
-    "ZONES": 8,
     "COURAGE": 4,
+    "ZONES": 8,
     "MAINTENANCE": 2
   }
 }
