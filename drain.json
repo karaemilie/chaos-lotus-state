@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 31,
+      "label": "Find my Capital 7165 card to map in Monarch",
+      "uid": "SPIN:1120",
+      "_ts": "2026-11-06T07:33:58.896Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-06T07:25:45.633Z",
+  "mirroredAt": "2026-11-06T07:33:59.255Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-06T07:25:47.037384+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1253"
-  ]
+  }
 }
