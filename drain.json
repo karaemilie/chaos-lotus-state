@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-06T07:57:22.825Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find and cancel Citi Strata card",
+      "_addedAt": "2026-11-06T08:19:15.152Z",
+      "_ts": "2026-11-06T08:19:15.842Z"
+    }
+  ],
+  "mirroredAt": "2026-11-06T08:19:16.203Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-06T07:57:24.050315+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12006"
-  ]
+    "adds": 1
+  }
 }
