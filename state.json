@@ -291,13 +291,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1094,
-      "row": 26,
-      "label": "Finish Monarch recurring sync up/ acct match",
-      "uid": "SPIN:1094"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1032,
       "row": 15,
       "label": "Next class into Minima w/L **",
@@ -1007,12 +1000,12 @@
       "uid": "SPIN_WHEEL:1300"
     }
   ],
-  "version": 3320,
-  "updated": "2026-11-06T08:19:29.364596+00:00",
+  "version": 3321,
+  "updated": "2026-11-06T08:20:35.228784+00:00",
   "buckets": {
     "TASKS": 22,
     "COURAGE": 4,
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 79,
     "ZONES": 8,
     "MAINTENANCE": 2
   }
