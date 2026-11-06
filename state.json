@@ -34,20 +34,6 @@
       "uid": "SPIN:1123"
     },
     {
-      "source": "TASKS",
-      "id": 12284,
-      "row": 336,
-      "label": "\u2b50 Watch Ender's Game movie with the boys \ud83c\udfac\ud83d\ude80\ud83c\udf7f",
-      "aw": 5,
-      "pri": "Medium",
-      "dur": 120,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:12284"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1191,
       "row": 40,
@@ -991,10 +977,23 @@
       "sid": 1300,
       "label": "Find and cancel Citi Strata card",
       "uid": "SPIN_WHEEL:1300"
+    },
+    {
+      "source": "TASKS",
+      "id": 11708,
+      "label": "Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11708"
     }
   ],
-  "version": 3322,
-  "updated": "2026-11-06T08:21:13.840413+00:00",
+  "version": 3323,
+  "updated": "2026-11-06T08:22:41.383929+00:00",
   "buckets": {
     "TASKS": 22,
     "COURAGE": 4,
