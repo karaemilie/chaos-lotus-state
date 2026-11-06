@@ -1,15 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1300,
+      "label": "Find real foil liner cupcakes",
+      "uid": "SPIN_WHEEL:1300",
+      "_ts": "2026-11-06T07:50:54.566Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-06T07:37:28.741Z",
+  "mirroredAt": "2026-11-06T07:50:54.814Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-06T07:37:29.979987+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1301",
-    "SPIN_WHEEL:1287",
-    "SPIN_WHEEL:1284"
-  ]
+  }
 }
