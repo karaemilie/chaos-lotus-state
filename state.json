@@ -210,16 +210,6 @@
       "uid": "SPIN:1074"
     },
     {
-      "source": "ZONES",
-      "zid": 40,
-      "floor": "Main Floor",
-      "row": 41,
-      "label": "\ud83e\uddfa Subaru",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Subaru",
-      "uid": "ZONES:40"
-    },
-    {
       "source": "TASKS",
       "id": 12225,
       "row": 309,
@@ -1021,15 +1011,24 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Wash towels",
       "uid": "MAINTENANCE:135"
+    },
+    {
+      "source": "ZONES",
+      "zid": 41,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Half Bath",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Half Bath",
+      "uid": "ZONES:41"
     }
   ],
-  "version": 3304,
-  "updated": "2026-11-06T03:44:31.566297+00:00",
+  "version": 3305,
+  "updated": "2026-11-06T03:45:24.516177+00:00",
   "buckets": {
     "SPIN_WHEEL": 85,
     "TASKS": 22,
     "COURAGE": 4,
-    "ZONES": 8,
-    "MAINTENANCE": 2
+    "MAINTENANCE": 2,
+    "ZONES": 8
   }
 }
