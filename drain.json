@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 62,
+      "label": "Sign up for the vocab app",
+      "uid": "SPIN:1253",
+      "_ts": "2026-11-06T07:25:31.617Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-06T07:09:44.031Z",
+  "mirroredAt": "2026-11-06T07:25:31.979Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-06T07:09:45.504555+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12303",
-    "TASKS:12225"
-  ]
+  }
 }
