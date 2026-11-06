@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 28,
+      "label": "Finish Monarch recurring sync up/ acct match",
+      "uid": "SPIN:1094",
+      "_ts": "2026-11-06T08:20:22.146Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-06T08:19:27.598Z",
+  "mirroredAt": "2026-11-06T08:20:22.498Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
