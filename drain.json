@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12303,
+      "row": 358,
+      "label": "✨ Put on new tattoo",
+      "uid": "TASKS:12303",
+      "_ts": "2026-11-06T07:08:59.254Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12225,
+      "row": 309,
+      "label": "✨ Pick new book from Audible / Kindle Unlimited partnership 📚🎧",
+      "uid": "TASKS:12225",
+      "_ts": "2026-11-06T07:09:30.434Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-06T07:09:12.355Z",
+  "mirroredAt": "2026-11-06T07:09:30.723Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-11-06T07:09:13.626574+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12303"
-  ]
+  }
 }
