@@ -1,13 +1,33 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-06T08:20:37.578Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 28,
+      "label": "Finish Monarch recurring sync up/ acct match",
+      "uid": "SPIN:1094",
+      "_ts": "2026-11-06T08:20:22.146Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Program garage doors into my vehicle",
+      "_addedAt": "2026-11-06T08:21:01.769Z",
+      "promote": {
+        "fromUid": "SPIN:1246",
+        "sid": 1246,
+        "label": "Program garage doors into my vehicle",
+        "origLabel": "Program garage doors into my vehicle",
+        "start": "2027-04-06",
+        "category": "Home",
+        "aw": 6
+      },
+      "_ts": "2026-11-06T08:21:02.016Z"
+    }
+  ],
+  "mirroredAt": "2026-11-06T08:21:02.288Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-06T08:20:38.991126+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1094"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
