@@ -755,24 +755,10 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1284,
-      "sid": 1284,
-      "label": "Install film in garage!",
-      "uid": "SPIN_WHEEL:1284"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1285,
       "sid": 1285,
       "label": "Genevieve Thanksgiving and evening Dec 10 ticket",
       "uid": "SPIN_WHEEL:1285"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1287,
-      "sid": 1287,
-      "label": "Garage ladder work",
-      "uid": "SPIN_WHEEL:1287"
     },
     {
       "source": "SPIN_WHEEL",
@@ -998,10 +984,10 @@
       "uid": "TASKS:12168"
     }
   ],
-  "version": 3313,
-  "updated": "2026-11-06T07:37:00.418232+00:00",
+  "version": 3314,
+  "updated": "2026-11-06T07:37:27.288940+00:00",
   "buckets": {
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 80,
     "TASKS": 22,
     "COURAGE": 4,
     "MAINTENANCE": 2,
