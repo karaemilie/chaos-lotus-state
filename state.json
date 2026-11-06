@@ -1019,12 +1019,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook B",
       "uid": "ZONES:77"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1301,
+      "sid": 1301,
+      "label": "Flip the rug \ud83d\ude2c",
+      "uid": "SPIN_WHEEL:1301"
     }
   ],
-  "version": 3306,
-  "updated": "2026-11-06T04:47:22.887500+00:00",
+  "version": 3307,
+  "updated": "2026-11-06T04:51:55.739600+00:00",
   "buckets": {
-    "SPIN_WHEEL": 85,
+    "SPIN_WHEEL": 86,
     "TASKS": 22,
     "COURAGE": 4,
     "MAINTENANCE": 2,
