@@ -276,13 +276,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1120,
-      "row": 31,
-      "label": "Find my Capital 7165 card to map in Monarch",
-      "uid": "SPIN:1120"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1229,
       "row": 55,
       "label": "Print Derek Owen TOC for Algebra x 2 **",
@@ -1012,10 +1005,10 @@
       "uid": "TASKS:12168"
     }
   ],
-  "version": 3311,
-  "updated": "2026-11-06T07:25:44.193432+00:00",
+  "version": 3312,
+  "updated": "2026-11-06T07:34:15.585598+00:00",
   "buckets": {
-    "SPIN_WHEEL": 84,
+    "SPIN_WHEEL": 83,
     "TASKS": 22,
     "COURAGE": 4,
     "MAINTENANCE": 2,
