@@ -196,20 +196,6 @@
       "uid": "SPIN:1074"
     },
     {
-      "source": "TASKS",
-      "id": 12225,
-      "row": 309,
-      "label": "\u2728 Pick new book from Audible / Kindle Unlimited partnership \ud83d\udcda\ud83c\udfa7",
-      "aw": 5,
-      "pri": "Medium",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12225"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 337,
       "row": 2,
@@ -1018,10 +1004,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12312"
+    },
+    {
+      "source": "TASKS",
+      "id": 12168,
+      "label": "Install auto start-stop eliminator in the Subaru \ud83d\ude97\ud83d\udd27",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12168"
     }
   ],
-  "version": 3309,
-  "updated": "2026-11-06T07:09:09.430293+00:00",
+  "version": 3310,
+  "updated": "2026-11-06T07:09:40.923713+00:00",
   "buckets": {
     "SPIN_WHEEL": 85,
     "TASKS": 22,
