@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 137,
+      "label": "🏠 Scrub cats food bowl",
+      "uid": "MAINTENANCE:134",
+      "_ts": "2026-11-06T03:44:16.175Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-06T00:12:45.288Z",
+  "mirroredAt": "2026-11-06T03:44:16.521Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
