@@ -439,16 +439,6 @@
       "uid": "SPIN:1123"
     },
     {
-      "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "row": 76,
-      "label": "\ud83c\udf31 Family Room Plants",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Plants",
-      "uid": "ZONES:74"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1202,
       "row": 50,
@@ -1020,10 +1010,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Half Bath",
       "uid": "ZONES:41"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
     }
   ],
-  "version": 3305,
-  "updated": "2026-11-06T03:45:24.516177+00:00",
+  "version": 3306,
+  "updated": "2026-11-06T04:47:22.887500+00:00",
   "buckets": {
     "SPIN_WHEEL": 85,
     "TASKS": 22,
