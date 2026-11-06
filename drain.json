@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-06T04:47:24.336Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Flip the rug 😬",
+      "_addedAt": "2026-11-06T04:51:37.793Z",
+      "_ts": "2026-11-06T04:51:37.938Z"
+    }
+  ],
+  "mirroredAt": "2026-11-06T04:51:38.179Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-06T04:47:25.667267+00:00",
-  "lastAutoProcessed": [
-    "ZONES:74"
-  ]
+    "adds": 1
+  }
 }
