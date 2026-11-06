@@ -6,12 +6,21 @@
       "label": "🏠 Scrub cats food bowl",
       "uid": "MAINTENANCE:134",
       "_ts": "2026-11-06T03:44:16.175Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 41,
+      "zid": 40,
+      "floor": "Main Floor",
+      "label": "🧺 Subaru",
+      "uid": "ZONES:40",
+      "_ts": "2026-11-06T03:44:27.731Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-06T03:44:16.521Z",
+  "mirroredAt": "2026-11-06T03:44:28.178Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
