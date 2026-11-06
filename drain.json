@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12006,
+      "label": "✨ Audit tasks with no start date + orphaned recurring tasks 📋⚖️",
+      "uid": "TASKS:12006",
+      "_ts": "2026-11-06T07:57:08.166Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-06T07:51:08.154Z",
+  "mirroredAt": "2026-11-06T07:57:08.590Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-06T07:51:09.352056+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1300"
-  ]
+  }
 }
