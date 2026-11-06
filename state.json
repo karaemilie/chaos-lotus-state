@@ -95,20 +95,6 @@
       "uid": "TASKS:11216"
     },
     {
-      "source": "TASKS",
-      "id": 12303,
-      "row": 358,
-      "label": "\u2728 Put on new tattoo",
-      "aw": 4,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12303"
-    },
-    {
       "source": "COURAGE",
       "parentId": 12253,
       "parentRow": 321,
@@ -1019,10 +1005,23 @@
       "sid": 1301,
       "label": "Flip the rug \ud83d\ude2c",
       "uid": "SPIN_WHEEL:1301"
+    },
+    {
+      "source": "TASKS",
+      "id": 12312,
+      "label": "Put new security stickers on the windows \ud83e\ude9f\ud83d\udee1\ufe0f",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12312"
     }
   ],
-  "version": 3308,
-  "updated": "2026-11-06T07:00:03.835935+00:00",
+  "version": 3309,
+  "updated": "2026-11-06T07:09:09.430293+00:00",
   "buckets": {
     "SPIN_WHEEL": 85,
     "TASKS": 22,
