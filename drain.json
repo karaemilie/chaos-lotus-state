@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1301,
+      "label": "Flip the rug 😬",
+      "uid": "SPIN_WHEEL:1301",
+      "_ts": "2026-11-06T07:36:47.288Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-06T07:34:17.059Z",
+  "mirroredAt": "2026-11-06T07:36:47.658Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-06T07:34:18.458332+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1120"
-  ]
+  }
 }
