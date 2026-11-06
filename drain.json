@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12303,
+      "row": 358,
+      "label": "✨ Put on new tattoo",
+      "uid": "TASKS:12303",
+      "_ts": "2026-11-06T07:08:59.254Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-06T07:00:05.390Z",
+  "mirroredAt": "2026-11-06T07:08:59.522Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-06T07:00:06.750503+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1289"
-  ]
+  }
 }
