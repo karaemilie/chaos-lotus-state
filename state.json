@@ -972,13 +972,6 @@
       "uid": "ZONES:77"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1301,
-      "sid": 1301,
-      "label": "Flip the rug \ud83d\ude2c",
-      "uid": "SPIN_WHEEL:1301"
-    },
-    {
       "source": "TASKS",
       "id": 12312,
       "label": "Put new security stickers on the windows \ud83e\ude9f\ud83d\udee1\ufe0f",
@@ -1005,10 +998,10 @@
       "uid": "TASKS:12168"
     }
   ],
-  "version": 3312,
-  "updated": "2026-11-06T07:34:15.585598+00:00",
+  "version": 3313,
+  "updated": "2026-11-06T07:37:00.418232+00:00",
   "buckets": {
-    "SPIN_WHEEL": 83,
+    "SPIN_WHEEL": 82,
     "TASKS": 22,
     "COURAGE": 4,
     "MAINTENANCE": 2,
