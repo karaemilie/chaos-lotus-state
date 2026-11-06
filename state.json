@@ -691,19 +691,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12006,
-      "label": "\u2728 Audit tasks with no start date + orphaned recurring tasks \ud83d\udccb\u2696\ufe0f",
-      "aw": 4,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12006"
-    },
-    {
-      "source": "TASKS",
       "id": 12341,
       "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
       "aw": 4,
@@ -975,10 +962,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12168"
+    },
+    {
+      "source": "TASKS",
+      "id": 11896,
+      "label": "posykin handle \ud83d\udcb8",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11896"
     }
   ],
-  "version": 3315,
-  "updated": "2026-11-06T07:51:06.820463+00:00",
+  "version": 3316,
+  "updated": "2026-11-06T07:57:19.760013+00:00",
   "buckets": {
     "SPIN_WHEEL": 79,
     "TASKS": 22,
