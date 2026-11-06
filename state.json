@@ -341,15 +341,6 @@
       "uid": "SPIN:1165"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 134,
-      "row": 137,
-      "label": "\ud83c\udfe0 Scrub cats food bowl",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Scrub cats food bowl",
-      "uid": "MAINTENANCE:134"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 900,
       "row": 7,
@@ -1022,10 +1013,18 @@
       "sid": 1300,
       "label": "Find real foil liner cupcakes",
       "uid": "SPIN_WHEEL:1300"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 135,
+      "label": "\ud83c\udfe0 Wash towels",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Wash towels",
+      "uid": "MAINTENANCE:135"
     }
   ],
-  "version": 3303,
-  "updated": "2026-11-06T00:12:46.968625+00:00",
+  "version": 3304,
+  "updated": "2026-11-06T03:44:31.566297+00:00",
   "buckets": {
     "SPIN_WHEEL": 85,
     "TASKS": 22,
