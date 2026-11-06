@@ -574,13 +574,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1253,
-      "row": 62,
-      "label": "Sign up for the vocab app",
-      "uid": "SPIN:1253"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1227,
       "row": 54,
       "label": "Sell bunk bed A",
@@ -1019,10 +1012,10 @@
       "uid": "TASKS:12168"
     }
   ],
-  "version": 3310,
-  "updated": "2026-11-06T07:09:40.923713+00:00",
+  "version": 3311,
+  "updated": "2026-11-06T07:25:44.193432+00:00",
   "buckets": {
-    "SPIN_WHEEL": 85,
+    "SPIN_WHEEL": 84,
     "TASKS": 22,
     "COURAGE": 4,
     "MAINTENANCE": 2,
