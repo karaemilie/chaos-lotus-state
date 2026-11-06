@@ -925,13 +925,6 @@
       "uid": "SPIN_WHEEL:1299"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1300,
-      "sid": 1300,
-      "label": "Find real foil liner cupcakes",
-      "uid": "SPIN_WHEEL:1300"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 135,
       "label": "\ud83c\udfe0 Wash towels",
@@ -984,10 +977,10 @@
       "uid": "TASKS:12168"
     }
   ],
-  "version": 3314,
-  "updated": "2026-11-06T07:37:27.288940+00:00",
+  "version": 3315,
+  "updated": "2026-11-06T07:51:06.820463+00:00",
   "buckets": {
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 79,
     "TASKS": 22,
     "COURAGE": 4,
     "MAINTENANCE": 2,
