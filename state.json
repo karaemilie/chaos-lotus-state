@@ -865,13 +865,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1295,
-      "row": 76,
-      "label": "Buy new window film",
-      "uid": "SPIN:1295"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1268,
       "row": 57,
       "label": "Move the garden stuff",
@@ -1010,11 +1003,11 @@
       "uid": "SPIN_WHEEL:1303"
     }
   ],
-  "version": 3328,
-  "updated": "2026-11-07T06:42:15.089009+00:00",
+  "version": 3329,
+  "updated": "2026-11-07T07:09:19.329888+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 80,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
