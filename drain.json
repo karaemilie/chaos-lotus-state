@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-07T07:09:21.183Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Gather docs to get Evan learner permit",
+      "_addedAt": "2026-11-07T07:11:04.835Z",
+      "_ts": "2026-11-07T07:11:05.328Z"
+    }
+  ],
+  "mirroredAt": "2026-11-07T07:11:05.680Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-07T07:09:22.577072+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1295"
-  ]
+    "adds": 1
+  }
 }
