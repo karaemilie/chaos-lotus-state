@@ -792,20 +792,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12325,
-      "row": 365,
-      "label": "\u2728 Send text update to mother-in-law \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:12325"
-    },
-    {
-      "source": "TASKS",
       "id": 12306,
       "row": 350,
       "label": "\u2728 Check in on Pura scents - time to refresh?",
@@ -862,13 +848,6 @@
       "row": 10,
       "label": "Boys Paint Project!!",
       "uid": "SPIN:954"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1280,
-      "row": 65,
-      "label": "Measure how much closet maid shelf brackets I have / need **",
-      "uid": "SPIN:1280"
     },
     {
       "source": "TASKS",
@@ -1008,13 +987,26 @@
       "sid": 1306,
       "label": "Measure size of new small Costco bins",
       "uid": "SPIN_WHEEL:1306"
+    },
+    {
+      "source": "TASKS",
+      "id": 11421,
+      "label": "Finish fixing sand table",
+      "aw": 5,
+      "pri": null,
+      "dur": 30,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11421"
     }
   ],
-  "version": 3334,
-  "updated": "2026-11-07T08:49:17.184345+00:00",
+  "version": 3335,
+  "updated": "2026-11-07T08:49:58.881800+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 80,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
