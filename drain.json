@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-07T06:41:41.561Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Reorg USPS garage boxes",
+      "_addedAt": "2026-11-07T06:41:55.237Z",
+      "_ts": "2026-11-07T06:41:55.384Z"
+    }
+  ],
+  "mirroredAt": "2026-11-07T06:41:55.605Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-07T06:41:42.821354+00:00",
-  "lastAutoProcessed": [
-    "ZONES:69"
-  ]
+    "adds": 1
+  }
 }
