@@ -27,20 +27,6 @@
       "uid": "SPIN:1191"
     },
     {
-      "source": "TASKS",
-      "id": 12332,
-      "row": 371,
-      "label": "\u2b50 Hilltop pass",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12332"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 484,
       "row": 3,
@@ -180,20 +166,6 @@
       "uid": "SPIN:1088"
     },
     {
-      "source": "TASKS",
-      "id": 11963,
-      "row": 236,
-      "label": "\u2b50 Put 30-day channel launch timeline on physical calendar + pull stickers \ud83d\udcc5",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11963"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1119,
       "row": 27,
@@ -302,20 +274,6 @@
       "uid": "SPIN:1278"
     },
     {
-      "source": "TASKS",
-      "id": 12232,
-      "row": 308,
-      "label": "\u2b50 More work grammar app",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12232"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1147,
       "row": 29,
@@ -422,20 +380,6 @@
       "row": 67,
       "label": "Track info for Jake",
       "uid": "SPIN:1282"
-    },
-    {
-      "source": "TASKS",
-      "id": 11941,
-      "row": 227,
-      "label": "\u2b50 Test prep plan for Lincoln \ud83d\udcda",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:11941"
     },
     {
       "source": "SPIN_WHEEL",
@@ -765,18 +709,6 @@
       "uid": "SPIN:1093"
     },
     {
-      "source": "COURAGE",
-      "parentId": 11002,
-      "parentRow": 120,
-      "parentLabel": "Book Genevieve Christmas here & return tickets \u2708\ufe0f\ud83c\udf84 \ud83d\udcdd",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": null,
-      "label": "\ud83d\udd25 Book Genevieve Christmas here & return tickets \u2708\ufe0f\ud83c\udf84 \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:11002:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1279,
       "row": 64,
@@ -1000,10 +932,73 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11421"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 12063,
+      "stepIndex": 0,
+      "parentLabel": "Submit rock gym to FPCS",
+      "aw": 2,
+      "due": "2026-08-04",
+      "label": "\ud83d\udd25 Submit rock gym to FPCS",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:12063:0"
+    },
+    {
+      "source": "TASKS",
+      "id": 12323,
+      "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12323"
+    },
+    {
+      "source": "TASKS",
+      "id": 12343,
+      "label": "\u2728 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12343"
+    },
+    {
+      "source": "TASKS",
+      "id": 12351,
+      "label": "\u2728 Plan for Tim's Delta companion ticket \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12351"
+    },
+    {
+      "source": "TASKS",
+      "id": 12375,
+      "label": "\u2728 Recharge my twinkle stars \u2728\ud83d\udd0b",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12375"
     }
   ],
-  "version": 3335,
-  "updated": "2026-11-07T08:49:58.881800+00:00",
+  "version": 3336,
+  "updated": "2026-11-07T09:29:17.890190+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 80,
