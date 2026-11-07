@@ -222,13 +222,6 @@
       "uid": "SPIN:1242"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1205,
-      "row": 43,
-      "label": "Add tacks to the new curtains!",
-      "uid": "SPIN:1205"
-    },
-    {
       "source": "TASKS",
       "id": 12342,
       "row": 380,
@@ -1010,11 +1003,11 @@
       "uid": "SPIN_WHEEL:1305"
     }
   ],
-  "version": 3332,
-  "updated": "2026-11-07T07:32:28.406047+00:00",
+  "version": 3333,
+  "updated": "2026-11-07T07:33:09.234436+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 80,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
