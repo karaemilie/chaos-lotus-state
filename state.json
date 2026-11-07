@@ -995,13 +995,20 @@
       "sid": 1301,
       "label": "Talk to Evan about his gaming. And about boundaries",
       "uid": "SPIN_WHEEL:1301"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1302,
+      "sid": 1302,
+      "label": "More pillow covers",
+      "uid": "SPIN_WHEEL:1302"
     }
   ],
-  "version": 3325,
-  "updated": "2026-11-07T04:44:52.572424+00:00",
+  "version": 3326,
+  "updated": "2026-11-07T05:29:47.581952+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 79,
+    "SPIN_WHEEL": 80,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
