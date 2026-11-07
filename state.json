@@ -1001,13 +1001,20 @@
       "sid": 1303,
       "label": "Reorg USPS garage boxes",
       "uid": "SPIN_WHEEL:1303"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1304,
+      "sid": 1304,
+      "label": "Gather docs to get Evan learner permit",
+      "uid": "SPIN_WHEEL:1304"
     }
   ],
-  "version": 3329,
-  "updated": "2026-11-07T07:09:19.329888+00:00",
+  "version": 3330,
+  "updated": "2026-11-07T07:11:18.136167+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 81,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
