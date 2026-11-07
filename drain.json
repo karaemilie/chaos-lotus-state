@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 138,
+      "label": "🏠 Wash towels",
+      "uid": "MAINTENANCE:135",
+      "_ts": "2026-11-07T04:38:36.007Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-06T08:22:44.295Z",
+  "mirroredAt": "2026-11-07T04:38:36.405Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-06T08:22:45.736533+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12284"
-  ]
+  }
 }
