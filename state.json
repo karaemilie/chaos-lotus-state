@@ -1001,13 +1001,20 @@
       "sid": 1305,
       "label": "Curtain tassels for library",
       "uid": "SPIN_WHEEL:1305"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1306,
+      "sid": 1306,
+      "label": "Measure size of new small Costco bins",
+      "uid": "SPIN_WHEEL:1306"
     }
   ],
-  "version": 3333,
-  "updated": "2026-11-07T07:33:09.234436+00:00",
+  "version": 3334,
+  "updated": "2026-11-07T08:49:17.184345+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 81,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
