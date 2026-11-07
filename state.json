@@ -302,16 +302,6 @@
       "uid": "SPIN:1150"
     },
     {
-      "source": "ZONES",
-      "zid": 69,
-      "floor": "Digital",
-      "row": 70,
-      "label": "\ud83d\udcbb Reviews",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Reviews",
-      "uid": "ZONES:69"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1278,
       "row": 63,
@@ -1002,10 +992,19 @@
       "sid": 1302,
       "label": "More pillow covers",
       "uid": "SPIN_WHEEL:1302"
+    },
+    {
+      "source": "ZONES",
+      "zid": 70,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb AmazonCart",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "AmazonCart",
+      "uid": "ZONES:70"
     }
   ],
-  "version": 3326,
-  "updated": "2026-11-07T05:29:47.581952+00:00",
+  "version": 3327,
+  "updated": "2026-11-07T06:41:40.164009+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 80,
