@@ -668,13 +668,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1292,
-      "row": 73,
-      "label": "Change Bentley January ticket",
-      "uid": "SPIN:1292"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1268,
       "row": 57,
       "label": "Move the garden stuff",
@@ -991,11 +984,11 @@
       "uid": "TASKS:11094"
     }
   ],
-  "version": 3352,
-  "updated": "2026-11-08T07:12:55.918794+00:00",
+  "version": 3353,
+  "updated": "2026-11-08T08:48:04.449297+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 79,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
