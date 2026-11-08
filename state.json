@@ -480,13 +480,6 @@
       "uid": "SPIN:1196"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 555,
-      "row": 5,
-      "label": "Install tile",
-      "uid": "SPIN:555"
-    },
-    {
       "source": "TASKS",
       "id": 11216,
       "row": 136,
@@ -1001,11 +994,11 @@
       "uid": "SPIN_WHEEL:1310"
     }
   ],
-  "version": 3348,
-  "updated": "2026-11-08T02:09:48.232013+00:00",
+  "version": 3349,
+  "updated": "2026-11-08T02:11:07.427781+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 80,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
