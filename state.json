@@ -244,13 +244,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1189,
-      "row": 39,
-      "label": "Guest room at Christmas",
-      "uid": "SPIN:1189"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 337,
       "row": 2,
       "label": "Log into Higgsfield on computer**",
@@ -952,11 +945,11 @@
       "uid": "TASKS:12348"
     }
   ],
-  "version": 3359,
-  "updated": "2026-11-08T09:04:23.245709+00:00",
+  "version": 3360,
+  "updated": "2026-11-08T09:05:16.004071+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 75,
+    "SPIN_WHEEL": 74,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
