@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-07T09:29:20.915Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order new bed frames again 😬",
+      "_addedAt": "2026-11-08T00:27:42.332Z",
+      "_ts": "2026-11-08T00:27:42.654Z"
+    }
+  ],
+  "mirroredAt": "2026-11-08T00:27:42.992Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-07T09:29:21.909182+00:00",
-  "lastAutoProcessed": [
-    "COURAGE:11002:0"
-  ]
+    "adds": 1
+  }
 }
