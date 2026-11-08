@@ -330,13 +330,6 @@
       "uid": "SPIN:1262"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1272,
-      "row": 60,
-      "label": "Check Bentley email for Golden Son **",
-      "uid": "SPIN:1272"
-    },
-    {
       "source": "TASKS",
       "id": 12329,
       "row": 368,
@@ -1001,11 +994,11 @@
       "uid": "MAINTENANCE:137"
     }
   ],
-  "version": 3346,
-  "updated": "2026-11-08T02:09:01.901135+00:00",
+  "version": 3347,
+  "updated": "2026-11-08T02:09:45.776200+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 80,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
