@@ -768,15 +768,6 @@
       "uid": "ZONES:76"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 131,
-      "row": 134,
-      "label": "\ud83c\udfe0 Dust spray on stair iron",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Dust spray on stair iron",
-      "uid": "MAINTENANCE:131"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1065,
       "row": 18,
@@ -1000,10 +991,18 @@
       "sid": 1309,
       "label": "Look at school widget w/Linc",
       "uid": "SPIN_WHEEL:1309"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 137,
+      "label": "\ud83c\udfe0 Vacuum the upstairs stairs",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Vacuum the upstairs stairs",
+      "uid": "MAINTENANCE:137"
     }
   ],
-  "version": 3345,
-  "updated": "2026-11-08T01:14:20.398079+00:00",
+  "version": 3346,
+  "updated": "2026-11-08T02:09:01.901135+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 81,
