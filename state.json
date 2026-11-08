@@ -362,13 +362,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1288,
-      "row": 70,
-      "label": "Ottoman plan / new bed frames",
-      "uid": "SPIN:1288"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1298,
       "row": 79,
       "label": "Add clips to tractor cover",
@@ -997,11 +990,11 @@
       "uid": "SPIN_WHEEL:1307"
     }
   ],
-  "version": 3338,
-  "updated": "2026-11-08T00:29:01.117020+00:00",
+  "version": 3339,
+  "updated": "2026-11-08T00:29:43.498346+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 79,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
