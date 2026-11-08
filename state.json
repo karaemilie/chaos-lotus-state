@@ -968,13 +968,20 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11094"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1311,
+      "sid": 1311,
+      "label": "Call Discover for balance",
+      "uid": "SPIN_WHEEL:1311"
     }
   ],
-  "version": 3354,
-  "updated": "2026-11-08T08:48:52.292947+00:00",
+  "version": 3355,
+  "updated": "2026-11-08T08:48:55.481339+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 78,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
