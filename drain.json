@@ -15,11 +15,17 @@
         "aw": 2
       },
       "_ts": "2026-11-08T08:47:48.828Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Call Discover for balance",
+      "_addedAt": "2026-11-08T08:48:03.337Z",
+      "_ts": "2026-11-08T08:48:03.477Z"
     }
   ],
-  "mirroredAt": "2026-11-08T08:47:49.068Z",
+  "mirroredAt": "2026-11-08T08:48:03.688Z",
   "counts": {
     "completions": 0,
-    "adds": 1
+    "adds": 2
   }
 }
