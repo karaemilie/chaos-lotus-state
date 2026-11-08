@@ -1,14 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 63,
+      "label": "Next step new handy man",
+      "uid": "SPIN:1278",
+      "_ts": "2026-11-08T09:04:11.790Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-08T08:51:09.999Z",
+  "mirroredAt": "2026-11-08T09:04:12.143Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-08T08:51:11.159199+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1252",
-    "TASKS:12342"
-  ]
+  }
 }
