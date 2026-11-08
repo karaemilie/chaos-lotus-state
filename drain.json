@@ -1,13 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-08T02:11:08.694Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Set up teeth cleanings 🦷🪥",
+      "_addedAt": "2026-11-08T05:49:15.133Z",
+      "reschedule": {
+        "uid": "TASKS:12058",
+        "id": 12058,
+        "label": "✨ Set up teeth cleanings 🦷🪥",
+        "start": "2026-11-10"
+      },
+      "_ts": "2026-11-08T05:49:15.576Z"
+    }
+  ],
+  "mirroredAt": "2026-11-08T05:49:15.989Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-08T02:11:09.943985+00:00",
-  "lastAutoProcessed": [
-    "SPIN:555"
-  ]
+    "adds": 1
+  }
 }
