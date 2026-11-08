@@ -8,10 +8,17 @@
       "_ts": "2026-11-08T02:08:48.440Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-11-08T02:08:48.831Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Fill a cheese glass of black enamel paint",
+      "_addedAt": "2026-11-08T02:09:02.143Z",
+      "_ts": "2026-11-08T02:09:02.278Z"
+    }
+  ],
+  "mirroredAt": "2026-11-08T02:09:02.519Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
