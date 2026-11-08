@@ -351,13 +351,6 @@
       "uid": "SPIN:1298"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1282,
-      "row": 67,
-      "label": "Track info for Jake",
-      "uid": "SPIN:1282"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10162,
       "parentRow": 34,
@@ -368,13 +361,6 @@
       "label": "\ud83d\udd25 Review Jake's 529 investments with him \ud83d\udcdd",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:10162:0"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1291,
-      "row": 72,
-      "label": "Send Jake tracking number",
-      "uid": "SPIN:1291"
     },
     {
       "source": "SPIN_WHEEL",
@@ -984,11 +970,11 @@
       "uid": "TASKS:11094"
     }
   ],
-  "version": 3353,
-  "updated": "2026-11-08T08:48:04.449297+00:00",
+  "version": 3354,
+  "updated": "2026-11-08T08:48:52.292947+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 79,
+    "SPIN_WHEEL": 77,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
