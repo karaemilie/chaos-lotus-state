@@ -1,13 +1,25 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-08T07:12:59.521Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Change Bentley January ticket",
+      "_addedAt": "2026-11-08T08:47:48.536Z",
+      "promote": {
+        "fromUid": "SPIN:1292",
+        "sid": 1292,
+        "label": "Change Bentley January ticket",
+        "origLabel": "Change Bentley January ticket",
+        "start": "2026-11-09",
+        "category": "Finance",
+        "aw": 2
+      },
+      "_ts": "2026-11-08T08:47:48.828Z"
+    }
+  ],
+  "mirroredAt": "2026-11-08T08:47:49.068Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-08T07:13:00.630636+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12306"
-  ]
+    "adds": 1
+  }
 }
