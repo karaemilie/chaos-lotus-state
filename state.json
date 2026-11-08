@@ -459,20 +459,6 @@
       "uid": "SPIN:1290"
     },
     {
-      "source": "TASKS",
-      "id": 12058,
-      "row": 250,
-      "label": "\u2728 Set up teeth cleanings \ud83e\uddb7\ud83e\udea5",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:12058"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1196,
       "row": 41,
@@ -992,10 +978,23 @@
       "sid": 1310,
       "label": "Fill a cheese glass of black enamel paint",
       "uid": "SPIN_WHEEL:1310"
+    },
+    {
+      "source": "TASKS",
+      "id": 10788,
+      "label": "Contact The Music Man about cello buybacks",
+      "aw": 3,
+      "pri": "High",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10788"
     }
   ],
-  "version": 3349,
-  "updated": "2026-11-08T02:11:07.427781+00:00",
+  "version": 3350,
+  "updated": "2026-11-08T05:49:28.578627+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 80,
