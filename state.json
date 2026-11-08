@@ -536,20 +536,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12193,
-      "row": 292,
-      "label": "\u2728 Monthly pill box fill time",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12193"
-    },
-    {
-      "source": "TASKS",
       "id": 12190,
       "row": 289,
       "label": "\u2728 Deep clean cat litter \ud83d\udc31\ud83e\uddfc",
@@ -991,10 +977,23 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10788"
+    },
+    {
+      "source": "TASKS",
+      "id": 12071,
+      "label": "Get back to my Mel Robbins books \ud83d\udcda",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12071"
     }
   ],
-  "version": 3350,
-  "updated": "2026-11-08T05:49:28.578627+00:00",
+  "version": 3351,
+  "updated": "2026-11-08T05:50:04.489313+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 80,
