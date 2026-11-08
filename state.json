@@ -995,13 +995,20 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12375"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1307,
+      "sid": 1307,
+      "label": "Order new bed frames again \ud83d\ude2c",
+      "uid": "SPIN_WHEEL:1307"
     }
   ],
-  "version": 3336,
-  "updated": "2026-11-07T09:29:17.890190+00:00",
+  "version": 3337,
+  "updated": "2026-11-08T00:27:56.562118+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 81,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
