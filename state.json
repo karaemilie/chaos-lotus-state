@@ -643,20 +643,6 @@
       "uid": "SPIN:1208"
     },
     {
-      "source": "TASKS",
-      "id": 12306,
-      "row": 350,
-      "label": "\u2728 Check in on Pura scents - time to refresh?",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12306"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1238,
       "row": 50,
@@ -990,10 +976,23 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12071"
+    },
+    {
+      "source": "TASKS",
+      "id": 11094,
+      "label": "Second Safari pest treatment application \ud83c\udf3f",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11094"
     }
   ],
-  "version": 3351,
-  "updated": "2026-11-08T05:50:04.489313+00:00",
+  "version": 3352,
+  "updated": "2026-11-08T07:12:55.918794+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 80,
