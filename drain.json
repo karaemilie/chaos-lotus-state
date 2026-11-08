@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 59,
+      "label": "See if our home ins covers Ting Fire devices",
+      "uid": "SPIN:1270",
+      "_ts": "2026-11-08T00:28:49.188Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-08T00:27:55.270Z",
+  "mirroredAt": "2026-11-08T00:28:49.662Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
