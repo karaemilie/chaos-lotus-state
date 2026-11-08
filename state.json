@@ -574,13 +574,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1285,
-      "row": 69,
-      "label": "Genevieve Thanksgiving and evening Dec 10 ticket",
-      "uid": "SPIN:1285"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1269,
       "row": 58,
       "label": "Genevieve package (send smoothie mix)",
@@ -977,11 +970,11 @@
       "uid": "SPIN_WHEEL:1311"
     }
   ],
-  "version": 3355,
-  "updated": "2026-11-08T08:48:55.481339+00:00",
+  "version": 3356,
+  "updated": "2026-11-08T08:49:37.043293+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 77,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
