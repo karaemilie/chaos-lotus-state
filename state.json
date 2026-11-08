@@ -174,13 +174,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1252,
-      "row": 53,
-      "label": "Twin & Queen air mattress",
-      "uid": "SPIN:1252"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1074,
       "row": 21,
       "label": "Look at parents budget :/",
@@ -970,11 +963,11 @@
       "uid": "SPIN_WHEEL:1311"
     }
   ],
-  "version": 3356,
-  "updated": "2026-11-08T08:49:37.043293+00:00",
+  "version": 3357,
+  "updated": "2026-11-08T08:50:27.548064+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 76,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
