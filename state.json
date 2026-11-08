@@ -857,15 +857,6 @@
       "uid": "SPIN_WHEEL:1302"
     },
     {
-      "source": "ZONES",
-      "zid": 70,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb AmazonCart",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "AmazonCart",
-      "uid": "ZONES:70"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1303,
       "sid": 1303,
@@ -988,10 +979,19 @@
       "sid": 1307,
       "label": "Order new bed frames again \ud83d\ude2c",
       "uid": "SPIN_WHEEL:1307"
+    },
+    {
+      "source": "ZONES",
+      "zid": 71,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb MasterBrain",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "MasterBrain",
+      "uid": "ZONES:71"
     }
   ],
-  "version": 3339,
-  "updated": "2026-11-08T00:29:43.498346+00:00",
+  "version": 3340,
+  "updated": "2026-11-08T01:02:31.519398+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 79,
