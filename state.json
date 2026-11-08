@@ -518,20 +518,6 @@
       "uid": "TASKS:11901"
     },
     {
-      "source": "TASKS",
-      "id": 12172,
-      "row": 279,
-      "label": "\u2728 Update school lists for Lincoln & Evan",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12172"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1058,
       "row": 16,
@@ -994,10 +980,23 @@
       "sid": 1308,
       "label": "Look at school widget w/Evan",
       "uid": "SPIN_WHEEL:1308"
+    },
+    {
+      "source": "TASKS",
+      "id": 10505,
+      "label": "Bank run",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10505"
     }
   ],
-  "version": 3343,
-  "updated": "2026-11-08T01:13:39.217378+00:00",
+  "version": 3344,
+  "updated": "2026-11-08T01:14:15.464450+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 80,
