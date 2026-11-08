@@ -237,13 +237,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1278,
-      "row": 63,
-      "label": "Next step new handy man",
-      "uid": "SPIN:1278"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1147,
       "row": 29,
       "label": "Measure Mom\u2019s shirts",
@@ -441,20 +434,6 @@
       "uid": "TASKS:11216"
     },
     {
-      "source": "TASKS",
-      "id": 11901,
-      "row": 218,
-      "label": "\u2b50 Work on painting stair iron \ud83c\udfa8",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11901"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1058,
       "row": 16,
@@ -512,20 +491,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12190"
-    },
-    {
-      "source": "TASKS",
-      "id": 12178,
-      "row": 284,
-      "label": "\u2b50 Ask Evan how much I owe him",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12178"
     },
     {
       "source": "ZONES",
@@ -639,20 +604,6 @@
       "uid": "SPIN:954"
     },
     {
-      "source": "TASKS",
-      "id": 10874,
-      "row": 112,
-      "label": "\u2b50 Ponder stepping up Evan's nutrition plan (sleep routine first, then food) \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10874"
-    },
-    {
       "source": "ZONES",
       "zid": 76,
       "floor": "Plant",
@@ -682,19 +633,6 @@
       "sid": 1300,
       "label": "Find and cancel Citi Strata card",
       "uid": "SPIN_WHEEL:1300"
-    },
-    {
-      "source": "TASKS",
-      "id": 11708,
-      "label": "Start looking for vehicles for Jake \ud83d\ude97\ud83d\udd0d",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Kids",
-      "critical": false,
-      "uid": "TASKS:11708"
     },
     {
       "source": "MAINTENANCE",
@@ -960,13 +898,65 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:12232"
+    },
+    {
+      "source": "TASKS",
+      "id": 10436,
+      "label": "\u2728 Add solo & ensemble to calendar, find group & solo pieces",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10436"
+    },
+    {
+      "source": "TASKS",
+      "id": 11748,
+      "label": "\u2728 Review Apple subscriptions",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:11748"
+    },
+    {
+      "source": "TASKS",
+      "id": 12026,
+      "label": "\u2728 Replace cat fountain filters \ud83d\udc31\ud83d\udca7",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12026"
+    },
+    {
+      "source": "TASKS",
+      "id": 12348,
+      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12348"
     }
   ],
-  "version": 3358,
-  "updated": "2026-11-08T08:51:07.373165+00:00",
+  "version": 3359,
+  "updated": "2026-11-08T09:04:23.245709+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 76,
+    "SPIN_WHEEL": 75,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
