@@ -8,10 +8,25 @@
       "_ts": "2026-11-08T00:28:53.629Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-11-08T00:29:02.527Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Buy Ting Fire plugs for the house",
+      "_addedAt": "2026-11-08T00:29:27.352Z",
+      "newtask": {
+        "label": "Buy Ting Fire plugs for the house",
+        "start": "2027-05-07",
+        "category": "Home",
+        "aw": 4,
+        "recType": "None",
+        "recValue": null
+      },
+      "_ts": "2026-11-08T00:29:27.585Z"
+    }
+  ],
+  "mirroredAt": "2026-11-08T00:29:27.827Z",
   "counts": {
     "completions": 1,
-    "adds": 0
+    "adds": 1
   }
 }
