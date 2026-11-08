@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 5,
+      "label": "Install tile",
+      "uid": "SPIN:555",
+      "_ts": "2026-11-08T02:10:56.536Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-08T02:09:47.043Z",
+  "mirroredAt": "2026-11-08T02:10:56.955Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
