@@ -295,20 +295,6 @@
       "uid": "SPIN:1262"
     },
     {
-      "source": "TASKS",
-      "id": 12329,
-      "row": 368,
-      "label": "\u2728 Weekly meal planning",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12329"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1298,
       "row": 79,
@@ -943,10 +929,23 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:12348"
+    },
+    {
+      "source": "TASKS",
+      "id": 11738,
+      "label": "Buy allergen cases for rest of mattresses \ud83d\udecf\ufe0f",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11738"
     }
   ],
-  "version": 3360,
-  "updated": "2026-11-08T09:05:16.004071+00:00",
+  "version": 3361,
+  "updated": "2026-11-08T09:12:33.266552+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 74,
