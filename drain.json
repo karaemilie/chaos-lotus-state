@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 67,
+      "label": "Track info for Jake",
+      "uid": "SPIN:1282",
+      "_ts": "2026-11-08T08:48:12.710Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -8,9 +16,9 @@
       "_ts": "2026-11-08T08:48:03.477Z"
     }
   ],
-  "mirroredAt": "2026-11-08T08:48:05.805Z",
+  "mirroredAt": "2026-11-08T08:48:12.936Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
