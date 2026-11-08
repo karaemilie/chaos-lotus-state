@@ -3,29 +3,14 @@
   "adds": [
     {
       "source": "PLUS_ADD",
-      "label": "Change Bentley January ticket",
-      "_addedAt": "2026-11-08T08:47:48.536Z",
-      "promote": {
-        "fromUid": "SPIN:1292",
-        "sid": 1292,
-        "label": "Change Bentley January ticket",
-        "origLabel": "Change Bentley January ticket",
-        "start": "2026-11-09",
-        "category": "Finance",
-        "aw": 2
-      },
-      "_ts": "2026-11-08T08:47:48.828Z"
-    },
-    {
-      "source": "PLUS_ADD",
       "label": "Call Discover for balance",
       "_addedAt": "2026-11-08T08:48:03.337Z",
       "_ts": "2026-11-08T08:48:03.477Z"
     }
   ],
-  "mirroredAt": "2026-11-08T08:48:03.688Z",
+  "mirroredAt": "2026-11-08T08:48:05.805Z",
   "counts": {
     "completions": 0,
-    "adds": 2
+    "adds": 1
   }
 }
