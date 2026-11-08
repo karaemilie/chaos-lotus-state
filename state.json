@@ -382,13 +382,6 @@
       "uid": "SPIN:1282"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1270,
-      "row": 59,
-      "label": "See if our home ins covers Ting Fire devices",
-      "uid": "SPIN:1270"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10162,
       "parentRow": 34,
@@ -1004,11 +997,11 @@
       "uid": "SPIN_WHEEL:1307"
     }
   ],
-  "version": 3337,
-  "updated": "2026-11-08T00:27:56.562118+00:00",
+  "version": 3338,
+  "updated": "2026-11-08T00:29:01.117020+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 80,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
