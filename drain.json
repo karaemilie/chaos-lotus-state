@@ -6,6 +6,13 @@
       "label": "🏠 Dust spray on stair iron",
       "uid": "MAINTENANCE:131",
       "_ts": "2026-11-08T02:08:48.440Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 60,
+      "label": "Check Bentley email for Golden Son **",
+      "uid": "SPIN:1272",
+      "_ts": "2026-11-08T02:09:33.601Z"
     }
   ],
   "adds": [
@@ -16,9 +23,9 @@
       "_ts": "2026-11-08T02:09:02.278Z"
     }
   ],
-  "mirroredAt": "2026-11-08T02:09:02.519Z",
+  "mirroredAt": "2026-11-08T02:09:33.839Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 1
   }
 }
