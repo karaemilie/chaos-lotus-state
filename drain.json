@@ -1,9 +1,31 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-08T01:13:37.794Z",
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12172,
+      "row": 279,
+      "label": "✨ Update school lists for Lincoln & Evan",
+      "uid": "TASKS:12172",
+      "_ts": "2026-11-08T01:13:41.884Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Look at school widget w/Evan",
+      "_addedAt": "2026-11-08T01:13:26.559Z",
+      "_ts": "2026-11-08T01:13:26.775Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Look at school widget w/Linc",
+      "_addedAt": "2026-11-08T01:13:38.306Z",
+      "_ts": "2026-11-08T01:13:38.577Z"
+    }
+  ],
+  "mirroredAt": "2026-11-08T01:13:42.179Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 2
   }
 }
