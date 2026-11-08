@@ -993,13 +993,20 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10505"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1309,
+      "sid": 1309,
+      "label": "Look at school widget w/Linc",
+      "uid": "SPIN_WHEEL:1309"
     }
   ],
-  "version": 3344,
-  "updated": "2026-11-08T01:14:15.464450+00:00",
+  "version": 3345,
+  "updated": "2026-11-08T01:14:20.398079+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 81,
     "TASKS": 22,
     "ZONES": 8,
     "MAINTENANCE": 2
