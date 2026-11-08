@@ -208,16 +208,6 @@
       "uid": "TASKS:12342"
     },
     {
-      "source": "ZONES",
-      "zid": 84,
-      "floor": "Personal",
-      "row": 86,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Hand Care & Mani",
-      "uid": "ZONES:84"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1032,
       "row": 15,
@@ -988,10 +978,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Evernote/ScannerPro",
       "uid": "ZONES:91"
+    },
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Mask",
+      "uid": "ZONES:85"
     }
   ],
-  "version": 3341,
-  "updated": "2026-11-08T01:08:12.850740+00:00",
+  "version": 3342,
+  "updated": "2026-11-08T01:09:01.256298+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 79,
