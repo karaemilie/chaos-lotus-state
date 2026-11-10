@@ -1,15 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 91,
+      "floor": "Digital",
+      "label": "💻 Evernote/ScannerPro",
+      "uid": "ZONES:91",
+      "_ts": "2026-11-10T03:26:10.166Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-10T03:19:48.104Z",
+  "mirroredAt": "2026-11-10T03:26:10.420Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-10T03:19:49.599029+00:00",
-  "lastAutoProcessed": [
-    "ZONES:85",
-    "ZONES:76",
-    "ZONES:77"
-  ]
+  }
 }
