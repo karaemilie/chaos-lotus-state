@@ -714,15 +714,6 @@
       "uid": "SPIN_WHEEL:1307"
     },
     {
-      "source": "ZONES",
-      "zid": 91,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Evernote/ScannerPro",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Evernote/ScannerPro",
-      "uid": "ZONES:91"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1308,
       "sid": 1308,
@@ -940,10 +931,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Kitchen Up High",
       "uid": "ZONES:79"
+    },
+    {
+      "source": "ZONES",
+      "zid": 58,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Emails",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Emails",
+      "uid": "ZONES:58"
     }
   ],
-  "version": 3363,
-  "updated": "2026-11-10T03:19:46.696178+00:00",
+  "version": 3364,
+  "updated": "2026-11-10T03:26:26.253789+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 74,
