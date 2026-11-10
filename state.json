@@ -650,19 +650,6 @@
       "uid": "SPIN_WHEEL:1304"
     },
     {
-      "source": "TASKS",
-      "id": 11317,
-      "label": "Schedule next Create & Learn class for Evan (based on rock climbing schedule) \ud83d\udcdd",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Kids",
-      "critical": false,
-      "uid": "TASKS:11317"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1305,
       "sid": 1305,
@@ -675,19 +662,6 @@
       "sid": 1306,
       "label": "Measure size of new small Costco bins",
       "uid": "SPIN_WHEEL:1306"
-    },
-    {
-      "source": "TASKS",
-      "id": 11421,
-      "label": "Finish fixing sand table",
-      "aw": 5,
-      "pri": null,
-      "dur": 30,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11421"
     },
     {
       "source": "COURAGE",
@@ -769,33 +743,11 @@
       "uid": "ZONES:91"
     },
     {
-      "source": "ZONES",
-      "zid": 85,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Mask",
-      "uid": "ZONES:85"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1308,
       "sid": 1308,
       "label": "Look at school widget w/Evan",
       "uid": "SPIN_WHEEL:1308"
-    },
-    {
-      "source": "TASKS",
-      "id": 10505,
-      "label": "Bank run",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10505"
     },
     {
       "source": "SPIN_WHEEL",
@@ -818,32 +770,6 @@
       "sid": 1310,
       "label": "Fill a cheese glass of black enamel paint",
       "uid": "SPIN_WHEEL:1310"
-    },
-    {
-      "source": "TASKS",
-      "id": 10788,
-      "label": "Contact The Music Man about cello buybacks",
-      "aw": 3,
-      "pri": "High",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10788"
-    },
-    {
-      "source": "TASKS",
-      "id": 12071,
-      "label": "Get back to my Mel Robbins books \ud83d\udcda",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12071"
     },
     {
       "source": "TASKS",
@@ -942,10 +868,84 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11738"
+    },
+    {
+      "source": "ZONES",
+      "zid": 86,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Epilate Legs",
+      "uid": "ZONES:86"
+    },
+    {
+      "source": "TASKS",
+      "id": 11688,
+      "label": "\u2728 \ud83d\udd6f\ufe0f Replace batteries in all wax LED candles",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11688"
+    },
+    {
+      "source": "TASKS",
+      "id": 12330,
+      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12330"
+    },
+    {
+      "source": "TASKS",
+      "id": 12363,
+      "label": "\u2728 Clear the upstairs trashes",
+      "aw": 4,
+      "pri": null,
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": true,
+      "uid": "TASKS:12363"
+    },
+    {
+      "source": "TASKS",
+      "id": 12366,
+      "label": "\u2728 Check for South weekly schedule adjustments",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12366"
+    },
+    {
+      "source": "TASKS",
+      "id": 12395,
+      "label": "\u2728 Weekly meal planning",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12395"
     }
   ],
-  "version": 3361,
-  "updated": "2026-11-08T09:12:33.266552+00:00",
+  "version": 3362,
+  "updated": "2026-11-10T03:19:02.359051+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 74,
