@@ -552,16 +552,6 @@
       "uid": "SPIN:1238"
     },
     {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "row": 79,
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1082,
       "row": 22,
@@ -581,16 +571,6 @@
       "row": 10,
       "label": "Boys Paint Project!!",
       "uid": "SPIN:954"
-    },
-    {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "row": 78,
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
     },
     {
       "source": "SPIN_WHEEL",
@@ -942,10 +922,28 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12395"
+    },
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Props",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Props",
+      "uid": "ZONES:78"
+    },
+    {
+      "source": "ZONES",
+      "zid": 79,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Kitchen Up High",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Kitchen Up High",
+      "uid": "ZONES:79"
     }
   ],
-  "version": 3362,
-  "updated": "2026-11-10T03:19:02.359051+00:00",
+  "version": 3363,
+  "updated": "2026-11-10T03:19:46.696178+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 74,
