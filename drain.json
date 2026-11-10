@@ -1,13 +1,18 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "label": "👱‍♀️ Face Mask",
+      "uid": "ZONES:85",
+      "_ts": "2026-11-10T03:18:48.645Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-08T09:12:36.663Z",
+  "mirroredAt": "2026-11-10T03:18:48.914Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-08T09:12:38.103139+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12329"
-  ]
+  }
 }
