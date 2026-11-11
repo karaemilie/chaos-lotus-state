@@ -1,13 +1,5 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1312,
-      "label": "Fine grit sandpaper",
-      "uid": "SPIN_WHEEL:1312",
-      "_ts": "2026-11-11T01:56:07.761Z"
-    }
-  ],
+  "completions": [],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -20,11 +12,17 @@
       "label": "Finish Daily Routine",
       "_addedAt": "2026-11-11T01:56:57.325Z",
       "_ts": "2026-11-11T01:56:57.454Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Make the bed for Andy",
+      "_addedAt": "2026-11-11T01:57:08.421Z",
+      "_ts": "2026-11-11T01:57:08.549Z"
     }
   ],
-  "mirroredAt": "2026-11-11T01:56:57.679Z",
+  "mirroredAt": "2026-11-11T01:57:08.842Z",
   "counts": {
-    "completions": 1,
-    "adds": 2
+    "completions": 0,
+    "adds": 3
   }
 }
