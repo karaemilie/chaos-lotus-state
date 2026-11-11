@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-11-11T07:31:56.824424+00:00",
-  "lastRunAlaska": "2026-11-10 22:31 AKST",
+  "lastRun": "2026-11-11T10:02:00.614021+00:00",
+  "lastRunAlaska": "2026-11-11 01:02 AKST",
   "processedCount": 1,
   "processed": [
     {
-      "uid": "SPIN_WHEEL:1314",
-      "result": "\u2705 SPIN deleted SID 1314 ('Make the bed for Andy')"
+      "uid": "SPIN_WHEEL:1324",
+      "result": "\u2705 SPIN deleted SID 1324 ('Eat rice')"
     }
   ],
   "remainingForClaude": {
@@ -13,9 +13,15 @@
     "adds": 0
   },
   "daySweep": {
-    "added": [],
-    "bumped": [],
-    "today": "2026-11-10",
+    "added": [
+      "TASKS:12157",
+      "TASKS:12400"
+    ],
+    "bumped": [
+      "TASKS:12181",
+      "TASKS:11902"
+    ],
+    "today": "2026-11-11",
     "stampToday": "2026-11-10",
     "ran": true
   }
