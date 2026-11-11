@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-11T04:48:32.408Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Smoke alarm batteries",
+      "_addedAt": "2026-11-11T04:57:25.066Z",
+      "_ts": "2026-11-11T04:57:25.203Z"
+    }
+  ],
+  "mirroredAt": "2026-11-11T04:57:25.454Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
