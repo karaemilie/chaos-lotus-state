@@ -991,12 +991,19 @@
       "sid": 1314,
       "label": "Make the bed for Andy",
       "uid": "SPIN_WHEEL:1314"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1315,
+      "sid": 1315,
+      "label": "Reset library computer screen",
+      "uid": "SPIN_WHEEL:1315"
     }
   ],
-  "version": 3374,
-  "updated": "2026-11-11T02:25:21.086678+00:00",
+  "version": 3375,
+  "updated": "2026-11-11T02:25:26.574270+00:00",
   "buckets": {
-    "SPIN_WHEEL": 76,
+    "SPIN_WHEEL": 77,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
