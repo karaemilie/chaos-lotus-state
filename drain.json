@@ -1,16 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 65,
+      "label": "Talk to Evan about his gaming. And about boundaries",
+      "uid": "SPIN:1301",
+      "_ts": "2026-11-11T06:26:10.860Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-11T05:37:42.157Z",
+  "mirroredAt": "2026-11-11T06:26:11.271Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-11T05:37:43.669622+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1306",
-    "TASKS:12341",
-    "TASKS:12340",
-    "TASKS:12285"
-  ]
+  }
 }
