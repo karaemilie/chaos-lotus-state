@@ -920,13 +920,6 @@
       "uid": "SPIN_WHEEL:1318"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1319,
-      "sid": 1319,
-      "label": "Finish out zones",
-      "uid": "SPIN_WHEEL:1319"
-    },
-    {
       "source": "TASKS",
       "id": 12205,
       "label": "Look at how to choose assignments in Prep Median",
@@ -992,10 +985,10 @@
       "uid": "TASKS:12257"
     }
   ],
-  "version": 3388,
-  "updated": "2026-11-11T06:33:49.285092+00:00",
+  "version": 3389,
+  "updated": "2026-11-11T07:11:25.780322+00:00",
   "buckets": {
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 76,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
