@@ -1,16 +1,17 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-10T03:26:29.147Z",
-  "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-10T03:26:30.298305+00:00",
-  "lastAutoProcessed": [
-    "ZONES:91"
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 62,
+      "label": "Add clips to tractor cover",
+      "uid": "SPIN:1298",
+      "_ts": "2026-11-11T01:46:07.024Z"
+    }
   ],
-  "autoReset": [
-    "Digital"
-  ]
+  "adds": [],
+  "mirroredAt": "2026-11-11T01:46:07.295Z",
+  "counts": {
+    "completions": 1,
+    "adds": 0
+  }
 }
