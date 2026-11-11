@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1319,
+      "label": "Finish out zones",
+      "uid": "SPIN_WHEEL:1319",
+      "_ts": "2026-11-11T07:11:13.435Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-11T06:33:52.886Z",
+  "mirroredAt": "2026-11-11T07:11:13.682Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-11T06:33:54.583714+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12343"
-  ]
+  }
 }
