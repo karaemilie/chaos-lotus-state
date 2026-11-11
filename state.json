@@ -998,12 +998,19 @@
       "sid": 1315,
       "label": "Reset library computer screen",
       "uid": "SPIN_WHEEL:1315"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1316,
+      "sid": 1316,
+      "label": "Find a purple and gold J Garcia tie",
+      "uid": "SPIN_WHEEL:1316"
     }
   ],
-  "version": 3375,
-  "updated": "2026-11-11T02:25:26.574270+00:00",
+  "version": 3376,
+  "updated": "2026-11-11T04:45:13.870339+00:00",
   "buckets": {
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 78,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
