@@ -1,13 +1,25 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-11T02:24:53.635Z",
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12363,
+      "row": 393,
+      "label": "✨ Clear the upstairs trashes",
+      "uid": "TASKS:12363",
+      "_ts": "2026-11-11T02:24:39.791Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Reset library computer screen",
+      "_addedAt": "2026-11-11T02:25:06.956Z",
+      "_ts": "2026-11-11T02:25:07.160Z"
+    }
+  ],
+  "mirroredAt": "2026-11-11T02:25:07.402Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-11T02:24:56.062112+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12363"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
