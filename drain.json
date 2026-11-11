@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1313,
+      "label": "Finish Daily Routine",
+      "uid": "SPIN_WHEEL:1313",
+      "_ts": "2026-11-11T05:32:11.397Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-11T05:32:03.915Z",
+  "mirroredAt": "2026-11-11T05:32:11.631Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
