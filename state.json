@@ -137,20 +137,6 @@
       "uid": "SPIN:1151"
     },
     {
-      "source": "TASKS",
-      "id": 12335,
-      "row": 367,
-      "label": "\u2728 Trash only to curb \ud83d\uddd1\ufe0f",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12335"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1269,
       "row": 51,
@@ -1012,10 +998,23 @@
       "sid": 1317,
       "label": "Smoke alarm batteries",
       "uid": "SPIN_WHEEL:1317"
+    },
+    {
+      "source": "TASKS",
+      "id": 12181,
+      "label": "Consider medical work to get done before year-end (out-of-pocket max already hit) \ud83c\udfe5\ud83d\udcb0",
+      "aw": 3,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12181"
     }
   ],
-  "version": 3377,
-  "updated": "2026-11-11T04:57:39.673219+00:00",
+  "version": 3378,
+  "updated": "2026-11-11T05:00:46.639205+00:00",
   "buckets": {
     "SPIN_WHEEL": 79,
     "TASKS": 23,
