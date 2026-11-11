@@ -1,11 +1,15 @@
 {
-  "lastRun": "2026-11-11T07:11:28.400753+00:00",
-  "lastRunAlaska": "2026-11-10 22:11 AKST",
-  "processedCount": 1,
+  "lastRun": "2026-11-11T07:14:02.602218+00:00",
+  "lastRunAlaska": "2026-11-10 22:14 AKST",
+  "processedCount": 3,
   "processed": [
     {
-      "uid": "SPIN_WHEEL:1319",
-      "result": "\u2705 SPIN deleted SID 1319 ('Finish out zones')"
+      "uid": "ZONES:78",
+      "result": "\u2705 Plant/Family Room Props (row 81) stamped 2026-11-10"
+    },
+    {
+      "uid": "SPIN:1297",
+      "result": "\u2705 SPIN deleted SID 1297 ('Find discover card / call & pay')"
     }
   ],
   "remainingForClaude": {
