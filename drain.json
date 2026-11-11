@@ -1,9 +1,28 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-11T07:32:57.665Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "How to inflate balloon",
+      "_addedAt": "2026-11-11T07:32:44.289Z",
+      "_ts": "2026-11-11T07:32:44.563Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Order curtain pulls",
+      "_addedAt": "2026-11-11T07:32:58.803Z",
+      "_ts": "2026-11-11T07:32:59.099Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Eat rice",
+      "_addedAt": "2026-11-11T07:37:20.294Z",
+      "_ts": "2026-11-11T07:37:20.501Z"
+    }
+  ],
+  "mirroredAt": "2026-11-11T07:37:20.670Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 3
   }
 }
