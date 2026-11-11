@@ -963,13 +963,6 @@
       "uid": "SPIN_WHEEL:1322"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1323,
-      "sid": 1323,
-      "label": "Order curtain pulls",
-      "uid": "SPIN_WHEEL:1323"
-    },
-    {
       "source": "TASKS",
       "id": 12157,
       "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
@@ -1003,10 +996,10 @@
       "uid": "SPIN_WHEEL:1324"
     }
   ],
-  "version": 3400,
-  "updated": "2026-11-11T10:39:52.443217+00:00",
+  "version": 3401,
+  "updated": "2026-11-11T10:40:31.783887+00:00",
   "buckets": {
-    "SPIN_WHEEL": 79,
+    "SPIN_WHEEL": 78,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
