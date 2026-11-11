@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-11T05:31:07.990Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Test",
+      "_addedAt": "2026-11-11T05:30:56.576Z",
+      "_ts": "2026-11-11T05:30:56.754Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Finish out zones",
+      "_addedAt": "2026-11-11T05:31:51.349Z",
+      "_ts": "2026-11-11T05:31:51.497Z"
+    }
+  ],
+  "mirroredAt": "2026-11-11T05:31:51.752Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
