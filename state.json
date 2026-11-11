@@ -965,20 +965,6 @@
       "uid": "SPIN:1147"
     },
     {
-      "source": "TASKS",
-      "id": 12363,
-      "row": 393,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:12363"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1242,
       "row": 46,
@@ -1007,11 +993,11 @@
       "uid": "SPIN_WHEEL:1314"
     }
   ],
-  "version": 3372,
-  "updated": "2026-11-11T01:57:55.836488+00:00",
+  "version": 3373,
+  "updated": "2026-11-11T02:24:50.275845+00:00",
   "buckets": {
     "SPIN_WHEEL": 76,
-    "TASKS": 24,
+    "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
     "MAINTENANCE": 2
