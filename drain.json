@@ -1,5 +1,14 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12390,
+      "row": 418,
+      "label": "✨ Update school lists for Lincoln & Evan",
+      "uid": "TASKS:12390",
+      "_ts": "2026-11-11T07:12:58.806Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -47,9 +56,9 @@
       "_ts": "2026-11-11T07:12:40.745Z"
     }
   ],
-  "mirroredAt": "2026-11-11T07:12:40.985Z",
+  "mirroredAt": "2026-11-11T07:12:59.032Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 5
   }
 }
