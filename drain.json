@@ -1,20 +1,6 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1319,
-      "label": "Finish out zones",
-      "uid": "SPIN_WHEEL:1319",
-      "_ts": "2026-11-11T07:11:13.435Z"
-    }
-  ],
+  "completions": [],
   "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Pull up Jake 529 reimbursements",
-      "_addedAt": "2026-11-11T07:11:31.531Z",
-      "_ts": "2026-11-11T07:11:31.682Z"
-    },
     {
       "source": "PLUS_ADD",
       "label": "Write apartment about parking",
@@ -22,9 +8,9 @@
       "_ts": "2026-11-11T07:11:42.880Z"
     }
   ],
-  "mirroredAt": "2026-11-11T07:11:43.131Z",
+  "mirroredAt": "2026-11-11T07:11:52.443Z",
   "counts": {
-    "completions": 1,
-    "adds": 2
+    "completions": 0,
+    "adds": 1
   }
 }
