@@ -220,20 +220,6 @@
       "uid": "ZONES:86"
     },
     {
-      "source": "TASKS",
-      "id": 12395,
-      "row": 423,
-      "label": "\u2728 Weekly meal planning",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12395"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 900,
       "row": 6,
@@ -375,16 +361,6 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:11748"
-    },
-    {
-      "source": "ZONES",
-      "zid": 41,
-      "floor": "Main Floor",
-      "row": 43,
-      "label": "\ud83e\uddfa Half Bath",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Half Bath",
-      "uid": "ZONES:41"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1011,10 +987,32 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12181"
+    },
+    {
+      "source": "ZONES",
+      "zid": 22,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Mudroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Mudroom",
+      "uid": "ZONES:22"
+    },
+    {
+      "source": "TASKS",
+      "id": 11902,
+      "label": "Next step: Claude robotics research thread \ud83e\udd16",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11902"
     }
   ],
-  "version": 3378,
-  "updated": "2026-11-11T05:00:46.639205+00:00",
+  "version": 3379,
+  "updated": "2026-11-11T05:01:30.201542+00:00",
   "buckets": {
     "SPIN_WHEEL": 79,
     "TASKS": 23,
