@@ -819,19 +819,6 @@
       "uid": "SPIN_WHEEL:1317"
     },
     {
-      "source": "TASKS",
-      "id": 12181,
-      "label": "Consider medical work to get done before year-end (out-of-pocket max already hit) \ud83c\udfe5\ud83d\udcb0",
-      "aw": 3,
-      "pri": "High",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12181"
-    },
-    {
       "source": "ZONES",
       "zid": 22,
       "floor": "Main Floor",
@@ -839,19 +826,6 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Mudroom",
       "uid": "ZONES:22"
-    },
-    {
-      "source": "TASKS",
-      "id": 11902,
-      "label": "Next step: Claude robotics research thread \ud83e\udd16",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11902"
     },
     {
       "source": "SPIN_WHEEL",
@@ -996,17 +970,36 @@
       "uid": "SPIN_WHEEL:1323"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1324,
-      "sid": 1324,
-      "label": "Eat rice",
-      "uid": "SPIN_WHEEL:1324"
+      "source": "TASKS",
+      "id": 12157,
+      "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
+      "aw": 6,
+      "pri": "Medium",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12157"
+    },
+    {
+      "source": "TASKS",
+      "id": 12400,
+      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12400"
     }
   ],
-  "version": 3398,
-  "updated": "2026-11-11T07:37:37.352183+00:00",
+  "version": 3399,
+  "updated": "2026-11-11T10:01:58.083467+00:00",
   "buckets": {
-    "SPIN_WHEEL": 79,
+    "SPIN_WHEEL": 78,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
