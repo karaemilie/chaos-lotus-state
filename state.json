@@ -15,13 +15,6 @@
       "uid": "SPIN:1058"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1297,
-      "row": 61,
-      "label": "Find discover card / call & pay",
-      "uid": "SPIN:1297"
-    },
-    {
       "source": "TASKS",
       "id": 12351,
       "row": 381,
@@ -512,16 +505,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 78,
-      "floor": "Plant",
-      "row": 81,
-      "label": "\ud83c\udf31 Family Room Props",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Props",
-      "uid": "ZONES:78"
-    },
-    {
-      "source": "ZONES",
       "zid": 55,
       "floor": "Basement",
       "row": 57,
@@ -995,12 +978,21 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11940"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Hallway",
+      "uid": "ZONES:80"
     }
   ],
-  "version": 3394,
-  "updated": "2026-11-11T07:13:17.758194+00:00",
+  "version": 3395,
+  "updated": "2026-11-11T07:13:58.290084+00:00",
   "buckets": {
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 77,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
