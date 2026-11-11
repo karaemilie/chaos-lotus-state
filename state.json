@@ -908,13 +908,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1320,
-      "sid": 1320,
-      "label": "Write apartment about parking",
-      "uid": "SPIN_WHEEL:1320"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1321,
       "sid": 1321,
       "label": "Send Christina a few VINs",
@@ -1003,10 +996,10 @@
       "uid": "SPIN_WHEEL:1325"
     }
   ],
-  "version": 3402,
-  "updated": "2026-11-11T10:40:34.458538+00:00",
+  "version": 3403,
+  "updated": "2026-11-11T10:41:30.441952+00:00",
   "buckets": {
-    "SPIN_WHEEL": 79,
+    "SPIN_WHEEL": 78,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
