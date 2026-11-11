@@ -65,27 +65,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1306,
-      "row": 70,
-      "label": "Measure size of new small Costco bins",
-      "uid": "SPIN:1306"
-    },
-    {
-      "source": "TASKS",
-      "id": 12340,
-      "row": 371,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12340"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1157,
       "row": 30,
       "label": "Submit for viola rest",
@@ -601,20 +580,6 @@
       "uid": "ZONES:55"
     },
     {
-      "source": "TASKS",
-      "id": 12285,
-      "row": 333,
-      "label": "\u2728 Cancel ultraviner $15/month if not using",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12285"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1227,
       "row": 41,
@@ -1008,12 +973,38 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:12205"
+    },
+    {
+      "source": "TASKS",
+      "id": 11903,
+      "label": "Look at Pet insta idea \ud83d\udc3e\ud83d\udcf1",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11903"
+    },
+    {
+      "source": "TASKS",
+      "id": 11983,
+      "label": "Contact Brian about coaching \ud83c\udfca\ud83d\udcde",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:11983"
     }
   ],
-  "version": 3383,
-  "updated": "2026-11-11T05:35:22.904364+00:00",
+  "version": 3384,
+  "updated": "2026-11-11T05:36:04.995560+00:00",
   "buckets": {
-    "SPIN_WHEEL": 79,
+    "SPIN_WHEEL": 78,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
