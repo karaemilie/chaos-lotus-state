@@ -991,12 +991,26 @@
       "sid": 1312,
       "label": "Grab 800 grit sandpaper",
       "uid": "SPIN_WHEEL:1312"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1313,
+      "sid": 1313,
+      "label": "Finish Daily Routine",
+      "uid": "SPIN_WHEEL:1313"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1314,
+      "sid": 1314,
+      "label": "Make the bed for Andy",
+      "uid": "SPIN_WHEEL:1314"
     }
   ],
-  "version": 3371,
-  "updated": "2026-11-11T01:57:10.562071+00:00",
+  "version": 3372,
+  "updated": "2026-11-11T01:57:55.836488+00:00",
   "buckets": {
-    "SPIN_WHEEL": 74,
+    "SPIN_WHEEL": 76,
     "TASKS": 24,
     "ZONES": 8,
     "COURAGE": 4,
