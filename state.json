@@ -806,13 +806,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1314,
-      "sid": 1314,
-      "label": "Make the bed for Andy",
-      "uid": "SPIN_WHEEL:1314"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1316,
       "sid": 1316,
       "label": "Find a purple and gold J Garcia tie",
@@ -989,10 +982,10 @@
       "uid": "ZONES:80"
     }
   ],
-  "version": 3395,
-  "updated": "2026-11-11T07:13:58.290084+00:00",
+  "version": 3396,
+  "updated": "2026-11-11T07:31:53.839323+00:00",
   "buckets": {
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 76,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
