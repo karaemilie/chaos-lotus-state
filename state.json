@@ -71,20 +71,6 @@
       "uid": "SPIN:1157"
     },
     {
-      "source": "TASKS",
-      "id": 12190,
-      "row": 287,
-      "label": "\u2728 Deep clean cat litter \ud83d\udc31\ud83e\uddfc",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12190"
-    },
-    {
       "source": "ZONES",
       "zid": 59,
       "floor": "Digital",
@@ -93,13 +79,6 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Quicken",
       "uid": "ZONES:59"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1151,
-      "row": 29,
-      "label": "Set up ForBrain",
-      "uid": "SPIN:1151"
     },
     {
       "source": "SPIN_WHEEL",
@@ -197,20 +176,6 @@
       "row": 18,
       "label": "Submit for Freya bill",
       "uid": "SPIN:1069"
-    },
-    {
-      "source": "TASKS",
-      "id": 12390,
-      "row": 418,
-      "label": "\u2728 Update school lists for Lincoln & Evan",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12390"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1004,12 +969,38 @@
       "sid": 1321,
       "label": "Send Christina a few VINs",
       "uid": "SPIN_WHEEL:1321"
+    },
+    {
+      "source": "TASKS",
+      "id": 11895,
+      "label": "Book septic \ud83d\udebd",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11895"
+    },
+    {
+      "source": "TASKS",
+      "id": 11940,
+      "label": "Deploy chore app \ud83d\udcf1",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11940"
     }
   ],
-  "version": 3393,
-  "updated": "2026-11-11T07:12:36.076571+00:00",
+  "version": 3394,
+  "updated": "2026-11-11T07:13:17.758194+00:00",
   "buckets": {
-    "SPIN_WHEEL": 79,
+    "SPIN_WHEEL": 78,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
