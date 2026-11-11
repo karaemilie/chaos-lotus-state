@@ -1,15 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1314,
+      "label": "Make the bed for Andy",
+      "uid": "SPIN_WHEEL:1314",
+      "_ts": "2026-11-11T07:31:40.432Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-11T07:14:01.322Z",
+  "mirroredAt": "2026-11-11T07:31:40.693Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-11T07:14:02.601970+00:00",
-  "lastAutoProcessed": [
-    "ZONES:78",
-    "SPIN:1297",
-    "TASKS:12390"
-  ]
+  }
 }
