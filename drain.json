@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-11T07:31:55.303Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "How to inflate balloon",
+      "_addedAt": "2026-11-11T07:32:44.289Z",
+      "_ts": "2026-11-11T07:32:44.563Z"
+    }
+  ],
+  "mirroredAt": "2026-11-11T07:32:44.838Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-11T07:31:56.824141+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1314"
-  ]
+    "adds": 1
+  }
 }
