@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-11T10:01:59.406Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Overdue GAlarm tasks",
+      "_addedAt": "2026-11-11T10:39:38.714Z",
+      "_ts": "2026-11-11T10:39:38.953Z"
+    }
+  ],
+  "mirroredAt": "2026-11-11T10:39:39.125Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-11T10:02:00.613661+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1324"
-  ]
+    "adds": 1
+  }
 }
