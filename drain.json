@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1320,
+      "label": "Write apartment about parking",
+      "uid": "SPIN_WHEEL:1320",
+      "_ts": "2026-11-11T10:41:06.515Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-11T10:40:33.153Z",
+  "mirroredAt": "2026-11-11T10:41:06.730Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
