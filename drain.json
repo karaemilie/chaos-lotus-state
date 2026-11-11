@@ -1,64 +1,9 @@
 {
-  "completions": [
-    {
-      "source": "TASKS",
-      "id": 12390,
-      "row": 418,
-      "label": "✨ Update school lists for Lincoln & Evan",
-      "uid": "TASKS:12390",
-      "_ts": "2026-11-11T07:12:58.806Z"
-    }
-  ],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Pull up Jake 529 reimbursements",
-      "_addedAt": "2026-11-11T07:11:31.531Z",
-      "_ts": "2026-11-11T07:11:31.682Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Write apartment about parking",
-      "_addedAt": "2026-11-11T07:11:42.725Z",
-      "_ts": "2026-11-11T07:11:42.880Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Send Christina a few VINs",
-      "_addedAt": "2026-11-11T07:11:59.329Z",
-      "_ts": "2026-11-11T07:11:59.459Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "✨ Deep clean cat litter 🐱🧼",
-      "_addedAt": "2026-11-11T07:12:29.200Z",
-      "reschedule": {
-        "uid": "TASKS:12190",
-        "id": 12190,
-        "label": "✨ Deep clean cat litter 🐱🧼",
-        "start": "2026-11-16"
-      },
-      "_ts": "2026-11-11T07:12:29.320Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Set up ForBrain",
-      "_addedAt": "2026-11-11T07:12:40.616Z",
-      "promote": {
-        "fromUid": "SPIN:1151",
-        "sid": 1151,
-        "label": "Set up ForBrain",
-        "origLabel": "Set up ForBrain",
-        "start": "2026-11-15",
-        "category": "Home",
-        "aw": 4
-      },
-      "_ts": "2026-11-11T07:12:40.745Z"
-    }
-  ],
-  "mirroredAt": "2026-11-11T07:12:59.032Z",
+  "completions": [],
+  "adds": [],
+  "mirroredAt": "2026-11-11T07:13:21.127Z",
   "counts": {
-    "completions": 1,
-    "adds": 5
+    "completions": 0,
+    "adds": 0
   }
 }
