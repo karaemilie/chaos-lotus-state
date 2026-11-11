@@ -1005,12 +1005,19 @@
       "sid": 1316,
       "label": "Find a purple and gold J Garcia tie",
       "uid": "SPIN_WHEEL:1316"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1317,
+      "sid": 1317,
+      "label": "Smoke alarm batteries",
+      "uid": "SPIN_WHEEL:1317"
     }
   ],
-  "version": 3376,
-  "updated": "2026-11-11T04:45:13.870339+00:00",
+  "version": 3377,
+  "updated": "2026-11-11T04:57:39.673219+00:00",
   "buckets": {
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 79,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
