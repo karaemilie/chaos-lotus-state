@@ -1016,12 +1016,19 @@
       "sid": 1318,
       "label": "Test",
       "uid": "SPIN_WHEEL:1318"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1319,
+      "sid": 1319,
+      "label": "Finish out zones",
+      "uid": "SPIN_WHEEL:1319"
     }
   ],
-  "version": 3380,
-  "updated": "2026-11-11T05:31:09.259091+00:00",
+  "version": 3381,
+  "updated": "2026-11-11T05:32:05.243621+00:00",
   "buckets": {
-    "SPIN_WHEEL": 80,
+    "SPIN_WHEEL": 81,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
