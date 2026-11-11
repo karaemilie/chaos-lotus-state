@@ -283,20 +283,6 @@
       "uid": "SPIN:1283"
     },
     {
-      "source": "TASKS",
-      "id": 12343,
-      "row": 373,
-      "label": "\u2728 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12343"
-    },
-    {
       "source": "ZONES",
       "zid": 79,
       "floor": "Plant",
@@ -991,10 +977,23 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:12098"
+    },
+    {
+      "source": "TASKS",
+      "id": 12257,
+      "label": "Show Lincoln how to track his progress toward his assigned test date in Prep Median \ud83d\udcc8\ud83d\udcdd",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12257"
     }
   ],
-  "version": 3387,
-  "updated": "2026-11-11T06:26:23.052746+00:00",
+  "version": 3388,
+  "updated": "2026-11-11T06:33:49.285092+00:00",
   "buckets": {
     "SPIN_WHEEL": 77,
     "TASKS": 23,
