@@ -980,12 +980,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Hallway",
       "uid": "ZONES:80"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1322,
+      "sid": 1322,
+      "label": "How to inflate balloon",
+      "uid": "SPIN_WHEEL:1322"
     }
   ],
-  "version": 3396,
-  "updated": "2026-11-11T07:31:53.839323+00:00",
+  "version": 3397,
+  "updated": "2026-11-11T07:32:59.205474+00:00",
   "buckets": {
-    "SPIN_WHEEL": 76,
+    "SPIN_WHEEL": 77,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
