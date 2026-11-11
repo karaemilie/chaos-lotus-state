@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-11T10:39:50.704Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Living room curtain pulls",
+      "_addedAt": "2026-11-11T10:39:55.893Z",
+      "_ts": "2026-11-11T10:39:56.110Z"
+    }
+  ],
+  "mirroredAt": "2026-11-11T10:39:56.271Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
