@@ -987,12 +987,26 @@
       "sid": 1322,
       "label": "How to inflate balloon",
       "uid": "SPIN_WHEEL:1322"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1323,
+      "sid": 1323,
+      "label": "Order curtain pulls",
+      "uid": "SPIN_WHEEL:1323"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1324,
+      "sid": 1324,
+      "label": "Eat rice",
+      "uid": "SPIN_WHEEL:1324"
     }
   ],
-  "version": 3397,
-  "updated": "2026-11-11T07:32:59.205474+00:00",
+  "version": 3398,
+  "updated": "2026-11-11T07:37:37.352183+00:00",
   "buckets": {
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 79,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
