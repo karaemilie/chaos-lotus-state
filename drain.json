@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1324,
+      "label": "Eat rice",
+      "uid": "SPIN_WHEEL:1324",
+      "_ts": "2026-11-11T10:01:45.200Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-11T07:37:35.553Z",
+  "mirroredAt": "2026-11-11T10:01:45.428Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
