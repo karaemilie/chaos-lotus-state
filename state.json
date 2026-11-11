@@ -994,12 +994,19 @@
       "sid": 1324,
       "label": "Overdue GAlarm tasks",
       "uid": "SPIN_WHEEL:1324"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1325,
+      "sid": 1325,
+      "label": "Living room curtain pulls",
+      "uid": "SPIN_WHEEL:1325"
     }
   ],
-  "version": 3401,
-  "updated": "2026-11-11T10:40:31.783887+00:00",
+  "version": 3402,
+  "updated": "2026-11-11T10:40:34.458538+00:00",
   "buckets": {
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 79,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
