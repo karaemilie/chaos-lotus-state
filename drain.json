@@ -1,13 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-11T01:46:21.545Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 62,
+      "label": "Add clips to tractor cover",
+      "uid": "SPIN:1298",
+      "_ts": "2026-11-11T01:46:07.024Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Fine grit sandpaper",
+      "_addedAt": "2026-11-11T01:46:39.177Z",
+      "_ts": "2026-11-11T01:46:39.322Z"
+    }
+  ],
+  "mirroredAt": "2026-11-11T01:46:39.575Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-11T01:46:22.661303+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1298"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
