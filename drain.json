@@ -1,16 +1,36 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1319,
+      "label": "Finish out zones",
+      "uid": "SPIN_WHEEL:1319",
+      "_ts": "2026-11-11T07:11:13.435Z"
+    }
+  ],
   "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Pull up Jake 529 reimbursements",
+      "_addedAt": "2026-11-11T07:11:31.531Z",
+      "_ts": "2026-11-11T07:11:31.682Z"
+    },
     {
       "source": "PLUS_ADD",
       "label": "Write apartment about parking",
       "_addedAt": "2026-11-11T07:11:42.725Z",
       "_ts": "2026-11-11T07:11:42.880Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Send Christina a few VINs",
+      "_addedAt": "2026-11-11T07:11:59.329Z",
+      "_ts": "2026-11-11T07:11:59.459Z"
     }
   ],
-  "mirroredAt": "2026-11-11T07:11:52.443Z",
+  "mirroredAt": "2026-11-11T07:11:59.714Z",
   "counts": {
-    "completions": 0,
-    "adds": 1
+    "completions": 1,
+    "adds": 3
   }
 }
