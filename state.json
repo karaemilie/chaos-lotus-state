@@ -8,20 +8,6 @@
       "uid": "SPIN:1309"
     },
     {
-      "source": "TASKS",
-      "id": 12341,
-      "row": 372,
-      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12341"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1058,
       "row": 15,
@@ -1009,10 +995,23 @@
       "sid": 1319,
       "label": "Finish out zones",
       "uid": "SPIN_WHEEL:1319"
+    },
+    {
+      "source": "TASKS",
+      "id": 12205,
+      "label": "Look at how to choose assignments in Prep Median",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12205"
     }
   ],
-  "version": 3382,
-  "updated": "2026-11-11T05:32:45.311778+00:00",
+  "version": 3383,
+  "updated": "2026-11-11T05:35:22.904364+00:00",
   "buckets": {
     "SPIN_WHEEL": 79,
     "TASKS": 23,
