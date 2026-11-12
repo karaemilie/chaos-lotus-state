@@ -789,13 +789,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1312,
-      "sid": 1312,
-      "label": "Grab 800 grit sandpaper",
-      "uid": "SPIN_WHEEL:1312"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1316,
       "sid": 1316,
       "label": "Find a purple and gold J Garcia tie",
@@ -930,13 +923,6 @@
       "uid": "TASKS:11940"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1322,
-      "sid": 1322,
-      "label": "How to inflate balloon",
-      "uid": "SPIN_WHEEL:1322"
-    },
-    {
       "source": "TASKS",
       "id": 12157,
       "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
@@ -1044,10 +1030,10 @@
       "uid": "SPIN_WHEEL:1332"
     }
   ],
-  "version": 3412,
-  "updated": "2026-11-12T06:48:57.186226+00:00",
+  "version": 3413,
+  "updated": "2026-11-12T06:49:42.401935+00:00",
   "buckets": {
-    "SPIN_WHEEL": 85,
+    "SPIN_WHEEL": 83,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
