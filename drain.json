@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-12T05:36:25.138Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find alarm stickers",
+      "_addedAt": "2026-11-12T06:47:11.642Z",
+      "_ts": "2026-11-12T06:47:11.771Z"
+    }
+  ],
+  "mirroredAt": "2026-11-12T06:47:12.010Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
