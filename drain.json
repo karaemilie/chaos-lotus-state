@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-12T05:35:55.124Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Order king pillow protectors",
+      "_addedAt": "2026-11-12T05:36:10.930Z",
+      "_ts": "2026-11-12T05:36:11.071Z"
+    }
+  ],
+  "mirroredAt": "2026-11-12T05:36:11.305Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-12T05:35:56.350801+00:00",
-  "lastAutoProcessed": [
-    "ZONES:87"
-  ]
+    "adds": 1
+  }
 }
