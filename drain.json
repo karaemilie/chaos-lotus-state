@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1322,
+      "label": "How to inflate balloon",
+      "uid": "SPIN_WHEEL:1322",
+      "_ts": "2026-11-12T06:48:44.678Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -26,9 +34,9 @@
       "_ts": "2026-11-12T06:48:36.791Z"
     }
   ],
-  "mirroredAt": "2026-11-12T06:48:37.086Z",
+  "mirroredAt": "2026-11-12T06:48:44.910Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 4
   }
 }
