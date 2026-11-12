@@ -7,12 +7,20 @@
       "label": "🌱 Hallway",
       "uid": "ZONES:80",
       "_ts": "2026-11-12T05:34:39.641Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 87,
+      "floor": "Personal",
+      "label": "👱‍♀️ Eyebrows",
+      "uid": "ZONES:87",
+      "_ts": "2026-11-12T05:34:46.043Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-12T05:34:39.874Z",
+  "mirroredAt": "2026-11-12T05:34:46.245Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
