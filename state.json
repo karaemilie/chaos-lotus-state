@@ -992,25 +992,25 @@
     },
     {
       "source": "ZONES",
-      "zid": 87,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Eyebrows",
-      "uid": "ZONES:87"
-    },
-    {
-      "source": "ZONES",
       "zid": 73,
       "floor": "Plant",
       "label": "\ud83c\udf31 Bedroom",
       "emoji": "\ud83c\udf31",
       "zoneName": "Bedroom",
       "uid": "ZONES:73"
+    },
+    {
+      "source": "ZONES",
+      "zid": 88,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Teeth Whitening",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Teeth Whitening",
+      "uid": "ZONES:88"
     }
   ],
-  "version": 3407,
-  "updated": "2026-11-12T05:34:51.541739+00:00",
+  "version": 3408,
+  "updated": "2026-11-12T05:35:53.658847+00:00",
   "buckets": {
     "SPIN_WHEEL": 80,
     "TASKS": 23,
