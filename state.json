@@ -1035,12 +1035,19 @@
       "sid": 1333,
       "label": "Steam the curtains",
       "uid": "SPIN_WHEEL:1333"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1334,
+      "sid": 1334,
+      "label": "Glass claim - call",
+      "uid": "SPIN_WHEEL:1334"
     }
   ],
-  "version": 3415,
-  "updated": "2026-11-12T07:46:03.976635+00:00",
+  "version": 3416,
+  "updated": "2026-11-12T09:09:34.582262+00:00",
   "buckets": {
-    "SPIN_WHEEL": 84,
+    "SPIN_WHEEL": 85,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
