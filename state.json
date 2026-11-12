@@ -147,16 +147,6 @@
       "uid": "SPIN:1279"
     },
     {
-      "source": "ZONES",
-      "zid": 86,
-      "floor": "Personal",
-      "row": 89,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Epilate Legs",
-      "uid": "ZONES:86"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 900,
       "row": 6,
@@ -1008,10 +998,19 @@
       "sid": 1327,
       "label": "Write Amazon about defective balloons",
       "uid": "SPIN_WHEEL:1327"
+    },
+    {
+      "source": "ZONES",
+      "zid": 87,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Eyebrows",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Eyebrows",
+      "uid": "ZONES:87"
     }
   ],
-  "version": 3405,
-  "updated": "2026-11-12T02:43:53.008993+00:00",
+  "version": 3406,
+  "updated": "2026-11-12T05:26:16.609718+00:00",
   "buckets": {
     "SPIN_WHEEL": 80,
     "TASKS": 23,
