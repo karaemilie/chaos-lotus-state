@@ -1,9 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-12T06:47:25.095Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Find alarm stickers",
+      "_addedAt": "2026-11-12T06:47:11.642Z",
+      "_ts": "2026-11-12T06:47:11.771Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Curtain rod",
+      "_addedAt": "2026-11-12T06:47:30.916Z",
+      "_ts": "2026-11-12T06:47:31.066Z"
+    }
+  ],
+  "mirroredAt": "2026-11-12T06:47:31.289Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
