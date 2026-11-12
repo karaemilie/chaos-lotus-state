@@ -1,14 +1,16 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Curtain rod",
+      "uid": "PLUS_ADD:Curtain rod:2026-11-12T06:47:30.916Z",
+      "_ts": "2026-11-12T07:45:01.652Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-12T06:49:43.843Z",
+  "mirroredAt": "2026-11-12T07:45:02.037Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-12T06:49:45.072793+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1322",
-    "SPIN_WHEEL:1312"
-  ]
+  }
 }
