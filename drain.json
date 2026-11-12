@@ -2,14 +2,6 @@
   "completions": [
     {
       "source": "ZONES",
-      "zid": 80,
-      "floor": "Plant",
-      "label": "🌱 Hallway",
-      "uid": "ZONES:80",
-      "_ts": "2026-11-12T05:34:39.641Z"
-    },
-    {
-      "source": "ZONES",
       "zid": 87,
       "floor": "Personal",
       "label": "👱‍♀️ Eyebrows",
@@ -18,9 +10,9 @@
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-12T05:34:46.245Z",
+  "mirroredAt": "2026-11-12T05:34:54.256Z",
   "counts": {
-    "completions": 2,
+    "completions": 1,
     "adds": 0
   }
 }
