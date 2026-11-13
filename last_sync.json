@@ -1,15 +1,11 @@
 {
-  "lastRun": "2026-11-12T06:49:45.073154+00:00",
-  "lastRunAlaska": "2026-11-11 21:49 AKST",
-  "processedCount": 2,
+  "lastRun": "2026-11-13T00:53:23.213283+00:00",
+  "lastRunAlaska": "2026-11-12 15:53 AKST",
+  "processedCount": 1,
   "processed": [
     {
-      "uid": "SPIN_WHEEL:1322",
-      "result": "\u2705 SPIN deleted SID 1322 ('How to inflate balloon')"
-    },
-    {
-      "uid": "SPIN_WHEEL:1312",
-      "result": "\u2705 SPIN deleted SID 1312 ('Grab 800 grit sandpaper')"
+      "uid": "ZONES:73",
+      "result": "\u2705 Plant/Bedroom (row 76) stamped 2026-11-12"
     }
   ],
   "remainingForClaude": {
@@ -17,10 +13,18 @@
     "adds": 0
   },
   "daySweep": {
-    "added": [],
-    "bumped": [],
-    "today": "2026-11-11",
-    "stampToday": "2026-11-11",
+    "added": [
+      "TASKS:12382",
+      "TASKS:12393",
+      "TASKS:12401"
+    ],
+    "bumped": [
+      "TASKS:12205",
+      "TASKS:11903",
+      "TASKS:11983"
+    ],
+    "today": "2026-11-12",
+    "stampToday": "2026-11-12",
     "ran": true
   }
 }
