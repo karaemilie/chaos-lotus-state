@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-13T05:37:33.133Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Genevieve thanksgiving",
+      "_addedAt": "2026-11-13T05:38:53.561Z",
+      "_ts": "2026-11-13T05:38:53.719Z"
+    }
+  ],
+  "mirroredAt": "2026-11-13T05:38:53.962Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
