@@ -819,45 +819,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12205,
-      "label": "Look at how to choose assignments in Prep Median",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12205"
-    },
-    {
-      "source": "TASKS",
-      "id": 11903,
-      "label": "Look at Pet insta idea \ud83d\udc3e\ud83d\udcf1",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:11903"
-    },
-    {
-      "source": "TASKS",
-      "id": 11983,
-      "label": "Contact Brian about coaching \ud83c\udfca\ud83d\udcde",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:11983"
-    },
-    {
-      "source": "TASKS",
       "id": 12098,
       "label": "Create a daily editor in chief type grammar practice \u270f\ufe0f",
       "aw": 6,
@@ -978,15 +939,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
-      "source": "ZONES",
       "zid": 88,
       "floor": "Personal",
       "label": "\ud83d\udc71\u200d\u2640\ufe0f Teeth Whitening",
@@ -1042,10 +994,58 @@
       "sid": 1334,
       "label": "Glass claim - call",
       "uid": "SPIN_WHEEL:1334"
+    },
+    {
+      "source": "ZONES",
+      "zid": 74,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Plants",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Plants",
+      "uid": "ZONES:74"
+    },
+    {
+      "source": "TASKS",
+      "id": 12382,
+      "label": "\u2728 Put on new tattoo",
+      "aw": 4,
+      "pri": 3,
+      "dur": 10,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12382"
+    },
+    {
+      "source": "TASKS",
+      "id": 12393,
+      "label": "\u2728 Spend time on flower bouquet coding project",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": "Bouquet Tracker",
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12393"
+    },
+    {
+      "source": "TASKS",
+      "id": 12401,
+      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12401"
     }
   ],
-  "version": 3416,
-  "updated": "2026-11-12T09:09:34.582262+00:00",
+  "version": 3417,
+  "updated": "2026-11-13T00:53:20.500621+00:00",
   "buckets": {
     "SPIN_WHEEL": 85,
     "TASKS": 23,
