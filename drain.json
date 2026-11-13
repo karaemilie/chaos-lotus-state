@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-13T06:50:02.744Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "1% better every day - I can start with one minute of work a day",
+      "_addedAt": "2026-11-13T07:11:56.895Z",
+      "_ts": "2026-11-13T07:11:57.058Z"
+    }
+  ],
+  "mirroredAt": "2026-11-13T07:11:57.326Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
