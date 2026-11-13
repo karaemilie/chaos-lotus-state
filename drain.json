@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-13T07:12:13.438Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Jake hoodie",
+      "_addedAt": "2026-11-13T08:31:55.830Z",
+      "_ts": "2026-11-13T08:31:55.969Z"
+    }
+  ],
+  "mirroredAt": "2026-11-13T08:31:56.230Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
