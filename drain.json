@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-13T00:53:21.987Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Baltimore tix",
+      "_addedAt": "2026-11-13T05:36:34.374Z",
+      "_ts": "2026-11-13T05:36:34.512Z"
+    }
+  ],
+  "mirroredAt": "2026-11-13T05:36:34.767Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-13T00:53:23.213042+00:00",
-  "lastAutoProcessed": [
-    "ZONES:73"
-  ]
+    "adds": 1
+  }
 }
