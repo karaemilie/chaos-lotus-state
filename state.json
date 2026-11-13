@@ -1098,12 +1098,19 @@
       "sid": 1342,
       "label": "Get more cat food",
       "uid": "SPIN_WHEEL:1342"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1343,
+      "sid": 1343,
+      "label": "GENEVIEVE PLANE TIX",
+      "uid": "SPIN_WHEEL:1343"
     }
   ],
-  "version": 3425,
-  "updated": "2026-11-13T08:43:14.930767+00:00",
+  "version": 3426,
+  "updated": "2026-11-13T08:44:01.454725+00:00",
   "buckets": {
-    "SPIN_WHEEL": 93,
+    "SPIN_WHEEL": 94,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
