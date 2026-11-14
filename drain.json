@@ -1,9 +1,24 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-14T23:40:40.558Z",
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 85,
+      "label": "Baltimore tix",
+      "uid": "SPIN:1335",
+      "_ts": "2026-11-14T23:40:50.075Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Morpho payment - handle",
+      "_addedAt": "2026-11-14T23:40:28.391Z",
+      "_ts": "2026-11-14T23:40:28.560Z"
+    }
+  ],
+  "mirroredAt": "2026-11-14T23:40:50.300Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
+    "completions": 1,
+    "adds": 1
   }
 }
