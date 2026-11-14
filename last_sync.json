@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-11-13T00:53:23.213283+00:00",
-  "lastRunAlaska": "2026-11-12 15:53 AKST",
+  "lastRun": "2026-11-14T03:36:35.310216+00:00",
+  "lastRunAlaska": "2026-11-13 18:36 AKST",
   "processedCount": 1,
   "processed": [
     {
-      "uid": "ZONES:73",
-      "result": "\u2705 Plant/Bedroom (row 76) stamped 2026-11-12"
+      "uid": "ZONES:79",
+      "result": "\u2705 Plant/Kitchen Up High (row 82) stamped 2026-11-13"
     }
   ],
   "remainingForClaude": {
@@ -14,17 +14,15 @@
   },
   "daySweep": {
     "added": [
-      "TASKS:12382",
-      "TASKS:12393",
-      "TASKS:12401"
+      "TASKS:11987",
+      "TASKS:12334"
     ],
     "bumped": [
-      "TASKS:12205",
-      "TASKS:11903",
-      "TASKS:11983"
+      "TASKS:12098",
+      "TASKS:12257"
     ],
-    "today": "2026-11-12",
-    "stampToday": "2026-11-12",
+    "today": "2026-11-13",
+    "stampToday": "2026-11-13",
     "ran": true
   }
 }
