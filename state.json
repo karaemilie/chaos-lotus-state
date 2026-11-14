@@ -231,16 +231,6 @@
       "uid": "SPIN:1283"
     },
     {
-      "source": "ZONES",
-      "zid": 79,
-      "floor": "Plant",
-      "row": 82,
-      "label": "\ud83c\udf31 Kitchen Up High",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Kitchen Up High",
-      "uid": "ZONES:79"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1196,
       "row": 38,
@@ -818,32 +808,6 @@
       "uid": "SPIN_WHEEL:1318"
     },
     {
-      "source": "TASKS",
-      "id": 12098,
-      "label": "Create a daily editor in chief type grammar practice \u270f\ufe0f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12098"
-    },
-    {
-      "source": "TASKS",
-      "id": 12257,
-      "label": "Show Lincoln how to track his progress toward his assigned test date in Prep Median \ud83d\udcc8\ud83d\udcdd",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12257"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1319,
       "sid": 1319,
@@ -1126,10 +1090,45 @@
       "sid": 1346,
       "label": "Jake thanksgiving",
       "uid": "SPIN_WHEEL:1346"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Main floor Down Low",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Main floor Down Low",
+      "uid": "ZONES:75"
+    },
+    {
+      "source": "TASKS",
+      "id": 11987,
+      "label": "\u2728 Work on kids education planning projects \ud83d\udcda",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 45,
+      "ml": "Medium",
+      "proj": "Homeschool Admin",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:11987"
+    },
+    {
+      "source": "TASKS",
+      "id": 12334,
+      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12334"
     }
   ],
-  "version": 3428,
-  "updated": "2026-11-13T21:37:11.250650+00:00",
+  "version": 3429,
+  "updated": "2026-11-14T03:36:32.483748+00:00",
   "buckets": {
     "SPIN_WHEEL": 97,
     "TASKS": 23,
