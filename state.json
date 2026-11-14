@@ -1129,12 +1129,19 @@
       "sid": 1347,
       "label": "Put up security system",
       "uid": "SPIN_WHEEL:1347"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1348,
+      "sid": 1348,
+      "label": "Verify Bentley account for $1500",
+      "uid": "SPIN_WHEEL:1348"
     }
   ],
-  "version": 3435,
-  "updated": "2026-11-14T08:15:44.775231+00:00",
+  "version": 3436,
+  "updated": "2026-11-14T08:32:32.620276+00:00",
   "buckets": {
-    "SPIN_WHEEL": 98,
+    "SPIN_WHEEL": 99,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
