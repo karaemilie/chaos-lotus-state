@@ -482,13 +482,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1330,
-      "row": 81,
-      "label": "Curtain rod",
-      "uid": "SPIN:1330"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1032,
       "row": 14,
       "label": "Next class into Minima w/L **",
@@ -697,13 +690,6 @@
       "row": 17,
       "label": "Pull up Musiah app",
       "uid": "SPIN:1065"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1329,
-      "row": 80,
-      "label": "Find alarm stickers",
-      "uid": "SPIN:1329"
     },
     {
       "source": "SPIN_WHEEL",
@@ -958,13 +944,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1327,
-      "row": 78,
-      "label": "Write Amazon about defective balloons",
-      "uid": "SPIN:1327"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 954,
       "row": 9,
       "label": "Boys Paint Project!!",
@@ -1055,11 +1034,11 @@
       "uid": "TASKS:12269"
     }
   ],
-  "version": 3446,
-  "updated": "2026-11-14T11:49:22.553422+00:00",
+  "version": 3447,
+  "updated": "2026-11-14T11:50:20.187372+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 89,
+    "SPIN_WHEEL": 86,
     "ZONES": 7,
     "TASKS": 22,
     "MAINTENANCE": 2
