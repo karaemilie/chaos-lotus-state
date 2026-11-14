@@ -627,20 +627,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12400,
-      "row": 416,
-      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12400"
-    },
-    {
-      "source": "TASKS",
       "id": 11987,
       "row": 240,
       "label": "\u2728 Work on kids education planning projects \ud83d\udcda",
@@ -1076,10 +1062,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11765"
+    },
+    {
+      "source": "TASKS",
+      "id": 10143,
+      "label": "Set up Credit Karma monitoring account for Jackson",
+      "aw": 4,
+      "pri": "High",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": "Credit Setup",
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10143"
     }
   ],
-  "version": 3444,
-  "updated": "2026-11-14T11:48:09.636664+00:00",
+  "version": 3445,
+  "updated": "2026-11-14T11:48:35.229460+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 92,
