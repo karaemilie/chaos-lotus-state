@@ -1069,15 +1069,6 @@
       "uid": "SPIN_WHEEL:1346"
     },
     {
-      "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
-    },
-    {
       "source": "TASKS",
       "id": 11987,
       "label": "\u2728 Work on kids education planning projects \ud83d\udcda",
@@ -1124,10 +1115,19 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:10479"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
     }
   ],
-  "version": 3431,
-  "updated": "2026-11-14T04:25:19.057295+00:00",
+  "version": 3432,
+  "updated": "2026-11-14T04:26:03.303110+00:00",
   "buckets": {
     "SPIN_WHEEL": 97,
     "TASKS": 23,
