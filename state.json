@@ -28,20 +28,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1318,
-      "row": 72,
-      "label": "Test",
-      "uid": "SPIN:1318"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1347,
-      "row": 94,
-      "label": "Put up security system",
-      "uid": "SPIN:1347"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1349,
       "row": 96,
       "label": "Call Dr office",
@@ -350,13 +336,6 @@
       "row": 29,
       "label": "Submit for viola rest",
       "uid": "SPIN:1157"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1325,
-      "row": 76,
-      "label": "Living room curtain pulls",
-      "uid": "SPIN:1325"
     },
     {
       "source": "SPIN_WHEEL",
@@ -765,20 +744,6 @@
       "uid": "TASKS:11216"
     },
     {
-      "source": "TASKS",
-      "id": 12401,
-      "row": 417,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12401"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1069,
       "row": 18,
@@ -1075,13 +1040,26 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10143"
+    },
+    {
+      "source": "TASKS",
+      "id": 12269,
+      "label": "Get Xmind connected",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12269"
     }
   ],
-  "version": 3445,
-  "updated": "2026-11-14T11:48:35.229460+00:00",
+  "version": 3446,
+  "updated": "2026-11-14T11:49:22.553422+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 92,
+    "SPIN_WHEEL": 89,
     "ZONES": 7,
     "TASKS": 22,
     "MAINTENANCE": 2
