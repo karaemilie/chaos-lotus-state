@@ -785,32 +785,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11895,
-      "label": "Book septic \ud83d\udebd",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11895"
-    },
-    {
-      "source": "TASKS",
-      "id": 11940,
-      "label": "Deploy chore app \ud83d\udcf1",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11940"
-    },
-    {
-      "source": "TASKS",
       "id": 12157,
       "label": "\u2728 Help Evan plan a game night \ud83c\udfb2\ud83c\udfae",
       "aw": 6,
@@ -883,13 +857,6 @@
       "sid": 1330,
       "label": "Curtain rod",
       "uid": "SPIN_WHEEL:1330"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1331,
-      "sid": 1331,
-      "label": "Inspect all sections of curtain rod \ud83e\udd14",
-      "uid": "SPIN_WHEEL:1331"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1080,19 +1047,6 @@
       "uid": "ZONES:90"
     },
     {
-      "source": "TASKS",
-      "id": 10479,
-      "label": "Sort out ortho, root canal, and tooth appointments \ud83d\ude2c \ud83d\udcdd",
-      "aw": 5,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10479"
-    },
-    {
       "source": "ZONES",
       "zid": 76,
       "floor": "Plant",
@@ -1136,12 +1090,51 @@
       "sid": 1348,
       "label": "Verify Bentley account for $1500",
       "uid": "SPIN_WHEEL:1348"
+    },
+    {
+      "source": "TASKS",
+      "id": 12067,
+      "label": "\u2728 Review Evan's bedtime & adjust melatonin timing \ud83d\ude34\ud83d\udc8a",
+      "aw": 6,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": null,
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12067"
+    },
+    {
+      "source": "TASKS",
+      "id": 12349,
+      "label": "\u2728 List 3-5 plants for sale on marketplace \ud83e\udeb4\ud83d\udcb0 \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Normal",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12349"
+    },
+    {
+      "source": "TASKS",
+      "id": 12403,
+      "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12403"
     }
   ],
-  "version": 3436,
-  "updated": "2026-11-14T08:32:32.620276+00:00",
+  "version": 3437,
+  "updated": "2026-11-14T09:43:21.288378+00:00",
   "buckets": {
-    "SPIN_WHEEL": 99,
+    "SPIN_WHEEL": 98,
     "TASKS": 23,
     "ZONES": 8,
     "COURAGE": 4,
