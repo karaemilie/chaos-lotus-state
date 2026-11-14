@@ -1,6 +1,27 @@
 {
   "completions": [
     {
+      "source": "SPIN_WHEEL",
+      "row": 82,
+      "label": "Write Amazon about balloons and shoes",
+      "uid": "SPIN:1332",
+      "_ts": "2026-11-14T11:46:17.307Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 91,
+      "label": "GENEVIEVE PLANE TIX",
+      "uid": "SPIN:1343",
+      "_ts": "2026-11-14T11:46:37.875Z"
+    },
+    {
+      "source": "MAINTENANCE",
+      "row": 140,
+      "label": "🏠 Vacuum the upstairs stairs",
+      "uid": "MAINTENANCE:137",
+      "_ts": "2026-11-14T11:47:16.317Z"
+    },
+    {
       "source": "ZONES",
       "row": 57,
       "zid": 55,
@@ -8,12 +29,19 @@
       "label": "🧺 Back Annex",
       "uid": "ZONES:55",
       "_ts": "2026-11-14T11:47:24.447Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 59,
+      "label": "Install new curtains",
+      "uid": "SPIN:1299",
+      "_ts": "2026-11-14T11:47:34.602Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-14T11:47:31.550Z",
+  "mirroredAt": "2026-11-14T11:47:34.820Z",
   "counts": {
-    "completions": 1,
+    "completions": 5,
     "adds": 0
   }
 }
