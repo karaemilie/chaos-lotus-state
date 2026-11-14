@@ -712,16 +712,6 @@
       "uid": "SPIN:1302"
     },
     {
-      "source": "ZONES",
-      "zid": 58,
-      "floor": "Digital",
-      "row": 60,
-      "label": "\ud83d\udcbb Emails",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Emails",
-      "uid": "ZONES:58"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1254,
       "row": 47,
@@ -1123,10 +1113,19 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10503"
+    },
+    {
+      "source": "ZONES",
+      "zid": 60,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Photos",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Photos",
+      "uid": "ZONES:60"
     }
   ],
-  "version": 3433,
-  "updated": "2026-11-14T05:13:43.184826+00:00",
+  "version": 3434,
+  "updated": "2026-11-14T05:14:12.335242+00:00",
   "buckets": {
     "SPIN_WHEEL": 97,
     "TASKS": 23,
