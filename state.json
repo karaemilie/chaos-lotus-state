@@ -48,16 +48,6 @@
       "uid": "SPIN:1349"
     },
     {
-      "source": "ZONES",
-      "zid": 55,
-      "floor": "Basement",
-      "row": 57,
-      "label": "\ud83e\uddfa Back Annex",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Back Annex",
-      "uid": "ZONES:55"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1260,
       "row": 46,
@@ -540,20 +530,6 @@
       "uid": "SPIN:1030"
     },
     {
-      "source": "TASKS",
-      "id": 12273,
-      "row": 327,
-      "label": "\u2728 Cancel GAlarm?",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12273"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1166,
       "row": 32,
@@ -637,13 +613,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1305,
-      "row": 64,
-      "label": "Curtain tassels for library",
-      "uid": "SPIN:1305"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1013,
       "row": 11,
       "label": "MSG for Jake re: trumpet!! B",
@@ -700,13 +669,6 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Feet Care & Pedi",
       "uid": "ZONES:90"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1299,
-      "row": 59,
-      "label": "Install new curtains",
-      "uid": "SPIN:1299"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1092,13 +1054,35 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Scrub kids shower",
       "uid": "MAINTENANCE:138"
+    },
+    {
+      "source": "ZONES",
+      "zid": 56,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Bathroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Bathroom",
+      "uid": "ZONES:56"
+    },
+    {
+      "source": "TASKS",
+      "id": 11765,
+      "label": "Search for velvet bar stools \ud83e\ude91",
+      "aw": 3,
+      "pri": 3,
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11765"
     }
   ],
-  "version": 3443,
-  "updated": "2026-11-14T11:47:30.154048+00:00",
+  "version": 3444,
+  "updated": "2026-11-14T11:48:09.636664+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 94,
+    "SPIN_WHEEL": 92,
     "ZONES": 7,
     "TASKS": 22,
     "MAINTENANCE": 2
