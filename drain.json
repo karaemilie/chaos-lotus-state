@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-14T05:14:15.526Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Put up security system",
+      "_addedAt": "2026-11-14T08:15:24.241Z",
+      "_ts": "2026-11-14T08:15:24.401Z"
+    }
+  ],
+  "mirroredAt": "2026-11-14T08:15:24.635Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-14T05:14:16.861942+00:00",
-  "lastAutoProcessed": [
-    "ZONES:58",
-    "TASKS:12330"
-  ]
+    "adds": 1
+  }
 }
