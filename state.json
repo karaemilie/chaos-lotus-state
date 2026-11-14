@@ -1009,19 +1009,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10143,
-      "label": "Set up Credit Karma monitoring account for Jackson",
-      "aw": 4,
-      "pri": "High",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": "Credit Setup",
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:10143"
-    },
-    {
-      "source": "TASKS",
       "id": 12269,
       "label": "Get Xmind connected",
       "aw": 4,
@@ -1032,10 +1019,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12269"
+    },
+    {
+      "source": "TASKS",
+      "id": 10505,
+      "label": "Bank run",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10505"
     }
   ],
-  "version": 3447,
-  "updated": "2026-11-14T11:50:20.187372+00:00",
+  "version": 3448,
+  "updated": "2026-11-14T11:51:04.043769+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 86,
