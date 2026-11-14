@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-14T08:15:43.298Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Verify Bentley account for $1500",
+      "_addedAt": "2026-11-14T08:32:13.591Z",
+      "_ts": "2026-11-14T08:32:13.731Z"
+    }
+  ],
+  "mirroredAt": "2026-11-14T08:32:13.980Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
