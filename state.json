@@ -1039,13 +1039,20 @@
       "sid": 1351,
       "label": "Cancel Bailey flight",
       "uid": "SPIN_WHEEL:1351"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1352,
+      "sid": 1352,
+      "label": "Test my focus settings",
+      "uid": "SPIN_WHEEL:1352"
     }
   ],
-  "version": 3449,
-  "updated": "2026-11-14T23:36:36.598071+00:00",
+  "version": 3450,
+  "updated": "2026-11-14T23:39:15.634817+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 87,
+    "SPIN_WHEEL": 88,
     "ZONES": 7,
     "TASKS": 22,
     "MAINTENANCE": 2
