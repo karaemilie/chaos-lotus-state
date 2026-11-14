@@ -1,19 +1,70 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 82,
+      "label": "Write Amazon about balloons and shoes",
+      "uid": "SPIN:1332",
+      "_ts": "2026-11-14T11:46:17.307Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 91,
+      "label": "GENEVIEVE PLANE TIX",
+      "uid": "SPIN:1343",
+      "_ts": "2026-11-14T11:46:37.875Z"
+    },
+    {
+      "source": "MAINTENANCE",
+      "row": 140,
+      "label": "🏠 Vacuum the upstairs stairs",
+      "uid": "MAINTENANCE:137",
+      "_ts": "2026-11-14T11:47:16.317Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 57,
+      "zid": 55,
+      "floor": "Basement",
+      "label": "🧺 Back Annex",
+      "uid": "ZONES:55",
+      "_ts": "2026-11-14T11:47:24.447Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 59,
+      "label": "Install new curtains",
+      "uid": "SPIN:1299",
+      "_ts": "2026-11-14T11:47:34.602Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 64,
+      "label": "Curtain tassels for library",
+      "uid": "SPIN:1305",
+      "_ts": "2026-11-14T11:47:41.608Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12273,
+      "row": 327,
+      "label": "✨ Cancel GAlarm?",
+      "uid": "TASKS:12273",
+      "_ts": "2026-11-14T11:47:50.735Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12400,
+      "row": 416,
+      "label": "✨ New habit for week? Or new stacked habit? Assess!",
+      "uid": "TASKS:12400",
+      "_ts": "2026-11-14T11:48:22.589Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-14T11:48:12.432Z",
+  "mirroredAt": "2026-11-14T11:48:22.812Z",
   "counts": {
-    "completions": 0,
+    "completions": 8,
     "adds": 0
-  },
-  "processedAt": "2026-11-14T11:48:13.507043+00:00",
-  "lastAutoProcessed": [
-    "ZONES:55",
-    "MAINTENANCE:137",
-    "SPIN:1332",
-    "SPIN:1343",
-    "SPIN:1305",
-    "SPIN:1299",
-    "TASKS:12273"
-  ]
+  }
 }
