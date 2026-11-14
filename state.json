@@ -1046,13 +1046,20 @@
       "sid": 1352,
       "label": "Test my focus settings",
       "uid": "SPIN_WHEEL:1352"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1353,
+      "sid": 1353,
+      "label": "Morpho payment - handle",
+      "uid": "SPIN_WHEEL:1353"
     }
   ],
-  "version": 3450,
-  "updated": "2026-11-14T23:39:15.634817+00:00",
+  "version": 3451,
+  "updated": "2026-11-14T23:40:42.029004+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 88,
+    "SPIN_WHEEL": 89,
     "ZONES": 7,
     "TASKS": 22,
     "MAINTENANCE": 2
