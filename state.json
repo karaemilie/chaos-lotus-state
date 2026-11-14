@@ -179,13 +179,6 @@
       "uid": "TASKS:12351"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1326,
-      "row": 77,
-      "label": "Fix Vine alerts",
-      "uid": "SPIN:1326"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10218,
       "parentRow": 51,
@@ -1048,11 +1041,11 @@
       "uid": "SPIN_WHEEL:1353"
     }
   ],
-  "version": 3452,
-  "updated": "2026-11-14T23:41:29.701567+00:00",
+  "version": 3453,
+  "updated": "2026-11-14T23:42:13.758770+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 88,
+    "SPIN_WHEEL": 87,
     "ZONES": 7,
     "TASKS": 22,
     "MAINTENANCE": 2
