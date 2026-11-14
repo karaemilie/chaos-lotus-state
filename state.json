@@ -114,20 +114,6 @@
       "uid": "SPIN:1310"
     },
     {
-      "source": "TASKS",
-      "id": 12330,
-      "row": 362,
-      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12330"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10009,
       "parentRow": 2,
@@ -1124,10 +1110,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook A",
       "uid": "ZONES:76"
+    },
+    {
+      "source": "TASKS",
+      "id": 10503,
+      "label": "Cancel B student prime or keep?",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10503"
     }
   ],
-  "version": 3432,
-  "updated": "2026-11-14T04:26:03.303110+00:00",
+  "version": 3433,
+  "updated": "2026-11-14T05:13:43.184826+00:00",
   "buckets": {
     "SPIN_WHEEL": 97,
     "TASKS": 23,
