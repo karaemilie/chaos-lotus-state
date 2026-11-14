@@ -20,12 +20,21 @@
       "label": "🏠 Vacuum the upstairs stairs",
       "uid": "MAINTENANCE:137",
       "_ts": "2026-11-14T11:47:16.317Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 57,
+      "zid": 55,
+      "floor": "Basement",
+      "label": "🧺 Back Annex",
+      "uid": "ZONES:55",
+      "_ts": "2026-11-14T11:47:24.447Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-14T11:47:16.552Z",
+  "mirroredAt": "2026-11-14T11:47:24.675Z",
   "counts": {
-    "completions": 3,
+    "completions": 4,
     "adds": 0
   }
 }
