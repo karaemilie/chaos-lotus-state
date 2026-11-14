@@ -369,15 +369,6 @@
       "uid": "SPIN:1325"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 137,
-      "row": 140,
-      "label": "\ud83c\udfe0 Vacuum the upstairs stairs",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Vacuum the upstairs stairs",
-      "uid": "MAINTENANCE:137"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1300,
       "row": 60,
@@ -1093,10 +1084,18 @@
       "row": 35,
       "label": "Lincoln spring class plan",
       "uid": "SPIN:1186"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 138,
+      "label": "\ud83c\udfe0 Scrub kids shower",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Scrub kids shower",
+      "uid": "MAINTENANCE:138"
     }
   ],
-  "version": 3442,
-  "updated": "2026-11-14T11:46:58.298074+00:00",
+  "version": 3443,
+  "updated": "2026-11-14T11:47:30.154048+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 94,
