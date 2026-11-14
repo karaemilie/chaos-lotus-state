@@ -1,13 +1,27 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12330,
+      "row": 362,
+      "label": "✨ Create Kahn assignments for Lincoln & Evan",
+      "uid": "TASKS:12330",
+      "_ts": "2026-11-14T05:13:20.640Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 60,
+      "zid": 58,
+      "floor": "Digital",
+      "label": "💻 Emails",
+      "uid": "ZONES:58",
+      "_ts": "2026-11-14T05:13:50.920Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-14T05:13:46.739Z",
+  "mirroredAt": "2026-11-14T05:13:51.159Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-11-14T05:13:48.057424+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12330"
-  ]
+  }
 }
