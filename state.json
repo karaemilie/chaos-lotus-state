@@ -419,20 +419,6 @@
       "uid": "COURAGE:10959:0"
     },
     {
-      "source": "TASKS",
-      "id": 12344,
-      "row": 374,
-      "label": "\u2728 Refill vitamin boxes for Lincoln & Evan \ud83d\udc8a",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:12344"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1268,
       "row": 50,
@@ -1125,10 +1111,23 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Feet Care & Pedi",
       "uid": "ZONES:90"
+    },
+    {
+      "source": "TASKS",
+      "id": 10479,
+      "label": "Sort out ortho, root canal, and tooth appointments \ud83d\ude2c \ud83d\udcdd",
+      "aw": 5,
+      "pri": "High",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10479"
     }
   ],
-  "version": 3430,
-  "updated": "2026-11-14T03:40:37.872360+00:00",
+  "version": 3431,
+  "updated": "2026-11-14T04:25:19.057295+00:00",
   "buckets": {
     "SPIN_WHEEL": 97,
     "TASKS": 23,
