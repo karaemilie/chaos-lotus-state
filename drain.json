@@ -1,22 +1,9 @@
 {
   "completions": [],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Set up Credit Karma monitoring account for Jackson",
-      "_addedAt": "2026-11-14T11:49:57.887Z",
-      "reschedule": {
-        "uid": "TASKS:10143",
-        "id": 10143,
-        "label": "Set up Credit Karma monitoring account for Jackson",
-        "start": "2026-12-14"
-      },
-      "_ts": "2026-11-14T11:49:57.991Z"
-    }
-  ],
-  "mirroredAt": "2026-11-14T11:50:23.312Z",
+  "adds": [],
+  "mirroredAt": "2026-11-14T11:51:05.304Z",
   "counts": {
     "completions": 0,
-    "adds": 1
+    "adds": 0
   }
 }
