@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-14T09:43:22.944Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Call Dr office",
+      "_addedAt": "2026-11-14T10:10:45.937Z",
+      "_ts": "2026-11-14T10:10:46.352Z"
+    }
+  ],
+  "mirroredAt": "2026-11-14T10:10:46.588Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-14T09:43:24.207219+00:00",
-  "lastAutoProcessed": [
-    "SPIN_WHEEL:1331"
-  ]
+    "adds": 1
+  }
 }
