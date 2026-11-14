@@ -902,15 +902,6 @@
       "uid": "SPIN_WHEEL:1327"
     },
     {
-      "source": "ZONES",
-      "zid": 88,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Teeth Whitening",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Teeth Whitening",
-      "uid": "ZONES:88"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1328,
       "sid": 1328,
@@ -1125,10 +1116,19 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:12334"
+    },
+    {
+      "source": "ZONES",
+      "zid": 90,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Feet Care & Pedi",
+      "uid": "ZONES:90"
     }
   ],
-  "version": 3429,
-  "updated": "2026-11-14T03:36:32.483748+00:00",
+  "version": 3430,
+  "updated": "2026-11-14T03:40:37.872360+00:00",
   "buckets": {
     "SPIN_WHEEL": 97,
     "TASKS": 23,
