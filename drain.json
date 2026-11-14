@@ -1,116 +1,5 @@
 {
-  "completions": [
-    {
-      "source": "SPIN_WHEEL",
-      "row": 82,
-      "label": "Write Amazon about balloons and shoes",
-      "uid": "SPIN:1332",
-      "_ts": "2026-11-14T11:46:17.307Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 91,
-      "label": "GENEVIEVE PLANE TIX",
-      "uid": "SPIN:1343",
-      "_ts": "2026-11-14T11:46:37.875Z"
-    },
-    {
-      "source": "MAINTENANCE",
-      "row": 140,
-      "label": "🏠 Vacuum the upstairs stairs",
-      "uid": "MAINTENANCE:137",
-      "_ts": "2026-11-14T11:47:16.317Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 57,
-      "zid": 55,
-      "floor": "Basement",
-      "label": "🧺 Back Annex",
-      "uid": "ZONES:55",
-      "_ts": "2026-11-14T11:47:24.447Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 59,
-      "label": "Install new curtains",
-      "uid": "SPIN:1299",
-      "_ts": "2026-11-14T11:47:34.602Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 64,
-      "label": "Curtain tassels for library",
-      "uid": "SPIN:1305",
-      "_ts": "2026-11-14T11:47:41.608Z"
-    },
-    {
-      "source": "TASKS",
-      "id": 12273,
-      "row": 327,
-      "label": "✨ Cancel GAlarm?",
-      "uid": "TASKS:12273",
-      "_ts": "2026-11-14T11:47:50.735Z"
-    },
-    {
-      "source": "TASKS",
-      "id": 12400,
-      "row": 416,
-      "label": "✨ New habit for week? Or new stacked habit? Assess!",
-      "uid": "TASKS:12400",
-      "_ts": "2026-11-14T11:48:22.589Z"
-    },
-    {
-      "source": "TASKS",
-      "id": 12401,
-      "row": 417,
-      "label": "✨ Use Claude budget on new projects or app feature development 🧠⏳ 📝",
-      "uid": "TASKS:12401",
-      "_ts": "2026-11-14T11:48:30.929Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 72,
-      "label": "Test",
-      "uid": "SPIN:1318",
-      "_ts": "2026-11-14T11:48:47.537Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 94,
-      "label": "Put up security system",
-      "uid": "SPIN:1347",
-      "_ts": "2026-11-14T11:48:54.241Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 76,
-      "label": "Living room curtain pulls",
-      "uid": "SPIN:1325",
-      "_ts": "2026-11-14T11:49:02.940Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 81,
-      "label": "Curtain rod",
-      "uid": "SPIN:1330",
-      "_ts": "2026-11-14T11:49:17.302Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 80,
-      "label": "Find alarm stickers",
-      "uid": "SPIN:1329",
-      "_ts": "2026-11-14T11:49:25.109Z"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 78,
-      "label": "Write Amazon about defective balloons",
-      "uid": "SPIN:1327",
-      "_ts": "2026-11-14T11:49:32.438Z"
-    }
-  ],
+  "completions": [],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -125,9 +14,9 @@
       "_ts": "2026-11-14T11:49:57.991Z"
     }
   ],
-  "mirroredAt": "2026-11-14T11:49:58.223Z",
+  "mirroredAt": "2026-11-14T11:50:23.312Z",
   "counts": {
-    "completions": 15,
+    "completions": 0,
     "adds": 1
   }
 }
