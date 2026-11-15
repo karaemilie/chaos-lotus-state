@@ -6,12 +6,21 @@
       "label": "🏠 Trim cat claws",
       "uid": "MAINTENANCE:136",
       "_ts": "2026-11-15T06:11:08.975Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 10,
+      "zid": 9,
+      "floor": "Upstairs",
+      "label": "🧺 Upstairs Hallway",
+      "uid": "ZONES:9",
+      "_ts": "2026-11-15T06:11:13.140Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-15T06:11:09.191Z",
+  "mirroredAt": "2026-11-15T06:11:13.379Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
