@@ -1,13 +1,24 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-14T23:42:15.340Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Freeze dryer - stary",
+      "_addedAt": "2026-11-15T01:59:47.916Z",
+      "newtask": {
+        "label": "Freeze dryer - stary",
+        "start": "2026-11-16",
+        "category": "Home",
+        "aw": 4,
+        "recType": "None",
+        "recValue": null
+      },
+      "_ts": "2026-11-15T01:59:48.062Z"
+    }
+  ],
+  "mirroredAt": "2026-11-15T01:59:48.338Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-14T23:42:16.499203+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1326"
-  ]
+    "adds": 1
+  }
 }
