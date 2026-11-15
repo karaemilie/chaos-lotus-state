@@ -1,9 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "MAINTENANCE",
+      "row": 139,
+      "label": "🏠 Trim cat claws",
+      "uid": "MAINTENANCE:136",
+      "_ts": "2026-11-15T06:11:08.975Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-15T02:00:00.754Z",
+  "mirroredAt": "2026-11-15T06:11:09.191Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
   }
 }
