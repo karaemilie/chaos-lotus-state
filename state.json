@@ -142,15 +142,6 @@
       "uid": "SPIN:1091"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 136,
-      "row": 139,
-      "label": "\ud83c\udfe0 Trim cat claws",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Trim cat claws",
-      "uid": "MAINTENANCE:136"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 921,
       "row": 7,
@@ -1039,10 +1030,18 @@
       "sid": 1353,
       "label": "Morpho payment - handle",
       "uid": "SPIN_WHEEL:1353"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 139,
+      "label": "\ud83c\udfe0 Clean bathroom mirrors",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Clean bathroom mirrors",
+      "uid": "MAINTENANCE:139"
     }
   ],
-  "version": 3453,
-  "updated": "2026-11-14T23:42:13.758770+00:00",
+  "version": 3454,
+  "updated": "2026-11-15T06:11:22.667936+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 87,
