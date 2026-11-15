@@ -216,16 +216,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 9,
-      "floor": "Upstairs",
-      "row": 10,
-      "label": "\ud83e\uddfa Upstairs Hallway",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Upstairs Hallway",
-      "uid": "ZONES:9"
-    },
-    {
-      "source": "ZONES",
       "zid": 74,
       "floor": "Plant",
       "row": 77,
@@ -1038,10 +1028,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Clean bathroom mirrors",
       "uid": "MAINTENANCE:139"
+    },
+    {
+      "source": "ZONES",
+      "zid": 10,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Boys Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Boys Room",
+      "uid": "ZONES:10"
     }
   ],
-  "version": 3454,
-  "updated": "2026-11-15T06:11:22.667936+00:00",
+  "version": 3455,
+  "updated": "2026-11-15T06:12:03.380844+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 87,
