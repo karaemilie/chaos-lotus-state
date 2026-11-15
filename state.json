@@ -396,16 +396,6 @@
       "uid": "TASKS:12375"
     },
     {
-      "source": "ZONES",
-      "zid": 22,
-      "floor": "Main Floor",
-      "row": 23,
-      "label": "\ud83e\uddfa Mudroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Mudroom",
-      "uid": "ZONES:22"
-    },
-    {
       "source": "TASKS",
       "id": 12403,
       "row": 419,
@@ -1037,10 +1027,19 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Boys Room",
       "uid": "ZONES:10"
+    },
+    {
+      "source": "ZONES",
+      "zid": 23,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Kitchen",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Kitchen",
+      "uid": "ZONES:23"
     }
   ],
-  "version": 3455,
-  "updated": "2026-11-15T06:12:03.380844+00:00",
+  "version": 3456,
+  "updated": "2026-11-15T06:25:26.776173+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 87,
