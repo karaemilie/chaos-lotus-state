@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-15T06:25:28.057Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Smoothie stuff to bin 😬😬😬",
+      "_addedAt": "2026-11-15T11:33:36.092Z",
+      "_ts": "2026-11-15T11:33:36.247Z"
+    }
+  ],
+  "mirroredAt": "2026-11-15T11:33:36.476Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-15T06:25:29.133943+00:00",
-  "lastAutoProcessed": [
-    "ZONES:22"
-  ]
+    "adds": 1
+  }
 }
