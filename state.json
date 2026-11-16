@@ -860,20 +860,6 @@
       "uid": "TASKS:12334"
     },
     {
-      "source": "TASKS",
-      "id": 10120,
-      "row": 22,
-      "label": "\u2b50 Set up family plan for 1Password \ud83d\udcdd",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": "Tech/Household",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10120"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1254,
       "row": 45,
@@ -919,13 +905,6 @@
       "row": 41,
       "label": "Plug in iPhone to Xcode for Pansy! **",
       "uid": "SPIN:1230"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1351,
-      "row": 83,
-      "label": "Cancel Bailey flight",
-      "uid": "SPIN:1351"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1057,13 +1036,65 @@
       "sid": 1355,
       "label": "Ponder integrating what I like about stopwatch app with full app?  Thinking \ud83e\udd14",
       "uid": "SPIN_WHEEL:1355"
+    },
+    {
+      "source": "TASKS",
+      "id": 12190,
+      "label": "\u2728 Deep clean cat litter \ud83d\udc31\ud83e\uddfc",
+      "aw": 3,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12190"
+    },
+    {
+      "source": "TASKS",
+      "id": 12379,
+      "label": "\u2728 Water snake plants",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12379"
+    },
+    {
+      "source": "TASKS",
+      "id": 12387,
+      "label": "\u2728 Send text update to mother-in-law \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:12387"
+    },
+    {
+      "source": "TASKS",
+      "id": 12396,
+      "label": "\u2728 Clear the upstairs trashes",
+      "aw": 4,
+      "pri": null,
+      "dur": 10,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": true,
+      "uid": "TASKS:12396"
     }
   ],
-  "version": 3461,
-  "updated": "2026-11-16T09:30:56.401433+00:00",
+  "version": 3462,
+  "updated": "2026-11-16T09:31:41.160623+00:00",
   "buckets": {
-    "SPIN_WHEEL": 86,
-    "TASKS": 22,
+    "SPIN_WHEEL": 85,
+    "TASKS": 25,
     "ZONES": 9,
     "MAINTENANCE": 2,
     "COURAGE": 4
