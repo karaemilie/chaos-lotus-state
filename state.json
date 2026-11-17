@@ -916,13 +916,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1354,
-      "row": 85,
-      "label": "Smoothie stuff to bin \ud83d\ude2c\ud83d\ude2c\ud83d\ude2c",
-      "uid": "SPIN:1354"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1353,
       "row": 84,
       "label": "Morpho payment - handle",
@@ -1094,11 +1087,11 @@
       "uid": "SPIN_WHEEL:1355"
     }
   ],
-  "version": 3465,
-  "updated": "2026-11-17T01:59:11.241500+00:00",
+  "version": 3466,
+  "updated": "2026-11-17T02:57:07.073247+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 85,
+    "SPIN_WHEEL": 84,
     "TASKS": 25,
     "ZONES": 9,
     "MAINTENANCE": 2
