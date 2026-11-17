@@ -268,13 +268,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1202,
-      "row": 37,
-      "label": "Ponder garage gym",
-      "uid": "SPIN:1202"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1030,
       "row": 13,
       "label": "Research local pediatric endocrinologists",
@@ -1032,11 +1025,11 @@
       "uid": "TASKS:10727"
     }
   ],
-  "version": 3477,
-  "updated": "2026-11-17T05:13:07.375410+00:00",
+  "version": 3478,
+  "updated": "2026-11-17T05:13:42.759746+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 80,
     "TASKS": 23,
     "ZONES": 9,
     "MAINTENANCE": 2
