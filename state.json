@@ -295,20 +295,6 @@
       "uid": "SPIN:1352"
     },
     {
-      "source": "TASKS",
-      "id": 12190,
-      "row": 285,
-      "label": "\u2728 Deep clean cat litter \ud83d\udc31\ud83e\uddfc",
-      "aw": 3,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12190"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1161,
       "row": 30,
@@ -1023,10 +1009,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10727"
+    },
+    {
+      "source": "TASKS",
+      "id": 10909,
+      "label": "Install bathroom faucet \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 60,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10909"
     }
   ],
-  "version": 3478,
-  "updated": "2026-11-17T05:13:42.759746+00:00",
+  "version": 3479,
+  "updated": "2026-11-17T05:14:37.606143+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 80,
