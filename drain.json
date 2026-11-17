@@ -23,6 +23,13 @@
     },
     {
       "source": "SPIN_WHEEL",
+      "row": 78,
+      "label": "Check out kindle book for Evan",
+      "uid": "SPIN:1341",
+      "_ts": "2026-11-17T09:01:06.783Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 56,
       "label": "Pack window film",
       "uid": "SPIN:1294",
@@ -35,12 +42,20 @@
       "label": "✨ Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead 📋⚖️",
       "uid": "TASKS:12403",
       "_ts": "2026-11-17T09:02:05.248Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12366,
+      "row": 381,
+      "label": "✨ Check for South weekly schedule adjustments",
+      "uid": "TASKS:12366",
+      "_ts": "2026-11-17T09:02:15.536Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-17T09:02:09.616Z",
+  "mirroredAt": "2026-11-17T09:02:15.775Z",
   "counts": {
-    "completions": 5,
+    "completions": 7,
     "adds": 0
   }
 }
