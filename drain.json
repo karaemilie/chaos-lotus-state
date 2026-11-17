@@ -1,5 +1,14 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "COURAGE",
+      "parentId": 10959,
+      "stepIndex": 0,
+      "label": "🔥 Read CollegeData article on appealing financial aid 📝",
+      "uid": "COURAGE:10959:0",
+      "_ts": "2026-11-17T09:17:36.345Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -20,9 +29,9 @@
       "_ts": "2026-11-17T09:17:27.898Z"
     }
   ],
-  "mirroredAt": "2026-11-17T09:17:28.142Z",
+  "mirroredAt": "2026-11-17T09:17:36.561Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 2
   }
 }
