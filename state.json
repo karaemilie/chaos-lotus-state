@@ -691,13 +691,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1293,
-      "row": 55,
-      "label": "Pack rug up",
-      "uid": "SPIN:1293"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1091,
       "row": 23,
       "label": "Oct Gemini - verify amt, ping twins (Genevieve owes me $550)",
@@ -1001,11 +994,11 @@
       "uid": "TASKS:12406"
     }
   ],
-  "version": 3485,
-  "updated": "2026-11-17T09:02:55.464784+00:00",
+  "version": 3486,
+  "updated": "2026-11-17T09:03:28.942751+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 76,
     "TASKS": 23,
     "ZONES": 9,
     "MAINTENANCE": 2
