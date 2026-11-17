@@ -476,13 +476,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1324,
-      "row": 71,
-      "label": "Overdue GAlarm tasks",
-      "uid": "SPIN:1324"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 4,
       "label": "Compare birch pieces to diagram",
@@ -958,19 +951,6 @@
       "uid": "ZONES:61"
     },
     {
-      "source": "TASKS",
-      "id": 11940,
-      "label": "Deploy chore app \ud83d\udcf1",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11940"
-    },
-    {
       "source": "ZONES",
       "zid": 82,
       "floor": "Personal",
@@ -998,32 +978,6 @@
       "uid": "ZONES:77"
     },
     {
-      "source": "TASKS",
-      "id": 10727,
-      "label": "Inventory what security stickers/signs we already own",
-      "aw": 7,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": "Arlo Security System",
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10727"
-    },
-    {
-      "source": "TASKS",
-      "id": 10909,
-      "label": "Install bathroom faucet \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 60,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10909"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1356,
       "sid": 1356,
@@ -1036,14 +990,79 @@
       "sid": 1357,
       "label": "Jake new shoes",
       "uid": "SPIN_WHEEL:1357"
+    },
+    {
+      "source": "TASKS",
+      "id": 12252,
+      "label": "\u2728 Check balance on Matt's work card (1-800-344-5696) \ud83d\udcdd",
+      "aw": 3,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12252"
+    },
+    {
+      "source": "TASKS",
+      "id": 12373,
+      "label": "\u2728 Trash & recycling to curb",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12373"
+    },
+    {
+      "source": "TASKS",
+      "id": 12391,
+      "label": "\u2728 Check in on Pura scents - time to refresh?",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:12391"
+    },
+    {
+      "source": "TASKS",
+      "id": 12404,
+      "label": "\u2728 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 10,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12404"
+    },
+    {
+      "source": "TASKS",
+      "id": 12406,
+      "label": "\u2728 Update school lists for Lincoln & Evan",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12406"
     }
   ],
-  "version": 3481,
-  "updated": "2026-11-17T08:52:13.013438+00:00",
+  "version": 3482,
+  "updated": "2026-11-17T09:00:26.346254+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 82,
-    "TASKS": 23,
+    "SPIN_WHEEL": 81,
+    "TASKS": 25,
     "ZONES": 9,
     "MAINTENANCE": 2
   }
