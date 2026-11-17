@@ -1,14 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-17T09:08:42.491Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Recode my habit app errors away",
+      "_addedAt": "2026-11-17T09:17:01.789Z",
+      "_ts": "2026-11-17T09:17:01.958Z"
+    }
+  ],
+  "mirroredAt": "2026-11-17T09:17:02.216Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-17T09:08:43.715026+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12406",
-    "TASKS:12252"
-  ]
+    "adds": 1
+  }
 }
