@@ -981,28 +981,28 @@
       "uid": "TASKS:12404"
     },
     {
-      "source": "TASKS",
-      "id": 12406,
-      "label": "\u2728 Update school lists for Lincoln & Evan",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12406"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1358,
       "sid": 1358,
       "label": "Pay Linc for plow?",
       "uid": "SPIN_WHEEL:1358"
+    },
+    {
+      "source": "TASKS",
+      "id": 11958,
+      "label": "Research cost of New England Conservatory \ud83c\udfbb\ud83d\udcb0",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:11958"
     }
   ],
-  "version": 3487,
-  "updated": "2026-11-17T09:04:53.101869+00:00",
+  "version": 3488,
+  "updated": "2026-11-17T09:08:01.072430+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 77,
