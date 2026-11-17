@@ -16,10 +16,23 @@
       "_ts": "2026-11-17T05:13:29.764Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-11-17T05:13:29.995Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Deep clean cat litter 🐱🧼",
+      "_addedAt": "2026-11-17T05:13:40.179Z",
+      "reschedule": {
+        "uid": "TASKS:12190",
+        "id": 12190,
+        "label": "✨ Deep clean cat litter 🐱🧼",
+        "start": "2026-11-21"
+      },
+      "_ts": "2026-11-17T05:13:40.306Z"
+    }
+  ],
+  "mirroredAt": "2026-11-17T05:13:40.532Z",
   "counts": {
     "completions": 2,
-    "adds": 0
+    "adds": 1
   }
 }
