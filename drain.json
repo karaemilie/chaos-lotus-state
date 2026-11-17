@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-17T08:16:35.509Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Evan rock shoes",
+      "_addedAt": "2026-11-17T08:51:05.113Z",
+      "_ts": "2026-11-17T08:51:05.250Z"
+    }
+  ],
+  "mirroredAt": "2026-11-17T08:51:05.630Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
