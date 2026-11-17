@@ -930,19 +930,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12252,
-      "label": "\u2728 Check balance on Matt's work card (1-800-344-5696) \ud83d\udcdd",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12252"
-    },
-    {
-      "source": "TASKS",
       "id": 12373,
       "label": "\u2728 Trash & recycling to curb",
       "aw": 4,
@@ -999,10 +986,23 @@
       "cat": "Family/Education",
       "critical": false,
       "uid": "TASKS:11958"
+    },
+    {
+      "source": "TASKS",
+      "id": 10888,
+      "label": "Back up Dropbox, Evernote, Google Drive & Google Photos \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 60,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:10888"
     }
   ],
-  "version": 3488,
-  "updated": "2026-11-17T09:08:01.072430+00:00",
+  "version": 3489,
+  "updated": "2026-11-17T09:08:39.576596+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 77,
