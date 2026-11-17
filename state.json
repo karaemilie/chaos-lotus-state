@@ -555,13 +555,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1302,
-      "row": 59,
-      "label": "More pillow covers",
-      "uid": "SPIN:1302"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 505,
       "row": 4,
       "label": "Compare birch pieces to diagram",
@@ -1087,11 +1080,11 @@
       "uid": "SPIN_WHEEL:1355"
     }
   ],
-  "version": 3466,
-  "updated": "2026-11-17T02:57:07.073247+00:00",
+  "version": 3467,
+  "updated": "2026-11-17T02:57:55.878206+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 84,
+    "SPIN_WHEEL": 83,
     "TASKS": 25,
     "ZONES": 9,
     "MAINTENANCE": 2
