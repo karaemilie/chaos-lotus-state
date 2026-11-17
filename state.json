@@ -233,13 +233,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1341,
-      "row": 78,
-      "label": "Check out kindle book for Evan",
-      "uid": "SPIN:1341"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1088,
       "row": 22,
       "label": "Reset Robomow",
@@ -1043,11 +1036,11 @@
       "uid": "TASKS:12406"
     }
   ],
-  "version": 3483,
-  "updated": "2026-11-17T09:01:22.748153+00:00",
+  "version": 3484,
+  "updated": "2026-11-17T09:02:08.028197+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 79,
+    "SPIN_WHEEL": 78,
     "TASKS": 25,
     "ZONES": 9,
     "MAINTENANCE": 2
