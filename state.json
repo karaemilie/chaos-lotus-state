@@ -493,13 +493,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1294,
-      "row": 56,
-      "label": "Pack window film",
-      "uid": "SPIN:1294"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1070,
       "row": 19,
       "label": "Submit for Evan voice lessons Sept!",
@@ -534,20 +527,6 @@
       "uid": "SPIN:1032"
     },
     {
-      "source": "TASKS",
-      "id": 12403,
-      "row": 411,
-      "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12403"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 952,
       "row": 8,
@@ -576,20 +555,6 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Scrub kids shower",
       "uid": "MAINTENANCE:138"
-    },
-    {
-      "source": "TASKS",
-      "id": 12366,
-      "row": 381,
-      "label": "\u2728 Check for South weekly schedule adjustments",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12366"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1036,12 +1001,12 @@
       "uid": "TASKS:12406"
     }
   ],
-  "version": 3484,
-  "updated": "2026-11-17T09:02:08.028197+00:00",
+  "version": 3485,
+  "updated": "2026-11-17T09:02:55.464784+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 78,
-    "TASKS": 25,
+    "SPIN_WHEEL": 77,
+    "TASKS": 23,
     "ZONES": 9,
     "MAINTENANCE": 2
   }
