@@ -1,13 +1,24 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12406,
+      "label": "✨ Update school lists for Lincoln & Evan",
+      "uid": "TASKS:12406",
+      "_ts": "2026-11-17T09:07:35.323Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12252,
+      "label": "✨ Check balance on Matt's work card (1-800-344-5696) 📝",
+      "uid": "TASKS:12252",
+      "_ts": "2026-11-17T09:08:29.479Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-17T09:08:05.152Z",
+  "mirroredAt": "2026-11-17T09:08:29.701Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-11-17T09:08:06.281062+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12406"
-  ]
+  }
 }
