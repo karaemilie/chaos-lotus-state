@@ -1,13 +1,19 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 62,
+      "zid": 60,
+      "floor": "Digital",
+      "label": "💻 Photos",
+      "uid": "ZONES:60",
+      "_ts": "2026-11-17T03:16:37.728Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-17T03:05:02.450Z",
+  "mirroredAt": "2026-11-17T03:16:38.149Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-17T03:05:03.811496+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12379"
-  ]
+  }
 }
