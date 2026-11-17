@@ -992,13 +992,20 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:12406"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1358,
+      "sid": 1358,
+      "label": "Pay Linc for plow?",
+      "uid": "SPIN_WHEEL:1358"
     }
   ],
-  "version": 3486,
-  "updated": "2026-11-17T09:03:28.942751+00:00",
+  "version": 3487,
+  "updated": "2026-11-17T09:04:53.101869+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 76,
+    "SPIN_WHEEL": 77,
     "TASKS": 23,
     "ZONES": 9,
     "MAINTENANCE": 2
