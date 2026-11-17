@@ -597,16 +597,6 @@
       "uid": "SPIN:1032"
     },
     {
-      "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "row": 77,
-      "label": "\ud83c\udf31 Family Room Plants",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Plants",
-      "uid": "ZONES:74"
-    },
-    {
       "source": "TASKS",
       "id": 12403,
       "row": 411,
@@ -1032,10 +1022,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Exfoliation",
       "uid": "ZONES:81"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
     }
   ],
-  "version": 3475,
-  "updated": "2026-11-17T03:50:14.654224+00:00",
+  "version": 3476,
+  "updated": "2026-11-17T03:50:55.541415+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 81,
