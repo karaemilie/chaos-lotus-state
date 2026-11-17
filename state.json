@@ -610,20 +610,6 @@
       "uid": "SPIN:1058"
     },
     {
-      "source": "TASKS",
-      "id": 12399,
-      "row": 409,
-      "label": "\u2728 Weekly meal planning",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12399"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1147,
       "row": 27,
@@ -1049,10 +1035,23 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Reviews",
       "uid": "ZONES:61"
+    },
+    {
+      "source": "TASKS",
+      "id": 11940,
+      "label": "Deploy chore app \ud83d\udcf1",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11940"
     }
   ],
-  "version": 3470,
-  "updated": "2026-11-17T03:17:20.977067+00:00",
+  "version": 3471,
+  "updated": "2026-11-17T03:20:08.130019+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 83,
