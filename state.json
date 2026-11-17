@@ -1085,13 +1085,20 @@
       "row": 33,
       "label": "Figure out how title works",
       "uid": "SPIN:1179"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1355,
+      "sid": 1355,
+      "label": "Do a 100s challenge with the boys",
+      "uid": "SPIN_WHEEL:1355"
     }
   ],
-  "version": 3464,
-  "updated": "2026-11-16T09:45:03.120826+00:00",
+  "version": 3465,
+  "updated": "2026-11-17T01:59:11.241500+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 84,
+    "SPIN_WHEEL": 85,
     "TASKS": 25,
     "ZONES": 9,
     "MAINTENANCE": 2
