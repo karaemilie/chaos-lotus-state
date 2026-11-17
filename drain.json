@@ -1,13 +1,17 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 75,
+      "label": "Genevieve thanksgiving",
+      "uid": "SPIN:1337",
+      "_ts": "2026-11-17T03:22:10.077Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-17T03:20:11.518Z",
+  "mirroredAt": "2026-11-17T03:22:10.320Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 0
-  },
-  "processedAt": "2026-11-17T03:20:12.665084+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12399"
-  ]
+  }
 }
