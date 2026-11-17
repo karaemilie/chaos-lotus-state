@@ -123,20 +123,6 @@
       "uid": "MAINTENANCE:139"
     },
     {
-      "source": "TASKS",
-      "id": 12334,
-      "row": 358,
-      "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12334"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1123,
       "row": 26,
@@ -1031,10 +1017,23 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook B",
       "uid": "ZONES:77"
+    },
+    {
+      "source": "TASKS",
+      "id": 10727,
+      "label": "Inventory what security stickers/signs we already own",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": "Arlo Security System",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10727"
     }
   ],
-  "version": 3476,
-  "updated": "2026-11-17T03:50:55.541415+00:00",
+  "version": 3477,
+  "updated": "2026-11-17T05:13:07.375410+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 81,
