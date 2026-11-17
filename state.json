@@ -649,20 +649,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12382,
-      "row": 395,
-      "label": "\u2728 Put on new tattoo",
-      "aw": 4,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12382"
-    },
-    {
-      "source": "TASKS",
       "id": 12403,
       "row": 411,
       "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
@@ -1065,12 +1051,12 @@
       "uid": "ZONES:61"
     }
   ],
-  "version": 3469,
-  "updated": "2026-11-17T03:16:50.077346+00:00",
+  "version": 3470,
+  "updated": "2026-11-17T03:17:20.977067+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 83,
-    "TASKS": 24,
+    "TASKS": 23,
     "ZONES": 9,
     "MAINTENANCE": 2
   }
