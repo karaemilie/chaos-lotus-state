@@ -562,20 +562,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12379,
-      "row": 392,
-      "label": "\u2728 Water snake plants",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12379"
-    },
-    {
-      "source": "TASKS",
       "id": 12396,
       "row": 406,
       "label": "\u2728 Clear the upstairs trashes",
@@ -1080,12 +1066,12 @@
       "uid": "SPIN_WHEEL:1355"
     }
   ],
-  "version": 3467,
-  "updated": "2026-11-17T02:57:55.878206+00:00",
+  "version": 3468,
+  "updated": "2026-11-17T03:04:59.219796+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 83,
-    "TASKS": 25,
+    "TASKS": 24,
     "ZONES": 9,
     "MAINTENANCE": 2
   }
