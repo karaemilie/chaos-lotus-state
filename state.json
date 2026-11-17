@@ -1029,13 +1029,20 @@
       "sid": 1356,
       "label": "Evan rock shoes",
       "uid": "SPIN_WHEEL:1356"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1357,
+      "sid": 1357,
+      "label": "Jake new shoes",
+      "uid": "SPIN_WHEEL:1357"
     }
   ],
-  "version": 3480,
-  "updated": "2026-11-17T08:51:27.154041+00:00",
+  "version": 3481,
+  "updated": "2026-11-17T08:52:13.013438+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 82,
     "TASKS": 23,
     "ZONES": 9,
     "MAINTENANCE": 2
