@@ -340,13 +340,6 @@
       "uid": "TASKS:12190"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1269,
-      "row": 49,
-      "label": "Genevieve package (send smoothie mix)",
-      "uid": "SPIN:1269"
-    },
-    {
       "source": "ZONES",
       "zid": 81,
       "floor": "Personal",
@@ -1043,11 +1036,11 @@
       "uid": "TASKS:11940"
     }
   ],
-  "version": 3472,
-  "updated": "2026-11-17T03:22:24.156167+00:00",
+  "version": 3473,
+  "updated": "2026-11-17T03:23:05.432601+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 82,
+    "SPIN_WHEEL": 81,
     "TASKS": 23,
     "ZONES": 9,
     "MAINTENANCE": 2
