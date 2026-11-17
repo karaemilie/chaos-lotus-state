@@ -1,13 +1,32 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-17T03:16:51.482Z",
+  "completions": [
+    {
+      "source": "ZONES",
+      "row": 62,
+      "zid": 60,
+      "floor": "Digital",
+      "label": "💻 Photos",
+      "uid": "ZONES:60",
+      "_ts": "2026-11-17T03:16:37.728Z"
+    }
+  ],
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "✨ Put on new tattoo",
+      "_addedAt": "2026-11-17T03:16:59.128Z",
+      "reschedule": {
+        "uid": "TASKS:12382",
+        "id": 12382,
+        "label": "✨ Put on new tattoo",
+        "start": "2026-11-20"
+      },
+      "_ts": "2026-11-17T03:16:59.326Z"
+    }
+  ],
+  "mirroredAt": "2026-11-17T03:16:59.573Z",
   "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-17T03:16:52.879816+00:00",
-  "lastAutoProcessed": [
-    "ZONES:60"
-  ]
+    "completions": 1,
+    "adds": 1
+  }
 }
