@@ -1,9 +1,28 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-17T09:17:18.787Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Recode my habit app errors away",
+      "_addedAt": "2026-11-17T09:17:01.789Z",
+      "_ts": "2026-11-17T09:17:01.958Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "💸 Make engraved rod plant labels with laser",
+      "_addedAt": "2026-11-17T09:17:27.751Z",
+      "reschedule": {
+        "uid": "TASKS:10847",
+        "id": 10847,
+        "label": "💸 Make engraved rod plant labels with laser",
+        "start": "2027-02-17"
+      },
+      "_ts": "2026-11-17T09:17:27.898Z"
+    }
+  ],
+  "mirroredAt": "2026-11-17T09:17:28.142Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
