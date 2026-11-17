@@ -678,13 +678,6 @@
       "uid": "MAINTENANCE:138"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1337,
-      "row": 75,
-      "label": "Genevieve thanksgiving",
-      "uid": "SPIN:1337"
-    },
-    {
       "source": "TASKS",
       "id": 12366,
       "row": 381,
@@ -1050,11 +1043,11 @@
       "uid": "TASKS:11940"
     }
   ],
-  "version": 3471,
-  "updated": "2026-11-17T03:20:08.130019+00:00",
+  "version": 3472,
+  "updated": "2026-11-17T03:22:24.156167+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 83,
+    "SPIN_WHEEL": 82,
     "TASKS": 23,
     "ZONES": 9,
     "MAINTENANCE": 2
