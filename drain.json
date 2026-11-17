@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12334,
+      "row": 358,
+      "label": "✨ Pay Linda, Lindsey & Miriam for the week!",
+      "uid": "TASKS:12334",
+      "_ts": "2026-11-17T05:12:56.189Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 37,
+      "label": "Ponder garage gym",
+      "uid": "SPIN:1202",
+      "_ts": "2026-11-17T05:13:29.764Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-17T05:13:10.702Z",
+  "mirroredAt": "2026-11-17T05:13:29.995Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-11-17T05:13:12.064290+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12334"
-  ]
+  }
 }
