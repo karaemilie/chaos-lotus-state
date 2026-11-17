@@ -288,16 +288,6 @@
       "uid": "SPIN:1202"
     },
     {
-      "source": "ZONES",
-      "zid": 90,
-      "floor": "Personal",
-      "row": 92,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Feet Care & Pedi",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Feet Care & Pedi",
-      "uid": "ZONES:90"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1030,
       "row": 13,
@@ -1033,10 +1023,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Dermaplane",
       "uid": "ZONES:82"
+    },
+    {
+      "source": "ZONES",
+      "zid": 81,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Exfoliation",
+      "uid": "ZONES:81"
     }
   ],
-  "version": 3474,
-  "updated": "2026-11-17T03:25:49.460954+00:00",
+  "version": 3475,
+  "updated": "2026-11-17T03:50:14.654224+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 81,
