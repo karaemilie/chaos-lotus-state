@@ -197,13 +197,6 @@
       "uid": "TASKS:11216"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1346,
-      "row": 79,
-      "label": "Jake thanksgiving",
-      "uid": "SPIN:1346"
-    },
-    {
       "source": "TASKS",
       "id": 12026,
       "row": 244,
@@ -405,13 +398,6 @@
       "row": 35,
       "label": "Lincoln spring class plan",
       "uid": "SPIN:1186"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1262,
-      "row": 47,
-      "label": "DEAL WITH INSURANCE",
-      "uid": "SPIN:1262"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1057,11 +1043,11 @@
       "uid": "TASKS:12406"
     }
   ],
-  "version": 3482,
-  "updated": "2026-11-17T09:00:26.346254+00:00",
+  "version": 3483,
+  "updated": "2026-11-17T09:01:22.748153+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 81,
+    "SPIN_WHEEL": 79,
     "TASKS": 25,
     "ZONES": 9,
     "MAINTENANCE": 2
