@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-16T09:45:04.492Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Do a 100s challenge with the boys",
+      "_addedAt": "2026-11-17T01:58:50.311Z",
+      "_ts": "2026-11-17T01:58:50.470Z"
+    }
+  ],
+  "mirroredAt": "2026-11-17T01:58:50.745Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-16T09:45:05.785291+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1355"
-  ]
+    "adds": 1
+  }
 }
