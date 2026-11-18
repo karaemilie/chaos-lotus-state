@@ -1,15 +1,11 @@
 {
-  "lastRun": "2026-11-18T03:50:12.324259+00:00",
-  "lastRunAlaska": "2026-11-17 18:50 AKST",
-  "processedCount": 4,
+  "lastRun": "2026-11-18T10:11:53.029753+00:00",
+  "lastRunAlaska": "2026-11-18 01:11 AKST",
+  "processedCount": 1,
   "processed": [
     {
-      "uid": "ZONES:10",
-      "result": "\u2705 Upstairs/Boys Room (row 11) stamped 2026-11-17"
-    },
-    {
-      "uid": "MAINTENANCE:138",
-      "result": "\u2705 MAINTENANCE 'Scrub kids shower' (MID 138) stamped 2026-11-17"
+      "uid": "SPIN:1339",
+      "result": "\u2705 SPIN deleted SID 1339 ('1% better every day - I can start with one minute of work a day')"
     }
   ],
   "remainingForClaude": {
@@ -17,9 +13,21 @@
     "adds": 0
   },
   "daySweep": {
-    "added": [],
-    "bumped": [],
-    "today": "2026-11-17",
+    "added": [
+      "TASKS:12337",
+      "TASKS:12370",
+      "TASKS:12407",
+      "TASKS:12411",
+      "TASKS:12423"
+    ],
+    "bumped": [
+      "TASKS:11958",
+      "TASKS:10888",
+      "TASKS:10899",
+      "TASKS:10909",
+      "TASKS:11945"
+    ],
+    "today": "2026-11-18",
     "stampToday": "2026-11-17",
     "ran": true
   }
