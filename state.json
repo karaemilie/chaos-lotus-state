@@ -867,15 +867,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 82,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Dermaplane",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Dermaplane",
-      "uid": "ZONES:82"
-    },
-    {
-      "source": "ZONES",
       "zid": 81,
       "floor": "Personal",
       "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Exfoliation",
@@ -1008,10 +999,19 @@
       "label": "\ud83d\udd25 Restart 529 contributions - Bentley",
       "emoji": "\ud83d\udd25",
       "uid": "COURAGE:10009:0"
+    },
+    {
+      "source": "ZONES",
+      "zid": 83,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Retainer",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Retainer",
+      "uid": "ZONES:83"
     }
   ],
-  "version": 3491,
-  "updated": "2026-11-17T09:17:58.450621+00:00",
+  "version": 3492,
+  "updated": "2026-11-18T00:47:52.746035+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 78,
