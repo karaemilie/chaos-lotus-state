@@ -737,20 +737,6 @@
       "uid": "SPIN:1316"
     },
     {
-      "source": "TASKS",
-      "id": 12408,
-      "row": 416,
-      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12408"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1317,
       "row": 68,
@@ -763,13 +749,6 @@
       "row": 29,
       "label": "Submit for viola rest",
       "uid": "SPIN:1157"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1279,
-      "row": 51,
-      "label": "Bring metal shelf to crawlcspace **",
-      "uid": "SPIN:1279"
     },
     {
       "source": "SPIN_WHEEL",
@@ -855,19 +834,6 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12391"
-    },
-    {
-      "source": "TASKS",
-      "id": 12404,
-      "label": "\u2728 Clean all wearables with alcohol wipes (Whoop, earrings, rings, headphones) \ud83e\uddfc",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 10,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12404"
     },
     {
       "source": "SPIN_WHEEL",
@@ -997,13 +963,39 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:10888"
+    },
+    {
+      "source": "TASKS",
+      "id": 11526,
+      "label": "Check if Affinity for iPad is out \ud83d\udcf1\u270f\ufe0f \ud83d\udcdd",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11526"
+    },
+    {
+      "source": "TASKS",
+      "id": 12257,
+      "label": "Show Lincoln how to track his progress toward his assigned test date in Prep Median \ud83d\udcc8\ud83d\udcdd",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12257"
     }
   ],
-  "version": 3496,
-  "updated": "2026-11-18T10:12:22.111359+00:00",
+  "version": 3497,
+  "updated": "2026-11-18T10:13:10.006347+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 76,
     "TASKS": 23,
     "MAINTENANCE": 2,
     "ZONES": 9
