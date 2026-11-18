@@ -62,16 +62,6 @@
       "uid": "TASKS:12375"
     },
     {
-      "source": "ZONES",
-      "zid": 10,
-      "floor": "Upstairs",
-      "row": 11,
-      "label": "\ud83e\uddfa Boys Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Boys Room",
-      "uid": "ZONES:10"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1268,
       "row": 48,
@@ -512,15 +502,6 @@
       "uid": "TASKS:12067"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 138,
-      "row": 141,
-      "label": "\ud83c\udfe0 Scrub kids shower",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Scrub kids shower",
-      "uid": "MAINTENANCE:138"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1165,
       "row": 31,
@@ -885,19 +866,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12373,
-      "label": "\u2728 Trash & recycling to curb",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12373"
-    },
-    {
-      "source": "TASKS",
       "id": 12391,
       "label": "\u2728 Check in on Pura scents - time to refresh?",
       "aw": 4,
@@ -1007,15 +975,45 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:10909"
+    },
+    {
+      "source": "ZONES",
+      "zid": 11,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa My Bathroom",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "My Bathroom",
+      "uid": "ZONES:11"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 140,
+      "label": "\ud83c\udfe0 Wash my sheet",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Wash my sheet",
+      "uid": "MAINTENANCE:140"
+    },
+    {
+      "source": "TASKS",
+      "id": 11945,
+      "label": "Ask Claude how to adjust door hinge \ud83d\udeaa",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11945"
     }
   ],
-  "version": 3493,
-  "updated": "2026-11-18T03:49:17.858994+00:00",
+  "version": 3494,
+  "updated": "2026-11-18T03:50:07.523518+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 78,
     "TASKS": 23,
-    "ZONES": 9,
-    "MAINTENANCE": 2
+    "MAINTENANCE": 2,
+    "ZONES": 9
   }
 }
