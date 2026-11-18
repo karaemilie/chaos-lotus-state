@@ -1,13 +1,25 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 76,
+      "label": "1% better every day - I can start with one minute of work a day",
+      "uid": "SPIN:1339",
+      "_ts": "2026-11-18T10:11:34.468Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 11748,
+      "row": 189,
+      "label": "✨ Review Apple subscriptions",
+      "uid": "TASKS:11748",
+      "_ts": "2026-11-18T10:11:57.411Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-18T10:11:51.692Z",
+  "mirroredAt": "2026-11-18T10:11:57.632Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-11-18T10:11:53.029525+00:00",
-  "lastAutoProcessed": [
-    "SPIN:1339"
-  ]
+  }
 }
