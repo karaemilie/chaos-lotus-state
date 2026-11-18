@@ -773,13 +773,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1339,
-      "row": 76,
-      "label": "1% better every day - I can start with one minute of work a day",
-      "uid": "SPIN:1339"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1157,
       "row": 29,
       "label": "Submit for viola rest",
@@ -898,50 +891,11 @@
       "uid": "SPIN_WHEEL:1358"
     },
     {
-      "source": "TASKS",
-      "id": 11958,
-      "label": "Research cost of New England Conservatory \ud83c\udfbb\ud83d\udcb0",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:11958"
-    },
-    {
-      "source": "TASKS",
-      "id": 10888,
-      "label": "Back up Dropbox, Evernote, Google Drive & Google Photos \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 60,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:10888"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1359,
       "sid": 1359,
       "label": "Recode my habit app errors away",
       "uid": "SPIN_WHEEL:1359"
-    },
-    {
-      "source": "TASKS",
-      "id": 10899,
-      "label": "Make SAT practice chart for Lincoln \ud83d\udcca \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": "Lincoln SAT Prep",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10899"
     },
     {
       "source": "COURAGE",
@@ -964,19 +918,6 @@
       "uid": "ZONES:83"
     },
     {
-      "source": "TASKS",
-      "id": 10909,
-      "label": "Install bathroom faucet \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 60,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:10909"
-    },
-    {
       "source": "ZONES",
       "zid": 11,
       "floor": "Upstairs",
@@ -995,23 +936,75 @@
     },
     {
       "source": "TASKS",
-      "id": 11945,
-      "label": "Ask Claude how to adjust door hinge \ud83d\udeaa",
-      "aw": 7,
+      "id": 12337,
+      "label": "\u2728 Clean makeup brushes \ud83d\udd8c\ufe0f",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12337"
+    },
+    {
+      "source": "TASKS",
+      "id": 12370,
+      "label": "\u2728 Audit spin wheel tasks (keep / edit / convert / delete) \ud83c\udfa1\ud83d\udccb",
+      "aw": 4,
       "pri": null,
       "dur": null,
       "ml": null,
       "proj": null,
       "cat": "Home",
       "critical": false,
-      "uid": "TASKS:11945"
+      "uid": "TASKS:12370"
+    },
+    {
+      "source": "TASKS",
+      "id": 12407,
+      "label": "\u2728 Refill vitamin boxes for Lincoln & Evan \ud83d\udc8a",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:12407"
+    },
+    {
+      "source": "TASKS",
+      "id": 12411,
+      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12411"
+    },
+    {
+      "source": "TASKS",
+      "id": 12423,
+      "label": "\u2728 Update school lists for Lincoln & Evan",
+      "aw": 4,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:12423"
     }
   ],
-  "version": 3494,
-  "updated": "2026-11-18T03:50:07.523518+00:00",
+  "version": 3495,
+  "updated": "2026-11-18T10:11:50.188679+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 78,
+    "SPIN_WHEEL": 77,
     "TASKS": 23,
     "MAINTENANCE": 2,
     "ZONES": 9
