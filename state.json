@@ -326,20 +326,6 @@
       "uid": "SPIN:1260"
     },
     {
-      "source": "TASKS",
-      "id": 11748,
-      "row": 189,
-      "label": "\u2728 Review Apple subscriptions",
-      "aw": 3,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:11748"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1227,
       "row": 39,
@@ -998,10 +984,23 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:12423"
+    },
+    {
+      "source": "TASKS",
+      "id": 10888,
+      "label": "Back up Dropbox, Evernote, Google Drive & Google Photos \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 60,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:10888"
     }
   ],
-  "version": 3495,
-  "updated": "2026-11-18T10:11:50.188679+00:00",
+  "version": 3496,
+  "updated": "2026-11-18T10:12:22.111359+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 77,
