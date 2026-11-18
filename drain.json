@@ -1,13 +1,24 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-18T00:47:54.281Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "New diverter kids bathroom",
+      "_addedAt": "2026-11-18T02:57:31.827Z",
+      "newtask": {
+        "label": "New diverter kids bathroom",
+        "start": "2026-11-28",
+        "category": "Home",
+        "aw": 4,
+        "recType": "None",
+        "recValue": null
+      },
+      "_ts": "2026-11-18T02:57:32.270Z"
+    }
+  ],
+  "mirroredAt": "2026-11-18T02:57:32.636Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-18T00:47:55.415933+00:00",
-  "lastAutoProcessed": [
-    "ZONES:82"
-  ]
+    "adds": 1
+  }
 }
