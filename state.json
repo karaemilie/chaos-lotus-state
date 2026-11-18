@@ -628,16 +628,6 @@
       "uid": "SPIN:1091"
     },
     {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "row": 79,
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1353,
       "row": 84,
@@ -989,10 +979,19 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:12257"
+    },
+    {
+      "source": "ZONES",
+      "zid": 78,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Props",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Props",
+      "uid": "ZONES:78"
     }
   ],
-  "version": 3497,
-  "updated": "2026-11-18T10:13:10.006347+00:00",
+  "version": 3498,
+  "updated": "2026-11-18T23:44:40.367056+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 76,
