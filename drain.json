@@ -14,12 +14,21 @@
       "label": "✨ Trash & recycling to curb",
       "uid": "TASKS:12373",
       "_ts": "2026-11-18T03:49:09.239Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 11,
+      "zid": 10,
+      "floor": "Upstairs",
+      "label": "🧺 Boys Room",
+      "uid": "ZONES:10",
+      "_ts": "2026-11-18T03:49:16.608Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-18T03:49:09.413Z",
+  "mirroredAt": "2026-11-18T03:49:16.794Z",
   "counts": {
-    "completions": 2,
+    "completions": 3,
     "adds": 0
   }
 }
