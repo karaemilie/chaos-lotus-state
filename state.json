@@ -439,20 +439,6 @@
       "uid": "SPIN:505"
     },
     {
-      "source": "TASKS",
-      "id": 12396,
-      "row": 406,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:12396"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1082,
       "row": 21,
@@ -1008,10 +994,23 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Retainer",
       "uid": "ZONES:83"
+    },
+    {
+      "source": "TASKS",
+      "id": 10909,
+      "label": "Install bathroom faucet \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 60,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10909"
     }
   ],
-  "version": 3492,
-  "updated": "2026-11-18T00:47:52.746035+00:00",
+  "version": 3493,
+  "updated": "2026-11-18T03:49:17.858994+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 78,
