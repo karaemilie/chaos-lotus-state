@@ -790,15 +790,6 @@
       "uid": "ZONES:81"
     },
     {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1356,
       "sid": 1356,
@@ -988,10 +979,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Props",
       "uid": "ZONES:78"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Hallway",
+      "uid": "ZONES:80"
     }
   ],
-  "version": 3498,
-  "updated": "2026-11-18T23:44:40.367056+00:00",
+  "version": 3499,
+  "updated": "2026-11-18T23:45:22.051652+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 76,
