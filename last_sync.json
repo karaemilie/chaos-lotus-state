@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-11-18T10:11:53.029753+00:00",
-  "lastRunAlaska": "2026-11-18 01:11 AKST",
-  "processedCount": 1,
+  "lastRun": "2026-11-18T10:13:15.079673+00:00",
+  "lastRunAlaska": "2026-11-18 01:13 AKST",
+  "processedCount": 5,
   "processed": [
     {
       "uid": "SPIN:1339",
-      "result": "\u2705 SPIN deleted SID 1339 ('1% better every day - I can start with one minute of work a day')"
+      "result": "\u2705 SPIN deleted SID 1279 ('Bring metal shelf to crawlcspace **')"
     }
   ],
   "remainingForClaude": {
@@ -13,20 +13,8 @@
     "adds": 0
   },
   "daySweep": {
-    "added": [
-      "TASKS:12337",
-      "TASKS:12370",
-      "TASKS:12407",
-      "TASKS:12411",
-      "TASKS:12423"
-    ],
-    "bumped": [
-      "TASKS:11958",
-      "TASKS:10888",
-      "TASKS:10899",
-      "TASKS:10909",
-      "TASKS:11945"
-    ],
+    "added": [],
+    "bumped": [],
     "today": "2026-11-18",
     "stampToday": "2026-11-17",
     "ran": true
