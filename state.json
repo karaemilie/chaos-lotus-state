@@ -580,20 +580,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12277,
-      "row": 325,
-      "label": "\u2728 Cancel Khanmigo if not using",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12277"
-    },
-    {
-      "source": "TASKS",
       "id": 12351,
       "row": 367,
       "label": "\u2728 Plan for Tim's Delta companion ticket \ud83d\udcdd",
@@ -605,13 +591,6 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:12351"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1304,
-      "row": 61,
-      "label": "Gather docs to get Evan learner permit",
-      "uid": "SPIN:1304"
     },
     {
       "source": "SPIN_WHEEL",
@@ -995,13 +974,26 @@
       "sid": 1360,
       "label": "Trouble shoot Edison mail issues",
       "uid": "SPIN_WHEEL:1360"
+    },
+    {
+      "source": "TASKS",
+      "id": 10874,
+      "label": "Ponder stepping up Evan's nutrition plan (sleep routine first, then food) \ud83d\udcdd",
+      "aw": 3,
+      "pri": "High",
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10874"
     }
   ],
-  "version": 3500,
-  "updated": "2026-11-19T00:19:25.178213+00:00",
+  "version": 3501,
+  "updated": "2026-11-19T07:32:11.579734+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 77,
+    "SPIN_WHEEL": 76,
     "TASKS": 23,
     "MAINTENANCE": 2,
     "ZONES": 9
