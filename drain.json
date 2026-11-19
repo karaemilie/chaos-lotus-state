@@ -7,12 +7,34 @@
       "label": "✨ Cancel Khanmigo if not using",
       "uid": "TASKS:12277",
       "_ts": "2026-11-19T07:31:20.801Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 61,
+      "label": "Gather docs to get Evan learner permit",
+      "uid": "SPIN:1304",
+      "_ts": "2026-11-19T07:31:32.109Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-11-19T07:31:23.523Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Assign more Kahn / ask Evan how recommendations were",
+      "_addedAt": "2026-11-19T07:31:08.735Z",
+      "newtask": {
+        "label": "Assign more Kahn / ask Evan how recommendations were",
+        "start": "2026-11-21",
+        "category": "Kids",
+        "aw": 3,
+        "recType": "None",
+        "recValue": null
+      },
+      "_ts": "2026-11-19T07:31:08.874Z"
+    }
+  ],
+  "mirroredAt": "2026-11-19T07:31:32.328Z",
   "counts": {
-    "completions": 1,
-    "adds": 0
+    "completions": 2,
+    "adds": 1
   }
 }
