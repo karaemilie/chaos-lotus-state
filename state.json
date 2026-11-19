@@ -27,20 +27,6 @@
       "uid": "SPIN:1296"
     },
     {
-      "source": "TASKS",
-      "id": 12375,
-      "row": 389,
-      "label": "\u2728 Recharge my twinkle stars \u2728\ud83d\udd0b",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12375"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1268,
       "row": 48,
@@ -53,13 +39,6 @@
       "row": 80,
       "label": "Verify Bentley account for $1500",
       "uid": "SPIN:1348"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 921,
-      "row": 7,
-      "label": "Find algebra 1 S1 book**",
-      "uid": "SPIN:921"
     },
     {
       "source": "SPIN_WHEEL",
@@ -979,15 +958,28 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10899"
+    },
+    {
+      "source": "TASKS",
+      "id": 11962,
+      "label": "Pair phone to test app \ud83d\udcf1",
+      "aw": 7,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:11962"
     }
   ],
-  "version": 3506,
-  "updated": "2026-11-19T10:15:17.702814+00:00",
+  "version": 3507,
+  "updated": "2026-11-19T10:16:14.390472+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 75,
-    "TASKS": 23,
+    "SPIN_WHEEL": 74,
     "MAINTENANCE": 2,
+    "TASKS": 23,
     "ZONES": 9
   }
 }
