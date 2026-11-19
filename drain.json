@@ -1,5 +1,14 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "TASKS",
+      "id": 12277,
+      "row": 325,
+      "label": "✨ Cancel Khanmigo if not using",
+      "uid": "TASKS:12277",
+      "_ts": "2026-11-19T07:31:20.801Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -16,9 +25,9 @@
       "_ts": "2026-11-19T07:31:08.874Z"
     }
   ],
-  "mirroredAt": "2026-11-19T07:31:09.148Z",
+  "mirroredAt": "2026-11-19T07:31:21.030Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
