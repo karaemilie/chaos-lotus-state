@@ -987,13 +987,27 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:12414"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1362,
+      "sid": 1362,
+      "label": "Help Bentley find music class online",
+      "uid": "SPIN_WHEEL:1362"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1363,
+      "sid": 1363,
+      "label": "Hook up Claude to xMind",
+      "uid": "SPIN_WHEEL:1363"
     }
   ],
-  "version": 3503,
-  "updated": "2026-11-19T10:08:03.803383+00:00",
+  "version": 3504,
+  "updated": "2026-11-19T10:11:30.503249+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 76,
+    "SPIN_WHEEL": 78,
     "TASKS": 23,
     "MAINTENANCE": 2,
     "ZONES": 9
