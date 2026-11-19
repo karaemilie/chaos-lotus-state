@@ -1,9 +1,24 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-19T00:19:23.757Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Assign more Kahn / ask Evan how recommendations were",
+      "_addedAt": "2026-11-19T07:31:08.735Z",
+      "newtask": {
+        "label": "Assign more Kahn / ask Evan how recommendations were",
+        "start": "2026-11-21",
+        "category": "Kids",
+        "aw": 3,
+        "recType": "None",
+        "recValue": null
+      },
+      "_ts": "2026-11-19T07:31:08.874Z"
+    }
+  ],
+  "mirroredAt": "2026-11-19T07:31:09.148Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
