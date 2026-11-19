@@ -1,9 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-19T07:32:14.170Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Home assistant rout Be to cut all Puras at 1 am",
+      "_addedAt": "2026-11-19T07:48:35.376Z",
+      "_ts": "2026-11-19T07:48:35.519Z"
+    }
+  ],
+  "mirroredAt": "2026-11-19T07:48:35.785Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
