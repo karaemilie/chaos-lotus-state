@@ -468,13 +468,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1311,
-      "row": 66,
-      "label": "Call Discover for balance",
-      "uid": "SPIN:1311"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1336,
       "row": 74,
       "label": "Christmas tix Jake both way change",
@@ -973,11 +966,11 @@
       "uid": "TASKS:11962"
     }
   ],
-  "version": 3507,
-  "updated": "2026-11-19T10:16:14.390472+00:00",
+  "version": 3508,
+  "updated": "2026-11-20T05:36:40.153833+00:00",
   "buckets": {
     "COURAGE": 4,
-    "SPIN_WHEEL": 74,
+    "SPIN_WHEEL": 73,
     "MAINTENANCE": 2,
     "TASKS": 23,
     "ZONES": 9
