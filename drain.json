@@ -1,9 +1,24 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-20T05:25:46.035Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Figure out how to close Discover/capital one card 6660 (Card in desk drawer)",
+      "_addedAt": "2026-11-20T05:26:43.741Z",
+      "newtask": {
+        "label": "Figure out how to close Discover/capital one card 6660 (Card in desk drawer)",
+        "start": "2027-01-19",
+        "category": "Finance",
+        "aw": 4,
+        "recType": "None",
+        "recValue": null
+      },
+      "_ts": "2026-11-20T05:26:44.057Z"
+    }
+  ],
+  "mirroredAt": "2026-11-20T05:26:44.554Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
