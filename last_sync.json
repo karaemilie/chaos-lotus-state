@@ -1,11 +1,15 @@
 {
-  "lastRun": "2026-11-20T23:58:34.262346+00:00",
+  "lastRun": "2026-11-20T23:58:59.105881+00:00",
   "lastRunAlaska": "2026-11-20 14:58 AKST",
-  "processedCount": 1,
+  "processedCount": 2,
   "processed": [
     {
-      "uid": "MAINTENANCE:139",
-      "result": "\u2705 MAINTENANCE 'Clean bathroom mirrors' (MID 139) stamped 2026-11-20"
+      "uid": "ZONES:81",
+      "result": "\u2705 Personal/Face Exfoliation (row 84) stamped 2026-11-20"
+    },
+    {
+      "uid": "MAINTENANCE:140",
+      "result": "\u2705 MAINTENANCE 'Wash my sheet' (MID 140) stamped 2026-11-20"
     }
   ],
   "remainingForClaude": {
@@ -13,14 +17,8 @@
     "adds": 0
   },
   "daySweep": {
-    "added": [
-      "TASKS:12287",
-      "TASKS:12382"
-    ],
-    "bumped": [
-      "TASKS:10874",
-      "TASKS:10899"
-    ],
+    "added": [],
+    "bumped": [],
     "today": "2026-11-20",
     "stampToday": "2026-11-20",
     "ran": true
