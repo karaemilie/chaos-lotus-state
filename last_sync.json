@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-11-20T05:36:42.712964+00:00",
-  "lastRunAlaska": "2026-11-19 20:36 AKST",
+  "lastRun": "2026-11-20T23:58:34.262346+00:00",
+  "lastRunAlaska": "2026-11-20 14:58 AKST",
   "processedCount": 1,
   "processed": [
     {
-      "uid": "SPIN:1311",
-      "result": "\u2705 SPIN deleted SID 1311 ('Call Discover for balance')"
+      "uid": "MAINTENANCE:139",
+      "result": "\u2705 MAINTENANCE 'Clean bathroom mirrors' (MID 139) stamped 2026-11-20"
     }
   ],
   "remainingForClaude": {
@@ -13,10 +13,16 @@
     "adds": 0
   },
   "daySweep": {
-    "added": [],
-    "bumped": [],
-    "today": "2026-11-19",
-    "stampToday": "2026-11-19",
+    "added": [
+      "TASKS:12287",
+      "TASKS:12382"
+    ],
+    "bumped": [
+      "TASKS:10874",
+      "TASKS:10899"
+    ],
+    "today": "2026-11-20",
+    "stampToday": "2026-11-20",
     "ran": true
   }
 }
