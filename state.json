@@ -62,15 +62,6 @@
       "uid": "SPIN:337"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 139,
-      "row": 142,
-      "label": "\ud83c\udfe0 Clean bathroom mirrors",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Clean bathroom mirrors",
-      "uid": "MAINTENANCE:139"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1150,
       "row": 28,
@@ -867,19 +858,6 @@
       "uid": "SPIN_WHEEL:1360"
     },
     {
-      "source": "TASKS",
-      "id": 10874,
-      "label": "Ponder stepping up Evan's nutrition plan (sleep routine first, then food) \ud83d\udcdd",
-      "aw": 3,
-      "pri": "High",
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Family",
-      "critical": false,
-      "uid": "TASKS:10874"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1361,
       "sid": 1361,
@@ -941,19 +919,6 @@
     },
     {
       "source": "TASKS",
-      "id": 10899,
-      "label": "Make SAT practice chart for Lincoln \ud83d\udcca \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": "Lincoln SAT Prep",
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:10899"
-    },
-    {
-      "source": "TASKS",
       "id": 11962,
       "label": "Pair phone to test app \ud83d\udcf1",
       "aw": 7,
@@ -964,15 +929,49 @@
       "cat": "Business",
       "critical": false,
       "uid": "TASKS:11962"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 141,
+      "label": "\ud83c\udfe0 Polish the granite",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Polish the granite",
+      "uid": "MAINTENANCE:141"
+    },
+    {
+      "source": "TASKS",
+      "id": 12287,
+      "label": "\u2728 Next month plan: keep or change or pause AK Club membership?",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 15,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:12287"
+    },
+    {
+      "source": "TASKS",
+      "id": 12382,
+      "label": "\u2728 Put on new tattoo",
+      "aw": 4,
+      "pri": 3,
+      "dur": 10,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12382"
     }
   ],
-  "version": 3508,
-  "updated": "2026-11-20T05:36:40.153833+00:00",
+  "version": 3509,
+  "updated": "2026-11-20T23:58:30.803550+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 73,
-    "MAINTENANCE": 2,
     "TASKS": 23,
-    "ZONES": 9
+    "ZONES": 9,
+    "MAINTENANCE": 2
   }
 }
