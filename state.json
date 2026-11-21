@@ -584,13 +584,6 @@
       "uid": "SPIN_WHEEL:1357"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1359,
-      "sid": 1359,
-      "label": "Recode my habit app errors away",
-      "uid": "SPIN_WHEEL:1359"
-    },
-    {
       "source": "COURAGE",
       "parentId": 10009,
       "stepIndex": 0,
@@ -634,45 +627,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12370,
-      "label": "\u2728 Audit spin wheel tasks (keep / edit / convert / delete) \ud83c\udfa1\ud83d\udccb",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12370"
-    },
-    {
-      "source": "TASKS",
-      "id": 12407,
-      "label": "\u2728 Refill vitamin boxes for Lincoln & Evan \ud83d\udc8a",
-      "aw": 5,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Family/Education",
-      "critical": false,
-      "uid": "TASKS:12407"
-    },
-    {
-      "source": "TASKS",
-      "id": 12411,
-      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
-      "aw": 4,
-      "pri": "Soon",
-      "dur": 5,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12411"
-    },
-    {
-      "source": "TASKS",
       "id": 12423,
       "label": "\u2728 Update school lists for Lincoln & Evan",
       "aw": 4,
@@ -701,13 +655,6 @@
       "uid": "SPIN_WHEEL:1360"
     },
     {
-      "source": "SPIN_WHEEL",
-      "row": 1361,
-      "sid": 1361,
-      "label": "Home assistant rout Be to cut all Puras at 1 am",
-      "uid": "SPIN_WHEEL:1361"
-    },
-    {
       "source": "TASKS",
       "id": 12328,
       "label": "\u2728 Cancel Wordlize subscriptions (x2)",
@@ -719,19 +666,6 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:12328"
-    },
-    {
-      "source": "TASKS",
-      "id": 12412,
-      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Easy Win",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12412"
     },
     {
       "source": "TASKS",
@@ -942,13 +876,39 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Music Room",
       "uid": "ZONES:24"
+    },
+    {
+      "source": "TASKS",
+      "id": 10150,
+      "label": "Clean up all shoes in the mudroom \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 20,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10150"
+    },
+    {
+      "source": "TASKS",
+      "id": 10899,
+      "label": "Make SAT practice chart for Lincoln \ud83d\udcca \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "Lincoln SAT Prep",
+      "cat": "Education",
+      "critical": false,
+      "uid": "TASKS:10899"
     }
   ],
-  "version": 3518,
-  "updated": "2026-11-21T10:21:57.019420+00:00",
+  "version": 3519,
+  "updated": "2026-11-21T10:22:41.771657+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
-    "TASKS": 25,
+    "SPIN_WHEEL": 65,
+    "TASKS": 23,
     "COURAGE": 4,
     "ZONES": 9,
     "MAINTENANCE": 2
