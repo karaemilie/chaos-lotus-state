@@ -45,6 +45,13 @@
       "label": "💻 Quicken",
       "uid": "ZONES:59",
       "_ts": "2026-11-21T10:21:18.933Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 68,
+      "label": "Smoke alarm batteries",
+      "uid": "SPIN:1317",
+      "_ts": "2026-11-21T10:21:24.833Z"
     }
   ],
   "adds": [
@@ -82,9 +89,9 @@
       "_ts": "2026-11-21T10:20:53.628Z"
     }
   ],
-  "mirroredAt": "2026-11-21T10:21:19.180Z",
+  "mirroredAt": "2026-11-21T10:21:25.070Z",
   "counts": {
-    "completions": 6,
+    "completions": 7,
     "adds": 3
   }
 }
