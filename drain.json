@@ -6,6 +6,13 @@
       "label": "Verify Bentley account for $1500",
       "uid": "SPIN:1348",
       "_ts": "2026-11-21T10:18:58.918Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 48,
+      "label": "Move the garden stuff",
+      "uid": "SPIN:1268",
+      "_ts": "2026-11-21T10:19:40.838Z"
     }
   ],
   "adds": [
@@ -22,9 +29,9 @@
       "_ts": "2026-11-21T10:19:28.786Z"
     }
   ],
-  "mirroredAt": "2026-11-21T10:19:29.010Z",
+  "mirroredAt": "2026-11-21T10:19:41.072Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 1
   }
 }
