@@ -656,19 +656,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12328,
-      "label": "\u2728 Cancel Wordlize subscriptions (x2)",
-      "aw": 3,
-      "pri": null,
-      "dur": 15,
-      "ml": null,
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12328"
-    },
-    {
-      "source": "TASKS",
       "id": 12414,
       "label": "\u2728 Spend time on flower bouquet coding project",
       "aw": 5,
@@ -701,32 +688,6 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Polish the granite",
       "uid": "MAINTENANCE:141"
-    },
-    {
-      "source": "TASKS",
-      "id": 12287,
-      "label": "\u2728 Next month plan: keep or change or pause AK Club membership?",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12287"
-    },
-    {
-      "source": "TASKS",
-      "id": 12382,
-      "label": "\u2728 Put on new tattoo",
-      "aw": 4,
-      "pri": 3,
-      "dur": 10,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12382"
     },
     {
       "source": "ZONES",
@@ -778,19 +739,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12384,
-      "label": "\u2728 Audit tasks with no start date + orphaned recurring tasks \ud83d\udccb\u2696\ufe0f",
-      "aw": 4,
-      "pri": "High",
-      "dur": 15,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12384"
-    },
-    {
-      "source": "TASKS",
       "id": 12419,
       "label": "\u2728 Pay Linda, Lindsey & Miriam for the week!",
       "aw": 4,
@@ -827,19 +775,6 @@
       "cat": "Family",
       "critical": false,
       "uid": "TASKS:12434"
-    },
-    {
-      "source": "TASKS",
-      "id": 12437,
-      "label": "\u2728 Recharge my twinkle stars \u2728\ud83d\udd0b",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12437"
     },
     {
       "source": "COURAGE",
@@ -902,10 +837,75 @@
       "cat": "Education",
       "critical": false,
       "uid": "TASKS:10899"
+    },
+    {
+      "source": "TASKS",
+      "id": 10182,
+      "label": "Research flooring - compare options from Hannah and Allison \ud83d\udcdd",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 30,
+      "ml": "Medium",
+      "proj": "Flooring",
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:10182"
+    },
+    {
+      "source": "TASKS",
+      "id": 12113,
+      "label": "Develop NFC alarm app \ud83d\udcf2\u23f0",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Business",
+      "critical": false,
+      "uid": "TASKS:12113"
+    },
+    {
+      "source": "TASKS",
+      "id": 10346,
+      "label": "Try new purple lashes",
+      "aw": 7,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:10346"
+    },
+    {
+      "source": "TASKS",
+      "id": 10344,
+      "label": "Show Lincoln where/how to pay tithing online",
+      "aw": 3,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Family",
+      "critical": false,
+      "uid": "TASKS:10344"
+    },
+    {
+      "source": "TASKS",
+      "id": 10073,
+      "label": "Figure out what to invest $18k ROTH in \ud83d\udcdd",
+      "aw": 4,
+      "pri": "Medium",
+      "dur": 45,
+      "ml": "Hard",
+      "proj": "Financial Admin",
+      "cat": "Finance",
+      "critical": false,
+      "uid": "TASKS:10073"
     }
   ],
-  "version": 3519,
-  "updated": "2026-11-21T10:22:41.771657+00:00",
+  "version": 3520,
+  "updated": "2026-11-21T10:23:30.004832+00:00",
   "buckets": {
     "SPIN_WHEEL": 65,
     "TASKS": 23,
