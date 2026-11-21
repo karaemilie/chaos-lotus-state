@@ -9,10 +9,25 @@
     },
     {
       "source": "SPIN_WHEEL",
+      "row": 48,
+      "label": "Move the garden stuff",
+      "uid": "SPIN:1268",
+      "_ts": "2026-11-21T10:19:40.838Z"
+    },
+    {
+      "source": "SPIN_WHEEL",
       "row": 83,
       "label": "Test my focus settings",
       "uid": "SPIN:1352",
       "_ts": "2026-11-21T10:20:27.619Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12349,
+      "row": 365,
+      "label": "✨ List 3-5 plants for sale on marketplace 🪴💰 📝",
+      "uid": "TASKS:12349",
+      "_ts": "2026-11-21T10:20:33.007Z"
     }
   ],
   "adds": [
@@ -35,9 +50,9 @@
       "_ts": "2026-11-21T10:20:22.996Z"
     }
   ],
-  "mirroredAt": "2026-11-21T10:20:31.246Z",
+  "mirroredAt": "2026-11-21T10:20:33.266Z",
   "counts": {
-    "completions": 2,
+    "completions": 4,
     "adds": 2
   }
 }
