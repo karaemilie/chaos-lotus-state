@@ -56,11 +56,26 @@
       "label": "Change my vibrating tone",
       "_addedAt": "2026-11-21T10:20:22.675Z",
       "_ts": "2026-11-21T10:20:22.996Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Find and cancel Citi Strata card",
+      "_addedAt": "2026-11-21T10:20:53.381Z",
+      "promote": {
+        "fromUid": "SPIN:1300",
+        "sid": 1300,
+        "label": "Find and cancel Citi Strata card",
+        "origLabel": "Find and cancel Citi Strata card",
+        "start": "2026-12-21",
+        "category": "Finance",
+        "aw": 3
+      },
+      "_ts": "2026-11-21T10:20:53.628Z"
     }
   ],
-  "mirroredAt": "2026-11-21T10:20:37.961Z",
+  "mirroredAt": "2026-11-21T10:20:53.868Z",
   "counts": {
     "completions": 5,
-    "adds": 2
+    "adds": 3
   }
 }
