@@ -1,9 +1,24 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-21T10:36:27.471Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Assign Linc / Evan to read 7 Habit book from library",
+      "_addedAt": "2026-11-21T23:50:41.728Z",
+      "newtask": {
+        "label": "Assign Linc / Evan to read 7 Habit book from library",
+        "start": "2027-01-13",
+        "category": "Home",
+        "aw": 4,
+        "recType": "None",
+        "recValue": null
+      },
+      "_ts": "2026-11-21T23:50:41.904Z"
+    }
+  ],
+  "mirroredAt": "2026-11-21T23:50:42.168Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
