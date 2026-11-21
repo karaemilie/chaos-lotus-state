@@ -507,16 +507,6 @@
       "uid": "SPIN:1349"
     },
     {
-      "source": "ZONES",
-      "zid": 59,
-      "floor": "Digital",
-      "row": 61,
-      "label": "\ud83d\udcbb Quicken",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Quicken",
-      "uid": "ZONES:59"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 839,
       "row": 5,
@@ -553,13 +543,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1317,
-      "row": 68,
-      "label": "Smoke alarm batteries",
-      "uid": "SPIN:1317"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1157,
       "row": 29,
       "label": "Submit for viola rest",
@@ -571,16 +554,6 @@
       "row": 44,
       "label": "Set up AP Econ study plan",
       "uid": "SPIN:1242"
-    },
-    {
-      "source": "ZONES",
-      "zid": 23,
-      "floor": "Main Floor",
-      "row": 24,
-      "label": "\ud83e\uddfa Kitchen",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Kitchen",
-      "uid": "ZONES:23"
     },
     {
       "source": "SPIN_WHEEL",
@@ -609,26 +582,6 @@
       "sid": 1357,
       "label": "Jake new shoes",
       "uid": "SPIN_WHEEL:1357"
-    },
-    {
-      "source": "TASKS",
-      "id": 12391,
-      "label": "\u2728 Check in on Pura scents - time to refresh?",
-      "aw": 4,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12391"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "row": 1358,
-      "sid": 1358,
-      "label": "Pay Linc for plow?",
-      "uid": "SPIN_WHEEL:1358"
     },
     {
       "source": "SPIN_WHEEL",
@@ -971,13 +924,31 @@
       "sid": 1364,
       "label": "Change my vibrating tone",
       "uid": "SPIN_WHEEL:1364"
+    },
+    {
+      "source": "ZONES",
+      "zid": 63,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Calls/Voicemail",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Calls/Voicemail",
+      "uid": "ZONES:63"
+    },
+    {
+      "source": "ZONES",
+      "zid": 24,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Music Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Music Room",
+      "uid": "ZONES:24"
     }
   ],
-  "version": 3517,
-  "updated": "2026-11-21T10:21:17.459363+00:00",
+  "version": 3518,
+  "updated": "2026-11-21T10:21:57.019420+00:00",
   "buckets": {
-    "SPIN_WHEEL": 69,
-    "TASKS": 26,
+    "SPIN_WHEEL": 67,
+    "TASKS": 25,
     "COURAGE": 4,
     "ZONES": 9,
     "MAINTENANCE": 2
