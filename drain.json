@@ -61,6 +61,13 @@
       "label": "🧺 Kitchen",
       "uid": "ZONES:23",
       "_ts": "2026-11-21T10:21:29.654Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12391,
+      "label": "✨ Check in on Pura scents - time to refresh?",
+      "uid": "TASKS:12391",
+      "_ts": "2026-11-21T10:21:35.728Z"
     }
   ],
   "adds": [
@@ -98,9 +105,9 @@
       "_ts": "2026-11-21T10:20:53.628Z"
     }
   ],
-  "mirroredAt": "2026-11-21T10:21:29.888Z",
+  "mirroredAt": "2026-11-21T10:21:35.958Z",
   "counts": {
-    "completions": 8,
+    "completions": 9,
     "adds": 3
   }
 }
