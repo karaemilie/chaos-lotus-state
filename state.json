@@ -902,12 +902,19 @@
       "cat": "Finance",
       "critical": false,
       "uid": "TASKS:10073"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1365,
+      "sid": 1365,
+      "label": "Dr",
+      "uid": "SPIN_WHEEL:1365"
     }
   ],
-  "version": 3520,
-  "updated": "2026-11-21T10:23:30.004832+00:00",
+  "version": 3521,
+  "updated": "2026-11-21T10:36:29.097090+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 66,
     "TASKS": 23,
     "COURAGE": 4,
     "ZONES": 9,
