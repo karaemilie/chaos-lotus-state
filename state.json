@@ -16,13 +16,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1268,
-      "row": 48,
-      "label": "Move the garden stuff",
-      "uid": "SPIN:1268"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1309,
       "row": 64,
       "label": "Look at school widget w/Linc",
@@ -1015,10 +1008,10 @@
       "uid": "COURAGE:10010:0"
     }
   ],
-  "version": 3514,
-  "updated": "2026-11-21T10:19:51.038574+00:00",
+  "version": 3515,
+  "updated": "2026-11-21T10:20:29.954213+00:00",
   "buckets": {
-    "SPIN_WHEEL": 71,
+    "SPIN_WHEEL": 70,
     "TASKS": 28,
     "COURAGE": 4,
     "ZONES": 9,
