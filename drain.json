@@ -1,16 +1,18 @@
 {
-  "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-21T00:05:35.429Z",
-  "counts": {
-    "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-21T00:05:36.684622+00:00",
-  "lastAutoProcessed": [
-    "ZONES:80"
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 61,
+      "floor": "Digital",
+      "label": "💻 Reviews",
+      "uid": "ZONES:61",
+      "_ts": "2026-11-21T00:52:29.899Z"
+    }
   ],
-  "autoReset": [
-    "Plant"
-  ]
+  "adds": [],
+  "mirroredAt": "2026-11-21T00:52:30.140Z",
+  "counts": {
+    "completions": 1,
+    "adds": 0
+  }
 }
