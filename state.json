@@ -825,15 +825,6 @@
       "uid": "ZONES:78"
     },
     {
-      "source": "ZONES",
-      "zid": 80,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Hallway",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Hallway",
-      "uid": "ZONES:80"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1360,
       "sid": 1360,
@@ -963,10 +954,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Clean family room mirror",
       "uid": "MAINTENANCE:142"
+    },
+    {
+      "source": "ZONES",
+      "zid": 73,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Bedroom",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Bedroom",
+      "uid": "ZONES:73"
     }
   ],
-  "version": 3510,
-  "updated": "2026-11-20T23:58:56.155082+00:00",
+  "version": 3511,
+  "updated": "2026-11-21T00:05:31.391990+00:00",
   "buckets": {
     "COURAGE": 4,
     "SPIN_WHEEL": 73,
