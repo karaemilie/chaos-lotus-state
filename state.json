@@ -158,13 +158,6 @@
       "uid": "TASKS:11688"
     },
     {
-      "source": "SPIN_WHEEL",
-      "sid": 1352,
-      "row": 83,
-      "label": "Test my focus settings",
-      "uid": "SPIN:1352"
-    },
-    {
       "source": "TASKS",
       "id": 12157,
       "row": 272,
@@ -193,39 +186,11 @@
       "uid": "SPIN:1013"
     },
     {
-      "source": "TASKS",
-      "id": 12349,
-      "row": 365,
-      "label": "\u2728 List 3-5 plants for sale on marketplace \ud83e\udeb4\ud83d\udcb0 \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Normal",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12349"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1093,
       "row": 24,
       "label": "Swap remarkable with Linc (reset?)",
       "uid": "SPIN:1093"
-    },
-    {
-      "source": "TASKS",
-      "id": 12278,
-      "row": 326,
-      "label": "\u2728 Downgrade Hulu to ads plan if not using",
-      "aw": 4,
-      "pri": "Medium",
-      "dur": 5,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Finance",
-      "critical": false,
-      "uid": "TASKS:12278"
     },
     {
       "source": "SPIN_WHEEL",
@@ -287,13 +252,6 @@
       "row": 53,
       "label": "Set up Home Assistant",
       "uid": "SPIN:1283"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1300,
-      "row": 58,
-      "label": "Find and cancel Citi Strata card",
-      "uid": "SPIN:1300"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1008,11 +966,11 @@
       "uid": "COURAGE:10010:0"
     }
   ],
-  "version": 3515,
-  "updated": "2026-11-21T10:20:29.954213+00:00",
+  "version": 3516,
+  "updated": "2026-11-21T10:21:12.903389+00:00",
   "buckets": {
-    "SPIN_WHEEL": 70,
-    "TASKS": 28,
+    "SPIN_WHEEL": 68,
+    "TASKS": 26,
     "COURAGE": 4,
     "ZONES": 9,
     "MAINTENANCE": 2
