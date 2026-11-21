@@ -105,10 +105,26 @@
       "_ts": "2026-11-21T10:22:07.652Z"
     }
   ],
-  "adds": [],
-  "mirroredAt": "2026-11-21T10:22:07.906Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Home assistant rout Be to cut all Puras at 1 am",
+      "_addedAt": "2026-11-21T10:22:19.941Z",
+      "promote": {
+        "fromUid": "SPIN_WHEEL:1361",
+        "sid": 1361,
+        "label": "Home assistant rout Be to cut all Puras at 1 am",
+        "origLabel": "Home assistant rout Be to cut all Puras at 1 am",
+        "start": "2026-11-28",
+        "category": "Finance",
+        "aw": 3
+      },
+      "_ts": "2026-11-21T10:22:20.110Z"
+    }
+  ],
+  "mirroredAt": "2026-11-21T10:22:20.341Z",
   "counts": {
     "completions": 14,
-    "adds": 0
+    "adds": 1
   }
 }
