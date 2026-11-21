@@ -1,18 +1,6 @@
 {
   "tasks": [
     {
-      "source": "COURAGE",
-      "parentId": 10218,
-      "parentRow": 51,
-      "parentLabel": "Help Bentley schedule CNA exam / figure out timeline \ud83d\udcdd",
-      "stepIndex": 0,
-      "aw": 2,
-      "due": "2026-06-23",
-      "label": "\ud83d\udd25 Help Bentley schedule CNA exam / figure out timeline \ud83d\udcdd",
-      "emoji": "\ud83d\udd25",
-      "uid": "COURAGE:10218:0"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1307,
       "row": 62,
@@ -32,13 +20,6 @@
       "row": 48,
       "label": "Move the garden stuff",
       "uid": "SPIN:1268"
-    },
-    {
-      "source": "SPIN_WHEEL",
-      "sid": 1348,
-      "row": 80,
-      "label": "Verify Bentley account for $1500",
-      "uid": "SPIN:1348"
     },
     {
       "source": "SPIN_WHEEL",
@@ -1021,14 +1002,25 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12437"
+    },
+    {
+      "source": "COURAGE",
+      "parentId": 10010,
+      "stepIndex": 0,
+      "parentLabel": "Restart 529 contributions - Jackson",
+      "aw": 2,
+      "due": "2026-07-06",
+      "label": "\ud83d\udd25 Restart 529 contributions - Jackson",
+      "emoji": "\ud83d\udd25",
+      "uid": "COURAGE:10010:0"
     }
   ],
-  "version": 3513,
-  "updated": "2026-11-21T10:19:10.178853+00:00",
+  "version": 3514,
+  "updated": "2026-11-21T10:19:51.038574+00:00",
   "buckets": {
-    "COURAGE": 4,
-    "SPIN_WHEEL": 72,
+    "SPIN_WHEEL": 71,
     "TASKS": 28,
+    "COURAGE": 4,
     "ZONES": 9,
     "MAINTENANCE": 2
   }
