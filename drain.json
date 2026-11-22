@@ -7,12 +7,20 @@
       "label": "💻 Calls/Voicemail",
       "uid": "ZONES:63",
       "_ts": "2026-11-22T00:49:50.219Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 62,
+      "floor": "Digital",
+      "label": "💻 Messages",
+      "uid": "ZONES:62",
+      "_ts": "2026-11-22T00:49:52.567Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-22T00:49:50.468Z",
+  "mirroredAt": "2026-11-22T00:49:52.806Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
