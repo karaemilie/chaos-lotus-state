@@ -7,12 +7,20 @@
       "label": "🌱 Family Room Props",
       "uid": "ZONES:78",
       "_ts": "2026-11-22T06:44:43.591Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 11,
+      "floor": "Upstairs",
+      "label": "🧺 My Bathroom",
+      "uid": "ZONES:11",
+      "_ts": "2026-11-22T06:44:52.650Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-22T06:44:43.805Z",
+  "mirroredAt": "2026-11-22T06:44:52.865Z",
   "counts": {
-    "completions": 1,
+    "completions": 2,
     "adds": 0
   }
 }
