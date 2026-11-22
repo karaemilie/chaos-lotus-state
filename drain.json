@@ -2,14 +2,6 @@
   "completions": [
     {
       "source": "ZONES",
-      "zid": 63,
-      "floor": "Digital",
-      "label": "💻 Calls/Voicemail",
-      "uid": "ZONES:63",
-      "_ts": "2026-11-22T00:49:50.219Z"
-    },
-    {
-      "source": "ZONES",
       "zid": 62,
       "floor": "Digital",
       "label": "💻 Messages",
@@ -34,9 +26,9 @@
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-22T00:49:58.985Z",
+  "mirroredAt": "2026-11-22T00:50:04.097Z",
   "counts": {
-    "completions": 4,
+    "completions": 3,
     "adds": 0
   }
 }
