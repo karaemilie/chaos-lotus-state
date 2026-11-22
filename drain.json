@@ -1,15 +1,24 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-22T00:50:51.414Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Decide between my two foxes",
+      "_addedAt": "2026-11-22T06:15:39.790Z",
+      "newtask": {
+        "label": "Decide between my two foxes",
+        "start": "2026-11-28",
+        "category": "Home",
+        "aw": 4,
+        "recType": "None",
+        "recValue": null
+      },
+      "_ts": "2026-11-22T06:15:40.007Z"
+    }
+  ],
+  "mirroredAt": "2026-11-22T06:15:40.259Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-22T00:50:52.613698+00:00",
-  "lastAutoProcessed": [
-    "ZONES:62",
-    "ZONES:24",
-    "ZONES:84"
-  ]
+    "adds": 1
+  }
 }
