@@ -690,15 +690,6 @@
       "uid": "MAINTENANCE:141"
     },
     {
-      "source": "ZONES",
-      "zid": 84,
-      "floor": "Personal",
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Hand Care & Mani",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Hand Care & Mani",
-      "uid": "ZONES:84"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 142,
       "label": "\ud83c\udfe0 Clean family room mirror",
@@ -714,15 +705,6 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Bedroom",
       "uid": "ZONES:73"
-    },
-    {
-      "source": "ZONES",
-      "zid": 62,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Messages",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Messages",
-      "uid": "ZONES:62"
     },
     {
       "source": "TASKS",
@@ -793,15 +775,6 @@
       "sid": 1364,
       "label": "Change my vibrating tone",
       "uid": "SPIN_WHEEL:1364"
-    },
-    {
-      "source": "ZONES",
-      "zid": 24,
-      "floor": "Main Floor",
-      "label": "\ud83e\uddfa Music Room",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Music Room",
-      "uid": "ZONES:24"
     },
     {
       "source": "TASKS",
@@ -916,10 +889,37 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "OneTab",
       "uid": "ZONES:64"
+    },
+    {
+      "source": "ZONES",
+      "zid": 65,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Emails",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Emails",
+      "uid": "ZONES:65"
+    },
+    {
+      "source": "ZONES",
+      "zid": 25,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Garage",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Garage",
+      "uid": "ZONES:25"
+    },
+    {
+      "source": "ZONES",
+      "zid": 85,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Face Mask",
+      "uid": "ZONES:85"
     }
   ],
-  "version": 3523,
-  "updated": "2026-11-22T00:50:02.692169+00:00",
+  "version": 3524,
+  "updated": "2026-11-22T00:50:50.001139+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "TASKS": 23,
