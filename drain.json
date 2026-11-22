@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-22T06:45:48.843Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Put odie oil on sink (first research if it can be removed)",
+      "_addedAt": "2026-11-22T09:53:01.271Z",
+      "_ts": "2026-11-22T09:53:01.404Z"
+    }
+  ],
+  "mirroredAt": "2026-11-22T09:53:01.656Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-22T06:45:50.011933+00:00",
-  "lastAutoProcessed": [
-    "ZONES:11"
-  ]
+    "adds": 1
+  }
 }
