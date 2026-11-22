@@ -639,15 +639,6 @@
       "uid": "TASKS:12423"
     },
     {
-      "source": "ZONES",
-      "zid": 78,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Family Room Props",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Props",
-      "uid": "ZONES:78"
-    },
-    {
       "source": "SPIN_WHEEL",
       "row": 1360,
       "sid": 1360,
@@ -916,10 +907,19 @@
       "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
       "zoneName": "Face Mask",
       "uid": "ZONES:85"
+    },
+    {
+      "source": "ZONES",
+      "zid": 74,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Family Room Plants",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Family Room Plants",
+      "uid": "ZONES:74"
     }
   ],
-  "version": 3524,
-  "updated": "2026-11-22T00:50:50.001139+00:00",
+  "version": 3525,
+  "updated": "2026-11-22T06:45:02.303396+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "TASKS": 23,
