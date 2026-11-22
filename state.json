@@ -796,15 +796,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 63,
-      "floor": "Digital",
-      "label": "\ud83d\udcbb Calls/Voicemail",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Calls/Voicemail",
-      "uid": "ZONES:63"
-    },
-    {
-      "source": "ZONES",
       "zid": 24,
       "floor": "Main Floor",
       "label": "\ud83e\uddfa Music Room",
@@ -916,10 +907,19 @@
       "sid": 1366,
       "label": "Research plan for plant sales in Etsy shop",
       "uid": "SPIN_WHEEL:1366"
+    },
+    {
+      "source": "ZONES",
+      "zid": 64,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb OneTab",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "OneTab",
+      "uid": "ZONES:64"
     }
   ],
-  "version": 3522,
-  "updated": "2026-11-22T00:40:25.486159+00:00",
+  "version": 3523,
+  "updated": "2026-11-22T00:50:02.692169+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "TASKS": 23,
