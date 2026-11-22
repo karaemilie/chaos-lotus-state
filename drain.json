@@ -1,9 +1,24 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-22T06:15:55.469Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Compare notes on two options for drug tests ng",
+      "_addedAt": "2026-11-22T06:20:27.451Z",
+      "newtask": {
+        "label": "Compare notes on two options for drug tests ng",
+        "start": "2027-01-10",
+        "category": "Personal",
+        "aw": 3,
+        "recType": "None",
+        "recValue": null
+      },
+      "_ts": "2026-11-22T06:20:27.590Z"
+    }
+  ],
+  "mirroredAt": "2026-11-22T06:20:27.845Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 1
   }
 }
