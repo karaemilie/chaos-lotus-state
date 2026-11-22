@@ -604,15 +604,6 @@
       "uid": "ZONES:83"
     },
     {
-      "source": "ZONES",
-      "zid": 11,
-      "floor": "Upstairs",
-      "label": "\ud83e\uddfa My Bathroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "My Bathroom",
-      "uid": "ZONES:11"
-    },
-    {
       "source": "TASKS",
       "id": 12337,
       "label": "\u2728 Clean makeup brushes \ud83d\udd8c\ufe0f",
@@ -916,10 +907,19 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Family Room Plants",
       "uid": "ZONES:74"
+    },
+    {
+      "source": "ZONES",
+      "zid": 12,
+      "floor": "Upstairs",
+      "label": "\ud83e\uddfa Upstairs Family Room",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Upstairs Family Room",
+      "uid": "ZONES:12"
     }
   ],
-  "version": 3525,
-  "updated": "2026-11-22T06:45:02.303396+00:00",
+  "version": 3526,
+  "updated": "2026-11-22T06:45:47.281151+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "TASKS": 23,
