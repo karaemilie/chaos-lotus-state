@@ -697,19 +697,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12421,
-      "label": "\u2728 Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead \ud83d\udccb\u2696\ufe0f",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12421"
-    },
-    {
-      "source": "TASKS",
       "id": 12434,
       "label": "\u2728 Drive with Evan \ud83d\ude97\ud83e\uddd1\u200d\ud83c\udf93",
       "aw": 4,
@@ -741,13 +728,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "row": 1365,
-      "sid": 1365,
-      "label": "Dr",
-      "uid": "SPIN_WHEEL:1365"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "row": 1366,
       "sid": 1366,
       "label": "Research plan for plant sales in Etsy shop",
@@ -770,15 +750,6 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Emails",
       "uid": "ZONES:65"
-    },
-    {
-      "source": "ZONES",
-      "zid": 25,
-      "floor": "Main Floor",
-      "label": "\ud83e\uddfa Garage",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Garage",
-      "uid": "ZONES:25"
     },
     {
       "source": "ZONES",
@@ -922,12 +893,34 @@
       "emoji": "\ud83e\uddfa",
       "zoneName": "Basement Bar",
       "uid": "ZONES:57"
+    },
+    {
+      "source": "ZONES",
+      "zid": 26,
+      "floor": "Main Floor",
+      "label": "\ud83e\uddfa Main Floor Living",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Main Floor Living",
+      "uid": "ZONES:26"
+    },
+    {
+      "source": "TASKS",
+      "id": 11791,
+      "label": "Call dentist about twins wisdom teeth \ud83d\udcde\ud83e\uddb7",
+      "aw": 3,
+      "pri": 3,
+      "dur": 10,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Kids",
+      "critical": false,
+      "uid": "TASKS:11791"
     }
   ],
-  "version": 3529,
-  "updated": "2026-11-23T10:13:32.930579+00:00",
+  "version": 3530,
+  "updated": "2026-11-23T10:14:14.949544+00:00",
   "buckets": {
-    "SPIN_WHEEL": 68,
+    "SPIN_WHEEL": 67,
     "TASKS": 23,
     "COURAGE": 4,
     "MAINTENANCE": 2,
