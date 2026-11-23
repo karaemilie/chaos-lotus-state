@@ -2,17 +2,49 @@
   "completions": [
     {
       "source": "ZONES",
+      "zid": 83,
+      "floor": "Personal",
+      "label": "👱‍♀️ Retainer",
+      "uid": "ZONES:83",
+      "_ts": "2026-11-23T10:12:43.907Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 74,
+      "floor": "Plant",
+      "label": "🌱 Family Room Plants",
+      "uid": "ZONES:74",
+      "_ts": "2026-11-23T10:13:08.403Z"
+    },
+    {
+      "source": "ZONES",
+      "row": 58,
+      "zid": 56,
+      "floor": "Basement",
+      "label": "🧺 Basement Bathroom",
+      "uid": "ZONES:56",
+      "_ts": "2026-11-23T10:13:14.555Z"
+    },
+    {
+      "source": "ZONES",
       "zid": 25,
       "floor": "Main Floor",
       "label": "🧺 Garage",
       "uid": "ZONES:25",
       "_ts": "2026-11-23T10:13:20.351Z"
+    },
+    {
+      "source": "TASKS",
+      "id": 12421,
+      "label": "✨ Saturday Review: Audit overdue/stale tasks & redistribute for the week ahead 📋⚖️",
+      "uid": "TASKS:12421",
+      "_ts": "2026-11-23T10:13:42.986Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-23T10:13:34.486Z",
+  "mirroredAt": "2026-11-23T10:13:43.201Z",
   "counts": {
-    "completions": 1,
+    "completions": 5,
     "adds": 0
   }
 }
