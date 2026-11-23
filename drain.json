@@ -24,12 +24,20 @@
       "label": "🧺 Basement Bathroom",
       "uid": "ZONES:56",
       "_ts": "2026-11-23T10:13:14.555Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 25,
+      "floor": "Main Floor",
+      "label": "🧺 Garage",
+      "uid": "ZONES:25",
+      "_ts": "2026-11-23T10:13:20.351Z"
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-23T10:13:14.787Z",
+  "mirroredAt": "2026-11-23T10:13:20.567Z",
   "counts": {
-    "completions": 3,
+    "completions": 4,
     "adds": 0
   }
 }
