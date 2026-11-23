@@ -1,13 +1,26 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "ZONES",
+      "zid": 83,
+      "floor": "Personal",
+      "label": "👱‍♀️ Retainer",
+      "uid": "ZONES:83",
+      "_ts": "2026-11-23T10:12:43.907Z"
+    },
+    {
+      "source": "ZONES",
+      "zid": 74,
+      "floor": "Plant",
+      "label": "🌱 Family Room Plants",
+      "uid": "ZONES:74",
+      "_ts": "2026-11-23T10:13:08.403Z"
+    }
+  ],
   "adds": [],
-  "mirroredAt": "2026-11-23T10:12:59.492Z",
+  "mirroredAt": "2026-11-23T10:13:08.631Z",
   "counts": {
-    "completions": 0,
+    "completions": 2,
     "adds": 0
-  },
-  "processedAt": "2026-11-23T10:13:00.859436+00:00",
-  "lastAutoProcessed": [
-    "ZONES:83"
-  ]
+  }
 }
