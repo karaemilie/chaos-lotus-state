@@ -1,38 +1,9 @@
 {
   "completions": [],
-  "adds": [
-    {
-      "source": "PLUS_ADD",
-      "label": "Try a sous vide recipe this week",
-      "_addedAt": "2026-11-23T01:24:55.494Z",
-      "newtask": {
-        "label": "Try a sous vide recipe this week",
-        "start": "2026-11-29",
-        "category": "Home",
-        "aw": 4,
-        "recType": "None",
-        "recValue": null
-      },
-      "_ts": "2026-11-23T01:24:55.627Z"
-    },
-    {
-      "source": "PLUS_ADD",
-      "label": "Try a hot pot recipe this week",
-      "_addedAt": "2026-11-23T01:25:20.186Z",
-      "newtask": {
-        "label": "Try a hot pot recipe this week",
-        "start": "2026-12-07",
-        "category": "Home",
-        "aw": 4,
-        "recType": "None",
-        "recValue": null
-      },
-      "_ts": "2026-11-23T01:25:20.346Z"
-    }
-  ],
-  "mirroredAt": "2026-11-23T01:25:20.593Z",
+  "adds": [],
+  "mirroredAt": "2026-11-23T01:25:55.342Z",
   "counts": {
     "completions": 0,
-    "adds": 2
+    "adds": 0
   }
 }
