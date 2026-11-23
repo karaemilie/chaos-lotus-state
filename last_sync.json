@@ -1,11 +1,11 @@
 {
-  "lastRun": "2026-11-22T06:45:50.012155+00:00",
-  "lastRunAlaska": "2026-11-21 21:45 AKST",
+  "lastRun": "2026-11-23T10:13:00.859667+00:00",
+  "lastRunAlaska": "2026-11-23 01:13 AKST",
   "processedCount": 1,
   "processed": [
     {
-      "uid": "ZONES:11",
-      "result": "\u2705 Upstairs/My Bathroom (row 12) stamped 2026-11-21"
+      "uid": "ZONES:83",
+      "result": "\u2705 Personal/Retainer (row 86) stamped 2026-11-22"
     }
   ],
   "remainingForClaude": {
@@ -13,10 +13,26 @@
     "adds": 0
   },
   "daySweep": {
-    "added": [],
-    "bumped": [],
-    "today": "2026-11-21",
-    "stampToday": "2026-11-21",
+    "added": [
+      "TASKS:12374",
+      "TASKS:12415",
+      "TASKS:12418",
+      "TASKS:12422",
+      "TASKS:12427",
+      "TASKS:12430",
+      "TASKS:12453"
+    ],
+    "bumped": [
+      "TASKS:10150",
+      "TASKS:10899",
+      "TASKS:10182",
+      "TASKS:12113",
+      "TASKS:10346",
+      "TASKS:10344",
+      "TASKS:10073"
+    ],
+    "today": "2026-11-23",
+    "stampToday": "2026-11-22",
     "ran": true
   }
 }
