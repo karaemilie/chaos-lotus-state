@@ -800,19 +800,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12415,
-      "label": "\u2728 Clip & pot new Hoya starts \ud83e\udeb4\ud83c\udf31",
-      "aw": 7,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Business",
-      "critical": false,
-      "uid": "TASKS:12415"
-    },
-    {
-      "source": "TASKS",
       "id": 12418,
       "label": "\u2728 Weekly meal planning",
       "aw": 4,
@@ -915,10 +902,23 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:11724"
+    },
+    {
+      "source": "TASKS",
+      "id": 11738,
+      "label": "Buy allergen cases for rest of mattresses \ud83d\udecf\ufe0f",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 15,
+      "ml": "Easy",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11738"
     }
   ],
-  "version": 3531,
-  "updated": "2026-11-23T10:14:51.279219+00:00",
+  "version": 3532,
+  "updated": "2026-11-23T10:15:38.137045+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "TASKS": 23,
