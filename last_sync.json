@@ -1,11 +1,27 @@
 {
-  "lastRun": "2026-11-23T10:13:00.859667+00:00",
-  "lastRunAlaska": "2026-11-23 01:13 AKST",
-  "processedCount": 1,
+  "lastRun": "2026-11-23T10:14:19.596541+00:00",
+  "lastRunAlaska": "2026-11-23 01:14 AKST",
+  "processedCount": 6,
   "processed": [
     {
       "uid": "ZONES:83",
-      "result": "\u2705 Personal/Retainer (row 86) stamped 2026-11-22"
+      "result": "\u23ed\ufe0f  Personal/Retainer (row 86) already stamped \u2014 skip"
+    },
+    {
+      "uid": "ZONES:74",
+      "result": "\u23ed\ufe0f  Plant/Family Room Plants (row 77) already stamped \u2014 skip"
+    },
+    {
+      "uid": "ZONES:56",
+      "result": "\u23ed\ufe0f  Basement/Basement Bathroom (row 58) already stamped \u2014 skip"
+    },
+    {
+      "uid": "ZONES:25",
+      "result": "\u2705 Main Floor/Garage (row 26) stamped 2026-11-22"
+    },
+    {
+      "uid": "SPIN_WHEEL:1365",
+      "result": "\u2705 SPIN deleted SID 1365 ('Dr')"
     }
   ],
   "remainingForClaude": {
@@ -13,24 +29,8 @@
     "adds": 0
   },
   "daySweep": {
-    "added": [
-      "TASKS:12374",
-      "TASKS:12415",
-      "TASKS:12418",
-      "TASKS:12422",
-      "TASKS:12427",
-      "TASKS:12430",
-      "TASKS:12453"
-    ],
-    "bumped": [
-      "TASKS:10150",
-      "TASKS:10899",
-      "TASKS:10182",
-      "TASKS:12113",
-      "TASKS:10346",
-      "TASKS:10344",
-      "TASKS:10073"
-    ],
+    "added": [],
+    "bumped": [],
     "today": "2026-11-23",
     "stampToday": "2026-11-22",
     "ran": true
