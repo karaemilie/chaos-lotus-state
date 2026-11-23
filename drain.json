@@ -2,31 +2,6 @@
   "completions": [
     {
       "source": "ZONES",
-      "zid": 83,
-      "floor": "Personal",
-      "label": "👱‍♀️ Retainer",
-      "uid": "ZONES:83",
-      "_ts": "2026-11-23T10:12:43.907Z"
-    },
-    {
-      "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "label": "🌱 Family Room Plants",
-      "uid": "ZONES:74",
-      "_ts": "2026-11-23T10:13:08.403Z"
-    },
-    {
-      "source": "ZONES",
-      "row": 58,
-      "zid": 56,
-      "floor": "Basement",
-      "label": "🧺 Basement Bathroom",
-      "uid": "ZONES:56",
-      "_ts": "2026-11-23T10:13:14.555Z"
-    },
-    {
-      "source": "ZONES",
       "zid": 25,
       "floor": "Main Floor",
       "label": "🧺 Garage",
@@ -35,9 +10,9 @@
     }
   ],
   "adds": [],
-  "mirroredAt": "2026-11-23T10:13:20.567Z",
+  "mirroredAt": "2026-11-23T10:13:34.486Z",
   "counts": {
-    "completions": 4,
+    "completions": 1,
     "adds": 0
   }
 }
