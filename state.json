@@ -289,16 +289,6 @@
       "uid": "SPIN:1082"
     },
     {
-      "source": "ZONES",
-      "zid": 56,
-      "floor": "Basement",
-      "row": 58,
-      "label": "\ud83e\uddfa Basement Bathroom",
-      "emoji": "\ud83e\uddfa",
-      "zoneName": "Basement Bathroom",
-      "uid": "ZONES:56"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1070,
       "row": 19,
@@ -801,15 +791,6 @@
     },
     {
       "source": "ZONES",
-      "zid": 74,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Family Room Plants",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Family Room Plants",
-      "uid": "ZONES:74"
-    },
-    {
-      "source": "ZONES",
       "zid": 12,
       "floor": "Upstairs",
       "label": "\ud83e\uddfa Upstairs Family Room",
@@ -923,15 +904,33 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:12453"
+    },
+    {
+      "source": "ZONES",
+      "zid": 75,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Main floor Down Low",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Main floor Down Low",
+      "uid": "ZONES:75"
+    },
+    {
+      "source": "ZONES",
+      "zid": 57,
+      "floor": "Basement",
+      "label": "\ud83e\uddfa Basement Bar",
+      "emoji": "\ud83e\uddfa",
+      "zoneName": "Basement Bar",
+      "uid": "ZONES:57"
     }
   ],
-  "version": 3528,
-  "updated": "2026-11-23T10:12:58.170014+00:00",
+  "version": 3529,
+  "updated": "2026-11-23T10:13:32.930579+00:00",
   "buckets": {
     "SPIN_WHEEL": 68,
     "TASKS": 23,
     "COURAGE": 4,
-    "ZONES": 9,
-    "MAINTENANCE": 2
+    "MAINTENANCE": 2,
+    "ZONES": 9
   }
 }
