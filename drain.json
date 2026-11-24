@@ -1,5 +1,13 @@
 {
-  "completions": [],
+  "completions": [
+    {
+      "source": "SPIN_WHEEL",
+      "row": 66,
+      "label": "Change my vibrating tone",
+      "uid": "SPIN:1364",
+      "_ts": "2026-11-24T10:11:10.488Z"
+    }
+  ],
   "adds": [
     {
       "source": "PLUS_ADD",
@@ -14,9 +22,9 @@
       "_ts": "2026-11-24T10:10:54.301Z"
     }
   ],
-  "mirroredAt": "2026-11-24T10:10:54.540Z",
+  "mirroredAt": "2026-11-24T10:11:10.737Z",
   "counts": {
-    "completions": 0,
+    "completions": 1,
     "adds": 1
   }
 }
