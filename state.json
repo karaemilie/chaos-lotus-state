@@ -872,19 +872,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11247,
-      "label": "Paper flower with burning leaves \ud83c\udf38\ud83d\udd25",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:11247"
-    },
-    {
-      "source": "TASKS",
       "id": 11821,
       "label": "Deal with recall on steam cleaner \ud83e\uddfc\u26a0\ufe0f \ud83c\udfaf First step: find the recall notice/model number, look up the remedy",
       "aw": 3,
@@ -921,10 +908,23 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11763"
+    },
+    {
+      "source": "TASKS",
+      "id": 11765,
+      "label": "Search for velvet bar stools \ud83e\ude91",
+      "aw": 3,
+      "pri": 3,
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11765"
     }
   ],
-  "version": 3538,
-  "updated": "2026-11-24T10:09:57.799169+00:00",
+  "version": 3539,
+  "updated": "2026-11-24T10:11:18.730544+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "COURAGE": 4,
