@@ -661,15 +661,6 @@
       "uid": "MAINTENANCE:142"
     },
     {
-      "source": "ZONES",
-      "zid": 73,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Bedroom",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Bedroom",
-      "uid": "ZONES:73"
-    },
-    {
       "source": "TASKS",
       "id": 12190,
       "label": "\u2728 Deep clean cat litter \ud83d\udc31\ud83e\uddfc",
@@ -915,10 +906,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11738"
+    },
+    {
+      "source": "ZONES",
+      "zid": 76,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook A",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook A",
+      "uid": "ZONES:76"
     }
   ],
-  "version": 3532,
-  "updated": "2026-11-23T10:15:38.137045+00:00",
+  "version": 3533,
+  "updated": "2026-11-24T00:07:21.276475+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "TASKS": 23,
