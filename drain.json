@@ -1,13 +1,22 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-24T10:10:00.978Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Paper flower with burning leaves 🌸🔥",
+      "_addedAt": "2026-11-24T10:10:54.164Z",
+      "reschedule": {
+        "uid": "TASKS:11247",
+        "id": 11247,
+        "label": "Paper flower with burning leaves 🌸🔥",
+        "start": "2027-01-25"
+      },
+      "_ts": "2026-11-24T10:10:54.301Z"
+    }
+  ],
+  "mirroredAt": "2026-11-24T10:10:54.540Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-24T10:10:02.326980+00:00",
-  "lastAutoProcessed": [
-    "TASKS:12430"
-  ]
+    "adds": 1
+  }
 }
