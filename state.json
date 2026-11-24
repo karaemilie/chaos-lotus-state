@@ -558,20 +558,6 @@
       "uid": "SPIN:1165"
     },
     {
-      "source": "TASKS",
-      "id": 12430,
-      "row": 408,
-      "label": "\u2728 Create Kahn assignments for Lincoln & Evan",
-      "aw": 3,
-      "pri": "Medium",
-      "dur": 15,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Education",
-      "critical": false,
-      "uid": "TASKS:12430"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1309,
       "row": 49,
@@ -922,10 +908,23 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:10888"
+    },
+    {
+      "source": "TASKS",
+      "id": 11763,
+      "label": "Research light to mimic sun-bleach for table leaf \ud83d\udca1\ud83e\udeb5",
+      "aw": 3,
+      "pri": 3,
+      "dur": 20,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11763"
     }
   ],
-  "version": 3537,
-  "updated": "2026-11-24T10:09:16.116108+00:00",
+  "version": 3538,
+  "updated": "2026-11-24T10:09:57.799169+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "COURAGE": 4,
