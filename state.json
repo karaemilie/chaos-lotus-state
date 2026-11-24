@@ -646,13 +646,6 @@
     },
     {
       "source": "SPIN_WHEEL",
-      "sid": 1364,
-      "row": 66,
-      "label": "Change my vibrating tone",
-      "uid": "SPIN:1364"
-    },
-    {
-      "source": "SPIN_WHEEL",
       "sid": 1357,
       "row": 62,
       "label": "Jake new shoes",
@@ -923,10 +916,10 @@
       "uid": "TASKS:11765"
     }
   ],
-  "version": 3539,
-  "updated": "2026-11-24T10:11:18.730544+00:00",
+  "version": 3540,
+  "updated": "2026-11-24T10:12:05.543404+00:00",
   "buckets": {
-    "SPIN_WHEEL": 67,
+    "SPIN_WHEEL": 66,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 8,
