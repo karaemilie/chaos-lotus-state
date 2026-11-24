@@ -96,20 +96,6 @@
     },
     {
       "source": "TASKS",
-      "id": 12418,
-      "row": 398,
-      "label": "\u2728 Weekly meal planning",
-      "aw": 4,
-      "pri": "High",
-      "dur": 30,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:12418"
-    },
-    {
-      "source": "TASKS",
       "id": 12453,
       "row": 430,
       "label": "\u2728 Recharge my twinkle stars \u2728\ud83d\udd0b",
@@ -206,20 +192,6 @@
       "row": 12,
       "label": "Research local pediatric endocrinologists",
       "uid": "SPIN:1030"
-    },
-    {
-      "source": "TASKS",
-      "id": 12427,
-      "row": 405,
-      "label": "\u2728 Clear the upstairs trashes",
-      "aw": 4,
-      "pri": null,
-      "dur": 10,
-      "ml": "Easy",
-      "proj": null,
-      "cat": "Home",
-      "critical": true,
-      "uid": "TASKS:12427"
     },
     {
       "source": "SPIN_WHEEL",
@@ -476,20 +448,6 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Polish the granite",
       "uid": "MAINTENANCE:141"
-    },
-    {
-      "source": "TASKS",
-      "id": 12337,
-      "row": 351,
-      "label": "\u2728 Clean makeup brushes \ud83d\udd8c\ufe0f",
-      "aw": 6,
-      "pri": null,
-      "dur": null,
-      "ml": null,
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:12337"
     },
     {
       "source": "SPIN_WHEEL",
@@ -925,10 +883,49 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12431"
+    },
+    {
+      "source": "TASKS",
+      "id": 11247,
+      "label": "Paper flower with burning leaves \ud83c\udf38\ud83d\udd25",
+      "aw": 6,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:11247"
+    },
+    {
+      "source": "TASKS",
+      "id": 11821,
+      "label": "Deal with recall on steam cleaner \ud83e\uddfc\u26a0\ufe0f \ud83c\udfaf First step: find the recall notice/model number, look up the remedy",
+      "aw": 3,
+      "pri": 3,
+      "dur": 20,
+      "ml": "Low",
+      "proj": null,
+      "cat": "Home",
+      "critical": false,
+      "uid": "TASKS:11821"
+    },
+    {
+      "source": "TASKS",
+      "id": 10888,
+      "label": "Back up Dropbox, Evernote, Google Drive & Google Photos \ud83d\udcdd",
+      "aw": 5,
+      "pri": "Soon",
+      "dur": 60,
+      "ml": "Medium",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:10888"
     }
   ],
-  "version": 3536,
-  "updated": "2026-11-24T10:08:26.136245+00:00",
+  "version": 3537,
+  "updated": "2026-11-24T10:09:16.116108+00:00",
   "buckets": {
     "SPIN_WHEEL": 67,
     "COURAGE": 4,
