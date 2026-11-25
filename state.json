@@ -645,16 +645,6 @@
       "uid": "SPIN:1065"
     },
     {
-      "source": "ZONES",
-      "zid": 75,
-      "floor": "Plant",
-      "row": 78,
-      "label": "\ud83c\udf31 Main floor Down Low",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Main floor Down Low",
-      "uid": "ZONES:75"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1363,
       "row": 65,
@@ -900,10 +890,19 @@
       "cat": "Home",
       "critical": false,
       "uid": "TASKS:11765"
+    },
+    {
+      "source": "ZONES",
+      "zid": 77,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Corner Nook B",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Corner Nook B",
+      "uid": "ZONES:77"
     }
   ],
-  "version": 3542,
-  "updated": "2026-11-24T20:59:42.982033+00:00",
+  "version": 3543,
+  "updated": "2026-11-25T03:26:46.313810+00:00",
   "buckets": {
     "SPIN_WHEEL": 64,
     "COURAGE": 4,
