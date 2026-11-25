@@ -761,15 +761,6 @@
       "uid": "SPIN:1157"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 142,
-      "row": 151,
-      "label": "\ud83c\udfe0 Clean family room mirror",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Clean family room mirror",
-      "uid": "MAINTENANCE:142"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1093,
       "row": 23,
@@ -899,10 +890,18 @@
       "emoji": "\ud83c\udf31",
       "zoneName": "Corner Nook B",
       "uid": "ZONES:77"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 451,
+      "label": "\ud83c\udfe0 Check charge on portable jump starter & tire pump in Subaru \ud83d\udd0b\ud83d\ude97",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Check charge on portable jump starter & tire pump in Subaru \ud83d\udd0b\ud83d\ude97",
+      "uid": "MAINTENANCE:451"
     }
   ],
-  "version": 3543,
-  "updated": "2026-11-25T03:26:46.313810+00:00",
+  "version": 3544,
+  "updated": "2026-11-25T03:27:40.100839+00:00",
   "buckets": {
     "SPIN_WHEEL": 64,
     "COURAGE": 4,
