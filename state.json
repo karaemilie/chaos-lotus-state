@@ -434,15 +434,6 @@
       "uid": "SPIN:1366"
     },
     {
-      "source": "MAINTENANCE",
-      "mid": 141,
-      "row": 150,
-      "label": "\ud83c\udfe0 Polish the granite",
-      "emoji": "\ud83c\udfe0",
-      "taskName": "Polish the granite",
-      "uid": "MAINTENANCE:141"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1350,
       "row": 58,
@@ -847,15 +838,6 @@
       "uid": "TASKS:11765"
     },
     {
-      "source": "ZONES",
-      "zid": 77,
-      "floor": "Plant",
-      "label": "\ud83c\udf31 Corner Nook B",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook B",
-      "uid": "ZONES:77"
-    },
-    {
       "source": "MAINTENANCE",
       "mid": 451,
       "label": "\ud83c\udfe0 Check charge on portable jump starter & tire pump in Subaru \ud83d\udd0b\ud83d\ude97",
@@ -904,10 +886,27 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12446"
+    },
+    {
+      "source": "ZONES",
+      "zid": 80,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Hallway",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Hallway",
+      "uid": "ZONES:80"
+    },
+    {
+      "source": "MAINTENANCE",
+      "mid": 462,
+      "label": "\ud83c\udfe0 Wash couch cushions \ud83d\udecb\ufe0f\ud83e\uddfc",
+      "emoji": "\ud83c\udfe0",
+      "taskName": "Wash couch cushions \ud83d\udecb\ufe0f\ud83e\uddfc",
+      "uid": "MAINTENANCE:462"
     }
   ],
-  "version": 3546,
-  "updated": "2026-11-26T06:24:26.627711+00:00",
+  "version": 3547,
+  "updated": "2026-11-26T06:25:20.594484+00:00",
   "buckets": {
     "SPIN_WHEEL": 65,
     "COURAGE": 4,
