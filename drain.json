@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-25T03:27:41.773Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Ask Dad to forward Subaru email",
+      "_addedAt": "2026-11-26T01:20:36.026Z",
+      "_ts": "2026-11-26T01:20:36.212Z"
+    }
+  ],
+  "mirroredAt": "2026-11-26T01:20:36.481Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-25T03:27:43.058080+00:00",
-  "lastAutoProcessed": [
-    "MAINTENANCE:142"
-  ]
+    "adds": 1
+  }
 }
