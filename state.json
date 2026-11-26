@@ -723,16 +723,6 @@
       "uid": "TASKS:12414"
     },
     {
-      "source": "ZONES",
-      "zid": 76,
-      "floor": "Plant",
-      "row": 79,
-      "label": "\ud83c\udf31 Corner Nook A",
-      "emoji": "\ud83c\udf31",
-      "zoneName": "Corner Nook A",
-      "uid": "ZONES:76"
-    },
-    {
       "source": "TASKS",
       "id": 12190,
       "row": 283,
@@ -832,32 +822,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11821,
-      "label": "Deal with recall on steam cleaner \ud83e\uddfc\u26a0\ufe0f \ud83c\udfaf First step: find the recall notice/model number, look up the remedy",
-      "aw": 3,
-      "pri": 3,
-      "dur": 20,
-      "ml": "Low",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11821"
-    },
-    {
-      "source": "TASKS",
-      "id": 10888,
-      "label": "Back up Dropbox, Evernote, Google Drive & Google Photos \ud83d\udcdd",
-      "aw": 5,
-      "pri": "Soon",
-      "dur": 60,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Personal",
-      "critical": false,
-      "uid": "TASKS:10888"
-    },
-    {
-      "source": "TASKS",
       "id": 11763,
       "label": "Research light to mimic sun-bleach for table leaf \ud83d\udca1\ud83e\udeb5",
       "aw": 3,
@@ -905,10 +869,45 @@
       "sid": 1368,
       "label": "Ask Dad to forward Subaru email",
       "uid": "SPIN_WHEEL:1368"
+    },
+    {
+      "source": "ZONES",
+      "zid": 79,
+      "floor": "Plant",
+      "label": "\ud83c\udf31 Kitchen Up High",
+      "emoji": "\ud83c\udf31",
+      "zoneName": "Kitchen Up High",
+      "uid": "ZONES:79"
+    },
+    {
+      "source": "TASKS",
+      "id": 12445,
+      "label": "\u2728 Refill vitamin boxes for Lincoln & Evan \ud83d\udc8a",
+      "aw": 5,
+      "pri": null,
+      "dur": null,
+      "ml": null,
+      "proj": null,
+      "cat": "Family/Education",
+      "critical": false,
+      "uid": "TASKS:12445"
+    },
+    {
+      "source": "TASKS",
+      "id": 12446,
+      "label": "\u2728 New habit for week? Or new stacked habit? Assess!",
+      "aw": 4,
+      "pri": "Soon",
+      "dur": 5,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12446"
     }
   ],
-  "version": 3545,
-  "updated": "2026-11-26T01:20:52.041505+00:00",
+  "version": 3546,
+  "updated": "2026-11-26T06:24:26.627711+00:00",
   "buckets": {
     "SPIN_WHEEL": 65,
     "COURAGE": 4,
