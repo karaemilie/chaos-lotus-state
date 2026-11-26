@@ -898,12 +898,19 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Check charge on portable jump starter & tire pump in Subaru \ud83d\udd0b\ud83d\ude97",
       "uid": "MAINTENANCE:451"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1368,
+      "sid": 1368,
+      "label": "Ask Dad to forward Subaru email",
+      "uid": "SPIN_WHEEL:1368"
     }
   ],
-  "version": 3544,
-  "updated": "2026-11-25T03:27:40.100839+00:00",
+  "version": 3545,
+  "updated": "2026-11-26T01:20:52.041505+00:00",
   "buckets": {
-    "SPIN_WHEEL": 64,
+    "SPIN_WHEEL": 65,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 8,
