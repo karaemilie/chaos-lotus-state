@@ -1,15 +1,11 @@
 {
-  "lastRun": "2026-11-26T06:25:23.540135+00:00",
-  "lastRunAlaska": "2026-11-25 21:25 AKST",
-  "processedCount": 2,
+  "lastRun": "2026-11-27T00:29:44.735436+00:00",
+  "lastRunAlaska": "2026-11-26 15:29 AKST",
+  "processedCount": 1,
   "processed": [
     {
-      "uid": "ZONES:77",
-      "result": "\u2705 Plant/Corner Nook B (row 80) stamped 2026-11-25"
-    },
-    {
-      "uid": "MAINTENANCE:141",
-      "result": "\u2705 MAINTENANCE 'Polish the granite' (MID 141) stamped 2026-11-25"
+      "uid": "ZONES:65",
+      "result": "\u2705 Digital/Emails (row 67) stamped 2026-11-26"
     }
   ],
   "remainingForClaude": {
@@ -19,8 +15,8 @@
   "daySweep": {
     "added": [],
     "bumped": [],
-    "today": "2026-11-25",
-    "stampToday": "2026-11-25",
+    "today": "2026-11-26",
+    "stampToday": "2026-11-26",
     "ran": true
   }
 }
