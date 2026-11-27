@@ -901,12 +901,19 @@
       "emoji": "\ud83d\udcbb",
       "zoneName": "Quicken",
       "uid": "ZONES:67"
+    },
+    {
+      "source": "SPIN_WHEEL",
+      "row": 1369,
+      "sid": 1369,
+      "label": "Transfer $ 1483 from Wells Fargo for Morpho",
+      "uid": "SPIN_WHEEL:1369"
     }
   ],
-  "version": 3549,
-  "updated": "2026-11-27T00:29:42.140786+00:00",
+  "version": 3550,
+  "updated": "2026-11-27T09:18:54.844397+00:00",
   "buckets": {
-    "SPIN_WHEEL": 65,
+    "SPIN_WHEEL": 66,
     "COURAGE": 4,
     "TASKS": 23,
     "ZONES": 8,
