@@ -1,13 +1,16 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-27T00:29:43.498Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Transfer $ 1483 from Wells Fargo for Morpho",
+      "_addedAt": "2026-11-27T09:18:39.839Z",
+      "_ts": "2026-11-27T09:18:40.027Z"
+    }
+  ],
+  "mirroredAt": "2026-11-27T09:18:40.248Z",
   "counts": {
     "completions": 0,
-    "adds": 0
-  },
-  "processedAt": "2026-11-27T00:29:44.735214+00:00",
-  "lastAutoProcessed": [
-    "ZONES:65"
-  ]
+    "adds": 1
+  }
 }
