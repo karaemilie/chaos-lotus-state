@@ -347,16 +347,6 @@
       "uid": "SPIN:1254"
     },
     {
-      "source": "ZONES",
-      "zid": 65,
-      "floor": "Digital",
-      "row": 67,
-      "label": "\ud83d\udcbb Emails",
-      "emoji": "\ud83d\udcbb",
-      "zoneName": "Emails",
-      "uid": "ZONES:65"
-    },
-    {
       "source": "SPIN_WHEEL",
       "sid": 1069,
       "row": 17,
@@ -902,10 +892,19 @@
       "cat": "Personal",
       "critical": false,
       "uid": "TASKS:12448"
+    },
+    {
+      "source": "ZONES",
+      "zid": 67,
+      "floor": "Digital",
+      "label": "\ud83d\udcbb Quicken",
+      "emoji": "\ud83d\udcbb",
+      "zoneName": "Quicken",
+      "uid": "ZONES:67"
     }
   ],
-  "version": 3548,
-  "updated": "2026-11-27T00:29:05.204109+00:00",
+  "version": 3549,
+  "updated": "2026-11-27T00:29:42.140786+00:00",
   "buckets": {
     "SPIN_WHEEL": 65,
     "COURAGE": 4,
