@@ -690,16 +690,6 @@
       "uid": "SPIN:1179"
     },
     {
-      "source": "ZONES",
-      "zid": 85,
-      "floor": "Personal",
-      "row": 88,
-      "label": "\ud83d\udc71\u200d\u2640\ufe0f Face Mask",
-      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
-      "zoneName": "Face Mask",
-      "uid": "ZONES:85"
-    },
-    {
       "source": "TASKS",
       "id": 12414,
       "row": 395,
@@ -813,19 +803,6 @@
     },
     {
       "source": "TASKS",
-      "id": 11763,
-      "label": "Research light to mimic sun-bleach for table leaf \ud83d\udca1\ud83e\udeb5",
-      "aw": 3,
-      "pri": 3,
-      "dur": 20,
-      "ml": "Medium",
-      "proj": null,
-      "cat": "Home",
-      "critical": false,
-      "uid": "TASKS:11763"
-    },
-    {
-      "source": "TASKS",
       "id": 11765,
       "label": "Search for velvet bar stools \ud83e\ude91",
       "aw": 3,
@@ -903,10 +880,32 @@
       "emoji": "\ud83c\udfe0",
       "taskName": "Wash couch cushions \ud83d\udecb\ufe0f\ud83e\uddfc",
       "uid": "MAINTENANCE:462"
+    },
+    {
+      "source": "ZONES",
+      "zid": 86,
+      "floor": "Personal",
+      "label": "\ud83d\udc71\u200d\u2640\ufe0f Epilate Legs",
+      "emoji": "\ud83d\udc71\u200d\u2640\ufe0f",
+      "zoneName": "Epilate Legs",
+      "uid": "ZONES:86"
+    },
+    {
+      "source": "TASKS",
+      "id": 12448,
+      "label": "\u2728 Use Claude budget on new projects or app feature development \ud83e\udde0\u23f3 \ud83d\udcdd",
+      "aw": 4,
+      "pri": "High",
+      "dur": 30,
+      "ml": "Easy Win",
+      "proj": null,
+      "cat": "Personal",
+      "critical": false,
+      "uid": "TASKS:12448"
     }
   ],
-  "version": 3547,
-  "updated": "2026-11-26T06:25:20.594484+00:00",
+  "version": 3548,
+  "updated": "2026-11-27T00:29:05.204109+00:00",
   "buckets": {
     "SPIN_WHEEL": 65,
     "COURAGE": 4,
