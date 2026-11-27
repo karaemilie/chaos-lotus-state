@@ -1,9 +1,38 @@
 {
   "completions": [],
-  "adds": [],
-  "mirroredAt": "2026-11-27T09:46:33.372Z",
+  "adds": [
+    {
+      "source": "PLUS_ADD",
+      "label": "Graphing calcs for L&E",
+      "_addedAt": "2026-11-27T09:46:20.052Z",
+      "newtask": {
+        "label": "Graphing calcs for L&E",
+        "start": "2026-12-04",
+        "category": "Home",
+        "aw": 4,
+        "recType": "None",
+        "recValue": null
+      },
+      "_ts": "2026-11-27T09:46:20.184Z"
+    },
+    {
+      "source": "PLUS_ADD",
+      "label": "Order paint pen to touch up Subaru door",
+      "_addedAt": "2026-11-27T09:47:12.824Z",
+      "newtask": {
+        "label": "Order paint pen to touch up Subaru door",
+        "start": "2027-03-27",
+        "category": "Home",
+        "aw": 4,
+        "recType": "None",
+        "recValue": null
+      },
+      "_ts": "2026-11-27T09:47:12.960Z"
+    }
+  ],
+  "mirroredAt": "2026-11-27T09:47:13.201Z",
   "counts": {
     "completions": 0,
-    "adds": 0
+    "adds": 2
   }
 }
